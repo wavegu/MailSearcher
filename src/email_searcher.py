@@ -1,10 +1,12 @@
+# encoding: utf-8
+
 import os
+import time
 import urllib2
-from google_helper import GoogleHelper
-from my_html_parser import MailParser
 
-
-RESULT_DIR_PATH = '../result/'
+from src.search_helper.search_helper import *
+from src.search_helper.web_helper import WebHelper
+from src.search_helper.my_html_parser import MailParser
 
 
 class EmailSearcher:
@@ -13,37 +15,61 @@ class EmailSearcher:
         self.names = []
         self.mailParser = MailParser()
 
-    def run(self, filename):
+    def run(self, filename, search_helper):
+        # 得到待搜索的名字列表
         self.names = open(filename).readlines()
+
         for name in self.names:
             name = name.replace('\n', '')
-            dir_path = RESULT_DIR_PATH + name + '/'
-            if not os.path.exists(dir_path):
-                os.mkdir(dir_path)
-
-            content_file = open(dir_path + 'content.txt', 'w')
-            search_page_cache_file = open(dir_path + 'search_page.html', 'w')
+            print '******', name, '*******'
+            personal_path = search_helper.__RESULT_DIR_PATH__ + name + '/'
+            # 建立搜索引擎文件夹
+            if not os.path.exists(search_helper.__RESULT_DIR_PATH__):
+                os.mkdir(search_helper.__RESULT_DIR_PATH__)
+            # 建立每个人的文件夹
+            if not os.path.exists(personal_path):
+                os.mkdir(personal_path)
+            # 建立个人文件夹/结果页面文件夹
+            personal_pages_path = personal_path + 'pages/'
+            if not os.path.exists(personal_pages_path):
+                os.mkdir(personal_pages_path)
+            # 打开文件
+            content_file = open(personal_path + 'content.txt', 'w')
+            search_page_cache_file = open(personal_path + 'search_page.html', 'w')
             try:
-                search_page_content = GoogleHelper.get_google_search_page_by_name(name + ' email')
+                # 获取搜索主页，并保存在个人文件夹下
+                search_page_content = search_helper.get_search_page_by_name(name + ' email')
+                if search_page_content is None:
+                    print '[Error]@EmailSearcher.run(): search_page_content is None'
+                    continue
                 search_page_cache_file.write(search_page_content)
 
-                title_url_dict = GoogleHelper.get_google_items_from_search_page(search_page_content)
+                # 获取搜索结果列表
+                title_url_dict = search_helper.get_items_from_search_page(search_page_content)
+                # 对每条搜索结果：保存html内容并分析
                 for title, url in title_url_dict:
-                    print url
                     try:
-                        page_content = GoogleHelper.get_page_content_from_url(url)
+                        # 获取页面html
+                        page_content = WebHelper.get_page_content_from_url(url)
                         if page_content is None:
                             continue
-                        self.mailParser.feed(page_content)
-                        email_list = list(set(self.mailParser.get_email_list()))
-                        for email in email_list:
-                            content_file.write(email + '\n')
+                        # 保存页面html
+                        page_file = open(personal_pages_path + title + '.html', 'w')
+                        page_file.write(page_content)
+
+                        # # 分析抽取email列表
+                        # self.mailParser.feed(page_content)
+                        # email_list = list(set(self.mailParser.get_email_list()))
+                        # # 保存email列表
+                        # for email in email_list:
+                        #     content_file.write(email + '\n')
                     except urllib2.HTTPError:
-                        print '[HTTP_error]', url
+                        print '[Error]@EmailSearcher.run():', url
                         continue
                     finally:
                         pass
             finally:
+                time.sleep(2)
                 content_file.close()
                 search_page_cache_file.close()
                 print name, 'OK...'
@@ -51,4 +77,4 @@ class EmailSearcher:
 
 if __name__ == '__main__':
     searcher = EmailSearcher()
-    searcher.run('../resource/names.list')
+    searcher.run('../resource/names.list', GoogleHelper)

@@ -1,0 +1,240 @@
+﻿<HTML lang=en xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<TITLE>Welcome to Yifei Ma's Homepage</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=content-type><LINK 
+rel=stylesheet type=text/css 
+href="http://www.cs.cmu.edu/~yifeim/resources/style.css" media=screen>
+<META name=GENERATOR content="MSHTML 8.00.7600.16700"></HEAD>
+<BODY>
+<DIV id=mainContainer>
+<DIV id=header>
+<DIV class=box>
+<H2>YIFEI MA</H2>
+<P>Ph.D. Student, 
+  Machine Learning Department, Office GHC 8005 <br>
+  6105 Gates Building, 
+  5000 Forbes Avenue <br>
+  Pittsburgh, PA  15213<br>
+  Email: yifeim [at] cs.cmu.edu <br>
+Phone: 1-412-330-0633</P>
+</DIV>
+</DIV>
+<DIV id=navigation>
+  <DIV class=navi><A href="#short_bio">Short Bio</A></DIV>
+<DIV class=navi><A href="#education">Education</A></DIV>
+<DIV class=navi><A href="#research">Research</A></DIV>
+<DIV class=navi><A href="#publication">Publication</A></DIV>
+<DIV class=navi><A href="#projects">Projects</A></DIV>
+<DIV class=navi><A href="#courses">Courses</A></DIV>
+<DIV class=navi><A href="#awards">Awards</A></DIV>
+<DIV  style="width:75"class=navi><A href="#tests">Tests</A></DIV>
+<DIV class=navi><A href="#experience">Experience</A></DIV>
+<DIV class=navi><A href="#activities">Activities</A></DIV>
+</DIV>
+<DIV id=content>
+<DIV class=box>
+  <H5><A name=short_bio></A></H5>
+  <H2>Short Bio</H2>
+<P>Yifei is a new Ph.D. student in Machine Learning Department in Carnegie Mellon University. Yifei's research interests center around  applying machine learning and optimization techniques to real-life challenges and seeing how they can be improved.  Examples include vision-based intelligent vehicles, locomotion control for  robots, and etc. He has research experiences in theoretical computer science,  dynamic control systems and pattern recognition algorithms. </P>
+<p>Yifei has a solid background in math and  programming as well as a wide scope in electrical engineering. He maintains the  1st overall GPA (93.4 on a 100 scale) among 170 students in department of  Automation by the time of graduate school application. In addition, he received a 94% percentile  ranking in the GRE Math Subject test whose examinee body is primarily  math-major students. He was one of the 11 students who fulfilled a dual major in Mathematics in a class of 3000+ students. </p>
+<p>Department of Automation in Tsinghua  University intends to educate engineers for research and application of control  solutions to manufacturing industries and robotics. It also focuses on  artificial intelligence, optimization, networking, operations scheduling, and  information integration, since they represent new tools or challenges in the  fast changing workspace and manufacturing methods. </p>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<A name=education></A>
+<H2>Education</H2>
+<BR>
+<H3>B.S. in Automation (EECS), Dual B.S. in  Mathematics, Tsinghua University, 8/2007-7/2011  </H3>
+<UL>
+  <LI>
+    1st GPA in Automation by the time of graduate school application.
+      <LI>GRE Math Subject Test (whose testee body is math major students): 94%.
+      <LI>Totally 11 students dual majored in Mathematics in a class of 3000+ students
+      
+</UL>
+<H3>  Exchange Study, Georgia Inst. of Technology, 8/2009-12/2009</H3>
+<UL>
+  <LI>Course-based study program for one semester.
+  </UL>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<A name=research></A>
+<H2>Research Experience </H2>
+<BR>
+<H3>3/2011-6/2011 (Theoretical Computer Science) Primal-Dual Approximation Algorithm and Its Application </H3>
+<H3>Independent, thesis project, supervised by Associate Prof. Zhenbo Wang, Mathematics Dept., Tsinghua University.</H3>
+<UL>
+  <LI>Designed unified framework and implementation of primal-dual approximation algorithms<br>
+    which bounds NP-hard problems in P time.
+  </UL>
+<H3>7/2010-6/2011 (Pattern Recognition) Robust Classification under Least Median Criteria </H3>
+<H3>Independent, thesis project, supervised by Associate Prof. Li Li, Inst. of Systems Eng., Tsinghua University.</H3>
+<UL>
+  <LI>Developed a new robust classification method (Median Loss-SVM) via modified Least Median Regression.
+  <LI>Performed literature survey on Large Margin Classifiers.
+  <LI>Derived a Lagrangian dual representation of Median Loss-SVM via Karush-Kuhn-Tucker conditions.
+  <LI>Compared Median Loss-SVM with recent robust-SVM methods on nonlinear benchmark data sets.    
+  </UL>
+<H3>1/2010-6/2010 (Control Theory)  Stability Analysis of Continuous Switching Cone-wise Linear Systems</H3>
+<H3>Independent, supervised by Prof. Shuning Wang, Inst. of Systems Eng., Tsinghua University. </H3>
+<UL>
+  <LI>Discovered a set of solvable smoothly connected differential equations with special features.  
+  <LI>Designed an iterative local search algorithm, inspired by Markov Chain Monte Carlo I learnt in a graduate AI course.      
+  <LI>The above solutions represented new conditions for analysis with minor extensions of recent  works.
+</UL>
+<H3><A name=publication></A></H3>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<H2>Publication</H2><BR>
+<UL>
+  <LI>Yifei Ma, Li Li, Xiaolin Huang, Shuning Wang, Robust Support Vector Machine Using Least Median Loss Penalty (to be presented at the World Congress of the International Federation of Automatic Control 2011)
+    [<a href="http://www.cs.cmu.edu/~yifeim/resources/IFAC11_3467_FI.pdf">submitted paper for print</a>]<BR>
+  </UL>
+<H5>COPYRIGHT: Please contact the authors for copyright information.</H5>
+<A name=projects></A>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+
+<H2>Course Projects</H2>
+<H3>&nbsp;</H3>
+<H3>9/2010-10/2010 (AI and GUI) Graphic Computer Game with AI Agent Design</H3>
+<H3>In group of 2 students, supervised by Professor Changshui Zhang, Dept. of Automation, Tsinghua University </H3>
+<UL>
+  <LI>Developed a new multi-player game search tree based on a 2-player game tree learnt in class.
+</UL>
+<H3>8/2009-12/2009 (Embedded Systems) Product Design of Embedded Application with Serial Peripheral Interface</H3>
+<H3>Independent, supervised by Professor John Peatman, Dept. of ECE, Georgia Institute of Technology</H3>
+<UL>
+  <LI>Designed a device to measure the initial height of a free fall by timing the duration of weightlessness.  
+  <LI>Developed voltage supply, physical connection and microcontroller program to integrate an accelerometer.
+  </UL>
+<H3>5/2009-6/2009 (Software Engineering) Object-Oriented Application in Java</H3>
+<H3>Independent, supervised by Professor Li Zheng, Dept. of Computer Science, Tsinghua University  </H3>
+<UL>
+  <LI>Developed a vocabulary building program that features custom-set forgetting curve specified for every word.  
+  <LI>Greatly improved my efficiency in vocabulary preparation for GRE test.
+  </UL>
+<H3>2/2009-6/2009 (Data Structure) k-d Search Tree for Dense Two-Dimensional Data</H3>
+<H3>Independent, supervised by Professor Junhui Deng, Dept. of Computer Science, Tsinghua University </H3>
+<UL>
+  <LI>Developed a k-d tree with modification on tree depth limit and an additional box shrink strategy for scalability.  
+  <LI>Ranked top in an in-class competition for algorithm runtime.      
+  </UL>
+<H3><A name=courses></A></H3>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<H2>Courses</H2>
+<H2>&nbsp;</H2>
+<TABLE width="786" 
+border=1 cellPadding=2 cellSpacing=2 
+style="TEXT-ALIGN: left; WIDTH: 786px; HEIGHT: 270px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+  <TBODY>
+  <TR>
+    <TD width="383"><SMALL>Differential Geometry </SMALL></TD>
+    <TD><SMALL>Probability and Statistics </SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Probability Theory (1) </SMALL></TD>
+    <TD><SMALL>Mathematical Modeling </SMALL></TD>
+  </TR>
+  <TR>
+    <TD width="383"><SMALL>Mathematical Analysis </SMALL></TD>
+    <TD><SMALL>Measures and Integrals </SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Advanced Algebra and Geometry </SMALL></TD>
+    <TD><SMALL>Mathematical Statistics</SMALL> </TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Differential Equations (1) </SMALL></TD>
+    <TD><SMALL>Applied Stochastic Processes </SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Abstract Algebra </SMALL></TD>
+    <TD>&nbsp;</TD>
+  </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD><SMALL>Data Structure</SMALL> </TD>
+  </TR>
+  <TR>
+    <TD><SMALL>C++ Programming </SMALL></TD>
+    <TD><SMALL>Numerical Analysis </SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>JAVA and Object Oriented Programming </SMALL></TD>
+    <TD><SMALL>Operations Research </SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Computer Communications </SMALL></TD>
+    <TD><small>Intelligent Optimization Algorithms </small></TD>
+  </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Automatic Control Theory </SMALL></TD>
+    <TD><SMALL>Introduction to Artificial Intelligence</SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Introduction to Digital Signal Processing</SMALL> </TD>
+    <TD><SMALL>Fundamental Pattern Recognition </SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Introduction to Systems Engineering </SMALL></TD>
+    <TD><SMALL>Fundamentals of System Identification </SMALL></TD>
+  </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+  </TR><TR>
+    <TD><SMALL>General Physics</SMALL></TD>
+    <TD><SMALL>Embedded Micro-controller Design </SMALL></TD>
+  </TR><TR>
+    <TD><SMALL>Digital Electronics (with FPGA) </SMALL></TD>
+    <TD><SMALL>Power Electronics </SMALL></TD>
+  </TR>
+  <TR>
+    <TD><SMALL>Fundamentals of Analog Electronics </SMALL></TD>
+    <TD><SMALL>Electromechanical and Electromagnetic Energy Conversion</SMALL> </TD>
+  </TR></TBODY></TABLE>
+<BR>
+
+<p><A name=awards></A>
+</p>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<H2>Honors and Awards</H2>
+<p>
+2007-2010, 1st Level Academic Scholarship every year in Tsinghua University<br>
+  10/2009, 31/700 in IEEEXtreme 24-Hour Programming Competition (team leader)<br>
+  10/2006, 1st prize in National High School Physics Competition<br>
+  03/2006, Qualified for the American Invitational Mathematics Examination (no award for foreigners)<br>
+  10/2004, 1st prize in National High School Math Competition (over 2 years younger than most of the competitors)</p>
+<H3><A name=tests></A></H3>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<H2>Standard Tests </H2>
+<p>  10/2010 TOEFL 114/120 (speaking 26/30, reading 30/30, listening 30/30, writing 28/30.)<br>
+  12/2009 GRE verbal 580/800 (82%), quantitative 800/800 (94%), writing 4.5/6 (67%).<br>
+  11/2010 GRE math subject test 870/990 (94%).</p>
+<A name=experience></A>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<H2>Volunteer Experiences </H2>
+<BR>
+<UL>
+  <LI>Joined student volunteer group for over 10 years.  
+  <LI>Served as a regular campus guide for visitors in Tsinghua University.  
+  <LI>Volunteered for the 2008 Beijing Olympic Games (in medal ceremonies as a national flag raiser).
+  </UL>
+<A name=activities id="activities"></A>
+<HR style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<H2>STUDENT ACTIVITIES AND HOBBIES</H2>
+<ul>
+  <li>    Editor for Tsinghua Student Psychology Club Journal</li>
+  <li>Member of Campus Tour Guide Association</li>
+  <li>Member of Tsinghua Honor Guard (to display and escort the national flag on ceremonial occasions)</li>
+  <li>Volunteer teaching assistant for 30 students on Fundamentals of Analog Electronics and Data Structure</li>
+  <li>Classical Chinese Philosophy like the Analects (Confucius) and Tao Te Qing (Lao-tzu).</li>
+  <li>Piano, swimming, and jogging.<BR>
+</li>
+</ul>
+<H6><img src="http://www.cs.cmu.edu/~yifeim/resources/photo.jpg" alt="Photo of me." name="Photo"
+ width="360" height="240" id="Photo"  
+></H6>
+<H6>Last Modified: Sept/2/2011</H6>
+</DIV></DIV>
+</DIV>
+</BODY></HTML>
