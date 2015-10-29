@@ -5,6 +5,11 @@ import re
 import os
 from HTMLParser import HTMLParser
 
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 
 class SearchPageHTMLParser(HTMLParser):
 
@@ -26,12 +31,12 @@ class SearchPageHTMLParser(HTMLParser):
 class GooglePageHTMLParser(SearchPageHTMLParser):
 
     def handle_starttag(self, tag, attrs):
-        if tag == "li":
+        if tag == "h3":
             if len(attrs) == 0:
                 pass
             else:
                 for (variable, value) in attrs:
-                    if variable == "class" and value == "g":
+                    if variable == "class" and value == "r":
                         self.isInItem = True
                         break
         if self.isInItem and tag == 'a':
@@ -41,7 +46,9 @@ class GooglePageHTMLParser(SearchPageHTMLParser):
                 for (variable, value) in attrs:
                     if variable == 'href':
                         url = str(value).replace('/url?q=', '')
-                        url = url[:url.find('&sa=')]
+                        pos = url.find('&sa=')
+                        if pos >= 0:
+                            url = url[:pos]
                         self.urls.append(url)
                         break
 
@@ -86,22 +93,31 @@ class MailParser(HTMLParser):
         self.emails = []
 
     def handle_data(self, data):
-        data = str(data).lower()
-        # print data
-        pattern = re.compile('([a-zA-Z0-9]+)(@| at )(([a-zA-Z0-9]+)( ?\. ?| dot ))+(com|edu|cn)')
-        match = pattern.finditer(data)
-        for m in match:
-            print m.group()
-            self.emails.append(m.group())
-        self.emails = list(set(self.emails))
+        try:
+            data = str(data).lower()
+        except Exception as e:
+            print e
+            print data
+            return []
+        if data.find('@') < 0 and data.find(' at ') < 0:
+            return []
+
+        rough_pattern = re.compile('[a-z0-9-\. ]+(@| at )(([a-z0-9\-]+)(\.| dot | \. ))+([a-z]+)')
+        rough_match = rough_pattern.finditer(data)
+        for rm in rough_match:
+            pattern = re.compile('(([a-z0-9-]+)(\.| dot | \. )?)+(@| at )(([a-z0-9\-]+)(\.| dot | \. ))+([a-z]+)')
+            match = pattern.finditer(rm.group())
+            for m in match:
+                self.emails.append(m.group())
+        self.emails = self.emails
         return self.emails
 
     def get_email_list(self):
-        return list(set(self.emails))
+        return self.emails
 
 
-def parse_mails():
-    result_path = '../bing_result/'
+def parse_mails(engine_name):
+    result_path = '../' + engine_name + '_result/'
     for person in os.listdir(result_path):
         print person
         pages_path = result_path + person + '/pages/'
@@ -109,13 +125,15 @@ def parse_mails():
             continue
         mail_list = []
         for page in os.listdir(pages_path):
-            print page
             page_content = open(pages_path + page).read()
             mail_parser = MailParser()
+
             mail_parser.feed(page_content)
             mail_list += mail_parser.get_email_list()
+
         output_file = open(result_path + person + '.mailist', 'w')
-        mail_list = set(list(mail_list))
+        # mail_list = set(list(mail_list))
+        mail_list = sorted(mail_list)
         for mail in mail_list:
             output_file.write(mail + '\n')
         output_file.close()
@@ -123,6 +141,6 @@ def parse_mails():
 
 if __name__ == '__main__':
     # parser = MailParser()
-    # data = '&nbsp; jietang at tsinghua . edu . cn'
+    # data = 'sakira@biken.osaka-u.ac.jp'
     # parser.handle_data(data)
-    parse_mails()
+    parse_mails('google')

@@ -35,17 +35,20 @@ class EmailSearcher:
                 os.mkdir(personal_pages_path)
             # 打开文件
             content_file = open(personal_path + 'content.txt', 'w')
-            search_page_cache_file = open(personal_path + 'search_page.html', 'w')
+            # search_page_cache_file = open(personal_path + 'search_page.html', 'w')
             try:
-                # 获取搜索主页，并保存在个人文件夹下
-                search_page_content = search_helper.get_search_page_by_name(name + ' email')
-                if search_page_content is None:
-                    print '[Error]@EmailSearcher.run(): search_page_content is None'
-                    continue
-                search_page_cache_file.write(search_page_content)
+                # # 获取搜索主页，并保存在个人文件夹下
+                # search_page_content = search_helper.get_search_page_by_name(name + ' email')
+                # if search_page_content is None:
+                #     print '[Error]@EmailSearcher.run(): search_page_content is None'
+                #     continue
+                # search_page_cache_file.write(search_page_content)
+                # search_page_cache_file.close()
 
                 # 获取搜索结果列表
+                search_page_content = open(personal_path + 'search_page.html').read()
                 title_url_dict = search_helper.get_items_from_search_page(search_page_content)
+                print title_url_dict
                 # 对每条搜索结果：保存html内容并分析
                 for title, url in title_url_dict:
                     try:
@@ -68,13 +71,15 @@ class EmailSearcher:
                         continue
                     finally:
                         pass
+            except Exception as e:
+                print e
             finally:
                 time.sleep(2)
                 content_file.close()
-                search_page_cache_file.close()
+                # search_page_cache_file.close()
                 print name, 'OK...'
 
 
 if __name__ == '__main__':
     searcher = EmailSearcher()
-    searcher.run('../resource/names.list', GoogleHelper)
+    searcher.run('../resource/names.list', GoogleHelper())
