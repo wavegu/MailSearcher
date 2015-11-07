@@ -1,0 +1,902 @@
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Eclass: 30240184x: Data Structures • 数据结构, TsinghuaX</title>
+  <meta name="description" content="Learn the basics of data structures and methods to design algorithms and analyze their performance. About this Course This course is presented in Mandarin.
+Data structures play a central role in computer science and are the cornerstones of efficient algorithms. Knowledge in this area has been at the kernel of related curriculums. This course aims at exploring the principles and methods in the design and implementation of various data structures and providing students with main tools and skills for..." />
+  <meta name="keywords" content="Курс,онлайн-курс,университет,MOOC,Компьютерные,науки,30240184x:,Data,Structures,•,数据结构,TsinghuaX" />
+  <link href="/assets/application-f40a0de2034fbfe7cf73631b8f1fe69b.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="/assets/application-2a1af3c68dc4fb0f753f2cd2fb171f58.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="QuyE27ADKqBk56hZCVc5fe5aM1OzVA4er5YHbh/yHNY=" name="csrf-token" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href='http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic,latin-ext' rel='stylesheet' type='text/css'>
+  <meta property="og:title" content="30240184x: Data Structures • 数据结构, TsinghuaX" />
+  <meta property="og:description" content="Learn the basics of data structures and methods to design algorithms and analyze their performance. About this Course This course is presented in Mandarin.
+Data structures play a central role in computer science and are the cornerstones of efficient algorithms. Knowledge in this area has been at the kernel of related curriculums. This course aims at exploring the principles and methods in the design and implementation of various data structures and providing students with main tools and skills for..." />
+  <meta property="og:type" content="university" />
+  <meta property="og:url" content="http://www.eclass.cc/courses/edx_tsinghuax_30240184x_data_structures" />
+  <meta property="og:image" content="https://www.edx.org/sites/default/files/course/image/tile/images_course_image-262x136.jpg" />
+  <meta property="og:site_name" content="Eclass: all about online learning" />
+  <meta property="fb:admins" content="1240183493" />
+  <script src="http://vkontakte.ru/js/api/openapi.js" type="text/javascript" charset="windows-1251"></script>
+  <link rel="alternate" hreflang="ru" href="http://ru.eclass.cc/courses/edx_tsinghuax_30240184x_data_structures" />
+  <link rel="alternate" hreflang="en" href="http://en.eclass.cc/courses/edx_tsinghuax_30240184x_data_structures" />
+  <link rel="alternate" hreflang="zh" href="http://zh.eclass.cc/courses/edx_tsinghuax_30240184x_data_structures" />
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=179462348910801";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="navbar navbar-inverse">
+  <div class="navbar-inner">
+    <div class="container", style="width:95%">
+
+    <a href="/" class="brand">eclass</a>
+
+    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </a>
+
+    <div class="nav-collapse">
+    <ul class="nav">
+      <li><a href="/about">О проекте</a></li>
+    </ul>
+
+    <ul class="nav">
+      <li><a href="/courses">Каталог курсов</a></li>
+    </ul>
+
+    <ul class="nav">
+      <li><a href="/courses?discounts=1" id="highlight">Скидки</a></li>
+    </ul>
+
+    <ul class="nav">
+      <li><a href="/favorites">Избранное</a></li>
+    </ul>
+
+    <ul class="nav">
+      <li class="dropdown">
+        <a class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">
+        Подборки
+        <b class="caret"></b>
+        </a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+          <li><a href="/courselists">Все подборки</a></li>
+          <li><a href="/courselists/my">Мои подборки</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <ul class="nav pull-right">
+        <li><a href="/sign_in">Войти</a></li>
+        <span class="navbar-text"><a href="/users/auth/twitter" title="Twitter"><img alt="Twitter" height="32" src="/assets/twitter_32-81710fffe333b83bf0e78d16e537b84a.png" width="32" /></a></span>
+        <span class="navbar-text"><a href="/users/auth/vkontakte" title="Vkontakte"><img alt="Vkontakte" height="32" src="/assets/vkontakte_32-75986dc4b73ec3823b5bf6c2cf67bf2c.png" width="32" /></a></span>
+        <span class="navbar-text"><a href="/users/auth/facebook" title="Facebook"><img alt="Facebook" height="32" src="/assets/facebook_32-bf5f175745c83614f56237a2bc5d3954.png" width="32" /></a></span>
+    </ul>
+    <ul class="nav pull-right">
+       <li class="dropdown">         
+         <a class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">
+         <img alt="Ru" class="flag" src="/assets/flags/ru-d4d5ded36502fb70ed84290ca86fb344.png" />Русский
+         <b class="caret"></b>
+         </a>
+         <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+             <li><a href="http://ru.eclass.cc/courses/edx_tsinghuax_30240184x_data_structures"><img alt="Ru" class="flag" src="/assets/flags/ru-d4d5ded36502fb70ed84290ca86fb344.png" />Русский</a></li>
+             <li><a href="http://en.eclass.cc/courses/edx_tsinghuax_30240184x_data_structures"><img alt="Gb" class="flag" src="/assets/flags/gb-9873a5bbc0564dba9269e46ce9089893.png" />English</a></li>
+             <li><a href="http://zh.eclass.cc/courses/edx_tsinghuax_30240184x_data_structures"><img alt="Cn" class="flag" src="/assets/flags/cn-0a26ba65d02614c27acac35d21f140d5.png" />简体中文</a></li>
+         </ul>
+      </li>
+    </ul>
+    </div>
+
+    </div>
+  </div>
+</div>
+<script>
+function change_locale(src) {
+  var locale = src.value;
+  var url = "/set_locale?locale=" + locale;
+  window.location.replace(url);
+};
+</script>
+
+
+
+<div class="container-fluid">
+</div>
+ 
+
+<div class='row-fluid'>
+<div class='span1'></div>
+<div class='span8'>
+    <div class="searchbox">
+      <form accept-charset="UTF-8" action="/courses" id="search" method="get"><div style="margin:0;padding:0;display:inline"></div>
+        <div class="row-fluid">
+          <div class="span12 input-append">
+            <input autocomplete="off" class="main-search-field span10 ajax-typeahead" id="search" name="search" placeholder="Курсы на какие темы вы хотите найти?" type="text" />
+            <button class="btn" type="submit">Найти</button>
+          </div>
+        </div>
+        <div align=right>
+          <a href="#" id="expand">Расширенный поиск</a>
+        </div>
+        <div class="row-fluid" id="collapsible">
+          <div class="row-fluid">
+            <div class="span2" align=right>
+              Категория
+            </div>
+            <div class="span4">
+              <select class="span12" id="cat_select" name="category"><option value="">Любая</option><option value="3">Бизнес и менеджмент</option>
+<option value="2">Биология и науки о жизни</option>
+<option value="9">Гуманитарные науки</option>
+<option value="16">Иностранные языки и культуры</option>
+<option value="1">Искусство</option>
+<option value="5">Компьютерные науки</option>
+<option value="15">Математика и статистика</option>
+<option value="12">Медицина и здоровье</option>
+<option value="14">Общественные науки</option>
+<option value="11">Право</option>
+<option value="17">Сделай сам</option>
+<option value="8">Технические науки</option>
+<option value="13">Физика</option>
+<option value="4">Химия</option>
+<option value="6">Экономика и финансы</option>
+<option value="7">Энергетика и науки о Земле</option></select>
+            </div>
+            <div class="span2" align=right>
+              Сертификат
+            </div>
+            <div class="span4">
+              <select class="span12" id="cert_select" name="certificate"><option value="">Не важно</option><option value="yes">Есть</option>
+<option value="no">Нет</option></select>
+            </div>
+          </div>
+
+          <div class="row-fluid">
+            <div class="span2" align=right>
+              Язык
+            </div>
+            <div class="span4">
+              <select class="span12" id="lang_select" name="language"><option value="">Любой</option><option value="az">Азербайджанский</option>
+<option value="en">Английский</option>
+<option value="ar">Арабский</option>
+<option value="af">Африкаанс</option>
+<option value="bg">Болгарский</option>
+<option value="hu">Венгерский</option>
+<option value="vi">Вьетнамский</option>
+<option value="gl">Галисийский</option>
+<option value="el">Греческий</option>
+<option value="da">Датский</option>
+<option value="he">Иврит</option>
+<option value="id">Индонезийский</option>
+<option value="es">Испанский</option>
+<option value="it">Итальянский</option>
+<option value="ca">Каталонский</option>
+<option value="zh">Китайский</option>
+<option value="ko">Корейский</option>
+<option value="lv">Латвийский</option>
+<option value="ms">Малайский</option>
+<option value="de">Немецкий</option>
+<option value="nl">Нидерландский</option>
+<option value="nb">Норвежский</option>
+<option value="fa">Персидский</option>
+<option value="pl">Польский</option>
+<option value="pt">Португальский</option>
+<option value="ru">Русский</option>
+<option value="sk">Словакский</option>
+<option value="sw">Суахили</option>
+<option value="tr">Турецкий</option>
+<option value="uz">Узбекский</option>
+<option value="ur">Урду</option>
+<option value="fi">Финский</option>
+<option value="fr">Французский</option>
+<option value="hi">Хинди</option>
+<option value="hr">Хорватский</option>
+<option value="sv">Шведский</option>
+<option value="et">Эстонский</option>
+<option value="ja">Японский</option></select>
+            </div>
+            <div class="span2" align=right>
+              Стоимость
+            </div>
+            <div class="span4">
+              <select class="span12" id="price_select" name="price"><option value="">Не важно</option>
+<option value="free">Бесплатный</option>
+<option value="paid">Платный</option></select>
+            </div>
+          </div>
+
+          <div class="row-fluid">
+            <div class="span2" align=right>
+              Источник
+            </div>
+            <div class="span4">
+              <select class="span12" id="src_select" name="provider"><option value="">Любой</option><option value="26">Acodemy</option>
+<option value="49">Amlab</option>
+<option value="30">Biotech U</option>
+<option value="5">Canvas Network</option>
+<option value="37">Code School</option>
+<option value="25">CodeMonk</option>
+<option value="22">Complexity Explorer</option>
+<option value="15">Computer Science Center</option>
+<option value="1">Coursera</option>
+<option value="33">Craftsy</option>
+<option value="44">DataCamp</option>
+<option value="36">ed2go</option>
+<option value="45">Edraak</option>
+<option value="3">edX</option>
+<option value="34">First Business MOOC</option>
+<option value="24">FutureLearn</option>
+<option value="14">Google</option>
+<option value="10">Harvard Extension School</option>
+<option value="20">Hexlet</option>
+<option value="4">Intuit</option>
+<option value="27">Iversity</option>
+<option value="39">Lingvister</option>
+<option value="38">Lynda</option>
+<option value="17">Marist College</option>
+<option value="13">Matasano</option>
+<option value="7">MIT OpenCourseWare</option>
+<option value="41">MongoDB University</option>
+<option value="40">Netology</option>
+<option value="19">NovoED (Venture-lab)</option>
+<option value="50">Nvidia</option>
+<option value="46">O&#x27;Reilly</option>
+<option value="9">Open University of Israel</option>
+<option value="6">Open Yale courses</option>
+<option value="31">Open2Study</option>
+<option value="32">OpenLearning</option>
+<option value="23">Postnauka</option>
+<option value="29">Stanford</option>
+<option value="42">Stepic</option>
+<option value="2">Udacity</option>
+<option value="11">Udemy</option>
+<option value="21">Universarium</option>
+<option value="16">University of Tasmania</option>
+<option value="18">USERcycle</option>
+<option value="28">xuetangX</option>
+<option value="48">Y Combinator</option>
+<option value="12">Yandex</option>
+<option value="43">ИТМО</option>
+<option value="35">МФТИ</option>
+<option value="47">Стратоплан</option></select>
+            </div>
+
+            <div class="span2" align=right>
+              <label for="fmt">Формат</label>
+            </div>
+            <div class="span4">
+              <select class="span12" id="format_select" name="fmt"><option value="">Не важно</option>
+<option value="mooc">MOOC</option>
+<option value="video">Видеолекции</option>
+<option value="audio">Аудиолекции</option>
+<option value="email">Email-курс</option></select>
+            </div>
+          </div>
+
+        </div>
+
+</form>    </div>
+
+<script>
+function course_descr(c) {
+   var descr = [];
+   if (c.authors) { descr.push(c.authors); };
+   if (c.organisation) { descr.push(c.organisation); };
+   return descr.join("; ");
+};
+
+$(document).ready(function() {
+ $('#expand').click(function(){
+    $('#collapsible').slideToggle('slow');
+ });
+ var courses = {};
+ var courseLabels = [];
+ $('.ajax-typeahead#search').typeahead({
+     source : function(query, process) {
+        return $.get('/courses/simple_search.json', {
+           q : query
+        }, function(res) {
+           courses = {};
+           courseLabels = [];
+           $.each(res.data, function(i,n) {
+               var label = n.id;
+               courseLabels.push(label);
+               courses[label] = {
+                 url:  n.url,
+                 title: n.title,
+                 descr: n.descr,
+                 photo: n.photo,
+                 authors: n.authors,
+                 organisation: n.organisation,
+               };
+           });
+           return process(courseLabels);
+        });
+     },
+     minLength : 2,
+     items : 16,
+     select : function(event, ui) {
+         $('.ajax-typeahead#search').val(ui.item.value);
+         $('form#search').submit();
+     },
+     matcher: function () { return true; },
+     updater: function (item) {
+         document.location.href = courses[item].url;
+     },
+     highlighter: function(item) {
+         var c = courses[item];
+         var itm = ''
+            + "<div class='typeahead_wrapper'>"
+            + "<span class='typeahead_labels'>"
+            + "<span class='typeahead_primary'>" + c.title + "</span>"
+            + "<span class='typeahead_secondary'>" + course_descr(c) + "</span>"
+            + "</span>"
+            + "<span class='typeahead_photo_wrapper'><img class='typeahead_photo' src='" + c.photo + "' title='" + c.title + "'/></span>"
+            + "</div>";
+         return itm;
+     },
+ });
+});
+</script>
+
+</div>
+</div>
+<br>
+<div class='row-fluid'>
+<div class='socbuttons span1'>
+<div class='share42init hidden-phone' data-icons-file='/assets/icons-dd1315daef43c34154e97c996470c4a5.png' data-margin='10' data-path='http://eclass.cc/' data-top1='160' data-top2='20'></div>
+</div>
+<div class='course_box span8'>
+<div class='row-fluid main_content'>
+<div class='span8'>
+<h1 class='title'>30240184x: Data Structures • 数据结构</h1>
+<h2 class='org'>TsinghuaX</h2>
+<div class='fav block' id='edx_tsinghuax_30240184x_data_structures'>
+<a href="/toggle_favorites?course_permalink=edx_tsinghuax_30240184x_data_structures&amp;course_url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Ftsinghuax%2Ftsinghuax-30240184x-data-structures-shu-3416&amp;list_mode=0" class="btn disabled favloggedout" data-method="post" data-remote="true" data-toggle="tooltip" id="fav_button" rel="nofollow" title="Войдите под своей учётной записью, чтобы добавить курс в избранное"><i class="icon-star"></i>&nbsp;Добавить в избранное</a>
+
+</div>
+<div class='description'><p>Learn the basics of data structures and methods to design algorithms and analyze their performance.</p>     <h3>About this Course</h3>    <p>This course is presented in Mandarin.</p>
+
+
+<p>Data structures play a central role in computer science and are the cornerstones of efficient algorithms. Knowledge in this area has been at the kernel of related curriculums. This course aims at exploring the principles and methods in the design and implementation of various data structures and providing students with main tools and skills for algorithm design and performance analysis. Topics covered by this course range from fundamental data structures to recent research results.</p>
+
+<p>数据结构是计算机科学的关键内容，也是构建高效算法的必要基础。其覆盖的知识，在相关专业的课程体系中始终处于核心位置。本课程旨在围绕各类数据结构的设计与实现，揭示其中的规律原理与方法技巧；同时针对算法设计及其性能分析，使学生了解并掌握主要的套路与手法。讲授的主题从基础的数据结构，一直延伸至新近的研究成果。</p>     
+  
+  
+            
+      <h3>Course Staff</h3>    
+  
+  
+  
+      
+          <ul>          <li>  
+          
+
+
+  
+  	  
+  
+
+
+    
+          
+
+
+  
+  	<h4>Junhui Deng</h4>  	
+<p>Dr. Junhui DENG is an associate professor of Computer Science and Technology at Tsinghua University. He received his B.S., M.S. and Ph.D. degrees in Computer Science &amp; Technology from Tsinghua University in 1993, 1995 and 1997 respectively. He has an experience of teaching both Data Structures and Computational Geometry for more than 15 years.</p>
+<p>邓俊辉，清华大学计算机系副教授。1993、1995和1997年分别于清华大学计算机系获学士、硕士和博士学位，1997年起在清华大学任教，此后常年讲授“数据结构”和“计算几何”。1998~2000年任IOI中国代表队总教练。</p>
+  
+  
+
+
+  </li>
+      </ul>    
+  
+  
+  
+  
+  
+  
+
+  
+</div>
+</div>
+<div class='span4'>
+<div><a href="https://www.edx.org/course/tsinghuax/tsinghuax-30240184x-data-structures-shu-3416" target="_blank"><img alt="Images_course_image-262x136" class="img-rounded fixed_size_course" src="https://www.edx.org/sites/default/files/course/image/tile/images_course_image-262x136.jpg" width="320" /></a></div>
+<div>&nbsp;</div>
+<div align='center' class='hidden-phone'>
+<a href="https://www.edx.org/course/tsinghuax/tsinghuax-30240184x-data-structures-shu-3416" class="btn btn-primary btn-large" target="_blank">Перейти на страницу курса</a>
+</div>
+<div align='left' class='hidden-tablet hidden-desktop'>
+<a href="https://www.edx.org/course/tsinghuax/tsinghuax-30240184x-data-structures-shu-3416" class="btn btn-primary btn-large" target="_blank">Перейти на страницу курса</a>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div class='row-fluid cats block'>
+<div class='span8'>
+<span class='label label-info cat'>
+<a href="/courses?category=5">Компьютерные науки</a>
+</span>
+</div>
+</div>
+<div class='row-fluid time'>
+<div class='sessions span8'>
+<div class='bold'>
+Сессии:
+</div>
+<ul>
+<li class='session'>16 сентября 2014, 16 недель</li>
+<li class='session'>16 сентября 2014, 16 недель</li>
+</ul>
+</div>
+</div>
+<div class='row-fluid meta block'>
+<div class='properties span6'>
+<div class='bold'>
+Характеристики онлайн курса:
+</div>
+<ul>
+<li>
+<span>Бесплатный: </span>
+<span><img src="/assets/check_y.gif" /></span>
+</li>
+<li>
+<span>Платный: </span>
+<span><img src="/assets/check_x.gif" /></span>
+</li>
+<li>
+<span>Сертификат: </span>
+<span><img src="/assets/check_y.gif" /></span>
+</li>
+<li>
+<span>MOOC: </span>
+<span><img src="/assets/check_y.gif" /></span>
+</li>
+<li>
+<span>Видеолекции: </span>
+<span><img src="/assets/check_y.gif" /></span>
+</li>
+<li>
+<span>Аудиолекции: </span>
+<span><img src="/assets/check_x.gif" /></span>
+</li>
+<li>
+<span>Email-курс: </span>
+<span><img src="/assets/check_x.gif" /></span>
+</li>
+<li>
+<span>Язык: </span>
+<span>Английский</span>
+<span><img alt="Gb" class="flag" src="/assets/flags/gb-9873a5bbc0564dba9269e46ce9089893.png" /></span>
+</li>
+</ul>
+</div>
+</div>
+<div class='row-fluid links block'>
+<a href="https://www.edx.org/course/tsinghuax/tsinghuax-30240184x-data-structures-shu-3416" class="btn btn-primary btn-large" target="_blank">Перейти на страницу курса</a>
+</div>
+<div class='row-fluid reviews block'>
+<h3>Отзывы</h3>
+<a name='reviews'></a>
+<div id='review_list'></div>
+<div id='review'>Пока никто не написал отзыв по этому курсу. Хотите быть первым?</div>
+<br>
+<p><a href="/sign_in">Зарегистрируйтесь</a>, чтобы оставить отзыв</p>
+<div class='row-fluid'></div>
+<div align='middle' class='span12'>
+
+</div>
+</div>
+</div>
+<div class='span3'>
+
+<div class="adsense">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- course_card_2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3995439185285193"
+     data-ad-slot="7403355466"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class='row-fluid section_block'>
+<div class='span11 section'>
+<div class='section_header'>Ещё курсы на эту тему:</div>
+<div class='row-fluid'>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/udemy_inexplicableuniverse" target="_blank"><img alt="85290_51db_15" class="medium-box" src="https://dujk9xa5fr1wz.cloudfront.net/course/480x270/85290_51db_15.jpg" title="The Inexplicable Universe: Unsolved Mysteries by The Great Courses" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/udemy_inexplicableuniverse" class="title" target="_blank">The Inexplicable Universe: Unsolved Mysteries by The Great Courses</a></span>
+<br>
+<span class='descr'> Discover all of the universes unique mysteries with expert Neil deGrasse Tyson...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/harvard_extension_school_data_science" target="_blank"><img alt="Extensionflag" class="medium-box" src="http://upload.wikimedia.org/wikipedia/en/d/d6/Extensionflag.jpg" title="Data Science" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/harvard_extension_school_data_science" class="title" target="_blank">Data Science</a></span>
+<br>
+<span class='descr'>
+	  	    This course examines learning from data in order to gain useful predictions...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_mitx_6_00_1_x_introduction_to_computer_science_and_programming_using_python" target="_blank"><img alt="6.00x-listing-banner_1" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/tile/6.00x-listing-banner_1.jpg" title="6.00.1-x: Introduction to Computer Science and Programming Using Python" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_mitx_6_00_1_x_introduction_to_computer_science_and_programming_using_python" class="title" target="_blank">6.00.1-x: Introduction to Computer Science and Programming Using Python</a></span>
+<br>
+<span class='descr'>6.00.1x is an introduction to computer science as a tool to solve real-world...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/mit_opencourseware_6_851_advanced_data_structures_spring_2010" target="_blank"><img alt="6-851s10" class="medium-box" src="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2010/6-851s10.jpg" title="Advanced Data Structures" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/mit_opencourseware_6_851_advanced_data_structures_spring_2010" class="title" target="_blank">Advanced Data Structures</a></span>
+<br>
+<span class='descr'>Data structures play a central role in modern computer science. You interact...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/udemy_introduction_to_data_structures_algorithms_in_java" target="_blank"><img alt="81094_d4ff_9" class="medium-box" src="https://dujk9xa5fr1wz.cloudfront.net/course/480x270/81094_d4ff_9.jpg" title="Introduction to Data Structures &amp; Algorithms in Java by Raghavendra Dikshit" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/udemy_introduction_to_data_structures_algorithms_in_java" class="title" target="_blank">Introduction to Data Structures &amp; Algorithms in Java by Raghavendra Dikshit</a></span>
+<br>
+<span class='descr'> Designed to help understand the fundamentals of DS &amp;amp; Algorithms really...</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+<div class='row-fluid section_block'>
+<div class='span11 section'>
+<div class='section_header'>Ещё из рубрики «Компьютерные науки»:</div>
+<div class='row-fluid'>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_mitx_introduction_to_computational_thinking_and_data_science" target="_blank"><img alt="6.00.2x_computational_thinking_homepage378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/6.00.2x_computational_thinking_homepage378x225.jpg" title="Introduction to Computational Thinking and Data Science" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_mitx_introduction_to_computational_thinking_and_data_science" class="title" target="_blank">Introduction to Computational Thinking and Data Science</a></span>
+<br>
+<span class='descr'>6.00.2x is an introduction to using computation to understand real-world phenomena...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_ubcx_systematic_program_design_part_3_abstraction_search_and_graphs" target="_blank"><img alt="Spd3x-course_image-378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/spd3x-course_image-378x225.png" title="Systematic Program Design- Part 3: Abstraction, Search and Graphs" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_ubcx_systematic_program_design_part_3_abstraction_search_and_graphs" class="title" target="_blank">Systematic Program Design- Part 3: Abstraction, Search and Graphs</a></span>
+<br>
+<span class='descr'>Adding abstraction and generative recursion to the design tools makes complex...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/coursera_crypto_cryptography_i" target="_blank"><img alt="Small-icon.hover" class="medium-box" src="https://d1z850dzhxs7de.cloudfront.net/topics/crypto/small-icon.hover.png" title="Cryptography I" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/coursera_crypto_cryptography_i" class="title" target="_blank">Cryptography I</a></span>
+<br>
+<span class='descr'>Learn about the inner workings of cryptographic primitives and how to apply...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_uc_berkeleyx_the_beauty_and_joy_of_computing_cs_principles_part_2" target="_blank"><img alt="Bjc.2x-378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/bjc.2x-378x225.png" title="The Beauty and Joy of Computing (CS Principles), Part 2" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_uc_berkeleyx_the_beauty_and_joy_of_computing_cs_principles_part_2" class="title" target="_blank">The Beauty and Joy of Computing (CS Principles), Part 2</a></span>
+<br>
+<span class='descr'>A computer science principles course intended to broaden participation in computing...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_hkustx_a_system_view_of_communications_from_signals_to_packets_part_2" target="_blank"><img alt="Hkustx-elec1200.2x-378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/hkustx-elec1200.2x-378x225.png" title="A System View of Communications: From Signals to Packets (Part 2)" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_hkustx_a_system_view_of_communications_from_signals_to_packets_part_2" class="title" target="_blank">A System View of Communications: From Signals to Packets (Part 2)</a></span>
+<br>
+<span class='descr'>Explore the tradeoffs in designing communication systems like mobile phones...</span>
+</span>
+</div>
+</div>
+<div class='row-fluid'>
+<div class='section_item'>
+<a href="/courses?category=5">Всё онлайн курсы из этой рубрики</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class='row-fluid section_block'>
+<div class='span11 section'>
+<div class='section_header'>Ещё от edX:</div>
+<div class='row-fluid'>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_ricex_fundamentals_of_immunology_part_1" target="_blank"><img alt="Immunology_378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/immunology_378x225.jpg" title="Fundamentals of Immunology, Part 1" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_ricex_fundamentals_of_immunology_part_1" class="title" target="_blank">Fundamentals of Immunology, Part 1</a></span>
+<br>
+<span class='descr'>Learn about your body's defenses against disease: how it can identify threats...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_mitx_introduction_to_computational_thinking_and_data_science" target="_blank"><img alt="6.00.2x_computational_thinking_homepage378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/6.00.2x_computational_thinking_homepage378x225.jpg" title="Introduction to Computational Thinking and Data Science" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_mitx_introduction_to_computational_thinking_and_data_science" class="title" target="_blank">Introduction to Computational Thinking and Data Science</a></span>
+<br>
+<span class='descr'>6.00.2x is an introduction to using computation to understand real-world phenomena...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_ubcx_innovation_and_problem_solving_through_creativity" target="_blank"><img alt="Ubcxmarketing5502x_promo378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/ubcxmarketing5502x_promo378x225.jpg" title="Innovation and Problem Solving through Creativity" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_ubcx_innovation_and_problem_solving_through_creativity" class="title" target="_blank">Innovation and Problem Solving through Creativity</a></span>
+<br>
+<span class='descr'>Innovation and Problem Solving through Creativity </span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_ubcx_systematic_program_design_part_3_abstraction_search_and_graphs" target="_blank"><img alt="Spd3x-course_image-378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/spd3x-course_image-378x225.png" title="Systematic Program Design- Part 3: Abstraction, Search and Graphs" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_ubcx_systematic_program_design_part_3_abstraction_search_and_graphs" class="title" target="_blank">Systematic Program Design- Part 3: Abstraction, Search and Graphs</a></span>
+<br>
+<span class='descr'>Adding abstraction and generative recursion to the design tools makes complex...</span>
+</span>
+</div>
+<div class='section_item'>
+<span class='courselist_pic'>
+<a href="/courses/edx_delftx_circular_economy_an_introduction" target="_blank"><img alt="Circularx-circular_economy-378x225" class="medium-box" src="https://www.edx.org/sites/default/files/course/image/promoted/circularx-circular_economy-378x225.png" title="Circular Economy: An Introduction" />
+</a></span>
+<span class='courselist_txt'>
+<span><a href="/courses/edx_delftx_circular_economy_an_introduction" class="title" target="_blank">Circular Economy: An Introduction</a></span>
+<br>
+<span class='descr'>Learn how to contribute to a sustainable economic system by implementing novel...</span>
+</span>
+</div>
+</div>
+<div class='row-fluid'>
+<div class='section_item'>
+<a href="/courses?provider=3">Все онлайн курсы от edX</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<script>
+  $(document).ready(function() {
+   $('#loading-indicator').hide();
+   $(document)  
+   .ajaxStart(function() {
+     $('#loading-indicator').show();
+     $('#submit_review').prop('disabled', 'disabled');
+   })
+   .ajaxStop(function() {
+     $('#loading-indicator').hide();
+     $('#submit_review').prop('disabled', false);
+   });
+  });
+</script>
+<script>
+  $(document).ready(function() {
+   $('#fav_button').tooltip({'placement': 'right', 'title': 'Войдите под своей учётной записью, чтобы добавить курс в избранное'});
+  });
+</script>
+<script>
+  function activate_reviews(editor_mode_in_addition_to_normal) {
+   var path   = '/assets';
+   var number = 5;
+   var half   = true;
+   var hints  = ['плохо', 'так себе', 'средне', 'хорошо', 'замечательно'];
+   var notrated = 'без оценки';
+   if (editor_mode_in_addition_to_normal) {
+    $('#star').raty({
+     path: path,
+     number: number,
+     half: half,
+     scoreName: 'stars',
+     hints: hints,
+     noRatedMsg: notrated,
+    });
+   }
+   $('.review-star').raty({
+     readOnly: true,
+     path: path,
+     number: number,
+     half: half,
+     hints: hints,
+     noRatedMsg: notrated,
+     score: function() {
+       return $(this).attr('data-score');
+     },
+     space: false,
+   });
+   $('.delete_review').bind('ajax:success', function(evt, data, status, xhr){
+     $(this).parents('.review').fadeOut('slow');
+    });
+  };
+  $(document).ready(function() {
+   $('#review_form')
+    .bind('ajax:error', function(){
+      alert("Error!");
+    });
+   activate_reviews(true);
+  });
+</script>
+
+<div class='row-fluid'>
+<div class='span10'>
+<div class="modal hide fade" id="newcourselist">
+  <div class="modal-header" id="modal_header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h3>Название подборки</h3>
+  </div>
+  <div class="modal-body" id="modal_body">
+    <input type="text" id="listname" placeholder="Введите название вашей новой подборки" class="span12">
+    <textarea id="description" class="span12" rows="5"></textarea>
+    <label class="checkbox">
+      <input type="checkbox" id="is_private">Скрытая
+    </label>
+    <input type="hidden" id="listname_permalink" name="listname_permalink">
+    <input type="hidden" id="listname_url" name="listname_url">
+  </div>
+  <div class="modal-footer">
+    <a href="#" class="btn" onclick="hide_modal();">Отменить</a>
+    <a href="#" class="btn btn-primary" onclick="create_new_courselist();">Сохранить</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+function hide_modal() {
+  $('#error_alert').remove();
+  $('#listname_permalink').val();
+  $('#listname_url').val();
+  $('#listname').val('');
+  $('#description').val('');
+  $('#is_private').val('');
+  $('#newcourselist').modal('hide');
+};
+function show_modal(permalink, url) {
+  $('#error_alert').remove();
+  $('#listname_permalink').val(permalink);
+  $('#listname_url').val(url);
+  $('#newcourselist').modal();
+};
+function add_to_courselist(courselist_id, permalink, url) {
+  $.post('/courselists/create_quick',
+    { permalink: permalink, url: url, courselist_id: courselist_id },
+    function (data, textStatus, jqXHR) {
+      if (data.success) {
+        bootbox.alert(data.message);
+      } else {
+        bootbox.alert('Error');
+      }
+    }
+  );
+};
+function create_new_courselist() {
+  $('#error_alert').remove();
+  var listname = $('#listname').val();
+  var description = $('#description').val();
+  var is_private = $('#is_private').is(':checked');
+  var course_permalink_to_add = $('#listname_permalink').val();
+  var course_url_to_add = $('#listname_url').val();
+  $.post('/courselists/create_quick',
+    { permalink: course_permalink_to_add, url: course_url_to_add, title: listname, description: description, is_private: is_private ? 1 : 0 },
+    function (data, textStatus, jqXHR) {
+      if (data.success) {
+        $('<div class="alert alert-success">'+data.message+'</div>')
+         .prependTo($('#modal_body'))
+         .hide()
+         .fadeIn(1000, function() {
+           $(this).remove();
+           $('#newcourselist').modal('hide');
+           $('#listname').val('');
+           $('#description').val('');
+           $('#is_private').val('');
+         });
+         window.location.reload(true);
+      } else {
+        $('<div class="alert alert-error" id="error_alert">'+data.error+'</div>')
+         .prependTo($('#modal_body'))
+         .hide()
+         .fadeIn(1000);
+      }
+    }
+  );
+};
+</script>
+
+</div>
+</div>
+
+
+<hr>
+<div class="container-fluid">
+<div class="row-fluid">
+ <div class="span3">
+   © 2013-2015
+ </div>
+ <div class="span1 offset8">
+   <a href="/about">О проекте</a>
+ </div>
+</div>
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20435698 = new Ya.Metrika({id:20435698,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20435698" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48354155-1', 'eclass.cc');
+  ga('send', 'pageview');
+
+</script>
+</html>

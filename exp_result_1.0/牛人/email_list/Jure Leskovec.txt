@@ -1,0 +1,3 @@
+jure@cs.cmu.edu	[9]
+jure@cs.stanford.edu	[9]
+email at cs.stanford.edu	[2]

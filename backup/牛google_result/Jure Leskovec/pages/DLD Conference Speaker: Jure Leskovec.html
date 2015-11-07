@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+  <head>
+    <title>DLD Conference Speaker: Jure Leskovec</title>
+<meta content="Jure Leskovec attends at DLD12 in . Please visit http://dld-conference.com/DLD12 for more information" name="description" />
+<meta content="public_figure" property="og:type" />
+<meta content="Jure Leskovec" property="og:title" />
+<meta content="http://s3.amazonaws.com/dldwebsite-production/black_and_white_avatars/jure-leskovec/large/open-uri20121219-18348-uqhni1" property="og:image" />
+<meta content="Jure Leskovec attends at DLD12 in . Please visit http://dld-conference.com/DLD12 for more information" property="og:description" />
+<meta content="DLD Conference" property="og:site_name" />
+<meta content="http://dld-conference.com/users/jure-leskovec" property="og:url" />
+<link href="http://dld-conference.com/users/jure-leskovec" rel="canonical" />
+    <script src="/assets/application-d2c3fa5ad1ec8200bf167721f6b3a975.js"></script>
+
+    <!-- Favicons -->
+    <!-- For third-generation iPad with high-resolution Retina display: -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicons/apple-touch-icon-144x144-precomposed.png">
+
+    <!-- For iPhone with high-resolution Retina display: -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicons/apple-touch-icon-114x114-precomposed.png">
+
+    <!-- For first- and second-generation iPad: -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/favicons/apple-touch-icon-72x72-precomposed.png">
+
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+    <link rel="apple-touch-icon-precomposed" href="/favicons/apple-touch-icon-precomposed.png">
+
+    <!-- Default -->
+    <link rel="shortcut icon" href="/favicons/favicon.ico" />
+
+    <link href="/assets/application-601776dd5ae13b7689aa43abc956016a.css" media="all" rel="stylesheet" />
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="0adfZIW++frz8RDN3M4iOOnwlatYI8Gd8Bq6XKLqEoE=" name="csrf-token" />
+    
+  <script type="text/javascript" src="http://www.google.com/jsapi" ></script>
+<script type="text/javascript">
+  google.load('swfobject', '2.2');
+</script>
+
+<script type="text/javascript">
+  function video_url(video_id) {
+    return '/videos/'+video_id
+  }
+   // The "main method" of this sample. Called when someone clicks "Run".
+  function loadPlayer(video_id, width, height) {
+    var w = width || 960;
+    var h = height || 540;
+
+    //Set proper height of the player window
+    $("#video-player").css("height",h);
+
+    // Bind info button
+    $("#video-player .info").parent().attr("href", video_url(video_id));
+
+    // Firstly let's check if the user has Flash 8+
+    var flashVersionInfo = swfobject.getFlashPlayerVersion();
+
+    if( swfobject.getFlashPlayerVersion().major >= 8  ) {
+      // insert the chromeless player with custom controls and skinning
+
+      // Lets Flash from another domain call JavaScript
+      var params = {
+        allowScriptAccess: "always",
+        wmode: "opaque"
+      };
+      // The element id of the Flash embed
+      var atts = { id: "videoPlayer", allowScriptAccess: "always" };
+      // All of the magic handled by SWFObject (http://code.google.com/p/swfobject/)
+      swfobject.embedSWF("http://www.youtube.com/apiplayer?" +
+                         "&enablejsapi=1&playerapiid=player1&version=3",
+                         "video-player-movie-container", w, h, "8", null, null, params, atts);
+    } else {
+      // insert the standard embed, standard controls but html5 supported
+      $('#video-player .video-controls').hide();
+
+      var videoDiv = document.getElementById('video-player-movie-container');
+          videoDiv.innerHTML = '<iframe width="'+w+'" height="'+h+'" src="http://www.youtube.com/embed/'+video_id+'?modestbranding=1&amp;hd=1" frameborder="0" allowfullscreen></iframe>'
+    }
+  }
+
+  /*
+   * These are the controllers for the chromeless video player
+   */
+
+  // Update a particular HTML element with a new value
+  function updateHTML(elmId, value) {
+    document.getElementById(elmId).innerHTML = value;
+  }
+
+  // This function is called when an error is thrown by the player
+  function onPlayerError(errorCode) {
+    alert("An error occured of type:" + errorCode);
+  }
+
+  // This function is called when the player changes state
+  function onPlayerStateChange(newState) {
+
+    switch (newState) {
+
+      case 1:
+        // Video started to play
+        $('#video-player .play').css('display', 'none')
+        $('#video-player .pause').css('display', 'block');
+        break;
+      case 2:
+        // Video is paused
+        $('#video-player .play').css('display', 'block')
+        $('#video-player .pause').css('display', 'none');
+        break;
+
+    }
+  }
+
+  function calculateTime( currentTime ) {
+
+    // Update movie duration time
+    var hours = Math.floor(currentTime / (60 * 60));
+
+    var divisor_for_minutes = currentTime % (60 * 60);
+    var minutes = Math.floor(divisor_for_minutes / 60);
+
+    var divisor_for_seconds = divisor_for_minutes % 60;
+    var seconds = Math.ceil(divisor_for_seconds);
+
+    // Show initial zero
+    if(seconds < 10) { seconds = '0'+seconds }
+    if(minutes < 10) { minutes = '0'+minutes }
+    if(hours < 10 ) { hours = '0'+hours}
+
+    var totalDuration = hours+":"+minutes+":"+seconds;
+
+    return totalDuration;
+  }
+
+  // Display information about the current state of the player
+  function updatePlayerInfo() {
+    // Also check that at least one function exists since when IE unloads the
+    // page, it will destroy the SWF before clearing the interval.
+    if(ytplayer && ytplayer.getDuration) {
+
+      if( ytplayer.getDuration() > 0 ) {
+
+        // Calculate total duration from seconds provided by YT
+        var totalDuration = calculateTime( ytplayer.getDuration() );
+
+        // Set the total movie duration
+        $('#video-player .duration').html( totalDuration );
+      }
+
+      currentPlayerState = ytplayer.getPlayerState();
+      if( currentPlayerState == 3 || currentPlayerState == 1 ) {
+
+        // Set loading progress bar
+        //var loadPercentage  = Math.round( ytplayer.getVideoLoadedFraction() * 100 ) + '%';
+
+        // The methods below are deprecated - but the above breaks in latest Safari for Mac OS ML.
+        var loadPercentage  = Math.round( ( ytplayer.getVideoBytesLoaded() / ytplayer.getVideoBytesTotal() ) * 100 ) + '%';
+
+        // Set the progress bar width
+        $('.progress-bar .load-progress').css('width', loadPercentage );
+
+        // Set playback progress bar
+        var totalPlaytime   = ytplayer.getDuration();
+        var currentPlaytime = ytplayer.getCurrentTime();
+
+        var playbackPercentage  = (100 * currentPlaytime) / totalPlaytime;
+
+        var currentDuration = calculateTime(currentPlaytime);
+
+         $('#video-player .progress').html( currentDuration );
+
+        if( !isNaN( playbackPercentage ) && ytplayer.sliding == false ) {
+          $('.progress-bar .play-progress').css('width', Math.round(playbackPercentage) + '%');
+        }
+
+      }
+
+    }
+  }
+
+  // Allow the user to set the volume from 0-100
+  function setVideoVolume(volume) {
+    if(isNaN(volume) || volume < 0 || volume > 100) {
+      alert("Please enter a valid volume between 0 and 100.");
+    } else if(ytplayer){
+      ytplayer.setVolume(volume);
+    }
+  }
+
+  function playVideo() {
+    if (ytplayer) {
+      ytplayer.playVideo();
+    }
+  }
+
+  function pauseVideo() {
+    if (ytplayer) {
+      ytplayer.pauseVideo();
+    }
+  }
+
+  function muteVideo() {
+    if(ytplayer) {
+      ytplayer.mute();
+    }
+  }
+
+  function unMuteVideo() {
+    if(ytplayer) {
+      ytplayer.unMute();
+    }
+  }
+
+
+  // This function is automatically called by the player once it loads
+  function onYouTubePlayerReady(playerId) {
+
+    ytplayer = document.getElementById("videoPlayer");
+
+    // Custom filed to indicate if user if using the slider
+    ytplayer.sliding = false;
+
+    //Load an initial video into the player
+    ytplayer.cueVideoById(video_id);
+
+    // This causes the updatePlayerInfo function to be called every 250ms to
+    // get fresh data from the player
+    setInterval(updatePlayerInfo, 250);
+    updatePlayerInfo();
+
+    // Set volume
+    $('.volume-control a').click( function(e) {
+      e.preventDefault();
+      $('.volume-control ul').attr('class', $(this).parent().attr('class') );
+      setVideoVolume( parseInt( $(this).parent().attr('class').split('-')[1] ) );
+    });
+
+    ytplayer.addEventListener("onStateChange", "onPlayerStateChange");
+    ytplayer.addEventListener("onError", "onPlayerError");
+
+    if( $("#video-player").data("autoplay") === true) {
+      ytplayer.playVideo()
+    }
+
+  }
+
+</script>
+
+
+
+
+    <!--[if IE]>
+      <link href="/assets/ie-05df070f86636280ac5d15224a2031fc.css" media="screen" rel="stylesheet" />
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <link rel="stylesheet" type="text/css" href="ie.css" />
+    <![endif]-->
+
+
+
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37670162-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </head>
+  <body class="conference-page collapsed">
+    <div id="fb-root"></div>
+    <script>
+      (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+      <!-- Login dialog box -->
+  <section class="form-dialog login" data-show="false">
+    <header>
+      <h3><i class="icon icon-login"></i>Login to My DLD</h3>
+    </header>
+    <div class="inner">
+      <form accept-charset="UTF-8" action="/people/sign_in" class="dialog-form" id="new_person" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0adfZIW++frz8RDN3M4iOOnwlatYI8Gd8Bq6XKLqEoE=" /></div>
+        <fieldset>
+          <legend class="semantic">Login credentials</legend>
+          <div class="row">
+            <label for="person_email">Email</label>
+            <input id="person_email" name="person[email]" type="text" />
+          </div>
+          <div class="row">
+            <label for="person_password">Password</label>
+            <input id="person_password" name="person[password]" type="password" />
+          </div>
+          <div class="row">
+            <div class="error-message"></div>
+          </div>
+        </fieldset>
+
+        <footer>
+          <p>
+            <a class="open-new-account" href="#" title="New account">
+              New account
+              <img alt="More arrow orange" class="more-arrow" src="/assets/more-arrow-orange-fcb5e90c5740a9e68683b3f5997b159f.png" />
+</a>
+            <a class="open-password-reminder" href="#" title="Forgot password?">
+              Forgot password?
+              <img alt="More arrow orange" class="more-arrow" src="/assets/more-arrow-orange-fcb5e90c5740a9e68683b3f5997b159f.png" />
+</a>
+            <input class="red-button" name="commit" type="submit" value="Login" />
+          </p>
+        </footer>
+</form>    </div>
+  </section>
+  <!-- /Login dialog box -->
+
+    <!-- Login dialog box -->
+<section class="form-dialog logout" data-show="false">
+  <header>
+    <h3><i class="icon icon-login"></i>Logout</h3>
+  </header>
+  <div class="inner">
+    <form accept-charset="UTF-8" action="/people/sign_out" class="dialog-form" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="_method" type="hidden" value="delete" /><input name="authenticity_token" type="hidden" value="0adfZIW++frz8RDN3M4iOOnwlatYI8Gd8Bq6XKLqEoE=" /></div>
+      <div class="row">
+        Do you really want to logout?
+      </div>
+      <div class="row submit">
+        <input name="commit" type="submit" value="Logout" />
+        <input class="logout-cancel" name="commit" type="submit" value="Cancel" />
+      </div>
+</form>
+  </div>
+</section>
+<!-- /Login dialog box -->
+
+    <!-- Password reminder dialog box -->
+<section class="form-dialog password-reminder">
+  <header>
+    <h3><i class="icon icon-login"></i>Please enter your email address</h3>
+  </header>
+  <div class="inner">
+    <form accept-charset="UTF-8" action="/people/password" class="dialog-form" id="remind_password" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0adfZIW++frz8RDN3M4iOOnwlatYI8Gd8Bq6XKLqEoE=" /></div>
+      <fieldset>
+        <legend class="semantic">Email information</legend>
+        <div class="row">
+          <input id="email-input" name="person[email]" required="required" type="email" />
+          <input data-prev-value="Sending" name="commit" type="submit" value="Submit" />
+          <div class="error-message"></div>
+        </div>
+      </fieldset>
+</form>  </div>
+</section>
+<!-- /Password reminder dialog box -->
+
+    <!-- Change/confirm password dialog box -->
+<section class="form-dialog set-password" data-show="">
+  <header>
+    <h3><i class="icon icon-login"></i>Choose / Confirm new Password</h3>
+  </header>
+  <div class="inner">
+    <form accept-charset="UTF-8" action="/users/password" class="dialog-form" data-remote="true" id="new_user" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="_method" type="hidden" value="put" /></div>
+      <input id="user_reset_password_token" name="user[reset_password_token]" type="hidden" />
+      <fieldset>
+        <legend class="semantic">Choose / Confirm new Password</legend>
+        <div class="row">
+          <label for="user_password">Please choose a new Password</label>
+          <input id="user_password" name="user[password]" type="password" />
+        </div>
+        <div class="row">
+          <label for="user_password_confirmation">Please confirm new Password</label>
+          <input id="user_password_confirmation" name="user[password_confirmation]" type="password" />
+        </div>
+        <div class="row submit">
+          <input name="commit" type="submit" value="Save password" />
+          <div class="error-message"></div>
+        </div>
+      </fieldset>
+</form>  </div>
+</section>
+<!-- /Change/confirm password dialog box -->
+
+    <!-- Password reminder dialog box -->
+<section class="form-dialog new-account">
+  <header>
+    <h3><i class="icon icon-login"></i>Please enter your Email Address</h3>
+  </header>
+  <div class="inner">
+    <form accept-charset="UTF-8" action="/people/sign_up" class="dialog-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+      <fieldset>
+        <legend class="semantic">Email information</legend>
+        <div class="row">
+          <input id="email" name="email" required="required" size="30" type="email" />
+          <input data-prev-value="Sending" name="commit" type="submit" value="Continue" />
+        </div>
+      </fieldset>
+</form>  </div>
+</section>
+<!-- /Password reminder dialog box -->
+
+    <script>
+      $('.form-dialog.flash-message').dialog({
+        modal: true,
+        dialogClass: "flash-message",
+        width: 400
+      });
+    </script>
+
+    <div class="header-container">
+      <div class="container">
+        <!-- Logo and introduction -->
+        <header id="master-header">
+          <h1>
+            <a href="/" title="DLD">
+              <img alt="DLD" src="/assets/dld-logo-big-c090d8827e06960adda9bcf5e239b86b.png" />
+</a>          </h1>
+        </header>
+        <!-- /Logo and introduction -->
+
+        <!-- Search form -->
+        <form class="search" method="get" action="/search" role="search">
+          <fieldset>
+            <legend class="semantic">Search</legend>
+            <div class="input-wrap">
+              <label for="search-query" class="semantic">Search Phrase</label>
+              <input id="search-query" type="search" name="q" placeholder="Search" />
+              <input type="submit" value="Search" />
+            </div>
+          </fieldset>
+        </form>
+        <!-- /Search form -->
+
+        <!-- Logout/Profile buttons -->
+        <div class="user-panel">
+          <ul class="clearfix">
+              <li><a class="trigger-login" href="#">My DLD</a></li>
+              <!-- <li><a href="/users/sign_up">Register</a></li> -->
+          </ul>
+        </div>
+        <!-- /Logout/Profile buttons -->
+      </div>
+      <!-- /Container -->
+
+      <!-- Some slides here...? -->
+      <div id="slider" class="slider-container">
+        <ul class="slides bjqs clearfix">
+            <!-- Single slide -->
+            <li style="background: #a32948">
+  <div class="container" style="background: transparent url('http://s3.amazonaws.com/dldwebsite-production/header_pictures/171/header/DLD16_960x270.jpg?1437036693') no-repeat 50% 50%;">
+    <div class="global-header">
+      <p style="color:#ffffff">DLD (Digital-Life-Design) is a global network on innovation, digitization, science and culture which connects business, creative and social leaders, opinion-formers and influencers for crossover conversation and inspiration.
+      </p>
+    </div>
+    <div class="cta clearfix">
+        <a class="discover" href="/DLD16" title="Program">
+          <img alt="Program" src="/assets/event-info-button-bd97e3c0f1ee2fc4b6f5e41618200fb6.png" />
+</a>    </div>
+  </div>
+</li>
+
+            <!-- /Single slide -->
+        </ul>
+        <!-- /Some slides -->
+      </div>
+
+    </div>
+
+    
+<!-- Main content -->
+<section class="main" role="main" itemscope itemtype='http://schema.org/Person'>
+  <div class="semantic" itemprop="name">Jure Leskovec</div><div class="semantic" itemprop="image">http://s3.amazonaws.com/dldwebsite-production/black_and_white_avatars/jure-leskovec/large/open-uri20121219-18348-uqhni1</div><div class="semantic" itemprop="url">http://twitter.com/jure</div><div class="semantic" itemprop="affiliation">Stanford University</div><div class="semantic" itemprop="address">mock full_address</div>
+
+  <!-- Global container -->
+  <div class="container">
+    <!-- Main navigation -->
+<div class="main-navigation-container">
+  <!-- "Big" navigation -->
+  <nav class="main-navigation big">
+    <div class="bg-overlay" style="background-color: #a32948;"></div>
+    <ul class="clearfix">
+      <li class="pulse "><a title="" href="/">Pulse</a></li>
+      <li class="magazine "><a href="/magazine">Magazine</a></li>
+      <li class="video-gallery "><a href="/videos">Video Gallery</a></li>
+      <li class="dld-13  "><a href="/DLD16">DLD16</a></li>
+      <li class="dld-women  "><a href="/DLDsummer15">DLDsummer</a></li>
+      <li class="dld-global  "><a href="/conferences/DLDglobal">DLDglobal</a></li>
+    </ul>
+  </nav>
+  <!-- /"Big" navigation -->
+  <!-- "Small" navigation -->
+  <nav class="main-navigation small" style="background-color: #a32948;">
+    <div class="container">
+      <div class="bg-overlay" style="background-color: #a32948;"></div>
+      <ul class="clearfix">
+        <li class="dld-logo "><a href="/">DLD</a></li>
+        <li class="pulse "><a title="" href="/">Pulse</a></li>
+        <li class="magazine "><a href="/magazine">Magazine</a></li>
+        <li class="video-gallery "><a href="/videos">Video Gallery</a></li>
+        <li class="dld-13  "><a href="/DLD16">DLD16</a></li>
+        <li class="dld-women  "><a href="/DLDsummer15">DLDsummer</a></li>
+        <li class="dld-global  "><a href="/conferences/DLDglobal">DLDglobal</a></li>
+           <li class="login"><a title="" href="#" class="trigger-login">Login</a></li>
+        <li class="search-trigger"><a title="" href="#">Search</a></li>
+      </ul>
+    </div>
+  </nav>
+  <!-- /Condensed navigation -->
+</div>
+<!-- /"Small" navigation -->
+
+
+    <header class="page-title">
+      <h1>Jure Leskovec</h1>
+    </header>
+
+    <div class="box speaker-details">
+      <article class="inner white clearfix speaker-profile">
+        <header class="box-header">
+          <h3 class="semantic">Jure Leskovec</h3>
+          <a href="javascript:history.back()">
+            <img alt="More arrow orange left" class="back-arrow" src="/assets/more-arrow-orange-left-8f93c417f84f2392dfb31559b74412fd.png" />
+            Back
+</a>          <a class="fr" href="/speakers">
+            All speakers
+            <img alt="More arrow orange" class="more-arrow" src="/assets/more-arrow-orange-fcb5e90c5740a9e68683b3f5997b159f.png" />
+</a>        </header>
+        <div class="grid_2 pfull">
+          <img alt="Jure Leskovec" itemprop="img" src="http://s3.amazonaws.com/dldwebsite-production/black_and_white_avatars/jure-leskovec/large/open-uri20121219-18348-uqhni1" title="Jure Leskovec" />
+
+          <!-- Topics -->
+            <div class="topics two-lines">
+              <ul class="clearfix">
+                  <li><a href="/search?q=life" title="life">#life</a></li>
+                  <li><a href="/search?q=memory" title="memory">#memory</a></li>
+                  <li><a href="/search?q=Big+Data" title="Big Data">#Big Data</a></li>
+                  <li><a href="/search?q=digital" title="digital">#digital</a></li>
+              </ul>
+            </div>
+          <!-- /Topics -->
+
+          <!-- New activities -->
+          <div class="activities hidden">
+              <p>
+                <strong><a href="/twitter_articles/297776">Shared a Link via twitter</a></strong>
+                <time datetime="2015-10-20 16:15:08 UTC">9 days ago</time>
+              </p>
+          </div>
+          <!-- /New activities -->
+
+          <!-- Activity -->
+          <div class="activity hidden">
+            <ul>
+                <li>
+                  attended
+                  <a href="/DLD12">DLD12</a>
+                  <time datetime="2012-01-22">almost 4 years ago</time>
+                </li>
+            </ul>
+          </div>
+          <!-- /Activity -->
+        </div>
+        <div class="grid_3 pfull">
+          <div class="vcard">
+            <div class="row semantic">
+  <span class="fn">Jure Leskovec</span>
+</div>
+  <div class="row">
+    <span class="label">Company:</span>
+    <span class="org">Stanford University</span>
+  </div>
+
+  <div class="row">
+    <span class="role">Professor</span>
+  </div>
+
+  <div class="row">
+    <span class="label">Location:</span>
+    <span class="adr">Stanford, CA, United States</span>
+  </div>
+
+  <div class="row">
+    <span class="label">Fields of operation:</span>
+    <span class="tags">Education, Science</span>
+  </div>
+
+  <div class="row twitter">
+    <span class="label">Twitter:</span>
+    <span class="tags"><a class="url" href="http://twitter.com/jure" target="_blank">jure</a></span>
+  </div>
+
+          </div>
+          <div class="share-buttons">
+            <div class="row">
+              <div class="facebook">
+  <div class="fb-like" data-href="http://dld-conference.com/users/jure-leskovec" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+</div>
+
+<div class="twitter">
+  <a class="twitter-share-button" data-counturl="http://dld-conference.com/users/jure-leskovec" data-text="jure attends at #DLD12 in :" data-url="http://dld.co/u/jure-leskovec" href="https://twitter.com/share">Tweet</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+<div class="addthis">
+  <!-- AddThis Button BEGIN -->
+  <div class="addthis_toolbox addthis_default_style ">
+    <a class="addthis_counter addthis_pill_style"></a>
+  </div>
+  <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+  <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-513f0ee954273d5c"></script>
+  <!-- AddThis Button END -->
+</div>
+<div class="linkedin">
+  <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+  <script type="IN/Share" data-counter="right" data-url="http://dld-conference.com/users/jure-leskovec"></script>
+</div>
+<div class="xing">
+  <script type="XING/Share" data-counter="right" data-lang="en" data-url="http://dld-conference.com/users/jure-leskovec"></script>
+  <script>
+    ;(function(d, s) {
+      var x = d.createElement(s),
+        s = d.getElementsByTagName(s)[0];
+      x.src ='https://www.xing-share.com/js/external/share.js';
+      s.parentNode.insertBefore(x, s);
+    })(document, 'script');
+  </script>
+</div>
+            </div>
+          </div>
+          <div class="bio clearfix">
+            <p>Jure Leskovec is an assistant professor of Computer Science at Stanford University.
+His research focuses on the mining and modeling of large social and information networks as the study of phenomena across the social, technological, and natural worlds. Problems he investigates are motivated by large scale data, the Web and online media.
+Jure holds a bachelor’s degree in computer science from University of Ljubljana, Slovenia, as well as a master’s degree and Ph.D. in machine learning from the Carnegie Mellon University. Prior to joining Stanford, he worked as a postdoctoral researcher at Cornell University.
+Jure has authored the Stanford Network Analysis Platform, a general purpose network analysis and graph mining library that easily scales to massive networks with hundreds of millions of nodes, and billions of edges.</p>
+
+          </div>
+        </div>
+      </article>
+    </div>
+
+    <!-- Photo Gallery -->
+<div id="media-gallery" class="box">
+  <div class="inner white clearfix">
+    <section class="media-gallery grid_4 first">
+      <header class="box-header">
+        <h3><i class="icon icon-gallery"></i><span class="photoset-title">Loading photos...</span></h3>
+      </header>
+      <!-- Big media container -->
+      <div class="big-media-preloader">
+        <div class="big-media-container" style="">
+          <a title="Image description" class="zoom-fullscreen" rel="gallery" href=""></a>
+        </div>
+        <a class="hidden playbutton">
+          <img alt="Timeline play icon" src="/assets/timeline-play-icon-d5a97cbd9cdf415078dd00260f3ed9ac.png" />
+        </a>
+        <a class="hidden zoombutton">
+          <img alt="Dld14 lupe final" src="/assets/DLD14_Lupe_final-c63bd6e76c2309a880afafb308d2f84f.png" />
+        </a>
+      </div>
+      <!-- /Big media container -->
+    </section>
+    <!-- Photos -->
+    <section class="media grid_2 last tabbed-content">
+      <header class="box-header tabs small clearfix">
+        <div class="tab">
+          <h3><a title="Photos" class="photos active" data-content="photos" href="#"><i class="icon icon-photo-gallery"></i>Photos</a></h3>
+        </div>
+        <div class="tab hidden">
+          <h3><a title="Videos" class="videos" data-content="videos" href="#"><i class="icon icon-video"></i>Videos</a></h3>
+        </div>
+      </header>
+      <div class="list-container pfull">
+        <div class="media-list tab-content photos">
+        </div>
+        <div class="media-list tab-content videos hidden">
+        </div>
+      </div>
+    </section>
+    <!-- /Photos -->
+  </div>
+</div>
+<!-- /Photo Gallery -->
+
+
+    
+<!-- Related videos -->
+  <section class="box related videos">
+    <div class="inner white">
+      <header class="box-header">
+        <h3><i class="icon icon-review"></i>Conferences and Articles</h3>
+      </header>
+      <div id="related-videos-slider" class="slider-container tile-slider light">
+        <ul class="slides bjqs clearfix">
+            <li>
+                <article class="element grid_1-6">
+                    <a href="/DLD12">
+                      <div class="tag">Spoke at</div>
+                      <img src="http://s3.amazonaws.com/dldwebsite-production/archive_photos/9/small/1_0008_DLD12.png?1401196272" alt="" />
+                      <div class="label name">
+                        <div class="title">2012<br/>
+                          DLD12</div>
+                      </div>
+</a>                </article>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <!-- /Related videos -->
+
+
+
+  </div>
+  <!-- /Global container -->
+</section>
+
+<script type="text/javascript">
+  $(function() {
+    DLD.MediaGallery.init({ selector: '#media-gallery', tags: 'Jure Leskovec', title: 'Gallery of Jure Leskovec', youtube_videos: [{"id":"vYYE195t7ew","title":"DLD 2012 - Memories Are Made Of These (Kevin Slavin, Jonathan Harris, Thomas Goetz, Jure Leskovec)","ownername":"DLDconference","thumbnail_url":"https://i.ytimg.com/vi/vYYE195t7ew/default.jpg","duration":" 1:07:07"}], flickrAPIKey: '397e2c9e1de1ac80020117c34d755d98' });
+  });
+</script>
+
+
+    <!-- Master footer -->
+    <section id="master-footer">
+      <nav class="container clearfix">
+        <ul class="grid_3 fl pfull">
+          <li><a href="/pages/imprint">Imprint</a></li>
+          <li><a href="/pages/about-us">About Us</a></li>
+          <li><a href="/pages/contact">Contact</a></li>
+          <li><a href="/pages/dld-team">DLD Team</a></li>
+        </ul>
+        <ul class="grid_3 fr pfull">
+          <li class="bookmark">
+            <a class="button bookmark shorturl-trigger" href="#">Short URL<span><span>+</span></span></a>
+
+<!-- Search form -->
+<div class="shorturl">
+  <fieldset>
+    <div class="input-wrap">
+      <input disabled="true" class="shorturl-field" type="text" value="http://dld.co/u/jure-leskovec" />
+      <div id="copyshorturlcontainer">
+        <div id="copyshorturl">
+          <input  class="copy-button" type="submit" value="Copy" />
+        </div>
+      </div>
+    </div>
+  </fieldset>
+</div>
+<!-- /Search form -->
+          </li>
+          <li class="like">
+            <div class="fb-like" data-href="https://www.facebook.com/DLDconference" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+          </li>
+          <li class="tweet">
+            <a href="https://twitter.com/DLDConference" class="twitter-follow-button" data-show-count="false">Follow @DLDConference</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </li>
+        </ul>
+      </nav>
+    </section>
+    <!-- /Master footer -->
+  </body>
+</html>

@@ -1,0 +1,5 @@
+try{
+QS_P("ilg");var QS_6Bb=function(){};QS_X(function(a){a.Qa("t-N9xNBOslqXg",QS_6Bb,null,null,function(){},"gws.images.resultGroup.ImageLinkGroup");QS_W(a,"dPT6rUBrsm0",function(a,c){var d=c.event().target;d.href&&QS_Kf(d.href)})});
+QS_O("ilg");QS_N.Ba().$("ilg");
+}catch(e){_DumpException(e)}
+// Google Inc.

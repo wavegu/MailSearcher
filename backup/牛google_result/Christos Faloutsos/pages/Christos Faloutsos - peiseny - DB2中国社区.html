@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <title>Christos Faloutsos - peiseny - DB2中国社区</title>    <meta name="keywords" content=",IBM,数据库,数据库开发,大数据,DB2性能调优,db2数据库,db2下载,db2存储过程,db2命令,db2函数,DB2,Oracle,Hadoop,NoSQL,MongoDB,MySQL,数据仓库,HBase,Hive,数据库安全,数据治理,数据库设计" />
+    <meta name="description" content="&nbsp; &nbsp; [Publications/patents] [Software] [Talks/tutorials] [Courses] [Service] [Misc.] 
+
+
+
+
+
+
+U.S. mail address: Christos Faloutsos&nbsp; Dept. of Computer Science&nbsp; Carnegie Mellon University Wean Hall 7107&nbsp; 5000 Forbes Avenue&nbsp;" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=" />
+    <link type="text/css" rel="stylesheet" href="/css/twt_bootstrap.css?v=" />
+    <link rel="stylesheet" href="/css/font-awesome.min.css?v=">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/css/font-awesome-ie7.min.css?v=">
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="/css/twt_public.css?v=" />
+    <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js?v="></script>
+    <script src="/js/respond.min.js?v="></script>
+    <![endif]-->
+</head><body class="viewPage channelPage cP_blog">
+<div class="header">
+<!-- Top Bar -->
+<header class="topBar">
+<div class="container">
+<a href="/" class="logo" title="DB2中国社区"><img src="/image/site_logo.png" alt="DB2中国社区"></a>
+<div class="topBar_nav">
+<div class="pull-left collapse navbar-collapse" id="bs-example-search"> 
+<form class="topSearch" role="search" action="/batch.search.php" method="post">
+<input type="text" name="searchkey" id="search" placeholder="搜索" class="form-control">
+<button type="submit" class="icon-search"></button>
+</form>             
+</div>
+<div class="pull-left collapse navbar-collapse">
+<a class="btn btn-success" onclick="twt_box('/home/passport/login.php')" href="javascript:;" title="提问">提问</a>
+</div>
+<div class="pull-left collapse navbar-collapse">
+<a onclick="twt_box('/home/passport/login.php')" href="javascript:;" class="btn btn-primary">登录</a>
+</div>
+</div>
+<a onclick="twt_box('/home/passport/login.php')" href="javascript:;" class="navbar-toggle nav_toggle"><i class="icon-user"></i></a>
+<a class="navbar-toggle nav_toggle" data-toggle="collapse" href="#bs-example-search"><i class="icon-search"></i></a>
+<a class="navbar-toggle nav_toggle" data-toggle="collapse" href="#bs-example-navbar"><i class="icon-reorder"></i></a>
+</div>
+</header>
+<!-- /Top Bar -->
+<!-- Top Nav -->
+<header class="topNav">
+<nav class="container">
+<div class="collapse navbar-collapse" id="bs-example-navbar">
+<ul class="nav navbar-nav">
+<li>
+<a href="http://www.db2china.net/" class="nav_menu">首页</a>
+</li>
+<li class="dropdown">
+<a href="http://www.db2china.net/club/" class="nav_menu dropdown-toggle" role="button" aria-expanded="false">论坛 <span class="icon-angle-down"></span></a>
+<ul class="dropdown-menu" role="menu">
+<a href="http://www.db2china.net/club/index.php?gid=5.html" class="list-group-item">问题解决</a>
+<a href="http://www.db2china.net/club/forum-23-1.html" class="list-group-item">招聘求职</a>
+<a href="http://www.db2china.net/club/index.php?gid=46.html" class="list-group-item">资料分享</a>
+<a href="http://www.db2china.net/club/forum-57-1.html" class="list-group-item">商务合作</a>
+</ul>
+</li>
+<li>
+<a href="http://www.db2china.net/?action-channel-name-blog" class="nav_menu">博客</a>
+</li>
+<li>
+<a href="http://www.db2china.net/?action-channel-name-activity.html" class="nav_menu">交流活动</a>
+</li>
+<li>
+<a href="http://www.db2china.net/?action-channel-name-vendor-p-person.html" class="nav_menu">社区专家</a>
+</li>
+<li>
+<a href="http://bigdata.db2china.net/" class="nav_menu">大数据学院</a>
+</li>
+<li>
+<a href="http://www.db2china.net/home/space.php?do=gift" class="nav_menu">社区商店</a>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">TWT网站 <span class="icon-angle-down"></span></a>
+<ul class="dropdown-menu" role="menu">
+<a href="http://www.aixchina.net" target="_blank" class="list-group-item">AIX专家俱乐部</a>
+<a href="http://www.webspherechina.net" target="_blank" class="list-group-item">WebSphere中国中间件应用社区</a>
+<a href="http://www.db2china.net" target="_blank" class="list-group-item">DB2中国数据库应用社区</a>
+<a href="http://www.cognoschina.net" target="_blank" class="list-group-item">Cognos商业智能社区</a>
+<a href="http://www.lotuschina.net" target="_blank" class="list-group-item">Lotus中国OA应用社区</a>
+</ul>
+</li>
+</ul>
+</div>
+<div class="collapse navbar-collapse" id="bs-example-usernav">
+<ul class="nav navbar-nav" id="header_xs_usernav">
+</ul>
+</div>
+</nav>
+</header>
+<div class="row visible-xs">
+<a class="navbar-toggle nav_toggle col-xs-6 xs_openBs" data-toggle="collapse" href="#bs-example-xs-mainSide">分类 <span class="icon-angle-down"></span></a>
+<a class="navbar-toggle col-xs-6 xs_postQ" onclick="twt_box('/home/passport/login.php')" href="javascript:;" title="提问">我要提问 <span class="icon-edit"></span></a>	</div>
+<div class="collapse navbar-collapse example-xs-userbar" id="bs-example-xs-userbar"></div>
+<div class="collapse navbar-collapse example-xs-mainSide" id="bs-example-xs-mainSide"></div>
+<!-- /Top Nav -->
+<!--[if lt IE 9]>
+<div class="alert alert-danger alert-dismissible" role="alert">
+<button type="button" class="close" data-dismiss="alert">
+<span aria-hidden="true">&times;</span>
+<span class="sr-only">Close</span>
+</button> <strong>提示:</strong>
+浏览器版本过低，这将影响您的浏览，请更换为高版本浏览器。
+</div>
+<![endif]-->
+</div><div class="container">
+<div class="main">
+<div class="mainSide hidden-xs">
+<div class="mainSideMod">
+<h3><span>分类</span></h3>
+<div class="noMsg">还没有分类</div>
+</div>
+<div class="mainSideMod">
+<h3><span>主题</span></h3>
+<div class="noMsg">还没有主题</div>
+</div>
+<div class="mainSideMod">
+<h3><span>状态</span></h3>
+<div class="txtList">
+<li>发布时间：2008-09-28</li>
+<li>会员浏览：906</li>
+</div>
+</div>
+</div>
+<div class="mainMain">
+<div class="viewModle">
+<h1>Christos Faloutsos</h1>
+<div class="viewM_body"><P style="MARGIN-BOTTOM: 0in" align=center> <BR>&nbsp; <BR>&nbsp; <B><FONT size=3>[</FONT></B><a href="http://www.cs.cmu.edu/~christos/publications.html"><B><FONT size=3>Publications/patents</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/software.html"><B><FONT size=3>Software</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/talks-tutorials.html"><B><FONT size=3>Talks/tutorials</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/courses.html"><B><FONT size=3>Courses</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/service.html"><B><FONT size=3>Service</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/misc.html"><B><FONT size=3>Misc.</FONT></B></A><B><FONT size=3>]</FONT><FONT size=4> </FONT></B></P>
+<P style="MARGIN-BOTTOM: 0in" align=center><BR></P>
+<TABLE cellSpacing=3 cellPadding=2 width="100%" border=1>
+<TBODY>
+<TR>
+<TD width="21%"><IMG height=207 alt=photo src="http://www-2.cs.cmu.edu/~christos/cf4.jpg" width=184 align=left border=0 name=Graphic1></TD>
+<TD width="67%">
+<P><IMG height=25 src="http://www-2.cs.cmu.edu/~christos/scslogo.gif" width=23 align=right border=0 name=Graphic2><BR><B>U.S. mail address:</B> <BR>Christos Faloutsos&nbsp; <BR><a href="http://www.cs.cmu.edu/">Dept. of Computer Science&nbsp;</A> <BR><a href="http://www.cmu.edu/index.shtml">Carnegie Mellon University</A> <BR>Wean Hall 7107&nbsp; <BR>5000 Forbes Avenue&nbsp; <BR>Pittsburgh, PA 15213-3891&nbsp; <BR><B>Phone:</B> (412)-268.14.57&nbsp; <BR><B>Fax:</B> (412)-268.55.76&nbsp; <BR><B>Email:</B> [my first name] AT cs DOT cmu DOT edu <BR><B>Admin:</B> Charlotte Yano, 412-268.7656, yano AT cs DOT cmu DOT edu <BR>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (backup: Marilyn Walgora 412-268.3505) </P></TD></TR>
+<TR>
+<TD width="88%" colSpan=2>
+<H2><A name=affiliations></A>Christos Faloutsos</H2>
+<P><B>Current Position:</B> Professor.&nbsp; <BR><B>Courtesy appointment:</B> <a href="http://www.ece.cmu.edu/">Electrical and Computer Engineering, CMU</A> <BR><B>Academic Degrees:</B> Ph.D. and M.Sc. <a href="http://www.cs.utoronto.ca/">(University of Toronto.);</A> B.Sc. <a href="http://www.ntua.gr/">(Nat. Tech. U. Athens)</A> <BR><B>Short <a href="http://www.cs.cmu.edu/~christos/short-bio.txt">bio&nbsp;</A> </B>and full CV <!---
+      <a href="http://www.cs.cmu.edu/~christos/webvitae.txt">ascii</a>
+      ---><a href="http://www.cs.cmu.edu/~christos/webvitae.ps">ps</A> <a href="http://www.cs.cmu.edu/~christos/webvitae.pdf">pdf</A> <BR><!---
+      <a href="http://www.cs.cmu.edu/%7Echristos/my_weekly.html"><b>Weekly
+schedule</b></a> 
+       <br> 
+       --->Weekly schedule: see <a href="http://www.google.com/calendar/render?cid=christos.faloutsos%40gmail.com" target=_blank>my<IMG src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" border=0></A> </P><SPAN style="FONT-WEIGHT: bold">Other affiliations:</SPAN> 
+<UL>
+<LI><a href="http://www.db.cs.cmu.edu/">Database group at CMU</A> 
+<LI><a href="http://www.informedia.cs.cmu.edu/">Informedia</A> 
+<LI><a href="http://www.cald.cs.cmu.edu/">Machine Learning Department</A> 
+<LI><a href="http://www.pdl.cmu.edu/">PDL</A> (Parallel Data Lab) 
+<LI><a href="http://lane.compbio.cmu.edu/faculty.html">Ray and Stephanie Lane Center for Computational Biology </A></LI></UL>
+<H2>Research Interests:</H2>
+<UL>
+<LI>Data Mining for graphs and streams 
+<LI>Fractals, self-similarity and power laws 
+<LI>Indexing and data mining for video, biological and medical databases 
+<LI>Data base performance evaluation (data placement, workload characterization) </LI></UL>
+<H2>Projects</H2>
+<UL>
+<LI>Stream mining <a href="http://www.cs.cmu.edu/afs/cs/project/spirit-1/www/">(SPIRIT) </A>
+<LI><a href="http://www.cs.cmu.edu/~christos/PROJECTS/GRAPH-MINING/">Graph Mining </A>(NSF Grant No. IIS-0534205; additional support from IBM and PITA) 
+<LI><a href="http://www.cs.cmu.edu/~christos/PROJECTS/TENSORS/">Mining Biomedical and Network Data Using Tensors </A>(NSF Grants No. IIS-0705359 and IIS-0705215). 
+<LI>Drosophila embryo image mining (with Prof. Eric Xing) (NSF Grant No. DBI-0640543). 
+<LI><a href="http://mocap.cs.cmu.edu/">Motion capture </A>indexing and mining (with Profs. Jessica Hodgins, Nancy Pollard, Randy Pausch; and Amy Bruckman (GA Tech)) </LI></UL>
+<H2>In the news:</H2>
+<UL>
+<LI>Oct. 2004: Ranked among the top 50 nurturers in information technology by a <a href="http://www-2.cs.cmu.edu/~christos/IN-THE-NEWS/NURTURERS_CSA-TR-2004-10.pdf">study </A>at the Indian Institute of Science. 
+<LI>Nov. 2005: Mentioned in the Greek newspaper 'To Vima' (full article, <a href="http://www-2.cs.cmu.edu/~christos/IN-THE-NEWS/to_vima_11_2005.pdf">in Greek </A>) 
+<LI>Dec. 2005: <a href="http://www-2.cs.cmu.edu/~christos/IN-THE-NEWS/p85-column-winslett.pdf">Interview </A>in the <a href="http://www.sigmod.org/sigmod/record/issues/0512/">Dec. 2005 ACM SIGMOD record </A>(Distinguished Database Profiles) 
+<LI>Dec. 2006: <a href="http://news.cs.cmu.edu/Releases/demo/257.html">CMU press release </A>about the <I>NetProbe </I>project for auction fraud detection - joint work with Polo Chau, Shashank Pandit and Sam Wang. Also in&nbsp; 
+<UL>
+<LI><a href="http://www-2.cs.cmu.edu/~christos/NETPROBE-PUBLICITY/WSJtalkingtechDec06.pdf">Wall Street Journal</A>,&nbsp; 
+<LI>&nbsp;<a href="http://www-2.cs.cmu.edu/~christos/NETPROBE-PUBLICITY/2006-12-11-online-fraud_x.htm">USA Today</A>,&nbsp; 
+<LI><a href="http://www-2.cs.cmu.edu/~christos/NETPROBE-PUBLICITY/AR2006121100569.html">Washington Post</A>,&nbsp; 
+<LI><a href="http://www-2.cs.cmu.edu/~christos/NETPROBE-PUBLICITY/la-fi-webauction11dec11,0,305898.story.html">Los Angeles Times</A>,&nbsp; 
+<LI><a href="http://www-2.cs.cmu.edu/~christos/NETPROBE-PUBLICITY/local_story_346182118.html">KDKA TV (CBS)</A>,&nbsp; 
+<LI><a href="http://www-2.cs.cmu.edu/~christos/NETPROBE-PUBLICITY/rating.html">INC.com</A> </LI></UL></LI></UL>
+<HR>
+
+<P align=center><B><FONT size=3>[ <a href="http://www.cs.cmu.edu/~christos/publications.html">Publications/patents</A></FONT><a href="http://www.cs.cmu.edu/~christos/publications.html"></A></B><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/software.html"><B><FONT size=3>Software</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/talks-tutorials.html"><B><FONT size=3>Talks/tutorials</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/courses.html"><B><FONT size=3>Courses</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/service.html"><B><FONT size=3>Service</FONT></B></A><B><FONT size=3>] [</FONT></B><a href="http://www.cs.cmu.edu/~christos/misc.html"><B><FONT size=3>Misc.</FONT></B></A><B><FONT size=3>]</FONT><FONT size=4> </FONT></B><FONT size=4>&nbsp;&nbsp;&nbsp;</FONT>&nbsp; </P>
+<P><BR></P></TD></TR></TBODY></TABLE>
+<P><BR>&nbsp; <BR>&nbsp; </P></div>
+<div class="actionBar clearfix">
+<div class="aB_item">
+<button id="b_950" class="btn blue_button btn-xs" onclick="">赞同<span class="count">0</span></button>
+</div>
+<div class="aB_item">
+<a href="#commonlist">评论<span class="count">0</span></a>
+</div>
+<div class="aB_item overflow dropdown">
+<div class="dropdown-toggle overflow_link" data-toggle="dropdown" role="button" aria-expanded="false"><span class="dots"></span></div>
+<ul class="dropdown-menu" role="menu">
+<a href="cp.php?ac=common&op=report&idtype=blogid&id=950" id="a_report" onClick="ajaxmenu(event, this.id, 1)" class="list-group-item">举报</a>
+</ul>
+</div>
+</div>
+</div>
+<div class="commonModle">
+<a name="commonlist"></a>
+<h3><span id="comment_replynum">0</span> <span>评论</span></h3>
+<form id="quickcommentform_950" name="quickcommentform_950" action="cp.php?ac=comment" method="post" class="quickpost clearfix">
+<textarea id="comment_message" placeholder="请登录后进行评论" readonly="readonly" onclick=""name="message" class="form-control" rows="2"></textarea>
+<input type="hidden" name="refer" value="space.php?uid=869&do=blog&id=950" />
+<input type="hidden" name="id" value="950">
+<input type="hidden" name="idtype" value="blogid">
+<input type="hidden" name="commentsubmit" value="true" />
+<button class="btn btn-success pull-right" type="button" id="commentsubmit_btn" name="commentsubmit_btn" onClick="">评论</button>
+<div id="__quickcommentform_950"></div>
+<input type="hidden" name="formhash" value="62615745" />
+</form>
+<div class="commonList" id="comment_ul">
+</div>
+</div>
+</div>
+</div>
+<div class="side">
+<div class="sideMod">
+<h3><a class="more" title="发布博客" onclick="" href="javascript:;">发布博客</a><span>本文作者</span></h3>
+<div class="userCard">
+<a href="/home/space.php?uid=869" target="_blank"><img src="http://www.db2china.net/ucenter/images/noavatar_small.gif" class="avatar32 img-rounded" alt="peiseny"></a>
+<div class="name"><a class="name" target="_blank" href="space.php?uid=869" title="peiseny">peiseny</a></div>
+<div class="uC_info"></div>
+<div class="actionBar clearfix">
+<div class="aB_item">
+<button class="btn blue_button btn-xs" onClick="twt_box('/home/passport/login.php')" href="javascript:;">关注</button>
+											
+</div>
+<div class="aB_item">发布<span class="count">38</span></div>
+<div class="aB_item">回答<span class="count">0</span></div>
+</div>
+</div>
+</div>
+<div class="sideMod">
+<h3><span>作者其他博客</span></h3>
+<div class="txtList">
+<li><a target="_blank" href="/home/space.php?uid=869&do=blog&id=2300" title="AdWords 原理">AdWords 原理</a></li>
+  <li><a target="_blank" href="/home/space.php?uid=869&do=blog&id=2298" title="Google AdSense工作原理[转载]">Google AdSense工作原理[转载]</a></li>
+  <li><a target="_blank" href="/home/space.php?uid=869&do=blog&id=2125" title="xml文档元数据和学习资源">xml文档元数据和学习资源</a></li>
+  <li><a target="_blank" href="/home/space.php?uid=869&do=blog&id=2124" title="xml解析器">xml解析器</a></li>
+  <li><a target="_blank" href="/home/space.php?uid=869&do=blog&id=2050" title="元标记(Meta tags)和网页搜索【forward】">元标记(Meta tags)和网页搜索【forward】</a></li>
+  </div>
+</div>
+</div>
+</div>
+<script src="/js/jquery.min.js?v=1420621079" type="text/javascript"></script> 
+<script src="/js/bootstrap.min.js?v=1420621079" type="text/javascript"></script>
+<script src="/js/publicapp.js?v=1444708124" type="text/javascript"></script>
+<script type="text/javascript"> 
+jQuery("#twt_publish_btn").attr('href', 'javascript:;');
+jQuery("#twt_publish_btn").attr('onclick', 'twt_box("/home/passport/login.php")');
+function twt_box(url, n, m) {
+    jQuery.TWTWindow(jQuery);
+    n = n || 0;
+m = m || 0;
+    if(n != 1) {
+var time = new Date();
+jQuery('#pp_background').css('display', 'block');
+jQuery('#pp_background_wait').css('display', 'block');
+jQuery('#passPort').css({left: '-9999px',top:'-9999px'});
+if(isIE6){
+jQuery('select').css('visibility','hidden');
+}
+}
+    jQuery.get(url,function(data){
+      if(!data){
+        jQuery('#pp_background').css('display', 'none');
+        return false;}
+      if(appcssjs){
+        jQuery('#passPort').css({'display': 'none'});
+        }
+      jQuery("#passport_div").html(data);
+      if(appcssjs){appcssjs(jQuery);}
+      jQuery.showTWTBox(time,m);
+    });
+  }
+  function remail(twt_uid, twt_email){
+    jQuery('#cue').css('display','none');
+    jQuery.post('/home/passport/register.php',{act:'remail',twt_uid:twt_uid,twt_email:twt_email},function(data){
+       if(data== 'y'){
+         jQuery('#cue').css('display','block');
+       }
+    });
+  }//passport
+</script>
+<script src="/js/jquery.form.js?v=1396420459" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="source/script_cookie.js"></script>
+<!--<script language="javascript" type="text/javascript" src="source/script_common.js"></script>
+<script language="javascript" type="text/javascript" src="source/script_menu.js"></script>
+<script language="javascript" type="text/javascript" src="source/script_ajax.js"></script>
+<script language="javascript" type="text/javascript" src="source/script_manage.js"></script>-->
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+<!--passport弹出框-->
+<script type="text/javascript">
+var appcssjs = 0;
+var isIE6 = 0;
+var keydomt = '';
+var keydomf = '';
+var twtielt10 = 0;
+</script>
+<link rel="stylesheet" type="text/css" href="/css/passPort.css?v=1437018017" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/home/passport/css/passPortie6.css" />
+<script type="text/jscript" src="/home/passport/js/passPortie6.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<style type="text/css">
+.passPort .pp_logo img, .passPort .clos img, #pp_show_agr .acnclose img, .pp_notice #tog, .pp_notice #tog span{ behavior: url("/js/css3/iepngfix.htc") }
+* html,* html body{background-image:url(about:blank);background-attachment:fixed}
+* html #pp_background, * html #pp_background_wait{position:absolute;left:expression(eval(document.documentElement.scrollLeft));top:expression(eval(document.documentElement.scrollTop))}
+</style>
+<script type="text/javascript">
+isIE6 = 1;
+</script>
+<![endif]-->
+<!--[if lte IE 9]>
+<script type="text/javascript">
+ twtielt10 = 1;
+</script>
+<script src="/js/ypassPort.js?v="></script>
+<![endif]-->
+<script type="text/javascript">
+if(!twtielt10){
+ document.write('<scr'+'ipt src="/js/passPort.js?v="></scr'+'ipt>')
+}
+</script>
+<script src="/home/passport/js/jQselect.js?v=1371203634"></script>
+<div id="pp_background" class="pp_background"> </div>
+<div id="pp_background_wait" class="pp_background_wait">
+<div class="pp_background_content">
+<img src="/home/passport/images/loading.gif" />
+<p>请稍候...</p></div>
+</div>
+<div id="passPort" class="passPort">
+  <div class="pp_logo"><img src="/home/passport/images/logo.png" alt="toucan" /></div>
+  <div class="pp_box">
+    <div class="clos"><img src="/home/passport/images/clos.png" /></div>
+    <div id="passport_div"> </div>
+  </div>
+</div>
+<script type="text/javascript">
+jQuery.TWTWindow = function($){
+    var winWidth = $(window).width();
+    var winHeight = $(window).height();
+    $('#pp_background').css({
+        height: winHeight,
+        width: winWidth
+      });
+    $('#pp_background_wait').css({
+        height: winHeight,
+        width: winWidth
+      });
+ };jQuery.TWTWindow(jQuery);
+</script>
+<!--//passport弹出框-->
+<!-- 公共提示层 -->
+<div class="modal fade" id="promptLayer" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">关闭</span></button>
+        <h4 class="modal-title" id="myModalLabel"></h4>
+      </div>
+      <div class="modal-body">
+      </div>
+    </div>
+  </div>
+</div>
+<!-- //公共提示层 -->
+
+
+<!-- 这里后期添加判断，某些页面载入 -->
+<script src="/js/tagsinput.min.js?v=1420621079" type="text/javascript"></script>
+<script src="/js/analytics.js?v=1432698217" type="text/javascript"></script>
+<!-- // -->
+<div class="footer hidden-xs">
+<div class="nav"><a href="/?action-channel-name-aboutus" target="_blank">关于我们</a>   |   <a href="/?action-channel-name-contactus" target="_blank">联系我们</a>   |   <a href="/?action-channel-name-privacy" target="_blank">版权与免责声明</a>   |   <a href="/club/faq.php" target="_blank">帮助中心</a></div>
+<div class="copyright">
+    DB2中国社区 版权所有 保留所有权、使用规定、并保留最终解释权 <br />
+    Copyright 2009-2014,ALL Rights Reserved
+  </div>
+</div></body>
+</html>

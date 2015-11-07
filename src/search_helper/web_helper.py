@@ -1,7 +1,9 @@
 # encoding: utf-8
 
 import urllib2
-import socket
+from proxy_helper import ProxyHelper
+
+proxyHelper = ProxyHelper()
 
 
 class WebHelper:
@@ -20,14 +22,23 @@ class WebHelper:
         opener = urllib2.build_opener()
         opener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 6.1 WOW64 rv:23.0) Gecko/20130406 Firefox/23.0')]
         try:
-            proxy = urllib2.ProxyHandler({'http': 'http://megvii:face++@tel.lc.ignw.net:25'})
+            proxy_id = 'http://:@' + proxyHelper.choose_proxy()
+            print 'proxy_id is', proxy_id
+            proxy = urllib2.ProxyHandler({'http': proxy_id})
             auth = urllib2.HTTPBasicAuthHandler()
             opener = urllib2.build_opener(proxy, auth, urllib2.HTTPHandler)
             urllib2.install_opener(opener)
-            conn = urllib2.urlopen(page_url, timeout=10)
+            print 'url ready'
+            conn = urllib2.urlopen(page_url)
             page_content = conn.read()
             return page_content
         except urllib2.URLError or urllib2.HTTPError as e:
             print '[Error]@WebHelper.get_page_content_from_url:', page_url
             print e
             return None
+
+
+if __name__ == '__main__':
+    page_content = WebHelper.get_page_content_from_url('http://www.google.com')
+    with open('test_result.html', 'w') as result_file:
+        result_file.write(page_content)

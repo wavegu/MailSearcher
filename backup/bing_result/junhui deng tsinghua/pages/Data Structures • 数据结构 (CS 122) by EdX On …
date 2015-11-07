@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"59b521a3af","applicationID":"6214486","transactionName":"J19WFUBWXghXRBZXXxFCSwRBFkEMXUE=","queueTime":0,"applicationTime":233,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAIEU1VWGwUCVVVWDwc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+        <title>Data Structures • 数据结构 (CS 122) by EdX On Tsinghua - Algorithms Online Course/MOOC</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <meta property="og:title" content="Data Structures • 数据结构 (CS 122) by EdX On Tsinghua - Algorithms Online Course/MOOC" />
+        <meta property="og:site_name" content="CourseBuffet"/>
+        <meta property="og:url" content="https://www.coursebuffet.com/course/1279/edx/data-structures-tsinghua" />
+        <meta property="og:description" content="Data Structures • 数据结构 (Algorithms) Free Computer Science Online Course On EdX By Tsinghua (Junhui Deng) Data structures play a central role in computer science and are the cornerstones of efficient algorithms. Knowledge in this area has been at the kernel of related curriculums. This course aims at exploring the principles and methods in the design and implementation of various data structures and providing students with" />
+        <meta property="og:image" content="https://coursebuffet.com/course_images/edx/data-structures-shu-ju-jie-gou-tsinghuax-30240184x.jpg" />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@coursebuffet" />
+        <meta name="twitter:title" content="Data Structures • 数据结构 (CS 122) by EdX On Tsinghua - Algorithms Online Course/MOOC" />
+        <meta name="twitter:description" content="Data Structures • 数据结构 (Algorithms) Free Computer Science Online Course On EdX By Tsinghua (Junhui Deng) Data structures play a central role in computer science and are the cornerstones of efficient algorithms. Knowledge in this area has been at the kernel of related curriculums. This course aims at exploring the principles and methods in the design and implementation of various data structures and providing students with" />
+        <meta name="twitter:image" content="https://coursebuffet.com/course_images/edx/data-structures-shu-ju-jie-gou-tsinghuax-30240184x.jpg" />
+        <meta name="twitter:url" content="https://www.coursebuffet.com/course/1279/edx/data-structures-tsinghua" />
+
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="/newdesign/css/normalize.min.css">
+        <link rel="stylesheet" href="/newdesign/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/newdesign/css/bootstrap-theme.css">
+        <link rel="stylesheet" href="/newdesign/css/star-rating.css">
+        <link rel="stylesheet" href="/newdesign/css/sweet-alert.css">
+        <link rel="stylesheet" href="/newdesign/css/polyfill.object-fit.css">
+        <link rel="stylesheet" href="/newdesign/css/slick.css"/>
+        <link rel="stylesheet" href="/newdesign/css/jasny-bootstrap.min.css">
+
+
+        <link rel="stylesheet" href="/newdesign/css/main.css?ver=1">
+
+        <script src="/newdesign/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/newdesign/js/coursebuffet.js"></script>
+        
+    </head>
+    <body>
+    <a id="search_feedbackbtn" href="#" data-toggle="modal" data-target="#feedback">Feedback</a>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!--- Header Bar START -->
+        <div class="header_bar">
+            <div class="container-fluid">
+               <div class="main_logo col-xs-2"><a href="/"><img src="/newdesign/img/logo-temp.png" alt="CourseBuffet.com"/></a></div>
+
+               <div class="header_nav">
+                <ul>
+                      <li class="logincta"><a id="header_bar_login" href="#" data-toggle="modal" data-target="#registerbox">Sign Up</a> / <a id="header_bar_login" href="#" data-toggle="modal" data-target="#loginbox">Login</a></li>
+                  
+                  <li>
+                    <a class="offcanvastoggle" data-toggle="offcanvas" data-recalc="false" data-target=".cboffcan" data-canvas="body">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                  </li>              
+                
+                </ul>
+               </div>
+            </div>
+        </div>
+
+        <!-- Header Bar END -->
+
+
+                <div class="container-fluid coursepage-main">
+
+            <div class="coursepage-header">
+
+                
+
+            </div> <!--/coursepage-header-->
+
+
+            <div class="coursepage-videocnt col-xs-4">
+                <div class="embed-responsive embed-responsive-16by9">
+
+                       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+                </div>
+
+                <div class="coursepage-goto-btn-cnt"><a href="https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x" target=_blank id="coursepage-btn-goto"><i class="fa fa-chevron-right"></i> Goto Course</a></div>
+                
+                  <div class="coursepage-cfa coursepage-cfa-notsaved">
+                    <div class="coursepage-cfa-loading"><span><i class="fa fa-refresh fa-spin"></i> Loading...</span></div>
+                    <h4>Add to Buffet</h4>
+                    <span class="coursepage-cfa-underline">Save course to Your Buffet - Get notified, Track Progress, Plan Future Learning.</span>
+                    
+                    <div class="btn-group coursepage-cfa-btncnt">
+                      <button type="button" id="coursepage-btn-save" class="btn btn-default coursepage-cfa-btn-save" id="coursepage-btn-save" onclick="new_save_course(1279,1);return false;"><i class="fa fa-plus"></i> Save for Later</button>
+                      <div class="btn-group">
+                        <button type="button" class="btn btn-default dropdown-toggle coursepage-cfa-btn-progress" data-toggle="dropdown">
+                          I Have Already <span class="caret"></span>
+                        </button>
+                        
+                        <ul class="dropdown-menu" role="menu">
+                          <li><a href="javascript:new_save_course(1279,2);">Enrolled</a></li>
+                          <li><a href="javascript:new_save_course(1279,3);">Completed</a></li>
+                          <!-- <li><a href="javascript:new_save_course(1279,4);">Dropped</a></li> -->
+                        </ul>
+                      </div>
+                    </div>
+                  </div><!--/coursepage-cfa-->
+
+                <div class="coursepage-faces">
+
+                    <span> <span>3 People</span> Have this course in their Buffet</span>
+
+                    <ul>
+                      <li><a href='/bsummers82'><div class='coursepage-default-imgtext' style='background-color:#3498db;'>B</div></a></li>
+                      <li><a href='/100004408292396'><img src='https://graph.facebook.com/100004408292396/picture'></a></li>
+                      <li><a href='/skiloa'><div class='coursepage-default-imgtext' style='background-color:#f1c40f;'>A</div></a></li>
+                    </ul>
+
+                </div>
+
+
+                <!--div class="coursepage-similar-cnt">
+
+                    <h5>Similar Courses</h5>
+
+                    <div class="coursepage-similar-unit">
+
+                    </div>
+
+                </div><!-- /coursepage-similar-cnt -->
+
+            </div> <!-- /coursepage-videocnt -->
+
+
+
+            <div class="coursepage-detailmain-cnt col-xs-8">
+
+            
+
+                <div class="coursepage-details-content">
+
+                    <div class="coursepage-titleblock">
+                        <h4 class="coursepage-coursetitle">Data Structures • 数据结构</h4>
+
+
+                        <div class="coursepage-cbtitle">
+                          <span>Classified as: </span>
+                          <a class="coursepage-coursenumber" href="/sub/computer-science/122/elementary-data-structures">CS122 - Elementary Data Structures</a>
+                          (1 Alt. Course Available)
+                        </div><!--/coursepage-cbtitle-->
+
+
+                        <ul class="coursepage-coursemeta">
+                            <li><i class="fa fa-book"></i> <a href="/sub/computer-science">Computer Science</a></li>
+                            <li><i class="fa fa-university"></i> <a href="/university/tsinghua">Tsinghua</a></li>
+                                <li><i class="fa fa-laptop"></i> <a href="/provider/edx">EdX</a></li>
+                            <li><i class="fa fa-calendar"></i> Always Available</li>
+                        </ul>
+                    </div> <!--/coursepage-titleblock-->
+
+
+
+                    <div class="coursepage-details-cnt">
+
+                        <ul class="coursepage-tabnav nav nav-tabs" role="tablist">
+                          <li class="active"><a href="#CourseDetails" role="tab" data-toggle="tab">Course Details</a></li>
+                          <li><a href="#CourseInfo" role="tab" data-toggle="tab">More Info</a></li>
+                          <li><a href="#Improve" role="tab" data-toggle="tab" id="improve-tab">Suggest Changes</a></li>
+
+
+
+                          <span class="share-icons" data-toshareurl="http://www.coursebuffet.com/course/1279/edx/data-structures-tsinghua" data-tosharetitle="Data Structures • 数据结构" data-isgroup="0">
+                            <i class="fa fa-facebook facebook-title-share" title="Share this courses on Facebook"></i>
+                            <i class="fa fa-twitter twitter-title-share" title="Share this Course on Twitter"></i>
+                            <i class="fa fa-linkedin linkedin-title-share" title="Share this Course on Linkedin"></i>
+                            <i class="fa fa-share-alt other-title-share" title="Share this Course"></i>
+                            
+                            <span class="other-title-share-cnt hidden">
+                              <i class="fa fa-google-plus gplus-title-share" title="Share this Course on G+"></i>
+                              <i class="fa fa-tumblr tumblr-title-share" title="Share this Course on Tumblr"></i>
+                              <!--<i class="fa fa-pinterest pinterest-title-share" title="Share Courses on Pinterest"></i>-->
+                              <i class="fa fa-envelope email-title-share" title="Share this Course by Email"></i>
+                              
+                              <input type="text" class="uri-title-share" onClick="this.select();" value="http://www.coursebuffet.com/course/1279/edx/data-structures-tsinghua" readonly> <label>Shorten<input type="checkbox" class="title-shorten-box"/></label>
+                            </span> 
+                          </span>
+                        </ul>
+
+                        <!-- Tab panes -->
+                        <div class="tab-content coursepage-tabcnt">
+                          <div class="tab-pane active fade in" id="CourseDetails">
+
+                            <div class="coursedetails-description">
+                                <span>Course Description: </span>
+                                <p>
+                                Data structures play a central role in computer science and are the cornerstones of efficient algorithms. Knowledge in this area has been at the kernel of related curriculums. This course aims at exploring the principles and methods in the design and implementation of various data structures and providing students with main tools and skills for algorithm design and performance analysis. Topics covered by this course range from fundamental data structures to recent research results.
+                                </p>
+                            </div> <!--/coursedetails-description-->
+
+                            <div class="coursedetails-extrainfo">
+
+                                <div class="coursepage-extrainfo-coursetags">
+                                    <span>Course Tags: </span>
+                                    <a title='Search Algorithms Courses' href='/tag/Algorithms'><span class='glyphicon glyphicon-tag'></span> Algorithms</a>
+                                </div>
+
+
+                            </div> <!-- /coursedetails-extrainfo -->
+
+                          </div>
+
+
+
+
+                          <div class="tab-pane fade" id="CourseInfo">
+
+                            <ul class="CourseInfoTab-list1">
+                                <li><span>Instructor(s)</span> Junhui Deng</li>
+                                <li><span>University</span> <div class="courseinfoimg"><img src="/universities_final/Tsinghua.png"></div></li>
+                                <li><span>Provider</span> <div class="courseinfoimg"><img src="/img/providers/edx.png"></div></li>
+                            </ul>
+                            <ul class="CourseInfoTab-list1">
+                                <li><span>Start Date</span> 16/Sep/2014</li>
+                                <li><span>Duration</span> Always Available</li>
+                                <li><span>Main Language</span> English</li>
+                            </ul>
+
+                          </div>
+
+
+
+
+
+
+                          <div class="tab-pane fade coursepage-improve" id="Improve">
+
+                            <span class="">Did you find any errors in this course listing ? Help us improve and we would be eternally grateful</span>
+
+                            <div class="coursepage-improveform">
+
+                                <form id="course-suggestions" class="form-horizontal" role="form" action="/courses/1279/suggestions" method="POST">
+                                  <input name="authenticity_token" value="mRDLtS7hsuhU/bkbBpajVSvNGDz7lS8VIDEEZhP3E/g=" type="hidden">
+
+                                  <div class="form-group">
+                                    
+                                    <label class="col-xs-2 control-label">Name</label>
+                                    
+                                    <div class="col-xs-8">
+                                      <input class="form-control" type="text" placeholder="Enter name" name="name" />
+                                    </div>
+                                  </div>
+                                  
+                                  <div class="form-group">
+                                    
+                                    <label class="col-xs-2 control-label">Email</label>
+                                    
+                                    <div class="col-xs-8">
+                                      <input class="form-control" type="email" placeholder="Enter email address" name="email" />
+                                    </div>
+                                  </div>
+                                  
+                                  <div class="form-group">
+                                    
+                                    <label class="col-xs-2 control-label">Type</label>
+                                    
+                                    <div class="col-xs-8">
+                                      <select class="form-control" name="feedback_type">
+                                        <option>Suggestion</option>
+                                        <option>Bug</option>
+                                        <option>Other</option>
+                                      </select>
+                                    </div>
+                                  </div>
+                                  
+                                  <div class="form-group">
+                                    
+                                    <label for="userComments" class="col-xs-2 control-label">Your Comments</label>
+
+                                    <div class="col-xs-8">
+                                        <textarea class="form-control" rows="3" id="userComments" placeholder="" required name="description"></textarea>
+                                    </div>
+
+                                  </div>
+
+                                  <div class="form-group">
+                                    <div class="col-xs-10 pull-right" id="recaptcha-course">
+                                      
+                                    </div>
+                                  </div>
+
+                                  <div class="form-group">
+                                    <div class="col-xs-offset-2 col-xs-10">
+                                      <button type="submit" class="btn btn-default">Submit Comments</button>
+                                    </div>
+                                  </div>
+
+                                </form>
+
+                            </div> <!-- /coursepage-improveform -->
+
+                          </div>
+
+
+
+
+
+                        </div> <!--/coursepage-tabcnt-->
+
+                    </div> <!-- /coursepage-details-cnt -->
+
+                </div> <!-- /coursepage-details-content -->
+
+
+
+            </div><!-- /coursepage-detailmain-cnt -->
+
+
+
+          
+            <div class="search-popularcourses col-xs-8">
+
+
+              <div>
+                <h3>Related Courses</h3>
+
+                <span class="relatedtitle">
+                          <a class="coursepage-coursenumber" href="/sub/computer-science/122/elementary-data-structures">CS122 - Elementary Data Structures</a> Courses
+                          (1 Alt. Course Available)</span>
+                
+                <ul class="col-xs-12 popularcourselist">
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/85/saylor/elementary-data-structures">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/5.jpg" data-original="/course_images/default/8.jpg" onerror="this.src='/course_images/default/6.jpg'" alt="Elementary Data Structures" />
+        <noscript><img src="/course_images/default/8.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Elementary Data Structures</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS122)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                </ul>
+
+                <span class="relatedtitle">
+              
+                       Other <a class="coursepage-coursenumber" href="/sub/computer-science">Computer Science</a> Courses
+                </span>
+                
+                <ul class="col-xs-12 popularcourselist">
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/1048/coursera/mining-massive-datasets-stanford-univ">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/coursera/mmds.png" data-original="/course_images/coursera/mmds.png" onerror="this.src='/course_images/default/12.jpg'" alt="Mining Massive Datasets" />
+        <noscript><img src="/course_images/coursera/mmds.png"></noscript>
+
+  </div>
+
+  <span class="rus-title">Mining Massive Datasets</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Stanford Univ.
+		/ Coursera
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS413)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Started on: 12/Sep/2015</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/1110/coursera/bioinformatics-algorithms-part-2-univ-of-california-san-diego">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/coursera/bioinformatics2.png" data-original="/course_images/coursera/bioinformatics2.png" onerror="this.src='/course_images/default/5.jpg'" alt="Bioinformatics Algorithms (Part 2) " />
+        <noscript><img src="/course_images/coursera/bioinformatics2.png"></noscript>
+
+  </div>
+
+  <span class="rus-title">Bioinformatics Algorithms (Part 2) </span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Univ. of California, San Diego
+		/ Coursera
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS478)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Archive may be available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/1111/coursera/algorithms-biology-and-programming-for-beginners-univ-of-california-san-diego">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/coursera/algobioprogramming.png" data-original="/course_images/coursera/algobioprogramming.png" onerror="this.src='/course_images/default/13.jpg'" alt="Algorithms, Biology, and Programming for Beginners" />
+        <noscript><img src="/course_images/coursera/algobioprogramming.png"></noscript>
+
+  </div>
+
+  <span class="rus-title">Algorithms, Biology, and Programming for Beginners</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Univ. of California, San Diego
+		/ Coursera
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS210)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Starts On: 15/Nov/2015</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/1146/coursera/text-mining-and-analytics-univ-of-illinois-at-urbana-champaign">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/coursera/textanalytics.png" data-original="/course_images/coursera/textanalytics.png" onerror="this.src='/course_images/default/10.jpg'" alt="Text Mining and Analytics" />
+        <noscript><img src="/course_images/coursera/textanalytics.png"></noscript>
+
+  </div>
+
+  <span class="rus-title">Text Mining and Analytics</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Univ. of Illinois at Urbana-Champaign
+		/ Coursera
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS407)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Archive may be available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/1150/coursera/text-retrieval-and-search-engines-univ-of-illinois-at-urbana-champaign">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/coursera/textretrieval.png" data-original="/course_images/coursera/textretrieval.png" onerror="this.src='/course_images/default/3.jpg'" alt="Text Retrieval and Search Engines" />
+        <noscript><img src="/course_images/coursera/textretrieval.png"></noscript>
+
+  </div>
+
+  <span class="rus-title">Text Retrieval and Search Engines</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Univ. of Illinois at Urbana-Champaign
+		/ Coursera
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS405)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Archive may be available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/1151/coursera/pattern-discovery-in-data-mining-univ-of-illinois-at-urbana-champaign">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/coursera/patterndiscovery.png" data-original="/course_images/coursera/patterndiscovery.png" onerror="this.src='/course_images/default/3.jpg'" alt="Pattern Discovery in Data Mining" />
+        <noscript><img src="/course_images/coursera/patterndiscovery.png"></noscript>
+
+  </div>
+
+  <span class="rus-title">Pattern Discovery in Data Mining</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Univ. of Illinois at Urbana-Champaign
+		/ Coursera
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS404)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Archive may be available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/1280/edx/autonomous-mobile-robots-eth-zurich">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/edx/autonomous-mobile-robots-ethx-amrx.jpg" data-original="/course_images/edx/autonomous-mobile-robots-ethx-amrx.jpg" onerror="this.src='/course_images/default/12.jpg'" alt="Autonomous Mobile Robots" />
+        <noscript><img src="/course_images/edx/autonomous-mobile-robots-ethx-amrx.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Autonomous Mobile Robots</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>ETH Zurich
+		/ EdX
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS482)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/82/saylor/introduction-to-computer-science-i">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/6.jpg" data-original="/course_images/default/6.jpg" onerror="this.src='/course_images/default/7.jpg'" alt="Introduction to Computer Science I" />
+        <noscript><img src="/course_images/default/14.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Introduction to Computer Science I</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS101)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/83/saylor/introduction-to-computer-science-ii">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/9.jpg" data-original="/course_images/default/9.jpg" onerror="this.src='/course_images/default/1.jpg'" alt="Introduction to Computer Science II" />
+        <noscript><img src="/course_images/default/14.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Introduction to Computer Science II</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS101)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/84/saylor/c-programming">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/8.jpg" data-original="/course_images/default/10.jpg" onerror="this.src='/course_images/default/12.jpg'" alt="C++ Programming" />
+        <noscript><img src="/course_images/default/3.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">C++ Programming</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS230)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/85/saylor/elementary-data-structures">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/5.jpg" data-original="/course_images/default/11.jpg" onerror="this.src='/course_images/default/7.jpg'" alt="Elementary Data Structures" />
+        <noscript><img src="/course_images/default/13.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Elementary Data Structures</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS122)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/87/saylor/computer-architecture">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/10.jpg" data-original="/course_images/default/13.jpg" onerror="this.src='/course_images/default/12.jpg'" alt="Computer Architecture" />
+        <noscript><img src="/course_images/default/13.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Computer Architecture</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS260)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/88/saylor/software-engineering">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/10.jpg" data-original="/course_images/default/8.jpg" onerror="this.src='/course_images/default/10.jpg'" alt="Software Engineering" />
+        <noscript><img src="/course_images/default/6.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Software Engineering</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS322)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/89/saylor/algorithms">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/10.jpg" data-original="/course_images/default/5.jpg" onerror="this.src='/course_images/default/5.jpg'" alt="Algorithms" />
+        <noscript><img src="/course_images/default/7.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Algorithms</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS295)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                    <div><li class="col-xs-12 resultlist-unitsmall">
+
+  <a href="/course/90/saylor/compilers">
+
+  <div class="rus-imgcnt">
+  	
+  	  <img class="aalsi" data-lazy="/course_images/default/11.jpg" data-original="/course_images/default/13.jpg" onerror="this.src='/course_images/default/4.jpg'" alt="Compilers" />
+        <noscript><img src="/course_images/default/15.jpg"></noscript>
+
+  </div>
+
+  <span class="rus-title">Compilers</span>
+  <span class="rus-meta"><i class="fa fa-university"></i>Saylor
+  </span>
+  <span class="rus-meta"><i class="fa fa-book"></i>Computer Science (CS454)</span>
+  <span class="rus-meta"><i class="fa fa-calendar"></i>Always Available</span>  
+  <span class="rus-link">VIEW COURSE <i class="fa fa-angle-right"></i></span>
+  </a>
+</li>
+</div>
+                </ul>
+
+
+
+              </div>
+
+
+            </div>
+
+          
+
+
+
+
+            <div class="comments-cnt col-xs-8">
+
+                <div class="comments-head">
+                    <h4>Course Reviews</h4>
+                    <div class="comment-cfa"><a href="#" id="comment-form-cfa"><i class="fa fa-plus-circle"></i> Give Your Opinion</a></div><!--/-comment-cfa-->
+
+
+                <!-- SERVER SIDE VALIDATION
+
+                Create Element "comment-form-validation-msg" AS BELOW
+                Add class "form-validation-error" to "comment-form"
+                Add class "comment-validation-missing" to labels that have errors
+                -->
+
+                    <div class="comment-form form-validation-error hidden"><!-- << Add "form-validation-error" class here -->
+                        
+
+                        <form class="form-horizontal" role="form" action="/courses/review" method="post">
+                          <input name="authenticity_token" value="mRDLtS7hsuhU/bkbBpajVSvNGDz7lS8VIDEEZhP3E/g=" type="hidden">
+                          <input id="course_id" name="course_id" type="hidden" value="1279" />
+                            <div class="form-group">
+                                <label for="ReviewTitle" class="col-xs-2 control-label">Review Title</label>
+
+                                <div class="col-xs-10">
+                                  <input type="text" class="form-control" id="ReviewTitle" placeholder="Title your Review" name="title" value="">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="ReviewText" class="col-xs-2 control-label">Your Review *</label>
+                                <div class="col-xs-10">
+                                  <textarea name="body" rows="7" class="form-control" id="ReviewText" placeholder="Your Opinion..." required></textarea>
+
+                                </div>
+                            </div>
+
+
+
+                            <div class="form-group">
+
+                                <label for="comment-form-stars-learn" class="col-xs-4 control-label">How Much Did You Learn ?</label>
+                                <div class="col-xs-6">
+                                  <input type="number" required id="comment-form-stars-learn" name="saved_course[learnt]" value="0">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="comment-form-stars-enjoy" class="col-xs-4 control-label">How Much Did You Enjoy ?</label>
+                                <div class="col-xs-6">
+                                  <input type="number" required id="comment-form-stars-enjoy" name="saved_course[enjoyment]" value="0">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="comment-form-stars-overall" class="col-xs-4 control-label">Overall Rating :</label>
+                                <div class="col-xs-6">
+                                  <input type="number" required id="comment-form-stars-overall" name="saved_course[rating]" value="0">
+                                </div>
+                            </div>
+
+                            <!-- Add 'comment-validation-missing' class if needed -->
+                            <div class="form-group">
+                                <label for="comment-form-stars-diff" class="col-xs-4 control-label">Course Difficulty :</label>
+                                <div class="col-xs-6">
+                                  <input type="number" required id="comment-form-stars-diff" name="saved_course[difficulty]" value="0">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="comment-form-submitbtn">
+                                    <button class="btn btn-default" onclick="javascript:$('#loginbox').modal('toggle');">Login to Review</button>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div><!--/comment-form-->
+                </div><!--/comments-head-->
+
+
+                <div class="comments-listcnt">
+
+                    <!--<span class="comments-nocomments">Be the first one to leave a comment on this course!</span> --> <!--/comments-nocomments-->
+
+                    <ul class="comments-list">
+                      <li class="nocomments">
+                         <div class="comments-list-content">
+
+                          <span class="nocommentsyet">No Comments Yet! Be the first one to comment.</span>
+                           
+                         </div>
+                      </li>
+
+
+                    </ul><!--/comments-list-->
+
+
+                </div><!--/comments-listcnt-->
+
+            </div><!--/comments-cnt-->
+
+
+
+
+
+        </div> <!-- /coursepage-main -->
+
+
+        <div id="loginbox" class="modal fade useractionmodal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title">Login to CourseBuffet</h4>
+      </div>
+
+      <div class="modal-body">
+        <div class="login-using-cnt">
+          <span class="login-using login-facebook">
+
+            <a href="https://www.coursebuffet.com/auth/facebook"><i class="fa fa-facebook"></i> <span>Sign In with Facebook</span></a>
+          </span>
+
+          <!--span class="login-using login-twitter"><a href="#"><i class="fa fa-twitter"></i> Sign In with Twitter</a></span-->
+        </div>
+
+        <div class="login-using-email-cnt">
+          <span class="login-using-email-headline">Login using Email</span>
+
+          <form id="login-modal-emailform" class="form-horizontal" role="form" method="post" action="/user_sessions">
+            <input name="authenticity_token" value="mRDLtS7hsuhU/bkbBpajVSvNGDz7lS8VIDEEZhP3E/g=" type="hidden">
+            <div class="form-group"> <!-- <== Add class .has-error if email+pwd invalid -->
+              <div class="">
+                <input type="email" name="user_session[username]" required class="form-control" id="modalEmail" placeholder="Registered Email">
+              </div>
+            </div>
+
+
+            <div class="form-group"> <!-- <== Add class .has-error if only pwd invalid -->
+              <div class="">
+                <input type="password" name="user_session[password]" required class="form-control" id="modalPassword" placeholder="Password">
+              </div>
+            </div>
+
+            <div class="form-group">
+              <div class="">
+                <!--span class="login-using-email-validation">Invalid Username/Password.</span--> 
+                <button type="submit" class="btn btn-default login-using-email-submit">Sign in with Email</button>
+                <a href="/forgot_password" class="login-using-email-forgot">Forgot Password?</a><br/>
+                Don't have an account? <a href="#" class="login-using-email-forgot" id="login-using-email-forgot">Register now <i class="fa fa-long-arrow-right"></i></a><br/>
+              </div>
+            </div>
+          </form>
+        </div>
+
+
+      </div>
+
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+        <!-- Register MODAL -->
+
+        <div id="registerbox" class="modal fade useractionmodal" tabindex="-1" role="dialog" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title">Sign Up With CourseBuffet</h4>
+              </div>
+
+              <div class="modal-body">
+
+                <!--div class="useractionmodal-description">
+                  <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec</p>
+                </div-->
+
+                <div class="login-using-cnt">
+                  <span class="login-using login-facebook"><a href="http://www.coursebuffet.com/auth/facebook"><i class="fa fa-facebook"></i> <span>Sign Up Using Facebook</span></a></span>
+                  
+                  <!--span class="login-using login-twitter"><a href="#"><i class="fa fa-twitter"></i> Sign Up Using Twitter</a></span-->
+                  
+                  <div class="login-using-msg">We DO NOT post anything on your facebook automatically. <br> You can also <a href="#" class="login-emaillink">sign up using your email.</a>
+</div>
+                </div>
+                
+
+                <div class="login-using-email-cnt hidden">
+                  
+
+                  <span class="login-using-email-headline">Sign Up using Email</span>
+                  
+                  <form id="login-modal-emailform" class="form-horizontal col-xs-12" role="form" method="post" action="/users">
+                    <input name="authenticity_token" value="mRDLtS7hsuhU/bkbBpajVSvNGDz7lS8VIDEEZhP3E/g=" type="hidden">
+                    
+                    
+                    <div class="form-group"> 
+                      <div class="col-xs-12">
+                        <input name="name" type="text" required class="form-control" id="signupName" placeholder="Your Name">
+                      </div>
+                    </div>
+                    
+                    
+                    <div class="form-group"> 
+                      <div class="col-xs-12">
+                        <input name="user[username]" type="text" required class="form-control" id="signupUserName" placeholder="Choose a Username">
+                      </div>
+                    </div>
+                    
+                    
+                    <div class="form-group"> 
+                      <div class="col-xs-12">
+                        <input name="user[email]" type="email" required class="form-control" id="signupEmail" placeholder="Your Email Address">
+                      </div>
+                    </div>
+                    
+                    
+                    <div class="form-group"> 
+                      <div class="col-xs-12">
+                        <input name="user[password]" type="password" required class="form-control" id="signupPassword" placeholder="Choose a strong password">
+                      </div>
+                    </div>
+                    
+                    <div class="form-group">
+                      <div id="recaptcha" class="col-xs-12">
+                        
+                      </div>
+                    </div>
+                    
+                    <div class="form-group">
+                      <div class="">
+                        <button type="submit" class="btn btn-default login-using-email-submit">Sign Up</button>
+                        
+                      </div>
+                    </div>
+                  </form>
+                </div>
+
+
+              </div>
+
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+
+
+        <!-- Register MODAL -->
+
+        <div id="feedback" class="modal fade useractionmodal" tabindex="-1" role="dialog" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title">Help us improve CourseBuffet</h4>
+              </div>
+
+              <div class="modal-body">
+
+                <div class="coursepage-improveform">
+
+                    <form id="course-suggestions" class="form-horizontal" role="form" action="/home/feedback" method="POST" onsubmit="$('#feedback').modal('hide');">
+                      <input name="authenticity_token" value="mRDLtS7hsuhU/bkbBpajVSvNGDz7lS8VIDEEZhP3E/g=" type="hidden">
+
+                      <div class="form-group">
+                        
+                        <label class="col-xs-3 control-label">Name</label>
+                        
+                        <div class="col-xs-7">
+                          <input class="form-control" type="text" placeholder="Your Name" name="name" />
+                        </div>
+                      </div>
+                      
+                      <div class="form-group">
+                        
+                        <label class="col-xs-3 control-label">Email</label>
+                        
+                        <div class="col-xs-7">
+                          <input class="form-control" type="email" placeholder="Example@example.com" name="email" />
+                        </div>
+                      </div>
+                      
+                      <div class="form-group">
+                        
+                        <label class="col-xs-3 control-label">Type</label>
+                        
+                        <div class="col-xs-7">
+                          <select class="form-control" name="feedback_type">
+                            <option>Suggestion</option>
+                            <option>Bug</option>
+                            <option>Other</option>
+                          </select>
+                        </div>
+                      </div>
+                      
+                      <div class="form-group">
+                        
+                        <label for="userComments" class="col-xs-3 control-label">Your Comments</label>
+
+                        <div class="col-xs-7">
+                            <textarea class="form-control" rows="3" id="userComments" placeholder="" name="description" required title="Isnt that too small?"></textarea>
+                        </div>
+
+                      </div>
+
+                      <div class="form-group">
+                        <div class="col-xs-10" id="recaptcha-feedback">
+                          
+                        </div>
+                      </div>
+
+                      <div class="form-group">
+                        <div class="col-xs-offset-3 col-xs-10">
+                          <button type="submit" class="btn btn-default">Submit Comments</button>
+                        </div>
+                      </div>
+
+                    </form>
+
+                  </div> <!-- /coursepage-improveform -->
+
+              </div>
+
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+
+        
+          <div class="footer-cnt">
+    
+    <div class="container-fluid">
+
+      <div class="col-xs-8 footer-searchlinks">
+        <h3>Search Courses By:</h3>
+        <a href="/subjects">All Subjects <span>(60+)</span></a>
+        <a href="/universities">All Universities <span>(480+)</span></a>
+        <a href="/providers">All Providers <span>(14+)</span></a>
+      </div>
+      
+      
+      <div class="col-xs-8 footer-links">
+
+        <ul>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/blog" target="_blank">CourseBuffet Blog</a></li>
+          <li><a href="/about.html">About CourseBuffet</a></li>
+          
+          <li><a href="/privacy_policy.html">Privacy Policy</a></li>
+
+          <li><a href="mailto:contact@coursebuffet.com">Contact Us</a></li>
+        </ul>
+
+        <p>Thank you for checking out CourseBuffet. We are hard at work to make CourseBuffet your favourite place to find courses. <br> If you would like to get in touch please drop a line at <em>contact [at] coursebuffet.com</em></p>
+        <p>&copy; 2015 CourseBuffet LLC, Some Rights Reserved</p>
+      </div>
+      
+      
+      <div class="col-xs-4 footer-social">
+        <span>Connect with us</span>
+        
+
+<div class="fb-page" data-href="https://www.facebook.com/coursebuffet" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/coursebuffet"><a href="https://www.facebook.com/coursebuffet">CourseBuffet</a></blockquote></div></div>
+
+<br><br>
+
+  <div style="text-algin:center">
+<a href="https://twitter.com/CourseBuffet" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @CourseBuffet</a>
+
+</div>
+
+      </div>
+      
+      
+      
+    </div>
+    
+  </div> <!-- /footer-cnt -->
+
+        <div class="cboffcan offcanvas navmenu navmenu-default navmenu-fixed-right">
+
+  <ul class="offcannav nav navmenu-nav">
+  	<div>
+    </div>
+
+    <div>
+	    <span>Explore Courses By:</span>
+
+	    <li><a href="/subjects">All Subjects</a></li>
+	    
+	    <li><a href="/universities">All Universities</a></li>
+
+	    <li><a href="/providers">All Providers</a></li>
+    </div>
+
+    <div>
+    	<li><a href="/faq">FAQ</a></li>
+
+    	<li><a href="/blog">CourseBuffet Blog</a></li>
+
+    </div>
+
+	<div>
+	<span>Connect with CourseBuffet:</span>
+<li><div class="fb-page" data-href="https://www.facebook.com/coursebuffet" data-height="70px" data-width="270px" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/coursebuffet"><a href="https://www.facebook.com/coursebuffet">CourseBuffet</a></blockquote></div></div></li><br>
+
+         <li><iframe
+  src="https://platform.twitter.com/widgets/follow_button.html?screen_name=CourseBuffet&show_screen_name=true&show_count=false&size=l"
+  title="Follow @CourseBuffet"
+  width="270"
+  height="50"
+  style="border: 0; overflow: hidden;"
+  ></iframe>
+  		</li>
+
+
+    </div>
+  </ul>
+
+</div>
+
+
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/newdesign/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+        <script type="text/javascript" src="/newdesign/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/newdesign/js/coursebuffet.js"></script>
+        <script type="text/javascript" src="/newdesign/js/star-rating.min.js"></script>
+        <script type="text/javascript" src="/newdesign/js/sweet-alert.min.js"></script>
+        <script type="text/javascript" src="/newdesign/js/cbheader.js"></script>
+        <script type="text/javascript" src="/newdesign/js/cbshare.js"></script>
+        <script type="text/javascript" src="/newdesign/js/typeahead.bundle.min.js"></script>
+        <script type="text/javascript" src="/newdesign/js/handlebars.js"></script>
+        <script type="text/javascript" src="/newdesign/js/jquery.lazyload.min.js"></script>
+        <script type="text/javascript" src="/newdesign/js/polyfill.object-fit.min.js "></script>
+        <script type="text/javascript" src="/newdesign/js/slick.min.js"></script>
+        <script type="text/javascript" src="/newdesign/js/jasny-bootstrap.min.js"></script>
+
+
+        
+        
+
+
+        <script type="text/javascript">
+ 
+       
+
+        $(function(){
+          $("img.aalsi").lazyload({
+            threshold : 200,
+            effect : "fadeIn"
+          });
+          // Comment For CFA
+          $( "#comment-form-cfa" ).on("click", function(e) {
+            e.preventDefault();
+            $(".comment-form").removeClass("hidden");
+            
+          });
+          // Comment For CFA END
+
+
+
+          // RATING
+          var ratingoptions = {'stars' : 5,'min' : 0, 'max' : 5, 'step' : 1, 'size' : 'xs', 'showCaption': false, 'showClear' : false};
+
+          var ratingoptionsdiff = {
+            'stars' : 5,'min' : 0, 'max' : 5, 'step' : 1, 'size' : 'xs', 'showCaption': true, 'showClear' : false,
+            'starCaptions' : {
+              1: 'Too Easy',
+              2: 'Easy',
+              3: 'Moderate',
+              4: 'Hard',
+              5: 'Too Hard'
+            },
+            'starCaptionClasses' : {
+              1: 'label comments-list-diffstarlabel diff-too-easy',
+              2: 'label comments-list-diffstarlabel diff-easy',
+              3: 'label comments-list-diffstarlabel diff-moderate',
+              4: 'label comments-list-diffstarlabel diff-hard',
+              5: 'label comments-list-diffstarlabel diff-too-hard'
+            }
+
+          };
+
+          $("#comment-form-stars-learn").rating(ratingoptions);
+          $("#comment-form-stars-enjoy").rating(ratingoptions);
+          $("#comment-form-stars-overall").rating(ratingoptions);
+          $("#comment-form-stars-diff").rating(ratingoptionsdiff);
+
+
+
+          objectFit.polyfill({
+                    selector: 'img.aalsi', // this can be any CSS selector
+                    fittype: 'cover', // either contain, cover, fill or none
+                    disableCrossDomain: 'true' // either 'true' or 'false' to not parse external CSS files.
+          });
+
+
+
+          $('.popularcourselist').slick({
+              accessibility: false,
+              arrows: true,
+              draggable: false,
+              touchMove: false,
+              swipe: true,
+              slidesToShow: 3,
+              slidesToScroll: 2,
+              infinite: false,
+              lazyLoad: 'ondemand'
+
+          });
+
+
+        });
+
+
+      </script>
+
+      <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-40150504-1', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+
+</script>
+
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=188163291235734";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
+      
+    </body>
+
+</html>

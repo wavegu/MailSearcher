@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="WordPress 3.8.11">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>  Vladimir Vapnik</title>
+<link rel="dns-prefetch" href="/wp-content/themes/kdnuggets/style.css">
+<link rel="dns-prefetch" href="/wp-content/themes/kdnuggets/js/jquery-1.9.1.min.js">
+<link rel="dns-prefetch" href="/aps/all.js">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="shortcut icon" href="/wp-content/themes/kdnuggets/images/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="KDnuggets: Analytics, Big Data, Data Mining and Data Science Feed" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="KDnuggets &raquo; Feed" href="http://www.kdnuggets.com/feed">
+<link rel="alternate" type="application/rss+xml" title="KDnuggets &raquo; Comments Feed" href="http://www.kdnuggets.com/comments/feed">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.kdnuggets.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.kdnuggets.com/wp-includes/wlwmanifest.xml">
+<link rel="canonical" href="http://www.kdnuggets.com/tag/vladimir-vapnik">
+<link type="text/css" rel="stylesheet" href="/wp-content/themes/kdnuggets/style.css" media="screen">
+<style type="text/css" media="all">/*<![CDATA[ */
+.emergencyn{padding:10px 17px 0 0; float:right;}
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+/* ]]>*/</style>
+<script type="text/javascript" src="/wp-content/themes/kdnuggets/js/jquery-1.9.1.min.js" ></script>
+<script type="text/javascript" src="/aps/all.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">//<![CDATA[
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-361129-1'], ['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]></script>
+</head>
+ 
+<body class="archive tag tag-vladimir-vapnik tag-2218">
+  <div class="main_wrapper">
+    <div id="wrapper">
+      <div id="header" style="position: fixed; align: center; z-index: 99999;">
+        <div class="logo">
+          <h1><a href="/">KDnuggets</a></h1>
+        </div>
+        <div id="header_log">
+          <b>Data Mining, Analytics, Big Data, and Data Science</b>
+ <br>Subscribe to <a href="/news/subscribe.html" target="_blank"><b>KDnuggets News</b></a> &nbsp;|
+ Follow <a href="http://twitter.com/kdnuggets"><img src="/images/twit_22.png" width=22 height=22 style="vertical-align: bottom" alt="Twitter"> @KDnuggets</a>&nbsp;
+ <a href="http://facebook.com/kdnuggets" target="_blank"><img src="http://www.kdnuggets.com/images/fb_22.png" width=22 height=22 style="vertical-align: bottom" alt="Facebook"></a> &nbsp;
+ <a href="http://www.linkedin.com/groups/KDnuggets-Analytics-Data-Mining-54257" target="_blank"><img src="http://www.kdnuggets.com/images/in_22.png" width=22 height=22 style="vertical-align: bottom" alt="LinkedIn"></a> &nbsp; |
+ <a href="http://www.kdnuggets.com/gps.html"><b>Contact</b></a>
+        </div>
+        <div class="search">
+          <form method="get" id="searchform" action="http://www.kdnuggets.com/">
+	  <input value="" name="s" id="s" placeholder="search KDnuggets" type="text">
+	  <input value="Search" type="submit"></form>
+        </div>
+        <div class="navigation"><ul id="menu-menu" class="menu"><li id="menu-item-1070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1070"><a href="/software/index.html">Data Mining Software</a></li>
+<li id="menu-item-13756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13756"><a href="/news/index.html">News</a></li>
+<li id="menu-item-13364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13364"><a href="/jobs/index.html">Jobs</a></li>
+<li id="menu-item-13371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13371"><a href="/academic/index.html">Academic</a></li>
+<li id="menu-item-13145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13145"><a href="http://www.kdnuggets.com/companies/index.html">Companies</a></li>
+<li id="menu-item-13366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13366"><a href="http://www.kdnuggets.com/courses/index.html">Courses</a></li>
+<li id="menu-item-1499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1499"><a href="http://www.kdnuggets.com/datasets/index.html">Datasets</a></li>
+<li id="menu-item-13368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13368"><a href="/data_mining_course/index.html">Data Mining Course</a></li>
+<li id="menu-item-14286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14286"><a href="http://www.kdnuggets.com/education/index.html">Education</a></li>
+<li id="menu-item-14752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14752"><a href="/meetings/index.html">Meetings</a></li>
+<li id="menu-item-13367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13367"><a href="/polls/index.html">Polls</a></li>
+<li id="menu-item-13721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13721"><a href="/webcasts/index.html">Webcasts</a></li>
+</ul></div>      </div> <!--#header end-->
+      <div id="spacer" style="height: 100px;">
+         &nbsp;
+      </div>
+      <div id="content_wrapper">
+        <div id="ad_wrapper">
+             <script type="text/javascript">kpath = 'http://www.kdnuggets.com/'; aw9();</script>
+        </div>
+
+<div class="breadcumb">
+  <a href="http://www.kdnuggets.com">KDnuggets Home</a> &raquo; <a href="/news/index.html">News</a> &raquo; <a href="/tags">Tags</a> &raquo; Vladimir Vapnik</div>
+<div id="sidebar-left">
+<table>
+  <tr>
+    <td width=300 valign=top align=center cellpadding="0" cellspacing="0"><!-- tabm-left -->
+      <table class="latn" cellpadding=3>
+        <tr><th class="latn"><a href="/news/index.html"><i><font color=red>Latest</font> News</i></a></th></tr>
+        <tr><td align=left> 
+            <aside class='widget slposts-widget'><div class='slposts-container slposts-ulist-container slp-instance-3'><ul class='slposts-wrapper slposts-ulist nav nav-tabs nav-stacked'><li class='slposts-ulist-litem'><div class='slposts-caption'>&rarr; <a href='http://www.kdnuggets.com/2015/10/sas-explaining-analytics-decision-makers-insights-actions.html'>Explaining Analytics to Decision Makers: Insights to Actions</a></div></li><li class='slposts-ulist-litem'><div class='slposts-caption'>&rarr; <a href='http://www.kdnuggets.com/2015/10/top-tweets-oct20-26.html'>Top KDnuggets tweets, Oct 20-26: Why Self-Driving Cars Must Be Able to Kill: an impossible dilemma of algorithmic morality</a></div></li><li class='slposts-ulist-litem'><div class='slposts-caption'>&rarr; <a href='http://www.kdnuggets.com/2015/10/tma-webinar-data-mining-failure-to-launch-nov10.html'>Webinar: Data Mining: Failure to Launch [Nov 10]</a></div></li><li class='slposts-ulist-litem'><div class='slposts-caption'>&rarr; <a href='http://www.kdnuggets.com/jobs/15/10-27-microsoft-data-scientist-advanced-analytics-evangelist.html'>Microsoft: Data Scientist/Advanced Analytics Evangelist..</a></div></li><li class='slposts-ulist-litem'><div class='slposts-caption'>&rarr; <a href='http://www.kdnuggets.com/jobs/15/10-27-microsoft-r-data-scientist.html'>Microsoft: R Data Scientist..</a></div></li></ul></div></aside> 
+       </td></tr>
+      </table>
+      <br><script type="text/javascript"> ew9();</script>
+      <br><script type="text/javascript"> sbm();</script>
+    </td> <!-- tabm-left end -->
+  </tr>
+</table>
+
+</div>
+<div id="content" class="single">
+<h1 style="margin-bottom:10px;">Tag: Vladimir Vapnik</h1>
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_facebook"></a><span class="addthis_separator">&nbsp;</span>
+<a class="addthis_button_linkedin"></a><span class="addthis_separator">&nbsp;</span>
+<a class="addthis_button_google_plusone"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="kdnuggets">Tweet</a>
+<script async type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=gpsaddthis"></script>
+<script async type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div><hr align=center size=1 width=500 color="#999999">
+<ul class="three_ul">
+  <li><a href="http://www.kdnuggets.com/2015/10/deep-learning-vapnik-einstein-devil-yandex-conference.html"><b>Does Deep Learning Come from the Devil?</b></a> <font color="#808080">- Oct 9, 2015.</font><br>
+    <div style="margin-left: 12px; font-size: small;">Deep learning has revolutionized computer vision and natural language processing. Yet the mathematics explaining its success remains elusive. At the Yandex conference on machine learning prospects and applications, Vladimir Vapnik offered a critical perspective.</div>
+     <p class="tags"><span>Tags: <a href="http://www.kdnuggets.com/tag/berlin" rel="tag">Berlin</a>, <a href="http://www.kdnuggets.com/tag/deep-learning" rel="tag">Deep Learning</a>, <a href="http://www.kdnuggets.com/tag/machine-learning" rel="tag">Machine Learning</a>, <a href="http://www.kdnuggets.com/tag/support-vector-machines" rel="tag">Support Vector Machines</a>, <a href="http://www.kdnuggets.com/tag/svm" rel="tag">SVM</a>, <a href="http://www.kdnuggets.com/tag/vladimir-vapnik" rel="tag">Vladimir Vapnik</a>, <a href="http://www.kdnuggets.com/tag/yandex" rel="tag">Yandex</a>, <a href="http://www.kdnuggets.com/tag/zachary-lipton" rel="tag">Zachary Lipton</a></span></p>
+   <li><a href="http://www.kdnuggets.com/2014/12/top-tweets-nov24-30.html"><b>Top KDnuggets tweets, Nov 24-30: How Word Meanings Change; Data wrangling with R: Things I wish I&#8217;d been told</b></a> <font color="#808080">- Dec 1, 2014.</font><br>
+    <div style="margin-left: 12px; font-size: small;">Linguistic Mapping Reveals How Word Meanings Sometimes Change Overnight; Practical #DataScience Cookbook, helps data practitioner; Facebook #AI team hires Vladimir Vapnik, father of #SVM; Starting data analysis/wrangling with R: Things I wish I'd been told.</div>
+     <p class="tags"><span>Tags: <a href="http://www.kdnuggets.com/tag/big-data" rel="tag">Big Data</a>, <a href="http://www.kdnuggets.com/tag/book" rel="tag">Book</a>, <a href="http://www.kdnuggets.com/tag/data-science" rel="tag">Data Science</a>, <a href="http://www.kdnuggets.com/tag/facebook" rel="tag">Facebook</a>, <a href="http://www.kdnuggets.com/tag/r" rel="tag">R</a>, <a href="http://www.kdnuggets.com/tag/text-analytics" rel="tag">Text Analytics</a>, <a href="http://www.kdnuggets.com/tag/vladimir-vapnik" rel="tag">Vladimir Vapnik</a></span></p>
+   <li><a href="http://www.kdnuggets.com/2014/11/top-tweets-nov26-28.html"><b>Top KDnuggets tweets, Nov 26-28: Facebook AI team hires Vladimir Vapnik, father of SVM</b></a> <font color="#808080">- Nov 29, 2014.</font><br>
+    <div style="margin-left: 12px; font-size: small;">Facebook's #AI team hires Vladimir Vapnik, father of popular #SVM algorithm; Starting data analysis/wrangling with R: Things I wish I'd been told; How to deal with missing values - advice from @Knime #DataMining; Understanding The Various Sources of #BigData - Infographic.</div>
+     <p class="tags"><span>Tags: <a href="http://www.kdnuggets.com/tag/facebook" rel="tag">Facebook</a>, <a href="http://www.kdnuggets.com/tag/knime" rel="tag">Knime</a>, <a href="http://www.kdnuggets.com/tag/missing-values" rel="tag">Missing values</a>, <a href="http://www.kdnuggets.com/tag/r" rel="tag">R</a>, <a href="http://www.kdnuggets.com/tag/svm" rel="tag">SVM</a>, <a href="http://www.kdnuggets.com/tag/vladimir-vapnik" rel="tag">Vladimir Vapnik</a></span></p>
+   <li><a href="http://www.kdnuggets.com/2014/02/exclusive-yann-lecun-deep-learning-facebook-ai-lab.html"><b>KDnuggets Exclusive: Interview with Yann LeCun, Deep Learning Expert, Director of Facebook AI Lab</b></a> <font color="#808080">- Feb 20, 2014.</font><br>
+    <div style="margin-left: 12px; font-size: small;">We discuss what enabled Deep Learning to achieve remarkable successes recently, his argument with Vapnik about (deep) neural nets vs kernel (support vector) machines, and what kind of AI can we expect from Facebook.</div>
+     <p class="tags"><span>Tags: <a href="http://www.kdnuggets.com/tag/andrew-ng" rel="tag">Andrew Ng</a>, <a href="http://www.kdnuggets.com/tag/deep-learning" rel="tag">Deep Learning</a>, <a href="http://www.kdnuggets.com/tag/facebook" rel="tag">Facebook</a>, <a href="http://www.kdnuggets.com/tag/nyu" rel="tag">NYU</a>, <a href="http://www.kdnuggets.com/tag/support-vector-machines" rel="tag">Support Vector Machines</a>, <a href="http://www.kdnuggets.com/tag/vladimir-vapnik" rel="tag">Vladimir Vapnik</a>, <a href="http://www.kdnuggets.com/tag/yann-lecun" rel="tag">Yann LeCun</a></span></p>
+ </ul>
+	
+<!--#content end--></div>
+
+<div id="sidebar">
+<script type="text/javascript"> kpath = 'http://www.kdnuggets.com/'; rw9();</script>
+</div>
+<!--#content_wrapper end--></div>
+<br/>
+<br/>
+<div id="footer">
+  <div class="breadcumb">
+     <a href="http://www.kdnuggets.com">KDnuggets Home</a> &raquo; <a href="/news/index.html">News</a> &raquo; <a href="/tags">Tags</a> &raquo; Vladimir Vapnik  </div>
+<br>
+<br>&copy; 2015 KDnuggets. <br>&nbsp;
+<div class="kd_bottom">
+  &nbsp;&nbsp;Subscribe to <a href="http://www.kdnuggets.com/news/subscribe.html" target="_blank" onclick="_gaq.push(['_trackPageview','/x/bot/sub']);" ><b>KDnuggets News</b></a> &nbsp;|&nbsp; 
+ Follow <a href="http://twitter.com/kdnuggets"  onclick="_gaq.push(['_trackPageview','/x/bot/twt']);"><img src="http://www.kdnuggets.com/images/twit_22.png" width=25 height=25 style="vertical-align: bottom"> <b>@KDnuggets</b></a>&nbsp;&nbsp;
+  <a href="http://facebook.com/kdnuggets" target="_blank"  onclick="_gaq.push(['_trackPageview','/x/bot/fb']);"><img src="http://www.kdnuggets.com/images/fb_22.png" alt="Facebook" style="vertical-align: bottom" height="25" width="25"></a> &nbsp;&nbsp;
+  <a href="http://www.linkedin.com/groups/KDnuggets-Analytics-Data-Mining-54257" target="_blank"  onclick="_gaq.push(['_trackPageview','/x/bot/in']);"><img src="http://www.kdnuggets.com/images/in_22.png" alt="LinkedIn" style="vertical-align: bottom" height="25" width="25"></a> 
+</div>
+</div>
+<div class="clear"><!--blank--></div></div>
+<link rel='stylesheet' id='slpcss-css'  href='http://www.kdnuggets.com/wp-content/plugins/single-latest-posts-lite/core/css/default_style.css?ver=3.8.11' type='text/css' media='all' />
+<!--/.main_wrapper--></div>
+
+

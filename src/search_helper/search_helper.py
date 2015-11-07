@@ -1,6 +1,6 @@
 from web_helper import WebHelper
 
-from src.search_helper.my_html_parser import *
+from src.my_html_parser import *
 
 
 class SearchHelper:
