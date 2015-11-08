@@ -1,0 +1,81 @@
+David Botstein
+Hongjie Dai
+Hector Garcia-Molina
+Marco Dorigo
+Patrick O. Brown
+Charles E. Leiserson
+Stanley Osher
+Christos Faloutsos
+Jon Kleinberg
+Nicholas R. Jennings
+Amos Bairoch
+Henri Prade
+Terrence S. Furey
+James E. Gunn
+Andrew Y. Ng
+Daphne Koller
+Carl W. Cotman
+Mark Gerstein
+Terrie E. Moffitt
+Antonio Lanzavecchia
+Gavin Sherlock
+Paul Slovic
+Serafim Batzoglou
+Michael G. Rosenfeld
+David E. Culler
+David Heckerman
+Thorsten Joachims
+Rajeev Alur
+Thomas Stützle
+Robert P. Kirshner
+Joseph M. Hellerstein
+Jun Wang
+Joseph Y. Halpern
+Salim Yusuf
+Shih-Fu Chang
+Moni Naor
+Yoram Singer
+Detlef Weigel
+Ralph Weissleder
+Jörg Schultz
+Johannes Gehrke
+Alexander S. Szalay
+Ian F. Akyildiz
+Giorgio Bernardi
+Raymond J. Dolan
+Michael R. Hoffmann
+Pietro Perona
+Paul Tempst
+Bruce Fischl
+Kazunori Kataoka
+Klaus-Robert Müller
+John P. A. Ioannidis
+Monica S. Lam
+Ron Kikinis
+Alfonso Valencia
+Vincenzo Di Marzo
+Vineet Bafna
+Thomas J. Hudson
+Craig J. Hogan
+Wil M. P. Van Der Aalst
+Noam Nisan
+Philip E. Bourne
+Yitai Qian
+Janet Rossant
+John M. Carroll
+Arnold J. Levine
+Songwu Lu
+Hermann Wagner
+Rand D. Conger
+Joanne Chory
+Carolyn R. Bertozzi
+Xiaohui Fan
+Sergey Brin
+Stijn Claessens
+Richard A. Young
+Henry C. Ferguson
+Sally Floyd
+Leaf Huang
+Shamkant B. Navathe
+Frederick W. Alt
+Martin Vingron

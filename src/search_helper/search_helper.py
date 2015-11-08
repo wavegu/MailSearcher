@@ -39,7 +39,7 @@ class SearchHelper:
 class GoogleHelper(SearchHelper):
     __parser__ = GooglePageHTMLParser
     __RESULT_DIR_PATH__ = '../google_result/'
-    __SEARCH_ROOT_URL__ = 'https://www.google.com/search?q='
+    __SEARCH_ROOT_URL__ = 'https://www.google.com/search?hl=en&safe=off&q='
 
 
 class BingHelper(SearchHelper):

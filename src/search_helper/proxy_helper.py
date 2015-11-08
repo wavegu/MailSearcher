@@ -1,9 +1,7 @@
-from scrapy.http import Request
-import string, random
-from pymongo import MongoClient
-from bson import ObjectId
-import urllib, socket
-import time
+import random
+import urllib
+import socket
+import urllib2
 
 
 class ProxyHelper:
@@ -16,7 +14,6 @@ class ProxyHelper:
         for line in proxy.readlines():
             if self.test_proxy(line.strip()):
                 self.proxies.append(line.strip())
-        print 'proxis is', self.proxies
 
     def choose_proxy(self):
         if self.proxies:
@@ -32,19 +29,22 @@ class ProxyHelper:
         return proxy_candidate
 
     @classmethod
-    def test_proxy(cls, proxy):
-        print 'testing', proxy
+    def test_proxy(cls, proxy_ip):
         socket.setdefaulttimeout(3.0)
-        test_url = 'http://www.google.com'
+        test_url = 'https://www.google.com/search?hl=en&safe=off&q=wave+jietang'
         try:
-            f = urllib.urlopen(test_url, proxies={'http': 'http://:@' + str(proxy)})
+            proxy = urllib2.ProxyHandler({'http': 'http://:@' + str(proxy_ip)})
+            auth = urllib2.HTTPBasicAuthHandler()
+            opener = urllib2.build_opener(proxy, auth, urllib2.HTTPHandler)
+            opener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 6.1 WOW64 rv:23.0) Gecko/20130406 Firefox/23.0')]
+            f = opener.open(test_url)
         except Exception as e:
-            print "Proxy " + proxy + " fails!", e
+            print "Proxy " + proxy_ip + " fails!", e
             return False
         if f.getcode() != 200:
-            print "Proxy " + proxy + " fails!", type(f.getcode())
+            print "Proxy " + proxy_ip + " fails!", f.getcode()
             return False
-        print proxy, 'ok...'
+        print proxy_ip, 'ok...', f.getcode()
         return True
 
 if __name__ == '__main__':

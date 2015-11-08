@@ -1,89 +1,89 @@
 # encoding: utf-8
 
-import urllib2
+import os
 import random
-import urllib
-import socket
 import time
 
-from src.search_helper.search_helper import *
-from src.search_helper.web_helper import WebHelper
+from src.search_helper.search_helper import GoogleHelper
+from my_test import MyTest
 
 
 class PageSearcher:
 
     def __init__(self):
         self.names = []
+        self.ok_name_list = []
+        self.error_name_list = []
 
-    def get_google_page_from(self, person_name):
-        pass
+    def get_google_page_from(self, person_name, search_helper):
+        name = person_name.replace('\n', '')
+        print '******', name, '*******'
+        personal_path = search_helper.__RESULT_DIR_PATH__ + name + '/'
+        # 建立搜索引擎文件夹
+        if not os.path.exists(search_helper.__RESULT_DIR_PATH__):
+            os.mkdir(search_helper.__RESULT_DIR_PATH__)
+        # 建立每个人的文件夹
+        if not os.path.exists(personal_path):
+            os.mkdir(personal_path)
+        # 打开文件
+        content_file = open(personal_path + 'content.txt', 'w')
+        search_page_cache_file = open(personal_path + 'search_page.html', 'w')
+        try:
+            # 获取搜索主页，并保存在个人文件夹下
+            search_page_content = search_helper.get_search_page_by_name(name + ' email')
+            if search_page_content is None:
+                self.error_name_list.append(name)
+                print '[Error]@EmailSearcher.get_google_page_from(): search_page_content is None'
+                with open('missing_name.txt', 'w') as missing_name_file:
+                    for missing_name in searcher.error_name_list:
+                        missing_name_file.write(str(missing_name) + '\n')
+                return False
+            search_page_cache_file.write(search_page_content)
+            search_page_cache_file.close()
+            self.ok_name_list.append(name)
+            print name, 'OK...'
+            with open('ok_name.txt', 'a') as ok_name_file:
+                ok_name_file.write(str(name) + '\n')
 
-    def run(self, filename, search_helper):
-        # 得到待搜索的名字列表
-        self.names = open(filename).readlines()
+        except Exception as e:
+            print e
+            self.error_name_list.append(name)
+            with open('missing_name.txt', 'w') as missing_name_file:
+                for missing_name in searcher.error_name_list:
+                    missing_name_file.write(str(missing_name) + '\n')
+            return False
+        finally:
+            content_file.close()
+        return True
 
-        for name in self.names:
-            name = name.replace('\n', '')
-            print '******', name, '*******'
-            personal_path = search_helper.__RESULT_DIR_PATH__ + name + '/'
-            # 建立搜索引擎文件夹
-            if not os.path.exists(search_helper.__RESULT_DIR_PATH__):
-                os.mkdir(search_helper.__RESULT_DIR_PATH__)
-            # 建立每个人的文件夹
-            if not os.path.exists(personal_path):
-                os.mkdir(personal_path)
-            # 建立个人文件夹/结果页面文件夹
-            personal_pages_path = personal_path + 'pages/'
-            if not os.path.exists(personal_pages_path):
-                os.mkdir(personal_pages_path)
-            # 打开文件
-            content_file = open(personal_path + 'content.txt', 'w')
-            # search_page_cache_file = open(personal_path + 'search_page.html', 'w')
+    def start_from(self, start_name):
+        flag = False
+        test_case = MyTest()
+        people_list = test_case.get_test_people_list('citation_top_1000.json')
+        try:
+            for person in people_list:
+                if person.name == start_name:
+                    flag = True
+                    print 'starting from', start_name
+                if not flag:
+                    continue
+                searcher.get_google_page_from(str(person.name), GoogleHelper())
+                time.sleep(random.randint(1, 4))
+        except Exception as e:
+            print e
+
+    def refresh_empty_pages(self):
+        google_result_path = '../google_result/'
+        for person_name in os.listdir(google_result_path):
             try:
-                # # 获取搜索主页，并保存在个人文件夹下
-                # search_page_content = search_helper.get_search_page_by_name(name + ' email')
-                # if search_page_content is None:
-                #     print '[Error]@EmailSearcher.run(): search_page_content is None'
-                #     continue
-                # search_page_cache_file.write(search_page_content)
-                # search_page_cache_file.close()
-
-                # 获取搜索结果列表
-                search_page_content = open(personal_path + 'search_page.html').read()
-                title_url_dict = search_helper.get_items_from_search_page(search_page_content)
-                print title_url_dict
-                # 对每条搜索结果：保存html内容并分析
-                for title, url in title_url_dict:
-                    try:
-                        # 获取页面html
-                        page_content = WebHelper.get_page_content_from_url(url)
-                        if page_content is None:
-                            continue
-                        # 保存页面html
-                        page_file = open(personal_pages_path + title + '.html', 'w')
-                        page_file.write(page_content)
-
-                        # # 分析抽取email列表
-                        # self.mailParser.feed(page_content)
-                        # email_list = list(set(self.mailParser.get_email_list()))
-                        # # 保存email列表
-                        # for email in email_list:
-                        #     content_file.write(email + '\n')
-                    except urllib2.HTTPError:
-                        print '[Error]@EmailSearcher.run():', url
-                        continue
-                    finally:
-                        pass
+                with open(google_result_path + person_name + '/search_page.html') as search_page:
+                    if len(search_page.read()) < 10:
+                        self.get_google_page_from(person_name, GoogleHelper())
             except Exception as e:
                 print e
-            finally:
-                time.sleep(2)
-                content_file.close()
-                # search_page_cache_file.close()
-                print name, 'OK...'
 
 
 if __name__ == '__main__':
     searcher = PageSearcher()
-    # searcher.run('../resource/names.list', GoogleHelper())
-    searcher.get_google_page_from('wave')
+    # searcher.start_from('Warren Gish')
+    searcher.refresh_empty_pages()
