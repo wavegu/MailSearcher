@@ -1,0 +1,5 @@
+sakaki@ims.u-tokyo.ac.jp	[13]
+sakaki@gsc.riken.jp	[13]
+sugiyama@postman.riken.go.jp	[3]
+boris.kholodenko@ucd.toyohashi	[2]
+ryugaku@office.tut.ac.jp	[2]

@@ -29,20 +29,16 @@ class MyTest:
         self.people = []
 
     def get_test_people_list(self, file_path):
-        json_content = open(file_path).read()
-        people_list = json.loads(json_content)
-        for person_dict in people_list:
-            person = Person(person_dict)
-            if person.email:
-                self.people.append(Person(person_dict))
+        self.people = [str(name).replace('\n', '') for name in open(file_path).readlines()]
         return self.people
 
     def display(self):
         for person in self.people:
-            print person.email
+            print person
+        print len(self.people)
 
 
 if __name__ == '__main__':
     testCase = MyTest()
-    testCase.get_test_people_list()
+    testCase.get_test_people_list('../normal_name_list.txt')
     testCase.display()

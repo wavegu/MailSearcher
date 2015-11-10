@@ -1,0 +1,6 @@
+mbs@ucla.edu	[4]
+mbs@ee.ucla.edu	[4]
+mbs@ee.ucla.edu.mani	[4]
+mbs@ee.ucl	[4]
+destrin@cs.ucla.edu	[2]
+email at ucla.edu	[2]

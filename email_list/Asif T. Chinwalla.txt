@@ -1,0 +1,8 @@
+achinwal@wustl.edu	[3]
+thepler@wustl.edu	[2]
+kcrouse@wustl.edu	[2]
+xqhuang@cs.iastate.edu	[2]
+sleong@wustl.edu	[1]
+rwilson@watson.wustl.edu	[1]
+rwilson@watson.wustl.edudesign	[1]
+kersli@genome.wi.mit.edu	[1]

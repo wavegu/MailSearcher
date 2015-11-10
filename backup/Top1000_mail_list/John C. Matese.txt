@@ -1,0 +1,6 @@
+jcmatese@genomics.princeton.edu	[15]
+email at princeton.edu	[3]
+sherlock@genome.stanford.bmc	[2]
+brazma@ebi.ac.uk	[2]
+sherlock@genome.stanford	[2]
+botstein@princeton.edu	[1]

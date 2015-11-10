@@ -1,0 +1,5 @@
+toga@loni.usc.edu	[10]
+toga@loni.ucla.edu	[10]
+toga@loni.ucla.edu.lifeboat	[10]
+thompson@loni.ucla.edu.gaain	[2]
+thompson@loni.ucla.edu	[2]

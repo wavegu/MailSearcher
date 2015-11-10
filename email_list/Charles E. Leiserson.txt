@@ -1,0 +1,8 @@
+locutus at mit dot edu.charles	[17]
+locutus at mit dot edu	[4]
+cel@mit.edu	[4]
+email at mit.edu	[3]
+angelee@wustl.edu	[3]
+jfineman@csail.mit.edu	[2]
+cbruins@csail.mit.edu	[2]
+info@videolectures.net	[1]

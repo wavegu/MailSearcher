@@ -1,0 +1,4 @@
+senator@dorgan.senate.gov	[2]
+domenici@domenici.senate.gov	[2]
+dick@durbin.senate.gov	[2]
+dick@durbin.senate.gov.senator	[2]

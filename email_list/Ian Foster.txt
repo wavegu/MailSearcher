@@ -1,0 +1,6 @@
+fosterci@jmu.edu	[14]
+foster@anl.gov	[13]
+foster@uchicago.edu	[13]
+foster@mcs.anl.gov	[13]
+ian@star-legal.co.uk	[7]
+named-postdoc@anl.gov	[1]

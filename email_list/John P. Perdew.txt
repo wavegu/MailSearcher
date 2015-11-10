@@ -1,0 +1,4 @@
+perdew@mailhost.tcs.tulane.edu	[14]
+perdew@temple.edu	[14]
+perdew@temple.missing	[14]
+email at temple.edu	[3]

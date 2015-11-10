@@ -178,7 +178,12 @@ def parse_mails_from_search_page(engine_name):
     if not os.path.isdir(mail_list_path):
         os.mkdir(mail_list_path)
     search_result_path = '../' + engine_name + '_result/'
+    counter = 0
     for person in os.listdir(search_result_path):
+        counter += 1
+        print '[' + str(counter) + ']', person
+        if person + '.txt' in os.listdir(mail_list_path):
+            continue
         if not os.path.isdir(search_result_path + person):
             continue
         search_page_path = search_result_path + person + '/search_page.html'

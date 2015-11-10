@@ -1,0 +1,5 @@
+thorsten.joachims@cs.cmu.edu	[33]
+thorsten@joachims.org	[17]
+joachims@ls8.cs.uni-dortmund.de	[17]
+tj@cs.cornell.edu	[3]
+email at cs.cornell.edu	[2]

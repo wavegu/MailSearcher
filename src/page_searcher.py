@@ -44,6 +44,7 @@ class PageSearcher:
             print name, 'OK...'
             with open('ok_name.txt', 'a') as ok_name_file:
                 ok_name_file.write(str(name) + '\n')
+            time.sleep(random.randint(1, 3))
 
         except Exception as e:
             print e
@@ -59,16 +60,17 @@ class PageSearcher:
     def start_from(self, start_name):
         flag = False
         test_case = MyTest()
-        people_list = test_case.get_test_people_list('citation_top_1000.json')
+        people_list = test_case.get_test_people_list('normal_name_list.txt')
         try:
             for person in people_list:
-                if person.name == start_name:
+                if person in os.listdir('../google_result/'):
+                    continue
+                if person == start_name or start_name == '':
                     flag = True
                     print 'starting from', start_name
                 if not flag:
                     continue
-                searcher.get_google_page_from(str(person.name), GoogleHelper())
-                time.sleep(random.randint(1, 4))
+                searcher.get_google_page_from(str(person), GoogleHelper())
         except Exception as e:
             print e
 
@@ -85,5 +87,5 @@ class PageSearcher:
 
 if __name__ == '__main__':
     searcher = PageSearcher()
-    # searcher.start_from('Warren Gish')
+    # searcher.start_from('')
     searcher.refresh_empty_pages()

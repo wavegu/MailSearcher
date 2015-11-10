@@ -1,0 +1,5 @@
+kazuo.shinozaki@riken.jp	[29]
+sinozaki@rtc.riken.go.jp	[3]
+takashi.kuromori@riken.jp	[3]
+sugiyama@postman.riken.go.jp	[2]
+yao@riken.jp	[1]

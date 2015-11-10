@@ -1,0 +1,6 @@
+lstaudt@box-l.nih.staudt	[14]
+lstaudt@box-l.nih	[14]
+lstaudt@mail.nih.gov.distinct	[14]
+lstaudt@mail.nih.gov	[14]
+lstaudt@box-l.nih.gov	[14]
+r@mail . nih . gov	[1]

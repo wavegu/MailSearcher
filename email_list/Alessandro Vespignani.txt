@@ -1,0 +1,4 @@
+a.vespignani@neu.amazon.com	[22]
+a.vespignani@neu.edu	[22]
+a.vespignani at neu.edu	[22]
+email at neu.edu	[2]

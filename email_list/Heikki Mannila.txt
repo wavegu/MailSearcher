@@ -1,0 +1,8 @@
+heikki.mannila at aalto.fi	[27]
+heikki.mannila@hut.fi	[27]
+heikki.mannila@aalto.fi	[27]
+firstname.surname@helsinki.fi	[2]
+webmaster@mail.cis.hut.fi	[2]
+firstname.lastname@aka.fi	[2]
+webmaster@mail.cis.hut.fiheikki	[2]
+info@videolectures.net	[1]

@@ -1,0 +1,3 @@
+a1varki@ucsd.edu	[12]
+varkiadmin@ucsd.edu.varki	[12]
+varkiadmin@ucsd.edu	[12]

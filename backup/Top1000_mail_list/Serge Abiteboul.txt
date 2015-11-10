@@ -1,0 +1,5 @@
+serge.abiteboul@inria.fr	[29]
+serge.abiteboul@inria.frbiographie	[29]
+serge.abiteboul at inria.fr	[29]
+fname.lname@inria.fr	[2]
+j@inria.fr	[1]

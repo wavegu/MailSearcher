@@ -1,0 +1,7 @@
+bingshan.li@vanderbilt.edu	[3]
+goncalo@umich.edu	[3]
+goncalo at umich.edu	[3]
+sfengsph@umich.edu	[2]
+email at umich.edu	[2]
+yunli@bios.unc.edu	[1]
+yunli@med.unc.edu	[1]
