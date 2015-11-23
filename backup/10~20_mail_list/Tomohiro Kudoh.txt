@@ -1,0 +1,4 @@
+t.kudoh@aist.go.jp	[12]
+okamoto@kddilabs.jp	[3]
+hide-nakada@aist.go.jp	[2]
+vdham@uva.nl	[1]

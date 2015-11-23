@@ -1,4 +1,3 @@
 adi.shamir@weizmann.ac.il	[19]
-adi.shamir@weizmann.ac.il.adi	[19]
-adi.shamir at weizmann.ac.il	[19]
-rshamir at tau dot ac dot il	[14]
+adi.shamir@weizmann.ac.il	[19]
+adi.shamir@weizmann.ac.il	[19]

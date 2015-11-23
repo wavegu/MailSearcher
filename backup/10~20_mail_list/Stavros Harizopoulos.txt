@@ -1,0 +1,8 @@
+stavros@cs.cmu.edu	[15]
+stavros@hp.com	[15]
+last.nhachem@agdba.com	[3]
+koudas@cs.toronto.edu	[2]
+email at csail.mit.edu	[2]
+koudas@cs.toronto.edu.daniel	[2]
+spapadim@cs.cmu.edu	[2]
+daniel.abadi@yale.edu	[1]

@@ -1,4 +1,5 @@
 az@robots.ox.ac.uk	[3]
-az@robots.ox.ac.ukresearch	[3]
-email at robots.ox.ac.uk	[2]
-josef dot sivic at ens dot fr	[2]
+az@robots.ox.ac.uk	[3]
+az@robots.ox.ac.uk	[3]
+az@robots.ox.ac.uk	[3]
+az@robots.ox.ac.uk	[3]

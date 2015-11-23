@@ -1,0 +1,5 @@
+addresses.kubota@cs.sc.edu	[14]
+kubota@susqu.edu	[14]
+kubota at susqu dot edu	[14]
+kubota@cs.sc.edu	[14]
+pj.ca.dmt@enyg.atobuk.t	[2]

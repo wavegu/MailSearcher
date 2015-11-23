@@ -1,0 +1,6 @@
+maxlab@maxlab.lu.se	[8]
+maxlab@maxlab.lu.se.contact	[8]
+geog@k-state.edu	[1]
+provost@uq.edu.au	[1]
+a.voigt@uq.edu.au	[1]
+dvc.research@uq.edu.au	[1]

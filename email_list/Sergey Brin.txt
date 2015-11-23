@@ -1,2 +1,3 @@
 sergey.brin@google.com	[21]
-sergey.brin@google.com.google	[21]
+sergey.brin@google.com	[21]
+sergey.brin@google.com	[21]

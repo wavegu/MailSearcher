@@ -1,0 +1,8 @@
+su@cis.u	[6]
+su@cise.ufl.edu	[6]
+su@ufl.edu	[6]
+su@cise.ufl.edu.vldb	[6]
+yms@osc.com	[4]
+gray@crl.com	[2]
+enquiry@mel.psz.utm.my	[2]
+hli@uu.edu	[1]

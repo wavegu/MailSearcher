@@ -1,0 +1,6 @@
+handcock@ucla.edu	[17]
+handcock@u.washington.edu	[17]
+handcock@stat.was	[17]
+chair@stat.ucla.edu.mark	[2]
+dhunter@stat.psu.edu	[2]
+chair@stat.ucla.edu	[2]

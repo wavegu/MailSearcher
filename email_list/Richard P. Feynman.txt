@@ -1,3 +1,6 @@
 feynmancenter@lanl.gov	[16]
-provost@caltech.edu.richard	[3]
+feynmancenter@lanl.gov	[16]
+feynmancenter@lanl.gov	[16]
+provost@caltech.edu	[3]
+provost@caltech.edu	[3]
 provost@caltech.edu	[3]

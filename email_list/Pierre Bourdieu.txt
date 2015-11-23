@@ -1,2 +1,6 @@
 permissions@dukeupress.edu	[2]
+permissions@dukeupress.edu	[2]
+permissions@dukeupress.edu	[2]
+loic@berkeley.edu	[1]
+loic@berkeley.edu	[1]
 loic@berkeley.edu	[1]

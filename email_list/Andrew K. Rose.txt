@@ -1,4 +1,6 @@
 andrewkrose@berkeley.edu	[22]
-andrewkrose@berkeley.edu.andrew	[22]
+andrewkrose@berkeley.edu	[22]
+andrewkrose@berkeley.edu	[22]
 arose@haas.berkeley.edu	[10]
-email at haas.berkeley.edu	[4]
+arose@haas.berkeley.edu	[10]
+arose@haas.berkeley.edu	[10]

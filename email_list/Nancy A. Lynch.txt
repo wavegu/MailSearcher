@@ -1,3 +1,5 @@
 nancy.lynch@gnb.ca	[22]
+nancy.lynch@gnb.ca	[22]
+nancy.lynch@gnb.ca	[22]
 lynch@csail.mit.edu	[12]
-email at csail.mit.edu	[3]
+lynch@csail.mit.edu	[12]

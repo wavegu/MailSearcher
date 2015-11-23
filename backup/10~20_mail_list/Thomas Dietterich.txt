@@ -1,0 +1,3 @@
+tgd@eecs.oregonstate.edu	[3]
+email at cs.orst.edu	[3]
+tgd@cs.orst.edu	[3]

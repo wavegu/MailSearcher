@@ -1,0 +1,5 @@
+rdb@cs.utexas.edu	[4]
+lordpyro@mail.utexas.edu	[3]
+blelloch@cs.cmu.edu	[2]
+office@usenix.org	[1]
+umut@cs.cmu.edu	[1]

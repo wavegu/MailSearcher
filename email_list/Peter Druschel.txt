@@ -1,4 +1,5 @@
-druschel at mpi-sws.org	[18]
-druschel@rice.edu	[17]
 druschel@mpi-sws.mpg.de	[17]
-email at mpi-sws.org	[2]
+druschel@mpi-sws.mpg.de	[17]
+druschel@rice.edu	[17]
+druschel@rice.edu	[17]
+druschel@rice.edu	[17]

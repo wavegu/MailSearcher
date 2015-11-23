@@ -1,0 +1,4 @@
+firstname.lastname@aalto.fi	[3]
+markku.suomalainen@aalto.fi	[2]
+email at aalto.fi	[2]
+antoniogusmao@gmail.com	[2]

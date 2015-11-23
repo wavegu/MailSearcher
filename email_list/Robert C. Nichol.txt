@@ -1,2 +1,5 @@
 karen.masters@port.ac.uk	[3]
+karen.masters@port.ac.uk	[3]
+knox@flight.uchicago.edu	[2]
+knox@flight.uchicago.edu	[2]
 knox@flight.uchicago.edu	[2]

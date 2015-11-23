@@ -1,0 +1,4 @@
+mturk@cs.ucsb.edu	[10]
+email at cs.ucsb.edu	[3]
+email at ncsa.illinois.edu	[3]
+astronomy@illinois.edu	[3]

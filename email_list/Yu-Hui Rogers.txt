@@ -1,2 +1,3 @@
 news@jax.org	[1]
-news@jax.org.not	[1]
+news@jax.org	[1]
+news@jax.org	[1]

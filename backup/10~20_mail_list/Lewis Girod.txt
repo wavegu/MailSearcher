@@ -1,0 +1,7 @@
+ldgirod@csail.mit.edu	[12]
+girod@lcs.mit.edu	[11]
+name at nms.csail.mit.edu	[2]
+jcma@ai.mit.edu	[1]
+benjie@lcs.mit.edu	[1]
+info@cmtelematics.comtinyos	[1]
+info@cmtelematics.com	[1]

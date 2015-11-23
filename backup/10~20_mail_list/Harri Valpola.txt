@@ -1,0 +1,4 @@
+harri.valpola@hut.fi	[25]
+harri.valpola at iki.fi	[25]
+juha.karhunen@hut.fi	[2]
+majordomo@lists.berkeley.edu	[1]

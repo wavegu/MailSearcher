@@ -1,5 +1,5 @@
-emmanouil.dermitzakis@unige.ch.conserved	[42]
 emmanouil.dermitzakis@unige.ch	[42]
-email at unige.ch	[3]
+emmanouil.dermitzakis@unige.ch	[42]
+emmanouil.dermitzakis@unige.ch	[42]
 md4@sanger.ac.uk	[2]
-md4@sanger.ac.uk.emmanouil	[2]
+md4@sanger.ac.uk	[2]

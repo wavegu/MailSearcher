@@ -1,4 +1,4 @@
-journals.permissions@oup.com.eugene	[2]
 journals.permissions@oup.com	[2]
-ruth.williams@absw.org.uk.eugene	[1]
+journals.permissions@oup.com	[2]
+ruth.williams@absw.org.uk	[1]
 ruth.williams@absw.org.uk	[1]

@@ -119,22 +119,28 @@ class GoogleSearchPageMailParser(HTMLParser):
                 print e
                 print self.data
                 return []
-            if self.data.find('@') < 0 and self.data.find(' at ') < 0:
+            if self.data.find('@') < 0 and self.data.find(' at ') and self.data.find(' [at] ') < 0:
                 return []
 
-            rough_pattern = re.compile('[a-z0-9-\. ]+(@| at )(([a-z0-9\-]+)(\.| dot | \. ))+([a-z]+)')
+            rough_pattern = re.compile('[a-z0-9-\._]+(@| at | \[at\] )(([a-z0-9\-]+)(\.| dot | \. | \[dot\] ))+([a-z]+)')
             rough_match = rough_pattern.finditer(self.data)
             for rm in rough_match:
-                pattern = re.compile('(([a-z0-9-]+)(\.| dot | \. )?)+(@| at )(([a-z0-9\-]+)(\.| dot | \. ))+([a-z]+)')
+                pattern = re.compile('(([a-z0-9-_]+)(\.| dot | \. )?)+(@| at | \[at\] )(([a-z0-9\-]+)(\.| dot | \.  \[dot\] ))+([a-z]+)')
                 match = pattern.finditer(rm.group())
                 for m in match:
-                    self.emails.append(m.group())
+                    self.emails.append(m.group().replace(' dot ', '.').replace(' at ', '@').replace(' [at] ', '@'))
 
     def handle_data(self, data):
         if self.isInSpan:
             self.data += data
 
     def get_email_list(self):
+        for email_a in self.emails:
+            for email_b in self.emails:
+                if email_a == email_b or email_b not in self.emails:
+                    continue
+                if email_a in email_b:
+                    self.emails[self.emails.index(email_b)] = email_a
         return self.emails
 
 
@@ -147,30 +153,30 @@ def sort_mail(name, mail_list):
     return mail_list
 
 
-def parse_mails(engine_name):
-    mail_list_path = '../email_list/'
-    if not os.path.isdir(mail_list_path):
-        os.mkdir(mail_list_path)
-    search_result_path = '../' + engine_name + '_result/'
-    for person in os.listdir(search_result_path):
-        print person
-        pages_path = search_result_path + person + '/pages/'
-        if not os.path.isdir(pages_path):
-            continue
-        mail_list = []
-        for page in os.listdir(pages_path):
-            page_content = open(pages_path + page).read()
-            mail_parser = GoogleSearchPageMailParser()
-
-            mail_parser.feed(page_content)
-            mail_list += mail_parser.get_email_list()
-
-        output_file = open(mail_list_path + person + '.txt', 'w')
-        # mail_list = set(list(mail_list))
-        mail_list = sort_mail(person, mail_list)
-        for mail in mail_list:
-            output_file.write(mail + '\n')
-        output_file.close()
+# def parse_mails(engine_name):
+#     mail_list_path = '../email_list/'
+#     if not os.path.isdir(mail_list_path):
+#         os.mkdir(mail_list_path)
+#     search_result_path = '../' + engine_name + '_result/'
+#     for person in os.listdir(search_result_path):
+#         print person
+#         pages_path = search_result_path + person + '/pages/'
+#         if not os.path.isdir(pages_path):
+#             continue
+#         mail_list = []
+#         for page in os.listdir(pages_path):
+#             page_content = open(pages_path + page).read()
+#             mail_parser = GoogleSearchPageMailParser()
+#
+#             mail_parser.feed(page_content)
+#             mail_list += mail_parser.get_email_list()
+#
+#         output_file = open(mail_list_path + person + '.txt', 'w')
+#         # mail_list = set(list(mail_list))
+#         mail_list = sort_mail(person, mail_list)
+#         for mail in mail_list:
+#             output_file.write(mail + '\n')
+#         output_file.close()
 
 
 def parse_mails_from_search_page(engine_name):
@@ -195,7 +201,6 @@ def parse_mails_from_search_page(engine_name):
         mail_list += mail_parser.get_email_list()
 
         output_file = open(mail_list_path + person + '.txt', 'w')
-        mail_list = list(set(mail_list))
         mail_list = sort_mail(person, mail_list)
         for mail in mail_list:
             output_file.write(mail + '\t[')
@@ -204,7 +209,7 @@ def parse_mails_from_search_page(engine_name):
 
 
 if __name__ == '__main__':
-    # parser = MailParser()
-    # data = 'sakira@biken.osaka-u.ac.jp'
+    # parser = GoogleSearchPageMailParser()
     # parser.handle_data(data)
+    # print parser.emails
     parse_mails_from_search_page('google')

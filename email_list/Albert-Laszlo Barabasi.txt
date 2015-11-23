@@ -1,3 +1,5 @@
 a.barabasi@neu.edu	[18]
+a.barabasi@neu.edu	[18]
 alb@nd.edu	[4]
-email at neu.edu	[3]
+alb@nd.edu	[4]
+alb@nd.edu	[4]

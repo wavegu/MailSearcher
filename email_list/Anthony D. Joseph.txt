@@ -1,2 +1,5 @@
 adj@cs.berkeley.edu	[4]
+adj@cs.berkeley.edu	[4]
+adj@cs.berkeley.edu	[4]
+stratahadoop@oreilly.com	[3]
 stratahadoop@oreilly.com	[3]

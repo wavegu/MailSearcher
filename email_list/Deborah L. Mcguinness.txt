@@ -1,4 +1,4 @@
-email at rpi.edu	[4]
 dlm@ksl.stanford.edu	[4]
-mcguid@rpi.edu.deborah	[3]
+dlm@ksl.stanford.edu	[4]
+mcguid@rpi.edu	[3]
 mcguid@rpi.edu	[3]

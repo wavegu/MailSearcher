@@ -1,0 +1,16 @@
+1. feature definition
+a. whether the email contains the first name of the author
+b. whether the email contains the last name of the author
+c. whether the title of the corresponding page contains the name of the author
+d. how many times does the email occur in the search page
+e. how many times does the domain occur in the search page
+*f. 作者名字的完整first name(或last name)，以及名字其他各部分的首字母同时出现在不同位置。
+	如：aportes for Alejandro Portes
+	   drweinberger for Daniel R Weinberger
+
+2. 问题
+a. 训练集的标注：
+	假设以Top1000的Google结果作为训练集，如何判断正负例？已知的数据不全，有email的条目只有440左右，其中还有部分错误和格式问题。
+
+3. 待改进
+a. 地址前缀中的_

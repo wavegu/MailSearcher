@@ -1,0 +1,5 @@
+ruenger@cs.tu-chemnitz.de	[3]
+rauber@uni-bayreuth.de	[2]
+ltyang@stfx.ca	[2]
+peter.strazdins@cs.anu.edu.au	[2]
+teoym@comp.nus.edu.sg	[1]

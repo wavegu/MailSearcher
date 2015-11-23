@@ -1,4 +1,5 @@
-email at gs.washington.edu	[4]
 eee@gs.washington.edu	[4]
-eee@gs.washington.edu.primate	[4]
-eee@gs.washington.edu.seminar	[4]
+eee@gs.washington.edu	[4]
+eee@gs.washington.edu	[4]
+eee@gs.washington.edu	[4]
+eee@gs.washington.edu	[4]

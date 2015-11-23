@@ -1,0 +1,6 @@
+email at pinhanez.com	[18]
+pinhanez@us.ibm.com	[17]
+reports@us.ibm.com	[3]
+ceciliak@inf.puc-rio.br	[2]
+ceciliak@inf.puc-rio.br.a	[2]
+el@scs.leeds.ac.uk	[1]

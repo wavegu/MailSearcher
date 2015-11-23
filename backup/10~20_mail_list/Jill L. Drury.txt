@@ -1,0 +1,5 @@
+jdrury@cs.uml.edu	[12]
+hello@interaction-design.org	[2]
+email at mitre.org	[2]
+aaronjones@drury.edu	[2]
+aaronjones@drury.edu.jill	[2]

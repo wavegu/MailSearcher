@@ -1,2 +1,5 @@
-putnam@hks.harvard.edu	[13]
-converse@harvard.edu	[2]
+robert_putnam@hks.harvard.edu	[25]
+robert_putnam@hks.harvard.edu	[25]
+robert_putnam@hks.harvard.edu	[25]
+louise_converse@harvard.edu	[2]
+louise_converse@harvard.edu	[2]

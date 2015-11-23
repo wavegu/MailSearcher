@@ -1,0 +1,4 @@
+sdmello@nd.edu	[3]
+sdmello@nd.edu.sidney	[3]
+rsbaker@andrew.cmu.edu	[2]
+rsbaker@andrew.cmu.edu.autotutor	[2]

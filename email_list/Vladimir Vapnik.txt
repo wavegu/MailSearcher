@@ -1,4 +1,6 @@
 vladimir.vapnik@rhul.ac.uk	[29]
-guestservices@fi.edu.learning	[3]
+vladimir.vapnik@rhul.ac.uk	[29]
+vladimir.vapnik@rhul.ac.uk	[29]
 guestservices@fi.edu	[3]
-email at nec-labs.com	[1]
+guestservices@fi.edu	[3]
+guestservices@fi.edu	[3]

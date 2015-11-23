@@ -1,5 +1,4 @@
-email at stanford.edu.christopher	[28]
 cmanning@acm.org	[16]
-email at stanford.edu	[6]
+cmanning@acm.org	[16]
 hinrich@hotmail.com	[2]
-hinrich@hotmail.com.deep	[2]
+hinrich@hotmail.com	[2]

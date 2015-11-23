@@ -1,0 +1,4 @@
+mika.klemettinen@nokia.com	[31]
+mika.klemettinen@cs.helsinki.fi	[31]
+pirjo.moen@cs.helsinki.fi	[2]
+hello@interaction-design.org	[1]

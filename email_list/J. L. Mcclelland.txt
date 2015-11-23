@@ -1,4 +1,5 @@
 jabez.mcclelland@nist.gov	[23]
 mcclelland@stanford.edu	[22]
-2727.mcclelland@stanford.edu	[22]
-email at stanford.edu	[3]
+mcclelland@stanford.edu	[22]
+mcclelland@stanford.edu	[22]
+mcclelland@stanford.edu	[22]

@@ -1,3 +1,2 @@
-email at berkeley.edu	[2]
-alex@astro.berkeley.edu.alex	[2]
+alex@astro.berkeley.edu	[2]
 alex@astro.berkeley.edu	[2]

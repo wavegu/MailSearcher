@@ -1,4 +1,6 @@
 emaildolev@cs.huj	[12]
-asherr@mail.iucc.ac.il	[1]
 marzullo@cs.ucsd.edu	[1]
-email at mail.huji.ac.il	[1]
+marzullo@cs.ucsd.edu	[1]
+marzullo@cs.ucsd.edu	[1]
+asherr@mail.iucc.ac.il	[1]
+asherr@mail.iucc.ac.il	[1]

@@ -1,0 +1,6 @@
+mkolberg@ieee.org	[16]
+mko@cs.stir.ac.uk	[3]
+email at cs.stir.ac.uk	[3]
+schmidt@informatik.haw-hamburg.de	[2]
+buford@avaya.com	[1]
+abegen@cisco.com	[1]

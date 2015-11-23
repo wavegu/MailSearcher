@@ -1,4 +1,5 @@
 emailmark.gerstein@yale.edu	[25]
-email at yale.edu	[2]
+emailmark.gerstein@yale.edu	[25]
+email@yale.edu	[2]
 svad@ucf.edu	[1]
-svad@ucf.edumarc	[1]
+svad@ucf.edu	[1]

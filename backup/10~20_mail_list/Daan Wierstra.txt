@@ -1,0 +1,6 @@
+daan@deepmind.com	[9]
+daan@idsia.ch	[9]
+vmnih at cs dot toronto dot edu	[2]
+alexander@idsia.ch	[2]
+c.blundell@gatsby.ucl.ac.uk	[2]
+mail@jan-peters.net	[1]

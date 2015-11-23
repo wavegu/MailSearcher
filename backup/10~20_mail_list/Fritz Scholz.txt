@@ -1,0 +1,7 @@
+fritz at stat dot washington dot edu	[12]
+miriam.rosenbaum@rwth-aachen.de	[2]
+raltschul at uwb dot edu	[2]
+roberto at stat dot washington dot edu	[2]
+ajbard@mail.utexas.edu	[1]
+urbakh@csssg.tau.ac.il	[1]
+p.r.unwin@warwick.ac.uk	[1]

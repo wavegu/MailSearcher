@@ -1,3 +1,4 @@
-cbell@genomecanada.ca	[3]
 bwb@genome.wi.mit.edu	[3]
-bwb@genome.wi.mit.edu.bruce	[3]
+bwb@genome.wi.mit.edu	[3]
+cbell@genomecanada.ca	[3]
+cbell@genomecanada.ca	[3]

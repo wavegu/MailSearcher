@@ -1,3 +1,2 @@
-christos at cs.berkeley.edu	[18]
-email at cs.berkeley.edu	[2]
-email at berkeley.edu	[1]
+email@cs.berkeley.edu	[1]
+email@cs.berkeley.edu	[1]

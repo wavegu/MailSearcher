@@ -1,2 +1,5 @@
 stonebraker@csail.mit.edu	[23]
+stonebraker@csail.mit.edu	[23]
+stonebraker@csail.mit.edu	[23]
+mike@cs.berkeley.edu	[2]
 mike@cs.berkeley.edu	[2]

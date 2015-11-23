@@ -1,0 +1,3 @@
+cs224d-spr1415-staff@lists.stanford.edu	[3]
+email at stanford.edu	[3]
+cs224d-spr1415-staff@lists.stanford.edu.recursive	[3]

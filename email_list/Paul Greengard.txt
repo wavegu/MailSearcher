@@ -1,3 +1,5 @@
 paul.greengard@rockefeller.edu	[27]
+paul.greengard@rockefeller.edu	[27]
 info@alzinfo.org	[1]
-info@alzinfo.org.paul	[1]
+info@alzinfo.org	[1]
+info@alzinfo.org	[1]

@@ -1,4 +1,6 @@
 george.perry@utsa.edu	[23]
-george.perry@utsa.edu.george	[23]
+george.perry@utsa.edu	[23]
+george.perry@utsa.edu	[23]
 sdsu.igrow@sdstate.edu	[2]
-email at utsa.edu	[1]
+sdsu.igrow@sdstate.edu	[2]
+sdsu.igrow@sdstate.edu	[2]

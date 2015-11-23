@@ -1,0 +1,6 @@
+s.muggleton@imperial.ac.uk	[23]
+shm@doc.ic.ac	[3]
+shm@doc.ic.ac.uk	[3]
+jmm@isvr.soton.ac.uk	[2]
+email at imperial.ac.uk	[2]
+getoor@cs.umd.edu	[1]
