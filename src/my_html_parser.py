@@ -27,7 +27,7 @@ class GoogleItem:
             'content': self.content,
             'cite_url': self.cite_url,
             'cite_name': self.cite_name,
-            'email_list': self.email_list
+            'email_addr_list': self.email_list
         }
 
 
