@@ -1,1 +1,20 @@
-lkatz@harvard.edu	[10]
+[
+    {
+        "content": "littauer center 224 lkatz@harvard.edu. tel: 617- 495-5148. fax: (617) 495-7730. office hours: wednesdays 2:30 to 3:30 pm or by appointment. staff support:", 
+        "email_addr_list": [
+            "lkatz@harvard.edu"
+        ], 
+        "cite_url": "scholar.harvard.edu/lkatz/home", 
+        "cite_name": "Harvard University", 
+        "title": "Lawrence Katz"
+    }, 
+    {
+        "content": "if you are lawrence f. katz , you may change this information at the repec author service. or if you are not registered ... email: lkatz@harvard.edu. homepage...", 
+        "email_addr_list": [
+            "lkatz@harvard.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pka266.html", 
+        "cite_name": "", 
+        "title": "Lawrence F. Katz at IDEAS"
+    }
+]

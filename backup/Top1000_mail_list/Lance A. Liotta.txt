@@ -1,3 +1,21 @@
-lliotta@gmu.edu	[15]
-vcalvert@gmu.edu	[4]
-phackett@gmu.edu	[2]
+[
+    {
+        "content": "co-directors. lance a. liotta, md, phd. co-director ... email: phackett@gmu.edu. phone: (703) 993-9526 ... email: vcalvert@gmu.edu. jianghong deng, ms", 
+        "email_addr_list": [
+            "phackett@gmu.edu", 
+            "vcalvert@gmu.edu"
+        ], 
+        "cite_url": "capmm.gmu.edu/capmm-team", 
+        "cite_name": "George Mason University", 
+        "title": "CAPMM Team | Center for Applied Proteomics and ..."
+    }, 
+    {
+        "content": "full (legal): lance allen liotta. preferred ... campus email address: lliotta@gmu.edu. campus .... schev accomplishments: lance a. liotta md phd. dr. liotta...", 
+        "email_addr_list": [
+            "lliotta@gmu.edu"
+        ], 
+        "cite_url": "www.schev.edu/.../LiottaL...", 
+        "cite_name": "State Council of Higher Education for Virginia", 
+        "title": "[PDF]View Nomination Packet"
+    }
+]

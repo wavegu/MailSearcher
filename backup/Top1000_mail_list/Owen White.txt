@@ -1,3 +1,29 @@
-o.white@cep.co.uk	[12]
-whitepeggy4@gmail.com	[11]
-info@owenwhitemanagement.com	[2]
+[
+    {
+        "content": "owen r. white, ph.d., professor emeritus. email: whitepeggy4@gmail.com. special education area, college of education university of washington...", 
+        "email_addr_list": [
+            "whitepeggy4@gmail.com"
+        ], 
+        "cite_url": "https://education.uw.ed...", 
+        "cite_name": "University of Washington ‑ College of Education", 
+        "title": "Owen White: Precision Teaching | UW College of Education"
+    }, 
+    {
+        "content": "john owenowen/white management ltd 139 brookwood ... +44 20 8480 1152. fax: +44 20 3397 1354. email: info@owenwhitemanagement.com. website:.", 
+        "email_addr_list": [
+            "info@owenwhitemanagement.com"
+        ], 
+        "cite_url": "www.iamaworld.com/.../owen-...", 
+        "cite_name": "International Artist Managers' Association", 
+        "title": "Owen/White Management LTD"
+    }, 
+    {
+        "content": "email: o.white@cep.co.uk. owen is a principal consultant at cep, with more than ten years experience relating to environmental strategy and policy...", 
+        "email_addr_list": [
+            "o.white@cep.co.uk"
+        ], 
+        "cite_url": "www.cep.co.uk/owen-white/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Owen White — Collingwood Environmental PlanningGoogle Business Email - Custom email for your company‎Searches related to Owen White email"
+    }
+]

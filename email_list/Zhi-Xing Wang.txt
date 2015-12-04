@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jan 13, 2014 - e-mail：zxwang@sun5.ibp.ac.cn，tel：010-64889890 ... hongwei yao, yingang feng, tao zhou, jinfeng wang, zhi-xin wang, nmr studies of...", 
+        "email_list": [
+            "zxwang@sun5.ibp.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Zhixin Wang----Institute of Biophysics Chinese Academy of ..."
+    }
+]

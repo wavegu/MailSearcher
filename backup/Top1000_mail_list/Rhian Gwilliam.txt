@@ -1,3 +1,11 @@
-support@repository.cam.ac.uk	[2]
-petra.liskova@lf1.cuni.cz	[2]
-a.allen@bristol.ac.uk	[1]
+[
+    {
+        "content": "browsing department of medical genetics by author gwilliam, rhian. dspace/manakin repository. login  repository ... email. support@repository.cam.ac.uk...", 
+        "email_addr_list": [
+            "support@repository.cam.ac.uk"
+        ], 
+        "cite_url": "https://www.repository.cam.ac.uk/.../browse?...", 
+        "cite_name": "University of Cambridge", 
+        "title": "Gwilliam, Rhian - Repository Home"
+    }
+]

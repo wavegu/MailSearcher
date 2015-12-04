@@ -1,0 +1,38 @@
+[
+    {
+        "content": "verified email at tel.uva.es. scholar ... a martınez, y dimitriadis, b rubia, e gómez, p de la fuente ... ml bote-lorenzo, ya dimitriadis, e gómez-sánchez.", 
+        "email_list": [
+            "email@tel.uva.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xrzS-v4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yannis Dimitriadis - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at tel.uva.es - homepage  scholar. get my own profile ... ml bote-lorenzo, e gómez-sánchez, g vega-gorgojo, ya dimitriadis, ... computers...", 
+        "email_list": [
+            "email@tel.uva.es"
+        ], 
+        "cite_url": "scholar.google.es/citations?user=jC4VvZEAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Miguel L. Bote-Lorenzo - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at tel.uva.es - homepage ... ml bote-lorenzo, ya dimitriadis, e gómez-sánchez ... e gómez-sánchez, ya dimitriadis, jm cano-izquierdo, .", 
+        "email_list": [
+            "email@tel.uva.es"
+        ], 
+        "cite_url": "scholar.google.es/citations?user=BNh7pkEAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Eduardo Gómez-Sánchez - Google Scholar Citations"
+    }, 
+    {
+        "content": "y. a. dimitriadis, department of signal theory, communications and telematics ... spain, tel: +34-83-423260, fax: +34-83-423261, email: yannis@tel.uva.es. 4.", 
+        "email_list": [
+            "yannis@tel.uva.es"
+        ], 
+        "cite_url": "www.dit.upm.es/~criwg97/abstracts.html", 
+        "cite_name": "", 
+        "title": "CRIWG97 - dit/UPM - Universidad Politécnica de Madrid"
+    }
+]

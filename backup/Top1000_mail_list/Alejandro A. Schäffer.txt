@@ -1,6 +1,49 @@
-email at newcastle.edu.au	[4]
-altschul@ncbi.nlm.nih.gov.cancer	[4]
-altschul@ncbi.nlm.nih.gov	[4]
-altschul@ncbi.nlm.nih.gov.gapped	[4]
-email at helix.nih.gov	[3]
-email at jimmy.harvard.edu	[3]
+[
+    {
+        "content": "alejandro schaffer. computer ... verified email at helix.nih.gov - homepage  scholar ... sf altschul, tl madden, aa schäffer, j zhang, z zhang, w miller, .", 
+        "email_addr_list": [
+            "email@helix.nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yB-7gCwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Alejandro Schaffer - Google Scholar Citations"
+    }, 
+    {
+        "content": "stephen f. altschul*,; thomas l. madden,; alejandro a. schäffer1,; jinghui ... tel: +1 301 496 2475; fax: +1 301 480 9241; email: altschul@ncbi.nlm.nih.gov.", 
+        "email_addr_list": [
+            "altschul@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/.../3389.short?...", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "a new generation of protein database search programs"
+    }, 
+    {
+        "content": "stephen f. altschul*,; thomas l. madden,; alejandro a. schäffer1,; jinghui ... tel: +1 301 496 2475; fax: +1 301 480 9241; email: altschul@ncbi.nlm.nih.gov.", 
+        "email_addr_list": [
+            "altschul@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/25/17/3389.full", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "Gapped BLAST and PSI-BLAST: a new generation of protein"
+    }, 
+    {
+        "content": "alejandro schaffer. national institutes of health. verified email at helix.nih.gov. @helix.nih.gov ... verified email at jimmy.harvard.edu. @jimmy.harvard.edu.", 
+        "email_addr_list": [
+            "email@helix.nih.gov", 
+            "email@jimmy.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.es/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Cancer Genomics"
+    }, 
+    {
+        "content": "alejandro schaffer. national institutes of health. verified email at helix.nih.gov. @helix.nih.gov ... verified email at newcastle.edu.au. @newcastle.edu.au.", 
+        "email_addr_list": [
+            "email@helix.nih.gov", 
+            "email@newcastle.edu.au"
+        ], 
+        "cite_url": "scholar.google.es/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Medical Genetics"
+    }
+]

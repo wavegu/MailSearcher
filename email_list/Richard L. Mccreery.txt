@@ -1,0 +1,21 @@
+[
+    {
+        "content": "richard mccreery. emeritus professor. divisional affiliation: office: no university address. phone: no university phone. email: richard.mccreery@ualberta.ca.", 
+        "email_list": [
+            "richard.mccreery@ualberta.ca"
+        ], 
+        "cite_url": "https://chemistry.osu.edu/faculty/mccreery", 
+        "cite_name": "Ohio State University", 
+        "title": "richard.mccreery@ualberta.ca | chemistry.osu.edu"
+    }, 
+    {
+        "content": "nagoya university (japan): email: baba-office@anchem.acs.org ... university of notre dame: email: dovichi.office@anchem.acs.org ... richard l. mccreery", 
+        "email_list": [
+            "baba-office@anchem.acs.org", 
+            "dovichi.office@anchem.acs.org"
+        ], 
+        "cite_url": "pubs.acs.org/page/ancham/editors.html", 
+        "cite_name": "American Chemical Society", 
+        "title": "Editors (ACS Publications)"
+    }
+]

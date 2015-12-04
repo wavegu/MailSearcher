@@ -1,4 +1,47 @@
-dkass@jhmi.edu	[11]
-dkass@rhsmith.umd.edu	[11]
-email at jhmi.edu	[3]
-info@kassmanagement.com	[1]
+[
+    {
+        "content": "email: dkass@rhsmith.umd.edu (link sends e-mail). dr. david kass has published articles in corporate finance, industrial organization, and health economics.", 
+        "email_addr_list": [
+            "dkass@rhsmith.umd.edu"
+        ], 
+        "cite_url": "scholar.rhsmith.umd.edu/dkass/home", 
+        "cite_name": "", 
+        "title": "David Kass - Scholars at Harvard - University of Maryland"
+    }, 
+    {
+        "content": "email: dkass@rhsmith.umd.edu. bio: dr. david kass has published articles in ... dr. kass has recently appeared on bloomberg tv, cnbc, pbs nightly business...", 
+        "email_addr_list": [
+            "dkass@rhsmith.umd.edu"
+        ], 
+        "cite_url": "www.rhsmith.umd.edu/.../david-kass", 
+        "cite_name": "Robert H. Smith School of Business", 
+        "title": "David Kass | Robert H. Smith School of Business, University ..."
+    }, 
+    {
+        "content": "create alert. cancel. david a. kass ... verified email at jhmi.edu - homepage  scholar ... mr bristow, la saxon, j boehmer, s krueger, da kass, t de marco, .", 
+        "email_addr_list": [
+            "email@jhmi.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DWyczdcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "David A. Kass - Google Scholar Citations"
+    }, 
+    {
+        "content": "david a. kass, md. kass ... email, dkass@jhmi.edu. som address, 835 ... takimoto e, champion hc, li m, ren s, rodriguez er, wang y, kass da. oxidant...", 
+        "email_addr_list": [
+            "dkass@jhmi.edu"
+        ], 
+        "cite_url": "cmm.jhmi.edu/index.php/cmm-faculty/david-a-kass/", 
+        "cite_name": "", 
+        "title": "David A. Kass, MD - Cellular and Molecular Medicine Program"
+    }, 
+    {
+        "content": "join kass management services email alerts. enter email address * ... e: info@kassmanagement.com. in hyde park 1740 e 55th st chicago, il 60615", 
+        "email_addr_list": [
+            "info@kassmanagement.com"
+        ], 
+        "cite_url": "www.kassmanagement.com/contact", 
+        "cite_name": "", 
+        "title": "Contact | Kass Management Services"
+    }
+]

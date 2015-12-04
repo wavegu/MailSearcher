@@ -1,0 +1,48 @@
+[
+    {
+        "content": "dec 10, 2004 - keith c.c. chan, dept. of computing, hong kong polytechnic university, hung ... fax: 852-2774-0842, email: cskcchan@comp.polyu.edu.hk.", 
+        "email_list": [
+            "cskcchan@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "www4.comp.polyu.edu.hk/~cskcchan/", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "[PDF]Keith C.C. Chan - my First Home Page"
+    }, 
+    {
+        "content": "keith c.c. chan. professor of computing ... verified email at comp.polyu.edu.hk. scholar. get my own ... wh au, kcc chan, akc wong, y wang. ieee/acm...", 
+        "email_list": [
+            "email@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QboxUKcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Keith C.C. Chan - Google Scholar Citations"
+    }, 
+    {
+        "content": "c.c. chan tells the story of a man who made his childhood dream come true. ... c.c. chan is currently honorary professor of the department of electrical and electronic engineering at the university of hong .... e-mail: ccchan@eee.hku.hk.", 
+        "email_list": [
+            "ccchan@eee.hku.hk"
+        ], 
+        "cite_url": "engg.hku.hk/home/people/ccchan/ccchan.htm", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Professor C.C. Chan"
+    }, 
+    {
+        "content": "keith c.c. chan, dept. of computing, hong kong polytechnic university, ... tel: 852-2766-7265, fax: 852-2774-0842, email: cskcchan@comp.polyu.edu.hk.", 
+        "email_list": [
+            "cskcchan@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "pdf.aminer.org/.../inference_of_gene_regulatory_networks_from_time_s...", 
+        "cite_name": "", 
+        "title": "[PDF]Keith C.C. Chan EDUCATION: JOURNAL AND BOOK ..."
+    }, 
+    {
+        "content": "email: yang.liu at yale.edu. lyhn12003 at gmail.com. personal webpages: ... conference papers: yang liu, yan liu, shenghua zhong, and keith c. c. chan.", 
+        "email_list": [
+            "yang.liu@yale.edu", 
+            "lyhn12003@gmail.com"
+        ], 
+        "cite_url": "www.stat.yale.edu/~yl585/", 
+        "cite_name": "Yale University", 
+        "title": "Welcome to Yang Lius Homepage! - Department of Statistics"
+    }
+]

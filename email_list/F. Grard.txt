@@ -1,0 +1,38 @@
+[
+    {
+        "content": "gerard darel | découvrez les collections prêt-à-porter, maroquinerie et accessoires de ... les actualités et les offres gerard darel. email@domaine.frok...", 
+        "email_list": [
+            "email@domaine.frok"
+        ], 
+        "cite_url": "www.gerarddarel.com/", 
+        "cite_name": "", 
+        "title": "Gerard Darel"
+    }, 
+    {
+        "content": "directeur, professeur loic.grard u-bordeaux4.fr. ... texte seulement. grard loïc. courriel : loic.grard@u-bordeaux4.fr. fonctions. directeur du centre de...", 
+        "email_list": [
+            "loic.grard@u-bordeaux4.fr"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Grard Loïc - CRDEI"
+    }, 
+    {
+        "content": "verified email at ircm.qc.ca. scholar. get my own ... fca gerard, e de almeida ribeiro, c leyrat, i ivanov, d blondel, ... journal of molecular ... c hamès, d ptchelkine, c grimm, e thevenon, e moyroud, f gérard, ... the embo journal 27 (19),...", 
+        "email_list": [
+            "email@ircm.qc.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8kSb5VMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Francine C.A. GERARD - Google Scholar Citations"
+    }, 
+    {
+        "content": "your email : message sent : your friends email : security code : ... tél +32 486 89 57 02 (ach rijckaert) - e-mail : info@abcz-group.com  site map | recommend...", 
+        "email_list": [
+            "info@abcz-group.com"
+        ], 
+        "cite_url": "www.abcz-group.com/en/30_3.cfm?i=46-gradirose-apple...grard...f...", 
+        "cite_name": "", 
+        "title": "Gradirose apple pink early productive Grard Carolus - ABCz ..."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "joseph jinwoo suhs home page ... bag of tricks  blog. welcome to my home page. if there is any question, please send me an email to suh222@gmail.com.", 
+        "email_list": [
+            "suh222@gmail.com"
+        ], 
+        "cite_url": "www.suhphd.com/", 
+        "cite_name": "", 
+        "title": "Home - Jinwoo Joseph Suh"
+    }, 
+    {
+        "content": "see information and reports about jinwoo@halcyon.usc.edu (jinwoo suhs e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "jinwoo@halcyon.usc.edu"
+        ], 
+        "cite_url": "spam-report.email/jinwoo/halcyon.usc.edu", 
+        "cite_name": "", 
+        "title": "jinwoo@halcyon.usc.edu (Jinwoo Suhs e-mail) - Spam ..."
+    }, 
+    {
+        "content": "jinwoo cheon. professor of chemistry ... verified email at yonsei.ac.kr. scholar ... ht song, j choi, ym huh, s kim, y jun, js suh, j cheon. journal of the...", 
+        "email_list": [
+            "email@yonsei.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MB09fZUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jinwoo Cheon - Google Scholar Citations"
+    }, 
+    {
+        "content": "department email address: jcheon@cnsi.ucla.edu .... song, sungjun kim, eun-jin cho, ho-geun yoon, jin-suck suh and jinwoo cheon, artificially engineered...", 
+        "email_list": [
+            "jcheon@cnsi.ucla.edu"
+        ], 
+        "cite_url": "people.cnsi.ucla.edu/institution/personnel?personnel_id=607038", 
+        "cite_name": "", 
+        "title": "Jinwoo Cheon - People - CNSI - UCLA.edu"
+    }
+]

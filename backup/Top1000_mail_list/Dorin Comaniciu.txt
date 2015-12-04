@@ -1,2 +1,20 @@
-email at siemens.com	[2]
-giacomo.pongiglione@opbg.net	[2]
+[
+    {
+        "content": "cancel. dorin comaniciu. siemens healthcare ... verified email at siemens.com - homepage  scholar ... d comaniciu, v ramesh, p meer. computer vision...", 
+        "email_addr_list": [
+            "email@siemens.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-XZ2HrAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Dorin Comaniciu - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: giacomo.pongiglione@opbg.net. chairman of the scientific committee. dr. dorin comaniciu. siemens corporate research, princeton usa. e-mail:...", 
+        "email_addr_list": [
+            "giacomo.pongiglione@opbg.net"
+        ], 
+        "cite_url": "www.sim-e-child.org/2/contacts_1529218.html", 
+        "cite_name": "", 
+        "title": "Contacts | Sim-e-Child a FP7 STREP"
+    }
+]

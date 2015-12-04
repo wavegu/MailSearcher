@@ -1,0 +1,40 @@
+[
+    {
+        "content": "site officiel de katarzyna musiał, pianiste et concertiste polonaise. ... email: info@pianist.pl. représentation - pologne ... email: katarzyna.musial1@gmail.com.", 
+        "email_list": [
+            "info@pianist.pl", 
+            "katarzyna.musial1@gmail.com"
+        ], 
+        "cite_url": "www.pianist.pl/fr/contact.html", 
+        "cite_name": "", 
+        "title": "Katarzyna Musiał - Site officiel - Pianist.pl"
+    }, 
+    {
+        "content": "e-mail: ewa.chalupka@fundusz.org. dofinansowania, uzdolnienia artystyczne, koncerty, wystawy. katarzyna musiał e-mail: katarzyna.musial@fundusz.org", 
+        "email_list": [
+            "ewa.chalupka@fundusz.org", 
+            "katarzyna.musial@fundusz.org"
+        ], 
+        "cite_url": "fundusz.org/kontakt", 
+        "cite_name": "", 
+        "title": "KONTAKT - Krajowy Fundusz na rzecz Dzieci"
+    }, 
+    {
+        "content": "katarzyna musial-gabrys (musial) - data-driven approach to complex networked systems. search this site ... email: katarzyna.musial@kcl.ac.uk. room s6.18...", 
+        "email_list": [
+            "katarzyna.musial@kcl.ac.uk"
+        ], 
+        "cite_url": "https://sites.google.com/site/musialkate/conta", 
+        "cite_name": "", 
+        "title": "Contact - Katarzyna Musial-Gabrys (Musial) - Data-driven ..."
+    }, 
+    {
+        "content": "wydział prawa i administracji; wydział biologii i nauk o Środowisku; wydział filozofii chrześcijańskiej. kontakt: e.grochocka@uksw.edu.pl. katarzyna musiał...", 
+        "email_list": [
+            "e.grochocka@uksw.edu.pl"
+        ], 
+        "cite_url": "bk.u...", 
+        "cite_name": "Cardinal Stefan Wyszyński University in Warsaw", 
+        "title": "Kontakt | bk.uksw.edu.pl"
+    }
+]

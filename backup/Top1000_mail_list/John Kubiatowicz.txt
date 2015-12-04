@@ -1,2 +1,20 @@
-email at cs.berkeley.edu	[2]
-kubitron@cs.berkeley.edu	[2]
+[
+    {
+        "content": "professor kubiatowiczs homepage. ... professor john d. kubiatowicz ... phone: (510) 643-6817. fax: (510) 643-1534. email: kubitron@cs.berkeley.edu...", 
+        "email_addr_list": [
+            "kubitron@cs.berkeley.edu"
+        ], 
+        "cite_url": "www.cs.berkeley.edu/~kubitron/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Professor John Kubiatowiczs Home Page"
+    }, 
+    {
+        "content": "cancel. john kubiatowicz ... verified email at cs.berkeley.edu - homepage  scholar ... j kubiatowicz, d bindel, y chen, s czerwinski, p eaton, d geels, .", 
+        "email_addr_list": [
+            "email@cs.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=00M1AqQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "John Kubiatowicz - Google Scholar Citations"
+    }
+]

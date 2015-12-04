@@ -1,1 +1,11 @@
-kahneman@princeton.edu	[17]
+[
+    {
+        "content": "daniel kahneman ... email: kahneman@princeton.edu ... kahneman is a member of the american academy of arts and sciences and the national academy of...", 
+        "email_addr_list": [
+            "kahneman@princeton.edu"
+        ], 
+        "cite_url": "wws.princeton.edu  Faculty  Research  Faculty", 
+        "cite_name": "Princeton University", 
+        "title": "Daniel Kahneman | Woodrow Wilson School of Public and ..."
+    }
+]

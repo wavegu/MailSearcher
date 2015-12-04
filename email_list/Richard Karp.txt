@@ -1,0 +1,32 @@
+[
+    {
+        "content": "richard karp. information. phone: +1 510 642 4274 x 122; email: karp@icsi.berkeley.edu; selected papers. faculty in the department of bioengineering.", 
+        "email_list": [
+            "karp@icsi.berkeley.edu"
+        ], 
+        "cite_url": "www.icir.org/karp/", 
+        "cite_name": "", 
+        "title": "Richard Karp at ACIRI"
+    }, 
+    {
+        "content": "richard karp. title: academic director, professor office: 851j-c rieveschl hall tel: 513-556-9727. email: richard.karp@uc.edu...", 
+        "email_list": [
+            "richard.karp@uc.edu"
+        ], 
+        "cite_url": "www.artsci.uc.edu/.../biology.ht...", 
+        "cite_name": "McMicken College of Arts and Sciences", 
+        "title": "Richard Karp - Biological Sciences, University of Cincinnati"
+    }, 
+    {
+        "content": "converse, richard l. instructor - adj, richard.converse@uc.edu ... ophthalmology and developmental biology email: tiffany.cook@cchmc.org, tiffany.cook@cchmc.org .... karp, richard, academic director, professor, richard.karp@uc.edu.", 
+        "email_list": [
+            "richard.converse@uc.edu", 
+            "tiffany.cook@cchmc.org", 
+            "tiffany.cook@cchmc.org", 
+            "richard.karp@uc.edu"
+        ], 
+        "cite_url": "www.artsci.uc.edu/.../biology.ht...", 
+        "cite_name": "McMicken College of Arts and Sciences", 
+        "title": "Biological Sciences, University of Cincinnati"
+    }
+]

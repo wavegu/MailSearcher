@@ -1,3 +1,29 @@
-gilbert.laporte@hec.ca	[29]
-routing@business-school.ed.ac.uk	[2]
-email at cirrelt.ca	[2]
+[
+    {
+        "content": "3000, chemin de la côte-sainte-catherine montréal (québec) canada h3t 2a7 email: gilbert.laporte@hec.ca. phone: 514 340-6504. secretary: 514 340-6472", 
+        "email_addr_list": [
+            "gilbert.laporte@hec.ca"
+        ], 
+        "cite_url": "www.hec.ca  Home  Faculty", 
+        "cite_name": "HEC Montréal", 
+        "title": "HEC Montréal | Gilbert Laporte | Professor"
+    }, 
+    {
+        "content": "gilbert laporte. cirrelt and hec ... verified email at cirrelt.ca - homepage  scholar ... jf cordeau, m gendreau, g laporte, jy potvin, f semet. journal of the...", 
+        "email_addr_list": [
+            "email@cirrelt.ca"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=o4n0KvgAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Gilbert Laporte - Google Scholar Citations"
+    }, 
+    {
+        "content": "general email: routing@business-school.ed.ac.uk ... gilbert laporte obtained his ph.d. in operations research at the london school of economics in 1975.", 
+        "email_addr_list": [
+            "routing@business-school.ed.ac.uk"
+        ], 
+        "cite_url": "https://www.informs.org/.../Workshop-on-Vehicle-Routing-by-Gilbert-L...", 
+        "cite_name": "", 
+        "title": "Workshop on Vehicle Routing | by Gilbert Laporte - INFORMS"
+    }
+]

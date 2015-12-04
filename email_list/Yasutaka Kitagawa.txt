@@ -1,0 +1,48 @@
+[
+    {
+        "content": "cancel. yasutaka kitagawa ... verified email at cheng.es.osaka-u.ac.jp. scholar ... t soda, y kitagawa, t onishi, y takano, y shigeta, h nagao, y yoshioka, .", 
+        "email_list": [
+            "email@cheng.es.osaka-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FrH_bqAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yasutaka Kitagawa - Google Scholar Citations"
+    }, 
+    {
+        "content": "a course in chemistry. * e-mail address: ***.osaka-u.ac.jp ... yasutaka kitagawa, kitagawa@chem.sci, okumura lab. (quantum chemistry).", 
+        "email_list": [
+            "kitagawa@chem.sci"
+        ], 
+        "cite_url": "www.chem.sci.osaka-u.ac.jp/chem/chem/eng/staff/", 
+        "cite_name": "Osaka University", 
+        "title": "Faculty and Research - Osaka University"
+    }, 
+    {
+        "content": "dr. yasutaka kitagawa, july 19, 2013. 2013/06/24 admin. theoretical chemistry ... e-mail: sirle[at]chem.nagoya-u.ac.jp. offices: science  agricultural building...", 
+        "email_list": [
+            "sirle@chem.nagoya-u.ac.jp"
+        ], 
+        "cite_url": "qc.chem.nagoya-u.ac.jp/wordpress/?p=582", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Yasutaka Kitagawa, July 19, 2013 - S.Irle"
+    }, 
+    {
+        "content": "... visiting scientist; satoshi maeda: visiting scientist; muneaki kamiya: visiting scientist; yasutaka kitagawa: visiting scientist ... email: nakajima [at] riken.jp...", 
+        "email_list": [
+            "nakajima@riken.jp"
+        ], 
+        "cite_url": "www.riken.jp/en/research/labs/aics/research/comput_mol_sci/", 
+        "cite_name": "", 
+        "title": "Computational Molecular Science Research Team | RIKEN"
+    }, 
+    {
+        "content": "sep 23, 2010 - e-mail: swxayfea@sw.ehu.es. josef paldus ... e-mail: sangwoow@email.unc.edu. connie nelin .... yasutaka kitagawa. department of...", 
+        "email_list": [
+            "swxayfea@sw.ehu.es", 
+            "sangwoow@email.unc.edu"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/qua.22920/pdf", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Get PDF (43K) - Wiley Online Library"
+    }
+]

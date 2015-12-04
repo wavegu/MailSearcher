@@ -1,0 +1,30 @@
+[
+    {
+        "content": "tianrui li (李天瑞). professor of school of ... verified email at swjtu.edu.cn - homepage  scholar. get my own profile ... t li, d ruan, w geert, j song, y xu.", 
+        "email_list": [
+            "email@swjtu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eLsZxC4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Tianrui Li (李天瑞) - Google Scholar Citations"
+    }, 
+    {
+        "content": "sep 21, 2014 - email: trli@swjtu.edu.cn or trli30@gmail.com ... tianrui li received his b.s. degree, m.s. degree and ph.d. degree from the southwest jiaotong...", 
+        "email_list": [
+            "trli@swjtu.edu.cn", 
+            "trli30@gmail.com"
+        ], 
+        "cite_url": "userweb.swjtu.edu.cn/Userweb/trli30/", 
+        "cite_name": "", 
+        "title": "西南交大李天瑞个人主页"
+    }, 
+    {
+        "content": "homepage of tianrui li in google site. ... students interested in my research are strongly encouraged to contact me by email: trli30 at gmail dot com. please...", 
+        "email_list": [
+            "trli30@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/trli30/", 
+        "cite_name": "", 
+        "title": "Tianrui LI - Google Sites"
+    }
+]

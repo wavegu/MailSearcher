@@ -1,0 +1,48 @@
+[
+    {
+        "content": "chinese academy of sciences, beijing 100190, china. fax: +86 (0)10 6255 1993. email: wangliang at nlpr.ia.ac.cn. http: //www.cbsr.ia.ac.cn/users/liangwang/...", 
+        "email_list": [
+            "wangliang@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "www.cbsr.ia.ac.cn/users/liangwang/", 
+        "cite_name": "", 
+        "title": "Homepage of Liang Wang"
+    }, 
+    {
+        "content": "liang wang. national lab ... verified email at nlpr.ia.ac.cn ... w hu, t tan, l wang, s maybank ... l wang, t tan, h ning, w hu ... l wang, h ning, t tan, w hu.", 
+        "email_list": [
+            "email@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8kzzUboAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Liang Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "王晉良chin-liang wang. affiliation: 清華大學電機系暨通訊所. title: chair professor. email: clwang@ee.nthu.edu.tw. vice chair 王文俊wen-june wang.", 
+        "email_list": [
+            "clwang@ee.nthu.edu.tw"
+        ], 
+        "cite_url": "www.ieee.org.tw/?page=officer", 
+        "cite_name": "", 
+        "title": "IEEE Taipei Section"
+    }, 
+    {
+        "content": "jan 17, 2005 - national tsing hua university: chin-liang wang. national ... national cheng kung university: lih-shyang chen .... jit@mail.ndhu.edu.tw.", 
+        "email_list": [
+            "jit@mail.ndhu.edu.tw"
+        ], 
+        "cite_url": "jit.ndhu.edu.tw/file/JIT_leaflet-950123.pdf", 
+        "cite_name": "National Dong Hwa University", 
+        "title": "[PDF]Page 1 - JIT Journal of Internet Technology"
+    }, 
+    {
+        "content": "fax, 86-10-82547161, e-mail, qiuliang@mail.iee.ac.cn , qiuliangw@hotmail.com .... shunzhong chen; qiuliang wang; yinming dai; yuanzhong lei; keeman...", 
+        "email_list": [
+            "qiuliang@mail.iee.ac.cn", 
+            "qiuliangw@hotmail.com"
+        ], 
+        "cite_url": "iee.ac.cn/expert/expert_en.php?ExpertID=38", 
+        "cite_name": "", 
+        "title": "Qiuliang Wang - INSTITUTE OF ELECTRICAL ..."
+    }
+]

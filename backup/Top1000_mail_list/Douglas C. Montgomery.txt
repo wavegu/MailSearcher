@@ -1,2 +1,20 @@
-doug.montgomery@asu.edu	[22]
-email at asu.edu	[3]
+[
+    {
+        "content": "resume of dr. douglas c. montgomery. ... arizona state university  tempe, az 85287-5906; phone: (602) 965-3836; e-mail: doug.montgomery@asu.edu...", 
+        "email_addr_list": [
+            "doug.montgomery@asu.edu"
+        ], 
+        "cite_url": "masmlab.engineering.asu.edu/montgomery/", 
+        "cite_name": "", 
+        "title": "Douglas C. Montgomery"
+    }, 
+    {
+        "content": "verified email at asu.edu. scholar. get my own ... dc montgomery, ea peck, gg vining. john wiley  sons ... raymond h. meyers and douglas c. montgomery.", 
+        "email_addr_list": [
+            "email@asu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5PboKNAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Douglas C. Montgomery - Google Scholar Citations"
+    }
+]

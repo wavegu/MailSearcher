@@ -1,0 +1,38 @@
+[
+    {
+        "content": "michel beaudouin-lafon. to get an english version of this page, click here. coordonnées : bâtiment 650, bureau 205, tel 01 69 15 69 10, e-mail mbl@lri.fr.", 
+        "email_list": [
+            "mbl@lri.fr"
+        ], 
+        "cite_url": "https://www.lri.fr/~mbl/", 
+        "cite_name": "", 
+        "title": "Michel Beaudouin-Lafon - LRI"
+    }, 
+    {
+        "content": "michel beaudouin-lafon. université paris-sud ... verified email at lri.fr. scholar. get my own ... r blanch, y guiard, m beaudouin-lafon. proceedings of the...", 
+        "email_list": [
+            "email@lri.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OucrYFkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michel Beaudouin-Lafon - Google Scholar Citations"
+    }, 
+    {
+        "content": "personal homepage: http://www.lri.fr/~mbl/eintroduction.html; employer: université paris-sud (http://www.u-psud.fr); email: mbl@lri.fr. michel beaudouin-lafon...", 
+        "email_list": [
+            "mbl@lri.fr"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/.../michel-beaudouin-lafon", 
+        "cite_name": "", 
+        "title": "Michel Beaudouin-Lafon - Interaction Design Foundation"
+    }, 
+    {
+        "content": "search by name, email, work phone, or sunetid. search in stanford view. show more options ... michel beaudouin-lafon. email: michel.beaudouin-lafon@lri.fr...", 
+        "email_list": [
+            "michel.beaudouin-lafon@lri.fr"
+        ], 
+        "cite_url": "https://stanfordwho.stanford.edu/.../detailAction.do?key...", 
+        "cite_name": "", 
+        "title": "Michel Beaudouin-Lafon - Public Listing from Stanford ..."
+    }
+]

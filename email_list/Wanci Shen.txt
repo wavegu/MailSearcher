@@ -1,0 +1,20 @@
+[
+    {
+        "content": "dr. wei zhou, email: wzhou@nist.gov. phone : (301) 975-8169. fax: (301) 921-9847, nist center ... wanci shen. professional affiliations, • american chemical...", 
+        "email_list": [
+            "wzhou@nist.gov"
+        ], 
+        "cite_url": "www.ncnr.nist.gov/.../cv....", 
+        "cite_name": "National Institute of Standards and Technology", 
+        "title": "Welcome to Dr. Wei Zhous Research Website"
+    }, 
+    {
+        "content": "e-mail address: y.hu@fkf.mpg.de ... 1 ruizhong zhang, shuijian he, yizhong lu, wei chen, fe, co, n-functionalized carbon ... zheng-hong huang, ruitao lv, lu yang, jian-gan wang, wanci shen, yuxiao lin, xiaoliang yu, ling ye, hongyu...", 
+        "email_list": [
+            "y.hu@fkf.mpg.de"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/adma.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "CNFs@CNTs: Superior Carbon for Electrochemical Energy ..."
+    }
+]

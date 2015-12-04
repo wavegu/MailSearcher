@@ -1,0 +1,58 @@
+[
+    {
+        "content": "210+ items - email:maytham.safar@ku.edu.kw. telephone:87962. fax:+965...", 
+        "email_list": [
+            "maytham.safar@ku.edu.kw"
+        ], 
+        "cite_url": "https://portal.eng.kuniv.edu/cv/?f=maytham", 
+        "cite_name": "", 
+        "title": "Dr. Maytham Hassan Safar (FULL CV)"
+    }, 
+    {
+        "content": "maytham safar. professor of ... verified email at ku.edu.kw. scholar ... g zhao, k xuan, w rahayu, d taniar, m safar, m gavrilova, b srinivasan. industrial...", 
+        "email_list": [
+            "email@ku.edu.kw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=U5bcVN4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Maytham Safar - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: maytham@mac.com, maytham@eng.kuniv.edu.kw. home page: .... maytham safar and cyrus shahabi, a framework to evlaute objects shape.", 
+        "email_list": [
+            "maytham@mac.com", 
+            "maytham@eng.kuniv.edu.kw"
+        ], 
+        "cite_url": "www.ccse.ku.edu.kw/media/cv/ce/maytham.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Maytham Safar - College of Computing Sciences and ..."
+    }, 
+    {
+        "content": "name: maytham hassan safar. rank: professor. department: computer engineering department. email: maytham.safar@ku.edu.kw. telephone: 87962.", 
+        "email_list": [
+            "maytham.safar@ku.edu.kw"
+        ], 
+        "cite_url": "ccse.ku.edu.kw/media/cv/ce/Dr._Maytham_Hassan_Safar.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dr. Maytham Hassan Safar (FULL CV) - College of ..."
+    }, 
+    {
+        "content": "maytham safar. computer eng. dept., college of eng.  petroleum, kuwait university. p.o. box 5969 safat 13060, kuwait,. email: maytham.safar@ku.edu.kw.", 
+        "email_list": [
+            "maytham.safar@ku.edu.kw"
+        ], 
+        "cite_url": "www.tandfonline.com/doi/pdf/10.1080/18756891.2013.857893", 
+        "cite_name": "", 
+        "title": "Download full text"
+    }, 
+    {
+        "content": "... china 2008. email:liyuefan@usc.edu ... on leave. education. email: faranak.davoodi@intelligentbuoys.com .... maytham h. safar. graduated in sep 2000.", 
+        "email_list": [
+            "liyuefan@usc.edu", 
+            "faranak.davoodi@intelligentbuoys.com"
+        ], 
+        "cite_url": "infolab.usc.edu/people.php", 
+        "cite_name": "", 
+        "title": "InfoLab | People"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "professor dr. hamidah ibrahim deputy dean (research and graduate studies) tel: 603-89466556. email: hamidah@fsktm.upm.edu.my. dr. nur izura udzir.", 
+        "email_list": [
+            "hamidah@fsktm.upm.edu.my"
+        ], 
+        "cite_url": "fsktm.upm.edu.my/site/?pg=1-deptdept=ddridc=132", 
+        "cite_name": "", 
+        "title": "Staff - UPM : FSKTM - Universiti Putra Malaysia"
+    }, 
+    {
+        "content": "oct 1, 2015 - email address : statecourts_qsm@statecourts.gov.sg ... district judge, ms hamidah bte ibrahim, pbs, 64355810, -. district judge, tan...", 
+        "email_list": [
+            "statecourts_qsm@statecourts.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing.asp?...", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Judiciary, State Courts - Gov.sg - Singapore Government ..."
+    }, 
+    {
+        "content": "name, : hamidah binti ibrahim @ abd hamid. designation, : senior manager. email, : hamidah.ibrahim@pns.com.my. tel/ext, : 03 - 2082 7788 / 7941...", 
+        "email_list": [
+            "hamidah.ibrahim@pns.com.my"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Staff Directory | Perbadanan Nasional Berhad"
+    }, 
+    {
+        "content": "oct 21, 2015 - submit it to the hotel using email addresses provided hereunder: to : ms hamidah ibrahim or email hamidah@mel.equatorial.com. cc : ms...", 
+        "email_list": [
+            "hamidah@mel.equatorial.com"
+        ], 
+        "cite_url": "www.icelt.com.my/dodownloadform.php?name=hotelreservation.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Page 1 of 2 PARTICIPANT ROOM ... - icelt 2015"
+    }
+]

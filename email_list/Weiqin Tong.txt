@@ -1,0 +1,20 @@
+[
+    {
+        "content": "weiqin tong. school of computer science and engineering of. shanghai university. shanghai,china. email: wqtong@mail.shu.edu.cn. abstract—in the internet...", 
+        "email_list": [
+            "wqtong@mail.shu.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "A Framework for Dynamic Updating of Service Pack in the ..."
+    }, 
+    {
+        "content": "authors. weiqin tong  wqtong@mail.shu.edu.cn (1); weikai miao (1). author affiliations. 1. school of computer engineering and science, shanghai university,...", 
+        "email_list": [
+            "wqtong@mail.shu.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs11859-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Performance predictable servicebsp model for grid computing"
+    }
+]

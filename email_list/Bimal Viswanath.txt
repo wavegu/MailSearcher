@@ -1,0 +1,11 @@
+[
+    {
+        "content": "create alert. cancel. bimal viswanath ... verified email at mpi-sws.org - homepage  scholar ... b viswanath, a mislove, m cha, kp gummadi. proceedings of...", 
+        "email_list": [
+            "email@mpi-sws.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=bu1SCOuD_CMC...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bimal Viswanath - Google Scholar Citations"
+    }
+]

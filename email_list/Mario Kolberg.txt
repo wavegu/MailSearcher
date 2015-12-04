@@ -1,0 +1,66 @@
+[
+    {
+        "content": "print » | pdf » | e-mail this page ». dr mario kolberg ... email: mko@cs.stir.ac.uk. phone: 01786467440. http://www.cs.stir.ac.uk/~mko...", 
+        "email_list": [
+            "mko@cs.stir.ac.uk"
+        ], 
+        "cite_url": "rms.stir.ac.uk/converis-stirling/person/11460;...", 
+        "cite_name": "University of Stirling", 
+        "title": "Dr Mario Kolberg - University of Stirling Research"
+    }, 
+    {
+        "content": "university of stirling stirling fk9 4la scotland, uk. email: mko[at]cs.stir.ac.uk. telephone: +44 (0)1786 46 7440. telefax: +44 (0)1786 46 4551. mario kolberg...", 
+        "email_list": [
+            "mko@cs.stir.ac.uk"
+        ], 
+        "cite_url": "www.cs.stir.ac.uk/~mko/", 
+        "cite_name": "University of Stirling", 
+        "title": "Mario Kolbergs Home Page"
+    }, 
+    {
+        "content": "create alert. cancel. mario kolberg. university of stirling. verified email at cs.stir.ac.uk. scholar ... m calder, m kolberg, eh magill, s reiff-marganiec. computer...", 
+        "email_list": [
+            "email@cs.stir.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=5WG5v1sAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Mario Kolberg - Google Scholar Citations"
+    }, 
+    {
+        "content": "aya labs research 211 mt. airy rd. basking ridge new jersey 07920 usa phone: +1 908 848 5675 email: buford@avaya.com mario kolberg (editor)...", 
+        "email_list": [
+            "buford@avaya.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mkolberg-ieee-org-12381499.htm", 
+        "cite_name": "", 
+        "title": "mkolberg@ieee.org - The Email Archive"
+    }, 
+    {
+        "content": "oct 24, 2015 - sub_announced_to_authors, thomas schmidt schmidt@informatik.haw-hamburg.de, mario kolberg mkolberg@ieee.org, john...", 
+        "email_list": [
+            "schmidt@informatik.haw-hamburg.de", 
+            "mkolberg@ieee.org"
+        ], 
+        "cite_url": "https://datatracker.ietf.org/...kolberg.../e...", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "Email expansions for draft-kolberg-sam-baseline-protocol-01"
+    }, 
+    {
+        "content": "london, ontario m5j 2t3 canada tel: +1 (408) 525-7308. e-mail: abegen@cisco.com. mario kolberg university of stirling computing science and mathematics", 
+        "email_list": [
+            "abegen@cisco.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Series Editors | IEEE Communications Society"
+    }, 
+    {
+        "content": "organiser: mario kolberg, university of stirling, stirling, uk abstract: ... session organizer: mario kolberg, university of stirling, uk, email: mko@cs.stir.ac.uk...", 
+        "email_list": [
+            "mko@cs.stir.ac.uk"
+        ], 
+        "cite_url": "ccnc2010.ieee-ccnc.org/Special_Sessions/Care_at_Home.html", 
+        "cite_name": "", 
+        "title": "CCNC - IEEE CCNC 2010"
+    }
+]

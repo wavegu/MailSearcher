@@ -1,0 +1,29 @@
+[
+    {
+        "content": "adam perer. research ... verified email at us.ibm.com - homepage ... contrasting portraits of email practices: visual approaches to reflection and analysis.", 
+        "email_list": [
+            "email@us.ibm.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wAxr6b8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Adam Perer - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: adamp@cs.umd.edu web: http://www.cs.umd.edu/~adamp/. biography. adam perer is a doctoral candidate of computer science at the university of...", 
+        "email_list": [
+            "adamp@cs.umd.edu"
+        ], 
+        "cite_url": "www.cs.umd.edu/~adamp/.../adam...", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "[PDF]Adam Perer - Department of Computer Science - University ..."
+    }, 
+    {
+        "content": "oct 10, 2007 - email: adamp@cs.umd.edu. biography. adam perer is a doctoral candidate of computer science at the university of maryland, college park...", 
+        "email_list": [
+            "adamp@cs.umd.edu"
+        ], 
+        "cite_url": "https://www.cs.umd.edu/.../adamp/...", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "[PDF]Adam Perer - University of Maryland at College Park ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dr. zheng su. genentech inc., usa. email: su.zheng@gene.com. qualifications. 2005 ph.d., stanford university, computational mathematics 2005 m.sc.", 
+        "email_list": [
+            "su.zheng@gene.com"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Zheng Su - Scientific Research Publishing"
+    }, 
+    {
+        "content": "e-mail: she@pku.edu.cn ..... zhuyang, john obrien, xiaobin zheng, huai-qiu zhu, zhen-su she, tree and rate estimation by local evaluation of...", 
+        "email_list": [
+            "she@pku.edu.cn"
+        ], 
+        "cite_url": "web5.pku.edu.cn/engineering/Faculty/.../2331.htm", 
+        "cite_name": "Peking University", 
+        "title": "Zhensu She"
+    }, 
+    {
+        "content": "email: zcsu@uncc.edu ... zhaoqiang zhang, minli xu, shan li, and zhengchang su. ... zhengchang su, victor olman, fenglou mao, and ying xu. comparative...", 
+        "email_list": [
+            "zcsu@uncc.edu"
+        ], 
+        "cite_url": "sulab.uncc.edu/zhengchang-su-...", 
+        "cite_name": "University of North Carolina at Charlotte", 
+        "title": "ZhengChang Su, Ph.D. | The Su Lab - Bioinformatics and ..."
+    }
+]

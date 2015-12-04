@@ -1,3 +1,12 @@
-jplatt@microsoft.com.john	[12]
-jplatt@microsoft.com	[12]
-acsuren@microsoft.com	[2]
+[
+    {
+        "content": "automatic discovery of personal topics to organize email. arun c. surendran acsuren@microsoft.com. john c. platt jplatt@microsoft.com.", 
+        "email_addr_list": [
+            "acsuren@microsoft.com", 
+            "jplatt@microsoft.com"
+        ], 
+        "cite_url": "ceas.cc/2005/papers/145.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]automatic discovery of personal topics to organize email"
+    }
+]

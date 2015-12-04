@@ -1,0 +1,38 @@
+[
+    {
+        "content": "oct 21, 2015 - tapani raiko ... fi-00076 aalto, finland; phone: +358 50 4301659 (office) +358 50 5225750 (personal); email: firstname.lastname@aalto.fi...", 
+        "email_list": [
+            "firstname.lastname@aalto.fi"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Aalto University", 
+        "title": "Tapani Raiko"
+    }, 
+    {
+        "content": "tapani raiko. assistant professor ... verified email at aalto.fi - homepage  scholar ... a honkela, t raiko, m kuusela, m tornio, j karhunen. the journal of...", 
+        "email_list": [
+            "email@aalto.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-aNI9zwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Tapani Raiko - Google Scholar Citations"
+    }, 
+    {
+        "content": "prof. tapani raiko, aalto university ... to register, send an email titled “denis summer school registration” to markku.suomalainen@aalto.fi with the following...", 
+        "email_list": [
+            "markku.suomalainen@aalto.fi"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Tampere University of Technology", 
+        "title": "CoursesandSchools  DENIS  TUTWiki"
+    }, 
+    {
+        "content": "tapaniraiko. 1 learned function exploitation stage(ucb) ... 1 aalto university school of science, finland, email: antoniogusmao@gmail.com, tapani.raiko...", 
+        "email_list": [
+            "antoniogusmao@gmail.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1614990980", 
+        "cite_name": "", 
+        "title": "ECAI 2012: 20th European Conference on Artificial Intelligence"
+    }
+]

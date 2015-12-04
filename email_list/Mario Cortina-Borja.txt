@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at ucl.ac.uk - homepage  scholar. get my own profile ... ml newell, h coovadia, m cortina-borja, n rollins, p gaillard, f dabis. the lancet 364...", 
+        "email_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=PFFWjKoAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Mario Cortina Borja - Google Scholar Citations"
+    }
+]

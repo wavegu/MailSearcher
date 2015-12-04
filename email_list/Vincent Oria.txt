@@ -1,0 +1,67 @@
+[
+    {
+        "content": "title. associate professor. email. vincent.oria@njit.edu; oria@njit.edu. office. gitc 4302. phone. 973-596-5767. dept. computer science. web page.", 
+        "email_list": [
+            "vincent.oria@njit.edu", 
+            "oria@njit.edu"
+        ], 
+        "cite_url": "https://web.njit.edu/~oria/", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "Vincent Oria: Computer Science Department - New Jersey ..."
+    }, 
+    {
+        "content": "contact info. title: associate professor. email: vincent.oria@njit.edu. office: gitc 4302. phone: 973-596-5767. dept: computer science. webpage:...", 
+        "email_list": [
+            "vincent.oria@njit.edu"
+        ], 
+        "cite_url": "cs.njit.edu/people/oria.php", 
+        "cite_name": "", 
+        "title": "NJIT: Computer Science: Vincent Oria"
+    }, 
+    {
+        "content": "contact info. title. associate professor. email. vincent.oria@njit.edu; oria@njit.edu. office. gitc 4302. phone. 973-596-5767. dept. computer science.", 
+        "email_list": [
+            "vincent.oria@njit.edu", 
+            "oria@njit.edu"
+        ], 
+        "cite_url": "https://web.njit.edu/~oria/Teaching.htm", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "Vincent Oria: Computer Science Department"
+    }, 
+    {
+        "content": "title. associate professor. email. vincent.oria@njit.edu. office. gitc 4302. phone. 973-596-5767. dept. computer science. web page. http://web.njit.edu/~oria/...", 
+        "email_list": [
+            "vincent.oria@njit.edu"
+        ], 
+        "cite_url": "https://web.njit.edu/~oria/Research.htm", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "Vincent Oria: Computer Science Department"
+    }, 
+    {
+        "content": "create alert. cancel. vincent oria ... verified email at njit.edu. scholar. get my own ... v oria, mt ozsu, l liu, x li, jz li, y niu, pj iglinski. proceedings of 2nd...", 
+        "email_list": [
+            "email@njit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PlgV6FwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Vincent Oria - Google Scholar Citations"
+    }, 
+    {
+        "content": "address. department of computer science. new jersey institute of technology (njit). university heights. newark, nj, 07102, usa. e-mail: oria@oak.njit.edu.", 
+        "email_list": [
+            "oria@oak.njit.edu"
+        ], 
+        "cite_url": "www.lamsade.dauphine.fr/.../Oria_Curriculum...", 
+        "cite_name": "Paris Dauphine University", 
+        "title": "[PDF]Curriculum Vitae: Vincent Oria ADDRESS ... - Lamsade"
+    }, 
+    {
+        "content": "vincent oria department of computer science department new jersey institute of technology email:vincent.oria@njit.edu. abstract: this talk focuses on the...", 
+        "email_list": [
+            "vincent.oria@njit.edu"
+        ], 
+        "cite_url": "www.cse.unt.edu/~smohanty/Services/ICIT-2014/silicon.../plenary.html", 
+        "cite_name": "", 
+        "title": "Plenary Talk - Computer Science and Engineering"
+    }
+]

@@ -1,3 +1,29 @@
-karypis@umn.edu	[15]
-karypis@cs.umn.edu	[15]
-email at cs.umn.edu	[1]
+[
+    {
+        "content": "umn twin cities. email address: karypis@umn.edu. web page: http://umn.edu/home/karypis. internet id: karypis. office address: computer science and eng", 
+        "email_addr_list": [
+            "karypis@umn.edu"
+        ], 
+        "cite_url": "www.umn.edu/lookup?UID=karypis", 
+        "cite_name": "University of Minnesota", 
+        "title": "George Karypis - University of Minnesota Twin Cities"
+    }, 
+    {
+        "content": "george karypis. professor, department of ... verified email at cs.umn.edu - homepage  scholar ... b sarwar, g karypis, j konstan, j riedl. proceedings of the...", 
+        "email_addr_list": [
+            "email@cs.umn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ElqwScwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "George Karypis - Google Scholar Citations"
+    }, 
+    {
+        "content": "pdf conference chair george karypis university of minnesota karypis@cs.umn.edu program chair hisham al-mubaid university of houston clear...", 
+        "email_addr_list": [
+            "karypis@cs.umn.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-karypis-cs-umn-edu-3686245.htm", 
+        "cite_name": "", 
+        "title": "karypis@cs.umn.edu - The Email Archive"
+    }
+]

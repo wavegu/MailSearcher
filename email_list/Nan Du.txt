@@ -1,0 +1,20 @@
+[
+    {
+        "content": "you can join online by clicking here, or. join by e-mail: send a message from your e-mail account to nandu-request@caltalk.cal.org . leave the subject field...", 
+        "email_list": [
+            "nandu-request@caltalk.cal.org"
+        ], 
+        "cite_url": "www.cal.org/earlylang/listservs.html", 
+        "cite_name": "", 
+        "title": "Ñandutí Listservs - Center for Applied Linguistics"
+    }, 
+    {
+        "content": "can jubany by nandu jubany – barcelona ... chef: nandu jubany. molecular meter: high. awards: restaurant of the year ... email: info@canjubany.com...", 
+        "email_list": [
+            "info@canjubany.com"
+        ], 
+        "cite_url": "www.molecularrecipes.com/.../jubany-nandu-jubany-barcelona/", 
+        "cite_name": "", 
+        "title": "CAN JUBANY by Nandu Jubany – Barcelona | Molecular ..."
+    }
+]

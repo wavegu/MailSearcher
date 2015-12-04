@@ -1,0 +1,11 @@
+[
+    {
+        "content": "e-mail, kristiina.jokinen@ut.ee ... martin vels, doktorant, (juh) päivi kristiina jokinen, multimodal interaction with intelligent systems (multimodaalne suhtlus...", 
+        "email_list": [
+            "kristiina.jokinen@ut.ee"
+        ], 
+        "cite_url": "https://www.etis.ee/.../isikuCV...", 
+        "cite_name": "Estonian Research Portal", 
+        "title": "Päivi Kristiina Jokinen - Eesti Teadusinfosüsteem"
+    }
+]

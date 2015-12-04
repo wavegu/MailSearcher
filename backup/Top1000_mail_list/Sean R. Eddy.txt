@@ -1,3 +1,29 @@
-seaneddy@fas.harvard.edu	[17]
-sean@eddylab.org	[10]
-email at fas.harvard.edu	[4]
+[
+    {
+        "content": "19700 helix drive, ashburn, va 20147. telephone: (571) 209-4163. fax: (571) 209-4095. email: sean@eddylab.org. web: http://eddylab.org/. present position.", 
+        "email_addr_list": [
+            "sean@eddylab.org"
+        ], 
+        "cite_url": "selab.janelia.org/people/eddys/cv.pdf", 
+        "cite_name": "Janelia Research Campus", 
+        "title": "[PDF]Curriculum Vitae: Sean R. Eddy, Ph.D. Office address HHMI ..."
+    }, 
+    {
+        "content": "email: seaneddy@fas.harvard.edu. web: http://eddylab.org/. present position. professor of molecular  cellular biology, harvard university. professor of applied...", 
+        "email_addr_list": [
+            "seaneddy@fas.harvard.edu"
+        ], 
+        "cite_url": "https://www.seas.h...", 
+        "cite_name": "Harvard John A. Paulson School of Engineering and...", 
+        "title": "[PDF]Curriculum Vitae: Sean R. Eddy, Ph.D. Office address ..."
+    }, 
+    {
+        "content": "sean r. eddy. professor of ... verified email at fas.harvard.edu - homepage  scholar ... a bateman, e birney, l cerruti, r durbin, l etwiller, sr eddy, ... nucleic...", 
+        "email_addr_list": [
+            "email@fas.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=rFf-AooAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sean R. Eddy - Google Scholar Citations"
+    }
+]

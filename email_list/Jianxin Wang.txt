@@ -1,0 +1,56 @@
+[
+    {
+        "content": "jianxin wang. school of information ... verified email at mail.csu.edu.cn - homepage  scholar. get my own profile ... m li, j chen, j wang, b hu, g chen.", 
+        "email_list": [
+            "email@mail.csu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7pgY2F0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jianxin Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "jianxin wang received his b.sc. from tsinghua university in beijing, china, and ... phd economics. email. jianxin.wang@uts.edu.au. phone. +61 2 9514 9744.", 
+        "email_list": [
+            "jianxin.wang@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/jianxin.wang", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Jianxin Wang | University of Technology Sydney"
+    }, 
+    {
+        "content": "jianxin wang. no photo available. jianxin wang. meteorologist. jianxin.wang-1@nasa.gov. sorry ... nasa/gsfc; mail code: 612; greenbelt , md 20771.", 
+        "email_list": [
+            "jianxin.wang-1@nasa.gov"
+        ], 
+        "cite_url": "science.gsfc.nasa.gov/sed/bio/jianxin.wang-1", 
+        "cite_name": "NASA", 
+        "title": "Bio - Jianxin Wang - Sciences and Exploration Directorate"
+    }, 
+    {
+        "content": "邮件：jxwang@mail.csu.edu.cn .... jianxin wang, congestion control in computer networks: theory, protocols and applications, nova science publishers, usa,...", 
+        "email_list": [
+            "jxwang@mail.csu.edu.cn"
+        ], 
+        "cite_url": "netlab.csu.edu.cn/personal/JXWang/index.html", 
+        "cite_name": "", 
+        "title": "王建新中南大学 - 计算机理论与软件研究所"
+    }, 
+    {
+        "content": "email: jianxin-wang@ouhsc.edu ... zhong y, li j, chen y, wang jj, ratan r, and zhang sx. ... wang m, wang jj, li j, park k, qian x, ma jx, and zhang sx.", 
+        "email_list": [
+            "jianxin-wang@ouhsc.edu"
+        ], 
+        "cite_url": "www.ouhsc.edu/.../Wang...", 
+        "cite_name": "University of Oklahoma Health Sciences Center", 
+        "title": "Jianxin (Josh) Wang, MD, MS - University of Oklahoma ..."
+    }, 
+    {
+        "content": "wang jianxin. professor, doctor ... email：wangjx@tsinghua.edu.cn ... yanjun wang, jianxin wang, shijin shuai, xiaohu lei, xinliang an. sae 2005-01-0107.", 
+        "email_list": [
+            "wangjx@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.dae.tsinghua.edu.cn/.../201104200907364222...", 
+        "cite_name": "Tsinghua University", 
+        "title": "清华大学汽车工程系"
+    }
+]

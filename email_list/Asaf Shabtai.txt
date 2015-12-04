@@ -1,0 +1,20 @@
+[
+    {
+        "content": "dr. asaf shabtai,דר אסף שבתאי,department of information systems engineering,המחלקה להנדסת מערכות מידע,personal web ... email, shabtaia@bgumail.bgu.ac.il.", 
+        "email_list": [
+            "shabtaia@bgumail.bgu.ac.il"
+        ], 
+        "cite_url": "www.ise.bgu.ac.il/engineering/PersonalWebsite1Publications.aspx?id...", 
+        "cite_name": "", 
+        "title": "Dr. Asaf Shabtai Web Site"
+    }, 
+    {
+        "content": "dr. asaf shabtai. deutsche telekom labs at ... verified email at bgu.ac.il. scholar ... a shabtai, y fledel, u kanonov, y elovici, s dolev, c glezer. ieee security...", 
+        "email_list": [
+            "email@bgu.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=k-J7GfgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dr. Asaf Shabtai - Google Scholar Citations"
+    }
+]

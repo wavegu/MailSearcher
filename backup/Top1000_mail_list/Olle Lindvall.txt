@@ -1,2 +1,11 @@
-olle.lindvall@med.lu.se	[25]
-lindvall@med.lu.se	[17]
+[
+    {
+        "content": "sölvegatan i7 telephone~ (+46) 46-2220543 (dil-eci); (+46)-46-2220542 (secretary): telefax (+46)-46-2220560; email: olle,lindvall@med.lu.se. lniernerf...", 
+        "email_addr_list": [
+            "lindvall@med.lu.se"
+        ], 
+        "cite_url": "www.science.org.ge/Documents/Diploma1/Olle%20Lindvall.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Olle Lindvall.pdf - The Georgian National Academy of ..."
+    }
+]

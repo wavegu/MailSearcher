@@ -1,0 +1,11 @@
+[
+    {
+        "content": "karl sirotkin - national institutes of health ... are you karl sirotkin? ..... institute, national institutes of health, bethesda, maryland, usa. knutsent@mail.nih.gov.", 
+        "email_list": [
+            "knutsent@mail.nih.gov"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Karl+Sirotkin", 
+        "cite_name": "", 
+        "title": "Publications Authored by Karl Sirotkin"
+    }
+]

@@ -1,2 +1,20 @@
-guy.slater@rws-tr.nhs.uk	[19]
-info@streamline-surgical.com	[1]
+[
+    {
+        "content": "telephone: 01483 207 300; fax: 01483 555 888; email: info@streamline-surgical.com ... mr guy slater was appointed as an nhs consultant surgeon in 2004, ... mr guy slater has indicated that they work with the following private medical...", 
+        "email_addr_list": [
+            "info@streamline-surgical.com"
+        ], 
+        "cite_url": "www.nuffieldhealth.com  Hospitals  Consultants", 
+        "cite_name": "", 
+        "title": "Mr Guy Slater - Nuffield Health"
+    }, 
+    {
+        "content": "guy slater. email: guy.slater@rws-tr.nhs.uk. address, upper gi surgery, st richards hospital, dept of surgery, spitalfield lane. city, chichester. country, uk.", 
+        "email_addr_list": [
+            "guy.slater@rws-tr.nhs.uk"
+        ], 
+        "cite_url": "www.ifso.com/members/guy-slaterrws-tr-nhs-uk/", 
+        "cite_name": "", 
+        "title": "guy.slater@rws-tr.nhs.uk - IFSO"
+    }
+]

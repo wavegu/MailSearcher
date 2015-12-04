@@ -1,0 +1,74 @@
+[
+    {
+        "content": "professor. office phone number: 604-822-9669. email: hongbin@chem.ubc.ca ... cao, y. ; yoo, t. ; li, h. b. single molecule force spectroscopy reveals...", 
+        "email_list": [
+            "hongbin@chem.ubc.ca"
+        ], 
+        "cite_url": "https://www.chem.ubc.ca/hongbin-li", 
+        "cite_name": "University of British Columbia", 
+        "title": "Hongbin Li | UBC Chemistry"
+    }, 
+    {
+        "content": "li, hongbin. c.v. starr chair professor, department of economics curriculum vitae. phone (86) (10) 62792924. email lihongbin@sem.tsinghua.edu.cn", 
+        "email_list": [
+            "lihongbin@sem.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.sem.tsingh...", 
+        "cite_name": "Tsinghua University School of Economics and Manag...", 
+        "title": "Li,Hongbin"
+    }, 
+    {
+        "content": "create alert. cancel. hongbin li. zhejiang university. verified email at zju.edu.cn. scholar ... x shen, h li, j zhao, j chen, z wang, y sun. proceedings of the...", 
+        "email_list": [
+            "email@zju.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=41SYDIwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hongbin Li - Google Scholar Citations"
+    }, 
+    {
+        "content": "hongbin li. school of economics and ... verified email at sem.tsinghua.edu.cn - homepage  scholar. get my own ... h li, l meng, q wang, la zhou. journal of...", 
+        "email_list": [
+            "email@sem.tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TTZFFxEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hongbin Li - Google Scholar Citations"
+    }, 
+    {
+        "content": "hongbin li: current contact information and listing of economic research of this author provided by repec/ideas. ... email: lihongbin@sem.tsinghua.edu.cn.", 
+        "email_list": [
+            "lihongbin@sem.tsinghua.edu.cn"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pli72.html", 
+        "cite_name": "", 
+        "title": "Hongbin Li at IDEAS"
+    }, 
+    {
+        "content": "... chair: professor of economics: tel：: email：zhoula@gsm.pku.edu.cn: cv in chinese ... li-an zhou is a professor of economics at peking university guanghua ... from chinese private firms (with hongbin cai, hongbin li and albert park),...", 
+        "email_list": [
+            "zhoula@gsm.pku.edu.cn"
+        ], 
+        "cite_url": "www.gsm.pku.edu.cn/.../zhoula.html", 
+        "cite_name": "Guanghua School of Management", 
+        "title": "Zhou, Li-an - Guanghua School of Management"
+    }, 
+    {
+        "content": "cai, hongbin: dean: professor of applied economics: tel：86-10-62765132: email：hbcai@gsm.pku.edu.cn .... evidence in the chinese banking industry”, with hongbin li and li-an zhou, 2010, journal of industrial economics, 58:156-189.", 
+        "email_list": [
+            "hbcai@gsm.pku.edu.cn"
+        ], 
+        "cite_url": "www.gsm.pku.edu.cn/.../en/hbcai.html", 
+        "cite_name": "Guanghua School of Management", 
+        "title": "Dean CAI Hongbin - Guanghua School of Management"
+    }, 
+    {
+        "content": "email: hli@stevens.edu .... 147 (4), 208-216. jianhua liu, jian li, hongbin li and erik g. larsson. (aug 2001). ... hongbin li, wei sun, petre stoica, and jian li.", 
+        "email_list": [
+            "hli@stevens.edu"
+        ], 
+        "cite_url": "web.stevens.edu/.../faculty_profile.php?...", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "Hongbin Li - Faculty Profiles - SIT"
+    }
+]

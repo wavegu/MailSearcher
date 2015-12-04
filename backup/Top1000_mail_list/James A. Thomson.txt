@@ -1,4 +1,56 @@
-james.thomson@dtz.com	[26]
-james.thomson@utoronto.ca	[26]
-jthomson@morgridgeinstitute.org	[16]
-jat4m@virginia.edu	[4]
+[
+    {
+        "content": "email: jthomson@morgridgeinstitute.org ... december 2014  james thomson: opening access to the cellular building blocks of life; 29 june 2014  uw stem cell...", 
+        "email_addr_list": [
+            "jthomson@morgridgeinstitute.org"
+        ], 
+        "cite_url": "https://stemcells.wisc.edu/node/217", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "James A. Thomson | Stem Cell and Regenerative Medicine ..."
+    }, 
+    {
+        "content": "james thomson. john d. macarthur ... email: jthomson@morgridgeinstitute.org ... yu j, hu k, smuga-otto k, tian s, stewart r, slukvin ii, thomson ja. human...", 
+        "email_addr_list": [
+            "jthomson@morgridgeinstitute.org"
+        ], 
+        "cite_url": "www.crb.wisc.edu/faculty/thomson.asp", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "James Thomson - Cell and Regenerative Biology, University ..."
+    }, 
+    {
+        "content": "phone: (608) 316-4348. email: jthomson@morgridgeinstitute.org. office: 330 n. orchard st., madison, wi 53715. website: thomson lab (link is external)...", 
+        "email_addr_list": [
+            "jthomson@morgridgeinstitute.org"
+        ], 
+        "cite_url": "https://www.mcdb.ucsb.edu/.../tho...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "James A Thomson | MCDB | UCSB Santa Barbara"
+    }, 
+    {
+        "content": "email: james.thomson@utoronto.ca. web page: http://labs.eeb.utoronto.ca/thomson. phone: 416-978-3527. lab phone: 416-946-5521. office: rw 505.", 
+        "email_addr_list": [
+            "james.thomson@utoronto.ca"
+        ], 
+        "cite_url": "www.eeb.utoronto.ca/people/d.../Thomson.htm", 
+        "cite_name": "University of Toronto", 
+        "title": "James D. Thomson - Department of Ecology  Evolutionary ..."
+    }, 
+    {
+        "content": "contact. direct tel:+44 (0)131 222 4545; office tel:+44 (0)131 222 4500; fax:+44 (0)131 222 4501; email:james.thomson@dtz.com. dtz, 125 old broad street,...", 
+        "email_addr_list": [
+            "james.thomson@dtz.com"
+        ], 
+        "cite_url": "www.dtz.com  UK  Contact us", 
+        "cite_name": "DTZ", 
+        "title": "James Thomson - UK | Contact Us"
+    }, 
+    {
+        "content": "james a. thomson (jat4m) andy thomson j. anderson thomson, jr ... primary e-mail address, jat4m@virginia.edu. office phone, +1 434-296-2801.", 
+        "email_addr_list": [
+            "jat4m@virginia.edu"
+        ], 
+        "cite_url": "www.virginia.edu/cgi-local/ldapweb?jat4m", 
+        "cite_name": "University of Virginia", 
+        "title": "J. Anderson Thomson, Jr - UVa LDAP Directory Search ..."
+    }
+]

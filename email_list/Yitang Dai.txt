@@ -1,0 +1,38 @@
+[
+    {
+        "content": "cancel. yitang dai. beijing university of posts and telecommunications  photonics. verified email at bupt.edu.cn ... j sun, y dai, x chen, y zhang, s xie.", 
+        "email_list": [
+            "email@bupt.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NCXSsycAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yitang Dai - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: xx5wr@virginia.edu. education ... jian niu, kun xu, xiaojun xie, yitang dai, jianqiang li and jintong lin, “using bidirectional modulation of 2-ch...", 
+        "email_list": [
+            "xx5wr@virginia.edu"
+        ], 
+        "cite_url": "people.virginia.edu/~xx5wr/.../CV_Xiaojun_Xie.p...", 
+        "cite_name": "University of Virginia", 
+        "title": "[PDF]Xiaojun Xie - University of Virginia"
+    }, 
+    {
+        "content": "email: ludan@semi.ac.cn. dai yitang, received his b.s. and ph.d. degrees in electronic engineering from tsinghua university, china in 2002 and 2006,...", 
+        "email_list": [
+            "ludan@semi.ac.cn"
+        ], 
+        "cite_url": "www.chinacommunications.cn/EN/abstract/abstract7965.shtml", 
+        "cite_name": "", 
+        "title": "A Review on Fiber Lasers"
+    }, 
+    {
+        "content": "email: lvqiang@bupt.edu.cn. dai yitang, received the ph.d. degree in electronic engineering from tsinghua university, beijing, china, in 2006. currently, he is...", 
+        "email_list": [
+            "lvqiang@bupt.edu.cn"
+        ], 
+        "cite_url": "www.chinacommunications.cn/EN/abstract/abstract7825.shtml", 
+        "cite_name": "", 
+        "title": "Dual-Wavelength Linearization of Radio-over-Fiber Link for ..."
+    }
+]

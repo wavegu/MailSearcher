@@ -1,0 +1,47 @@
+[
+    {
+        "content": "... number：, 0411-84706009-3013. email：, tanghong@dlut.edu.cn ... ting li, hong tang, tianshuang qiu, yongwan park. heart sound cancellation from lung...", 
+        "email_list": [
+            "tanghong@dlut.edu.cn"
+        ], 
+        "cite_url": "gs1.dlut.edu.cn/.../De...", 
+        "cite_name": "Dalian University of Technology", 
+        "title": "生物医学工程 - 大连理工大学研究生院-导师信息"
+    }, 
+    {
+        "content": "tianshuang qiu. dalian university of technology, dalian, 116024, china. email: qiutsh@dlut.edu.cn. abstract—for the problem of estimation time-difference-of-.", 
+        "email_list": [
+            "qiutsh@dlut.edu.cn"
+        ], 
+        "cite_url": "www.jcomputers.us/vol7/jcp0702-12.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A Robust Signal Selective TDOA Estimation Algorithm for ..."
+    }, 
+    {
+        "content": "email：zhangxuxiu@163.com ... zhang xuxiu,wang pei, qiu tianshuang,blind multi-user detection based on improved infomax ,journal of information and...", 
+        "email_list": [
+            "zhangxuxiu@163.com"
+        ], 
+        "cite_url": "dxxy.djtu.edu.cn/en/lanmu/zxx_en.htm", 
+        "cite_name": "", 
+        "title": "大连交通大学电气信息学院"
+    }, 
+    {
+        "content": "email this article to a colleague. add to bookshelf ... qiu tian-shuang, xia nan, li jing-chun, li shu-fang. faculty of ... email: qiutsh@dlut.edu.cn. about author...", 
+        "email_list": [
+            "qiutsh@dlut.edu.cn"
+        ], 
+        "cite_url": "www.signalpro.org.cn/EN/abstract/abstract9168.shtml", 
+        "cite_name": "", 
+        "title": "QIU Tian-Shuang, XIA Nan, LI Jing-Chun, LI Shu-Fang.An ..."
+    }, 
+    {
+        "content": "email this article to a colleague. add to bookshelf ... qiu tian-shuang, zhang jin-feng, song ai-min, tang hong. faculty of ... email: qiutsh@dlut.edu.cn.", 
+        "email_list": [
+            "qiutsh@dlut.edu.cn"
+        ], 
+        "cite_url": "www.signalpro.org.cn/EN/abstract/abstract9080.shtml", 
+        "cite_name": "", 
+        "title": "QIU Tian-Shuang, ZHANG Jin-Feng, SONG Ai-Min, TANG ..."
+    }
+]

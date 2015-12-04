@@ -1,3 +1,20 @@
-thomas.tuschl@rockefeller.edu	[25]
-thomas.tuschl@rockefeller.eduimages	[25]
-thomas.tuschl@rockefeller.edu.lab	[25]
+[
+    {
+        "content": "thomas tuschl, ph.d. investigator, howard hughes medical institute professor laboratory of rna molecular biology thomas.tuschl@rockefeller.edu.", 
+        "email_addr_list": [
+            "thomas.tuschl@rockefeller.edu"
+        ], 
+        "cite_url": "www.rockefeller.edu/research/.../ThomasTuschl/", 
+        "cite_name": "Rockefeller University", 
+        "title": "Thomas Tuschl, Ph.D. - The Rockefeller University ..."
+    }, 
+    {
+        "content": "tuschl, thomas investigator, howard hughes medical institute professor laboratory of rna molecular biology e-mail: thomas.tuschl@rockefeller.edu", 
+        "email_addr_list": [
+            "thomas.tuschl@rockefeller.edu"
+        ], 
+        "cite_url": "www.rockefeller.edu/research/.../ThomasTuschl/", 
+        "cite_name": "Rockefeller University", 
+        "title": "Lab Members - The Rockefeller University » Scientists ..."
+    }
+]

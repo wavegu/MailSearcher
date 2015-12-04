@@ -1,0 +1,39 @@
+[
+    {
+        "content": "... conferences  academic organisations  eu supported  blog  about us  janez demšar ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/janez_demsar/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Janez Demšar - VideoLectures.NET"
+    }, 
+    {
+        "content": "janez demsar, m.s., b.s.. people  janez ... email. demsar@bcm.edu. is this you?log in to edit your profile. positions. e-mail access: mol.  human gen.", 
+        "email_list": [
+            "demsar@bcm.edu"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../ddaaade6-4ffc-11e5-...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Janez Demsar, MS, BS - People - Baylor College of Medicine"
+    }, 
+    {
+        "content": "janez demsar. on 2 july 2010 ... i love getting e-mail: janez.demsar@fri.uni-lj.si. software: ... (parsaye) janez demšar (assistant: andraž Žagar) faculty of...", 
+        "email_list": [
+            "janez.demsar@fri.uni-lj.si"
+        ], 
+        "cite_url": "https://prezi.com/.../data-mining-introduction-kyoto-university/", 
+        "cite_name": "Prezi", 
+        "title": "Data Mining: Introduction (Kyoto University) by Janez ... - Prezi"
+    }, 
+    {
+        "content": "blaž zupan. domača stran. http://magix.fri.uni-lj.si/blaz/. email. blaz.zupan@fri.uni-lj.si. asistent. janez demšar. domača stran. email. janez.demsar@fri.uni-lj.si.", 
+        "email_list": [
+            "blaz.zupan@fri.uni-lj.si", 
+            "janez.demsar@fri.uni-lj.si"
+        ], 
+        "cite_url": "fri-info.net/fri/ora.php", 
+        "cite_name": "", 
+        "title": "Orodja in razvoj aplikacij - FRI-Info.net"
+    }
+]

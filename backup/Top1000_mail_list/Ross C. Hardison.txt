@@ -1,5 +1,31 @@
-rch8@psu.edu.ross	[4]
-rch8@psu.edu	[4]
-mitch.weiss@stjude.org	[3]
-blobel@email.chop.edu	[1]
-email at psu.edu	[1]
+[
+    {
+        "content": "email: rch8@psu.edu. phone: (814) 863-0113 .... hardison, ross c. (2010) variable evolutionary signatures at the heart of enhancers. news and views, nature...", 
+        "email_addr_list": [
+            "rch8@psu.edu"
+        ], 
+        "cite_url": "bmb.psu.edu  Directory", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Ross Hardison — Penn State University Biochemistry and ..."
+    }, 
+    {
+        "content": "ross c. hardison. professor of ... verified email at psu.edu - homepage  scholar ... t maniatis, rc hardison, e lacy, j lauer, c oconnell, d quon, gk sim, .", 
+        "email_addr_list": [
+            "email@psu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=waPNWUYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ross C. Hardison - Google Scholar Citations"
+    }, 
+    {
+        "content": "(6) (7); mitchell j weiss  mitch.weiss@stjude.org (8); gerd a blobel  blobel@email.chop.edu (3) (4); ross c hardison  rch8@psu.edu (1). author affiliations.", 
+        "email_addr_list": [
+            "mitch.weiss@stjude.org", 
+            "blobel@email.chop.edu", 
+            "rch8@psu.edu"
+        ], 
+        "cite_url": "link.springer.com/.../10.1186%2Fs13072-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Occupancy by key transcription factors is a more accurate ..."
+    }
+]

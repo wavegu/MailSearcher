@@ -1,3 +1,20 @@
-akrogh@bio.ku.dk	[12]
-krogh@binf.ku.dk	[11]
-anm@dmjx.dk	[2]
+[
+    {
+        "content": "anders krogh. professor. department of biology, computational and ... +45 353-21329. phone (reception desk): +45 353-21311. e-mail: akrogh@bio.ku.dk...", 
+        "email_addr_list": [
+            "akrogh@bio.ku.dk"
+        ], 
+        "cite_url": "www.binf.ku.dk  Staff", 
+        "cite_name": "University of Copenhagen", 
+        "title": "Anders Krogh – Bioinformatics Centre - University of ..."
+    }, 
+    {
+        "content": "anders krogh møller. webredaktør. afdeling: kommunikation. telefon: 89 440 401. mobil: 40 22 86 80. email: anm@dmjx.dk...", 
+        "email_addr_list": [
+            "anm@dmjx.dk"
+        ], 
+        "cite_url": "www.dmjx.dk/om-os/kontakt/.../anders-krogh-moeller", 
+        "cite_name": "", 
+        "title": "/ Anders Krogh Møller - Danmarks Medie"
+    }
+]

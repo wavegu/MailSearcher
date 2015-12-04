@@ -1,0 +1,31 @@
+[
+    {
+        "content": "cancel. gerard dreyfus. espci paristech ... verified email at espci.fr. scholar. get my own ... o nerrand, p roussel-ragot, l personnaz, g dreyfus, s marcos.", 
+        "email_list": [
+            "email@espci.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=T_qibKYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gerard Dreyfus - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail : cis@media-net.fr. 2 - synagogues et oratoires : ... le chant sacré 1a, rue r. hirschler président : m. gérard dreyfus - e-mail : plr@noos.fr.", 
+        "email_list": [
+            "cis@media-net.fr", 
+            "plr@noos.fr"
+        ], 
+        "cite_url": "judaisme.sdv.fr/cibr/commun/ixstr.htm", 
+        "cite_name": "", 
+        "title": "Communautes du Bas-Rhin - Strasbourg"
+    }, 
+    {
+        "content": "laurent blum, gérard dreyfus ... henri dreyfus. thierry roos. jo sellam ... 03 88 24 26 69. mail : cibr@cibr.fr. contact webmaster : webmaster@cibr.fr.", 
+        "email_list": [
+            "cibr@cibr.fr", 
+            "webmaster@cibr.fr"
+        ], 
+        "cite_url": "www.cibr.fr/categories/...du.../consistoire-du-bas-rhin", 
+        "cite_name": "", 
+        "title": "Consistoire du Bas-Rhin | Communautés Israélites du Bas ..."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "content": "hossein mobahi. csail@mit  computer ... verified email at csail.mit.edu - homepage  scholar ... a wagner, j wright, a ganesh, z zhou, h mobahi, y ma.", 
+        "email_list": [
+            "email@csail.mit.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hossein Mobahi - Google Scholar Citations"
+    }, 
+    {
+        "content": "hossein mobahi phd candidate research ... contact: email: hmobahi2@uiuc.edu. projects: ... hossein mobahi and karrie g. karahalios. hci potentials for...", 
+        "email_list": [
+            "hmobahi2@uiuc.edu"
+        ], 
+        "cite_url": "social.cs.uiuc.edu/people/hosseinmobahi.html", 
+        "cite_name": "", 
+        "title": "Hossein Mobahi - Social Spaces Group"
+    }, 
+    {
+        "content": "food collector by hossein mobahi ... more pictures may be found at my web page http://www2.sbu.ac.ir/hmobahi -hossein mobahi email: hmobahi@yahoo.com...", 
+        "email_list": [
+            "hmobahi@yahoo.com"
+        ], 
+        "cite_url": "www.arrickrobotics.com/robomenu/foodcollect.html", 
+        "cite_name": "", 
+        "title": "Food Collector by Hossein Mobahi"
+    }, 
+    {
+        "content": "mar 18, 2011 - from: rajhans samdani rsamdan2 at illinois.edu; to: nl-uiuc at cs.uiuc.edu, aivr at cs.uiuc.edu, vision at cs.uiuc.edu, eyal at cs.uiuc.edu,...", 
+        "email_list": [
+            "rsamdan2@illinois.edu", 
+            "nl-uiuc@cs.uiuc.edu", 
+            "aivr@cs.uiuc.edu", 
+            "vision@cs.uiuc.edu", 
+            "eyal@cs.uiuc.edu"
+        ], 
+        "cite_url": "https://lists.cs.illinois.edu/lists/arc/nl-uiuc/2011-03/msg00008.html", 
+        "cite_name": "", 
+        "title": "[nl-uiuc] AIIS talk by Hossein Mobahi at 2 pm - CS Mail Lists"
+    }
+]

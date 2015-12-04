@@ -1,2 +1,11 @@
-igs-info@som.umaryland.edu	[2]
-white@bd.com	[1]
+[
+    {
+        "content": "... of maryland school of medicine led by claire m. fraser, ph.d., one of the worlds preeminent genome scientists. ... email: igs-info@som.umaryland.edu...", 
+        "email_addr_list": [
+            "igs-info@som.umaryland.edu"
+        ], 
+        "cite_url": "www.umbiopark.com/tenants/umb-institute-genome-sciences", 
+        "cite_name": "", 
+        "title": "UMB Institute for Genome Sciences | UM BioPark"
+    }
+]

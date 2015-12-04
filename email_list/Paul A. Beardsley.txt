@@ -1,0 +1,20 @@
+[
+    {
+        "content": "apr 17, 2009 - paul beardsley 45065. assistant ... nicola beardsley, penny cameron 45049 ... school of botany; email: botany-webmaster@unimelb.edu.au.", 
+        "email_list": [
+            "botany-webmaster@unimelb.edu.au"
+        ], 
+        "cite_url": "www.botany.unimelb.edu.au/.../prof_staff.html", 
+        "cite_name": "University of Melbourne", 
+        "title": "Professional Staff List"
+    }, 
+    {
+        "content": "email: david dot murray at eng dot ox dot ac dot uk .... dr paul beardsley (research student, 1989-92 then research assistant, 1992-96) email: pab at merl dot...", 
+        "email_list": [
+            "murray@eng.ox.ac.uk"
+        ], 
+        "cite_url": "www.robots.ox.ac.uk:5000/~lav/People/index.html", 
+        "cite_name": "University of Oxford", 
+        "title": "People in the AVG - Oxford Robotics Research Group"
+    }
+]

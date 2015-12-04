@@ -1,1 +1,11 @@
-email at research.att.com	[2]
+[
+    {
+        "content": "cancel. david s. johnson ... verified email at research.att.com - homepage  scholar ... ds johnson, cr aragon, la mcgeoch, c schevon. operations research...", 
+        "email_addr_list": [
+            "email@research.att.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LyEq7qEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David S. Johnson - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at case.edu. scholar ... t bozkaya, m ozsoyoglu. acm sigmod record ... t lee, l sheng, t bozka, nh balkir, z meral ozsoyoglu, zm Özsoyoglu.", 
+        "email_list": [
+            "email@case.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=qRH6WZIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Meral Ozsoyoglu - Google Scholar Citations"
+    }
+]

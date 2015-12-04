@@ -1,4 +1,30 @@
-andrew.pickles@cumbyisd.net	[27]
-andrew.pickles@kcl.ac.uk	[27]
-iop.educationsupport@kcl.ac.uk	[3]
-email at kcl.ac.uk	[2]
+[
+    {
+        "content": "accelerated pt rates available - email iop.educationsupport@kcl.ac.uk for further ... tel: 020 7848 0724. fax: email: andrew.pickles@kcl.ac.uk. website:.", 
+        "email_addr_list": [
+            "iop.educationsupport@kcl.ac.uk", 
+            "andrew.pickles@kcl.ac.uk"
+        ], 
+        "cite_url": "https://www.kcl.ac.uk/prospectus/research/.../print", 
+        "cite_name": "King's College London", 
+        "title": "Biostatistics - Printable view - Graduate research programmes"
+    }, 
+    {
+        "content": "create alert. cancel. andrew pickles ... verified email at kcl.ac.uk. scholar ... g baird, e simonoff, a pickles, s chandler, t loucas, d meldrum, ... the lancet 368...", 
+        "email_addr_list": [
+            "email@kcl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=LuzPQ1UAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Andrew Pickles - Google Scholar Citations"
+    }, 
+    {
+        "content": "andy pickles. title: high school math teacher. email: andrew.pickles@cumbyisd.net. work phone: (903) 994-2260. conference times: period 4: 11.05 -11.50.", 
+        "email_addr_list": [
+            "andrew.pickles@cumbyisd.net"
+        ], 
+        "cite_url": "www.cumbyisd.net/179784_3www.google.com/email", 
+        "cite_name": "", 
+        "title": "Cumby ISD - Andy Pickles ProfileGoogle Business Email‎Searches related to Andrew Pickles email"
+    }
+]

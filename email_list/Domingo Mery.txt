@@ -1,0 +1,38 @@
+[
+    {
+        "content": "nov 25, 2014 - email: dmery@nd.edu ... domingo mery was born in santiago de chile in 1965. ... domingo mery, professor of computer science at pontifica...", 
+        "email_list": [
+            "dmery@nd.edu"
+        ], 
+        "cite_url": "https://engineering.nd.edu/profiles/dmery", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Domingo Mery — College of Engineering"
+    }, 
+    {
+        "content": "cancel. domingo mery ... verified email at ing.puc.cl - homepage  scholar ... f pedreschi, j león, d mery, p moyano, r pedreschi, k kaack, k granby.", 
+        "email_list": [
+            "email@ing.puc.cl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hif3OgsAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Domingo Mery - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 2, 2015 - profesor domingo mery asume como director de investigación e innovación de ingeniería uc ... desde el 1 de abril, el académico del departamento de ciencia de la computación, domingo mery, ... email: dipre@ing.puc.cl.", 
+        "email_list": [
+            "dipre@ing.puc.cl"
+        ], 
+        "cite_url": "www.ing.uc.cl/profesor-domingo-mery-asume-como-...", 
+        "cite_name": "", 
+        "title": "Profesor Domingo Mery asume como Director de ..."
+    }, 
+    {
+        "content": "jun 4, 2014 - artículo del profesor domingo mery es premiado como el mejor paper 2013 de la revista insight. domingo mery. el profesor del departamento ciencia de la computación, domingo mery, recibirá la ... email: dipre@ing.puc.cl.", 
+        "email_list": [
+            "dipre@ing.puc.cl"
+        ], 
+        "cite_url": "www.ing.uc.cl/el-profesor-domingo-mery-es-premiad...", 
+        "cite_name": "", 
+        "title": "Artículo del profesor Domingo Mery es premiado como el ..."
+    }
+]

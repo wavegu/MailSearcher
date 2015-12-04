@@ -1,1 +1,11 @@
-email at qe.ee.es.osaka-u.ac.jp	[3]
+[
+    {
+        "content": "cancel. atsushi noguchi. osaka university  quantum physics. verified email at qe.ee.es.osaka-u.ac.jp ... k toyoda, y matsuno, a noguchi, s haze, s urabe.", 
+        "email_addr_list": [
+            "email@qe.ee.es.osaka-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wf2VqIAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Atsushi Noguchi - Google Scholar Citations"
+    }
+]

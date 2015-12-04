@@ -1,2 +1,20 @@
-golub@broad.mit.edu	[11]
-scott.pomeroy@tch.harvard.edu	[3]
+[
+    {
+        "content": "todd r. golub, md. professor of pediatrics, harvard medical school office phone: 617-632-4903. fax: 617-632-4850. email: golub@broad.mit.edu. preferred...", 
+        "email_addr_list": [
+            "golub@broad.mit.edu"
+        ], 
+        "cite_url": "researchers.dana-farber.org/.../profile.asp?...", 
+        "cite_name": "Dana–Farber Cancer Institute", 
+        "title": "Todd R. Golub, MD - Find a Researcher - Dana-Farber ..."
+    }, 
+    {
+        "content": "correspondence to: scott l. pomeroytodd r. golub correspondence and requests ... to s.l.p. (e-mail: email: scott.pomeroy@tch.harvard.edu) or t.r.g. (e-mail:...", 
+        "email_addr_list": [
+            "scott.pomeroy@tch.harvard.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Prediction of central nervous system embryonal tumour ..."
+    }
+]

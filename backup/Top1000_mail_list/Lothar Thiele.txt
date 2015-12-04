@@ -1,3 +1,29 @@
-thiele@ethz.ch	[14]
-thiele at ethz.ch	[14]
-email at ethz.ch	[3]
+[
+    {
+        "content": "lothar thiele, homepage, embedded systems, research, eth zurich. ... fax: +41 44 632 1035 email: thiele@ethz.ch web: http://www.tik.ee.ethz.ch/~thiele...", 
+        "email_addr_list": [
+            "thiele@ethz.ch"
+        ], 
+        "cite_url": "www.tik.ee.ethz.ch/~thiele/", 
+        "cite_name": "ETH Zurich", 
+        "title": "Lothar Thiele - Homepage"
+    }, 
+    {
+        "content": "lothar thiele. professional. experience. 1981 - 1986. technical university ... ch-8092 zurich ph: +41 44 632 7031 fax: +41 44 632 1035 email: thiele@ethz.ch...", 
+        "email_addr_list": [
+            "thiele@ethz.ch"
+        ], 
+        "cite_url": "www.tik.ee.ethz.ch/~thiele/pmwiki.../CV_LotharThiele.pdf", 
+        "cite_name": "ETH Zurich", 
+        "title": "[PDF]Lothar Thiele - Computer Engineering and Networks ..."
+    }, 
+    {
+        "content": "lothar thiele. professor of computer ... verified email at ethz.ch - homepage  scholar ... e zitzler, m laumanns, l thiele, e zitzler, e zitzler, l thiele, l thiele.", 
+        "email_addr_list": [
+            "email@ethz.ch"
+        ], 
+        "cite_url": "scholar.google.ch/citations?user=OaAKHewAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Lothar Thiele - Google Scholar Citations"
+    }
+]

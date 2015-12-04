@@ -1,0 +1,29 @@
+[
+    {
+        "content": "james bergstra. unknown affiliation ... verified email at uwaterloo.ca. scholar ... j bergstra, o breuleux, f bastien, p lamblin, r pascanu, g desjardins, .", 
+        "email_list": [
+            "email@uwaterloo.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KOBmy0sAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "James Bergstra - Google Scholar Citations"
+    }, 
+    {
+        "content": "name: james bergstra email: jbergstra@uwaterloo.ca one_liner: machine learning, bayesian optimization, computer vision, high-performance computing...", 
+        "email_list": [
+            "jbergstra@uwaterloo.ca"
+        ], 
+        "cite_url": "https://github.com/ctn-waterloo/website/blob/.../james-bergstra.md", 
+        "cite_name": "", 
+        "title": "website/james-bergstra.md at master · ctn-waterloo ... - GitHub"
+    }, 
+    {
+        "content": "james bergstra. unknown affiliation ... verified email at uwaterloo.ca. scholar ... j bergstra, o breuleux, f bastien, p lamblin, r pascanu, g desjardins, ... proceedings ... h larochelle, d erhan, a courville, j bergstra, y bengio. proceedings...", 
+        "email_list": [
+            "email@uwaterloo.ca"
+        ], 
+        "cite_url": "0-scholar.google.com.brum.beds.ac.uk/citations?user...hl=en", 
+        "cite_name": "", 
+        "title": "James Bergstra - Google Scholar Citations"
+    }
+]

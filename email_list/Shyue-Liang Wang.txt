@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: slwang@nuk.edu.tw. leon shyue-liang wang received his ph.d. in applied mathematics from state university of new york at stony brook in 1984.", 
+        "email_list": [
+            "slwang@nuk.edu.tw"
+        ], 
+        "cite_url": "im.nuk.edu.tw/~slwang/", 
+        "cite_name": "", 
+        "title": "Leon Shyue-Liang Wang"
+    }, 
+    {
+        "content": "email: jerrylin [at] ieee.org ... tzung-pei hong, chun-wei lin*, kuo-tung yang and shyue-liang wang, “using tf-idf to hide sensitive itemsets,” applied...", 
+        "email_list": [
+            "jerrylin@ieee.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "林浚玮老师 - 创新信息产业研究中心"
+    }, 
+    {
+        "content": "... chun- hao chen, guo-cheng lan, tzung-pei hong, shyue-liang wang and yui-kai lin. corresponding author: chun-hao chen, chchen@mail.tku.edu.tw ... author(s): shang-liang chen, yun-yao chen, hsuan pei wang and chiang hsu.", 
+        "email_list": [
+            "chchen@mail.tku.edu.tw"
+        ], 
+        "cite_url": "bit.kuas.edu.tw/.../EC...", 
+        "cite_name": "National Kaohsiung University of Applied Sciences", 
+        "title": "[PDF]Invited Sessions"
+    }
+]

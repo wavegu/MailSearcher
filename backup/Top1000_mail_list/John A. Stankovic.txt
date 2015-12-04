@@ -1,4 +1,20 @@
-stankovic@cs.umass.edu	[20]
-stankovic@cs.virginia.edu	[20]
-email at virginia.edu	[5]
-pka6qz@virginia.edu	[2]
+[
+    {
+        "content": "email: stankovic@cs.virginia.edu. home page: john stankovic ... john a. stankovic received his ph.d. from brown university and then served on the faculty of...", 
+        "email_addr_list": [
+            "stankovic@cs.virginia.edu"
+        ], 
+        "cite_url": "rt.cs.virginia.edu  People  Faculty", 
+        "cite_name": "", 
+        "title": "John Stankovic - UVA Computer Science"
+    }, 
+    {
+        "content": "cancel. john stankovic. professor of computer ... verified email at virginia.edu. scholar ... t he, c huang, bm blum, ja stankovic, t abdelzaher. proceedings of...", 
+        "email_addr_list": [
+            "email@virginia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4VJre9IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "John Stankovic - Google Scholar Citations"
+    }
+]

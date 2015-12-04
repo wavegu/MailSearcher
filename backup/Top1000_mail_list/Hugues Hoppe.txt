@@ -1,2 +1,38 @@
-hhoppe@microsoft.com	[12]
-email at microsoft.com	[1]
+[
+    {
+        "content": "hugues hoppe. reseach manager and ... verified email at microsoft.com - homepage  scholar ... h hoppe, t derose, t duchamp, j mcdonald, w stuetzle.", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RXrifC8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Hugues Hoppe - Google Scholar Citations"
+    }, 
+    {
+        "content": "progressive meshes. hugues hoppe ... practical problems: email: hhoppe@microsoft.com. web: http://www.research.microsoft.com/research/graphics/hoppe/. 1...", 
+        "email_addr_list": [
+            "hhoppe@microsoft.com"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.5045...", 
+        "cite_name": "", 
+        "title": "[PS]Progressive Meshes Hugues Hoppe Microsoft ... - CiteSeer"
+    }, 
+    {
+        "content": "hugues hoppe. microsoft research ... email: hhoppe@microsoft.com. web: http://www.research.microsoft.com/research/graphics/hoppe/. mesh simplification:...", 
+        "email_addr_list": [
+            "hhoppe@microsoft.com"
+        ], 
+        "cite_url": "www.cs.rutgers.edu/~decarlo/readings/hoppe96.pdf", 
+        "cite_name": "Rutgers University", 
+        "title": "[PDF]Progressive Meshes"
+    }, 
+    {
+        "content": "hugues hoppe. microsoft research. abstract ... email: hhoppe@microsoft.com. web: http://research.microsoft.com/ hoppe/. techniques (e.g. [5, 10, 19, 21]).", 
+        "email_addr_list": [
+            "hhoppe@microsoft.com"
+        ], 
+        "cite_url": "www.cs.berkeley.edu/~jrs/.../Hoppe.ps....www.google.com/email", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "[PS]Gnuzipped PostScript - Computer Science DivisionGoogle Business Email‎"
+    }
+]

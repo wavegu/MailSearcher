@@ -1,0 +1,20 @@
+[
+    {
+        "content": "krzysztof juszczyszyn phd. assistant professor. institute of ... e-mail: krzysztof@pwr.wroc.pl. www: http://www.ii.pwr.wroc.pl/~juszczyszyn/. opis: opis:...", 
+        "email_list": [
+            "krzysztof@pwr.wroc.pl"
+        ], 
+        "cite_url": "https://www.ii.pwr.edu.pl/~juszczyszyn/", 
+        "cite_name": "", 
+        "title": "Krzysztof Juszczyszyn - homepage"
+    }, 
+    {
+        "content": "cancel. krzysztof juszczyszyn ... verified email at pwr.wroc.pl - homepage  scholar ... k juszczyszyn, nt nguyen, g kolaczek, a grzech, a pieczynska, .", 
+        "email_list": [
+            "email@pwr.wroc.pl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5VX5_gUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Krzysztof Juszczyszyn - Google Scholar Citations"
+    }
+]

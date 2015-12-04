@@ -1,8 +1,56 @@
-james.collins@cchmc.org	[26]
-jcollins@umn.edu	[17]
-jcollins@asu.edu	[17]
-jcollins@bu.james	[17]
-jimjc@mit.edu	[4]
-mmorri35@mit.edu	[1]
-institute at harvardwyss.harvard.edu	[1]
-email at mit.edu	[1]
+[
+    {
+        "content": "email: jimjc@mit.edu ... biography: james j. collins is termeer professor of bioengineering in the department of biological engineering and institute for medical...", 
+        "email_addr_list": [
+            "jimjc@mit.edu"
+        ], 
+        "cite_url": "https://be.mit.edu/directory/james-j-collins", 
+        "cite_name": "", 
+        "title": "James J. Collins, PhD | MIT Department of Biological ..."
+    }, 
+    {
+        "content": "assistant email: mmorri35@mit.edu ... james j. collins is the termeer professor of medical engineering and science in the institute for medical engineering and...", 
+        "email_addr_list": [
+            "mmorri35@mit.edu"
+        ], 
+        "cite_url": "https://imes.mit.edu/.../collins-jame...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "James J. Collins - Institute for Medical Engineering  Science"
+    }, 
+    {
+        "content": "cancel. james j collins ... verified email at mit.edu - homepage  scholar ... ma kohanski, dj dwyer, b hayete, ca lawrence, jj collins. cell 130 (5), 797-810,...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=te5DjPQAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "James J Collins - Google Scholar Citations"
+    }, 
+    {
+        "content": "appointment: visiting research professor(affiliated) pubhl environmental hlth sci umn twin cities. email address: jcollins@umn.edu. internet id: jcollins...", 
+        "email_addr_list": [
+            "jcollins@umn.edu"
+        ], 
+        "cite_url": "www.umn.edu/lookup?UID=jcollins", 
+        "cite_name": "University of Minnesota", 
+        "title": "James J Collins - University of Minnesota Twin Cities"
+    }, 
+    {
+        "content": "email james.collins@cchmc.org ... collins j and bönneman cg. ... collins j, tang ly, dimmock d, morehart p, bove k, wong ljc, wong b. progressive...", 
+        "email_addr_list": [
+            "james.collins@cchmc.org"
+        ], 
+        "cite_url": "www.cincinnatichildrens.or...", 
+        "cite_name": "Cincinnati Children's Hospital Medical Center", 
+        "title": "James (Jim) J. Collins, MD, PhD - Cincinnati Childrens ..."
+    }, 
+    {
+        "content": "james collins. email: jcollins@asu.edu. phone: (480) 965-4578, lab: (480) 965-5232. office: lsc 402-410. education: phd, 1975, university of michigan.", 
+        "email_addr_list": [
+            "jcollins@asu.edu"
+        ], 
+        "cite_url": "sols.asu.edu  People", 
+        "cite_name": "Arizona State University", 
+        "title": "James P. Collins | School of Life Sciences"
+    }
+]

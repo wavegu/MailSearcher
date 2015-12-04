@@ -1,1 +1,11 @@
-email at gs.washington.edu	[1]
+[
+    {
+        "content": "joe felsenstein. professor of genome sciences, ... verified email at gs.washington.edu - homepage  scholar ... j felsenstein, j felenstein. sinauer associates...", 
+        "email_addr_list": [
+            "email@gs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vZq8qQ4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Joe Felsenstein - Google Scholar Citations"
+    }
+]

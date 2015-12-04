@@ -1,0 +1,67 @@
+[
+    {
+        "content": "d.p. solomatine mathematical and program realization of interactive structural modelling system. vniisi ... n. dogulu, p. lopez lopez, d. p. solomatine, a. h. weerts, and d. l. shrestha (2015). ..... email d.solomatine@unesco-ihe.org", 
+        "email_list": [
+            "d.solomatine@unesco-ihe.org"
+        ], 
+        "cite_url": "https://www.unesco-ihe.org/dimitri-solomatine", 
+        "cite_name": "UNESCO‑IHE", 
+        "title": "Dimitri Solomatine | UNESCO-IHE"
+    }, 
+    {
+        "content": "verified email at unesco-ihe.org. scholar. get my own profile ... yb dibike, dp solomatine. physics and ... b bhattacharya, dp solomatine. neurocomputing 63...", 
+        "email_list": [
+            "email@unesco-ihe.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3HMqIZEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dimitri Solomatine - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: bob.abrahart [at] nottingham.ac.uk. dimitri p. solomatine (co-convenor). unesco-ihe institute for water education, p.o. box 3015, 2601 da, delft, the...", 
+        "email_list": [
+            "bob.abrahart@nottingham.ac.uk"
+        ], 
+        "cite_url": "www.floodsite.net/html/partner_area/meetings/egu2006sesshi.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Proposed Session on Hydoinformatics - FLOODsite"
+    }, 
+    {
+        "content": "view dimitri solomatines business profile as professor , head at ... dimitri p. solomatine received the engineering degree (equivalent to msc) in systems ... email d.solomatine@unesco-ihe.org linkedin view my profile on linkedin. lecturer...", 
+        "email_list": [
+            "d.solomatine@unesco-ihe.org"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Dimitri-Solomatine/420785789", 
+        "cite_name": "", 
+        "title": "Prof. Dimitri P. Solomatine - ZoomInfo"
+    }, 
+    {
+        "content": "email: bob.abrahart [at] nottingham.ac.uk. elena toth (co-convener) ... dimitri p. solomatine (co-convener) ... email: d.solomatine [at] unesco-ihe.org. linda see...", 
+        "email_list": [
+            "bob.abrahart@nottingham.ac.uk", 
+            "d.solomatine@unesco-ihe.org"
+        ], 
+        "cite_url": "https://www.jiscmail.ac.uk/.../webadmin?...P...", 
+        "cite_name": "JISCMail", 
+        "title": "European Geosciences Union General Assembly Vienna ..."
+    }, 
+    {
+        "content": "email: bob.abrahart [at] nottingham.ac.uk. linda see (co-convener) university of leeds, uk email: l.m.see [at] leeds.ac.uk. dimitri p. solomatine (co-convener)", 
+        "email_list": [
+            "bob.abrahart@nottingham.ac.uk", 
+            "l.m.see@leeds.ac.uk"
+        ], 
+        "cite_url": "https://www.jiscmail.ac.uk/.../webadmin?...P...", 
+        "cite_name": "JISCMail", 
+        "title": "European Geosciences Union General Assembly Vienna ..."
+    }, 
+    {
+        "content": "e-mail: meiindhi@hotmail.com. dimitri p. solomatine. slavco velickov. michael b. abbott. international institute for infrastructural, hydraulic and environmental...", 
+        "email_list": [
+            "meiindhi@hotmail.com"
+        ], 
+        "cite_url": "www.iwaponline.com/jh/001/0059/0010059.pdf", 
+        "cite_name": "", 
+        "title": "Full article (PDF Format) - IWA Publishing Online Journals"
+    }
+]

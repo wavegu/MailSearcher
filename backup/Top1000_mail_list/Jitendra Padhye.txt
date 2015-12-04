@@ -1,9 +1,43 @@
-padhye@microsoft.com	[13]
-emailpadhye@microsoft.com	[13]
-padmanab@microsoft.com	[2]
-padmanab@microsoft.com.jitendra	[2]
-manpreet@cs.cornell.edu	[2]
-kamalj@microsoft.com	[2]
-ipr@ietf.org	[2]
-email at microsoft.com	[1]
-floyd@icir.org	[1]
+[
+    {
+        "content": "jitendra padhye. microsoft research ... verified email at microsoft.com - homepage  scholar ... j padhye, v firoiu, d towsley, j kurose. acm sigcomm...", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YRdf1AwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jitendra Padhye - Google Scholar Citations"
+    }, 
+    {
+        "content": "... floyd@icir.org jitendra padhye microsoft research email: padhye@microsoft.com joerg widmer lehrstuhl praktische informatik iv universitat mannheim l 15...", 
+        "email_addr_list": [
+            "floyd@icir.org", 
+            "padhye@microsoft.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-padhye-microsoft-com-1393654...", 
+        "cite_name": "", 
+        "title": "padhye@microsoft.com - The Email Archive"
+    }, 
+    {
+        "content": "sub_announced_to_authors, jitendra padhye padhye@microsoft.com, intellectual property ipr@ietf.org, sally floyd floyd@icir.org, joerg widmer...", 
+        "email_addr_list": [
+            "padhye@microsoft.com", 
+            "ipr@ietf.org", 
+            "floyd@icir.org"
+        ], 
+        "cite_url": "https://datatracker.ietf.org/doc/.../email/", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "Email expansions for draft-ietf-dccp-rfc3448bis-06"
+    }, 
+    {
+        "content": "kamal jain email: kamalj@microsoft.com. jitendra padhye email: padhye@microsoft.com. venkata n. padmanabhan email: padmanab@microsoft.com.", 
+        "email_addr_list": [
+            "kamalj@microsoft.com", 
+            "padhye@microsoft.com", 
+            "padmanab@microsoft.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs112...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Impact of Interference on Multi-Hop Wireless Network ..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "search by name, email, work phone, or sunetid. search in stanford view. show more options. find last ... ronald w. schafer. email: rschafer@stanford.edu...", 
+        "email_list": [
+            "rschafer@stanford.edu"
+        ], 
+        "cite_url": "https://stanfordwho.stanford.edu/.../detailAction.do?...ronald...", 
+        "cite_name": "", 
+        "title": "Ronald W. Schafer - Public Listing from Stanford People ..."
+    }, 
+    {
+        "content": "my email is my firstname at microsoft dot com. ..... robert m. armitano, dinei a. florencio, and ronald w. schafer, the motion transform: a new motion...", 
+        "email_list": [
+            "firstname@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/people/dinei/", 
+        "cite_name": "Microsoft Research", 
+        "title": "Dinei Florencio - Microsoft Research"
+    }
+]

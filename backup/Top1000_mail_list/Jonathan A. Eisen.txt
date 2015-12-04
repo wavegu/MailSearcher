@@ -1,1 +1,11 @@
-email at ucdavis.edu	[3]
+[
+    {
+        "content": "jonathan a. eisen. professor ... verified email at ucdavis.edu - homepage  scholar ... jc venter, k remington, jf heidelberg, al halpern, d rusch, ja eisen, .", 
+        "email_addr_list": [
+            "email@ucdavis.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LrlwhwUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jonathan A. Eisen - Google Scholar Citations"
+    }
+]

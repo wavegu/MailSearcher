@@ -1,0 +1,29 @@
+[
+    {
+        "content": "jef wijsen ... verified email at umons.ac.be - homepage ... j wijsen. proceedings of the international workshop on temporal databases: recent ..., 1995.", 
+        "email_list": [
+            "email@umons.ac.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0DyWfVDU8zcC...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jef Wijsen - Google Scholar Citations"
+    }, 
+    {
+        "content": "faculty member at université de mons-hainaut (umh) since october 1, 1999. formerly at k.u.leuven, vub, and uia. research interests: databases, temporal...", 
+        "email_list": [
+            "formerly@k.u.leuven"
+        ], 
+        "cite_url": "informatique.umons.ac.be/ssi/jef/", 
+        "cite_name": "University of Mons", 
+        "title": "Jef Wijsen - Département dInformatique - Faculté des ..."
+    }, 
+    {
+        "content": "jef wijsen. author details. affiliation: university of mons-hainaut, belgium; email: jef.wijsen@umh.ac.be. icdt contributions by jef wijsen. consistent query...", 
+        "email_list": [
+            "jef.wijsen@umh.ac.be"
+        ], 
+        "cite_url": "icdt.tu-dortmund.de/.../N1007A.html", 
+        "cite_name": "Technical University of Dortmund", 
+        "title": "EDBT/ICDT 2009 Proceedings"
+    }
+]

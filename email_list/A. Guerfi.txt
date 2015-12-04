@@ -1,0 +1,21 @@
+[
+    {
+        "content": "11 chemin doudou mokhtar ben aknoun, algiers algeria. phone: +213 21 914 628. fax: +213 21 914 628. e-mail: a.guerfi[at]mesrs.dz / a.louni[at]mesrs.dz.", 
+        "email_list": [
+            "a.guerfi@mesrs.dz", 
+            "a.louni@mesrs.dz"
+        ], 
+        "cite_url": "www.mqa.gov.my/.../contact_abdelham...", 
+        "cite_name": "Malaysian Qualifications Agency", 
+        "title": "Prof. Abdelhamid Guerfi"
+    }, 
+    {
+        "content": "verified email at ireq.ca ... a guerfi, m dontigny, p charest, m petitclerc, m lagacé, a vijh, k zaghib ... k zaghib, j shim, a guerfi, p charest, ka striebel.", 
+        "email_list": [
+            "email@ireq.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=C4m8TSUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Zaghib karim - Google Scholar Citations"
+    }
+]

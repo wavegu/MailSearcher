@@ -1,0 +1,12 @@
+[
+    {
+        "content": "contact: llchen.ntust@gmail.com ... tom djajadiningrat is senior consultant innovation design at philips design in the ... contact: tom.djajadiningrat@philips.com...", 
+        "email_list": [
+            "llchen.ntust@gmail.com", 
+            "tom.djajadiningrat@philips.com"
+        ], 
+        "cite_url": "https://www.northumbria.ac.uk/.../desform-com...", 
+        "cite_name": "Northumbria University", 
+        "title": "DeSForM Committee - Northumbria University"
+    }
+]

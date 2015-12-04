@@ -1,4 +1,38 @@
-jianpei@pku.edu.cn	[15]
-jpei@cs.sfu.ca	[8]
-zoulin at pku.edu.cn	[2]
-email at cs.sfu.ca	[1]
+[
+    {
+        "content": "jian pei. professor, school of computing science. jian pei ... email: jpei@cs.sfu.ca. fax: 778.782.3045. office, sfu burnaby, tasc 9429. personal webpage:...", 
+        "email_addr_list": [
+            "jpei@cs.sfu.ca"
+        ], 
+        "cite_url": "https://www.sfu.ca/computing/.../jianpei.html", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Jian Pei - Computing Science - Simon Fraser University"
+    }, 
+    {
+        "content": "verified email at cs.sfu.ca - homepage ... j pei, j han, b mortazavi-asl, h pinto, q chen, u dayal, mc hsu ... h cao, d jiang, j pei, q he, z liao, e chen, h li.", 
+        "email_addr_list": [
+            "email@cs.sfu.ca"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jian Pei - Google Scholar Citations"
+    }, 
+    {
+        "content": "vice dean,college of chemistry and molecular engineering office: b518 phone: (+86) 010-62758145. fax: (+86) 010-62751708. email: jianpei@pku.edu.cn...", 
+        "email_addr_list": [
+            "jianpei@pku.edu.cn"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/pei/people/jianpei.html", 
+        "cite_name": "Peking University", 
+        "title": "Jian Pei"
+    }, 
+    {
+        "content": "advisor: prof. jian pei research interests: field-effect transistors and supramolecular chemistry. e-mail: zoulin at pku.edu.cn. jin-hu dou. phd student, grade 4", 
+        "email_addr_list": [
+            "zoulin@pku.edu.cn"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/pei/people/GradStu.html", 
+        "cite_name": "Peking University", 
+        "title": "Pei Research Group"
+    }
+]

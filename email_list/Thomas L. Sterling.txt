@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: spowell@cacr.caltech.edu .... thomas sterling, proceedings of the hppc 2007: workshop on highly parallel ... t. sterling, d.s. katz, l. bergman.", 
+        "email_list": [
+            "spowell@cacr.caltech.edu"
+        ], 
+        "cite_url": "https://www.cct.lsu.edu/~tron/.../TronCV.pdf", 
+        "cite_name": "Louisiana State University", 
+        "title": "[PDF]Thomas L. Sterling Curriculum Vitae"
+    }, 
+    {
+        "content": "bbbs business review for thomas l. stirling, jr., attorney at law that ... email us at info@hawaii.bbb.org with your questions, suggestions, and concerns.", 
+        "email_list": [
+            "info@hawaii.bbb.org"
+        ], 
+        "cite_url": "www.bbb.org/.../thomas-l-stirling-jr-attorney-at-la...", 
+        "cite_name": "Better Business Bureau", 
+        "title": "Thomas L. Stirling, Jr., Attorney At Law Review - Attorneys ..."
+    }
+]

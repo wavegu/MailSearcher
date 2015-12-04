@@ -1,5 +1,20 @@
-emmanouil.dermitzakis@unige.ch.conserved	[42]
-emmanouil.dermitzakis@unige.ch	[42]
-email at unige.ch	[3]
-md4@sanger.ac.uk	[2]
-md4@sanger.ac.uk.emmanouil	[2]
+[
+    {
+        "content": "verified email at unige.ch. scholar. get my own profile ... se antonarakis, r lyle, et dermitzakis, a reymond, s deutsch. nature reviews genetics ... t lappalainen, m sammeth, mr friedländer, p act hoen, j monlong, ... nature 501 (7468)...", 
+        "email_addr_list": [
+            "email@unige.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6RIsu1sAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Emmanouil Dermitzakis - Google Scholar Citations"
+    }, 
+    {
+        "content": "emmanouil t. dermitzakis, alexandre reymond  stylianos e. antonarakis about ... correspondence to: emmanouil t. dermitzakis email: md4@sanger.ac.uk.", 
+        "email_addr_list": [
+            "md4@sanger.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinion", 
+        "cite_name": "Nature", 
+        "title": "Conserved non-genic sequences [mdash] an unexpected ..."
+    }
+]

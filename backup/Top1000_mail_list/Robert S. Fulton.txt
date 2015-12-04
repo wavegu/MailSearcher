@@ -1,1 +1,11 @@
-bob.fulton@cape.k12.de.us	[13]
+[
+    {
+        "content": "662/p1542085619_453.jpg. robert s. fulton. director of secondary education 302.645.6686 fax 302.645.6684. email bob.fulton@cape.k12.de.us...", 
+        "email_addr_list": [
+            "bob.fulton@cape.k12.de.us"
+        ], 
+        "cite_url": "cape.de.schoolwebpages.com/education/dept/dept.php?sectionid=52", 
+        "cite_name": "", 
+        "title": "Assistant Superintendent, Robert S. Fulton - Accountability ..."
+    }
+]

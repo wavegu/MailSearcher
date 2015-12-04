@@ -1,3 +1,29 @@
-richard.young@adelaide.edu.au	[26]
-rfyoung at wisc dot edu	[13]
-email at wi.mit.edu	[2]
+[
+    {
+        "content": "email: young [at] wi.mit.edu ... richard a. young ... the young laboratory is interested in the transcriptional control of cell identity and differentiation in mice and...", 
+        "email_addr_list": [
+            "young@wi.mit.edu"
+        ], 
+        "cite_url": "https://biology.mit.edu/.../richard_...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Richard A. Young | MIT Biology"
+    }, 
+    {
+        "content": "richard young. professor of ... verified email at wi.mit.edu - homepage  scholar ... mg guenther, ss levine, la boyer, r jaenisch, ra young. cell 130 (1)...", 
+        "email_addr_list": [
+            "email@wi.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lRTRxSIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard Young - Google Scholar Citations"
+    }, 
+    {
+        "content": "email, richard.young@adelaide.edu.au ... dr richard l young is a senior researcher within the discipline of medicine, university of adelaide and affiliate,...", 
+        "email_addr_list": [
+            "richard.young@adelaide.edu.au"
+        ], 
+        "cite_url": "www.adelaide.edu.au/directory/richard.youngwww.google.com/email", 
+        "cite_name": "University of Adelaide", 
+        "title": "Dr Richard Young | The University of Adelaide Staff DirectoryGoogle Business Email‎"
+    }
+]

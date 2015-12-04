@@ -1,5 +1,29 @@
-s.w.boyd@soton.ac.uk	[10]
-s.b.boyd@warwick.ac.uk	[10]
-boyd@wfu.edu	[9]
-boyd@wfu.edu.dr	[9]
-email at stanford.edu	[2]
+[
+    {
+        "content": "dr stephen w boyd is a senior lecturer in engineering and the environment at the university of ... phone: (023) 8059 2375; email: s.w.boyd@soton.ac.uk...", 
+        "email_addr_list": [
+            "s.w.boyd@soton.ac.uk"
+        ], 
+        "cite_url": "www.southampton.ac.uk/.../about/.../swb.pag...", 
+        "cite_name": "University of Southampton", 
+        "title": "Dr Stephen W Boyd | Engineering and the Environment ..."
+    }, 
+    {
+        "content": "stephen boyd. professor of electrical ... verified email at stanford.edu - homepage  scholar ... s boyd, n parikh, e chu, b peleato, j eckstein. foundations and...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GExyiRkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen Boyd - Google Scholar Citations"
+    }, 
+    {
+        "content": "stephen boyd. professor john allen easley professor of religion academic leave, ay 2015-16. office: wingate 207. phone: 758-5458. e-mail: boyd@wfu.edu.", 
+        "email_addr_list": [
+            "boyd@wfu.edu"
+        ], 
+        "cite_url": "college.wfu.edu/religion/people/.../dr-steve-boyd/", 
+        "cite_name": "Wake Forest University", 
+        "title": "Department for the Study of Religions | Dr. Steve Boyd"
+    }
+]

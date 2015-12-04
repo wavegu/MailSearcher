@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dr dimitar kazakov. department/unit, computer science, [silhouette]. email, dimitar.kazakov@cs.york.ac.uk. web site, http://www-users.cs.york.ac.uk/~kazakov.", 
+        "email_list": [
+            "dimitar.kazakov@cs.york.ac.uk"
+        ], 
+        "cite_url": "https://www.york.ac.uk/.../searchdetail.cfm?...", 
+        "cite_name": "University of York", 
+        "title": "Dr Dimitar Kazakov - University of York"
+    }, 
+    {
+        "content": "dimitar kazakovs home page. dimitar kazakovs photograph. involvement: artificial intelligence ... and language. contact: kazakov at cs dot york dot ac dot uk.", 
+        "email_list": [
+            "kazakov@cs.york.ac.uk"
+        ], 
+        "cite_url": "https://www-users.cs.york.ac.uk/kazakov/", 
+        "cite_name": "University of York", 
+        "title": "Dimitar Kazakov"
+    }, 
+    {
+        "content": "dimitar kazakov. senior lecturer, department ... verified email at cs.york.ac.uk. scholar ... n lavrač, i weber, d zupanič, d kazakov, o Štěpánková, s džeroski.", 
+        "email_list": [
+            "email@cs.york.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CLI_4LYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dimitar Kazakov - Google Scholar Citations"
+    }, 
+    {
+        "content": "email address of dimitar kazakov at yasni.com free people search. send email to dimitar kazakov now.", 
+        "email_list": [
+            "kazakov@yasni.com"
+        ], 
+        "cite_url": "www.yasni.com/dimitar+kazakov/email", 
+        "cite_name": "", 
+        "title": "Email of Dimitar Kazakov - Contact Information - Yasni.com"
+    }, 
+    {
+        "content": "apr 8, 2015 - (you can send your tattoo via email at onepiecegoldstaff@gmail.com). by dimitar kazakov. dimitar kazakov. by dimitris petre. dimitris petre.", 
+        "email_list": [
+            "onepiecegoldstaff@gmail.com"
+        ], 
+        "cite_url": "www.onepiecegold.com/tattoos-by-dimitar-kazakov-dimitris-petre-domi...", 
+        "cite_name": "", 
+        "title": "Tattoos by D.Kazakov, D.Petre, D.Buschow, Jack Chalk ..."
+    }
+]

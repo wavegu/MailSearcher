@@ -1,6 +1,39 @@
-ernst.fehr@econ.uzh.ch	[19]
-ernst.fefr at econ.uzh.ch	[12]
-email at econ.uzh.ch	[2]
-sally.gschwend@econ.uzh.ch	[2]
-klaus.schmidt@lrz.uni-muenchen.de	[1]
-klaus.schmidt@lrz.uni-muenchen.de.psychological	[1]
+[
+    {
+        "content": "email: ernst.fehr@econ.uzh.ch ... email: sally.gschwend@econ.uzh.ch ... ernst fehr has been professor of microeconomics and experimental economics at the...", 
+        "email_addr_list": [
+            "ernst.fehr@econ.uzh.ch", 
+            "sally.gschwend@econ.uzh.ch"
+        ], 
+        "cite_url": "www.econ.uzh.ch/faculty/fehr.html", 
+        "cite_name": "University of Zurich", 
+        "title": "UZH - Department of Economics - Ernst Fehr"
+    }, 
+    {
+        "content": "ernst fehr: current contact information and listing of economic research of this author provided by repec/ideas. ... email: ernst.fehr@econ.uzh.ch. homepage...", 
+        "email_addr_list": [
+            "ernst.fehr@econ.uzh.ch"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pfe29.html", 
+        "cite_name": "", 
+        "title": "Ernst Fehr at IDEAS"
+    }, 
+    {
+        "content": "ernst fehr. professor of economics ... verified email at econ.uzh.ch - homepage  scholar ... m kosfeld, m heinrichs, pj zak, u fischbacher, e fehr. nature 435...", 
+        "email_addr_list": [
+            "email@econ.uzh.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WoSILroAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ernst Fehr - Google Scholar Citations"
+    }, 
+    {
+        "content": "a) ernst fehr, institute for empirical research in economics, university of zurich, bluemlisalpstrasse ... germany, email: klaus.schmidt@lrz.uni-muenchen.de.", 
+        "email_addr_list": [
+            "klaus.schmidt@lrz.uni-muenchen.de"
+        ], 
+        "cite_url": "https://epub.ub.uni-muenchen....", 
+        "cite_name": "Ludwig Maximilian University of Munich", 
+        "title": "[PDF]Ernst Fehr und Klaus M. Schmidt - Open Access LMU"
+    }
+]

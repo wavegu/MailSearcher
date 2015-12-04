@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: wojtek.furmanski@boeing.com. fax: 714-896-5261. phone: 315-569-0187. this abstract addresses “benefits, risk/drawbacks and challenges to a single...", 
+        "email_list": [
+            "wojtek.furmanski@boeing.com"
+        ], 
+        "cite_url": "www.afceaeriecanal.com/Topic_1_Boeing.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Topic 1 - AFCEA Erie Canal Chapter"
+    }
+]

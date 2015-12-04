@@ -1,4 +1,38 @@
-editors at amazon.com	[2]
-email at umn.edu	[2]
-hello@interaction-design.org	[1]
-lcfinley@uci.edu	[1]
+[
+    {
+        "content": "joseph a. konstan. professor of computer ... verified email at umn.edu. scholar. get my own ... ja konstan, bn miller, d maltz, jl herlocker, lr gordon, j riedl.", 
+        "email_addr_list": [
+            "email@umn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PH4mytYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Joseph A. Konstan - Google Scholar Citations"
+    }, 
+    {
+        "content": "email rsvp required to lucien finley at lcfinley@uci.edu by monday, october 18. ... joseph a. konstan is associate professor of computer science and...", 
+        "email_addr_list": [
+            "lcfinley@uci.edu"
+        ], 
+        "cite_url": "isr.uci.edu/content/joseph-konstan", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Joseph A. Konstan"
+    }, 
+    {
+        "content": "joseph a. konstan is distinguished mcknight university professor and ..... send us an email at hello@interaction-design.org or through our online contact form.", 
+        "email_addr_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/joseph-a-konstan", 
+        "cite_name": "", 
+        "title": "Joseph A. Konstan - Interaction Design Foundation"
+    }, 
+    {
+        "content": "j. ben schafer, joseph konstan, john riedl .... email of new items added to the amazon.com catalog. ... periodically the editors at amazon.com send email.", 
+        "email_addr_list": [
+            "editors@amazon.com"
+        ], 
+        "cite_url": "files.grouplens.org/papers/ec-99.pdfwww.google.com/email", 
+        "cite_name": "GroupLens Research", 
+        "title": "[PDF]Recommender Systems in E-Commerce - GroupLensGoogle Business Email - Custom email for your company‎Searches related to Joseph A. Konstan email"
+    }
+]

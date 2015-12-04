@@ -1,3 +1,29 @@
-ghp@tigr.org	[3]
-email at jcvi.org	[3]
-cbp@purdue.edu	[1]
+[
+    {
+        "content": "create alert. cancel. granger g. sutton iii ... verified email at jcvi.org. scholar ... db rusch, al halpern, g sutton, kb heidelberg, s williamson, ... plos biol 5...", 
+        "email_addr_list": [
+            "email@jcvi.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QlMHNn0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Granger G. Sutton III - Google Scholar Citations"
+    }, 
+    {
+        "content": "... owen white, anthony r. kerlavage, rebecca a. clayton, granger g. sutton, ... for materials should be addressed to j.-f.t. (e-mail: email: ghp@tigr.org).", 
+        "email_addr_list": [
+            "ghp@tigr.org"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Article - Nature"
+    }, 
+    {
+        "content": "240 s. martin jischke dr. west lafayette, in 47907-1971. phone: 765-494-5980. email: cbp@purdue.edu. dr. granger g. sutton iii. senior director of informatics.", 
+        "email_addr_list": [
+            "cbp@purdue.edu"
+        ], 
+        "cite_url": "https://www.accreditation.gatech.edu/.../Bioinformatics_Visit-Itinerary_as...", 
+        "cite_name": "", 
+        "title": "[PDF]academic program review bioinformatics programs georgia ..."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "feb 27, 2012 - jianmin zhou. phone: 86-10-64806330. fax: email: jmzhou@genetics.ac.cn. website：. research ... daolong dou and jian-min zhou (2012).", 
+        "email_list": [
+            "jmzhou@genetics.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Jianmin Zhou - TRS_Channel id=owner field=chnldesc ..."
+    }, 
+    {
+        "content": "cancel. jianmin zhou. institute of genetics and developmental biology ... immunity, signal transduction, protein phosphorylation. verified email at genetics.ac.cn.", 
+        "email_list": [
+            "email@genetics.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=exM877QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "jianmin zhou - Google Scholar Citations"
+    }, 
+    {
+        "content": "cancel. jianmin wang. school of software, tsinghua university  data management, workflow management, process mining. verified email at tsinghua.edu.cn.", 
+        "email_list": [
+            "email@tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MiovcboAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jianmin Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 7, 2014 - ... is hosting the exhibition, unified vision - art of jianmin dou. ... times by appointment by calling 740-819-9762 or email contact@yansun.us.", 
+        "email_list": [
+            "contact@yansun.us"
+        ], 
+        "cite_url": "www.daily-jeff.com/.../exhibit-features-...", 
+        "cite_name": "The Daily  Sunday Jeffersonian", 
+        "title": "Exhibit features art of Chinese painter - Daily Jeffersonian ..."
+    }
+]

@@ -1,2 +1,20 @@
-asrabkin at gmail.com	[14]
-email at cloudera.com	[3]
+[
+    {
+        "content": "ariel (ari) rabkin ... the best way to contact me is email to asrabkin at gmail.com ... ariel rabkin, matvey arye, siddhartha sen, vivek pai, and michael j.", 
+        "email_addr_list": [
+            "asrabkin@gmail.com"
+        ], 
+        "cite_url": "asrabkin.bitbucket.org/", 
+        "cite_name": "", 
+        "title": "Ariel Rabkin"
+    }, 
+    {
+        "content": "verified email at cloudera.com - homepage ... j boulon, a konwinski, r qi, a rabkin, e yang, m yang ... a rabkin, m arye, s sen, vs pai, mj freedman.", 
+        "email_addr_list": [
+            "email@cloudera.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QYsnk-cAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ari Rabkin - Google Scholar Citations"
+    }
+]

@@ -1,3 +1,29 @@
-kdeb at egr.msu.edu	[8]
-deb@iitk.ac.in	[7]
-email at egr.msu.edu	[2]
+[
+    {
+        "content": "fax: (+1) 517 353 1980. email: kdeb at egr.msu.edu. visits: 3247 engineering building mailing address: click here. research interests: non-linear optimization...", 
+        "email_addr_list": [
+            "kdeb@egr.msu.edu"
+        ], 
+        "cite_url": "www.egr.msu.edu/~kd...", 
+        "cite_name": "Michigan State University College of Engineering", 
+        "title": "Kalyanmoy Deb - Michigan State University"
+    }, 
+    {
+        "content": "kalyanmoy deb. professor of ... verified email at egr.msu.edu - homepage ... multi-objective optimization using evolutionary algorithms. k deb. wiley, 2001.", 
+        "email_addr_list": [
+            "email@egr.msu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=paTAXiIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Kalyanmoy Deb - Google Scholar Citations"
+    }, 
+    {
+        "content": "fax: +91-512-259-7205/7408/0007. to contact kangal via email, please send an email to prof. kalyanmoy deb (deb@iitk.ac.in). url of kangal website is:...", 
+        "email_addr_list": [
+            "deb@iitk.ac.in"
+        ], 
+        "cite_url": "mcdm.ntcu.edu.tw/tzeng/award/KalyanmoyDeb.html", 
+        "cite_name": "", 
+        "title": "Kalyanmoy Deb"
+    }
+]

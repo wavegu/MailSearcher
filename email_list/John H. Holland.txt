@@ -1,3 +1,11 @@
-jholland@umich.edu	[17]
-jholland@umich.edu	[17]
-jholland@umich.edu	[17]
+[
+    {
+        "content": "jul 8, 2013 - curator and author. genetic algorithms; (2012) john h. holland ... john henry holland.jpg ... review email: jholland [at] umich.edu /review...", 
+        "email_list": [
+            "jholland@umich.edu"
+        ], 
+        "cite_url": "www.scholarpedia.org/article/User:John_H._Holland", 
+        "cite_name": "Scholarpedia", 
+        "title": "User:John H. Holland - Scholarpedia"
+    }
+]

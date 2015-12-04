@@ -1,6 +1,56 @@
-kaili@zju.edu.cn	[11]
-kaili@ust.hk	[11]
-kai.li at sauder.ubc.ca	[11]
-kai.li@uts.edu.au	[11]
-lastname at cs dot princeton dot edu.kai	[8]
-lastname at cs dot princeton dot edu	[2]
+[
+    {
+        "content": "kai li. paul m. wythes 55, p86 and marcia r. wythes p86 professor department of ... fax: (609) 258-1771. email: lastname at cs dot princeton dot edu.", 
+        "email_addr_list": [
+            "lastname@cs.princeton.edu"
+        ], 
+        "cite_url": "www.cs.princeton.edu/~li/", 
+        "cite_name": "Princeton University", 
+        "title": "Kai Li - Princeton University"
+    }, 
+    {
+        "content": "kai li b.sc. (jiaotong university), m.a. (concordia), ph.d.(toronto) w.m. young chair ... email:  kai.li at sauder.ubc.ca  ... xia chen, jarrad harford, and kai li", 
+        "email_addr_list": [
+            "kai.li@sauder.ubc.ca"
+        ], 
+        "cite_url": "finance.sauder.ubc.ca/people/li/", 
+        "cite_name": "Sauder School of Business", 
+        "title": "Sauder School of Business - Finance Division - Kai Li"
+    }, 
+    {
+        "content": "kai li. postdoctoral research fellow, finance discipline group ... applied mathematics, applied mathematics. email. kai.li@uts.edu.au  edit your...", 
+        "email_addr_list": [
+            "kai.li@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/kai.li", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Kai Li | University of Technology Sydney"
+    }, 
+    {
+        "content": "kai li. assistant professor email: kaili@ust.hk. personal homepage: https://sites.google.com/site/kailiwebpage/; google scholar...", 
+        "email_addr_list": [
+            "kaili@ust.hk"
+        ], 
+        "cite_url": "www.bm.ust.hk/fina/web/faculty-staff/kai-li/", 
+        "cite_name": "HKUST Business School", 
+        "title": "Kai LI | Hong Kong University of Science and Technology"
+    }, 
+    {
+        "content": "clear water bay, kowloon, hong kong. office: room 5005, lee shau kee business building. tel: (852)2358-8202. fax: (852)2358-1749. email: kaili@ust.hk...", 
+        "email_addr_list": [
+            "kaili@ust.hk"
+        ], 
+        "cite_url": "https://sites.google.com/site/kailiwebpage/", 
+        "cite_name": "", 
+        "title": "Kai Li - Google Sites"
+    }, 
+    {
+        "content": "留言; 微博. qq. professor kai lis homepage ... kai li was born in xiao county, anhui, china on february 10, 1968. he received his ... e-mail:kaili@zju.edu.cn...", 
+        "email_addr_list": [
+            "kaili@zju.edu.cn"
+        ], 
+        "cite_url": "mypage.zju.edu.cn/en/likai", 
+        "cite_name": "Zhejiang University", 
+        "title": "Professor Kai Lis Homepage - staff Homepage, ZJU"
+    }
+]

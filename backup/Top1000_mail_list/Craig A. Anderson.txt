@@ -1,5 +1,47 @@
-craig.anderson@sydney.edu.au	[28]
-c.anderson@rgu.ac.uk	[19]
-caa@iastate.edu	[4]
-clanders@uci.edu	[4]
-email at iastate.edu	[3]
+[
+    {
+        "content": "title: distinguished professor. office: 375b science i. phone number: 515-294-3118. email: caa@iastate.edu. homepage:...", 
+        "email_addr_list": [
+            "caa@iastate.edu"
+        ], 
+        "cite_url": "www.psychology.iastate.edu/.../anderson-craig-a/", 
+        "cite_name": "Iowa State University", 
+        "title": "Psychology: Anderson, Craig A."
+    }, 
+    {
+        "content": "the first half is with craig anderson on media violence effects. the second .... ia 50011-3180 email: caa@iastate.edu phone: (515) 294-3118 fax: (515) 294-6424.", 
+        "email_addr_list": [
+            "caa@iastate.edu"
+        ], 
+        "cite_url": "https://public.psych.iastate.edu/caa/", 
+        "cite_name": "", 
+        "title": "Craig A. Anderson - Iastate - Iowa State University"
+    }, 
+    {
+        "content": "email, craig.anderson@sydney.edu.au ... interventional management of stroke (ims iii) study; anderson c; national institutes of health (usa)/research support...", 
+        "email_addr_list": [
+            "craig.anderson@sydney.edu.au"
+        ], 
+        "cite_url": "sydney.edu.au  ...  Professor Craig Anderson", 
+        "cite_name": "University of Sydney", 
+        "title": "Professor Craig Anderson - The University of Sydney"
+    }, 
+    {
+        "content": "cancel. craig a. anderson ... verified email at iastate.edu - homepage  scholar ... ca anderson, a shibuya, n ihori, el swing, bj bushman, a sakamoto, .", 
+        "email_addr_list": [
+            "email@iastate.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4NylLU4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Craig A. Anderson - Google Scholar Citations"
+    }, 
+    {
+        "content": "surname: anderson. position: lecturer. telephone: +44 (0)1224 263411. email: c.anderson@rgu.ac.uk. orcid: http://orcid.org/0000-0002-2164-170x...", 
+        "email_addr_list": [
+            "c.anderson@rgu.ac.uk"
+        ], 
+        "cite_url": "https://www.rgu.ac.uk/dmstaff/anderson-craig", 
+        "cite_name": "Robert Gordon University", 
+        "title": "Anderson Craig - Robert Gordon University"
+    }
+]

@@ -1,9 +1,67 @@
-qingzhang@cupl.edu.cn	[19]
-zhangqing at math.tamu.edu	[19]
-zhangqing@nicemice.cn	[19]
-qzhang12@uw.edu	[12]
-zhangq1@email.arizona.edu	[12]
-zhangqin@iupui.edu	[12]
-zhang@med.unc.edu	[11]
-qz980@yahoo.com	[3]
-econdept@uw.edu	[1]
+[
+    {
+        "content": "about qing zhang. my research concerns ... wong, andrew and qing zhang. 2001. the linguistic ... email: zhangq1@email.arizona.edu. telephone: 520.626.", 
+        "email_addr_list": [
+            "zhangq1@email.arizona.edu"
+        ], 
+        "cite_url": "anthropology.arizona.edu/user/qing-zhang", 
+        "cite_name": "University of Arizona", 
+        "title": "Qing Zhang | The School of Anthropology"
+    }, 
+    {
+        "content": "office, blocker 204b. fax, +1 979 862 4190. email, zhangqing at math.tamu.edu. url, http://www.math.tamu.edu/~zhangqing...", 
+        "email_addr_list": [
+            "zhangqing@math.tamu.edu"
+        ], 
+        "cite_url": "www.math.tamu.edu/.../formalpg.php?...zhangqi...", 
+        "cite_name": "Texas AM University", 
+        "title": "Qing Zhang, Dept of Mathematics, Texas AM University"
+    }, 
+    {
+        "content": "qing zhang. graduate student. qzhang12@uw.edu ... telephone: (206) 543-5955 · fax (206) 685-7477 · email: econdept@uw.edu. copyright © 2012-2015...", 
+        "email_addr_list": [
+            "qzhang12@uw.edu", 
+            "econdept@uw.edu"
+        ], 
+        "cite_url": "https://econ.washington.edu/people/qing-zhang", 
+        "cite_name": "University of Washington", 
+        "title": "Qing Zhang | Department of Economics | University of ..."
+    }, 
+    {
+        "content": "dplm faculty profiles — dr. zhang. info. dr. qing zhang. qing zhang, phd. assistant professor. office: 919-843-7887. e-mail: qing_zhang@med.unc.edu...", 
+        "email_addr_list": [
+            "qing_zhang@med.unc.edu"
+        ], 
+        "cite_url": "https://www.med.unc.edu/.../dplm-faculty-profi...", 
+        "cite_name": "UNC School of Medicine", 
+        "title": "Qing Zhang, PhD - School of Medicine"
+    }, 
+    {
+        "content": "email:qingzhang@cupl.edu.cn. education ph.d. in law (2005) the university of manchester school of law, u.k.. master of laws (1998) the university of...", 
+        "email_addr_list": [
+            "qingzhang@cupl.edu.cn"
+        ], 
+        "cite_url": "www.cesl.edu.cn/eng/ecslfacvitae.asp?id=126", 
+        "cite_name": "", 
+        "title": "CESL - Zhang Qing"
+    }, 
+    {
+        "content": "qing zhang, ph.d. ... dr. zhang has been interested in the molecular diagnosis of mitochondrial dna depletion and mutations in .... email: zhangqin@iupui.edu...", 
+        "email_addr_list": [
+            "zhangqin@iupui.edu"
+        ], 
+        "cite_url": "genetics.medicine.iu.edu/.../qing-z...", 
+        "cite_name": "Indiana University School of Medicine", 
+        "title": "Qing Zhang, Ph.D. - Medical and Molecular Genetics"
+    }, 
+    {
+        "content": "qing zhang phd. qing zhang received his ph.d in microbiology from fudan university in 2002. ... email: zhangqing@nicemice.cn qz980@yahoo.com. more...", 
+        "email_addr_list": [
+            "zhangqing@nicemice.cn", 
+            "qz980@yahoo.com"
+        ], 
+        "cite_url": "www.en.nicemice.cn/pilist.asp?sortid=35www.google.com/email", 
+        "cite_name": "", 
+        "title": "Qing Zhang - Model Animal Research Centerbr/ of ...Google Business Email‎Searches related to Qing Zhang email"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "create alert. cancel. hsiao-chun wu ... verified email at ece.lsu.edu - homepage  scholar ... ys shiu, sy chang, hc wu, sch huang, hh chen. wireless...", 
+        "email_list": [
+            "email@ece.lsu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3Ee8qHEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hsiao-Chun Wu - Google Scholar Citations"
+    }, 
+    {
+        "content": "hsiao-chun wu, ph. d., ieee fellow (class of 2015) ... please email wu@ece.lsu.edu for details. my brother charles wu, a professional civil and environmental...", 
+        "email_list": [
+            "wu@ece.lsu.edu"
+        ], 
+        "cite_url": "www.ece.lsu.edu/wu/public_html/wu.html", 
+        "cite_name": "", 
+        "title": "ECE Info: Hsiao-Chun Wu"
+    }, 
+    {
+        "content": "view bio. email: yiyan.wu@crc.gc.ca. yiyan wu 2014-2016. - editor-in-chief ..... as a distinguished lecturer, hsiao-chun is willing to travel to chapters located...", 
+        "email_list": [
+            "yiyan.wu@crc.gc.ca"
+        ], 
+        "cite_url": "bts.ieee.org/.../editorial-st...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Editorial Staff | IEEE Broadcast Technology Society"
+    }, 
+    {
+        "content": "symposium co-chairs. hsiao-chun wu, louisiana state university, usa. email: wu@ece.lsu.edu. ping wang, nanyang technological university, singapore.", 
+        "email_list": [
+            "wu@ece.lsu.edu"
+        ], 
+        "cite_url": "conf-icnc.org/2015/ICNC_MCC.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Call for papers Multimedia Computing and Communications ..."
+    }
+]

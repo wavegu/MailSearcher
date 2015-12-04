@@ -1,0 +1,29 @@
+[
+    {
+        "content": "benjamin i. p. rubinstein. computing and ... verified email at unimelb.edu.au - homepage  scholar ... l huang, ad joseph, b nelson, bip rubinstein, jd tygar.", 
+        "email_list": [
+            "email@unimelb.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hMG_gR4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Benjamin I. P. Rubinstein - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: benr@cs.berkeley.edu web: http://www.cs.berkeley.edu/˜benr ..... [10] blaine nelson, benjamin i. p. rubinstein, ling huang, anthony d. joseph, shing...", 
+        "email_list": [
+            "benr@cs.berkeley.edu"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?rep=rep1type=pdf...1...", 
+        "cite_name": "", 
+        "title": "[PDF]Research Statement – Benjamin Rubinstein 1 Privacy ..."
+    }, 
+    {
+        "content": "ghosh, arpita and rubinstein, benjamin i. p. and vassilvitskii, sergei and ... made public at this website, please email cjg@ecs.soton.ac.uk - include the file(s),...", 
+        "email_list": [
+            "cjg@ecs.soton.ac.uk"
+        ], 
+        "cite_url": "www2009.eprints.org/.../Rubinstein=3ABenjamin_I=2E_P=2E=3A=3A.htm...", 
+        "cite_name": "", 
+        "title": "Items by Rubinstein, Benjamin I. P. - WWW2009 EPrints"
+    }
+]

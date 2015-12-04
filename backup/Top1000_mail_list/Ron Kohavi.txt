@@ -1,4 +1,38 @@
-ronnyk at live dot you	[8]
-email at microsoft.com	[2]
-provost@acm.org	[2]
-sobaco@umn.edu	[1]
+[
+    {
+        "content": "the experimentation platform was a project headed by ronny kohavi from 2006. it went live in ... for feedback, send e-mail to ronnyk at live dot you know what.", 
+        "email_addr_list": [
+            "ronnyk@live.you"
+        ], 
+        "cite_url": "www.exp-platform.com/", 
+        "cite_name": "", 
+        "title": "Exp Platform"
+    }, 
+    {
+        "content": "ron kohavi. general manager ... verified email at microsoft.com - homepage  scholar. get my own ... j dougherty, r kohavi, m sahami. machine learning:...", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=O3RYHGwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ron Kohavi - Google Scholar Citations"
+    }, 
+    {
+        "content": "ron kohavi from microsoft to give keynote address at computer science  engineering technology forum on october 18, 2013 ... to sir ronald a. fishers experiments at the rothamsted agricultural experimental ... email: sobaco@umn.edu", 
+        "email_addr_list": [
+            "sobaco@umn.edu"
+        ], 
+        "cite_url": "https://sobaco.umn.edu/ronkohavievent.html", 
+        "cite_name": "University of Minnesota", 
+        "title": "Ron Kohavi event | Online Controlled Experiments ..."
+    }, 
+    {
+        "content": "authors: foster provost, bell atlantic science and technology, 400 westchester avenue, white plains, new york 10604. e-mail: provost@acm.org. ron kohavi...", 
+        "email_addr_list": [
+            "provost@acm.org"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=288809www.google.com/email", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Guest Editors IntroductionGoogle Business Email - Custom email for your company‎"
+    }
+]

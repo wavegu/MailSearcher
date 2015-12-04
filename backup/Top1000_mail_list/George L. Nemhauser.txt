@@ -1,5 +1,38 @@
-george.nemhauser@isye.gatech.nae	[31]
-george.nemhauser@isye.gatech	[31]
-emailnemhauser@isye.gat	[20]
-email at isye.gatech.edu	[3]
-informs@informs.org	[2]
+[
+    {
+        "content": "cancel. george nemhauser. professor, georgia institute of technology  operations research. verified email at isye.gatech.edu ... l art, h mauch. dynamic...", 
+        "email_addr_list": [
+            "email@isye.gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BkIva08AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "George Nemhauser - Google Scholar Citations"
+    }, 
+    {
+        "content": "george nemhauser was the 30th president of orsa. ... george l. nemhausers awards ... (800-446-3676) • fax: 443-757-3515 • email: informs@informs.org.", 
+        "email_addr_list": [
+            "informs@informs.org"
+        ], 
+        "cite_url": "https://www.informs.org/About-INFORMS/.../George-L.-Nemhauser", 
+        "cite_name": "", 
+        "title": "George L. Nemhauser - INFORMS"
+    }, 
+    {
+        "content": "george l. nemhauser. industrial and systems engineering. georgia institute of technology. atlanta, ga 30332-0205. e-mail: george.nemhauser@isye.gatech.", 
+        "email_addr_list": [
+            "george.nemhauser@isye.gatech"
+        ], 
+        "cite_url": "mat.gsia.cmu.edu/trick/acc.ps", 
+        "cite_name": "", 
+        "title": "[PS]Scheduling a Major College Basketball Conference"
+    }, 
+    {
+        "content": "l. wolsey (catholic univ. of louvain-laneuve) . contact: g. nemhauser (georgia tech.) e-mail: george.nemhauser@isye.gatech. edu. local arrangements: p.", 
+        "email_addr_list": [
+            "george.nemhauser@isye.gatech"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-nemhauser-isye-gat-16791569.h...", 
+        "cite_name": "", 
+        "title": "nemhauser@isye.gat - The Email Archive"
+    }
+]

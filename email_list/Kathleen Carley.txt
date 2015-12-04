@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: kathleen.carley@cs.cmu.edu. research interests: network science, dynamic network analysis, computer simulation, social media analytics, text mining,...", 
+        "email_list": [
+            "kathleen.carley@cs.cmu.edu"
+        ], 
+        "cite_url": "https://www.cmu.edu/.../kathleen-m-carley.ht...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Kathleen M. Carley-Engineering and Public Policy ..."
+    }, 
+    {
+        "content": "carnegie mellon university fax: (412) 268-1744. pittsburgh, pa 15213 email:kathleen.carley@cs.cmu.edu http://www.casos.cs.cmu.edu/bios/carley/carley.html.", 
+        "email_list": [
+            "kathleen.carley@cs.cmu.edu"
+        ], 
+        "cite_url": "www.casos.cs.cmu.edu/.../carley/KCvita2015...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[PDF]Kathleen Mary Carley - CASOS - Carnegie Mellon University"
+    }, 
+    {
+        "content": "email: j.s.lee-1@utwente.nl. date of birth: ... advising committee: dr. kathleen m. carley, dr. david krackhardt, and dr. tom fararo (univer- sity of pittsburgh).", 
+        "email_list": [
+            "j.s.lee-1@utwente.nl"
+        ], 
+        "cite_url": "https://www.utwente.nl/bms/cstm/.../lee-fullcv.pdf", 
+        "cite_name": "University of Twente", 
+        "title": "[PDF]Ju-Sung (Jay) Lee: Curriculum Vitae"
+    }, 
+    {
+        "content": "kathleen m. carley. dept. of social and decision sciences. carnegie mellon university. pittsburgh, pa 15143. email: kathelen.carley@cmu.edu.", 
+        "email_list": [
+            "kathelen.carley@cmu.edu"
+        ], 
+        "cite_url": "www.hks.harvard.edu/.../carley...", 
+        "cite_name": "John F. Kennedy School of Government", 
+        "title": "[PDF]Destabilizing Networks"
+    }
+]

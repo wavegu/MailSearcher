@@ -1,1 +1,11 @@
-email at unibas.ch	[4]
+[
+    {
+        "content": "erich nigg. biozentrum, university of ... verified email at unibas.ch - homepage  scholar ... js andersen, cj wilkinson, t mayor, p mortensen, ea nigg, m mann.", 
+        "email_addr_list": [
+            "email@unibas.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XKwAiVsAAAAJ...www.google.com/email", 
+        "cite_name": "Google Scholar", 
+        "title": "Erich Nigg - Google Scholar CitationsGoogle Business Email - Custom email for your company‎"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dr. heather lipford. associate professor software and information systems. office: woodward hall 305-e email: richter@uncc.edu. phone: 704-687-8376", 
+        "email_list": [
+            "richter@uncc.edu"
+        ], 
+        "cite_url": "cci.uncc.edu/.../lipford-heather", 
+        "cite_name": "University of North Carolina at Charlotte", 
+        "title": "Lipford, Heather | College of Computing and Informatics ..."
+    }, 
+    {
+        "content": "cancel. heather richter lipford. associate professor ... verified email at uncc.edu. scholar. get my own ... hr lipford, a besmer, j watson. upsec 8, 1-8, 2008.", 
+        "email_list": [
+            "email@uncc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xzb1IqwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Heather Richter Lipford - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 30, 2010 - gordon hull • heather richter lipford •. celine latulipe ... h. r. lipford 4 c. latulipe. department of ... c. latulipe e-mail: clatulip@uncc.edu.", 
+        "email_list": [
+            "clatulip@uncc.edu"
+        ], 
+        "cite_url": "pages.uoregon.edu/.../hull_context_privacy_fb.pdf", 
+        "cite_name": "University of Oregon", 
+        "title": "[PDF]Contextual gaps - University of Oregon"
+    }
+]

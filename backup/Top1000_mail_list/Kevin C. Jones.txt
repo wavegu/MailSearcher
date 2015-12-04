@@ -1,2 +1,20 @@
-email at lancaster.ac.uk	[6]
-email at polk.edu	[2]
+[
+    {
+        "content": "kevin c jones. distinguished professor ... verified email at lancaster.ac.uk - homepage  scholar ... fm jaward, nj farrar, t harner, aj sweetman, kc jones.", 
+        "email_addr_list": [
+            "email@lancaster.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3_EZ-8sAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kevin C Jones - Google Scholar Citations"
+    }, 
+    {
+        "content": "kevin c. jones. polk state ... verified email at polk.edu ... understanding student veterans in transition. kc jones. the qualitative report 18 (74), 1-14, 2013.", 
+        "email_addr_list": [
+            "email@polk.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=usbvOT4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kevin C. Jones - Google Scholar Citations"
+    }
+]

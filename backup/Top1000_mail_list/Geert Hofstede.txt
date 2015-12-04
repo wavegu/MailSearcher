@@ -1,6 +1,31 @@
-hofstede@bart.nl	[17]
-rights@geerthofstede.nl.geert	[3]
-rights@geerthofstede.nl	[3]
-michaelminkov@yahoo.com	[2]
-misho.minkov@iu-edu.com	[2]
-email at bart.nl	[1]
+[
+    {
+        "content": "geert is a resident of velp, gelderland, the netherlands. ... all permission requests should be addressed to geert hofstede bv via rights@geerthofstede.nl.", 
+        "email_addr_list": [
+            "rights@geerthofstede.nl"
+        ], 
+        "cite_url": "geerthofstede.nl/contact-us", 
+        "cite_name": "", 
+        "title": "Geert Hofstede | Contact Geert or Gert Jan Hofstede"
+    }, 
+    {
+        "content": "hofstede@bart.nl; www.geerthofstede.nl ..... of their results to both the following email addresses: michaelminkov@yahoo.com and misho.minkov@iu-edu.com,...", 
+        "email_addr_list": [
+            "hofstede@bart.nl", 
+            "michaelminkov@yahoo.com", 
+            "misho.minkov@iu-edu.com"
+        ], 
+        "cite_url": "www.geerthofstede.com/media/229/manualvsm08.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Vsm 08 - Geert Hofstede"
+    }, 
+    {
+        "content": "cancel. geert hofstede. professor emeritus of ... verified email at bart.nl. scholar. get my own profile ... g hofstede, gj hofstede, m minkov. mcgraw hill, 1997.", 
+        "email_addr_list": [
+            "email@bart.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Q2V0P6oAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Geert Hofstede - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "chen zy, peng c, jiao r，wong ym, yang n, huang y. anti-hypertensive ... tel:(852) 3943 6122 fax: (852) 2603 5646 email: lifesciences@cuhk.edu.hk.", 
+        "email_list": [
+            "lifesciences@cuhk.edu.hk"
+        ], 
+        "cite_url": "www.cuhk.edu.hk/.../CZY.html", 
+        "cite_name": "The Chinese University of Hong Kong", 
+        "title": "Sciences Professor CHEN - The Chinese University of Hong ..."
+    }, 
+    {
+        "content": "email address(es): hong.chen@oahpp.ca; office phone: (647) 260-7109; office address: 480 university avenue, suite 300 toronto, ontario m5g 1v2...", 
+        "email_list": [
+            "hong.chen@oahpp.ca"
+        ], 
+        "cite_url": "www.dlsph.utoronto.ca/.../chen-hong/", 
+        "cite_name": "Dalla Lana School of Public Health", 
+        "title": "Hong Chen | Dalla Lana School of Public Health"
+    }, 
+    {
+        "content": "chairman of hong kong early psychosis intervention society (episo) director of master in ... website for prof eric chen ... email: eyhchen@hku.hk. the hku...", 
+        "email_list": [
+            "eyhchen@hku.hk"
+        ], 
+        "cite_url": "www.psychiatry.hku.hk/e_chen.html", 
+        "cite_name": "", 
+        "title": "Prof. EYH Chen - Department of Psychiatry - The University ..."
+    }, 
+    {
+        "content": "hong kong university of science and technology ... email:leichen@cse.ust.hk .... zhao chen, rui fu, ziyuan zhao, zheng liu, leihao xia, lei chen, peng...", 
+        "email_list": [
+            "leichen@cse.ust.hk"
+        ], 
+        "cite_url": "www.cse.ust.hk/~leich...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Prof. Lei Chen - Department of Computer Science and ..."
+    }, 
+    {
+        "content": "qiao-hong chen, ph.d. assistant professor office location: science building room 346. office phone: 559.278.2394. e-mail: qchen@csufresno.edu. website:...", 
+        "email_list": [
+            "qchen@csufresno.edu"
+        ], 
+        "cite_url": "www.fresnostate.edu/csm/.../chen.html", 
+        "cite_name": "California State University, Fresno", 
+        "title": "Qiao-Hong Chen, Ph.D. - California State University, Fresno"
+    }, 
+    {
+        "content": "contact information. roswell park cancer institute buffalo, ny 14263. phone: 716-845-7785. fax: 716-845-8125. email: chi-chen.hong@roswellpark.org...", 
+        "email_list": [
+            "chi-chen.hong@roswellpark.org"
+        ], 
+        "cite_url": "https://sphhp.buffalo.edu/...and.../chong3.html", 
+        "cite_name": "University at Buffalo", 
+        "title": "Chi-Chen Hong, PhD - Epidemiology and Environmental ..."
+    }
+]

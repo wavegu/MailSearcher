@@ -1,2 +1,11 @@
-email at columbia.edu	[2]
-mckinnon@tc.edu	[1]
+[
+    {
+        "content": "cancel. jeanne brooks-gunn. columbia university ... verified email at columbia.edu. scholar ... j brooks-gunn, gj duncan, pk klebanov, n sealand. american...", 
+        "email_addr_list": [
+            "email@columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FPDAb6EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jeanne Brooks-Gunn - Google Scholar Citations"
+    }
+]

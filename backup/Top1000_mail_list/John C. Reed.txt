@@ -1,1 +1,11 @@
-jreed@sanfordburnham.org	[10]
+[
+    {
+        "content": "e-mail: jreed@sanfordburnham.org. education. 1976-1980 b.a. ... dr. reed is 8th most highly-cited researcher in life-sciences and medicine for the decade; 1st...", 
+        "email_addr_list": [
+            "jreed@sanfordburnham.org"
+        ], 
+        "cite_url": "www.sbpdiscovery.org/talent/CV/REED=CV=2012.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]JOHN C. REED, MD, PhD - Sanford Burnham Prebys ..."
+    }
+]

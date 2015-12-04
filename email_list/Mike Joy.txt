@@ -1,0 +1,20 @@
+[
+    {
+        "content": "senior lecturer in ecology / zoology. institute of agriculture  environment. telephone: +64 (06) 356 9099 ext. 84834. email: m.k.joy@massey.ac.nz.", 
+        "email_list": [
+            "m.k.joy@massey.ac.nz"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Massey University", 
+        "title": "Dr Mike Joy - Senior Lecturer in Ecology / Zoology - Massey ..."
+    }, 
+    {
+        "content": "sep 5, 2015 - department of computer science university of warwick coventry cv4 7al, tel: +44 24 7652 3368. email: m.s.joy@warwick.ac.uk weblink:...", 
+        "email_list": [
+            "m.s.joy@warwick.ac.uk"
+        ], 
+        "cite_url": "go.warwick.ac.uk/mikejoy", 
+        "cite_name": "University of Warwick", 
+        "title": "Mike Joy - University of Warwick"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "rick snodgrass, photo by melanie s. brucks ... email: rts@cs.arizona.edu ... rick is a professor of computer science at the university of arizona, joining in 1989.", 
+        "email_list": [
+            "rts@cs.arizona.edu"
+        ], 
+        "cite_url": "www.cs.arizona.edu/~rts/", 
+        "cite_name": "University of Arizona", 
+        "title": "Richard T. Snodgrass - Department of Computer Science"
+    }, 
+    {
+        "content": "richard snodgrass. professor of ... verified email at cs.arizona.edu - homepage  scholar ... a tansel, j clifford, s gadia, s jajodia, a segev, rt snodgrass.", 
+        "email_list": [
+            "email@cs.arizona.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BkrB4awAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard Snodgrass - Google Scholar Citations"
+    }, 
+    {
+        "content": "snodgrass cv. eric r. snodgrass snodgrss@illinois.edu. phone: (217) 333-3537 fax: (217) 244-4393. department of atmospheric sciences. university of...", 
+        "email_list": [
+            "snodgrss@illinois.edu"
+        ], 
+        "cite_url": "https://www.atmos.illinois.ed...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "[PDF]ERIC R. SNODGRASS snodgrss@illinois.edu Phone: (217 ..."
+    }
+]

@@ -1,2 +1,38 @@
-mvo@u.washington.edu.sequencing	[4]
-mvo@u.washington.edu	[4]
+[
+    {
+        "content": "university of washington 225 fluke hall genome center, box 352145. seattle, wa 98195-7720. phone: (206) 685-7346. e-mail: mvo@u.washington.edu...", 
+        "email_addr_list": [
+            "mvo@u.washington.edu"
+        ], 
+        "cite_url": "depts.washington.edu/.../Maynard_Olson.shtml", 
+        "cite_name": "University of Washington", 
+        "title": "Maynard V. Olson, Ph.D. - Medical Genetics at University of ..."
+    }, 
+    {
+        "content": "maynard v. olson ... of medical genetics) and genome sciences, university of washington, seattle, washington 98195; email: mvo@u.washington.edu.", 
+        "email_addr_list": [
+            "mvo@u.washington.edu"
+        ], 
+        "cite_url": "www.annualreviews.org  ...  Volume 13, 2012", 
+        "cite_name": "Annual Reviews", 
+        "title": "Human Genetic Individuality - Annual Review of Genomics ..."
+    }, 
+    {
+        "content": "maynard v. olson  ajit varki about the authors. top of page ... correspondence to: maynard v. olson email: mvo@u.washington.edu. top of page...", 
+        "email_addr_list": [
+            "mvo@u.washington.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Sequencing the chimpanzee genome: insights into ... - Nature"
+    }, 
+    {
+        "content": "... evolution and disease. maynard v. olson  ajit varki about the authors ... correspondence to: maynard v. olson email: mvo@u.washington.edu. top of page...", 
+        "email_addr_list": [
+            "mvo@u.washington.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review  Full text", 
+        "cite_name": "Nature", 
+        "title": "Sequencing the chimpanzee genome: insights into human ..."
+    }
+]

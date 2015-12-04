@@ -1,0 +1,29 @@
+[
+    {
+        "content": "see information and reports about horiet@msn.com (takeshi hories e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "horiet@msn.com"
+        ], 
+        "cite_url": "spam-report.email/horiet/msn.com", 
+        "cite_name": "", 
+        "title": "horiet@msn.com (Takeshi Hories e-mail) - Spam-Report ..."
+    }, 
+    {
+        "content": "from: takeshi horie horie@fla.fujitsu.com; date: wed, 11 dec 2002 11:31:14 -0500 (est). re: [10gbase-cx4] cable / connector pinout. from: dove...", 
+        "email_list": [
+            "horie@fla.fujitsu.com"
+        ], 
+        "cite_url": "www.ieee802.org/3/ak/email/mail6.html", 
+        "cite_name": "", 
+        "title": "IEEE P802.3 10GBASE-CX4 Study Group Email Archive"
+    }, 
+    {
+        "content": "takeshi horie. fax: +81 75 753 6065; e-mail: horiet@adm.kais.kyoto-u.ac.jp ... keisuke katsura, takeshi horie, adaptability of high-yielding rice cultivars in...", 
+        "email_list": [
+            "horiet@adm.kais.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1111/j...x/abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Genotypic difference in canopy diffusive conductance ..."
+    }
+]

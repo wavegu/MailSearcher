@@ -1,1 +1,11 @@
-ljjowers@auditsoft.com	[14]
+[
+    {
+        "content": "leonard j. jowers page ... (under review.) · l.j. jowers, j.j. buckley, and k.d. reilly. “triangular-shaped .... electronic mail address: ljjowers@auditsoft.com...", 
+        "email_addr_list": [
+            "ljjowers@auditsoft.com"
+        ], 
+        "cite_url": "www.auditsoft.com/leonard/", 
+        "cite_name": "", 
+        "title": "Leonard Jowers Page - AuditSoft"
+    }
+]

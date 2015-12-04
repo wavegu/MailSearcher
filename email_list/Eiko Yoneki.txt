@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: eiko.yoneki@cl.cam.ac.uk ... eiko is an epsrc research fellow in the university of cambridge computer laboratory, systems research group.", 
+        "email_list": [
+            "eiko.yoneki@cl.cam.ac.uk"
+        ], 
+        "cite_url": "www.cnn.group.cam.ac.uk/directory/ey204@cam.ac.uk", 
+        "cite_name": "", 
+        "title": "Dr Eiko Yoneki — Cambridge Networks Network"
+    }, 
+    {
+        "content": "cancel. eiko yoneki. computer laboragtory ... verified email at cl.cam.ac.uk - homepage  scholar ... p hui, e yoneki, sy chan, j crowcroft. proceedings of 2nd...", 
+        "email_list": [
+            "email@cl.cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=39qZ_EsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Eiko Yoneki - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr e yoneki - computer laboratory, university of cambridge ... eiko(punto)yoneki(arrova)cl(punto)cam(punto)ac(punto)uk ... email: eiko.yoneki@cl.cam.ac.uk.", 
+        "email_list": [
+            "eiko.yoneki@cl.cam.ac.uk"
+        ], 
+        "cite_url": "www.researchperspectives.org/.../Dr-E-Yoneki-University-Of-Cambridge", 
+        "cite_name": "", 
+        "title": "Dr E Yoneki, Computer Laboratory, University of Cambridge"
+    }
+]

@@ -1,2 +1,11 @@
-jag3002@med.cornell.edu.figures	[1]
-jag3002@med.cornell.edu	[1]
+[
+    {
+        "content": "lewis c. cantley, ph.d. ... lewis cantley has made significant advances in cancer research, stemming from his discovery of ... email: jag3002@med.cornell.edu.", 
+        "email_addr_list": [
+            "jag3002@med.cornell.edu"
+        ], 
+        "cite_url": "cantleylab.weill.cornell.edu/LabTeam", 
+        "cite_name": "", 
+        "title": "Lab Team | Cantley Lab"
+    }
+]

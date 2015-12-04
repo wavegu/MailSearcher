@@ -1,2 +1,20 @@
-email at cs.ucsb.edu	[3]
-majordomo@cs.jhu.edu	[3]
+[
+    {
+        "content": "verified email at cs.ucsb.edu - homepage ... ce perkins, em royer, sr das, mk marina ... k ramachandran, m buddhikot, g chandranmenon, s miller, .", 
+        "email_addr_list": [
+            "email@cs.ucsb.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3G79TTEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Elizabeth Belding - Google Scholar Citations"
+    }, 
+    {
+        "content": "send email to majordomo@cs.jhu.edu with subscribe cs647 in the message .... samir r. das, charles e. perkins, elizabeth m. royer and mahesh k. marina.", 
+        "email_addr_list": [
+            "majordomo@cs.jhu.edu"
+        ], 
+        "cite_url": "www.cs.jhu.edu/~baruch/.../wirelessclass07.htm", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "600.647 - Advanced Topics in Wireless Networks"
+    }
+]

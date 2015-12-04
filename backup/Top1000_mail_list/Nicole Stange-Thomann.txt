@@ -1,6 +1,40 @@
-nstange-thomann@ccib.mgh.harvard.edu	[28]
-sthomann@genome.wi.mit.edu	[17]
-knud@athos.igm.cnrs-mop.fr	[2]
-soll@trna.chem.yale.edu	[2]
-ojaillon@genoscope.cns.fr	[2]
-jgalag@mit.edu	[1]
+[
+    {
+        "content": "director: nicole stange-thomann, ph.d. location: 38 sidney street, suite 100, ... phone: (617) 726-0085. email: nstange-thomann@ccib.mgh.harvard.edu...", 
+        "email_addr_list": [
+            "nstange-thomann@ccib.mgh.harvard.edu"
+        ], 
+        "cite_url": "www.partners.org/researchcores/.../ccib_dna_mgh.as...", 
+        "cite_name": "Partners HealthCare", 
+        "title": "Partners Research Cores| CCIB DNA Core"
+    }, 
+    {
+        "content": "sung-il kim,1 nicole stange-thomann,1 orlando martins,1 kwang-won hong,1 dieter so¨ ll,1* ... e-mail: soll@trna.chem.yale.edu. fig. 1.", 
+        "email_addr_list": [
+            "soll@trna.chem.yale.edu"
+        ], 
+        "cite_url": "jb.asm.org/content/179/17/5625.full.pdf", 
+        "cite_name": "Journal of Bacteriology", 
+        "title": "A Nuclear Genetic Lesion Affecting Saccharomyces ..."
+    }, 
+    {
+        "content": "(2); nicole stange-thomann  sthomann@genome.wi.mit.edu (3); olivier jaillon  ojaillon@genoscope.cns.fr (2); knud mogensen  knud@athos.igm.cnrs-mop.fr...", 
+        "email_addr_list": [
+            "sthomann@genome.wi.mit.edu", 
+            "ojaillon@genoscope.cns.fr", 
+            "knud@athos.igm.cnrs-mop.fr"
+        ], 
+        "cite_url": "link.springer.com/.../10.1186%2F1471...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Comparative genomic analysis reveals independent ..."
+    }, 
+    {
+        "content": "... karen foley, jerome naylor, nicole stange-thomann, robert barrett, sante ... be addressed to j.e.g (e-mail: email: jgalag@mit.edu) or b.b. (e-mail: email:...", 
+        "email_addr_list": [
+            "jgalag@mit.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Articlewww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Article - NatureGoogle Business Email - Custom email for your company‎"
+    }
+]

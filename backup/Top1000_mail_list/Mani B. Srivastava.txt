@@ -1,6 +1,40 @@
-mbs@ucla.edu	[4]
-mbs@ee.ucla.edu	[4]
-mbs@ee.ucla.edu.mani	[4]
-mbs@ee.ucl	[4]
-destrin@cs.ucla.edu	[2]
-email at ucla.edu	[2]
+[
+    {
+        "content": "mani srivastava professor primary area: circuits  systems, signals  systems. office: 6730e boelter hall phone: (310) 267-2098. e-mail: mbs@ee.ucla.edu.", 
+        "email_addr_list": [
+            "mbs@ee.ucla.edu"
+        ], 
+        "cite_url": "www.ee.ucla.edu/mani-srivastava/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Mani Srivastava | EE"
+    }, 
+    {
+        "content": "cancel. mani srivastava. professor of electrical ... verified email at ucla.edu - homepage  scholar ... s meguerdichian, f koushanfar, m potkonjak, m srivastava.", 
+        "email_addr_list": [
+            "email@ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=X2Qs7XYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mani Srivastava - Google Scholar Citations"
+    }, 
+    {
+        "content": "mani b srivastava. email: mbs@ee.ucla.edu,mbs@ucla.edu. homepage: http://nesl.ee.ucla.edu/people/mbs/. office: boelter hall, room 7702b.", 
+        "email_addr_list": [
+            "mbs@ee.ucla.edu", 
+            "mbs@ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Electrical Engineering", 
+        "cite_name": "", 
+        "title": "BruinWalk : Mani B Srivastava"
+    }, 
+    {
+        "content": "... deborah estrin destrin@cs.ucla.edu mani srivastava mbs@ee.ucla.edu stefano ... e cricket compass for context-aware mobile applications nissanka b.", 
+        "email_addr_list": [
+            "destrin@cs.ucla.edu", 
+            "mbs@ee.ucla.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mbs-ee-ucl-27176222.htm", 
+        "cite_name": "", 
+        "title": "mbs@ee.ucl - The Email Archive"
+    }
+]

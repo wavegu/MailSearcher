@@ -1,2 +1,20 @@
-email at ski.mskcc.org	[2]
-j.svejstrup@cancer.org.uk	[2]
+[
+    {
+        "content": "hediye erdjument-bromage. proteomics ... verified email at ski.mskcc.org. scholar ... k polyak, mh lee, h erdjument-bromage, a koff, jm roberts, p tempst, .", 
+        "email_addr_list": [
+            "email@ski.mskcc.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CuHI8a8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hediye Erdjument-Bromage - Google Scholar Citations"
+    }, 
+    {
+        "content": "... jane fellows, lars jansen, jaap brouwer, hediye erdjument-bromage, paul ... should be addressed to j.q.s. (e-mail: email: j.svejstrup@cancer.org.uk).", 
+        "email_addr_list": [
+            "j.svejstrup@cancer.org.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "A Rad26-Def1 complex coordinates repair and RNA pol II ..."
+    }
+]

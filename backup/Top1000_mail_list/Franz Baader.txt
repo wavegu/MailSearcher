@@ -1,6 +1,29 @@
-baader at inf.tu-dresden.de	[14]
-baader@tcs.inf.tu-dresden.de.franz	[13]
-baader@tcs.inf.tu-dresden.de	[13]
-cflack@cambridge.org	[2]
-cflack@cambridge.org.franz	[2]
-email at tu-dresden.de	[1]
+[
+    {
+        "content": "theoretical computer science d-01062 dresden germany. phone: voice (+49 351)-463-39160. fax (+49 351)-463-37959. email: baader@tcs.inf.tu-dresden.de.", 
+        "email_addr_list": [
+            "baader@tcs.inf.tu-dresden.de"
+        ], 
+        "cite_url": "lat.inf.tu-dresden.de/~baader/index-en...", 
+        "cite_name": "Dresden University of Technology", 
+        "title": "Homepage of Prof. Franz Baader"
+    }, 
+    {
+        "content": "franz baader. professor of theoretical ... verified email at tu-dresden.de - homepage  scholar. get my own ... f baader, i horrocks, u sattler. mechanizing...", 
+        "email_addr_list": [
+            "email@tu-dresden.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dIVc_FYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Franz Baader - Google Scholar Citations"
+    }, 
+    {
+        "content": "authors: franz baader, rheinisch-westfälische technische hochschule, aachen, ... baader and nipkow cover all the basic material--abstract reduction systems, .... problems accessing these resources please email cflack@cambridge.org.", 
+        "email_addr_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../term-rewriting-and-al...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Term Rewriting and All That - Cambridge University Press"
+    }
+]

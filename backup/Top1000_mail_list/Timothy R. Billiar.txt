@@ -1,6 +1,47 @@
-billiartr@upmc.edu	[17]
-pittsurgerycv@upmc.edu	[3]
-pittsurgerycv@upmc.edu.trauma	[3]
-vodovotzy@upmc.edu	[2]
-n.benjamin@qmw.ac.uk	[2]
-email at upmc.edu	[2]
+[
+    {
+        "content": "timothy r. billiar, md ... dr. billiar is the chair of the department of surgery, a deputy director of the mcgowan institute for ... email: billiartr@upmc.edu...", 
+        "email_addr_list": [
+            "billiartr@upmc.edu"
+        ], 
+        "cite_url": "path.upmc.edu/personnel/Faculty/billiar.htm", 
+        "cite_name": "", 
+        "title": "Timothy R. Billiar, MD - Department of Pathology"
+    }, 
+    {
+        "content": "dr. billiar holds an md from the university of chicago, pritzker school of medicine. ... dr. timothy r. billiar. email: billiartr@upmc.edu. phone: (412) 647-1749.", 
+        "email_addr_list": [
+            "billiartr@upmc.edu"
+        ], 
+        "cite_url": "www.mirm.pitt.edu  Faculty/Staff Bios", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Timothy R. Billiar, MD - Regenerative Medicine at the ..."
+    }, 
+    {
+        "content": "paul winyard, david r. blake, christopher h. evans ... school of medicine and dentistry, charterhouse square, londonec1,uk; email: n.benjamin@qmw.ac.uk timothy r. billiar department of surgery, a1010 presbyterian university hospital,...", 
+        "email_addr_list": [
+            "n.benjamin@qmw.ac.uk"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3034884826", 
+        "cite_name": "", 
+        "title": "Free Radicals and Inflammation - Google Books Result"
+    }, 
+    {
+        "content": "timothy billiar. university of pittsburgh ... verified email at upmc.edu. scholar ... m jo, th kim, dw seol, je esplen, k dorko, tr billiar, sc strom ... a tsung, r sahai, h tanaka, a nakao, mp fink, mt lotze, h yang, j li, ... the journal of...", 
+        "email_addr_list": [
+            "email@upmc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tB9o-rIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Timothy Billiar - Google Scholar Citations"
+    }, 
+    {
+        "content": "... abboud,; gregory constantine,; gary nieman,; ruben zamora,,; steven c. chang,; timothy r. billiar and; yoram vodovotz,,* ... e-mail: vodovotzy@upmc.edu.", 
+        "email_addr_list": [
+            "vodovotzy@upmc.edu"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/7/285/285ra61www.google.com/email", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Trauma in silico: Individual-specific mathematical models ...Google Business Email‎"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "verified email at uts.edu.au. scholar. get my own profile ... s fincher, a robins, b baker, i box, q cutts, m de raadt, p haden, ... proceedings of the 8th...", 
+        "email_list": [
+            "email@uts.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=5-CJsB4AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Ilona Box - Google Scholar Citations"
+    }, 
+    {
+        "content": "ilona box, wms. vice president, investments ilona.box@raymondjames.com. with 17 years of financial planning experience and over $300m in assets under...", 
+        "email_list": [
+            "ilona.box@raymondjames.com"
+        ], 
+        "cite_url": "www.raymondjames.com/churchandbox/ilona-...", 
+        "cite_name": "Raymond James Financial", 
+        "title": "Ilona Box - Raymond James"
+    }, 
+    {
+        "content": "view ilona boxs (australia) professional profile on linkedin. linkedin is the ... to engage my services please email ilonabox8 at gmail dot com • i am also a...", 
+        "email_list": [
+            "ilonabox8@gmail.com"
+        ], 
+        "cite_url": "https://au.linkedin.com/pub/ilona-box/b/105/a0b", 
+        "cite_name": "", 
+        "title": "Ilona Box | LinkedIn"
+    }, 
+    {
+        "content": "from ilona box fri jun 21 19:46 est 2002 to: raymond lister subject: ... drop leading zero international email: neilhammond@msn.com to get from london...", 
+        "email_list": [
+            "neilhammond@msn.com"
+        ], 
+        "cite_url": "www-staff.it.uts.edu.au/~raymond/is2002/", 
+        "cite_name": "", 
+        "title": "Ilonas IS2002 gig"
+    }, 
+    {
+        "content": "po box 5897, milton keynes buckinghamshire, mk10 ... why buy from house of ilona? which payment ... us an email. email directly to: info@houseofilona.com...", 
+        "email_list": [
+            "info@houseofilona.com"
+        ], 
+        "cite_url": "https://houseofilona.com/contact", 
+        "cite_name": "", 
+        "title": "Contact - House of ilona - Designer Clergy Dresses"
+    }, 
+    {
+        "content": "find details on ilona box, insurance agent at raymond james  associates ... email. ilona.sawin@raymondjames.com. address. 1421 pine ridge rd, ste 300.", 
+        "email_list": [
+            "ilona.sawin@raymondjames.com"
+        ], 
+        "cite_url": "insurance-agents.credio.com/l/332717/Ilona-Box", 
+        "cite_name": "", 
+        "title": "Ilona Box - Insurance Agents - Credio"
+    }
+]

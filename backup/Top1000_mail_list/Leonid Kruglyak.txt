@@ -1,1 +1,11 @@
-email at ucla.edu	[2]
+[
+    {
+        "content": "cancel. leonid kruglyak. ucla  genetics, genomics. verified email at ucla.edu. scholar ... cs carlson, ma eberle, mj rieder, q yi, l kruglyak, da nickerson.", 
+        "email_addr_list": [
+            "email@ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nww4HVUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Leonid Kruglyak - Google Scholar Citations"
+    }
+]

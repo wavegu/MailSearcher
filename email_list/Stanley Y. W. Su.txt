@@ -1,0 +1,66 @@
+[
+    {
+        "content": "aug 1, 2001 - authors: stanley y.w. su  database systems r d center, university of florida, gainesville, fl 32611––6125, usa; e-mail: su@cise.ufl.edu.", 
+        "email_list": [
+            "su@cise.ufl.edu"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=767138", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Stanley Y.W. Su , Chunbo Huang , Joachim Hammer , Yihua ..."
+    }, 
+    {
+        "content": "stanley y. w. su. department of computer  information science  engineering. university of florida, gainesville, fl, usa. e-mail: su@cise.ufl.edu.", 
+        "email_list": [
+            "su@cise.ufl.edu"
+        ], 
+        "cite_url": "www.kmel-journal.org/ojs/index.php/online-publication/article/.../89", 
+        "cite_name": "", 
+        "title": "[PDF]Enhancing Team Projects Using an Event-Triggered ..."
+    }, 
+    {
+        "content": "e-mail: gray@crl.com tel: +1-415-989-3739 fax: +1-415-989-3739. stanley y.w. su. database systems research  development center. 470 cse building...", 
+        "email_list": [
+            "gray@crl.com"
+        ], 
+        "cite_url": "www.vldb.org/journal/VLDBJ4/C2.pdf", 
+        "cite_name": "VLDB Endowment Inc.", 
+        "title": "VLDB Journal 4(2) - Cover - VLDB Endowment Inc."
+    }, 
+    {
+        "content": "su, stanley y. w.. author. su, stanley y. w. ... phone: +607-5533333, fax: +607-5572555, e-mail: enquiry@mel.psz.utm.my. universiti teknologi malaysia and...", 
+        "email_list": [
+            "enquiry@mel.psz.utm.my"
+        ], 
+        "cite_url": "ent.library.utm.my/.../results;...Stanley...", 
+        "cite_name": "Universiti Teknologi Malaysia", 
+        "title": "Search Results for Su, Stanley Y. W."
+    }, 
+    {
+        "content": "yuh-ming shyy. stanley y.w. su. menlo park, ca. gainesville, fl email: yms@osc.com email: su@ufl.edu. versant object technology. university of florida.", 
+        "email_list": [
+            "yms@osc.com", 
+            "su@ufl.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../00...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Refinement preservation for rule selection in active object ..."
+    }, 
+    {
+        "content": "haifei li, stanley y. w. su and herman lam, on automated e-business negotiations: goal, policy, strategy, ... qianhui liang, stanley y.w. su, haifei li and jen-yao chung, a united approach to discover multimedia ... email: hli@uu.edu", 
+        "email_list": [
+            "hli@uu.edu"
+        ], 
+        "cite_url": "www.uu.edu/personal/hli/publications.html", 
+        "cite_name": "Union University", 
+        "title": "Publications, Max Haifei Li"
+    }, 
+    {
+        "content": "stanley y. w. su, herman lam,. javier arroyo-figueroa, tsae-feng yu and zhidong ... email: su@cis.u .edu. abstract. the main objective of a virtual enterprise...", 
+        "email_list": [
+            "su@cis.u"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.38.8961...", 
+        "cite_name": "", 
+        "title": "[PS]An Extensible Knowledge Base Management ... - CiteSeer"
+    }
+]

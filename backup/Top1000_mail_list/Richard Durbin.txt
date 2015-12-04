@@ -1,4 +1,13 @@
-senator@dorgan.senate.gov	[2]
-domenici@domenici.senate.gov	[2]
-dick@durbin.senate.gov	[2]
-dick@durbin.senate.gov.senator	[2]
+[
+    {
+        "content": "sen. pete domenici senator_domenici@domenici.senate.gov. sen. byron dorgan senator@dorgan.senate.gov. sen. richard durbin dick@durbin.senate.gov.", 
+        "email_addr_list": [
+            "senator_domenici@domenici.senate.gov", 
+            "senator@dorgan.senate.gov", 
+            "dick@durbin.senate.gov"
+        ], 
+        "cite_url": "www.ctvia.org/index.cfm?folder=175open=0doc=252", 
+        "cite_name": "", 
+        "title": "US Senators Direct Email - ConnecticuT Vaccine ..."
+    }
+]

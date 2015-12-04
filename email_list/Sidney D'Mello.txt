@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: sdmello@nd.edu ... sidney dmello is an assistant professor in the departments of psychology and computer science at the university of notre dame.", 
+        "email_list": [
+            "sdmello@nd.edu"
+        ], 
+        "cite_url": "https://engineering.nd.edu/profiles/sdmello", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Sidney DMello — College of Engineering"
+    }, 
+    {
+        "content": "sidney dmello ... dr. dmellos primary research interests are in the cognitive and affective sciences, artificial intelligence, ... email: sdmello@nd.edu.", 
+        "email_list": [
+            "sdmello@nd.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Sidney DMello // Department of Psychology // University of ..."
+    }, 
+    {
+        "content": "sidney k. dmello b ... a: human-computer interaction institute, carnegie mellon university, pittsburgh, pa, 15217. ... contact email: rsbaker@andrew.cmu.edu.", 
+        "email_list": [
+            "rsbaker@andrew.cmu.edu"
+        ], 
+        "cite_url": "www.learnlab.org/uploads/mypslc/publications/bdrg-ijhcs-final.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Better to Be Frustrated than Bored - Pittsburgh Science of ..."
+    }
+]

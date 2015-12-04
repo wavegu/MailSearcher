@@ -1,0 +1,47 @@
+[
+    {
+        "content": "phone: 0086-23-651227xx email: wuying@cqu.edu.cn. positions associate professor, doctor, master tutor. 2002-2012: faculty, school of trade and admission...", 
+        "email_list": [
+            "wuying@cqu.edu.cn"
+        ], 
+        "cite_url": "ceba.cqu.edu.cn/eba/index.eda?method=teacherid=52", 
+        "cite_name": "", 
+        "title": "教师主页 - [ Wu Ying ]"
+    }, 
+    {
+        "content": "east china normal university wu ying. ... wu ying. institute of estuarine and coastal research. tel: office hours: fax: ... email: wuying@sklec.ecnu.edu.cn.", 
+        "email_list": [
+            "wuying@sklec.ecnu.edu.cn"
+        ], 
+        "cite_url": "faculty.ecnu.edu.cn/wuying/Info_eng.html", 
+        "cite_name": "East China Normal University", 
+        "title": "East China Normal University Wu Ying"
+    }, 
+    {
+        "content": "campus address. 8971 math sciences bldg. phone number. 310-794-4860 — campus. email address. ywu@stat.ucla.edu. link. http://www.stat.ucla.edu/~ywu...", 
+        "email_list": [
+            "ywu@stat.ucla.edu"
+        ], 
+        "cite_url": "directory.stat.ucla.edu/ying-nian-wu", 
+        "cite_name": "", 
+        "title": "UCLA Statistics: Ying Nian Wu"
+    }, 
+    {
+        "content": "email: ying-yu-wu@omrf.org. disease research; videos; ask dr. p. alzheimers  brain disease. when alzheimers strikes, it takes away more than just...", 
+        "email_list": [
+            "ying-yu-wu@omrf.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Wu, Ying-Yu - Oklahoma Medical Research Foundation"
+    }, 
+    {
+        "content": "contact info. e-mail: yingwu@email.unc.edu. research. identification of genetic loci associated with metabolic and cardiovascular-related traits by genome-wide...", 
+        "email_list": [
+            "yingwu@email.unc.edu"
+        ], 
+        "cite_url": "mohlke.web.unc.edu/ying-wu/", 
+        "cite_name": "", 
+        "title": "Ying Wu – Karen Mohlke Lab"
+    }
+]

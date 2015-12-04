@@ -1,0 +1,38 @@
+[
+    {
+        "content": "department of biostatistics. building 2, room 423. 655 huntington avenue. boston, massachusetts 02115. onnela@hsph.harvard.edu...", 
+        "email_list": [
+            "onnela@hsph.harvard.edu"
+        ], 
+        "cite_url": "www.hsph.harvard.edu/jukka...", 
+        "cite_name": "Harvard T.H. Chan School of Public Health", 
+        "title": "Home | Jukka-Pekka Onnela | Harvard T.H. Chan School of ..."
+    }, 
+    {
+        "content": "jukka-pekka “jp” onnela assistant professor of biostatistics, harvard t.h. chan school of public health email: onnela@hsph.harvard.edu. my research focuses...", 
+        "email_list": [
+            "onnela@hsph.harvard.edu"
+        ], 
+        "cite_url": "www.hsph.harvard.edu/onnel...", 
+        "cite_name": "Harvard T.H. Chan School of Public Health", 
+        "title": "People | Onnela Lab | Harvard T.H. Chan School of Public ..."
+    }, 
+    {
+        "content": "jukka-pekka jp onnela ... verified email at hsph.harvard.edu - homepage ... jp onnela, j saramäki, j hyvönen, g szabó, d lazer, k kaski, j kertész, .", 
+        "email_list": [
+            "email@hsph.harvard.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=eyYubf4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jukka-Pekka JP Onnela - Google Scholar Citations"
+    }, 
+    {
+        "content": "mason a. porter, jukka-pekka onnela, and peter j. mucha. introduction: networks and ... his email address is porterm@maths.ox.ac.uk. jukka-pekka onnela...", 
+        "email_list": [
+            "porterm@maths.ox.ac.uk"
+        ], 
+        "cite_url": "www.unc.edu/.../NoticesCom...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "[PDF]Communities in Networks - The University of North Carolina ..."
+    }
+]

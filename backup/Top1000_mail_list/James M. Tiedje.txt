@@ -1,4 +1,20 @@
-tiedjej@msu.edu	[14]
-tiedjej@msu.edu.james	[14]
-email at msu.edu	[3]
-lewis.semprini@orst.edu	[2]
+[
+    {
+        "content": "verified email at msu.edu. scholar. get my own profile ... q wang, gm garrity, jm tiedje, jr cole. applied and ... j zhou, ma bruns, jm tiedje. applied and...", 
+        "email_addr_list": [
+            "email@msu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5ekyvtAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "James Tiedje - Google Scholar Citations"
+    }, 
+    {
+        "content": "fax: 541-737-3099. email: lewis.semprini@orst.edu. james m. tiedje center for microbial ecology michigan state university 540 plant  soil science bldg.", 
+        "email_addr_list": [
+            "lewis.semprini@orst.edu"
+        ], 
+        "cite_url": "www2.lbl.gov/.../beracmembers.ht...", 
+        "cite_name": "Lawrence Berkeley National Laboratory", 
+        "title": "Natural and Accelerated Bioremediation Research (NABIR)"
+    }
+]

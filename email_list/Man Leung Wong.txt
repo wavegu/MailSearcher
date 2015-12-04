@@ -1,0 +1,57 @@
+[
+    {
+        "content": "wong man-leung, 黃文亮, ( 852 ) 26168093, mlwong@ln.edu.hk. prof. yeung wing- ... email, limingliu@ln.edu.hk. tel, ( 852 ) ... wong man-leung. bsc, mphil...", 
+        "email_list": [
+            "mlwong@ln.edu.hk", 
+            "limingliu@ln.edu.hk"
+        ], 
+        "cite_url": "cptra.ln.edu.hk/people.html", 
+        "cite_name": "", 
+        "title": "People - Lingnan University - The Department of Computing ..."
+    }, 
+    {
+        "content": "email: -, gcui@ln.edu.hk .... cui, geng, man leung wong, guichang zhang and lin li (2008), model selection for direct marketing: performance criteria and...", 
+        "email_list": [
+            "gcui@ln.edu.hk"
+        ], 
+        "cite_url": "www.ln.edu.hk/mkt/gcui/", 
+        "cite_name": "Lingnan University", 
+        "title": "Prof. CUI Geng - Lingnan University"
+    }, 
+    {
+        "content": "angela yee man leung. school of ... verified email at hku.hk - homepage  scholar ... ay leung, py wong, se gabriel, jr yankaskas, rc boucher. american...", 
+        "email_list": [
+            "email@hku.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ddvlZNQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Angela Yee Man Leung - Google Scholar Citations"
+    }, 
+    {
+        "content": "name: dr. leung nga man, angel ... email: nmleung@ied.edu.hk. introduction dr angel leung received her doctoral degree from the chinese university of hong ... leung, a. n-m., wong, s.s.f, wong, i. w.y.  mcbride-chang, c. (2010).", 
+        "email_list": [
+            "nmleung@ied.edu.hk"
+        ], 
+        "cite_url": "https://www.ied.edu.hk/ps/view.php?...", 
+        "cite_name": "Hong Kong Institute of Education", 
+        "title": "Department of Psychological Studies - Dr. LEUNG Nga Man ..."
+    }, 
+    {
+        "content": "dr . leung suk man, grace 梁淑雯 bsw,pgdipsocwk,ma hkpu,phd hk,rsw ffff. leung suk man, grace room no.: (cjt)553. email : gsmleung@hku.hk ... leung, g.s.m., lam, d.o.b., chow, a.y.m., wong, d.f.k., chung, c.l.p.  chan,...", 
+        "email_list": [
+            "gsmleung@hku.hk"
+        ], 
+        "cite_url": "www.socialwork.hku.hk/aboutus/bio.php?eid...", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Representative Research Projects - Department of Social ..."
+    }, 
+    {
+        "content": "tel: (852) 3411 7002 fax: (852) 3411 6413 e-mail: frankfu@hkbu.edu.hk. aab 1007 .... lecturer i. wong, ka ki, kilo 黃嘉麒 ... leung, ka man, carman 梁家文.", 
+        "email_list": [
+            "frankfu@hkbu.edu.hk"
+        ], 
+        "cite_url": "pe.hkbu.edu.hk/eng/staff.html", 
+        "cite_name": "Hong Kong Baptist University", 
+        "title": "Staff - HKBU - Department of Physical Education - Hong ..."
+    }
+]

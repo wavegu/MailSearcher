@@ -1,3 +1,20 @@
-guestservices@fi.edu	[3]
-email at cs.stanford.edu	[3]
-guestservices@fi.edu.famous	[3]
+[
+    {
+        "content": "stuart k. card. consulting professor ... verified email at cs.stanford.edu. scholar. get my own profile ... sk card, tp moran, a newell. lawrence erlbaum...", 
+        "email_addr_list": [
+            "email@cs.stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ccCNF08AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Stuart K. Card - Google Scholar Citations"
+    }, 
+    {
+        "content": "stuart k. card ... those early computers were hand-fed information on bulky punch cards threaded ... call or email us at 215.448.1200 or guestservices@fi.edu.", 
+        "email_addr_list": [
+            "guestservices@fi.edu"
+        ], 
+        "cite_url": "https://www.fi.edu/laureates/stuart-k-card", 
+        "cite_name": "", 
+        "title": "Stuart K. Card | The Franklin Institute"
+    }
+]

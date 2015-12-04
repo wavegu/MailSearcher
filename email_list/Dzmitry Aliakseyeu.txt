@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. dzmitry aliakseyeu. philips research ... verified email at philips.com. scholar ... ma nacenta, d aliakseyeu, s subramanian, c gutwin. proceedings of...", 
+        "email_list": [
+            "email@philips.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ZXGcoaoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dzmitry Aliakseyeu - Google Scholar Citations"
+    }, 
+    {
+        "content": "d. aliakseyeu (b). user experiences group, philips research europe, 5656ae eindhoven, the netherlands e-mail: dzmitry.aliakseyeu@philips.com. 223.", 
+        "email_list": [
+            "dzmitry.aliakseyeu@philips.com"
+        ], 
+        "cite_url": "www.scc.lancs.ac.uk/.../TabletopsChapter_AtomicAc...", 
+        "cite_name": "Lancaster University", 
+        "title": "Supporting Atomic User Actions on the Table - School of ..."
+    }, 
+    {
+        "content": "verified email at sdu.dk - homepage  scholar ... s subramanian, d aliakseyeu, a lucero. proceedings of the ... d aliakseyeu, p irani, a lucero, s subramanian.", 
+        "email_list": [
+            "email@sdu.dk"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrés Lucero - Google Scholar Citations"
+    }
+]

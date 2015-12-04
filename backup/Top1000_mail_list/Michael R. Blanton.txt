@@ -1,4 +1,11 @@
-michael.blanton@nyu.a	[29]
-blanton at nyu.edu	[15]
-renbin@pa.uky.edu	[3]
-renbin@pa.uky.edu.scientific	[3]
+[
+    {
+        "content": "phone: (212) 998-7770. email: blanton at nyu.edu. personal home page: ... quiet life on the blue sequence?, blanton, michael r., the astrophysical journal,...", 
+        "email_addr_list": [
+            "blanton@nyu.edu"
+        ], 
+        "cite_url": "ccpp.nyu.edu/michael_blanton.html", 
+        "cite_name": "", 
+        "title": "People  Michael Blanton - NYU CCPP"
+    }
+]

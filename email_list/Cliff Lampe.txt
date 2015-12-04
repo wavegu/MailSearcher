@@ -1,0 +1,29 @@
+[
+    {
+        "content": "clifford lampe. office: 4417 north quad. phone: 517/515-2494. email: cacl@umich.edu. associate professor of information, school of information...", 
+        "email_list": [
+            "cacl@umich.edu"
+        ], 
+        "cite_url": "https://www.si.umich.edu/...", 
+        "cite_name": "University of Michigan School of Information", 
+        "title": "Clifford Lampe | University of Michigan School of Information"
+    }, 
+    {
+        "content": "follow new citations. create alert. cancel. cliff lampe ... verified email at umich.edu. scholar. get my own profile ... nb ellison, c steinfield, c lampe. journal of...", 
+        "email_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=aT8oqcoAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Cliff Lampe - Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about cacl@umich.edu (cliff lampes e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "cacl@umich.edu"
+        ], 
+        "cite_url": "spam-report.email/cacl/umich.edu", 
+        "cite_name": "", 
+        "title": "cacl@umich.edu (Cliff Lampes e-mail) - Spam-Report.Email"
+    }
+]

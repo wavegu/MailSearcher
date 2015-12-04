@@ -1,0 +1,38 @@
+[
+    {
+        "content": "verified email at uwm.edu. scholar ... pk rohatgi, r asthana, s das ... kg satyanarayana, cks pillai, k sukumaran, sgk pillai, pk rohatgi, ... journal of...", 
+        "email_list": [
+            "email@uwm.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yRiGL1EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pradeep Rohatgi - Google Scholar Citations"
+    }, 
+    {
+        "content": "... email: ngupta@nyu.edu; office: rh 502; links: http://engineering.nyu.edu/composites ... rohatgi, p. k., gupta, n. and daoud, a. synthesis and processing of cast metal ... gupta, n. and rohatgi, p. k. (editors) metal matrix syntactic foams:...", 
+        "email_list": [
+            "ngupta@nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/people/nikhil-gupta", 
+        "cite_name": "New York University", 
+        "title": "Nikhil Gupta | NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "daniel beard, ph.d.adjunct professorelectrical engineering beardda@gmail.com ..... pradeep rohatgi, ph.d.professormaterials science  engineering(414)...", 
+        "email_list": [
+            "beardda@gmail.com"
+        ], 
+        "cite_url": "https://uwm.edu/engineering/.../facul...", 
+        "cite_name": "University of Wisconsin–Milwaukee", 
+        "title": "Faculty | Classification | College of Engineering  Applied ..."
+    }, 
+    {
+        "content": "email: asthanar@uwstout.edu. education. ph.d. ..... r. asthana and p.k. rohatgi, synthesis of sic-al alloy composites using low pressure infiltration of sic,.", 
+        "email_list": [
+            "asthanar@uwstout.edu"
+        ], 
+        "cite_url": "https://www.uwstout.edu/.../Asthana-Vita-...", 
+        "cite_name": "University of Wisconsin–Stout", 
+        "title": "[PDF]RAJIV ASTHANA, Ph.D., FASM Department of Engineering ..."
+    }
+]

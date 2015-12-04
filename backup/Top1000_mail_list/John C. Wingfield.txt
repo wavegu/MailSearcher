@@ -1,1 +1,11 @@
-email at ucdavis.edu	[2]
+[
+    {
+        "content": "create alert. cancel. john c. wingfield ... verified email at ucdavis.edu. scholar ... jc wingfield, dl maney, cw breuner, jd jacobs, s lynn, m ramenofsky, .", 
+        "email_addr_list": [
+            "email@ucdavis.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=n_TbX9QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John C. Wingfield - Google Scholar Citations"
+    }
+]

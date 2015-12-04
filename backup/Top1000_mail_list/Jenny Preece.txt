@@ -1,4 +1,29 @@
-jenny.preece@sheffield.ac.uk	[23]
-preece@umd.edu	[13]
-jenny@classicmotorshow.org	[11]
-jenny@classicmotorshow.org.jenny	[11]
+[
+    {
+        "content": "email: jenny.preece@sheffield.ac.uk. room: 4.12. research interests. jenny is a qualitative researcher with experience of working with families to understand...", 
+        "email_addr_list": [
+            "jenny.preece@sheffield.ac.uk"
+        ], 
+        "cite_url": "www.sheffield.ac.uk  ...  People  Academic Staff", 
+        "cite_name": "University of Sheffield", 
+        "title": "Jenny Preece - University of Sheffield"
+    }, 
+    {
+        "content": "personal homepage: http://ischool.umd.edu/faculty-staff/jennifer-j-preece; employer: (); email: preece@umd.edu. jennifer j. preece is dean of the college of...", 
+        "email_addr_list": [
+            "preece@umd.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/jennifer-j-preece", 
+        "cite_name": "", 
+        "title": "Jennifer J. Preece - Interaction Design Foundation"
+    }, 
+    {
+        "content": "all looks great can you send me your email and i can send you some entry forms jenny@classicmotorshow.org.", 
+        "email_addr_list": [
+            "jenny@classicmotorshow.org"
+        ], 
+        "cite_url": "https://www.facebook.com/LittleMollysCrafts/posts/1561054277491525", 
+        "cite_name": "", 
+        "title": "Jenny Preece - all looks great can you send me your email..."
+    }
+]

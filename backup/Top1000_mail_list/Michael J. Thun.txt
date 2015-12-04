@@ -1,3 +1,29 @@
-michael.thun@cancer.org.michael	[23]
-michael.thun@cancer.org	[23]
-mthun@cancer.org	[10]
+[
+    {
+        "content": "michael j. thun, epidemiology and surveillance research, american cancer society, 250 williams street northwest, atlanta, ga ... e-mail: mthun@cancer.org...", 
+        "email_addr_list": [
+            "mthun@cancer.org"
+        ], 
+        "cite_url": "cebp.aacrjournals.org/...", 
+        "cite_name": "Cancer Epidemiology, Biomarkers  Prevention", 
+        "title": "The Association between Cigarette Smoking and Risk of ..."
+    }, 
+    {
+        "content": "michael j. thun, md, msvice president, emeritussurveillance and epidemiology research. michael thun dr. thun ... contact email: michael.thun@cancer.org.", 
+        "email_addr_list": [
+            "michael.thun@cancer.org"
+        ], 
+        "cite_url": "mstage.qa.cancer.org/research/researchprogramsfunding/.../michael-j-thu...", 
+        "cite_name": "", 
+        "title": "Michael J Thun - American Cancer Society"
+    }, 
+    {
+        "content": "michael thun reviews the early studies on the relationship between tobacco smoking ... michael j. thun1. 1950 should ... (email: mthun@cancer.org). ref. no.", 
+        "email_addr_list": [
+            "mthun@cancer.org"
+        ], 
+        "cite_url": "www.who.int/bulletin/volumes/83/2/144.pdf", 
+        "cite_name": "World Health Organization", 
+        "title": "[PDF]Public Health Classics - World Health Organization"
+    }
+]

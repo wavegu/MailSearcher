@@ -1,0 +1,20 @@
+[
+    {
+        "content": "george d. kuh. george d. kuh i retired from indiana university at the end of ... promise initiative. view vita. phone: 812.856.5824. email: kuh@indiana.edu.", 
+        "email_list": [
+            "kuh@indiana.edu"
+        ], 
+        "cite_url": "snaap.indiana.edu/about/staff/george-d-kuh.html", 
+        "cite_name": "Indiana University", 
+        "title": "George D. Kuh - Strategic National Arts Alumni Project"
+    }, 
+    {
+        "content": "george d. kuh award for outstanding contribution to literature and/or research award. named in 2011 for ... phone: (202) 265-7500; email: office@naspa.org.", 
+        "email_list": [
+            "office@naspa.org"
+        ], 
+        "cite_url": "https://www.naspa.org/.../george-d.-kuh-award-for-outstanding-contribut...", 
+        "cite_name": "", 
+        "title": "George D. Kuh Award for Outstanding Contribution ... - NASPA"
+    }
+]

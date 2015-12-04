@@ -1,0 +1,39 @@
+[
+    {
+        "content": "oct 8, 2015 - yu, chang wu (james). professor. dept. of computer ... email: cwyu@chu.edu.tw; james.cwyu@gmail.com. address: 707, sec.2, wufu rd.", 
+        "email_list": [
+            "cwyu@chu.edu.tw", 
+            "james.cwyu@gmail.com"
+        ], 
+        "cite_url": "www.chu.edu.tw/~cwyu/", 
+        "cite_name": "", 
+        "title": "Home Page: Yu, Chang Wu"
+    }, 
+    {
+        "content": "corresponding authors: wu yu-cheng email: ycwu@hfut.edu.cn. cite this article: liu jia-qin; wu yu-cheng; xue ru-jun. electroless plating ni-co-p alloy on...", 
+        "email_list": [
+            "ycwu@hfut.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "WU Yu-cheng; XUE Ru-jun.Electroless Plating Ni-Co-P ..."
+    }, 
+    {
+        "content": "dr yu, cheng-han 游承翰 ... office: l1-59, laboratory block, 21 sassoon road, hong kong; email: chyu1@hku.hk; tel: +852 3917 ... christensen, steven m. abel, jeff iwig, hung-jen wu, jodi gureasko, christopher rhodes, rebecca s. petit,...", 
+        "email_list": [
+            "chyu1@hku.hk"
+        ], 
+        "cite_url": "www.anatomy.hku.hk/research/.../index.html", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Dr YU, Cheng-han"
+    }, 
+    {
+        "content": "yu-cheng chen. phd student, university of ... verified email at ntu.edu.tw - homepage  scholar ... ch cheng, yc chen, p wu, h chen, s lee. ieee, 2013.", 
+        "email_list": [
+            "email@ntu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AVXuAokAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yu-Cheng Chen - Google Scholar Citations"
+    }
+]

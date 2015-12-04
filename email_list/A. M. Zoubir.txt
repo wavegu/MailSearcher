@@ -1,0 +1,47 @@
+[
+    {
+        "content": "verified email at spg.tu-darmstadt.de - homepage  scholar. get my own ... am zoubir, dr iskander ... am zoubir, ij chant, cl brown, b barkat, c abeynayake.", 
+        "email_list": [
+            "email@spg.tu-darmstadt.de"
+        ], 
+        "cite_url": "scholar.google.pl/citations?user=QitM1nQAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Abdelhak M. Zoubir - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at spg.tu-darmstadt.de. scholar. get my own profile. google scholar ... g gul, am zoubir. acoustics, speech and signal processing (icassp),...", 
+        "email_list": [
+            "email@spg.tu-darmstadt.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=bVGqHygAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gokhan GUL - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 18, 2013 - hibs manager pat fenlon signed 21-year-old zoubir on loan from french ligue 2 side istres on transfer deadline day to add ... “its clear to me that futsal has made me the player that i am. .... email: reception@scotsman.com.", 
+        "email_list": [
+            "reception@scotsman.com"
+        ], 
+        "cite_url": "www.edinburghnews.scotsman.com/.../exclusiv...", 
+        "cite_name": "Edinburgh Evening News", 
+        "title": "Exclusive: Zoubir reveals secret behind skills - Edinburgh ..."
+    }, 
+    {
+        "content": "new to twitter? sign up  aiman zoubir ... @mariacomes zubaira@aljazeera.net este es mi email. 12:51 am - 18 jul 2012. madrid, spain. 0 retweets 0 favorites.", 
+        "email_list": [
+            "zubaira@aljazeera.net"
+        ], 
+        "cite_url": "https://twitter.com/aimani25/status/225497968759947266", 
+        "cite_name": "", 
+        "title": "Aiman Zoubir on Twitter: @MariaComes zubaira ..."
+    }, 
+    {
+        "content": "verified email at ericsson.com. scholar. get my own profile ... f yin, c fritsche, f gustafsson, am zoubir. signal processing, ieee ... f yin, c debes, am zoubir.", 
+        "email_list": [
+            "email@ericsson.com"
+        ], 
+        "cite_url": "0-scholar.google.com.brum.beds.ac.uk/citations?user...hl=en", 
+        "cite_name": "", 
+        "title": "Feng YIN - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "sep 14, 2010 - tang changjie, cjtang@scu.edu..cn http://cs.scu.edu.cn/~ ... yang hongyu. yuan daohua. zhang yi. zhangyi@scu.edu.cn ... mail to president.", 
+        "email_list": [
+            "cjtang@scu.edu", 
+            "zhangyi@scu.edu.cn"
+        ], 
+        "cite_url": "www.scu.edu.cn/computer/.../H670301index_1.htm", 
+        "cite_name": "Sichuan University", 
+        "title": "Professors"
+    }, 
+    {
+        "content": "jun 3, 2012 - jie zhang. title: professor, academician. email: jzhang1@sjtu.edu.cn ... professor zhang is a prominent scientist for his pioneering ... wang, yj tang, jq zhu, g zhao, zm sheng and j zhang* (*corresponding author), phys.", 
+        "email_list": [
+            "jzhang1@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.physics.sjtu.edu.cn/en/people/.../jzha...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Zhang jie | Department of Physics and Astronomy Shanghai ..."
+    }, 
+    {
+        "content": "verified email at tsinghua.edu.cn - homepage  scholar ... j tang, j zhang, l yao, j li, l zhang, z su ... c wang, j han, y jia, j tang, d zhang, y yu, j guo.", 
+        "email_list": [
+            "email@tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=n1zDCkQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Tang Jie - Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about ctang3@juno.com (chang-jie tangs e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "ctang3@juno.com"
+        ], 
+        "cite_url": "spam-report.email/ctang3/juno.com", 
+        "cite_name": "", 
+        "title": "ctang3@juno.com (Chang-jie Tangs e-mail) - Spam-Report ..."
+    }
+]

@@ -1,8 +1,47 @@
-martonosi@princeton.edu.margaret	[20]
-martonosi@princeton.edu	[20]
-email at princeton.edu.margaret	[18]
-email at princeton.edu	[3]
-bose.mrm@princeton.edu	[3]
-lastname@princeton.edu	[3]
-mrm@princeton.edu	[3]
-dbrooks@ee.princeton.edu	[1]
+[
+    {
+        "content": "margaret martonosi. dept. of computer sci. cs building, room 410 ... email: lastname@princeton.edu. office: (609) 258-1912. hugh trumbull adams 35...", 
+        "email_addr_list": [
+            "lastname@princeton.edu"
+        ], 
+        "cite_url": "https://www.princeton.edu/~mrm/", 
+        "cite_name": "Princeton University", 
+        "title": "Margaret Martonosi - Princeton University"
+    }, 
+    {
+        "content": "-margaret martonosi-. margaret r. martonosi. computer science bldg, room 204. 35 olden st. princeton, nj 08540. email: martonosi@princeton.edu.", 
+        "email_addr_list": [
+            "martonosi@princeton.edu"
+        ], 
+        "cite_url": "www.princeton.edu/~mrm/current_cv.pdf", 
+        "cite_name": "Princeton University", 
+        "title": "[PDF]Margaret R. Martonosi - Princeton University"
+    }, 
+    {
+        "content": "margaret martonosi. professor of computer science, princeton university  computer architecture and mobile computing. verified email at princeton.edu.", 
+        "email_addr_list": [
+            "email@princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tgYsFS0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Margaret Martonosi - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: dbrooks@ee.princeton.edu. office phone: ... advisor: professor margaret martonosi ... david brooks, j.d. wellman, margaret martonosi, and pradip bose.", 
+        "email_addr_list": [
+            "dbrooks@ee.princeton.edu"
+        ], 
+        "cite_url": "www.eecs.harvard.edu/.../dbrooks_dec00_cv.pdf", 
+        "cite_name": "Harvard University", 
+        "title": "[PDF]David M. Brooks - Computer Science"
+    }, 
+    {
+        "content": "cos598b mobile computing (spring 2012) last revision: 2/20/2012 instructor: professor margaret martonosi mrm@princeton.edu where and when: mondays...", 
+        "email_addr_list": [
+            "mrm@princeton.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mrm-princeton-edu-5181054.htmwww.google.com/email", 
+        "cite_name": "", 
+        "title": "mrm@princeton.edu - The Email ArchiveGoogle Business Email - Custom email for your company‎"
+    }
+]

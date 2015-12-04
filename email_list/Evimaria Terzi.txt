@@ -1,0 +1,29 @@
+[
+    {
+        "content": "evimaria terzi. assistant professor evimaria terzi. title:associate professor. office: mcs 280. email: evimaria@bu.edu. phone: 617-358-5851. education: phd...", 
+        "email_list": [
+            "evimaria@bu.edu"
+        ], 
+        "cite_url": "www.bu.edu/cs/evimaria-terzi/", 
+        "cite_name": "Boston University", 
+        "title": "Evimaria Terzi » Computer Science | Boston University"
+    }, 
+    {
+        "content": "evimaria terzi. associate professor of ... verified email at cs.bu.edu. scholar. get my own profile ... e bertino, e terzi, a kamra, a vakali. computer security...", 
+        "email_list": [
+            "email@cs.bu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=j6KFCRAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Evimaria Terzi - Google Scholar Citations"
+    }, 
+    {
+        "content": "evimaria terzi is an assistant professor at the computer science dept at boston university. ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/evimaria_terzi/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Evimaria Terzi - VideoLectures.NET"
+    }
+]

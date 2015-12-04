@@ -1,0 +1,39 @@
+[
+    {
+        "content": "oct 11, 2012 - keun ho ryu, e-mail: khryu@dblab.chungbuk.ac.kr. received may 29, 2012. ... for permissions, please email: journals.permissions@oup.com...", 
+        "email_list": [
+            "khryu@dblab.chungbuk.ac.kr", 
+            "journals.permissions@oup.com"
+        ], 
+        "cite_url": "bioinformatics.oxfordjournals.org/.../bioinformatics.bts602", 
+        "cite_name": "Bioinformatics", 
+        "title": "bts602v1 - Bioinformatics - Oxford Journals"
+    }, 
+    {
+        "content": "jul 29, 2014 - keun ho ryu, database/bioinformatics laboratory, college of electrical and computer engineering, ... email: khryu@dblab.chungbuk.ac.kr...", 
+        "email_list": [
+            "khryu@dblab.chungbuk.ac.kr"
+        ], 
+        "cite_url": "jis.sagepub.com/.../07/.../016555151454409...", 
+        "cite_name": "Journal of Information Science", 
+        "title": "MapReduce-based web mining for prediction of web-user ..."
+    }, 
+    {
+        "content": "apr 23, 2015 - tsendsuren munkhdalai, oyun-erdene namsrai and keun ho ryu*. * corresponding author: keun h ryu khryu@dblab.chungbuk.ac.kr.", 
+        "email_list": [
+            "khryu@dblab.chungbuk.ac.kr"
+        ], 
+        "cite_url": "www.biomedcentral.com/1471-2105/16/S7/S6/abstract", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Bioinformatics | Abstract | Self-training in significance ..."
+    }, 
+    {
+        "content": "... must list the planned panelists, together with their affiliations and email addresses. ... tutorials chair, ling feng (fengling@tsinghua.edu.cn) and keun ho ryu...", 
+        "email_list": [
+            "fengling@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.neu.edu.cn/APWeb08/.../panels_tutorials.ht...", 
+        "cite_name": "Northeastern University", 
+        "title": "Panels  Tutorials"
+    }
+]

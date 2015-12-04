@@ -1,3 +1,29 @@
-email at npg.wustl.edu	[3]
-avi@npg.wustl.edu	[2]
-jonathan.power@nih.gov	[2]
+[
+    {
+        "content": "abraham z. snyder, ph.d., m.d.. research ... mo 63110 usa. email: avi@npg.wustl.edu ... michelon p, snyder az, buckner rl, mcavoy m, zacks jm. neural...", 
+        "email_addr_list": [
+            "avi@npg.wustl.edu"
+        ], 
+        "cite_url": "www.nil.wustl.edu/labs/snyder/", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "Abraham Z. Snyder, Ph.D., M.D."
+    }, 
+    {
+        "content": "abraham z. snyder. reserach professor of ... verified email at npg.wustl.edu. scholar ... md fox, az snyder, jl vincent, m corbetta, dc van essen, me raichle.", 
+        "email_addr_list": [
+            "email@npg.wustl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fBx1kaMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Abraham Z. Snyder - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: jonathan.power@nih.gov. education ... john r. pruett, jr., sridhar kandala, sarah hoertel, abraham z. snyder, jed t. elison, tomoyuki. nishino, eric...", 
+        "email_addr_list": [
+            "jonathan.power@nih.gov"
+        ], 
+        "cite_url": "www.jonathanpower.net/uploads/4/6/5/6/.../15.03.06_power_cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CV - Jonathan Power"
+    }
+]

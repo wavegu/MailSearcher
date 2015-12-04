@@ -1,5 +1,20 @@
-r-schultz@tamu.edu	[16]
-rschultz@liberty.roger	[16]
-smata@msjc.edu	[2]
-info@memorialdocs.com.administrative	[1]
-info@memorialdocs.com	[1]
+[
+    {
+        "content": "roger schultz ... email address: r-schultz@tamu.edu ... and educational theatre for forty years, dr. schultz (ph.d., university of california, santa barbara) served...", 
+        "email_addr_list": [
+            "r-schultz@tamu.edu"
+        ], 
+        "cite_url": "perf.tamu.edu/blog/people/roger-scultz/", 
+        "cite_name": "Texas AM University", 
+        "title": "Roger Schultz - Department of – Performance Studies"
+    }, 
+    {
+        "content": "roger schultz. john levins ... to receive the invitation email. you may also register your email with us by sending an email to info@memorialdocs.com.", 
+        "email_addr_list": [
+            "info@memorialdocs.com"
+        ], 
+        "cite_url": "www.memorialdocs.com/", 
+        "cite_name": "", 
+        "title": "Memorial Clinical Associates | Houston, Texas"
+    }
+]

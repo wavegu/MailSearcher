@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email a friendprint page ... e matthias.wagner@simmons-simmons.com ... matthias is a lawyer and certified specialist in tenancy law (fachanwalt für miet- und...", 
+        "email_list": [
+            "matthias.wagner@simmons-simmons.com"
+        ], 
+        "cite_url": "www.simmons-simmons.com/en/.../Matthias-Wagn...", 
+        "cite_name": "Simmons  Simmons", 
+        "title": "Matthias Wagner - Simmons  Simmons"
+    }, 
+    {
+        "content": "mathias wagner. mathias-wagner-250px fraktionsvorsitzender sprecher für ... e-mail regionalbüro: regionalbuero@mathiaswagner.de mitarbeiterinnen: evita...", 
+        "email_list": [
+            "regionalbuero@mathiaswagner.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Mathias Wagner - Bündnis 90/Die Grünen in Hessen"
+    }
+]

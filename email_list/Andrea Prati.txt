@@ -1,0 +1,39 @@
+[
+    {
+        "content": "andrea prati. professor of computer ... verified email at iuav.it. scholar. get my own profile ... r cucchiara, c grana, m piccardi, a prati, s sirotti. intelligent...", 
+        "email_list": [
+            "email@iuav.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PJAxU3QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrea Prati - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 30, 2014 - interested candidates should send via email their cv, at least two representative papers, and the names of at ... email: andrea.prati@iuav.it.", 
+        "email_list": [
+            "andrea.prati@iuav.it"
+        ], 
+        "cite_url": "pg.njupt.edu.cn/s/26/t/775/f9/ac/info63916.htm", 
+        "cite_name": "", 
+        "title": "Postdoctoral position in Venice, Italy"
+    }, 
+    {
+        "content": "andrea prati ... contatti. e-mail: andrea.prati6@unibo.it. scuola di ... contattare il docente allindirizzo di posta elettronica istituzionale (andrea.prati6@unibo.it)...", 
+        "email_list": [
+            "andrea.prati6@unibo.it", 
+            "andrea.prati6@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../andrea.p...", 
+        "cite_name": "University of Bologna", 
+        "title": "Andrea Prati — Università di Bologna — Home Page"
+    }, 
+    {
+        "content": "university iuav of venice. santa croce 1957 - 30135 venezia, italy. email:andrea.prati@iuav.it. abstract—real-time ellipse detection is an important yet chal-.", 
+        "email_list": [
+            "andrea.prati@iuav.it"
+        ], 
+        "cite_url": "imagelab.ing.unimore.it/imagelab/.../2012ICDSCFornaciariPrati.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Very Fast Ellipse Detection for Embedded Vision ... - Imagelab"
+    }
+]

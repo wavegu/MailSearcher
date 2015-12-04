@@ -1,0 +1,47 @@
+[
+    {
+        "content": "tanya gained her law degree at university of birmingham graduating with honours ... 020 7436 4663. email: tbarrett@moonbeever.com. practice area litigation", 
+        "email_list": [
+            "tbarrett@moonbeever.com"
+        ], 
+        "cite_url": "www.moonbeever.com/about-moon-beever-solicitors/.../tanya-barrett", 
+        "cite_name": "", 
+        "title": "Tanya Barrett - Moon Beever Solicitors"
+    }, 
+    {
+        "content": "tanya barrett. residential sales. vcard ... mobile: 0408 400 191. fax: 02 9969 7859. email: tanya@rwm.com.au. tanya barrett. with more than 15 years...", 
+        "email_list": [
+            "tanya@rwm.com.au"
+        ], 
+        "cite_url": "www.randw.com.au/staff-profiles/2685-tanya-barrett.html", 
+        "cite_name": "", 
+        "title": "Tanya Barrett - Richardson and Wrench Real Estate"
+    }, 
+    {
+        "content": "tanya barrett. ncbi, nlm ... verified email at ncbi.nlm.nih.gov - homepage  scholar ... t barrett, db troup, se wilhite, p ledoux, d rudnev, c evangelista, .", 
+        "email_list": [
+            "email@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dFRNgSgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tanya Barrett - Google Scholar Citations"
+    }, 
+    {
+        "content": "my name is tanya barrett and i am your childs gifted teacher for the 2014 – 2015 school year. it is with great ... email address: tcbarrett@atlanta.k12.ga.us", 
+        "email_list": [
+            "tcbarrett@atlanta.k12.ga.us"
+        ], 
+        "cite_url": "www.atlanta.k12.ga.us/Domain/4777", 
+        "cite_name": "Atlanta Public Schools", 
+        "title": "Tanya Barretts Gifted Class / Overview"
+    }, 
+    {
+        "content": "tanya barrett. primary tabs. profile(active ... tanya. barrett. ncbi (geo, biosample, bioproject), ga4gh. email: barrett@ncbi.nlm.nih.gov. group membership:.", 
+        "email_list": [
+            "barrett@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "https://biocaddie.org/users/tanya-barrett", 
+        "cite_name": "", 
+        "title": "Tanya Barrett | bioCADDIE"
+    }
+]

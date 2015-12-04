@@ -1,0 +1,29 @@
+[
+    {
+        "content": "luque, emilio picture. name: luque, emilio. telephone: 935811356. email: emilio.luque at uab.es. university full professor...", 
+        "email_list": [
+            "emilio.luque@uab.es"
+        ], 
+        "cite_url": "caos.uab.es/staff.php?id=2", 
+        "cite_name": "", 
+        "title": "Emilio Luque - :: CAOS :: Computer Architecture  Operating ..."
+    }, 
+    {
+        "content": "create alert. cancel. emilio luque. catedrático (uab). computación paralela, simulación. verified email at uab.es ... e heymann, ma senar, e luque, m livny.", 
+        "email_list": [
+            "email@uab.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JJVRy9cAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Emilio Luque - Google Scholar Citations"
+    }, 
+    {
+        "content": "mail emilio.luque@uab.cat. web computer architecture  operating systems department. research lines: parallel computer architecture; programming tools...", 
+        "email_list": [
+            "emilio.luque@uab.cat"
+        ], 
+        "cite_url": "grupsderecerca.uab.cat/.../Emilio.L...", 
+        "cite_name": "Autonomous University of Barcelona", 
+        "title": "Emilio.Luque - Universitat Autònoma de Barcelona"
+    }
+]

@@ -1,2 +1,20 @@
-karen.masters@port.ac.uk	[3]
-knox@flight.uchicago.edu	[2]
+[
+    {
+        "content": "department of astronomy and astrophysics, university of chicago, chicago, illinois 60637, usa, email: knox@flight.uchicago.edu and. robert c. nichol.", 
+        "email_addr_list": [
+            "knox@flight.uchicago.edu"
+        ], 
+        "cite_url": "cds.cern.ch/record/475493/files/0011069.pdf", 
+        "cite_name": "CERN", 
+        "title": "[PDF]THE ANGULAR POWER SPECTRUM OF EDSGC ..."
+    }, 
+    {
+        "content": "e-mail: karen.masters@port.ac.uk. burnaby road .... galaxy zoo: bars in disk galaxies, karen l. masters, robert c. nichol, ben hoyle, et al. 2011 mnras 411...", 
+        "email_addr_list": [
+            "karen.masters@port.ac.uk"
+        ], 
+        "cite_url": "icg.port.ac.uk/~mastersk/cv_masters.pdf", 
+        "cite_name": "University of Portsmouth", 
+        "title": "[PDF]Karen L. Masters"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "content": "minjeong kim, graduate school of education ... email: minjeong_kim@uml.edu ... 2006, s. y., kim, m. j.  kim, y.w. conceptualizing early childhood literacy...", 
+        "email_list": [
+            "minjeong_kim@uml.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Massachusetts Lowell", 
+        "title": "MinJeong Kim - UMass Lowell"
+    }, 
+    {
+        "content": "name: minjeong kim. department: ... email: minjeong.kim@colostate.edu. linkedin ... minjeong studies communication law and policy, and digital media.", 
+        "email_list": [
+            "minjeong.kim@colostate.edu"
+        ], 
+        "cite_url": "central.colostate.edu/people/mjkimo/", 
+        "cite_name": "Colorado State University", 
+        "title": "Minjeong Kim | CLA Central"
+    }, 
+    {
+        "content": "email: min-jeong.kim@colostate.edu or min-jeong.kim@noaa.gov. mailing address: noaa ncwcp 5830 university research court college park, md 20740...", 
+        "email_list": [
+            "min-jeong.kim@colostate.edu", 
+            "min-jeong.kim@noaa.gov"
+        ], 
+        "cite_url": "wwwold.cira.colostate.edu/people/view.php?id=370", 
+        "cite_name": "", 
+        "title": "Kim, Min-Jeong - CIRA - Colorado State University"
+    }, 
+    {
+        "content": "aug 25, 2015 - email: kim2017@indiana.edu. phone: (812) 855-4053. minjeong kim dr. minjeong kim is an associate professor in the department of apparel...", 
+        "email_list": [
+            "kim2017@indiana.edu"
+        ], 
+        "cite_url": "design.indiana.edu/rdmg/faculty_kim2.shtml", 
+        "cite_name": "", 
+        "title": "Faculty | Retail Design + Merchandising Group | Department ..."
+    }, 
+    {
+        "content": "min jeong kim responsible officer for the preparation of the written report. office number, c.036. email: mj.kim@unesco.org. work phone, +33 (0) 1 45 68 52...", 
+        "email_list": [
+            "mj.kim@unesco.org"
+        ], 
+        "cite_url": "portal.unesco.org/.../ev.php-URL_ID=29453URL_DO=DO_...", 
+        "cite_name": "UNESCO", 
+        "title": "Min Jeong Kim - Unesco"
+    }, 
+    {
+        "content": "minjeong kim. indiana university  consumer behavior. verified email at indiana.edu ... sj lennon, m kim, kkp johnson, ld jolly, ml damhorst, cr jasper.", 
+        "email_list": [
+            "email@indiana.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VBgxQTwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Minjeong Kim - Google Scholar Citations"
+    }, 
+    {
+        "content": "minjeong kim. unc chapel hill ... verified email at med.unc.edu - homepage  scholar ... y li, v jewells, m kim, y chen, a moon, d armao, l troiani, ... human...", 
+        "email_list": [
+            "email@med.unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=m26d_0cAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Minjeong Kim - Google Scholar Citations"
+    }, 
+    {
+        "content": "minjeong kim ... email: mkim@mail.sdsu.edu  curriculum vita (.pdf). originally from south korea, minjeong kim studied womens studies (m.a.) and sociology...", 
+        "email_list": [
+            "mkim@mail.sdsu.edu"
+        ], 
+        "cite_url": "sociology.sdsu.edu/faculty/bios/kim.html", 
+        "cite_name": "San Diego State University", 
+        "title": "Minjeong Kim - Department of Sociology, San Diego State ..."
+    }
+]

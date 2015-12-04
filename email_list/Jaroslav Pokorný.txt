@@ -1,0 +1,57 @@
+[
+    {
+        "content": "titul před: prof. mudr. jméno: jaroslav. přijmení: pokorný. titul za: drsc. email: jaroslav.pokorny@lf1.cuni.cz. telefon: 224968416...", 
+        "email_list": [
+            "jaroslav.pokorny@lf1.cuni.cz"
+        ], 
+        "cite_url": "...", 
+        "cite_name": "First Faculty of Medicine, Charles University in Prague", 
+        "title": "Pokorný Jaroslav - 1. lékařská fakulta Univerzity Karlovy"
+    }, 
+    {
+        "content": "jaroslav pokorny ... verified email at ksi.mff.cuni.cz ... j pokorny. database engineering and applications symposium, 2000 international, 266-274, 2000.", 
+        "email_list": [
+            "email@ksi.mff.cuni.cz"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5ZKEor8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jaroslav Pokorny - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: david.homer@nemocnicekladno.cz e-mail asistentka: alice.mladkova@nemocnicekladno.cz. ekonomicko obchodní náměstek: ing. jaroslav pokorný tel.", 
+        "email_list": [
+            "david.homer@nemocnicekladno.cz", 
+            "alice.mladkova@nemocnicekladno.cz"
+        ], 
+        "cite_url": "www.nemkladno.cz/cz/nemocnice/.../sub-submenu-1/", 
+        "cite_name": "", 
+        "title": "Oblastní nemocnice Kladno, a.s. - Rozdělení společnosti"
+    }, 
+    {
+        "content": "... a hodnocení Čalounictví jaroslav pokorný, Čerčany nabídka čalounických, autočalounických, truhlářských a lakýrnických prací. ... jaroslav.pokorny@email.cz...", 
+        "email_list": [
+            "jaroslav.pokorny@email.cz"
+        ], 
+        "cite_url": "www.firmy.cz/.../629059-calounictvi-jaroslav-pokorn...", 
+        "cite_name": "", 
+        "title": "Čalounictví Jaroslav Pokorný (Čerčany) • Firmy.cz"
+    }, 
+    {
+        "content": "jaroslav pokorny. 2 ... university, fel, department of computers, karlovo nam 13, praha 3, czech republic; (email: ... (email: pokorny@ksi.ms.mff.cuni.cz)...", 
+        "email_list": [
+            "pokorny@ksi.ms.mff.cuni.cz"
+        ], 
+        "cite_url": "https://www.cs.cas.cz/.../04-0...", 
+        "cite_name": "Academy of Sciences of the Czech Republic", 
+        "title": "[PDF]A MEDIATION LAYER FOR HETEROGENEOUS XML ..."
+    }, 
+    {
+        "content": "jaroslav pokorný kojátky. zajišťujeme realitní činnost. ... jaroslav pokorný. zprostředkování velkoobchodu ... 5, kojátky, 685 01. e-mail, pokorny.jarek@email.cz...", 
+        "email_list": [
+            "pokorny.jarek@email.cz"
+        ], 
+        "cite_url": "www.1188.cz/423117-jaroslav-pokorny-kojatky", 
+        "cite_name": "", 
+        "title": "Jaroslav Pokorný Kojátky - 1188"
+    }
+]

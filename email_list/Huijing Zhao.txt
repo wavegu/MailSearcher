@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. huijing zhao. school of ... verified email at cis.pku.edu.cn - homepage  scholar ... x shao, h zhao, k nakamura, k katabira, r shibasaki, y nakagawa.", 
+        "email_list": [
+            "email@cis.pku.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=q-aZF-kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Huijing Zhao - Google Scholar Citations"
+    }
+]

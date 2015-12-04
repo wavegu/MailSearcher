@@ -1,2 +1,11 @@
-engineering at google.nae	[2]
-email at acm.org	[2]
+[
+    {
+        "content": "prabhakar raghavans home page at stanford. i work at google. ... you can reach me by email at acm.org. my userid is an anagram of graph and consists of my...", 
+        "email_addr_list": [
+            "email@acm.org"
+        ], 
+        "cite_url": "theory.stanford.edu/~pragh/", 
+        "cite_name": "", 
+        "title": "Prabhakar Raghavan - Stanford CS Theory"
+    }
+]

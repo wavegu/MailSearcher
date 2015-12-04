@@ -1,0 +1,21 @@
+[
+    {
+        "content": "cancel. yajun wang ... verified email at microsoft.com. scholar ... w chen, a collins, r cummings, t ke, z liu, d rincon, x sun, y wang, ... sdm 11, 379-390,...", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ek8r82kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yajun Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "jul 8, 2014 - yajun wang, the robert h. smith school of business at the university of maryland ... email: yedan1220@126.com, zhangminjie234@163.com.", 
+        "email_list": [
+            "yedan1220@126.com", 
+            "zhangminjie234@163.com"
+        ], 
+        "cite_url": "ifs.swufe.edu.cn/en/index.php?go=product-78.html", 
+        "cite_name": "", 
+        "title": "Prof. Yajun Wang from the University of Maryland: Classical ..."
+    }
+]

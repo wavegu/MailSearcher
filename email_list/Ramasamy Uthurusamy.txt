@@ -1,0 +1,20 @@
+[
+    {
+        "content": "ramasamy uthurusamy. search externally: google scholar, ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48. facebook  twitter  blog  rss...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/ramasamy_uthurusamy/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Ramasamy Uthurusamy - VideoLectures.NET"
+    }, 
+    {
+        "content": "please email nomination materials by june 30, 2008 to ramasamy uthurusamy, samy at gm dot com. acm sigkdd innovation award. one sigkdd innovation...", 
+        "email_list": [
+            "samy@gm.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "SIGKDD 2008 Innovation and Service awards, nomination ..."
+    }
+]

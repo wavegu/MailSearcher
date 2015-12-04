@@ -1,3 +1,20 @@
-vincenzo.barone@sns.it	[29]
-barone@to.infn.it	[13]
-monica.sanna@sns.it	[1]
+[
+    {
+        "content": "e-mail: vincenzo.barone@sns.it web: dreams.sns.it/. the main research interests of vincenzo barone are related to a theoretical microscopic approach for the...", 
+        "email_addr_list": [
+            "vincenzo.barone@sns.it"
+        ], 
+        "cite_url": "www.sns.it  ...  Professori", 
+        "cite_name": "Scuola Normale Superiore di Pisa", 
+        "title": "Barone Vincenzo | Scuola Normale Superiore"
+    }, 
+    {
+        "content": "vincenzo barone new dean of class of sciences, sns ... the materials of the future have been experimented at scuola normale superiore through a project of professor barone funded by the european union ... email: monica.sanna@sns.it...", 
+        "email_addr_list": [
+            "monica.sanna@sns.it"
+        ], 
+        "cite_url": "dreamslab.sns.it/", 
+        "cite_name": "Scuola Normale Superiore di Pisa", 
+        "title": "Dreamslab"
+    }
+]

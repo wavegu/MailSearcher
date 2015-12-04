@@ -1,0 +1,38 @@
+[
+    {
+        "content": "qibin zhao. research scientist ... verified email at brain.riken.jp - homepage  scholar ... a cichocki, d mandic, l de lathauwer, g zhou, q zhao, c caiafa, .", 
+        "email_list": [
+            "email@brain.riken.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=cSQGe3YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Qibin Zhao - Google Scholar Citations"
+    }, 
+    {
+        "content": "qibin zhao. nanophotonics centre  people  academic staff ... qibin zhao. email: qz231@cam.ac.uk. office phone: +44 (0) 1223 7 61671. download as vcard...", 
+        "email_list": [
+            "qz231@cam.ac.uk"
+        ], 
+        "cite_url": "www.np.phy.cam.ac.uk/people/qz231", 
+        "cite_name": "University of Cambridge", 
+        "title": "Qibin Zhao — NanoPhotonics Centre"
+    }, 
+    {
+        "content": "qibin zhao. ph.d candidate. ¡¡. 800 dongchuan road, minhang district, ... shanghai, china. telephone: +86-21-34204421. email: qbzhao@sjtu.edu.cn. ¡¡. ¡¡...", 
+        "email_list": [
+            "qbzhao@sjtu.edu.cn"
+        ], 
+        "cite_url": "bcmi.sjtu.edu.cn/~zhaoqibin/", 
+        "cite_name": "", 
+        "title": "Qibin Zhaos Homepage"
+    }, 
+    {
+        "content": "incremental common spatial pattern algorithm for bci qibin zhao, liqing zhang, ... jiao tong university, shanghai, china (email: zhang-lq@cs.sjtu.edu.cn.)...", 
+        "email_list": [
+            "zhang-lq@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "www.academia.edu/.../Incremental_Common_Spatial_Patt...", 
+        "cite_name": "Academia.edu", 
+        "title": "Common Spatial Pattern algorithm - Academia.edu"
+    }
+]

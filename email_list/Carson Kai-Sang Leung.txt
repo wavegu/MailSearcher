@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dr. carson kai-sang leung full professor, computer science founder  director, database  data mining lab. e-mail: kleung [at] cs.umanitoba.ca. e-mail:...", 
+        "email_list": [
+            "kleung@cs.umanitoba.ca"
+        ], 
+        "cite_url": "www.cs.umanitoba.ca/~kleung/", 
+        "cite_name": "University of Manitoba", 
+        "title": "Dr. Carson Kai-Sang Leung"
+    }, 
+    {
+        "content": "carson kai-sang leung. university of manitoba dept. of computer science canada. e-mail: kleung@cs.umanitoba.ca. website:...", 
+        "email_list": [
+            "kleung@cs.umanitoba.ca"
+        ], 
+        "cite_url": "www.springerreference.com/docs/biopage/15747.html", 
+        "cite_name": "", 
+        "title": "Prof. Carson Kai-Sang Leung - SpringerReference"
+    }, 
+    {
+        "content": "email: trinity@inha.ac.kr ... 31(2):115-134 (2013); wookey lee, carson kai-sang leung, justin jongsu song, chris soo-hyun eom: a network-flow based...", 
+        "email_list": [
+            "trinity@inha.ac.kr"
+        ], 
+        "cite_url": "informatics.inha.ac.kr/", 
+        "cite_name": "", 
+        "title": "ITLAB"
+    }, 
+    {
+        "content": "carson kai-sang leung. login: kleung; position: post-doc; office: 233; local: 2-4912 [(604)822-4912]; email: kleung [at] cs.ubc.ca...", 
+        "email_list": [
+            "kleung@cs.ubc.ca"
+        ], 
+        "cite_url": "www.cs.ubc.ca/~kleung/pub.html", 
+        "cite_name": "University of British Columbia", 
+        "title": "Public Directory"
+    }, 
+    {
+        "content": "carson kai-sang leung. department of computer science. university of manitoba. winnipeg, mb, canada. email: kleung@cs.umanitoba.ca. justin jongsu...", 
+        "email_list": [
+            "kleung@cs.umanitoba.ca"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0703...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Reducing Noises for Recall-Oriented Patent Retrieval - IEEE ..."
+    }
+]

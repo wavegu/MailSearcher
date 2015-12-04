@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aug 26, 2014 - prof. dr. tobias hertel. chair room: 123. phone: +49-(0)931-31-86300 (direct) +49-(0)931-31-86301 (secr.) e-mail: hertel@uni-wuerzburg.de.", 
+        "email_list": [
+            "hertel@uni-wuerzburg.de"
+        ], 
+        "cite_url": "www.phys-chemie.uni-wuerzburg.de/...hertel/.../prof_...", 
+        "cite_name": "", 
+        "title": "Lehrstuhl für physikalische Chemie II: Prof. Dr. Tobias Hertel"
+    }, 
+    {
+        "content": "tobias hertel. chaired professor of ... verified email at uni-wuerzburg.de - homepage  scholar ... r martel, t schmidt, hr shea, t hertel, p avouris. applied...", 
+        "email_list": [
+            "email@uni-wuerzburg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sfNXCJgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tobias Hertel - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 25, 2015 - tobias hertel. tobiashertel. esr11. tobias hertel. e-mail: tobias.hertel@mtm.kuleuven.be. 05/2015 – ongoing: mtm, ku leuven/belgium.", 
+        "email_list": [
+            "tobias.hertel@mtm.kuleuven.be"
+        ], 
+        "cite_url": "etn.redmud.org/team/tobias-hertel/", 
+        "cite_name": "", 
+        "title": "Tobias Hertel | European Training Network for Zero-Waste ..."
+    }
+]

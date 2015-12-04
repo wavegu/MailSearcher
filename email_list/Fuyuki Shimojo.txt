@@ -1,0 +1,20 @@
+[
+    {
+        "content": "feb 2, 2015 - arifin@gmail.com; ph +81-90-6632-8197. top of page; abstract ... yasushi shibuta , kohei shimamura , rizal arifin , fuyuki shimojo. chemical...", 
+        "email_list": [
+            "arifin@gmail.com"
+        ], 
+        "cite_url": "pubs.acs.org/doi/abs/10.1021/jp512148b", 
+        "cite_name": "American Chemical Society", 
+        "title": "Ab Initio Molecular Dynamics Simulation of Ethylene ..."
+    }, 
+    {
+        "content": "may 28, 2014 - email: anakano@usc.edu. collaborators: fuyuki shimojo, kohei shimamura (kumamoto, japan). manaschai kunaseth (nanotec, thailand).", 
+        "email_list": [
+            "anakano@usc.edu"
+        ], 
+        "cite_url": "spscicomp.org/wordpress/wp-content/.../05/Nakano-ScicomP-small.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]download slides - ScicomP"
+    }
+]

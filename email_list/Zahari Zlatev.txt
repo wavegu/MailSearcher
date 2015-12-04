@@ -1,0 +1,30 @@
+[
+    {
+        "content": "telephone, e-mail and addresses. search for all employees at aarhus ... zahari zlatev. emeritus. overview ... e-mail: envs@au.dk. phone: (+45) 8715 0000.", 
+        "email_list": [
+            "envs@au.dk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Aarhus University", 
+        "title": "Zahari Zlatev - Research - Aarhus University"
+    }, 
+    {
+        "content": "e-mail address: zz@dmu.dk or zlatevi@adslhome.dk ... biographical data about zahari zlatev can be found in several directories; the latest biography can be...", 
+        "email_list": [
+            "zz@dmu.dk", 
+            "zlatevi@adslhome.dk"
+        ], 
+        "cite_url": "www2.dmu.dk/atmosphericenvironment/staff/zlatev.htm", 
+        "cite_name": "", 
+        "title": "Home Page of Zahari Zlatev - DMU"
+    }, 
+    {
+        "content": "zahari zlatev, istván faragó and ´agnes havasi. abstract ... department of environmental science, aarhus university, roskilde, denmark, e-mail: zz@dmu.dk.", 
+        "email_list": [
+            "zz@dmu.dk"
+        ], 
+        "cite_url": "real.mtak.hu/21464/1/ECMI_Proc65.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Download (45Kb)"
+    }
+]

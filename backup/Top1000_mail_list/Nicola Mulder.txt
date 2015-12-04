@@ -1,1 +1,29 @@
-nicola.mulder@uct.ac.za	[25]
+[
+    {
+        "content": "principal investigator: prof nicola mulder. computational ... email: nicola.mulder@uct.ac.za. external site: www.cbio.uct.ac.za/people/1-nicky-mulder.html.", 
+        "email_addr_list": [
+            "nicola.mulder@uct.ac.za"
+        ], 
+        "cite_url": "www.idm.uct.ac.za/nmulder/", 
+        "cite_name": "University of Cape Town", 
+        "title": "Nicola Mulder - Computational Biology Group, IDM"
+    }, 
+    {
+        "content": "zip code: 7925. city: observatory, south africa. email: nicola.mulder@uct.ac.za. phone (work): 27 (0)21 406 6058. url: www.iidmm.uct.ac.za/nmulder/index.", 
+        "email_addr_list": [
+            "nicola.mulder@uct.ac.za"
+        ], 
+        "cite_url": "gs.zv.uni-wuerzburg.de/index.php?option=com...task...user...", 
+        "cite_name": "", 
+        "title": "Nicola Mulder"
+    }, 
+    {
+        "content": "the list below contains all domains related to the email address nicola.mulder@uct.ac.za. the listed domains are showing the mentioned email address in their...", 
+        "email_addr_list": [
+            "nicola.mulder@uct.ac.za"
+        ], 
+        "cite_url": "website.informer.com/email/nicola.mulder@uct.ac.za", 
+        "cite_name": "", 
+        "title": "Nicola.mulder@uct.ac.za at Website Informer"
+    }
+]

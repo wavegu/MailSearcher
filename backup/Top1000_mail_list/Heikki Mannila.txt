@@ -1,8 +1,57 @@
-heikki.mannila at aalto.fi	[27]
-heikki.mannila@hut.fi	[27]
-heikki.mannila@aalto.fi	[27]
-firstname.surname@helsinki.fi	[2]
-webmaster@mail.cis.hut.fi	[2]
-firstname.lastname@aka.fi	[2]
-webmaster@mail.cis.hut.fiheikki	[2]
-info@videolectures.net	[1]
+[
+    {
+        "content": "professor, aalto university, department of information and computer science (on leave); president, academy of finland; email: heikki.mannila@aalto.fi;.", 
+        "email_addr_list": [
+            "heikki.mannila@aalto.fi"
+        ], 
+        "cite_url": "https://users.ics.aalto.fi/mannila/", 
+        "cite_name": "Aalto University", 
+        "title": "Heikki Mannila HomePage"
+    }, 
+    {
+        "content": "heikki mannila. download original 1181 x 1574 px. mannilahttps://people.aalto.fi/aalto university. heikki mannila ... work email: heikki.mannila at aalto.fi...", 
+        "email_addr_list": [
+            "heikki.mannila@aalto.fi"
+        ], 
+        "cite_url": "https://people.aalto.fi/en/heikki_mannila", 
+        "cite_name": "Aalto University", 
+        "title": "Heikki Mannila - Aalto People"
+    }, 
+    {
+        "content": "heikki mannila appointed president of the academy of finland. (15 dec 2011) ... in 2004–2008, mannila worked as an academy professor of the academy of finland. ... email, firstname.lastname@aka.fi. office hours, mon–fri 8.00–16.15.", 
+        "email_addr_list": [
+            "firstname.lastname@aka.fi"
+        ], 
+        "cite_url": "www.aka.fi/.../Heikki-Mannila-appointed-as-Preside...", 
+        "cite_name": "Academy of Finland", 
+        "title": "Heikki Mannila appointed President - Academy of Finland"
+    }, 
+    {
+        "content": "heikki mannila received his ph.d. in computer science in 1985 from the university of helsinki. ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/heikki_mannila/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Heikki Mannila - VideoLectures.NET"
+    }, 
+    {
+        "content": "heikki mannila. room: b332. email: heikki.mannila@hut.fi ... http://www.cis.hut.fi/people_photos_new/page/mannila.shtml webmaster@mail.cis.hut.fi", 
+        "email_addr_list": [
+            "heikki.mannila@hut.fi", 
+            "webmaster@mail.cis.hut.fi"
+        ], 
+        "cite_url": "www.cis.hut.fi/people_photos_new/page/mannila.shtml", 
+        "cite_name": "", 
+        "title": "Heikki Mannila - HUT - CIS - People"
+    }, 
+    {
+        "content": "email the site administrator ... email:firstname.surname@helsinki.fi. sorry ... the director of the helsinki institute of information technology, dr. heikki mannila.", 
+        "email_addr_list": [
+            "firstname.surname@helsinki.fi"
+        ], 
+        "cite_url": "www.ncoedg.org/.../toggleaccessibility.asp%3Ftarget=%252FPOOLED%...www.google.com/email", 
+        "cite_name": "", 
+        "title": "FINLAND - Professor Aarno PalotieGoogle Business Email - Custom email for your company‎"
+    }
+]

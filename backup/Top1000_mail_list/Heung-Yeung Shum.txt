@@ -1,1 +1,11 @@
-shun-yamazaki@aist.go.jp	[4]
+[
+    {
+        "content": "e-mail: shun-yamazaki@aist.go.jp .... [5] heung-yeung shum, jian sun, shuntaro yamazaki, li yin, and chi-keung tang. pop-up light field. acm transactions...", 
+        "email_addr_list": [
+            "shun-yamazaki@aist.go.jp"
+        ], 
+        "cite_url": "www.dh.aist.go.j...", 
+        "cite_name": "National Institute of Advanced Industrial Science and...", 
+        "title": "[PDF]Curriculum Vitae - AIST Digital Human Research Center"
+    }
+]

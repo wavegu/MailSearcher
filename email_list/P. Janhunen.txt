@@ -1,0 +1,57 @@
+[
+    {
+        "content": "janhunen@fmi.fi --- in this text i try to shed some light on the ongoing debate and ... to: p. janhunen (pekka.janhunen@fmi.fi) consider a long positively charged...", 
+        "email_list": [
+            "janhunen@fmi.fi", 
+            "pekka.janhunen@fmi.fi"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-janhunen-fmi-fi-7073024.htm", 
+        "cite_name": "", 
+        "title": "janhunen@fmi.fi - The Email Archive"
+    }, 
+    {
+        "content": "verified email at aalto.fi - homepage  scholar ... t janhunen, i niemelä, d seipel, p simons, jh you ... t janhunen, e oikarinen, h tompits, s woltran.", 
+        "email_list": [
+            "email@aalto.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=M84ghWAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Tomi Janhunen - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at ee.oulu.fi. scholar. get my own ... j janhunen, t pitkänen, o silven, m juntti. selected ... j janhunen, p salmela, o silvén, m juntti. acoustics...", 
+        "email_list": [
+            "email@ee.oulu.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Iy9PhuoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Janne Janhunen - Google Scholar Citations"
+    }, 
+    {
+        "content": "p. janhunen1, p. toivanen1, h. seppänen2, e. haeggström2 and j.-p. luntama1. (1) finnish meteorological ... email: pekka.janhunen@fmi.fi. the electric solar...", 
+        "email_list": [
+            "pekka.janhunen@fmi.fi"
+        ], 
+        "cite_url": "ltl.tkk.fi/~ttheikki/physday09abs/1193.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Electric sail propulsion development status and testing plans"
+    }, 
+    {
+        "content": "kristiina janhunen. associate kjanhunen@paulweiss.com. new york 1285 avenue of the americas new york, new york 10019-6064...", 
+        "email_list": [
+            "kjanhunen@paulweiss.com"
+        ], 
+        "cite_url": "www.paulweiss.com/.../kristiin...", 
+        "cite_name": "Paul, Weiss, Rifkind, Wharton  Garrison", 
+        "title": "Janhunen, Kristiina | Paul, Weiss"
+    }, 
+    {
+        "content": "p. toivanen, p. janhunen, and j. envall. finnish meteorological institute, p.o.b. 00503, fi-00101, finland email: petri.toivanen@fmi.fi. the electric solar wind...", 
+        "email_list": [
+            "petri.toivanen@fmi.fi"
+        ], 
+        "cite_url": "www2.uef.fi/.../bf732a74-33f2-45fc-9859-...", 
+        "cite_name": "University of Eastern Finland", 
+        "title": "[PDF]ELECTRIC SOLAR WIND SAIL CONTROL AND ..."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "content": "my profile. give feedback. chun-yang yin from murdoch university in perth australia. share. contact me. phone. email. c.yin@murdoch.edu.au...", 
+        "email_list": [
+            "c.yin@murdoch.edu.au"
+        ], 
+        "cite_url": "profiles.murdoch.edu.au/myprofile/chun-yang-yin/", 
+        "cite_name": "Murdoch University", 
+        "title": "Chun-Yang Yin | Profile | Murdoch University in Perth Australia"
+    }, 
+    {
+        "content": "tong chunyang. professor. department：business administration. email：tongchunyang@tongji.edu.cn. office：＋86-21-65981473. education. · 2001.8-2006.5...", 
+        "email_list": [
+            "tongchunyang@tongji.edu.cn"
+        ], 
+        "cite_url": "sem.tongji.edu.cn/semen/wp-content/uploads/.../Tong-Chunyang.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Tong Chunyang Professor Department：Business ..."
+    }, 
+    {
+        "content": "professor chun charles yangs website. ... email: mcyang@ntu.edu.sg. i obtained my b.s. degree from the department of thermal engineering of tsinghua...", 
+        "email_list": [
+            "mcyang@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/home/mcyang/", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Professor Chun Charles Yang"
+    }, 
+    {
+        "content": "chunyang wang, phd. assistant ... office room: rm 703, building c; email:cywang@phbs.pku.edu.cn; web：http://cywangecon.weebly.com. chunyang wang.", 
+        "email_list": [
+            "cywang@phbs.pku.edu.cn"
+        ], 
+        "cite_url": "english.phbs.pku.edu.cn/index....", 
+        "cite_name": "Peking University HSBC Business School", 
+        "title": "Chunyang Wang - Peking University HSBC Business School"
+    }, 
+    {
+        "content": "chun yang. research scientist, environment ... verified email at ec.gc.ca. scholar ... j li, c yang, y xia, a bertino, j glaspy, m roberts, dj kuter. blood 98 (12)...", 
+        "email_list": [
+            "email@ec.gc.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LIelbcEAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chun Yang - Google Scholar Citations"
+    }, 
+    {
+        "content": "feb 25, 2015 - chun yang. ... chun yang. fen-166. visit my office/email me. tel: (01482) 465824. email: c.yang@hull.ac.uk. c yang. profile...", 
+        "email_list": [
+            "c.yang@hull.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Hull", 
+        "title": "Chun Yang - University of Hull"
+    }, 
+    {
+        "content": "contact details, qualifications and research interests for chunyang song at the school of electronic engineering and computer ... email: c.song@qmul.ac.uk.", 
+        "email_list": [
+            "c.song@qmul.ac.uk"
+        ], 
+        "cite_url": "www.eecs.qmul.ac.uk/people/.../2838", 
+        "cite_name": "Queen Mary University of London", 
+        "title": "Chunyang Song, PhD Student | School of Electronic ..."
+    }
+]

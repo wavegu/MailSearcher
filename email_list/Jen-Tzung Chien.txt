@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail, jtchien@nctu.edu.tw. 個人網站, http://chien.cm.nctu.edu.tw ... 教授簡介, jen-tzung chien received his ph.d. degree in electrical engineering from...", 
+        "email_list": [
+            "jtchien@nctu.edu.tw"
+        ], 
+        "cite_url": "www.dece.nctu.edu.tw/people/bio.php?...", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "簡仁宗的個人資料- 交通大學電機工程學系"
+    }, 
+    {
+        "content": "jen-tzung chien; email: jtchien@nctu.edu.tw; tel: +886-3-5731951; fax: +886-3-5731951; address: rm 829, 4th engineering building, 1001 university road,...", 
+        "email_list": [
+            "jtchien@nctu.edu.tw"
+        ], 
+        "cite_url": "chien.cm.nctu.edu.tw/contact-us/", 
+        "cite_name": "", 
+        "title": "Contact Us » National Chiao Tung University"
+    }
+]

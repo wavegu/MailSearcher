@@ -1,0 +1,47 @@
+[
+    {
+        "content": "oct 8, 2013 - zhou xiaoping, xiao fuliang*, he yihua, yang chang, zhou qinghua, ... corresponding authors: xiao fuliang e-mail: flxiao@126.com...", 
+        "email_list": [
+            "flxiao@126.com"
+        ], 
+        "cite_url": "earth.scichina.com:8080/sciDe/EN/abstract/abstract512399.shtml", 
+        "cite_name": "", 
+        "title": "Responses of geostationary orbit energetic electron fluxes ..."
+    }, 
+    {
+        "content": "email: lunjin.chen@gmail.com. tel #: (310) ... huinan zheng and fuliang xiao ... leading discussion sessions; supervising examinations; replying email inquiries.", 
+        "email_list": [
+            "lunjin.chen@gmail.com"
+        ], 
+        "cite_url": "people.atmos.ucla.edu/clj/doc/CV_clj.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CV Download - UCLA: Atmospheric and Oceanic Sciences"
+    }, 
+    {
+        "content": "oct 10, 2015 - email: feiliu at cs dot ucf dot edu ... i wont be able to reply all the emails, but i will read through your ... fei liu, fuliang weng, and xiao jiang", 
+        "email_list": [
+            "feiliu@cs.ucf.edu"
+        ], 
+        "cite_url": "www.cs.ucf.edu/~feiliu/", 
+        "cite_name": "", 
+        "title": "Fei Liu - UCF Computer Science - University of Central Florida"
+    }, 
+    {
+        "content": "jun 24, 2011 - zhaoguo he (1); fuliang xiao  flxiao@126.com (1); qiugang zong (2); yongfu wang (2); liangxu chen (1); chao yue (2); sai zhang (1).", 
+        "email_list": [
+            "flxiao@126.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs11431-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Multi-satellite observations on the storm-time enhancements ..."
+    }, 
+    {
+        "content": "fuliang xiao,. e-mail address: flxiao@126.com. department of physics and electronic sciences, changsha university of science and technology, changsha,...", 
+        "email_list": [
+            "flxiao@126.com"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1029/.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Whistler instability threshold condition of energetic electrons ..."
+    }
+]

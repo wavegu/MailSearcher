@@ -1,0 +1,22 @@
+[
+    {
+        "content": "welcome to john hamers home page (est.1994). a human ... you can still email me at j.hamer@cs.auckland.ac.nz, but i am not available for supervision.", 
+        "email_list": [
+            "me@j.hamer"
+        ], 
+        "cite_url": "https://www.cs.auckland.ac.nz/~j-hamer/", 
+        "cite_name": "University of Auckland", 
+        "title": "John Hamers Home Page - Department of Computer Science"
+    }, 
+    {
+        "content": "+44 (0)1582 74 39 89. by email admission@beds.ac.uk (admissions) international@beds.ac.uk (international) sid@beds.ac.uk (student support) ... john hamer...", 
+        "email_list": [
+            "admission@beds.ac.uk", 
+            "international@beds.ac.uk", 
+            "sid@beds.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Bedfordshire", 
+        "title": "John Hamer - beds.ac.uk"
+    }
+]

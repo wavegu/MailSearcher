@@ -1,5 +1,39 @@
-sanjay@google.com	[13]
-sanjay@lcs.mit.edu	[13]
-email at alum.mit.edu	[1]
-dean@sginstitute.in	[1]
-jeff@google.com	[1]
+[
+    {
+        "content": "create alert. cancel. sanjay ghemawat ... verified email at alum.mit.edu. scholar ... jm anderson, lm berc, j dean, s ghemawat, mr henzinger, sta leung, .", 
+        "email_addr_list": [
+            "email@alum.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0KF6ZC8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Sanjay Ghemawat - Google Scholar Citations"
+    }, 
+    {
+        "content": "sanjay ghemawat. email: sanjay@lcs.mit.edu. mit laboratory for computer science. object-oriented databases provides persistent storage for a. large number...", 
+        "email_addr_list": [
+            "sanjay@lcs.mit.edu"
+        ], 
+        "cite_url": "www.pmg.lcs.mit.edu/papers/student94/ghemawat.ps", 
+        "cite_name": "", 
+        "title": "[PS]Disk Management for Object-Oriented Databases Sanjay ..."
+    }, 
+    {
+        "content": "financial management and marketing management. experience. : research 10 years , academic 30 years , industrial 5 years. email id. : dean@sginstitute.in...", 
+        "email_addr_list": [
+            "dean@sginstitute.in"
+        ], 
+        "cite_url": "www.sginstitute.in/mba_faculty.html", 
+        "cite_name": "", 
+        "title": "MBA - Faculty Profile - Sanjay Ghodawat Group of Institutions"
+    }, 
+    {
+        "content": "mapreduce: simplified data processing on large clusters jeffrey dean and sanjay ghemawat jeff@google.com sanjay@google.com google inc. abstract...", 
+        "email_addr_list": [
+            "jeff@google.com", 
+            "sanjay@google.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-sanjay-google-com-5883612.htm", 
+        "cite_name": "", 
+        "title": "sanjay@google.com - The Email Archive"
+    }
+]

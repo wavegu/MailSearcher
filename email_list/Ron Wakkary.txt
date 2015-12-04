@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: rwakkary@sfu.ca; tel: 778.782.2322; office: 3400, sfu surrey campus ... ron wakkary is a professor in the school of interactive arts and technology...", 
+        "email_list": [
+            "rwakkary@sfu.ca"
+        ], 
+        "cite_url": "https://www.sfu.ca/siat/about/.../ron-wakkary.ht...", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Ron Wakkary - - School of Interactive Arts and Technology ..."
+    }, 
+    {
+        "content": "wakkary, prof.dr. r.l. ... position: full professor; room: lg 1.110-115; email: r.l.wakkary@remove-this.tue.nl ... ron wakkary is co-leader of the dqi group. ... wakkary publishes regularly in design, human-computer-interaction, and tangible...", 
+        "email_list": [
+            "r.l.wakkary@remove-this.tue.nl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Eindhoven University of Technology", 
+        "title": "prof.dr. R.L. (Ron) Wakkary - Expertise"
+    }, 
+    {
+        "content": "create alert. cancel. ron wakkary ... verified email at sfu.ca. scholar ... r wakkary, m hatala, k muise, k tanenbaum, g corness, b mohabbati, ... proceedings...", 
+        "email_list": [
+            "email@sfu.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8FyQoaMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ron Wakkary - Google Scholar Citations"
+    }, 
+    {
+        "content": "ph.d. personal homepage: http://www.sfu.ca/~rwakkary/; employer: simon fraser university (http://www.surrey.sfu.ca/); email: rwakkary@sfu.ca. ron wakkary is...", 
+        "email_list": [
+            "rwakkary@sfu.ca"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/ron-wakkary", 
+        "cite_name": "", 
+        "title": "Ron Wakkary: Publications, bio, bibliography, etc ..."
+    }
+]

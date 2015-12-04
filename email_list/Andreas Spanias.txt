@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. andreas spanias ... verified email at asu.edu - homepage  scholar ... s bellofiore, j foutz, r govindarajula, i bahçeci, ca balanis, as spanias, .", 
+        "email_list": [
+            "email@asu.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=IyRtNy0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Andreas Spanias - Google Scholar Citations"
+    }
+]

@@ -1,2 +1,20 @@
-deisenstein@cfa.harvard.edu	[22]
-email at j.a.aird	[7]
+[
+    {
+        "content": "professor eisenstein received his ph.d. from harvard university in 1996 and then ... contact information. email: deisenstein@cfa.harvard.edu. perkin lab, p-326", 
+        "email_addr_list": [
+            "deisenstein@cfa.harvard.edu"
+        ], 
+        "cite_url": "astronomy.fas.harvard.edu/people/daniel-eisenstein", 
+        "cite_name": "Harvard University", 
+        "title": "Daniel Eisenstein | Department of Astronomy"
+    }, 
+    {
+        "content": "(email at j.a.aird@durham.ac.uk) ... moustakas, john coil, alison l. aird, james , blanton, michael r. cool, richard j., eisenstein, daniel j., mendez, alexander...", 
+        "email_addr_list": [
+            "email@j.a.aird"
+        ], 
+        "cite_url": "https://www.dur.ac.uk/directory/profile/?id=11310", 
+        "cite_name": "Durham University", 
+        "title": "Dr J Aird - Durham University"
+    }
+]

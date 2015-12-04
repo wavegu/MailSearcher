@@ -1,0 +1,38 @@
+[
+    {
+        "content": "aurelio uncini. professor of electrical and ... verified email at uniroma1.it - homepage  scholar ... p campolucci, a uncini, f piazza, bd rao. neural networks...", 
+        "email_list": [
+            "email@uniroma1.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XGaJO9IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Aurelio Uncini - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 19, 2013 - dipartimento: ingegneria dellinformazione, elettronica e telecomunicazioni. email: aurelio.uncini@uniroma1.it. qualifica: professore ordinario.", 
+        "email_list": [
+            "aurelio.uncini@uniroma1.it"
+        ], 
+        "cite_url": "digilab.uniroma1.it/.../56...", 
+        "cite_name": "Sapienza University of Rome", 
+        "title": "UNCINI Aurelio | DigiLab centro interdipartimentale di ..."
+    }, 
+    {
+        "content": "tel. +39 06 44585869. fax. +39 06 44585632. email: michele.scarpiniti@uniroma1.it ... facoltà di ingegneria  prof. aurelio uncini  dsp and multimedia group...", 
+        "email_list": [
+            "michele.scarpiniti@uniroma1.it"
+        ], 
+        "cite_url": "ispac.ing.uniroma1.it/scarpiniti/", 
+        "cite_name": "", 
+        "title": "Michele Scarpiniti"
+    }, 
+    {
+        "content": "aurelio uncini. position: full professor. role: board of directors member. email: aurel@ieee.org. phone: +390644585839. personal site: www.uncini.com.", 
+        "email_list": [
+            "aurel@ieee.org"
+        ], 
+        "cite_url": "www.cis.uniroma1.it/uncini", 
+        "cite_name": "Sapienza University of Rome", 
+        "title": "Uncini | Sapienza - Università di Roma"
+    }
+]

@@ -1,1 +1,11 @@
-acoulso@clemson.edu	[3]
+[
+    {
+        "content": "alan coulson lecturer 339 brackett clemson, sc 29634 864.656.1897 864.656.1041 fax e-mail: acoulso@clemson.edu. ph.d. geosciences, 2009, university...", 
+        "email_addr_list": [
+            "acoulso@clemson.edu"
+        ], 
+        "cite_url": "www.clemson.edu/ces/departments/.../coulson.html", 
+        "cite_name": "Clemson University", 
+        "title": "College of Engineering and Science | Alan Coulson"
+    }
+]

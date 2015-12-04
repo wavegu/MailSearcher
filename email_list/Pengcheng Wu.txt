@@ -1,0 +1,20 @@
+[
+    {
+        "content": "oct 28, 2014 - wu pengcheng. faculty  full time faculty ... wu pengcheng. research fellow ..... fax: (65) 6828 0919. email: enquiries@sis.smu.edu.sg", 
+        "email_list": [
+            "enquiries@sis.smu.edu.sg"
+        ], 
+        "cite_url": "sis.smu.edu.sg/about/.../wu-pengchen...", 
+        "cite_name": "Singapore Management University", 
+        "title": "WU Pengcheng | School of Information Systems (SMU)"
+    }, 
+    {
+        "content": "from: pengcheng wu (wupc@ccs.neu.edu) ... previous message: pengcheng wu: send email to ta; next in thread: pengcheng wu: re: hw1; maybe reply:...", 
+        "email_list": [
+            "wupc@ccs.neu.edu"
+        ], 
+        "cite_url": "www.ccs.neu.ed...", 
+        "cite_name": "Northeastern University College of Computer and Info...", 
+        "title": "COM 1205 Archive - Fall 2002: Re: hw1"
+    }
+]

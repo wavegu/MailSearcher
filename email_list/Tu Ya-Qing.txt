@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at mit.edu ... yq bie, zm liao, hz zhang, gr li, y ye, yb zhou, j xu, zx qin, l dai, . ... y yan, zm liao, yq bie, hc wu, yb zhou, xw fu, dp yu.", 
+        "email_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GFWUqw4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ya-Qing Bie, Yaqing Bie - Google Scholar Citations"
+    }, 
+    {
+        "content": "yaqing gou ... alexander crum brown road, edinburgh eh9 3ff. phone: +44 (0) 131 650 5103. fax: +44 (0) 131 662 0478. email: s1251670@sms.ed.ac.uk...", 
+        "email_list": [
+            "s1251670@sms.ed.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Edinburgh", 
+        "title": "People | School of GeoSciences - University of Edinburgh"
+    }
+]

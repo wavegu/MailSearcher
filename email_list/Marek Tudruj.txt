@@ -1,0 +1,38 @@
+[
+    {
+        "content": "marek tudruj, professor, d.sc., ph.d. professor at. institute of computer science ... e-mail: tudruj@ipipan.waw.pl. professor at. polish-japanese institute of...", 
+        "email_list": [
+            "tudruj@ipipan.waw.pl"
+        ], 
+        "cite_url": "www.ipipan.waw.pl/~tudruj/", 
+        "cite_name": "", 
+        "title": "Marek Tudruj, Ph.D., DSc."
+    }, 
+    {
+        "content": "kierownik: marek tudruj,prof. dr hab inż.,profesor w pjwstk, , e-mail: tudruj@pjwstk.edu.pl. skład osobowy: marek tudruj, prof. dr hab inż.,profesor w pjwstk,...", 
+        "email_list": [
+            "tudruj@pjwstk.edu.pl"
+        ], 
+        "cite_url": "www.scl.pjwstk.edu.pl/", 
+        "cite_name": "", 
+        "title": "Laboratorium Programowania Równoległego PJWSTK"
+    }, 
+    {
+        "content": "... germany, and university of bedfordshire; marek tudruj - polish academy of sciences, polish-japanese institute of information ... e-mail: parelec@beds.ac.uk.", 
+        "email_list": [
+            "parelec@beds.ac.uk"
+        ], 
+        "cite_url": "www.beds.ac.uk/parelec/committees", 
+        "cite_name": "University of Bedfordshire", 
+        "title": "Committees - Symposium Home - University of Bedfordshire"
+    }, 
+    {
+        "content": "browsing by author tudruj, marek ... tudruj, marek; masko, lukasz; thor, miroslaw (springer, 2011-02-04) ... telephone: +47 35952543, email: teora@hit.no.", 
+        "email_list": [
+            "teora@hit.no"
+        ], 
+        "cite_url": "https://dspace01.hit.no/browse?value=Tudruj%2C+Marektype=author", 
+        "cite_name": "", 
+        "title": "Browsing by Author Tudruj, Marek - teora"
+    }
+]

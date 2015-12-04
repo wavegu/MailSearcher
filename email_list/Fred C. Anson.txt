@@ -1,0 +1,29 @@
+[
+    {
+        "content": "an interview in two sessions, february 1997, with fred c. anson, elizabeth w. ... anson, fred c. interview by shirley k. cohen. ... email: archives@caltech.edu.", 
+        "email_list": [
+            "archives@caltech.edu"
+        ], 
+        "cite_url": "oralhistories.library.caltech.edu/.../Ans...", 
+        "cite_name": "California Institute of Technology", 
+        "title": "[PDF]Interview with Fred C. Anson - Caltech Oral Histories"
+    }, 
+    {
+        "content": "fred c. anson, professor, california institute of technology. ... website: http://www.cce.caltech.edu/content/fred-c-anson. email: fanson@caltech.edu.", 
+        "email_list": [
+            "fanson@caltech.edu"
+        ], 
+        "cite_url": "192.99.15.201/scholar/anson-fred-c/", 
+        "cite_name": "", 
+        "title": "Fred C. Anson, California Institute of Technology - PhDTree"
+    }, 
+    {
+        "content": "interview with fred c. anson on researchgate, the professional network for ... anson, fred c. interview by shirley k. cohen. ... email: archives@caltech.edu", 
+        "email_list": [
+            "archives@caltech.edu"
+        ], 
+        "cite_url": "www.researchgate.net/.../279371954_Interview_with_Fred_C...", 
+        "cite_name": "ResearchGate", 
+        "title": "Interview with Fred C. Anson - ResearchGate"
+    }
+]

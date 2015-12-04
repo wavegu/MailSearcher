@@ -1,3 +1,29 @@
-amit.sheth@wright.edu	[19]
-ashish@email.arc.nasa.gov	[3]
-email at wright.edu	[2]
+[
+    {
+        "content": "amit sheth. lexisnexis ohio eminent ... verified email at wright.edu - homepage  scholar. get my own ... p attie, m singh, ap sheth, m rusinkiewicz. 343, 1993.", 
+        "email_addr_list": [
+            "email@wright.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Amit Sheth - Google Scholar Citations"
+    }, 
+    {
+        "content": "name and address (including e-mail address) of author(s), an abstract, and a list of identifying keywords. ... e-mail: ashish@email.arc.nasa.gov ... amit p. sheth.", 
+        "email_addr_list": [
+            "ashish@email.arc.nasa.gov"
+        ], 
+        "cite_url": "www.dljournal.org/cfp/jdl_cfp-sw.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Special Issue on Semantic Web and Science Data Access"
+    }, 
+    {
+        "content": "amit p. sheth: publications, bio, bibliography, etc. ... personal homepage: http://knoesis.org/amit/; employer: (); email: amit.sheth@wright.edu...", 
+        "email_addr_list": [
+            "amit.sheth@wright.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/amit-p-shethwww.google.com/email", 
+        "cite_name": "", 
+        "title": "Amit P. Sheth: Publications, bio, bibliography, etc ...Google Business Email - Custom email for your company‎"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "zhigang chen. the univerisity ... verified email at uq.edu.au. scholar ... dw wang, f li, j zhao, w ren, zg chen, j tan, zs wu, i gentle, gq lu, ... acs nano 3...", 
+        "email_list": [
+            "email@uq.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=LPx3n_4AAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Zhigang Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "create alert. cancel. zhigang chen ... verified email at stars.sfsu.edu. scholar ... z chen, m mitchell, m segev, th coskun, dn christodoulides. science 280...", 
+        "email_list": [
+            "email@stars.sfsu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RJML1hgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Zhigang Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "chen zhigang. instructor department of management science and engineering email: chenzhigang@whu.edu.cn. phone : +86-27-68755525", 
+        "email_list": [
+            "chenzhigang@whu.edu.cn"
+        ], 
+        "cite_url": "ems.whu.edu.cn/en/50/1/7/2015-05-22/135.html", 
+        "cite_name": "", 
+        "title": "Chen zhigang"
+    }, 
+    {
+        "content": "email: zhigang.jiang@physics.gatech.edu ... magneto-infrared study of topological insulator bi2se3, w. yu, x. chen, z. jiang, i. miotkowski, h. cao, y.p....", 
+        "email_list": [
+            "zhigang.jiang@physics.gatech.edu"
+        ], 
+        "cite_url": "https://www.physics.gatech.edu/.../zhiga...", 
+        "cite_name": "Georgia Institute of Technology", 
+        "title": "Zhigang Jiang - School of Physics - Georgia Institute of ..."
+    }, 
+    {
+        "content": "zhigang chen attorney-at-law. email： zg_chen@alliancelawfirm.com. tel： 8610-65178866 ext. 630. fax： 8610-65180276. chen zhigang graduated with a...", 
+        "email_list": [
+            "zg_chen@alliancelawfirm.com"
+        ], 
+        "cite_url": "www.alliancelawfirm.com/english/r/cms/www/red/print/czg-EN.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Zhigang Chen Attorney-at-law Email： zg_chen ..."
+    }
+]

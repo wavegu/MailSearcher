@@ -1,0 +1,20 @@
+[
+    {
+        "content": "altra e-mail, carlo.lavecchia@marionegri.it. luogo di ricevimento. orario di ricevimento, su appuntamento telefonico. pagina personale. curriculum, ita ita...", 
+        "email_addr_list": [
+            "carlo.lavecchia@marionegri.it"
+        ], 
+        "cite_url": "www.medicina.unimi.it/.../LAVECCHIA-CARLO-05H...", 
+        "cite_name": "", 
+        "title": "carlo la vecchia - Professori e Ricercatori dei Corsi di laurea"
+    }, 
+    {
+        "content": "carlo dr. carlo la vecchia. dr. la vecchia received his medical degree from ... dr. la vecchia is an adjunct professor of medicine at vanderbilt medical ... info@nutritionwithoutborders.orgthis email address is being protected from spambots.", 
+        "email_addr_list": [
+            "info@nutritionwithoutborders.orgthis"
+        ], 
+        "cite_url": "www.nutrition2014.org/index.php/programa/.../2.../116-carlo-la-vecchia", 
+        "cite_name": "", 
+        "title": "Carlo La Vecchia - World Congress of Public Health Nutrition"
+    }
+]

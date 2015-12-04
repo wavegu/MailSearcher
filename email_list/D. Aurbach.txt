@@ -1,0 +1,48 @@
+[
+    {
+        "content": "dec 17, 2012 - telephone: 03-5318317. email: doron.aurbach@biu.ac.il. office: ... d. aurbach published so far more than 380 papers in peer reviewed...", 
+        "email_list": [
+            "doron.aurbach@biu.ac.il"
+        ], 
+        "cite_url": "ch.biu.ac.il/aurbach", 
+        "cite_name": "Bar‑Ilan University", 
+        "title": "Aurbach Doron | Department of Chemistry | Bar-Ilan University"
+    }, 
+    {
+        "content": "email: p.auerbach@kingston.ac.uk ... paul auerbach obtained a ph.d. in economics from the university of ... 1973, ph.d , university of wisconsin, madison.", 
+        "email_list": [
+            "p.auerbach@kingston.ac.uk"
+        ], 
+        "cite_url": "fass.kingston.ac.uk/faculty/staff/cv.php?staffnum...", 
+        "cite_name": "Kingston University", 
+        "title": "Dr Paul Auerbach - Faculty of Arts and Social Sciences ..."
+    }, 
+    {
+        "content": "robert d auerbach. professor, lyndon b johnson school of public affairs phone: +1 512 475 8751. email: auerbach@mail.utexas.edu...", 
+        "email_list": [
+            "auerbach@mail.utexas.edu"
+        ], 
+        "cite_url": "https://www.utexas.edu/.../robert_auerbach", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "Robert D Auerbach - UT Experts : University ..."
+    }, 
+    {
+        "content": "auerbach, david d., phd (mit) bs (city college of new york) assistant ... email: david_auerbach@ncsu.edu. austin ... email: david_austin@ncsu.edu. bauer...", 
+        "email_list": [
+            "david_auerbach@ncsu.edu", 
+            "david_austin@ncsu.edu"
+        ], 
+        "cite_url": "https://www.ncsu.edu/.../phil_faculty.html", 
+        "cite_name": "North Carolina State University", 
+        "title": "NC State Philosophy Faculty"
+    }, 
+    {
+        "content": "e-mail: michael.aurbach@vanderbilt.edu .... aurbach: the administrator, belmont university, nashville, tn. .... curated by m. warrick, s. mitchell, d. vanhorn.", 
+        "email_list": [
+            "michael.aurbach@vanderbilt.edu"
+        ], 
+        "cite_url": "www.vanderbilt.edu/AnS/arts/aurbach/cv.html", 
+        "cite_name": "Vanderbilt University", 
+        "title": "Michael Aurbach: Curriculum Vitae - Vanderbilt University"
+    }
+]

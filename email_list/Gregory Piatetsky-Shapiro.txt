@@ -1,0 +1,11 @@
+[
+    {
+        "content": "gregory piatetsky-shapiro, ph.d. is the president of kdnuggets, which provides ... gregory is also the editor and publisher of kdnuggets news, the leading newsletter on data ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/gregory_piatetsky_shapiro/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Gregory Piatetsky-Shapiro - KDnuggets - VideoLectures.NET"
+    }
+]

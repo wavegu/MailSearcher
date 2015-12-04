@@ -1,5 +1,48 @@
-stefano.volinia@unife.it	[29]
-volinia.1@osu.edu	[15]
-adeli.1@osu.edu	[1]
-email at unife.it	[1]
-friedman.158@osu.edu	[1]
+[
+    {
+        "content": "sezione di anatomia e istologia via fossato di mortara 64/b 44121 - ferrara. email, stefano.volinia@unife.it. telefono, 0532 974761 0532 974761 chiama...", 
+        "email_addr_list": [
+            "stefano.volinia@unife.it"
+        ], 
+        "cite_url": "docente.unife.it/stefano.volinia", 
+        "cite_name": "University of Ferrara", 
+        "title": "VOLINIA STEFANO"
+    }, 
+    {
+        "content": "sezione di anatomia e istologia via fossato di mortara 64/b 44121 - ferrara. email, stefano.volinia@unife.it. telefono, 0532 974761 0532 974761 chiama...", 
+        "email_addr_list": [
+            "stefano.volinia@unife.it"
+        ], 
+        "cite_url": "docente.unife.it/stefano.volinia-en", 
+        "cite_name": "University of Ferrara", 
+        "title": "VOLINIA STEFANO - Università degli Studi di Ferrara"
+    }, 
+    {
+        "content": "cancel. stefano volinia. universita ... verified email at unife.it. scholar ... s volinia, ga calin, cg liu, s ambs, a cimmino, f petrocca, r visone, ... proceedings...", 
+        "email_addr_list": [
+            "email@unife.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Kluwk1AAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Stefano Volinia - Google Scholar Citations"
+    }, 
+    {
+        "content": "stefano volinia - ... college of medicine  molecular virology, immunology  medical genetics. phone: 614/292-3670, 614/292-3670•email: volinia.1@osu.edu...", 
+        "email_addr_list": [
+            "volinia.1@osu.edu"
+        ], 
+        "cite_url": "ohiostate.pure.elsevier.com/.../stefano-volinia(c3e2c798-c345-4e1a-afd0...", 
+        "cite_name": "", 
+        "title": "Stefano Volinia - Ohio State University Health Sciences"
+    }, 
+    {
+        "content": "professor. phone: 614/292-7929. email: adeli.1@osu.edu ... phone: 614/292-5296. email: friedman.158@osu.edu ... stefano volinia. assistant professor.", 
+        "email_addr_list": [
+            "adeli.1@osu.edu", 
+            "friedman.158@osu.edu"
+        ], 
+        "cite_url": "medicine.osu.edu  ...  People", 
+        "cite_name": "Ohio State University College of Medicine", 
+        "title": "Affiliated Faculty"
+    }
+]

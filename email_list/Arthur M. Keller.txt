@@ -1,0 +1,29 @@
+[
+    {
+        "content": "arthur m. keller. former senior research scientist. contact information. e-mail: ark@cs.stanford.edu. phone: +1 (650) 424-0202. fax: +1 (650) 424-0424.", 
+        "email_list": [
+            "ark@cs.stanford.edu"
+        ], 
+        "cite_url": "logic.stanford.edu/people/keller/", 
+        "cite_name": "", 
+        "title": "Arthur Keller - Stanford Logic Group - Stanford University"
+    }, 
+    {
+        "content": "may 4, 2009 - arthur m. keller, phd biography. ... contact info: phone: 831-459-1485. fax: none found. email: ark@soe.ucsc.edu. website: university profile.", 
+        "email_list": [
+            "ark@soe.ucsc.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "ProCon.org", 
+        "title": "Arthur M. Keller, PhD - Voting Machines - ProCon.org"
+    }, 
+    {
+        "content": "dec 2, 2013 - email from arthur keller ph.d. ... from: arthur keller [mailto:ark@cs.stanford.edu] ... arthur m. keller, ph.d., 3881 corina way, palo alto, ca...", 
+        "email_list": [
+            "ark@cs.stanford.edu"
+        ], 
+        "cite_url": "www.waterboards.ca.gov/.../120213_a_keller.pdf", 
+        "cite_name": "California", 
+        "title": "[PDF]Email from Arthur Keller Ph.D. - State Water Resources ..."
+    }
+]

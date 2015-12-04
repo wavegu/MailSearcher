@@ -1,3 +1,29 @@
-gb241@gsb.columbia.edu	[3]
-gb241@columbia.edu	[3]
-email at columbia.edu	[2]
+[
+    {
+        "content": "email: gb241@gsb.columbia.edu ... geert bekaert ... professor bekaert teaches courses on international finance, empirical asset pricing and investments.", 
+        "email_addr_list": [
+            "gb241@gsb.columbia.edu"
+        ], 
+        "cite_url": "www8.gsb.columbia.edu/cbs-directory/.../gb2...", 
+        "cite_name": "Columbia Business School", 
+        "title": "Geert Bekaert | Columbia Business School Directory"
+    }, 
+    {
+        "content": "geert bekaert. leon cooperman professor of ... financial economics. verified email at columbia.edu ... g bekaert, cr harvey, c lundblad. journal of financial...", 
+        "email_addr_list": [
+            "email@columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8Pu89u4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Geert Bekaert - Google Scholar Citations"
+    }, 
+    {
+        "content": "first name: geert. middle name: last name: bekaert. suffix: repec short-id: pbe52. email: gb241@columbia.edu. homepage...", 
+        "email_addr_list": [
+            "gb241@columbia.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pbe52.html", 
+        "cite_name": "", 
+        "title": "Geert Bekaert at IDEAS"
+    }
+]

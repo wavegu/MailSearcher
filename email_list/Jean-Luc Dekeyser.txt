@@ -1,0 +1,31 @@
+[
+    {
+        "content": "dans lattente de vivre notre croissance ensemble. pour c  t cie sprl. jean-luc dekeyser gsm : 0032.496.976507. email : dekeyserjeanluc@gmail.com...", 
+        "email_list": [
+            "dekeyserjeanluc@gmail.com"
+        ], 
+        "cite_url": "be.viadeo.com/fr/profile/jean-luc.dekeyser", 
+        "cite_name": "", 
+        "title": "Jean-Luc DEKEYSER, C  T cie sprl - Belgique | Viadeo"
+    }, 
+    {
+        "content": "email: santhosh-kumar.rethinagiri@inria.fr and jean-luc.dekeyser@inria.fr ... email: rabie.benatitallah@univ-valenciennes.fr and smail.niar@univ-valenciennes.", 
+        "email_list": [
+            "santhosh-kumar.rethinagiri@inria.fr", 
+            "jean-luc.dekeyser@inria.fr", 
+            "rabie.benatitallah@univ-valenciennes.fr"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0613...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Fast and Accurate Hybrid Power Estimation Methodology for ..."
+    }, 
+    {
+        "content": "oct 3, 2014 - a4 ustl/lifl, inria lille nord europe, 40 avenue halley, 59650 villeneuve dascq, france e-mail: jean-luc.dekeyser@lifl.fr. abstract.", 
+        "email_list": [
+            "jean-luc.dekeyser@lifl.fr"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0269888914...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "The Knowledge Engineering Review - Adaptivity in high ..."
+    }
+]

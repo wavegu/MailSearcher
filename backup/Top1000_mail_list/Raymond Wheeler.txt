@@ -1,1 +1,11 @@
-raymond.m.wheeler@nasa.gov	[29]
+[
+    {
+        "content": "32899 usa (email: raymond.m.wheeler@nasa.gov). plasma lamps are part of the family of electrodeless lamps first demonstrated by nicola tesla ca 1894.", 
+        "email_addr_list": [
+            "raymond.m.wheeler@nasa.gov"
+        ], 
+        "cite_url": "www.ceug.ac.uk/.../C.%20PLASMA%20LIGHTING%20Sager%20%2...www.google.com/emailwww.beenverified.com/", 
+        "cite_name": "", 
+        "title": "[PDF]PLASMA LIGHTING FOR CROP PRODUCTION J.C. Sager ...Google Business Email‎We Found Raymond Wheeler‎Searches related to Raymond Wheeler email"
+    }
+]

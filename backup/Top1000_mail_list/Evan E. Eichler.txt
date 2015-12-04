@@ -1,4 +1,11 @@
-email at gs.washington.edu	[4]
-eee@gs.washington.edu	[4]
-eee@gs.washington.edu.primate	[4]
-eee@gs.washington.edu.seminar	[4]
+[
+    {
+        "content": "evan eichler. professor of ... verified email at gs.washington.edu. scholar ... ldw hillier, w miller, e birney, w warren, rc hardison, cp ponting, ... nature 432...", 
+        "email_addr_list": [
+            "email@gs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=kwJHmyMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Evan Eichler - Google Scholar Citations"
+    }
+]

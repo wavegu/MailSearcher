@@ -1,1 +1,11 @@
-istoica@cs.berkeley.edu	[14]
+[
+    {
+        "content": "ion stoicas home page. ions picture ... berkeley: berkeley, ca 94720-1776: phone: +1 510 643-4007: fax: +1 510 643-1289: e-mail: istoica@cs.berkeley.edu...", 
+        "email_addr_list": [
+            "istoica@cs.berkeley.edu"
+        ], 
+        "cite_url": "www.cs.berkeley.edu/~istoica/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Ion Stoicas Home Page - Computer Science Division"
+    }
+]

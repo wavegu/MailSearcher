@@ -1,3 +1,29 @@
-belhumeur@cs.columbia.edu	[19]
-email at cs.columbia.edu	[2]
-grossberg@cs.ccny.cuny.edu	[2]
+[
+    {
+        "content": "peter belhumeur. professor of computer ... verified email at cs.columbia.edu - homepage  scholar ... n kumar, ac berg, pn belhumeur, sk nayar. computer...", 
+        "email_addr_list": [
+            "email@cs.columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=J8YyZugAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Peter Belhumeur - Google Scholar Citations"
+    }, 
+    {
+        "content": "peter n. belhumeur http://www.cs.columbia.edu/belhumeur/ email: belhumeur@cs.columbia.edu office: 623 cepsr phone: 212-939-7087 office hours: mon...", 
+        "email_addr_list": [
+            "belhumeur@cs.columbia.edu"
+        ], 
+        "cite_url": "www.thephonearchive.com/phone-data-212-939-7087-16711768.htm", 
+        "cite_name": "", 
+        "title": "212-939-7087 - The Phone Archive"
+    }, 
+    {
+        "content": "email: grossberg@cs.ccny.cuny.edu .... [2] michael d. grossberg, harish peri, shree k. nayar, and peter n. belhumeur, making one object look like another:.", 
+        "email_addr_list": [
+            "grossberg@cs.ccny.cuny.edu"
+        ], 
+        "cite_url": "www-cs.engr.ccny.cuny.edu/~grossberg/cv05.pdfwww.google.com/email", 
+        "cite_name": "", 
+        "title": "[PDF]Michael D. Grossberg - Computer Science - CunyGoogle Business Email - Custom email for your company‎"
+    }
+]

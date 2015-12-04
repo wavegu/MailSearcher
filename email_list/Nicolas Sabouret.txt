@@ -1,0 +1,20 @@
+[
+    {
+        "content": "personal web pages : http://perso.limsi.fr/sabouret. fax, team : cpu. phone : +33/0 1 69 85 81 02. fax : +33/0 1 69 85 80 88. email : nicolas.sabouret@limsi.fr.", 
+        "email_list": [
+            "nicolas.sabouret@limsi.fr"
+        ], 
+        "cite_url": "...", 
+        "cite_name": "Laboratoire d'informatique pour la mécanique et les s...", 
+        "title": "LIMSI Directory - Sabouret Nicolas"
+    }, 
+    {
+        "content": "sabouret nicolas. profsseur en ... verified email at limsi.fr - homepage  scholar ... e platon, m mamei, n sabouret, s honiden, hvd parunak. autonomous...", 
+        "email_list": [
+            "email@limsi.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CEUHSW4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sabouret Nicolas - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "yonghuai liu. department of ... verified email at aber.ac.uk - homepage  scholar ... gkl tam, zq cheng, yk lai, fc langbein, y liu, d marshall, rr martin, .", 
+        "email_list": [
+            "email@aber.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8J-qVlQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yonghuai Liu - Google Scholar Citations"
+    }, 
+    {
+        "content": "telephone: +44 (0)1273 643506. email: r.song@brighton.ac.uk ... ran song, yonghuai liu, ralph r. martin, paul l. rosin. scan integration as a labeling...", 
+        "email_list": [
+            "r.song@brighton.ac.uk"
+        ], 
+        "cite_url": "about.brighton.ac.uk/cem/contact/details.php?uid=rs602", 
+        "cite_name": "", 
+        "title": "Song, Ran - Contact - Computing, Engineering and ..."
+    }, 
+    {
+        "content": "jun 21, 2012 - editorial board editor-in-chief dr yonghuai liu department of ... 3db, uk email: rrz@aber.ac.uk areas of interest this journal is interested in...", 
+        "email_list": [
+            "rrz@aber.ac.uk"
+        ], 
+        "cite_url": "peipa.essex.ac.uk/conf/Information/2008/3dimg-journal-6-08-info.html", 
+        "cite_name": "", 
+        "title": "Conference Information"
+    }, 
+    {
+        "content": "telephone, +61 2 9351 2236. email, yonghui.li@sydney.edu.au. website, telecommunications laboratory  personal page  school of electrical and information...", 
+        "email_list": [
+            "yonghui.li@sydney.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sydney", 
+        "title": "Associate Professor Yonghui Li - The University of Sydney"
+    }
+]

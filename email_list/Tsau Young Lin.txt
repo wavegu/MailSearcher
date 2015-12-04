@@ -1,0 +1,33 @@
+[
+    {
+        "content": "description: description: c:\\users\\chinmay bhawe\\desktop\\linphoto. dr. tsau young lin. professor of ... fax: (408)924-5080. email: tylin@cs.sjsu.edu. office...", 
+        "email_list": [
+            "tylin@cs.sjsu.edu"
+        ], 
+        "cite_url": "www.cs.sjsu.edu/~tylin/", 
+        "cite_name": "", 
+        "title": "Dr. Tsau Young Lin - Department of Computer Science"
+    }, 
+    {
+        "content": "horstmann@sjsu.edu obrien email kathleen.a.obrien@sjsu.edu pearce phone (408) ... khuri@sjsu.edu lin phone (408) 924-5121 lin email tsau-young.", 
+        "email_list": [
+            "horstmann@sjsu.edu", 
+            "kathleen.a.obrien@sjsu.edu", 
+            "khuri@sjsu.edu"
+        ], 
+        "cite_url": "cs46labs.bitbucket.org/cs46b/lab1/deptdir.txt", 
+        "cite_name": "", 
+        "title": "this file - SJSU CS Labs"
+    }, 
+    {
+        "content": "jul 1, 2015 - post, name, did, email ... vice-chairman (human resource), dr anita lim yee nah, 67724353, anita_lim@nuhs.edu.sg. vice-chairman .... email. chair, a/prof dan yock young, 67727640, yock_young_dan@nuhs.edu.sg .... head, clinical a/prof yeo tseng tsai, 67724231, tseng_tsai_yeo@nuhs.edu.sg...", 
+        "email_list": [
+            "anita_lim@nuhs.edu.sg", 
+            "yock_young_dan@nuhs.edu.sg", 
+            "tseng_tsai_yeo@nuhs.edu.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }
+]

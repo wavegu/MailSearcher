@@ -1,0 +1,31 @@
+[
+    {
+        "content": "cancel. zhihui sun. university of louisville. verified email at louisville.edu ... cj haecker, ej garboczi, jw bullard, rb bohn, z sun, sp shah, t voigt. cement...", 
+        "email_list": [
+            "email@louisville.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GpP8OVcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Zhihui Sun - Google Scholar Citations"
+    }, 
+    {
+        "content": "jul 22, 2015 - email address : nptd_contact@nptd.gov.sg ... name, did, email. deputy director, ms tang zhi hui, 63549583, tang_zhi_hui@nptd.gov.sg.", 
+        "email_list": [
+            "nptd_contact@nptd.gov.sg", 
+            "tang_zhi_hui@nptd.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "oct 10, 2002 - email: duzh@tsinghua.edu.cn zhihuidu@gmail.com homepage: ..... [1] zhihui du, hongyang sun; yuxiong he; yu he; david a. bader;...", 
+        "email_list": [
+            "duzh@tsinghua.edu.cn", 
+            "zhihuidu@gmail.com"
+        ], 
+        "cite_url": "hpclab.cs.tsinghua.edu.cn/~duzh/cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Zhihui Du"
+    }
+]

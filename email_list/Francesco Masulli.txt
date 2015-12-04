@@ -1,0 +1,48 @@
+[
+    {
+        "content": "email francesco.masulli at unige.it skype id masulli. office hours (ricevimento studenti) thu 4:00-6:00 pm room 204@dibris (su appuntamento concordato via...", 
+        "email_list": [
+            "francesco.masulli@unige.it"
+        ], 
+        "cite_url": "www.disi.unige.it/person/MasulliF/", 
+        "cite_name": "University of Genoa", 
+        "title": "Francesco Masullis Homepage - DISI"
+    }, 
+    {
+        "content": "aug 6, 2015 - ricevimento studenti: giovedì ore 16.00-18.00 previo appuntamento email (masulli@disi.unige.it) masulli@disi.unige.it...", 
+        "email_list": [
+            "masulli@disi.unige.it", 
+            "masulli@disi.unige.it"
+        ], 
+        "cite_url": "www.disi.unige.it/.../MasulliF/dida...", 
+        "cite_name": "University of Genoa", 
+        "title": "Francesco Masulli - Teaching - DISI"
+    }, 
+    {
+        "content": "feb 13, 2012 - 1614 +39 010353 66046 genoa (italy). tel +39 010353 6604. fax +39 010353 6699. skype id: masulli. email francesco.masulli@unige.it.", 
+        "email_list": [
+            "francesco.masulli@unige.it"
+        ], 
+        "cite_url": "ps.aal-europe.eu/activity.../aalpartnersearch.2012-02-13.4330060854", 
+        "cite_name": "", 
+        "title": "DISI, Dept. Computer and Information Sciences - University ..."
+    }, 
+    {
+        "content": "jul 11, 2012 - from: francesco masulli  masulli@disi.unige.it to: francesco masulli ... motivation, and the name/email-addresses of some referees to", 
+        "email_list": [
+            "masulli@disi.unige.it"
+        ], 
+        "cite_url": "https://lists.bath.ac.uk/sympa/arc/bai/.../msg00004.html", 
+        "cite_name": "University of Bath", 
+        "title": "bai - [BAI] Robotics Post-Doc position, Phd positions, Pre ..."
+    }, 
+    {
+        "content": "email: francesco.masulli@unige.it. this lecture introduces the clustering techniques that aim to find a structure that aggregates a set of unlabeled data into some...", 
+        "email_list": [
+            "francesco.masulli@unige.it"
+        ], 
+        "cite_url": "sfla.lakecomoschool.org/files/2015/07/Masulli.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Fuzzy Clustering"
+    }
+]

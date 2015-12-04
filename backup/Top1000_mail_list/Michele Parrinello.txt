@@ -1,4 +1,47 @@
-michele.parrinello@usi.ch	[35]
-parrinello@phys.chem.ethz.ch	[21]
-email at phys.chem.ethz.ch	[3]
-gibertif at uchicago.edu	[1]
+[
+    {
+        "content": "professor michele parrinellos research group  news  events ... dr. michele parrinello computational ... e-mail: parrinello@phys.chem.ethz.ch. wichtiger...", 
+        "email_addr_list": [
+            "parrinello@phys.chem.ethz.ch"
+        ], 
+        "cite_url": "www.rgp.ethz.ch/imprint/people/.../pmich...", 
+        "cite_name": "ETH Zurich", 
+        "title": "ETH - RGP - Parrinello, Michele, Prof. Dr."
+    }, 
+    {
+        "content": "contact. office hours. previo appuntamento +41 (0)58 666 48 00. email. michele.parrinello@usi.ch. phone. +41 58 666 4801. office. laboratorio, office 501...", 
+        "email_addr_list": [
+            "michele.parrinello@usi.ch"
+        ], 
+        "cite_url": "search.usi.ch/people/.../Parrinello-Michele", 
+        "cite_name": "", 
+        "title": "Parrinello, Michele | Università della Svizzera italiana"
+    }, 
+    {
+        "content": "michele parrinello. department of chemistry ... verified email at phys.chem.ethz.ch. scholar ... m tuckerman, k laasonen, m sprik, m parrinello. the journal of...", 
+        "email_addr_list": [
+            "email@phys.chem.ethz.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lnkt9rgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "michele parrinello - Google Scholar Citations"
+    }, 
+    {
+        "content": "6900 lugano. tel.: 00 41/58/6 66 48 00. fax.: 00 41/58/6 66 48 17. e-mail: parrinello@phys.chem.ethz.ch. michele parrinello. bibliographie extern. search.", 
+        "email_addr_list": [
+            "parrinello@phys.chem.ethz.ch"
+        ], 
+        "cite_url": "www.bbaw.de  Home  The Academy  Members", 
+        "cite_name": "", 
+        "title": "Michele Parrinello — Berlin-Brandenburg Academy of ..."
+    }, 
+    {
+        "content": "email: gibertif at uchicago.edu ... zurich, switzerland supervisor: prof michele parrinello; m.s. in chemistry, university of florence, italy (2010); b.s. in chemistry,...", 
+        "email_addr_list": [
+            "gibertif@uchicago.edu"
+        ], 
+        "cite_url": "galligroup.uchicago.edu/People/fgiberti.php", 
+        "cite_name": "", 
+        "title": "Dr. Federico Giberti - The Galli group webpage"
+    }
+]

@@ -1,4 +1,30 @@
-luigi.zingales@chicagobooth.edu	[27]
-luigi@chicagobooth.edu	[11]
-email at chicagobooth.edu	[2]
-sarah.niemann@chicagobooth.edu	[1]
+[
+    {
+        "content": "phone: (773) 702-3196. fax: (773) 834-2081. email: luigi.zingales@chicagobooth.edu. assistant: sarah niemann, sarah.niemann@chicagobooth.edu, (773)...", 
+        "email_addr_list": [
+            "luigi.zingales@chicagobooth.edu", 
+            "sarah.niemann@chicagobooth.edu"
+        ], 
+        "cite_url": "faculty.chicagobooth.edu/luigi.zingales/contact...", 
+        "cite_name": "Booth School of Business", 
+        "title": "Luigi Zingales - Chicago Booth"
+    }, 
+    {
+        "content": "first name: luigi. middle name: last name: zingales. suffix: repec short-id: pzi101. email: luigi@chicagobooth.edu. homepage...", 
+        "email_addr_list": [
+            "luigi@chicagobooth.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pzi101.html", 
+        "cite_name": "", 
+        "title": "Luigi Zingales at IDEAS"
+    }, 
+    {
+        "content": "cancel. luigi zingales. professor of finance, university of chicago  corporate finance. verified email at chicagobooth.edu ... rg rajan, l zingales. national...", 
+        "email_addr_list": [
+            "email@chicagobooth.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dd-5oP4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Luigi Zingales - Google Scholar Citations"
+    }
+]

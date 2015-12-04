@@ -1,3 +1,38 @@
-gtr@physics.drexel.edu	[4]
-r.laing@rgu.ac.uk	[3]
-dps@astro.psu.edu	[1]
+[
+    {
+        "content": "gordon t. richards, phd. professor. department of physics. email: gtr@physics.drexel.edu. phone: 215.895.2713 p office: disque hall 812. personal site:...", 
+        "email_addr_list": [
+            "gtr@physics.drexel.edu"
+        ], 
+        "cite_url": "drexel.edu/coas/faculty-research/.../richards-gordon/", 
+        "cite_name": "Drexel University", 
+        "title": "Gordon Richards, PhD | CoAS | Drexel University"
+    }, 
+    {
+        "content": "gordon t. richards. drexel university gtr@physics.drexel.edu. department of physics. phone: (215) 295-2713. 3141 chestnut street. fax: (215) 295-5934.", 
+        "email_addr_list": [
+            "gtr@physics.drexel.edu"
+        ], 
+        "cite_url": "physics.drexel.edu/~gtr/gtrcv.080114.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Gordon T. Richards - Department of Physics - Drexel ..."
+    }, 
+    {
+        "content": "... consists of donald schneider (professor of astrophysics), gordon richards (postdoc), michael weinstein ... email dps@astro.psu.edu. dr. gordon t. richards", 
+        "email_addr_list": [
+            "dps@astro.psu.edu"
+        ], 
+        "cite_url": "astro.psu.edu/sdss/", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Sloan Digital Sky Survey at Penn State"
+    }, 
+    {
+        "content": "richard laing profile 2 ... email: r.laing@rgu.ac.uk .... conniff, a., craig, t., laing, r. and galan-diaz, c. (2010) a comparison of active navigation and passive...", 
+        "email_addr_list": [
+            "r.laing@rgu.ac.uk"
+        ], 
+        "cite_url": "https://www.rgu.ac.uk/dmstaff/laing-richard", 
+        "cite_name": "Robert Gordon University", 
+        "title": "Laing Richard - Robert Gordon University"
+    }
+]

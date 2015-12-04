@@ -1,0 +1,11 @@
+[
+    {
+        "content": "create alert. cancel. boris babenko. ucsd  computer vision, machine learning. verified email at cs.ucsd.edu ... b babenko, mh yang, s belongie. computer...", 
+        "email_list": [
+            "email@cs.ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HzfkQy4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Boris Babenko - Google Scholar Citations"
+    }
+]

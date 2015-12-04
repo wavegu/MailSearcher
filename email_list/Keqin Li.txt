@@ -1,0 +1,56 @@
+[
+    {
+        "content": "home page of keqin li. ... email: lik@newpaltz.edu ... on november 24, 2014, professor keqin li was notified by j. roberto b. de marca, ieee president and...", 
+        "email_list": [
+            "lik@newpaltz.edu"
+        ], 
+        "cite_url": "www.cs.newpaltz.edu/~lik/", 
+        "cite_name": "", 
+        "title": "Keqin Li - Computer Science - SUNY New Paltz"
+    }, 
+    {
+        "content": "name: keqin li. email: keqin.li@sap.com. current points: current level: company: sap labs france sas. address 1: 805 av maurice donat. town/city...", 
+        "email_list": [
+            "keqin.li@sap.com"
+        ], 
+        "cite_url": "https://scn.sap.com/people/keqin.li", 
+        "cite_name": "SAP SE", 
+        "title": "Keqin LIs Profile | SCN"
+    }, 
+    {
+        "content": "email: kli10@gsu.edu. langdale hall 924. return to directory. keqin li. visiting lecturer. biography. about  contact georgia state  employment  university...", 
+        "email_list": [
+            "kli10@gsu.edu"
+        ], 
+        "cite_url": "chemistry.gsu.edu/profile/keqin-li-3/", 
+        "cite_name": "Georgia State University", 
+        "title": "Keqin Li - Chemistry"
+    }, 
+    {
+        "content": "email: kli10@gsu.edu. lh 924. return to directory. keqin li. lecturer, visiting chemistry. biography. about  contact georgia state  employment  university...", 
+        "email_list": [
+            "kli10@gsu.edu"
+        ], 
+        "cite_url": "shared.cas.gsu.edu/profile/keqin-li-3/", 
+        "cite_name": "", 
+        "title": "Keqin Li - Shared CAS"
+    }, 
+    {
+        "content": "keqin li3. sap research, france. ayda saidane4. university of trento, italy ... 3 email: keqin.li@sap.com. 4 email: ... el khoury, zannone, li, saidane, busnel.", 
+        "email_list": [
+            "keqin.li@sap.com"
+        ], 
+        "cite_url": "security1.win.tue.nl/~zannone/.../busn-elkh-li-said-zann-08-STM.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]SD Pattern Deployment at Organizational Level - Security ..."
+    }, 
+    {
+        "content": "email:{paul.el.khoury, keqin.li}@sap.com. 3 liris, university of lyon i, 8, bd niels bohr, 69622 villeurbanne cedex, france. email:paul.el-khoury@liris.cnrs.fr.", 
+        "email_list": [
+            "paul.el-khoury@liris.cnrs.fr"
+        ], 
+        "cite_url": "www.sersc.org/journals/IJSH/vol3_no1_2009/3.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]An XACML-based Security Pattern to achieve Socio ..."
+    }
+]

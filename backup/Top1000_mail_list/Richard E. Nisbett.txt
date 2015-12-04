@@ -1,3 +1,20 @@
-nisbett@umich.edu.mindware	[16]
-nisbett@umich.edu	[16]
-email at umich.edu	[2]
+[
+    {
+        "content": "personal webpage for richard nisbett, distinguished university professor at the universiyt of michigan. ... tel: (734) 761-5847. e-mail: nisbett@umich.edu.", 
+        "email_addr_list": [
+            "nisbett@umich.edu"
+        ], 
+        "cite_url": "www-personal.umich.edu/~nisbett/", 
+        "cite_name": "", 
+        "title": "Richard Nisbett - Umich - University of Michigan"
+    }, 
+    {
+        "content": "richard nisbett. professor of psychology ... verified email at umich.edu. scholar. get my own ... re nisbett, k peng, i choi, a norenzayan. psychological review...", 
+        "email_addr_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lqg2Op8AAAAJ...en", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard Nisbett - Google Scholar Citations"
+    }
+]

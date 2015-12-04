@@ -1,1 +1,11 @@
-email at cs.berkeley.edu	[3]
+[
+    {
+        "content": "randy katz. university of california ... verified email at cs.berkeley.edu - homepage ... h balakrishnan, vn padmanabhan, s seshan, rh katz. networking...", 
+        "email_addr_list": [
+            "email@cs.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PkfChMgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Randy Katz - Google Scholar Citations"
+    }
+]

@@ -1,7 +1,47 @@
-giovanni.demicheli@epfl.chgiovanni	[35]
-giovanni.demicheli@epfl.ch	[35]
-giovanni.demicheli at epfl.ch	[35]
-g.demicheli@fremuragroup.com	[20]
-lbrambil@elet.polimi.it	[2]
-email at epfl.ch	[2]
-people@epflpeople.epfl.ch	[1]
+[
+    {
+        "content": "giovanni de micheli is professor and director of the institute of electrical engineering and of the integrated systems ... e-mail: giovanni.demicheli@epfl.ch", 
+        "email_addr_list": [
+            "giovanni.demicheli@epfl.ch"
+        ], 
+        "cite_url": "si2.epfl.ch/~demichel/", 
+        "cite_name": "École Polytechnique Fédérale de Lausanne", 
+        "title": "Giovanni De Micheli - EPFL"
+    }, 
+    {
+        "content": "giovanni de micheli. epfl, stanford. electrical engineering, computer science. verified email at epfl.ch - homepage ... l benini, a bogliolo, g de micheli.", 
+        "email_addr_list": [
+            "email@epfl.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7SUnVDsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Giovanni De Micheli - Google Scholar Citations"
+    }, 
+    {
+        "content": "first name: giovanni. family name: de micheli. affiliation: epfl. country: switzerland. email: giovanni.demicheli@epfl.ch  share this.  return to last page...", 
+        "email_addr_list": [
+            "giovanni.demicheli@epfl.ch"
+        ], 
+        "cite_url": "www.date-conference.com/.../gio...", 
+        "cite_name": "Design, Automation and Test in Europe", 
+        "title": "Giovanni De Micheli, EPFL, Switzerland | DATE 2016"
+    }, 
+    {
+        "content": "email lbrambil@elet.polimi.it ... giovanni de micheli is professor and director of the institute of electrical engineering and of the integrated systems centre at...", 
+        "email_addr_list": [
+            "lbrambil@elet.polimi.it"
+        ], 
+        "cite_url": "intranet.dei.polimi.it/ictinstitute/details.php?id=31", 
+        "cite_name": "", 
+        "title": "Giovanni De Micheli - Dipartimento di Elettronica ed ..."
+    }, 
+    {
+        "content": "giovanni demicheli - trade manager / sales manager. email: g.demicheli@fremuragroup.com. tel: +39 010 659 112 3 / +39 02 264 334 62. fax: +39 010 640...", 
+        "email_addr_list": [
+            "g.demicheli@fremuragroup.com"
+        ], 
+        "cite_url": "www.dal.biz/Agencies/Agencypdf.aspx?Countryid=13Country...www.google.com/email", 
+        "cite_name": "", 
+        "title": "[PDF]Print Agency List for Italy - DALGoogle Business Email - Custom email for your company‎"
+    }
+]

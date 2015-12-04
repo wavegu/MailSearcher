@@ -1,0 +1,48 @@
+[
+    {
+        "content": "e-mail: jiwen.lu at adsc.com.sg (offical) ... jiwen lu is a research scientist at the advanced digital sciences center (adsc), singapore, the singapore-based...", 
+        "email_list": [
+            "jiwen.lu@adsc.com.sg"
+        ], 
+        "cite_url": "https://sites.google.com/site/elujiwen/", 
+        "cite_name": "", 
+        "title": "Jiwen Lus Homepage - Sites - Google"
+    }, 
+    {
+        "content": "create alert. cancel. jiwen lu (鲁继文) ... verified email at adsc.com.sg - homepage  scholar. get my own ... j lu, j hu, x zhou, y shang, yp tan, g wang.", 
+        "email_list": [
+            "email@adsc.com.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TN8uDQoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jiwen Lu (鲁继文) - Google Scholar Citations"
+    }, 
+    {
+        "content": "contact. jiwen lu advanced digital sciences center, singapore email: jiwen.lu@adsc.com.sg. junlin hu school of eee, nanyang technological university,...", 
+        "email_list": [
+            "jiwen.lu@adsc.com.sg"
+        ], 
+        "cite_url": "www.kinfacew.com/contact.html", 
+        "cite_name": "", 
+        "title": "Contact | KinFaceW database"
+    }, 
+    {
+        "content": "school of electrical and electronic engineering, nanyang technological university, singapore. email: jiwen.lu@adsc.com.sg. abstract. kinship verification from...", 
+        "email_list": [
+            "jiwen.lu@adsc.com.sg"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Neighborhood Repulsed Metric Learning for Kinship Verifica"
+    }, 
+    {
+        "content": "beijing 100048, china. email: zxz@xeehoo.com; xiuzhuang.zhou@cnu.edu.cn ... jiwen lu, venice erin liong, xiuzhuang zhou, jie zhou. learning compact...", 
+        "email_list": [
+            "zxz@xeehoo.com", 
+            "xiuzhuang.zhou@cnu.edu.cn"
+        ], 
+        "cite_url": "www.xeehoo.com/zxz.html", 
+        "cite_name": "", 
+        "title": "Xiuzhuang Zhou"
+    }
+]

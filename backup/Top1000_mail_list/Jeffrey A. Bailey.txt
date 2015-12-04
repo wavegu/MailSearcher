@@ -1,5 +1,47 @@
-jeffrey.bailey@une.edu.au	[28]
-jbailey@ringbenderlaw.com	[15]
-jbailey@uidaho.edu	[15]
-jbailey@medassets.com	[15]
-publicaffairs@umassmed.edu	[3]
+[
+    {
+        "content": "jeffrey baileys profile, publications, research topics, and co-authors. ... in august of 2009, dr. bailey joined the faculty as a tenure-track assistant professor in the program in .... email: publicaffairs@umassmed.edu phone: 508-856-1572.", 
+        "email_addr_list": [
+            "publicaffairs@umassmed.edu"
+        ], 
+        "cite_url": "profiles.umassmed.edu/.../13...", 
+        "cite_name": "University of Massachusetts Medical School", 
+        "title": "Jeffrey Bailey | Profiles RNS"
+    }, 
+    {
+        "content": "jeff bailey, ph.d. office: alb120 phone: 208-885-7156. email: jbailey@uidaho.edu. university of idaho ... jeffs links. visit jeffs website. related programs.", 
+        "email_addr_list": [
+            "jbailey@uidaho.edu"
+        ], 
+        "cite_url": "www.uidaho.edu  Business  Economics  Business", 
+        "cite_name": "University of Idaho", 
+        "title": "Jeff Bailey-Department of Business-University of Idaho"
+    }, 
+    {
+        "content": "view the profiles of professionals named jeffrey bailey on linkedin. ... summary, email address : jbailey@medassets.com twitter jeffreylbailey jeff has been...", 
+        "email_addr_list": [
+            "jbailey@medassets.com"
+        ], 
+        "cite_url": "https://au.linkedin.com/pub/dir/Jeffrey/Bailey", 
+        "cite_name": "", 
+        "title": "Top 25 Jeffrey Bailey profiles | LinkedIn"
+    }, 
+    {
+        "content": "dr jeffrey bailey. professor, deputy head, school of education. jeffrey bailey. phone: +61 2 6773 4072. email: jeffrey.bailey@une.edu.au...", 
+        "email_addr_list": [
+            "jeffrey.bailey@une.edu.au"
+        ], 
+        "cite_url": "www.une.edu.au  Staff Profiles", 
+        "cite_name": "University of New England", 
+        "title": "Jeffrey Bailey - University of New England (UNE)"
+    }, 
+    {
+        "content": "mr. bailey is of counsel in ring benders florida office. he provides ... jeffrey s. bailey. phone: (786) 235-2031. email: jbailey@ringbenderlaw.com. address:", 
+        "email_addr_list": [
+            "jbailey@ringbenderlaw.com"
+        ], 
+        "cite_url": "ringbenderlaw.com/bios/jeffrey-s-bailey/", 
+        "cite_name": "", 
+        "title": "Jeffrey S. Bailey - Ring Bender McKown  Castillo LLLP"
+    }
+]

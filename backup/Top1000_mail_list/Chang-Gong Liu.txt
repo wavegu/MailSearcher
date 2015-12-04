@@ -1,8 +1,41 @@
-gonglz@ustc.edu.cn	[10]
-gonglz@ustc.edu.cn.hong	[10]
-cgliu@mdanderson.org	[9]
-cgliu@mdanderson.org.chang	[9]
-liq3@umdnj.edu	[2]
-linto@umdnj.edu	[2]
-chenw4@umdnj.edu	[2]
-jainmr@umdnj.edu	[1]
+[
+    {
+        "content": "chang-gong liu, ph.d. professor, department of experimental therapeutics phone: 713-792-2287 (office) lab: 713-745-8182. e-mail: cgliu@mdanderson.org.", 
+        "email_addr_list": [
+            "cgliu@mdanderson.org"
+        ], 
+        "cite_url": "www.mdanderson.org/...", 
+        "cite_name": "University of Texas MD Anderson Cancer Center", 
+        "title": "Contact Information - MD Anderson Cancer Center"
+    }, 
+    {
+        "content": "sequencing and ncrna program (ncrna core), led by chang-gong liu, ph.d., is a shared resource established in 2009 in ... e-mail: cgliu@mdanderson.org.", 
+        "email_addr_list": [
+            "cgliu@mdanderson.org"
+        ], 
+        "cite_url": "https://my.ilabsolutions.com/service.../sequencing-and-ncrna-program", 
+        "cite_name": "", 
+        "title": "iLab Organizer :: Sequencing and ncRNA Program"
+    }, 
+    {
+        "content": "email: chenw4@umdnj.edu. mohit jain email: jainmr@umdnj.edu. qing li, md, ph.d. email: liq3@umdnj.edu. tong liu email: linto@umdnj.edu. changgong...", 
+        "email_addr_list": [
+            "chenw4@umdnj.edu", 
+            "jainmr@umdnj.edu", 
+            "liq3@umdnj.edu", 
+            "linto@umdnj.edu"
+        ], 
+        "cite_url": "njms.rutgers.edu/resource.../profile.cfm?...", 
+        "cite_name": "New Jersey Medical School", 
+        "title": "Hong Li, Ph.D. - Rutgers New Jersey Medical School"
+    }, 
+    {
+        "content": "chang-gong liu - ... phone: 713-792-2287•email: cgliu@mdanderson.org ... m., ferraro, a., berlingieri, m. t., troncone, g., chiappetta, g., liu, c. g., santoro,...", 
+        "email_addr_list": [
+            "cgliu@mdanderson.org"
+        ], 
+        "cite_url": "mdanderson.influuent.utsystem.edu/.../changgong-liu(67adb92a.../public...www.google.com/email", 
+        "cite_name": "", 
+        "title": "Chang-Gong Liu - Research outputs - MD Anderson Cancer ...Google Business Email‎"
+    }
+]

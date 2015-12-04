@@ -1,4 +1,47 @@
-soren.brunak@cpr.ku.dk	[14]
-brunak@cbs.dtu.dk	[13]
-brunak@cbs.dtu.dk.mining	[13]
-email at cbs.dtu.dk	[3]
+[
+    {
+        "content": "søren brunak. professor ... e-mail, brunak@cbs.dtu.dk ... besenbacher, søren ; liu, siyang ; gonzalez-izarzugaza, jose maria ; grove, jakob ; belling, kirstine...", 
+        "email_addr_list": [
+            "brunak@cbs.dtu.dk"
+        ], 
+        "cite_url": "www.dtu.dk/english/Service/.../Person?i...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "Søren Brunak - DTU"
+    }, 
+    {
+        "content": "søren brunak. professor of bioinformatics ... verified email at cbs.dtu.dk - homepage  scholar ... jd bendtsen, h nielsen, g von heijne, s brunak. journal of...", 
+        "email_addr_list": [
+            "email@cbs.dtu.dk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eNqd5xEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Søren Brunak - Google Scholar Citations"
+    }, 
+    {
+        "content": "disease systems biology program. panum instituttet, blegdamsvej 3, 2200 københavn n, building: 6.2.24. soren.brunak@cpr.ku.dk. phone: +45 35 32 50...", 
+        "email_addr_list": [
+            "soren.brunak@cpr.ku.dk"
+        ], 
+        "cite_url": "www.cpr.ku.dk/.../tdsb/?...", 
+        "cite_name": "University of Copenhagen", 
+        "title": "Søren Brunak - Brunak Group (Translational Disease ..."
+    }, 
+    {
+        "content": "soren brunak. søren brunak. image, søren brunak, ph.d., is professor of bioinformatics at the technical university of denmark. ... email: brunak@cbs.dtu.dk.", 
+        "email_addr_list": [
+            "brunak@cbs.dtu.dk"
+        ], 
+        "cite_url": "www.embracegrid.info/partners/soren-brunak", 
+        "cite_name": "", 
+        "title": "Soren Brunak | EMBRACE"
+    }, 
+    {
+        "content": "ucph. home; research. j.brunak ... email: brunak@cbs.dtu.dk. biography: søren brunak (sbr), professor, dr. phil., ph.d., center director for cbs-ucph.", 
+        "email_addr_list": [
+            "brunak@cbs.dtu.dk"
+        ], 
+        "cite_url": "www.ucd.ie  Home  ASSET  People", 
+        "cite_name": "University College Dublin", 
+        "title": "Partner 13 - UCPH - S.B. | ASSET"
+    }
+]

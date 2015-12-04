@@ -1,2 +1,11 @@
-j.loveday@ed.ac.uk	[16]
-johnloveday@glaisyers.co.uk	[16]
+[
+    {
+        "content": "you are in: ; meet the team ; john loveday. rotating banner. john loveday. 0121 233 2971 ... call: 0121 233 2971 email: johnloveday@glaisyers.co.uk.", 
+        "email_addr_list": [
+            "johnloveday@glaisyers.co.uk"
+        ], 
+        "cite_url": "www.glaisyers.co.uk/meet-the-team/john-loveday.aspxwww.google.com/email", 
+        "cite_name": "", 
+        "title": "John Loveday - GlaisyersGoogle Business Email‎Searches related to Jon Loveday email"
+    }
+]

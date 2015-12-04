@@ -1,0 +1,29 @@
+[
+    {
+        "content": "christo wilson. assistant professor. education: phd | university of california, santa barbara. email: cbw@ccs.neu.edu. personal website...", 
+        "email_list": [
+            "cbw@ccs.neu.edu"
+        ], 
+        "cite_url": "www.ccs.neu.ed...", 
+        "cite_name": "Northeastern University College of Computer and Info...", 
+        "title": "Christo Wilson - College of Computer and Information Science"
+    }, 
+    {
+        "content": "c.wilson@neu.edu ... a research team led by northeastern assistant professor christo wilson cracked open the algorithm that ... subscribe to daily news email...", 
+        "email_list": [
+            "c.wilson@neu.edu"
+        ], 
+        "cite_url": "www.northeastern.edu/news/.../christo-wilson/", 
+        "cite_name": "Northeastern University", 
+        "title": "Christo Wilson | news @ Northeastern"
+    }, 
+    {
+        "content": "christo wilson. assistant professor ... verified email at ccs.neu.edu - homepage  scholar ... c wilson, b boe, a sala, kpn puttaswamy, by zhao. proceedings...", 
+        "email_list": [
+            "email@ccs.neu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KzmHyt8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Christo Wilson - Google Scholar Citations"
+    }
+]

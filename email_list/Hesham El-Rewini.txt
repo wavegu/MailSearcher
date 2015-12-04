@@ -1,0 +1,60 @@
+[
+    {
+        "content": "home  faculty; hesham el-rewini. hesham el-rewini. college of engineering  mines. title. dean. contact information. email. hesham.el-rewini@und.edu...", 
+        "email_list": [
+            "hesham.el-rewini@und.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of North Dakota", 
+        "title": "Hesham El-Rewini | Faculty | UND: University of North Dakota"
+    }, 
+    {
+        "content": "jul 17, 2008 - hesham el-rewini, ph.d., p.e.. dr. el-rewini has ... nd 58202-8155. e-mail: rewini@mail.und.edu. office phone: 701-777-3412. hesham...", 
+        "email_list": [
+            "rewini@mail.und.edu"
+        ], 
+        "cite_url": "https://lyle.smu.edu/~rewini/", 
+        "cite_name": "", 
+        "title": "Hesham El-Rewinis WWW Home Page"
+    }, 
+    {
+        "content": "decision tech. for management; chair: dan dolk; email: dolker@redshift.com ... co-chair: hesham el-rewini; email: rewini@engr.smu.edu. * information...", 
+        "email_list": [
+            "dolker@redshift.com", 
+            "rewini@engr.smu.edu"
+        ], 
+        "cite_url": "www.cse.fau.edu/~jie/minitrack-cfp.html", 
+        "cite_name": "", 
+        "title": "Routing in - FAU College of Engineering - Florida Atlantic ..."
+    }, 
+    {
+        "content": "jul 1, 1997 - david yuan, mci telecommunications, 901 international pkwy, richardson, tx 75081. e-mail: david.yuan@mci.com. hesham el-rewini...", 
+        "email_list": [
+            "david.yuan@mci.com"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=261854", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Dynamic Data Reallocation for Skew Management inShared ..."
+    }, 
+    {
+        "content": "... email: sprague@hawaii.edu co-chair: hesham el-rewini; email: rewini@cs.unomaha.edu * information technology in health care; chair: william chismar...", 
+        "email_list": [
+            "sprague@hawaii.edu", 
+            "rewini@cs.unomaha.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Ventana Systems UK Forum • View topic - Hawaii conference on ..."
+    }, 
+    {
+        "content": "pp: 320. bithika khargharia , email: bithikak@ece.arizona.edu. salim hariri , email: hariri@ece.arizona.edu ... hesham el-rewini , email: rewini@engr.smu.edu.", 
+        "email_list": [
+            "bithikak@ece.arizona.edu", 
+            "hariri@ece.arizona.edu", 
+            "rewini@engr.smu.edu"
+        ], 
+        "cite_url": "www.computer.org/csdl/.../04228238-abs.html", 
+        "cite_name": "IEEE Computer Society", 
+        "title": "Autonomic PowerPerformance Management for Large ..."
+    }
+]

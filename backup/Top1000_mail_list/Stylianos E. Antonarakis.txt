@@ -1,3 +1,29 @@
-stylianos.antonarakis@unige.chthis	[41]
-email at unige.ch	[6]
-duncan.davidson@hgu.mrc.ac.uk	[3]
+[
+    {
+        "content": "verified email at unige.ch. scholar. get my own ... e birney, ja stamatoyannopoulos, a dutta, r guigó, tr gingeras, ... nature 447 (7146) ... sh orkin, hh kazazian, se antonarakis, sc goff, cd boehm, jp sexton, ... nature 296, 627-631,...", 
+        "email_addr_list": [
+            "email@unige.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HJyMVXoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stylianos E. Antonarakis - Google Scholar Citations"
+    }, 
+    {
+        "content": "professeur stylianos e. antonarakis, unige, tél.022 379 57 08; e-mail stylianos.antonarakis@unige.chthis e-mail address is being protected from spambots.", 
+        "email_addr_list": [
+            "stylianos.antonarakis@unige.chthis"
+        ], 
+        "cite_url": "www.isb-sib.ch/news-a-events/.../197-sequencing-the-cow-genome.html", 
+        "cite_name": "", 
+        "title": "Sequencing the Cows Genetic Code - SIB"
+    }, 
+    {
+        "content": "fax: +44 131 467 8456. e-mail: duncan.davidson@hgu.mrc.ac.uk. prof. stylianos antonarakis university of geneva faculty of medicine/ division of medical...", 
+        "email_addr_list": [
+            "duncan.davidson@hgu.mrc.ac.uk"
+        ], 
+        "cite_url": "www.eurexpress.org/ee/project/partnerscontacts.htmlwww.google.com/email", 
+        "cite_name": "EURExpress II", 
+        "title": "Partners and Contacts - EurexpressGoogle Business Email‎"
+    }
+]

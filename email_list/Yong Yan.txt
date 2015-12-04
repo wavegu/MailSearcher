@@ -1,0 +1,38 @@
+[
+    {
+        "content": "verified email at kent.ac.uk - homepage  scholar ... y yan, b byrne, s woodhead, j coulthard. measurement science ... y huang, y yan, g riley. measurement...", 
+        "email_list": [
+            "email@kent.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=B4SKvFoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yong Yan - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at tu-ilmenau.de. scholar. get my own ... b hao, y yan, x wang, g chen ... y yan, b hao, d wang, g chen, e markweg, a albrecht, p schaaf.", 
+        "email_list": [
+            "email@tu-ilmenau.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CszrxQkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yong Yan - Google Scholar Citations"
+    }, 
+    {
+        "content": "people. dr weiyong yan ... fax, +618 9266 2584. email, w.yan@curtin.edu.au ... nakagawa, c. r., s. e. nordholm, f. albu, and w. y. yan. 2014.“acoustics...", 
+        "email_list": [
+            "w.yan@curtin.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Curtin University", 
+        "title": "Dr Weiyong Yan - Electrical Engineering and Computing ..."
+    }, 
+    {
+        "content": "jul 27, 2015 - dr. yang, yong ... email: yonyang@cityu.edu.hk ... q. wang, s.t. zhang, y. yang, c.t. liu, y.d. dong, j. lu, unusual fast secondary relaxation...", 
+        "email_list": [
+            "yonyang@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cityu.edu.hk/mbe/yonyang/", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Dr. YANG, Yong - City University of Hong Kong"
+    }
+]

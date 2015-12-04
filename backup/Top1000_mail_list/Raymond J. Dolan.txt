@@ -1,4 +1,30 @@
-r.dolan@ucl.ac.uk	[12]
-kierdorf@sf.mpg.de	[3]
-email at psych.ucla.edu	[2]
-email at fil.ion.ucl.ac.uk	[1]
+[
+    {
+        "content": "uclh consultant profile for prof ray dolan. ... email: r.dolan@ucl.ac.uk. location: national ... park sq, kahnt t, talmi d, rieskamp j, dolan rj, heekeren hr.", 
+        "email_addr_list": [
+            "r.dolan@ucl.ac.uk"
+        ], 
+        "cite_url": "https://www.uclh.nhs.uk/.../ProfRayDolan.asp...", 
+        "cite_name": "University College Hospital", 
+        "title": "Prof Ray Dolan - University College London Hospitals"
+    }, 
+    {
+        "content": "verified email at fil.ion.ucl.ac.uk - homepage  scholar. get my own ... t singer, b seymour, j odoherty, h kaube, rj dolan, cd frith. science 303 (5661)...", 
+        "email_addr_list": [
+            "email@fil.ion.ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=0iy8RTMAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Raymond J Dolan - Google Scholar Citations"
+    }, 
+    {
+        "content": "raymond j dolan. university college london. verified email at fil.ion.ucl.ac.uk. @fil.ion.ucl.ac.uk. cited by ... verified email at psych.ucla.edu. @psych.ucla.edu.", 
+        "email_addr_list": [
+            "email@fil.ion.ucl.ac.uk", 
+            "email@psych.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

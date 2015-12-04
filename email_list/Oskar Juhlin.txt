@@ -1,0 +1,20 @@
+[
+    {
+        "content": "andaxt@gmail.com. –. annika waern. is centre director for mobile life. annika is a research by design... +. is centre director for mobile life. annika is a research...", 
+        "email_list": [
+            "andaxt@gmail.com"
+        ], 
+        "cite_url": "www.mobilelifecentre.org/people/show/30", 
+        "cite_name": "Mobile Life Centre", 
+        "title": "Annika Waern - Mobile Life Centre"
+    }, 
+    {
+        "content": "oskar juhlin: publications, bio, bibliography, etc. ... personal homepage: http://mobility.dsv.su.se/people/oskar-juhlin/; employer: (); email: oskarj@dsv.su.se...", 
+        "email_list": [
+            "oskarj@dsv.su.se"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/oskar-juhlin", 
+        "cite_name": "", 
+        "title": "Oskar Juhlin: Publications, bio, bibliography, etc ..."
+    }
+]

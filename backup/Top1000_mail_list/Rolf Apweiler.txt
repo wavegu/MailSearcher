@@ -1,2 +1,20 @@
-apweiler@ebi.ac.uk	[18]
-info@embl.de	[1]
+[
+    {
+        "content": "rolf apweiler is a senior scientist at the european molecular biology laboratory - european bioinformatics ... email: apweiler@ebi.ac.uk. institution: embl-ebi...", 
+        "email_addr_list": [
+            "apweiler@ebi.ac.uk"
+        ], 
+        "cite_url": "https://www.microb3.eu/partners/advisory-board/dr-rolf-apweiler", 
+        "cite_name": "", 
+        "title": "Dr. Rolf Apweiler | Micro B³"
+    }, 
+    {
+        "content": "... 20057‐1414, usa. *to whom correspondence should be addressed. tel: +44 1223 494435; fax: +44 1223 494468; email: apweiler@ebi.ac.uk. next section...", 
+        "email_addr_list": [
+            "apweiler@ebi.ac.uk"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/32/...1/D115.full", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "UniProt: the Universal Protein knowledgebase"
+    }
+]

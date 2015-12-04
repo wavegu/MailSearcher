@@ -1,0 +1,30 @@
+[
+    {
+        "content": "e-mail: jonna.hakkila@cie.fi ... jonna häkkilä received her phd degree at university of oulu, finland, in 2007, and has done extended research visits to...", 
+        "email_list": [
+            "jonna.hakkila@cie.fi"
+        ], 
+        "cite_url": "www.cie.fi/people.php?sid=3src=peopleudpview=7792...en", 
+        "cite_name": "", 
+        "title": "Jonna Häkkilä - CIE"
+    }, 
+    {
+        "content": "snowflake girl aka dr jonna hakkila. i am a professor in the industrial design at faculty of art and ... back to top. email: techgirlsaresuperheroes@gmail.com.", 
+        "email_list": [
+            "techgirlsaresuperheroes@gmail.com"
+        ], 
+        "cite_url": "www.techgirlsaresuperheroes.org/snowflake-girl-aka-jonna-hakkila/", 
+        "cite_name": "", 
+        "title": "Snowflake Girl aka Dr Jonna Hakkila — Tech Girls are ..."
+    }, 
+    {
+        "content": "... finland firstname.lastname@hiit.fi abstract jonna hkkil nokia research center yrttipellontie 10 90230 oulu finland jonna.hakkila@nokia.com we know...", 
+        "email_list": [
+            "firstname.lastname@hiit.fi", 
+            "jonna.hakkila@nokia.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-hakkila-nokia-com-11736788.htm", 
+        "cite_name": "", 
+        "title": "hakkila@nokia.com - The Email Archive"
+    }
+]

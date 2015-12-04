@@ -1,0 +1,47 @@
+[
+    {
+        "content": "carolyn penstein rosé. cprose@cs.cmu.edu. associate professor (effective ... full cv: cv-rose-2015.pdf. my group: mygroup.html. recent press coverage:...", 
+        "email_list": [
+            "cprose@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~cprose/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Carolyn Penstein Rose - School of Computer Science"
+    }, 
+    {
+        "content": "if you see a paper listed you would like to read, send email to me at cprose@cs.cmu.edu. you can find my complete publication record on google scholar.", 
+        "email_list": [
+            "cprose@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~cprose/.../Publications.htm...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Carolyn Penstein Rose - School of Computer Science"
+    }, 
+    {
+        "content": "if you have any questions, dont hesitate to send me email! click here to ... home page. carolyn penstein rose (cprose@cs.cmu.edu)/ carnegie mellon university.", 
+        "email_list": [
+            "cprose@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~cprose/Selected.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Carolyn Penstein Rose - Carnegie Mellon University"
+    }, 
+    {
+        "content": "nov 5, 2007 - machine learning in practice. instructor: carolyn penstein rose language ... e-mail: cprose@cs.cmu.edu. phone: (412) 268-7130. fax: (412)...", 
+        "email_list": [
+            "cprose@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~cprose/MachineLearningI...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Carolyn Penstein Rose - School of Computer Science"
+    }, 
+    {
+        "content": "cancel. carolyn penstein rose ... verified email at cs.cmu.edu - homepage  scholar ... k vanlehn, ac graesser, gt jackson, p jordan, a olney, cp rosé.", 
+        "email_list": [
+            "email@cs.cmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BMydCgcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Carolyn Penstein Rose - Google Scholar Citations"
+    }
+]

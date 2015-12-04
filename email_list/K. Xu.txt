@@ -1,0 +1,83 @@
+[
+    {
+        "content": "email: k.xu@mdx.ac.uk ... kai xu is a senior lecturer in visual analytics at the middlesex university, where he is involved in a number of visual analytics projects...", 
+        "email_list": [
+            "k.xu@mdx.ac.uk"
+        ], 
+        "cite_url": "www.mdx.ac.uk/about-us/our-people/staff.../xu-kai", 
+        "cite_name": "Middlesex University", 
+        "title": "Xu, Kai | Middlesex University London"
+    }, 
+    {
+        "content": "qiaobing xu, ph.d. email: qiaobing.xu@tufts.edu. tufts university, medford, ma 02155, usa. tel: 617-627-4322 fax: 617-627-3231. working experience.", 
+        "email_list": [
+            "qiaobing.xu@tufts.edu"
+        ], 
+        "cite_url": "engineering.tufts.edu/.../xu/cv.pd...", 
+        "cite_name": "Tufts University School of Engineering", 
+        "title": "[PDF]QIAOBING XU, Ph.D. Email - School of Engineering - Tufts ..."
+    }, 
+    {
+        "content": "phone : (852)2358-7433 fax : (852)2358-1643 office : 3444 e-mail : makxu@ust.hk. dr. kun xu. chair professor, department of mathematics and department of...", 
+        "email_list": [
+            "makxu@ust.hk"
+        ], 
+        "cite_url": "www.math.ust.hk/~m...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Welcome to the home of Kun Xu - Department of Mathematics"
+    }, 
+    {
+        "content": "verified email at mail.mil - homepage  scholar ... k xu, s zhang, tr jow, w xu, ca angell. electrochemical and ... s zhang, ms ding, k xu, j allen, tr jow.", 
+        "email_list": [
+            "email@mail.mil"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=S6Eii30AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kang Xu （许康） - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at tsinghua.edu.cn - homepage  scholar. get my own ... k xu, k chen, h fu, wl sun, sm hu ... sm hu, t chen, k xu, mm cheng, rr martin.", 
+        "email_list": [
+            "email@tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W2XJUmUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kun Xu - Google Scholar Citations"
+    }, 
+    {
+        "content": "kun xu. chair professor, mathematics department, hong kong university of science and ... verified email at ust.hk - homepage ... k xu, l martinelli, a jameson.", 
+        "email_list": [
+            "email@ust.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dRlBzscAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Kun Xu - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 21, 2015 - email: yanmeng.xu@brunel.ac.uk ... dr xu is a tribologist and has extensive knowledge in the subjects of engineering materials, mechanical...", 
+        "email_list": [
+            "yanmeng.xu@brunel.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Brunel University London", 
+        "title": "Yanmeng Xu | Brunel University London"
+    }, 
+    {
+        "content": "email: j.xu@leeds.ac.uk ... sargeant aj; webster de; djemame k; xu j testing the effectiveness of dynamic binding in web services in: the 2010 international...", 
+        "email_list": [
+            "j.xu@leeds.ac.uk"
+        ], 
+        "cite_url": "https://www.engineering.leeds.ac.uk/people/.../j.xu", 
+        "cite_name": "University of Leeds", 
+        "title": "Professor Jie Xu - Faculty of Engineering - University of Leeds"
+    }, 
+    {
+        "content": "... systems; work telephone: 617-287-7882; work email: peng.xu@umb.edu ... mohan, k., xu, p., and ramesh, b., “improving the change management...", 
+        "email_list": [
+            "peng.xu@umb.edu"
+        ], 
+        "cite_url": "https://www.umb.edu/.../peng_xu", 
+        "cite_name": "University of Massachusetts Boston", 
+        "title": "Peng Xu - University of Massachusetts Boston"
+    }
+]

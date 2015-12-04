@@ -1,4 +1,38 @@
-abateman@rmfpc.com	[16]
-agb@sanger.ac.uk	[3]
-email at ebi.ac.uk	[3]
-agb@ebi.ac.uk	[3]
+[
+    {
+        "content": "create alert. cancel. alex bateman ... verified email at ebi.ac.uk - homepage  scholar ... sr eddy, ell sonnhammer, a bateman, e birney, r durbin, kl howe.", 
+        "email_addr_list": [
+            "email@ebi.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8McfX8gAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Alex Bateman - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr alex bateman. european bioinformatics institute. email: agb@ebi.ac.uk. office phone: 01223 ... websites: http://www.ebi.ac.uk/about/people/alex-bateman.", 
+        "email_addr_list": [
+            "agb@ebi.ac.uk"
+        ], 
+        "cite_url": "bbsrcdtp.lifesci.cam.ac.uk/directory/bateman-alex", 
+        "cite_name": "University of Cambridge", 
+        "title": "Dr Alex Bateman - BBSRC DTP Programme - University of ..."
+    }, 
+    {
+        "content": "dr alex bateman. dr alex bateman. european bioinformatics institute. email: agb@ebi.ac.uk. office phone: 01223 494100...", 
+        "email_addr_list": [
+            "agb@ebi.ac.uk"
+        ], 
+        "cite_url": "bbsrcdtp.lifesci.cam.ac.uk/...in.../bateman01", 
+        "cite_name": "University of Cambridge", 
+        "title": "Dr Alex Bateman - BBSRC DTP Programme - University of ..."
+    }, 
+    {
+        "content": "alexander bateman. partner at rmfpc, co-chair health ... phone: (516) 663-6589. fax: (516) 663-6789. email: abateman@rmfpc.com  add to outlook contacts...", 
+        "email_addr_list": [
+            "abateman@rmfpc.com"
+        ], 
+        "cite_url": "rmfpc.com/attorneys/alexander-g-bateman-jr/", 
+        "cite_name": "", 
+        "title": "Alexander G. Bateman, Jr. - Ruskin Moscou Faltischek"
+    }
+]

@@ -1,4 +1,38 @@
-psyu@uic.edu	[7]
-psyu@cs.uic.edu	[7]
-email at cs.uic.edu	[5]
-info@videolectures.net	[1]
+[
+    {
+        "content": "philip s. yu. professor of computer ... verified email at cs.uic.edu - homepage  scholar ... cc aggarwal, jl wolf, ps yu, c procopiuc, js park. acm sigmod...", 
+        "email_addr_list": [
+            "email@cs.uic.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=D0lL1r0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Philip S. Yu - Google Scholar Citations"
+    }, 
+    {
+        "content": "philip s. yu. computer science department. university of illinoisat chicago, usa. email: psyu@uic.edu. qualifications. 1978 ph.d., new york university, usa,...", 
+        "email_addr_list": [
+            "psyu@uic.edu"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Philip S. Yu - Journals, Conferences, Proceedings, Open ..."
+    }, 
+    {
+        "content": "... conferences  academic organisations  eu supported  blog  about us  philip s. yu ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/philip_s_yu/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Philip S. Yu - VideoLectures.NET"
+    }, 
+    {
+        "content": "philip s. yu. curriculum vitae. wexler chair in ... email: psyu@cs.uic.edu. 851 s. morgan st., room 1138 seo. tel: (312) 996-0498. chicago, il 60607, usa.", 
+        "email_addr_list": [
+            "psyu@cs.uic.edu"
+        ], 
+        "cite_url": "top100.nctu.edu.tw/.../18-資通訊-俞士綸...", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "[PDF]Philip S. Yu Curriculum vitae"
+    }
+]

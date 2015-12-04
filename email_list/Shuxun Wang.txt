@@ -1,0 +1,56 @@
+[
+    {
+        "content": "our team: yibin wang, ph.d. professor of anesthesiology ... e-mail: yibinwang@mednet.ucla.edu  chen gao, ph.d. ... shuxun ren, m.d.. assistant researcher", 
+        "email_list": [
+            "yibinwang@mednet.ucla.edu"
+        ], 
+        "cite_url": "www.anes.ucla.edu/~yibinwang/team.html", 
+        "cite_name": "", 
+        "title": "Yibin Wang Laboratory| Homepage - UCLA"
+    }, 
+    {
+        "content": "cancel. shuxun cui ... verified email at swjtu.edu.cn - homepage  scholar ... l wang, s cui, z wang, x zhang, m jiang, l chi, h fuchs. langmuir 16 (26)...", 
+        "email_list": [
+            "email@swjtu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yJ7ip8TaD4EChl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shuxun Cui - Google Scholar Citations"
+    }, 
+    {
+        "content": "aug 25, 2009 - dr. shuxun cui ... email: scicui@gmail.com ... liu, c.; shi, w.; cui, s.; wang, z.; zhang, x. (2005): force spectroscopy of polymers: beyond...", 
+        "email_list": [
+            "scicui@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/cuishuxun/", 
+        "cite_name": "", 
+        "title": "cuishuxun - Google Sites"
+    }, 
+    {
+        "content": "shouchun yin, bo song, guanqing liu, zhiqiang wang and xi zhang, self-organization .... weiqing shi, zhiqiang wang, shuxun cui, xi zhang and zhishan bo, force spectroscopy on ... tel: +86 10 62793001email: xinxiban@tsinghua.edu.cn.", 
+        "email_list": [
+            "xinxiban@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/publish/.../faculties-2-39.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "ZHANG Xi - 清华大学 - Tsinghua University"
+    }, 
+    {
+        "content": "shuxun yu, wuwei ye. state key laboratory ... email: yew158@163.com ..... gou, zequn zheng, ye yin, xueyan zhang, kun liu, bo wang, chi song,. nan shi...", 
+        "email_list": [
+            "yew158@163.com"
+        ], 
+        "cite_url": "www.cottoninc.com/...Shuxun/02-Yu-Shuxun.pdf", 
+        "cite_name": "Cotton Incorporated", 
+        "title": "[PDF]The Genome of a Diploid Cotton Gossypium ... - Cotton Inc"
+    }, 
+    {
+        "content": "(16) xiaolin wang , shuxun chen, marco kong, zuankai wang, kd costa, ronald li, and dong sun . ... (14) xiaofeng zhou, lufeng che, bin xiong, kebin fan, yuelin wang, zuankai wang.single wafer .... email: zuanwang@cityu.edu.hk.", 
+        "email_list": [
+            "zuanwang@cityu.edu.hk"
+        ], 
+        "cite_url": "personal.cityu.edu.hk/~zuanwang/publications.html", 
+        "cite_name": "", 
+        "title": "Publications - City University of Hong Kong"
+    }
+]

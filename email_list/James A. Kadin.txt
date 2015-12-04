@@ -1,0 +1,29 @@
+[
+    {
+        "content": "james a. kadin. work address: the jackson laboratory. 600 main street. bar harbor, me 04609. phone: (207) 288-6208;. email: james.kadin@jax.org.", 
+        "email_list": [
+            "james.kadin@jax.org"
+        ], 
+        "cite_url": "https://www.jax.org/.../jimkadincvlong201410v1.pdf...", 
+        "cite_name": "Jackson Laboratory", 
+        "title": "[PDF]CURRICULUM VITAE James A. Kadin Work Address: The ..."
+    }, 
+    {
+        "content": "kadin indonesias chairman, suryo bambang sulisto shaked hand with vice minister of ... speaker dr. james gifford, un pri ..... email: info@bsd-kadin.org.", 
+        "email_list": [
+            "info@bsd-kadin.org"
+        ], 
+        "cite_url": "www.bsd-kadin.org/gallery", 
+        "cite_name": "", 
+        "title": "Gallery - KADIN BSD"
+    }, 
+    {
+        "content": "aug 4, 2015 - james a. kadin, email: gro.xaj@nidak.semaj. ... 2015 [pubmed]; blake ja, bult cj, kadin ja, richardson je, eppig jt, mouse genome...", 
+        "email_list": [
+            "gro.xaj@nidak.semaj"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../P...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Mouse Genome Informatics (MGI): reflecting on 25 years"
+    }
+]

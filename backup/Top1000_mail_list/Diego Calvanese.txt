@@ -1,4 +1,11 @@
-calvanese@inf.unibz.it	[19]
-bernhard.ganter@tu-dresden.de	[2]
-bmirkin@hse.ru	[1]
-email at inf.unibz.it	[1]
+[
+    {
+        "content": "diego calvanese. professor of ... verified email at inf.unibz.it - homepage  scholar ... d calvanese, g de giacomo, d lembo, m lenzerini, r rosati. journal of...", 
+        "email_addr_list": [
+            "email@inf.unibz.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=We0kRfEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Diego Calvanese - Google Scholar Citations"
+    }
+]

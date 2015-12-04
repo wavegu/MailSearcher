@@ -1,0 +1,29 @@
+[
+    {
+        "content": "weifeng zhao. doctoral degree, sichuan ... verified email at kth.se - homepage  scholar ... w zhao, j huang, b fang, s nie, n yi, b su, h li, c zhao. journal of...", 
+        "email_list": [
+            "email@kth.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BZb_82oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Weifeng Zhao - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 6, 2014 - weifeng zhao. email: weifeng@kth.se ... 2013 weifeng zhao, quanbing mou, xiaoxue zhang, jingyu shi, shudong sun and changsheng...", 
+        "email_list": [
+            "weifeng@kth.se"
+        ], 
+        "cite_url": "https://www.kth.se/.../weifeng-zhao-1.4605...", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "KTH | CHE | Weifeng Zhao"
+    }, 
+    {
+        "content": "see information and reports about zhaolu@unm.edu (weifeng zhaos e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "zhaolu@unm.edu"
+        ], 
+        "cite_url": "spam-report.email/zhaolu/unm.edu", 
+        "cite_name": "", 
+        "title": "zhaolu@unm.edu (Weifeng Zhaos e-mail) - Spam-Report ..."
+    }
+]

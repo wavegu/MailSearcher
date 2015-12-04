@@ -1,3 +1,29 @@
-pedrycz@ee.ualberta.cadepartment	[15]
-pedrycz@ee.ualberta.ca	[15]
-email at ualberta.ca	[1]
+[
+    {
+        "content": "create alert. cancel. witold pedrycz. unknown affiliation. verified email at ualberta.ca. scholar ... pjm van laarhoven, w pedrycz. fuzzy sets and systems 11...", 
+        "email_addr_list": [
+            "email@ualberta.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0nrcfZwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Witold Pedrycz - Google Scholar Citations"
+    }, 
+    {
+        "content": "university of alberta, edmonton, canada ph. (780) 492.4661 fax (780) 492.1811 e-mail pedrycz@ee.ualberta.ca. 2. education. university. degree. year granted.", 
+        "email_addr_list": [
+            "pedrycz@ee.ualberta.ca"
+        ], 
+        "cite_url": "www.ai-meth.polsl.pl/coe/CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE Witold PEDRYCZ"
+    }, 
+    {
+        "content": "department of electrical and computer engineering university of alberta tel: (780) 492-3333 fax: (780) 492-1811. e-mail: pedrycz@ee.ualberta.ca", 
+        "email_addr_list": [
+            "pedrycz@ee.ualberta.ca"
+        ], 
+        "cite_url": "rskt.cs.uregina.ca/Invited_Speakers_shortCV.html", 
+        "cite_name": "", 
+        "title": "Dr. Witold Pedrycz - RSKT 2011"
+    }
+]

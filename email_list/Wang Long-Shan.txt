@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at mail.sysu.edu.cn. scholar ... x qin, h bi, c wang, j li, x wang, l liu, x chen, m huang ... l liu, c wang, x he, w shang, y bi, d wang.", 
+        "email_list": [
+            "email@mail.sysu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com.tw/citations?user=9heDzhkAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Longshan Liu - Google Scholar Citations"
+    }
+]

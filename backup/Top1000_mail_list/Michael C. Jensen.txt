@@ -1,2 +1,29 @@
-mjensen@hbs.edu	[14]
-email at hbs.edu	[2]
+[
+    {
+        "content": "harvard university graduate school of business administration baker library 265 phone: (617) 495-6058 fax: (305) 675-3166 mjensen@hbs.edu...", 
+        "email_addr_list": [
+            "mjensen@hbs.edu"
+        ], 
+        "cite_url": "www.people.hbs.edu/mjensen/", 
+        "cite_name": "Harvard Business School", 
+        "title": "Michael C. Jensen - HBS People Space"
+    }, 
+    {
+        "content": "if you are michael c. jensen , you may change this information at the repec author ... email: mjensen@hbs.edu ... werner erhard  michael c. jensen, 2014.", 
+        "email_addr_list": [
+            "mjensen@hbs.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pje57.html", 
+        "cite_name": "", 
+        "title": "Michael C. Jensen at IDEAS"
+    }, 
+    {
+        "content": "verified email at hbs.edu - homepage ... mc jensen, wh meckling ... michael c. jensen, foundations of organizational strategy, harvard ..., 1992.", 
+        "email_addr_list": [
+            "email@hbs.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=44R7TLwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael C. Jensen - Google Scholar Citations"
+    }
+]

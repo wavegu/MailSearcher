@@ -1,6 +1,39 @@
-604-822-4994richard.mathias@ubc.ca	[17]
-ramathies@berkeley.edu	[17]
-email at berkeley.edu	[4]
-jungkyu.kim@ttu.edu	[2]
-wgrover@engr.ucr.edu	[2]
-info@spph.ubc.ca	[1]
+[
+    {
+        "content": "professor of the graduate school. email: ramathies@berkeley.edu (link sends e-mail) office: 307 lewis phone: 510.642.4192 fax: 510.642.3599 lab:306 lewis...", 
+        "email_addr_list": [
+            "ramathies@berkeley.edu"
+        ], 
+        "cite_url": "chemistry.berkeley.edu  ...  Faculty", 
+        "cite_name": "UC Berkeley College of Chemistry", 
+        "title": "Richard A. Mathies | College of Chemistry"
+    }, 
+    {
+        "content": "cancel. richard a. mathies ... verified email at berkeley.edu. scholar ... at woolley, d hadley, p landre, aj demello, ra mathies, ma northrup. analytical...", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Gc1H0LkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard A. Mathies - Google Scholar Citations"
+    }, 
+    {
+        "content": "richard mathiasphone: 604-822-4757fax: 604-822-4994richard.mathias@ubc.ca. ... email info@spph.ubc.ca. find us on. back to top. the university of british...", 
+        "email_addr_list": [
+            "604-822-4994richard.mathias@ubc.ca", 
+            "info@spph.ubc.ca"
+        ], 
+        "cite_url": "spph.ubc.ca/person/richard-mathias/", 
+        "cite_name": "University of British Columbia", 
+        "title": "Richard Mathias | School of Population and Public Health ..."
+    }, 
+    {
+        "content": "email: jungkyu.kim@ttu.edu. publications. [2015]. yun kyung jung, jungkyu kim, richard a. mathies, microfluidic hydrogel arrays: detection of cystic fibrosis...", 
+        "email_addr_list": [
+            "jungkyu.kim@ttu.edu"
+        ], 
+        "cite_url": "www.depts.ttu.edu/biomems/publications.htmlwww.google.com/email", 
+        "cite_name": "Texas Tech University", 
+        "title": "Biomedical Micro/Nano Device LabGoogle Business Email‎Searches related to Richard A. Mathies email"
+    }
+]

@@ -1,9 +1,58 @@
-ruoffrs@gmail.com	[13]
-r.ruoff@mail.utexas	[12]
-r.ruoff@mail.utexas.edu	[12]
-sgranick@ibs.re.kr	[4]
-email at unist.ac.kr	[4]
-r-piner@mail.utexas.edu	[3]
-hhson412@ibs.re.kr.rodney	[2]
-kimks@unist.ac.kr	[2]
-hhson412@ibs.re.kr	[2]
+[
+    {
+        "content": "ruoff group members. director. prof. rodney s. ruoff (view cv) r.ruoff@mail.utexas.edu. research scientist. richard piner r-piner@mail.utexas.edu...", 
+        "email_addr_list": [
+            "r.ruoff@mail.utexas.edu", 
+            "r-piner@mail.utexas.edu"
+        ], 
+        "cite_url": "bucky-central.me.utexas.edu/people/", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "The Ruoff Group, Nanoscience and Technology Lab"
+    }, 
+    {
+        "content": "e-mail: kimks@unist.ac.kr  research group website  center for superfunctional materials. rodney s. ruoff ... e-mail: sgranick@ibs.re.kr. research group...", 
+        "email_addr_list": [
+            "kimks@unist.ac.kr", 
+            "sgranick@ibs.re.kr"
+        ], 
+        "cite_url": "chemistry.unist.ac.kr/facultymembers/", 
+        "cite_name": "", 
+        "title": "Faculty Members - Department of Chemistry - unist"
+    }, 
+    {
+        "content": "director. rodney s. ruoff; +82 52 217 5505; ruoffrs@gmail.com. http://chemistry.unist.ac.kr  http://cmcm.ibs.re.kr. address. director, center for multidimensional...", 
+        "email_addr_list": [
+            "ruoffrs@gmail.com"
+        ], 
+        "cite_url": "cmcm.ibs.re.kr/html/cmcm_en/members/members_0201.html", 
+        "cite_name": "", 
+        "title": "Director  Members  ibs"
+    }, 
+    {
+        "content": "... unist, unist-gil 50, eonyang-eup, ulju-gun, ulsan, republic of korea. (room 302, blog 103). telephone: +82-52-217-5502. e-mail: hhson412@ibs.re.kr.", 
+        "email_addr_list": [
+            "hhson412@ibs.re.kr"
+        ], 
+        "cite_url": "cmcm.ibs.re.kr/", 
+        "cite_name": "", 
+        "title": "Center for Multidimensional Carbon Materials ibs"
+    }, 
+    {
+        "content": "verified email at unist.ac.kr - homepage  scholar ... dr dreyer, s park, cw bielawski, rs ruoff ... y zhu, s murali, w cai, x li, jw suk, jr potts, rs ruoff.", 
+        "email_addr_list": [
+            "email@unist.ac.kr"
+        ], 
+        "cite_url": "scholar.google.co.kr/citations?user=rKoPXo8AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Rodney Ruoff - Google Scholar Citations"
+    }, 
+    {
+        "content": "rodney s. ruoff. mechanical engineering department and materials science and engineering program, the university of texas at austin; r.ruoff@mail.utexas.", 
+        "email_addr_list": [
+            "r.ruoff@mail.utexas"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S08837694...www.google.com/email", 
+        "cite_name": "Cambridge University Press", 
+        "title": "MRS Bulletin - Personal perspectives on graphene: New ...Google Business Email‎"
+    }
+]

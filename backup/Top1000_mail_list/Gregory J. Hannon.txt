@@ -1,1 +1,11 @@
-hannon@cshl.edu	[13]
+[
+    {
+        "content": "... a big role in gene regulation. lin he  gregory j. hannon about the authors ... correspondence to: gregory j. hannon email: hannon@cshl.edu. top of page...", 
+        "email_addr_list": [
+            "hannon@cshl.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Reviewwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "MicroRNAs: small RNAs with a big role in gene regulation ...Google Business Email‎"
+    }
+]

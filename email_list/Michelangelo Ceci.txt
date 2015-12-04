@@ -1,0 +1,39 @@
+[
+    {
+        "content": "create alert. cancel. michelangelo ceci ... verified email at di.uniba.it - homepage  scholar ... a appice, m ceci, a lanza, fa lisi, d malerba. intelligent data...", 
+        "email_list": [
+            "email@di.uniba.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5fXwFRYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michelangelo Ceci - Google Scholar Citations"
+    }, 
+    {
+        "content": "michelangelo ceci. homepage: http://www.di.uniba.it/~ceci/. search externally: google ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/michelangelo_ceci/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Michelangelo Ceci - University of Bari - VideoLectures.NET"
+    }, 
+    {
+        "content": "oct 16, 2012 - email addresses: daniela.stojanova@ijs.si (daniela stojanova), ... (michelangelo ceci), annalisa.appice@uniba.it (annalisa appice),...", 
+        "email_list": [
+            "daniela.stojanova@ijs.si", 
+            "annalisa.appice@uniba.it"
+        ], 
+        "cite_url": "kt.ijs.si/.../fetch.p...", 
+        "cite_name": "Jozef Stefan Institute, Department of Knowledge Tech...", 
+        "title": "[PDF]Dealing with Spatial Autocorrelation when Learning ..."
+    }, 
+    {
+        "content": "dec 10, 2013 - email updates ... daniela stojanova*, michelangelo ceci*, donato malerba and saso ... michelangelo ceci michelangelo.ceci@uniba.it.", 
+        "email_list": [
+            "michelangelo.ceci@uniba.it"
+        ], 
+        "cite_url": "www.biomedcentral.com/1471-2105/14/285/comments", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Bioinformatics | User comments | Using PPI network ..."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jun 5, 2015 - email: j.klein-seetharaman@warwick.ac.uk ... judith klein-seetharaman is professor of biomedicine and systems biology at the university of...", 
+        "email_list": [
+            "j.klein-seetharaman@warwick.ac.uk"
+        ], 
+        "cite_url": "https://www2.warwick.ac.uk/fac/med/staff/jklein/", 
+        "cite_name": "University of Warwick", 
+        "title": "Professor Judith Klein - University of Warwick"
+    }, 
+    {
+        "content": "aug 27, 2005 - judith klein-seetharaman assistant professor department of structural biology ... 412 383 7325. fax. 412 648 8998. email. jks33@pitt.edu.", 
+        "email_list": [
+            "jks33@pitt.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~judithks/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Homepage of Judith Klein-Seetharaman"
+    }, 
+    {
+        "content": "new york, ny 10032. email: sm4073@cumc.columbia.edu ... libin ye, suvrajit maji, piraveen gopalasingam, judith klein-seetharaman. structure and...", 
+        "email_list": [
+            "sm4073@cumc.columbia.edu"
+        ], 
+        "cite_url": "franklab.cpmc.columbia.edu/.../Suvrajit_CV_2015....", 
+        "cite_name": "Columbia University", 
+        "title": "[PDF]CURRICULUM VITAE - Frank Lab - Columbia University"
+    }, 
+    {
+        "content": "oct 5, 2015 - email: bahar@pitt.edu ... klein-seetharaman j, balasubramanian k, amoscato aa, borisenko g, huang z, ... judith klein-seetharaman, phd", 
+        "email_list": [
+            "bahar@pitt.edu"
+        ], 
+        "cite_url": "upci.upmc.edu/mccbp/Ivet-Bahar.cfm?member=306", 
+        "cite_name": "", 
+        "title": "Ivet Bahar, PhD | Molecular and Cellular Cancer Biology ..."
+    }
+]

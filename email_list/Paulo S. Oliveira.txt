@@ -1,0 +1,20 @@
+[
+    {
+        "content": "paulo s. oliveira. email: pso@unicamp.br. professor of ecology dep. biologia animal universidade estadual de campinas 13083-862 campinas sp, brazil.", 
+        "email_list": [
+            "pso@unicamp.br"
+        ], 
+        "cite_url": "www2.ib.unicamp.br/profs/pso/", 
+        "cite_name": "", 
+        "title": "Paulo S. Oliveira - Unicamp"
+    }, 
+    {
+        "content": "etapas de ensino, ensino fundamental; ensino médio. telefone, (11) 2947-4947. e-mail, e004339a@see.sp.gov.br. endereço, rua sao silvestre, 400", 
+        "email_list": [
+            "e004339a@see.sp.gov.br"
+        ], 
+        "cite_url": "www.escol.as/189967-ataliba-de-oliveira-professor", 
+        "cite_name": "", 
+        "title": "Escola - Ataliba de Oliveira Professor - São Paulo - SP"
+    }
+]

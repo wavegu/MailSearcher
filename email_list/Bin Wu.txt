@@ -1,0 +1,47 @@
+[
+    {
+        "content": "image of bin wu ... dr. bin wu is a senior research fellow at china policy institute, school of contemporary ..... email: chinese.studies@nottingham.ac.uk...", 
+        "email_list": [
+            "chinese.studies@nottingham.ac.uk"
+        ], 
+        "cite_url": "www.nottingham.ac.uk/chinese/people/bin.wu", 
+        "cite_name": "University of Nottingham", 
+        "title": "Bin Wu - The University of Nottingham"
+    }, 
+    {
+        "content": "bin wu (武斌). max planck institute for ... verified email at evolbio.mpg.de - homepage  scholar ... b wu, d zhou, f fu, q luo, l wang, a traulsen. 105, 2010.", 
+        "email_list": [
+            "email@evolbio.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=C4T5WicAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bin Wu (武斌) - Google Scholar Citations"
+    }, 
+    {
+        "content": "bin wu. curriculum vitae. contact information. name bin wu. born september, 1983. email bin.wu@evolbio.mpg.de. phone +49 4522 763-269. fax +49 4522...", 
+        "email_list": [
+            "bin.wu@evolbio.mpg.de"
+        ], 
+        "cite_url": "sci.bupt.edu.cn/upload/file/201409/BinWu-PT(3).pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Bin Wu – Curriculum Vitae"
+    }, 
+    {
+        "content": "dr bin wu. lecturer. faculty of health, arts and design school of arts, social sciences and humanities department of ... office: w14. email: binwu@swin.edu.au...", 
+        "email_list": [
+            "binwu@swin.edu.au"
+        ], 
+        "cite_url": "www.swinburne.edu.au/.../view.ph...", 
+        "cite_name": "Swinburne University of Technology", 
+        "title": "Wu, Bin - Staff Profile - Faculty of Health, Arts and Design ..."
+    }, 
+    {
+        "content": "harbin insititute of technology 202 haihe road, harbin 150090, p.r.china phone and fax:86-451-86283765,86-451-86282704. email: bin.wu@hit.edu.cn.", 
+        "email_list": [
+            "bin.wu@hit.edu.cn"
+        ], 
+        "cite_url": "smc.hit.edu.cn/faculty/bwu/index.html", 
+        "cite_name": "", 
+        "title": "Professor Bin Wus Homepage"
+    }
+]

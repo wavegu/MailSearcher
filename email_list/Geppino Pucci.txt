@@ -1,0 +1,31 @@
+[
+    {
+        "content": "università di padova via gradenigo 6/b, i-35131 padova, italy. tel: +39 049 8277951. fax: +39 049 8277799. email: geppo at dei dot unipd dot it...", 
+        "email_list": [
+            "geppo@dei.unipd.it"
+        ], 
+        "cite_url": "www.dei.unipd.it/~geppo/", 
+        "cite_name": "University of Padua", 
+        "title": "Geppino Puccis home page - DEI"
+    }, 
+    {
+        "content": "giuseppe pucci. professore ordinario – ssd l-ant/07 (archeologia classica). recapiti. email: pucci@unisi.it questo indirizzo e-mail è protetto dallo spam bot.", 
+        "email_list": [
+            "pucci@unisi.it"
+        ], 
+        "cite_url": "www.archeoarti.unisi.it/personale/64-pucci", 
+        "cite_name": "", 
+        "title": "Giuseppe Pucci - Archeologia e Storia Delle Arti"
+    }, 
+    {
+        "content": "giuseppe pucci. giuseppe pucci. room e17-401g gpucci@math.mit.edu ... math@mit.edu. for website help or updates, please email webmaster@math.mit.edu.", 
+        "email_list": [
+            "gpucci@math.mit.edu", 
+            "math@mit.edu", 
+            "webmaster@math.mit.edu"
+        ], 
+        "cite_url": "math.mit.edu/people/profile.php?...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Giuseppe Pucci | MIT Mathematics"
+    }
+]

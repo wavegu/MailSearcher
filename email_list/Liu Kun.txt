@@ -1,0 +1,77 @@
+[
+    {
+        "content": "email : tyhuang@ntu.edu.sg. research interest ... email : liutao@ntu.edu.sg ... liukun.jpg. liu kun bsc shandong univ of tech, meng beijing univ of tech", 
+        "email_list": [
+            "tyhuang@ntu.edu.sg", 
+            "liutao@ntu.edu.sg"
+        ], 
+        "cite_url": "www.optimus.eee.ntu.edu.sg/.../Resea...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Research Staff"
+    }, 
+    {
+        "content": "hua kun liu is a distingiushed professor and a co-ordinator of energy materials research program of the institute for .... e-mail: hua_liu@uow.edu.au. huakun...", 
+        "email_list": [
+            "hua_liu@uow.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Wollongong", 
+        "title": "Professor Hua Kun Liu - ISEM - University of Wollongong"
+    }, 
+    {
+        "content": "cancel. hua kun liu. university of wollongong  energy materials. verified email at uow.edu.au ... ms park, gx wang, ym kang, d wexler, sx dou, hk liu.", 
+        "email_list": [
+            "email@uow.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=-AOHUY0AAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Hua Kun Liu - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 12, 2014 - dr. hai-kun liu ... liu h-k., belz t., bock d., takacs a., wu h., lichter p., chai m-q., schütz g. (2008) the nuclear ... e-mail: l.haikun@dkfz.de.", 
+        "email_list": [
+            "l.haikun@dkfz.de"
+        ], 
+        "cite_url": "www.dkfz.de/.../normale-und-neoplastis...", 
+        "cite_name": "German Cancer Research Center", 
+        "title": "Deutsches Krebsforschungszentrum - dkfz.de"
+    }, 
+    {
+        "content": "dr. yang xiang (email: xiangy@nju.edu.cn) ... dr. xinjian liu, senior engineer (email: liuxj@nju.edu.cn) ... yuting sun, xiaoyue wang, kun yin, anyue chen,", 
+        "email_list": [
+            "xiangy@nju.edu.cn", 
+            "liuxj@nju.edu.cn"
+        ], 
+        "cite_url": "genxililab.nju.edu.cn/people.htm", 
+        "cite_name": "", 
+        "title": "Prof. Genxi Lis Lab －－ People"
+    }, 
+    {
+        "content": "xingzhao liu, professor ... email:xzhliu@sjtu.edu.cn ... kun lu; xingzhao liu; yongtan liu,ionospheric decontamination and sea clutter suppression for hf...", 
+        "email_list": [
+            "xzhliu@sjtu.edu.cn"
+        ], 
+        "cite_url": "ee.sjtu.edu.cn/EN/show.aspx?info_lb=17info_id=181flag=3", 
+        "cite_name": "", 
+        "title": "Department of Electronic Engineering Shanghai Jiao Tong ..."
+    }, 
+    {
+        "content": "email：bo.liu@accelink.com ... 027-87693624; 027-87693944; 027-87693829; fax：027-876987691105; email：isd@accelink.com ... xie kun：13381969791.", 
+        "email_list": [
+            "bo.liu@accelink.com", 
+            "isd@accelink.com"
+        ], 
+        "cite_url": "www.accelink.com/en/service/marketing/", 
+        "cite_name": "", 
+        "title": "EN / Service / Marketing Networks_光迅科技"
+    }, 
+    {
+        "content": "liu kun. 中文. address: e-424a, hitsgs campus, shenzhen university town, xili, shenzhen, china （518055）. email: liukun@hitsz.edu.cn. phone: +86-755-...", 
+        "email_list": [
+            "liukun@hitsz.edu.cn"
+        ], 
+        "cite_url": "www.hitsz.edu.cn/body/shizi/detailen.php?strID=777", 
+        "cite_name": "", 
+        "title": "Liu Kun"
+    }
+]

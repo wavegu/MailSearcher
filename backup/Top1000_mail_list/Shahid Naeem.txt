@@ -1,2 +1,11 @@
-sn2121@columbia.edu	[3]
-email at columbia.edu	[1]
+[
+    {
+        "content": "shahid naeem. columbia university ... verified email at columbia.edu. scholar ... s naeem, lj thompson, sp lawler, jh lawton, rm woodfin. nature 368...", 
+        "email_addr_list": [
+            "email@columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XG6aM5EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shahid Naeem - Google Scholar Citations"
+    }
+]

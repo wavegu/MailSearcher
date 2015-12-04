@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail, michel.cosnard@inria.fr. url, http://www.inria.fr/mascotte/personnel/michel.cosnard/. phone (office), (international 33 4) (france 04) 92 38 78 01.", 
+        "email_list": [
+            "michel.cosnard@inria.fr"
+        ], 
+        "cite_url": "...", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "Home page for Michel Cosnard - Sophia - Inria"
+    }, 
+    {
+        "content": "michel cosnard. inria, france. parallel algorithms, automata, dynamical systems. verified email at inria.fr ... m cosnard, m marrakchi, y robert, d trystram.", 
+        "email_list": [
+            "email@inria.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=V7aWNcoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michel Cosnard - Google Scholar Citations"
+    }, 
+    {
+        "content": "michel cosnard: publications, bio, bibliography, etc. ... send us an email at hello@interaction-design.org or through our online contact form. or find us on:...", 
+        "email_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/michel-cosnard", 
+        "cite_name": "", 
+        "title": "Michel Cosnard - Interaction Design Foundation"
+    }
+]

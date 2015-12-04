@@ -1,3 +1,29 @@
-jm at disi.unitn.it	[3]
-jm@cs.toronto.edu	[3]
-email at cs.toronto.edu	[2]
+[
+    {
+        "content": "email: jm@cs.toronto.edu. biography. john mylopoulos received his beng degree from brown university in 1966 and his phd degree from princeton in 1970,...", 
+        "email_addr_list": [
+            "jm@cs.toronto.edu"
+        ], 
+        "cite_url": "www.cs.toronto.edu/~jm/", 
+        "cite_name": "", 
+        "title": "John Mylopoulos Web Page"
+    }, 
+    {
+        "content": "cancel. john mylopoulos. university of toronto ... verified email at cs.toronto.edu. scholar. get my own ... l chung, b nixon, e yu, j mylopoulos. springer, 2000.", 
+        "email_addr_list": [
+            "email@cs.toronto.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "John Mylopoulos - Google Scholar Citations"
+    }, 
+    {
+        "content": "john mylopoulos was programme chair. ... academic qualifications  experience: john mylopoulos is professor of computer ... email: jm@cs.toronto.edu...", 
+        "email_addr_list": [
+            "jm@cs.toronto.edu"
+        ], 
+        "cite_url": "www0.cs.ucl.ac.uk/research/.../toronto.html", 
+        "cite_name": "University College London", 
+        "title": "University of Toronto - UCL Computer Science"
+    }
+]

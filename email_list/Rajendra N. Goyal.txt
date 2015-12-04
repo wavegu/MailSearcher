@@ -1,0 +1,29 @@
+[
+    {
+        "content": "department of metallurgy and materials science. shivaji nagar, pune (m.s.) - 411 005. e-mail: rkgoyal72@yahoo.co.in. tel: (020) 25507275 (o); 25871871 (r),...", 
+        "email_list": [
+            "rkgoyal72@yahoo.co.in"
+        ], 
+        "cite_url": "www.coep.org.in/.../Resume_of_Dr_Goyal...", 
+        "cite_name": "College of Engineering, Pune", 
+        "title": "[PDF]RESUME OF RAJENDRA KUMAR GOYAL - COEP"
+    }, 
+    {
+        "content": "verified email at mmumullana.org. scholar. get my own ... a mittal, s gupta, r singal, m goyal, s uppal, p sharma, s mittal ... v kumar, m goyal, n rajendran.", 
+        "email_list": [
+            "email@mmumullana.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LIqZIFcAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "MANU GOYAL - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 17, 2007 - e-mail: oyama@iic.kyoto-u.ac.jp. birthdate: ... rajendra n. goyal, munetaka oyama, aditi sangal and sudhanshu p. singh,. indian journal of...", 
+        "email_list": [
+            "oyama@iic.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "www.ukm.my/iwcn2010/CV-Oyama.pdf", 
+        "cite_name": "National University of Malaysia", 
+        "title": "[PDF]Curriculum Vitae"
+    }
+]

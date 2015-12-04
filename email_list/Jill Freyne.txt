@@ -1,0 +1,30 @@
+[
+    {
+        "content": "create alert. cancel. jill freyne. csiro. verified email at csiro.au. scholar ... b smyth, e balfe, j freyne, p briggs, m coyle, o boydell. user modeling and...", 
+        "email_list": [
+            "email@csiro.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YQyVwokAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jill Freyne - Google Scholar Citations"
+    }, 
+    {
+        "content": "jill freyne: publications, bio, bibliography, etc. ... personal homepage: http://www.ict.csiro.au/staff/jill.freyne/; employer: (); email: jill.freyne@csiro.au...", 
+        "email_list": [
+            "jill.freyne@csiro.au"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/jill-freyne", 
+        "cite_name": "", 
+        "title": "Jill Freyne: Publications, bio, bibliography, etc. » Interaction ..."
+    }, 
+    {
+        "content": "contact: dr john roberts on (02) 6246 4019 or email john.roberts@csiro.au .... contact: jill freyne on 02 9372 4453 or email jill.freyne@csiro.au.", 
+        "email_list": [
+            "john.roberts@csiro.au", 
+            "jill.freyne@csiro.au"
+        ], 
+        "cite_url": "www.csiro.au/.../2...", 
+        "cite_name": "Commonwealth Scientific and Industrial Research Or...", 
+        "title": "[DOC]Position Details - csiro"
+    }
+]

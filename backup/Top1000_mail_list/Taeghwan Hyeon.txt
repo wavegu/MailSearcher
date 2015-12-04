@@ -1,9 +1,77 @@
-thyeon@snu.ac.kr	[12]
-thyeon@plaza.snu.ac.kr	[12]
-email at snu.ac.kr	[2]
-choiseunghong@gmail.com	[2]
-pharma@zju.edu.cn	[2]
-choiseunghong@gmail.com.editors	[2]
-verocay1@snu.ac.kr	[1]
-bren-office@jacs.acs.org	[1]
-verocay@snuh.org	[1]
+[
+    {
+        "content": "taeghwan hyeon. professor of school of ... nanotechnology. verified email at snu.ac.kr. scholar ... t hyeon, ss lee, j park, y chung, hb na. journal of the...", 
+        "email_addr_list": [
+            "email@snu.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XCZGA6QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Taeghwan Hyeon - Google Scholar Citations"
+    }, 
+    {
+        "content": "... noh, jae-young kim, jae-hoon park, nong-moon hwang and taeghwan hyeon ... correspondence to: taeghwan hyeon e-mail: thyeon@plaza.snu.ac.kr...", 
+        "email_addr_list": [
+            "thyeon@plaza.snu.ac.kr"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "Ultra-large-scale syntheses of monodisperse nanocrystals ..."
+    }, 
+    {
+        "content": "taeghwan hyeon. director, national creative ... 151-744, korea. e-mail: thyeon@plaza.snu.ac.kr ... hyeon has published more than 100 papers for the last ten...", 
+        "email_addr_list": [
+            "thyeon@plaza.snu.ac.kr"
+        ], 
+        "cite_url": "ewarga4.ukm.my/ewarga/pdf/CV%20Teghwan%20Hyeon.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Taeghwan Hyeon"
+    }, 
+    {
+        "content": "daishun ling，michael j. hackett，taeghwan hyeon*，cancer imaging, lighting up ... tel  fax : (86-571)88208444 email: pharma@zju.edu.cn. address：...", 
+        "email_addr_list": [
+            "pharma@zju.edu.cn"
+        ], 
+        "cite_url": "www.cps.zju.edu.cn/index.php?c=indexa=jzyg_detailid...", 
+        "cite_name": "", 
+        "title": "Daishun Ling"
+    }, 
+    {
+        "content": "taeghwan hyeon  prof.kisuk kang  prof.sunghoon ... seoul 110-744, korea. ◇ e-mail : verocay@snuh.org, verocay1@snu.ac.kr, choiseunghong@gmail.com.", 
+        "email_addr_list": [
+            "verocay@snuh.org", 
+            "verocay1@snu.ac.kr", 
+            "choiseunghong@gmail.com"
+        ], 
+        "cite_url": "nanomat.ibs.re.kr/_prog/_personnel/?site_dvs_cd...en...", 
+        "cite_name": "", 
+        "title": "Choi, Seung Hong  Professor  Members  ibs"
+    }, 
+    {
+        "content": "phone: (585) 273-3597: e-mail: bren-office@jacs.acs.org. benjamin f. ... taeghwan hyeon: seoul national university, korea: phone: 82 2 880 7195: e-mail:...", 
+        "email_addr_list": [
+            "bren-office@jacs.acs.org"
+        ], 
+        "cite_url": "pubs.acs.org/page/jacsat/editors.html", 
+        "cite_name": "American Chemical Society", 
+        "title": "Editors (ACS Publications)"
+    }, 
+    {
+        "content": "email address: ytqian [at] ustc.edu.cn. taeghwan hyeon. seoul national university, south korea. email address: thyeon [at] plaza.snu.ac.kr. sotirios baskoutas.", 
+        "email_addr_list": [
+            "ytqian@ustc.edu.cn", 
+            "thyeon@plaza.snu.ac.kr"
+        ], 
+        "cite_url": "jns.kashanu.ac.ir/journal/editorial.board", 
+        "cite_name": "", 
+        "title": "Journal of NanoStructures - Editorial Board"
+    }, 
+    {
+        "content": "email: thyeon@snu.ac.kr. website: http://nanomat.snu.ac.kr. name : taeghwan hyeon. title: professor. institute: national creative research initiative center for.", 
+        "email_addr_list": [
+            "thyeon@snu.ac.kr"
+        ], 
+        "cite_url": "www.cmu.edu/...forum/.../TWHyeon_CV.pd...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[PDF]Taeghwan Hyeon"
+    }
+]

@@ -1,3 +1,29 @@
-truhlar@umn.edu	[15]
-email at umn.edu	[3]
-tca@umn.edu	[2]
+[
+    {
+        "content": "appointment: regents professor cseng chemistry (office: room 247 smith) umn twin cities. email address: truhlar@umn.edu. web page...", 
+        "email_addr_list": [
+            "truhlar@umn.edu"
+        ], 
+        "cite_url": "www.umn.edu/lookup?SET...type...truhlar", 
+        "cite_name": "University of Minnesota", 
+        "title": "Donald G Truhlar - People Search : University of Minnesota"
+    }, 
+    {
+        "content": "donald g. truhlar. truhlar. born february 27, 1944 in chicago, illinois, usa. institute of technology ... email:truhlar@umn.edu. www: external link. b.a., st.", 
+        "email_addr_list": [
+            "truhlar@umn.edu"
+        ], 
+        "cite_url": "www.iaqms.org/members/truhlar.php", 
+        "cite_name": "", 
+        "title": "Donald G. Truhlar - International Academy of Quantum ..."
+    }, 
+    {
+        "content": "donald truhlar. university of minnesota ... verified email at umn.edu - homepage  scholar. get my own ... av marenich, cj cramer, dg truhlar. the journal of...", 
+        "email_addr_list": [
+            "email@umn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1gaf87YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Donald Truhlar - Google Scholar Citations"
+    }
+]

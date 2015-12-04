@@ -1,4 +1,30 @@
-39728.nello.cristianini@gmail.com	[33]
-nello.cristianini@gmail.com	[33]
-email at bristol.ac.uk	[2]
-email at jimmy.harvard.edu	[1]
+[
+    {
+        "content": "cancel. nello cristianini. university of bristol ... verified email at bristol.ac.uk. scholar ... mps brown, wn grundy, d lin, n cristianini, cw sugnet, ts furey, .", 
+        "email_addr_list": [
+            "email@bristol.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=iPJvBGYAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Nello Cristianini - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at jimmy.harvard.edu. @jimmy.harvard.edu ... nello cristianini. university of bristol. verified email at bristol.ac.uk. @bristol.ac.uk. cited by 39728.", 
+        "email_addr_list": [
+            "email@jimmy.harvard.edu", 
+            "email@bristol.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }, 
+    {
+        "content": "the list below contains all domains related to the email address nello.cristianini@gmail.com. the listed domains are showing the mentioned email address in...", 
+        "email_addr_list": [
+            "nello.cristianini@gmail.com"
+        ], 
+        "cite_url": "website.informer.com/email/nello.cristianini@gmail.com", 
+        "cite_name": "", 
+        "title": "Nello.cristianini@gmail.com at Website Informer"
+    }
+]

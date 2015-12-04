@@ -1,0 +1,20 @@
+[
+    {
+        "content": "profile: stanley wasserman ... phone: (812) 856-7828. email: stanwass@indiana.edu. homepage: http://mypage.iu.edu/~stanwass/. main research group:", 
+        "email_list": [
+            "stanwass@indiana.edu"
+        ], 
+        "cite_url": "www.stat.indiana.edu/people/profile.phtml?id=stanwass", 
+        "cite_name": "Indiana University", 
+        "title": "Stanley Wasserman - Department of Statistics | Indiana ..."
+    }, 
+    {
+        "content": "cancel. stan wasserman. rudy professor of ... verified email at indiana.edu. scholar. get my own profile ... ns contractor, s wasserman, k faust. academy of...", 
+        "email_list": [
+            "email@indiana.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XvWu8u8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stan Wasserman - Google Scholar Citations"
+    }
+]

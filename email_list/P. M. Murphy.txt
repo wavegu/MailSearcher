@@ -1,0 +1,38 @@
+[
+    {
+        "content": "phone: 01 902 2097. mobile: 087 662 1146. skype: pmmurphyltd. email: peter@pmmurphy.com. address: 149 lower baggot street, dublin 2. name. phone or...", 
+        "email_list": [
+            "peter@pmmurphy.com"
+        ], 
+        "cite_url": "www.pmmurphy.com/contact.php", 
+        "cite_name": "", 
+        "title": "Contact us - PM Murphy"
+    }, 
+    {
+        "content": "facebook  twitter  linkedin  email. print ... niall murphy is sector director of infrastructure at pm group. a chartered ... niall.murphy@pmgroup-global.com...", 
+        "email_list": [
+            "niall.murphy@pmgroup-global.com"
+        ], 
+        "cite_url": "www.pmgroup-global.com/.../Niall-Murphy....", 
+        "cite_name": "Project Management Group", 
+        "title": "Niall Murphy - PM Group"
+    }, 
+    {
+        "content": "jul 26, 2013 - mr. murphy, you first joined pm group 24 years ago. how has the company, and the market, changed? my background, prior to joining pm group, was in the. ... tel: +44 1707 828 754. email: contact@focusreports.net...", 
+        "email_list": [
+            "contact@focusreports.net"
+        ], 
+        "cite_url": "pharmaboardroom.com/.../interview-dave-murphy-ceo-pm-group/", 
+        "cite_name": "", 
+        "title": "Interview: Dave Murphy, CEO, PM Group Ireland"
+    }, 
+    {
+        "content": "5:00 pm - murphy. - 3837.  home page  activity search ... email: student.services@thirdstreetmusicschool.org. methods of paymentvisa, mastercard,...", 
+        "email_list": [
+            "student.services@thirdstreetmusicschool.org"
+        ], 
+        "cite_url": "https://apm.activecommunities.com/thirdstreetmusicschool/activity.../382...", 
+        "cite_name": "", 
+        "title": "Trumpet Ensemble - Mon. 5:00 pm - Murphy"
+    }
+]

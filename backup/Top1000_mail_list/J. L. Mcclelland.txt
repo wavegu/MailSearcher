@@ -1,4 +1,20 @@
-jabez.mcclelland@nist.gov	[23]
-mcclelland@stanford.edu	[22]
-2727.mcclelland@stanford.edu	[22]
-email at stanford.edu	[3]
+[
+    {
+        "content": "verified email at stanford.edu - homepage  scholar ... de rumelhart, jl mcclelland, pdpr group ... dc plaut, jl mcclelland, ms seidenberg, k patterson.", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=S2yYRQIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "James L. McClelland - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: mcclelland@stanford.edu 752 j. l. mcclelland / topics in cognitive science 2 (2010) the first cognitive science society meeting by alan newell in his...", 
+        "email_addr_list": [
+            "mcclelland@stanford.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mcclelland-stanford-edu-113184...", 
+        "cite_name": "", 
+        "title": "mcclelland@stanford.edu - The Email Archive"
+    }
+]

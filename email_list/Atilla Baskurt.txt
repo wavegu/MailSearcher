@@ -1,0 +1,49 @@
+[
+    {
+        "content": "... (département télécommunications, services  usages). location, jules verne (insa). e-mail, atilla.baskurt at liris.cnrs.fr. url, http://liris.cnrs.fr/atilla.baskurt...", 
+        "email_list": [
+            "atilla.baskurt@liris.cnrs.fr"
+        ], 
+        "cite_url": "https://liris.cnrs.fr/membres?...", 
+        "cite_name": "Centre national de la recherche scientifique", 
+        "title": "Atilla Baskurt - membres — LIRIS - CNRS"
+    }, 
+    {
+        "content": "courriel : atilla.baskurt@insa-lyon.fr ... atilla baskurt a été maître de conférences à linsa lyon au premier cycle et en ge (recherche ... mail : tc-s@insa-lyon.fr...", 
+        "email_list": [
+            "atilla.baskurt@insa-lyon.fr", 
+            "tc-s@insa-lyon.fr"
+        ], 
+        "cite_url": "https:/...", 
+        "cite_name": "Institut national des sciences appliquées de Lyon", 
+        "title": "Atilla BASKURT | Département Télécommunications ..."
+    }, 
+    {
+        "content": "his principal research interests include 3d content-based retrieval, multimedia indexing, and retrieval from content. email: tarik.filali@gmail.com. atilla baskurt...", 
+        "email_list": [
+            "tarik.filali@gmail.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0470510781", 
+        "cite_name": "", 
+        "title": "3D Object Processing: Compression, Indexing and Watermarking"
+    }, 
+    {
+        "content": "guillaume lavoué, florent dupont, atilla baskurt. 2.1 introduction 45. 2.2 basic ... email: atilla.baskurt@insa-lyon.fr/abaskurt@liris.cnrs.fr. mohamed daoudi is...", 
+        "email_list": [
+            "atilla.baskurt@insa-lyon.fr", 
+            "abaskurt@liris.cnrs.fr"
+        ], 
+        "cite_url": "", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Wiley: 3D Object Processing: Compression, Indexing and ..."
+    }, 
+    {
+        "content": "verified email at insa-lyon.fr. scholar. get my own ... d boukerroui, a baskurt, ja noble, o basset ... g lavoue, ed gelasca, f dupont, a baskurt, t ebrahimi.", 
+        "email_list": [
+            "email@insa-lyon.fr"
+        ], 
+        "cite_url": "scholar.google.fr/citations?user=JQVn75cAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Atilla Baskurt - Google Scholar Citations"
+    }
+]

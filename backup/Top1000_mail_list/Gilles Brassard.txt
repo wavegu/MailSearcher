@@ -1,4 +1,29 @@
-brassard at iro dot umontreal dot ca	[17]
-brassard at iro.umontreal.ca	[17]
-mtoupin@proco.ca	[1]
-email at iro.umontreal.ca	[1]
+[
+    {
+        "content": "email : brassard at iro dot umontreal dot ca. research interests: quantum mechanics is perhaps the most successful scientific theory of all times. it teaches...", 
+        "email_addr_list": [
+            "brassard@iro.umontreal.ca"
+        ], 
+        "cite_url": "www.iro.umontreal.ca/~brassard/en/", 
+        "cite_name": "Université de Montréal", 
+        "title": "Gilles Brassard - Université de Montréal"
+    }, 
+    {
+        "content": "gilles brassard. professor of ... verified email at iro.umontreal.ca - homepage  scholar ... ch bennett, g brassard, c crépeau, r jozsa, a peres, wk wootters.", 
+        "email_addr_list": [
+            "email@iro.umontreal.ca"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=Rh7_srgAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Gilles Brassard - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: mtoupin@proco.ca. gilles brassard. title: admin/exec assistant. area of responsibility: management executive. telephone: (418) 668-3371. ext: 2268.", 
+        "email_addr_list": [
+            "mtoupin@proco.ca"
+        ], 
+        "cite_url": "www.ic.gc.ca/app/ccc/srch/nvgt.do?lang...", 
+        "cite_name": "Industry Canada", 
+        "title": "Constructions Proco Inc. - Industrie Canada"
+    }
+]

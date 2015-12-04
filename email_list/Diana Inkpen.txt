@@ -1,0 +1,47 @@
+[
+    {
+        "content": "diana inkpen. professor ph.d. (university of toronto) p.eng. research ... email: diana@site.uottawa.ca. see my former page at the university of toronto. photos...", 
+        "email_list": [
+            "diana@site.uottawa.ca"
+        ], 
+        "cite_url": "www.site.uottawa.ca/~diana/", 
+        "cite_name": "University of Ottawa", 
+        "title": "Diana Zaiu Inkpen"
+    }, 
+    {
+        "content": "instructor: diana inkpen. office: site 5015. e-mail: diana@site.uottawa.ca telephone: 562-5800 ext. 6711. meeting times and locations. lectures: see...", 
+        "email_list": [
+            "diana@site.uottawa.ca"
+        ], 
+        "cite_url": "www.site.uottawa.ca/~diana/iti1120/", 
+        "cite_name": "University of Ottawa", 
+        "title": "ITI 1120"
+    }, 
+    {
+        "content": "e-card. diana inkpen professor ph.d. m.sc. b.eng. site 5015. office: 613 562-5800 ext. 6711. work e-mail: diana@eecs.uottawa.ca.", 
+        "email_list": [
+            "diana@eecs.uottawa.ca"
+        ], 
+        "cite_url": "engineering.uottawa.ca/eecs/people/inkpen-diana", 
+        "cite_name": "University of Ottawa", 
+        "title": "Diana Inkpen - Faculty of Engineering"
+    }, 
+    {
+        "content": "cancel. diana inkpen ... verified email at site.uottawa.ca. scholar ... d inkpen. acm transactions on speech and language processing (tslp) 4 (1), 2, 2007.", 
+        "email_list": [
+            "email@site.uottawa.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=66pwIBcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Diana Inkpen - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 29, 2000 - diana zaiu inkpen. i am now an assistant professor at the university ... e-mail: dianaz@cs.toronto.edu. office: sanford flemming, room 4301b,", 
+        "email_list": [
+            "dianaz@cs.toronto.edu"
+        ], 
+        "cite_url": "www.cs.toronto.edu/~dianaz/", 
+        "cite_name": "", 
+        "title": "Diana Zaius homepage - Department of Computer Science"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "nicole ellison. office: 4419 north quad. phone: 734/647-1430. email: enicole@umich.edu. professor of information, school of information...", 
+        "email_list": [
+            "enicole@umich.edu"
+        ], 
+        "cite_url": "https://www.si.umich.edu/...", 
+        "cite_name": "University of Michigan School of Information", 
+        "title": "Nicole Ellison | University of Michigan School of Information"
+    }, 
+    {
+        "content": "nicole ellison. associate professor, school of information university of michigan. email: enicole at umich dot edu. 443 north quad 105 s. state st. ann arbor,...", 
+        "email_list": [
+            "enicole@umich.edu"
+        ], 
+        "cite_url": "https://www.msu.edu/~nellison/", 
+        "cite_name": "Michigan State University", 
+        "title": "Nicole Ellison home page - Michigan State University"
+    }, 
+    {
+        "content": "cancel. nicole b. ellison. professor, school of ... verified email at umich.edu - homepage  scholar. get my own ... nb ellison, c steinfield, c lampe. journal of...", 
+        "email_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=P0XTYBEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Nicole B. Ellison - Google Scholar Citations"
+    }, 
+    {
+        "content": "nicole b. ellison and danah boyd. *this paper is the pre-‐press, ... please email nicole ellison at enicole@umich.edu for a copy of the final version for citation...", 
+        "email_list": [
+            "enicole@umich.edu"
+        ], 
+        "cite_url": "www.danah.org/papers/2013/SocialityThruSNS-preprint.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Sociality through Social Network Sites. - Danah Boyd"
+    }, 
+    {
+        "content": "jul 27, 2014 - andrew t fiore. facebook, inc., usa. nicole b ellison, university of michigan, ann arbor, mi 48109, usa. email: enicole@umich.edu...", 
+        "email_list": [
+            "enicole@umich.edu"
+        ], 
+        "cite_url": "nms.sagepub.com/content/early/.../1461444814543998", 
+        "cite_name": "Sage Publications", 
+        "title": "Social capital and resource requests on Facebook"
+    }
+]

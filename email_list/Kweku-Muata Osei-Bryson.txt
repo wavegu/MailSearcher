@@ -1,0 +1,38 @@
+[
+    {
+        "content": "create alert. cancel. kweku-muata a osei-bryson ... verified email at vcu.edu - homepage  scholar ... b kositanurit, o ngwenyama, km osei-bryson. european...", 
+        "email_list": [
+            "email@vcu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ym7kQCQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kweku-Muata A Osei-Bryson - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: kweku.muata@isy.vcu.edu. nöel bryson kweku-muata earned a b.s. in natural science from the university of the west indies at mona (1974), an m.s. in...", 
+        "email_list": [
+            "kweku.muata@isy.vcu.edu"
+        ], 
+        "cite_url": "www.math.buffalo.edu/mad/.../bryson_noel.html", 
+        "cite_name": "University at Buffalo", 
+        "title": "Kweku-Muata Agyei Osei-Bryson = Noel Bryson ..."
+    }, 
+    {
+        "content": "kweku-muata osei-bryson ... e-mail address: kmosei@vcu.edu ... 20, 93-95. doi:10.1080/02681102.2014.883115; b. kaba  k.-m. osei-bryson (2013).", 
+        "email_list": [
+            "kmosei@vcu.edu"
+        ], 
+        "cite_url": "business.vcu.edu/.../persondetail.php?urn=kmos...", 
+        "cite_name": "VCU School of Business", 
+        "title": "Kweku-Muata Osei-Bryson - VCU School of Business ..."
+    }, 
+    {
+        "content": "1. kweku-muata osei-bryson and ojelanki ngwenyama. 2 logical .... 301 w. main street, richmond, va 23284, usa, e-mail: liy26@vcu.edu. ojelanki...", 
+        "email_list": [
+            "liy26@vcu.edu"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-1-4614...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF (239KB) - Springer"
+    }
+]

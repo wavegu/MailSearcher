@@ -1,5 +1,39 @@
-mohamed.eddaoudi@kaust.edu.sa	[31]
-eddaoudi@usf.edu	[17]
-email at kaust.edu.sa	[3]
-mattar@exchangemonitor.com	[2]
-oyaghi@umich.edu	[1]
+[
+    {
+        "content": "cancel. mohamed eddaoudi ... verified email at kaust.edu.sa - homepage  scholar ... m eddaoudi, j kim, n rosi, d vodak, j wachter, m okeeffe, om yaghi.", 
+        "email_addr_list": [
+            "email@kaust.edu.sa"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3Ppv4bwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mohamed Eddaoudi - Google Scholar Citations"
+    }, 
+    {
+        "content": "email : mohamed.eddaoudi@kaust.edu.sa; eddaoudi@usf.edu. education profile: • phd. in chemistry (advisor: dr. anthony coleman). july 1996. denis diderot...", 
+        "email_addr_list": [
+            "mohamed.eddaoudi@kaust.edu.sa", 
+            "eddaoudi@usf.edu"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/.../Eddaoudi-Mohamed-CV_3s...", 
+        "cite_name": "Peking University", 
+        "title": "[PDF]Mohamed Eddaoudi Professor, Chemical and Life Sciences ..."
+    }, 
+    {
+        "content": "student researcher, group of professor dr. mohamed eddaoudi. 11/11 - 09/13 ... schoedel a., wojtas l., kelley s. p., rogers r. d., eddaoudi m., zaworotko m. j. network diversity through .... email: mohamed.eddaoudi@kaust.edu.sa.", 
+        "email_addr_list": [
+            "mohamed.eddaoudi@kaust.edu.sa"
+        ], 
+        "cite_url": "yaghi.berkeley.edu/cv/A.Schoedel.pdf", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "[PDF]Alexander Schoedel - Omar Yaghis Laboratory - University ..."
+    }, 
+    {
+        "content": "hailian li, mohamed eddaoudi, m. okeeffe  o. m. yaghi ... should be addressed to o.m.y. at the university of michigan (e-mail: email: oyaghi@umich.edu).", 
+        "email_addr_list": [
+            "oyaghi@umich.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Naturewww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Design and synthesis of an exceptionally stable and highly ...Google Business Email‎"
+    }
+]

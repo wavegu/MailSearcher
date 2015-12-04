@@ -1,0 +1,20 @@
+[
+    {
+        "content": "aug 2, 2005 - e-mail:hirano@ieee.org ... shoji hirano received the ph. d. degree in 2001 from himeji ... s. tsumoto, s. hirano, a. yasuda, and k. tsumoto:", 
+        "email_list": [
+            "hirano@ieee.org"
+        ], 
+        "cite_url": "www.med.shimane-u.ac.jp/med_info/hirano/", 
+        "cite_name": "Shimane University", 
+        "title": "Shoji Hirano, Ph.D."
+    }, 
+    {
+        "content": "3-1-1 maidashi, higashi-ku, fukuoka 812-8582, japan. tel: +81-92-642-5014. fax: +81-92-642-5983. email: houkabe@tem.med.kyushu-u.ac.jp. shoji hirano.", 
+        "email_list": [
+            "houkabe@tem.med.kyushu-u.ac.jp"
+        ], 
+        "cite_url": "www.temdec.med.kyushu-u.ac.jp/eng/img/our/.../sankoe03_2014.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Honorary Advisor Members"
+    }
+]

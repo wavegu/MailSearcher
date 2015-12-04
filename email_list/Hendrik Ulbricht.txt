@@ -1,0 +1,39 @@
+[
+    {
+        "content": "contact: dr alberto politi. email: a.politi@soton.ac.uk ... contact: dr marcus newton. email: m.c.newton@soton.ac.uk ... contact: prof hendrik ulbricht. email:...", 
+        "email_list": [
+            "a.politi@soton.ac.uk", 
+            "m.c.newton@soton.ac.uk"
+        ], 
+        "cite_url": "www.qlm.soton.ac.uk/research", 
+        "cite_name": "", 
+        "title": "Research | Quantum Light and Matter group"
+    }, 
+    {
+        "content": "dr hendrik ulbricht. photo: email: h.ulbricht@soton.ac.uk. surname: ulbricht. core group: quantum nanophysics and matter wave interferometry group.", 
+        "email_list": [
+            "h.ulbricht@soton.ac.uk"
+        ], 
+        "cite_url": "www.qtc.soton.ac.uk/node/99", 
+        "cite_name": "", 
+        "title": "Dr Hendrik Ulbricht | Quantum Technology Centre"
+    }, 
+    {
+        "content": "email: andre@xuereb.info. tel. ... andré xuereb, hendrik ulbricht, and mauro pateronstro; macroscopicity in an optomechanical matter-wave interferometer; opt.", 
+        "email_list": [
+            "andre@xuereb.info"
+        ], 
+        "cite_url": "andre.xuereb.info/", 
+        "cite_name": "", 
+        "title": "André Xuereb | Curriculum Vitae"
+    }, 
+    {
+        "content": "... designation : professor; email : tpsingh at tifr.res.in; tel: 0091-22-22782600 ... of quantum mechanics pi: hendrik ulbricht (southampton), co-investigator:...", 
+        "email_list": [
+            "tpsingh@tifr.res.in"
+        ], 
+        "cite_url": "www.tifr.res.in/~tpsingh/", 
+        "cite_name": "Tata Institute of Fundamental Research", 
+        "title": "Tejinder Pal Singhs Home Page"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: neil.thacker@manchester.ac.uk; telephone: +44 (0)161 275 5147. powered by ... h. ragheb, n.a.thacker, p.a. bromiley, d. tautz, a.c. schunke. (2013).", 
+        "email_list": [
+            "neil.thacker@manchester.ac.uk"
+        ], 
+        "cite_url": "www.population-health.manchester.ac.uk/.../nei...", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr Neil Thacker - Institute of Population Health - University ..."
+    }, 
+    {
+        "content": "dr neil thacker - personal details. select a page. personal details, research ... dr neil thacker. role: senior lecturer. email: neil.thacker@manchester.ac.uk.", 
+        "email_list": [
+            "neil.thacker@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/neil.a.thacker/", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr Neil Thacker research profile - personal details | The ..."
+    }, 
+    {
+        "content": "dr neil thacker - personal details ... dr neil thacker. role: senior lecturer. email: neil.thacker@manchester.ac.uk. to see email addresses you need to have...", 
+        "email_list": [
+            "neil.thacker@manchester.ac.uk"
+        ], 
+        "cite_url": "www.datascience.manchester.ac.uk/people/profile/?ea=neil.a.thacker", 
+        "cite_name": "", 
+        "title": "Dr Neil Thacker | The University of Manchester | Data ..."
+    }
+]

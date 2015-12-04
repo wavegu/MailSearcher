@@ -1,0 +1,47 @@
+[
+    {
+        "content": "home » staff » johannes fürnkranz. untermenue staff  untermenue jobs  » johannes fürnkranz  publications ... e-mail-symbol info@ke.tu-darmstadt.de.", 
+        "email_list": [
+            "info@ke.tu-darmstadt.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Technische Universität Darmstadt", 
+        "title": "Johannes Fürnkranz — Knowledge Engineering Group"
+    }, 
+    {
+        "content": "+49 6151 16-21812. e-mail-symbol info@ke.tu-darmstadt. ... fürnkranz nov 11, 2015  klausureinsicht dke nov 11, 2015  more… a a a | drucken | impressum...", 
+        "email_list": [
+            "info@ke.tu"
+        ], 
+        "cite_url": "www.ke.tu-darmstadt.de/", 
+        "cite_name": "Technische Universität Darmstadt", 
+        "title": "Knowledge Engineering Group"
+    }, 
+    {
+        "content": "johannes fürnkranz. tu darmstadt ... verified email at ke.informatik.tu-darmstadt.de - homepage ... e hüllermeier, j fürnkranz, w cheng, k brinker. artificial...", 
+        "email_list": [
+            "email@ke.informatik.tu-darmstadt.de"
+        ], 
+        "cite_url": "scholar.google.nl/citations?user=sfTn4wEAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Johannes Fürnkranz - Google Scholar Citations"
+    }, 
+    {
+        "content": "johannes fürnkranz. tu darmstadt ... verified email at ke.informatik.tu-darmstadt.de - homepage  scholar ... j fürnkranz, e hüllermeier, el mencía, k brinker.", 
+        "email_list": [
+            "email@ke.informatik.tu-darmstadt.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...hl=en...", 
+        "cite_name": "Google Scholar", 
+        "title": "Merged citations"
+    }, 
+    {
+        "content": "in. all, modules, distributions, authors. johannes fürnkranz. email, juffi@oefai.at. homepage, http://www.oefai.at/~juffi/. 113391 uploads, 32458 distributions...", 
+        "email_list": [
+            "juffi@oefai.at"
+        ], 
+        "cite_url": "search.cpan.org/~juffi/", 
+        "cite_name": "CPAN", 
+        "title": "Johannes Fürnkranz - search.cpan.org"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "di dr. lucas paletta. digital  bildanalyse und messsysteme. telefon: +43 316 876-1769. fax: +43 316 8769-1769 lucas.paletta@joanneum.at...", 
+        "email_list": [
+            "lucas.paletta@joanneum.at"
+        ], 
+        "cite_url": "www.joanneum.at/nc/lernen-sie-uns-kennen/.../Paletta-Lucas/13/p.html", 
+        "cite_name": "", 
+        "title": "DI Dr. Lucas Paletta - Unternehmen: Detail"
+    }
+]

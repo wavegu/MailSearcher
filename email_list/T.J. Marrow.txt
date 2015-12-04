@@ -1,0 +1,65 @@
+[
+    {
+        "content": "professor james marrow james martin professor of energy materials mansfield college oxford martin school ) ... email: james.marrow@materials.ox.ac.uk", 
+        "email_list": [
+            "james.marrow@materials.ox.ac.uk"
+        ], 
+        "cite_url": "www.materials.ox.ac.uk/peoplepages/marrow.html", 
+        "cite_name": "University of Oxford", 
+        "title": "Professor James Marrow - Personal Homepages Oxford ..."
+    }, 
+    {
+        "content": "verified email at materials.ox.ac.uk - homepage  scholar ... tj marrow, l babout, ap jivkov, p wood, d engelberg, n stevens, ... journal of nuclear materials...", 
+        "email_list": [
+            "email@materials.ox.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=r9j6ehkAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "James Marrow - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at manchester.ac.uk - homepage  scholar ... tj marrow, l babout, ap jivkov, p wood, d engelberg, n stevens, ... journal of nuclear materials...", 
+        "email_list": [
+            "email@manchester.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hvXMSnQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dirk Engelberg - Google Scholar Citations"
+    }, 
+    {
+        "content": "t.j. marrow. minister to junior high ... prior to joining pcbc in 2009, t.j. was the youth minister in earth, texas from 2006-2008. ... email: tjmarrow@pcbc.org", 
+        "email_list": [
+            "tjmarrow@pcbc.org"
+        ], 
+        "cite_url": "www.pcbc.org/imnew/staff/tjmarrow/", 
+        "cite_name": "", 
+        "title": "Park Cities Baptist Church - Dallas, Texas :: T.J. Marrow"
+    }, 
+    {
+        "content": "email: m.mostafavi@sheffield.ac.uk ... mostafavi m, mcdonald sa, mummery pm  marrow tj (2013) observation and quantification of three-dimensional crack...", 
+        "email_list": [
+            "m.mostafavi@sheffield.ac.uk"
+        ], 
+        "cite_url": "https://www.shef.ac.uk/mecheng/staff/mostafavi", 
+        "cite_name": "University of Sheffield", 
+        "title": "Dr Mahmoud Mostafavi - University of Sheffield"
+    }, 
+    {
+        "content": "mar 27, 2015 - danie els, tel 021-8084376, email dnjels@sun.ac.za. 2012 - current ... becker th, tait rb and marrow tj (2012). “an approach to calculate the...", 
+        "email_list": [
+            "dnjels@sun.ac.za"
+        ], 
+        "cite_url": "www.sun.ac.za/.../eng/.../Thorsten%20Becker.pdf", 
+        "cite_name": "Stellenbosch University", 
+        "title": "[PDF]Thorsten H. Becker - Universiteit van Stellenbosch"
+    }, 
+    {
+        "content": "l babout, t j marrow, p mummery and b j marsden5 school of materials, ... university of manchester email: james.marrow@manchester.ac.uk abstract the...", 
+        "email_list": [
+            "james.marrow@manchester.ac.uk"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0854043454", 
+        "cite_name": "", 
+        "title": "Management of Ageing in Graphite Reactor Cores"
+    }
+]

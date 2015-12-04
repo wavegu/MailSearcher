@@ -1,2 +1,11 @@
-emailsylvia@intel-research.net	[13]
-first-name at eecs dot berkeley dot edu	[3]
+[
+    {
+        "content": "... 94720-1776 usa email: first-name at eecs dot berkeley dot edu ... vyas sekar, norbert egi, sylvia ratnasamy, mike reiter, and guangyu shi in nsdi 2012.", 
+        "email_addr_list": [
+            "first-name@eecs.berkeley.edu"
+        ], 
+        "cite_url": "https://www.eecs.berkeley.edu/~sylvia/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Sylvia Ratnasamy - University of California, Berkeley"
+    }
+]

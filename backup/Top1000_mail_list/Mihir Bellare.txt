@@ -1,6 +1,56 @@
-mbellare@ucsd.edu	[16]
-mihir@cs.ucs	[11]
-name at eng dot ucsd dot edu	[2]
-email at eng.ucsd.edu	[2]
-tvhoang@engr.ucsb.edu	[1]
-hugo@watson.ibm.com	[1]
+[
+    {
+        "content": "mihir_small.jpg. welcome to mihir bellares web page. i am a professor in the ... email: my first name at eng dot ucsd dot edu. phone: (858) 534-4544", 
+        "email_addr_list": [
+            "name@eng.ucsd.edu"
+        ], 
+        "cite_url": "https://cseweb.ucsd.edu/~mihir/", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Mihir Bellares Homepage"
+    }, 
+    {
+        "content": "mihir bellare. professor, computer science and ... mihir bellare. web page. email: mbellare@ucsd.edu. office phone: 858-534-4544. institute affiliation:.", 
+        "email_addr_list": [
+            "mbellare@ucsd.edu"
+        ], 
+        "cite_url": "jacobsschool.ucsd.edu/.../findprofile.sfe?...", 
+        "cite_name": "Jacobs School of Engineering", 
+        "title": "Mihir Bellare - UCSD Jacobs School of Engineering"
+    }, 
+    {
+        "content": "mihir bellare. professor, department of ... verified email at eng.ucsd.edu - homepage  scholar ... m bellare, a desai, d pointcheval, p rogaway. advances in...", 
+        "email_addr_list": [
+            "email@eng.ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2pW1g5IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mihir Bellare - Google Scholar Citations"
+    }, 
+    {
+        "content": "hugo krawczyk ibm t.j. watson research center p.o.box 704 yorktown heights ny 10598 email: hugo@watson.ibm.com mihir bellare dept of computer...", 
+        "email_addr_list": [
+            "hugo@watson.ibm.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-mihir-cs-ucs-6501621.htm", 
+        "cite_name": "", 
+        "title": "mihir@cs.ucs - The Email Archive"
+    }, 
+    {
+        "content": "email: tvhoang@engr.ucsb.edu. university of california ... 8. mihir bellare, viet tung hoang, sriram keelveedhi, and phillip rogaway. “efficient garbling from.", 
+        "email_addr_list": [
+            "tvhoang@engr.ucsb.edu"
+        ], 
+        "cite_url": "www.cs.ucsb.edu/.../hviettung_C...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "[PDF]VIET TUNG HOANG"
+    }, 
+    {
+        "content": "email: david.cash [at] cs.rutgers.edu. mailing address: rutgers, the state ... tolga acar, mira belenkiy, mihir bellare, david cash eurocrypt 2010. [pdf]", 
+        "email_addr_list": [
+            "david.cash@cs.rutgers.edu"
+        ], 
+        "cite_url": "www.cs.rutgers.edu/~david.cash/www.google.com/email", 
+        "cite_name": "Rutgers University", 
+        "title": "Homepage of David Cash - Rutgers UniversityGoogle Business Email‎"
+    }
+]

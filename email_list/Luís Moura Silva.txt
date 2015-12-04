@@ -1,0 +1,29 @@
+[
+    {
+        "content": "navegação: início  luÍs alexandre silva (geral) ... gabinete: f.1.2 - doutor luís alexandre telefone: 239790090. extensão ... e-mail: luis@dei.uc.pt", 
+        "email_list": [
+            "luis@dei.uc.pt"
+        ], 
+        "cite_url": "www.dei.uc.pt/~luis", 
+        "cite_name": "University of Coimbra", 
+        "title": "LUÍS ALEXANDRE SILVA - DEI"
+    }, 
+    {
+        "content": "fabrício barboza simonini; réu: amon luis moura silva e outros = intimação. prazo de 0005 dia (s) ... email: vt.itauna@trt3.jus.br amon luis moura silva...", 
+        "email_list": [
+            "vt.itauna@trt3.jus.br"
+        ], 
+        "cite_url": "www.jusbrasil.com.br/topicos/.../amon-luis-moura-silv...", 
+        "cite_name": "", 
+        "title": "Amon Luis Moura Silva - JusBrasil"
+    }, 
+    {
+        "content": "if you are luis moura ramos , you may change this information at the repec author service. ... email: lmramos@fe.uc.pt. homepage: postal address: faculdade de economia da universidade de coimbra av. dias da silva, 165 3004-512...", 
+        "email_list": [
+            "lmramos@fe.uc.pt"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pra119.html", 
+        "cite_name": "", 
+        "title": "Luis Moura Ramos at IDEAS"
+    }
+]

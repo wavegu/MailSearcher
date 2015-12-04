@@ -1,2 +1,20 @@
-pslovic@uoregon.edu	[14]
-email at uoregon.edu	[1]
+[
+    {
+        "content": "paul slovic. paul slovic profile picture. title: professor; phone: (541) 485-2400; office: decision research; e-mail: pslovic@uoregon.edu; interests:...", 
+        "email_addr_list": [
+            "pslovic@uoregon.edu"
+        ], 
+        "cite_url": "psychology.uoregon.edu/profile/pslovic/", 
+        "cite_name": "", 
+        "title": "Paul Slovic | Department of Psychology"
+    }, 
+    {
+        "content": "create alert. cancel. paul slovic. unknown affiliation. verified email at uoregon.edu ... b fischhoff, p slovic, s lichtenstein, s read, b combs. policy sciences 9...", 
+        "email_addr_list": [
+            "email@uoregon.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=y8g8WY4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Paul Slovic - Google Scholar Citations"
+    }
+]

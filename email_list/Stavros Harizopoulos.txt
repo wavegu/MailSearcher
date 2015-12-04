@@ -1,0 +1,40 @@
+[
+    {
+        "content": "stavros harizopoulos. amazon ... verified email at csail.mit.edu - homepage  scholar ... m stonebraker, s madden, dj abadi, s harizopoulos, n hachem, .", 
+        "email_list": [
+            "email@csail.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1yE4VlgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stavros Harizopoulos - Google Scholar Citations"
+    }, 
+    {
+        "content": "d. tsirogiannis, s. harizopoulos, m. shah, j. wiener and g. graefe, query processing techniques for solid ... management lab (iiml) under the supervision of dr. stavros harizopoulos (stavros@hp.com) and ... email: koudas@cs.toronto.edu.", 
+        "email_list": [
+            "stavros@hp.com", 
+            "koudas@cs.toronto.edu"
+        ], 
+        "cite_url": "queens.db.toronto.edu/~dimitris/docs/tsirogiannis_cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CV - University of Toronto"
+    }, 
+    {
+        "content": "phone: (203) 436-1265. email: daniel.abadi@yale.edu ... with stavros harizopoulos, samuel madden, and michael stonebraker. in proceedings of sigmod,...", 
+        "email_list": [
+            "daniel.abadi@yale.edu"
+        ], 
+        "cite_url": "seas.yale.edu/.../daniel-ab...", 
+        "cite_name": "Yale School of Engineering  Applied Science", 
+        "title": "Daniel Abadi - Yale School of Engineering  Applied Science"
+    }, 
+    {
+        "content": "apr 30, 2001 - email. spiros. 268-7326 spapadim@cs.cmu.edu person person name email. 268-3052. stavros@cs.cmu.edu tel. harizopoulos first last.", 
+        "email_list": [
+            "spapadim@cs.cmu.edu", 
+            "stavros@cs.cmu.edu"
+        ], 
+        "cite_url": "cs.au.dk/~birke/teaching/data-on-the.../25_XML.pdf", 
+        "cite_name": "Aarhus University", 
+        "title": "[PDF]XML Core - Department of Computer Science"
+    }
+]

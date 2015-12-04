@@ -1,5 +1,40 @@
-chanocks@mail.nih.gov	[16]
-sampsonjn@mail.nih.gov	[2]
-name@email.com	[1]
-rajarama@mail.nih.gov	[1]
-email at mail.nih.gov	[1]
+[
+    {
+        "content": "stephen j. chanock, m.d. - biographical sketch and research interests. ... shady grove room 7e412. phone: 240-276-7150. e-mail: chanocks@mail.nih.gov...", 
+        "email_addr_list": [
+            "chanocks@mail.nih.gov"
+        ], 
+        "cite_url": "dceg.cancer.gov/about/staff.../chanock-stephen", 
+        "cite_name": "National Cancer Institute", 
+        "title": "Stephen J. Chanock, M.D. - biographical sketch and ..."
+    }, 
+    {
+        "content": "cancel. stephen chanock. nih  cancer genomics. verified email at mail.nih.gov. scholar ... s wacholder, s chanock, m garcia-closas, n rothman. journal of...", 
+        "email_addr_list": [
+            "email@mail.nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xAa8WMEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen Chanock - Google Scholar Citations"
+    }, 
+    {
+        "content": "complete survey for this doctor: dr. stephen chanock, md, patient survey, potomac, md, ... please enter a valid email address, e.g. name@email.com*.", 
+        "email_addr_list": [
+            "name@email.com"
+        ], 
+        "cite_url": "www.healthgrades.com  ...  Maryland (MD)  Potomac", 
+        "cite_name": "", 
+        "title": "Tell Us About Your Experience with Dr. Stephen Chanock ..."
+    }, 
+    {
+        "content": "preetha rajaraman rajarama@mail.nih.gov stephen chanock chanocks@mail.nih.gov joshua sampson sampsonjn@mail.nih.gov will this project utilize ccss...", 
+        "email_addr_list": [
+            "rajarama@mail.nih.gov", 
+            "chanocks@mail.nih.gov", 
+            "sampsonjn@mail.nih.gov"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-chanocks-mail-nih-gov-257487...", 
+        "cite_name": "", 
+        "title": "chanocks@mail.nih.gov - The Email Archive"
+    }
+]

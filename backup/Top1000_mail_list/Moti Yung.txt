@@ -1,1 +1,11 @@
-email at cs.columbia.edu	[2]
+[
+    {
+        "content": "verified email at cs.columbia.edu. scholar ... c blundo, a de santis, a herzberg, s kutten, u vaccaro, m yung ... a herzberg, s jarecki, h krawczyk, m yung.", 
+        "email_addr_list": [
+            "email@cs.columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DPlvOL4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Moti Yung - Google Scholar Citations"
+    }
+]

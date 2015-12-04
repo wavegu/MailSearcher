@@ -1,0 +1,20 @@
+[
+    {
+        "content": "دکتر بهروز مینایی، دکتر مینایی، مینایی علم و صنعت، behrooz minae, ... behrouz minaei-bidgoli. associate professor ... e-mail: b_minaei at iust.ac.ir. home...", 
+        "email_list": [
+            "b_minaei@iust.ac.ir"
+        ], 
+        "cite_url": "minaei.iust.ac.ir/", 
+        "cite_name": "", 
+        "title": "Dr. Behrouz Minaei"
+    }, 
+    {
+        "content": "verified email at iust.ac.ir - homepage  scholar ... hr qodmanan, m nasiri, b minaei-bidgoli ... l esmaeili, b minaei-bidgoli, h alinejad-rokny, m nasiri.", 
+        "email_list": [
+            "email@iust.ac.ir"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GfBsmRkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mahdi Nasiri - Google Scholar Citations"
+    }
+]

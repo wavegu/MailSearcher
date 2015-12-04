@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: tom dot cai at sydney.edu.au. web: http://sydney.edu.au/engineering/it/about/people/staff/tomc.shtml. dr. weidong cai is an associate professor in the...", 
+        "email_list": [
+            "cai@sydney.edu.au"
+        ], 
+        "cite_url": "rp-www.cs.usyd.edu.au/~tomc/", 
+        "cite_name": "", 
+        "title": "Weidong (Tom) Cais Homepage - University of Sydney"
+    }, 
+    {
+        "content": "weidong cai. stanford university school of ... verified email at stanford.edu. scholar ... w cai, js george, f verbruggen, cd chambers, ar aron. journal of...", 
+        "email_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SmzCyF4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Weidong Cai - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: weidongl@sjtu.edu.cn ... tony cai, weidong liu and yin xia (2013),two-sample test of high dimensional means under dependency. journal of the...", 
+        "email_list": [
+            "weidongl@sjtu.edu.cn"
+        ], 
+        "cite_url": "math.sjtu.edu.cn/faculty/weidongl/", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Weidong Lius Homepage"
+    }, 
+    {
+        "content": "see information and reports about weidong@psu.edu (weidong cais e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "weidong@psu.edu"
+        ], 
+        "cite_url": "spam-report.email/weidong/psu.edu", 
+        "cite_name": "", 
+        "title": "weidong@psu.edu (Weidong Cais e-mail) - Spam-Report ..."
+    }, 
+    {
+        "content": "see information and reports about caiwd77@hotmail.com (weidong cais e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "caiwd77@hotmail.com"
+        ], 
+        "cite_url": "spam-report.email/caiwd77/hotmail.com", 
+        "cite_name": "", 
+        "title": "caiwd77@hotmail.com (Weidong Cais e-mail) - Spam ..."
+    }, 
+    {
+        "content": "dr. weidong cai is an associate professor and director of multimedia laboratory at school of ... weidong (tom) cai, phd ... e-mail: wcai at bwh.harvard.edu.", 
+        "email_list": [
+            "wcai@bwh.harvard.edu"
+        ], 
+        "cite_url": "www.spl.harvard.edu/pages/People/wcai", 
+        "cite_name": "", 
+        "title": "(Tom) Cai - Surgical Planning Laboratory"
+    }
+]

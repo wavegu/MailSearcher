@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: jsun@ucar.edu ... christopher j zappa, michael l banner, howard schultz, andres corrada-emmanuel, lawrence b wolff, jacob yalcin. (2008) retrieval...", 
+        "email_list": [
+            "jsun@ucar.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "American Meteorological Society", 
+        "title": "AMS Journals Online - Measurement of Directional Wave ..."
+    }, 
+    {
+        "content": "new physics-based vision by lawrence b. wolff hardcover book (english) free ship in books, textbooks, education | ebay. ... email us: ebay@thenile.com.au.", 
+        "email_list": [
+            "ebay@thenile.com.au"
+        ], 
+        "cite_url": "www.ebay.com/itm/...by-Lawrence-B-Wolff...-/131435550588", 
+        "cite_name": "eBay", 
+        "title": "New Physics Based Vision by Lawrence B Wolff Hardcover ..."
+    }
+]

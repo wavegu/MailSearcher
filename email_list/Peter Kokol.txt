@@ -1,0 +1,38 @@
+[
+    {
+        "content": "create alert. cancel. peter kokol ... verified email at um.si. scholar. get my own ... v podgorelec, p kokol, mm stiglic, m heričko, i rozman. computer methods...", 
+        "email_list": [
+            "email@um.si"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6w8Of0oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "peter kokol - Google Scholar Citations"
+    }, 
+    {
+        "content": "peter kokol telefon: +386 2 220 7457. e-mail: peter.kokol@um.si. laboratorij za načrtovanje sistemov (laboratory for system design - lsd) je bil ustanovljen...", 
+        "email_list": [
+            "peter.kokol@um.si"
+        ], 
+        "cite_url": "cs.feri.um.si/podrocje.aspx?id=12", 
+        "cite_name": "", 
+        "title": "Laboratorij za načrtovanje sistemov - Inštitut za računalništvo"
+    }, 
+    {
+        "content": "dr. peter dovČ podiplomski program: genetika ... dr. peter kokol e-mail: peter.kokol@um.sita ... e-mail: blanka.kores@psih-klinika-si dodiplomski program:...", 
+        "email_list": [
+            "peter.kokol@um.sita"
+        ], 
+        "cite_url": "www.mf.uni-mb.si/.../51-nosilci...", 
+        "cite_name": "University of Maribor", 
+        "title": "Nosilci predmetov - Medicinska fakulteta Maribor"
+    }, 
+    {
+        "content": "dr. peter kokol phone: +386 2 220 74 57 e-mail: kokol@uni-mb.si research projects current research projects international projects isoq...", 
+        "email_list": [
+            "kokol@uni-mb.si"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-kokol-uni-mb-si-15300941.htm", 
+        "cite_name": "", 
+        "title": "kokol@uni-mb.si - The Email Archive"
+    }
+]

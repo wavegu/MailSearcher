@@ -1,0 +1,58 @@
+[
+    {
+        "content": "the staff of the issi is here to support you throughout your studies at northeastern university. we are happy to ... email: issi@neu.edu. mailing address: international student and scholar institute 405 ell hall ... j.dearbeck@neu.edu. giscard...", 
+        "email_list": [
+            "issi@neu.edu", 
+            "j.dearbeck@neu.edu"
+        ], 
+        "cite_url": "www.northeastern.edu/issi/contactus.html", 
+        "cite_name": "Northeastern University", 
+        "title": "International Student and Scholar Institute (ISSI)"
+    }, 
+    {
+        "content": "issi-10-fellet@hotmail.co.jp is owned by shintaro ishida. find domain names registred with issi-10-fellet@hotmail.co.jp. try our reverse whois search tool to find...", 
+        "email_list": [
+            "issi-10-fellet@hotmail.co.jp", 
+            "issi-10-fellet@hotmail.co.jp"
+        ], 
+        "cite_url": "domainbigdata.com/email/issi-10-fellet@hotmail.co.jp", 
+        "cite_name": "", 
+        "title": "Issi-10-fellet@hotmail.co.jp - Reverse Whois"
+    }, 
+    {
+        "content": "find the email address format for employees at issi.jp.", 
+        "email_list": [
+            "employees@issi.jp"
+        ], 
+        "cite_url": "https://www.email-format.com/d/issi.jp/", 
+        "cite_name": "", 
+        "title": "Email Address Format for issi.jp | Email Format"
+    }, 
+    {
+        "content": "e-mail: s.p.appleyard@leeds.ac.uk ... d.d. edie dr. p. ehrburger dr r. wolf ... dr. p delhaes. dr. f. derbyshire. prof. m. endo. dr. m. heggie. prof. j.p. issi. prof.", 
+        "email_list": [
+            "s.p.appleyard@leeds.ac.uk"
+        ], 
+        "cite_url": "karbondernegi.org/docs/Nato%20Advanced%20Study%20Institute.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]NATO ADVANCED STUDY INSTITUTE No. ASI 970487 ..."
+    }, 
+    {
+        "content": "verified email at uclouvain.be - homepage ... l duclaux, b nysten, jp issi, aw moore ... l piraux, b nysten, a haquenne, jp issi, ms dresselhaus, m endo.", 
+        "email_list": [
+            "email@uclouvain.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tdQ85OIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bernard Nysten - Google Scholar Citations"
+    }, 
+    {
+        "content": "“the best thing about working with issi is being able to contact them and get a response, then the follow ... jp morgan chase ... email: info@isolutionsi.com.", 
+        "email_list": [
+            "info@isolutionsi.com"
+        ], 
+        "cite_url": "isolutionsi.com/testimonials/", 
+        "cite_name": "", 
+        "title": "ISSi | Testimonials"
+    }
+]

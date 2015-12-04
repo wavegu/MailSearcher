@@ -1,1 +1,11 @@
-helmut.bloecker@gruene-braunschweig.de	[14]
+[
+    {
+        "content": "die grüne ratsfraktion (november 2011 bis juli 2013): dr. helmut blöcker, dr. elke flake, cornelia ... mail: helmut.bloecker@gruene-braunschweig.de", 
+        "email_addr_list": [
+            "helmut.bloecker@gruene-braunschweig.de"
+        ], 
+        "cite_url": "gruene-braunschweig.de/?page_id=3985www.google.com/email", 
+        "cite_name": "", 
+        "title": "Ratsmitglieder - - Bündnis 90/Die Grünen - BraunschweigGoogle Business Email - Custom email for your company‎"
+    }
+]

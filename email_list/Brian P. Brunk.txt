@@ -1,0 +1,56 @@
+[
+    {
+        "content": "nov 21, 2012 - tel: +1 215 746 7019; fax: +1 215 573 3111; email: oharb@pcbi.upenn.edu; correspondence may also be addressed to brian p. brunk.", 
+        "email_list": [
+            "oharb@pcbi.upenn.edu"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/.../11/.../nar.gks1113.abstrac...", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "EuPathDB: The Eukaryotic Pathogen database"
+    }, 
+    {
+        "content": "nov 13, 2009 - tel: +1 215 746 7019; fax: +1 215 573 3111; email: oharb@pcbi.upenn.edu; correspondence may also be addressed to brian p. brunk.", 
+        "email_list": [
+            "oharb@pcbi.upenn.edu"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/38/...1/D415.short", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "EuPathDB: a portal to eukaryotic pathogen databases"
+    }, 
+    {
+        "content": "martin p. brunk, vice-chair (chosen by governor) ..... brian j. castleberry, regional manager (301) 762-6362; e-mail: brian.castleberry@maryland.gov.", 
+        "email_list": [
+            "brian.castleberry@maryland.gov"
+        ], 
+        "cite_url": "msa.maryland.gov/msa/mdmanual/12dbed/html/dbed.html", 
+        "cite_name": "Maryland", 
+        "title": "Department of Business and Economic Development"
+    }, 
+    {
+        "content": "oct 3, 2002 - jessica c. kissinger, brian p. brunk, jonathan crabtree, martin j. fraunholz, ... but how are researchers to access p. falciparum genome sequence data, .... (mr4) by an e-mail request to email: malaria@atcc.org, with nature...", 
+        "email_list": [
+            "malaria@atcc.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "The : Plasmodium: genome database : Article : Nature"
+    }, 
+    {
+        "content": "oct 30, 2008 - e-mail: xnzhang@umd.edu ... xiao-ning zhang,; yingjie wu,; john w. tobias,; brian p. brunk,; gerald f. deitzer,; dongmei liu. plos.", 
+        "email_list": [
+            "xnzhang@umd.edu"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0003563", 
+        "cite_name": "", 
+        "title": "HFR1 Is Crucial for Transcriptome Regulation in the ..."
+    }, 
+    {
+        "content": "sep 29, 2008 - correspondence may also be addressed to brian p. brunk. tel: +1 215 573 3118; fax: +1 215 573 3111; email: brunkb@pcbi.upenn.edu;.", 
+        "email_list": [
+            "brunkb@pcbi.upenn.edu"
+        ], 
+        "cite_url": "https://darchive.mblwhoilibrary.org/bitstream/handle/.../gkn631v1.pdf?...", 
+        "cite_name": "", 
+        "title": "[PDF]gkn631v1.pdf"
+    }
+]

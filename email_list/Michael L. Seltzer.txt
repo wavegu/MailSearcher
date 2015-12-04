@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. mike seltzer. microsoft ... verified email at microsoft.com. scholar ... l deng, j li, jt huang, k yao, d yu, f seide, m seltzer, g zweig, x he, ... acoustics...", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=17p_C-0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mike Seltzer - Google Scholar Citations"
+    }, 
+    {
+        "content": "michael e. selzer, md, phd, frcp ... email: mselzer@temple.edu or ... with dr. michael shifman, dr. selzer has found that the ligands for these receptors ... zhang g, jin l, selzer me, assembly properties of lamprey neurofilament subunits...", 
+        "email_list": [
+            "mselzer@temple.edu"
+        ], 
+        "cite_url": "https://www.temple.edu/.../selzer.asp?...(selzer%20m%...", 
+        "cite_name": "Temple University", 
+        "title": "Michael Selzer, MD, PhD, FRCP - Temple University"
+    }, 
+    {
+        "content": "phone: 310-825-5191 email: mseltzer@ucla.edu. biography/research. michael seltzer is an associate professor in the social research methodology program...", 
+        "email_list": [
+            "mseltzer@ucla.edu"
+        ], 
+        "cite_url": "https://www.cse.uc...", 
+        "cite_name": "National Center for Research on Evaluation, Standar...", 
+        "title": "Michael Seltzer | Staff | CRESST"
+    }
+]

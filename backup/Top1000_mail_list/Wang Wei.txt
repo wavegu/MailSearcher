@@ -1,3 +1,20 @@
-wangwei@ciis.org.cn	[15]
-weiwang@cs.ucla.edu	[15]
-wei.wang@sydney.edu.au	[15]
+[
+    {
+        "content": "email, wei.wang@sydney.edu.au ... dr wei wangs primary research interests are in the areas of discourse studies and translation studies. his phd was from the...", 
+        "email_addr_list": [
+            "wei.wang@sydney.edu.au"
+        ], 
+        "cite_url": "sydney.edu.au  ...  Academic Staff  Dr Wei Wang", 
+        "cite_name": "University of Sydney", 
+        "title": "Dr Wei Wang - The University of Sydney"
+    }, 
+    {
+        "content": "university of california, los angeles los angeles, ca 90095-1596 usa. office: 3531-g boelter hall email: weiwang@cs.ucla.edu. voice: 1 (310) 794-0009", 
+        "email_addr_list": [
+            "weiwang@cs.ucla.edu"
+        ], 
+        "cite_url": "www.cs.ucla.edu/~weiwang/", 
+        "cite_name": "", 
+        "title": "Wei Wangs Home Page - UCLA"
+    }
+]

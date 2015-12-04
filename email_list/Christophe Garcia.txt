@@ -1,0 +1,29 @@
+[
+    {
+        "content": "may 27, 2015 - ... jules verne (insa). e-mail, christophe.garcia at liris.cnrs.fr ... sonia yousfi, sid-ahmed berrani  christophe garcia (2015). « deep learning...", 
+        "email_list": [
+            "christophe.garcia@liris.cnrs.fr"
+        ], 
+        "cite_url": "https://liris.cnrs.fr/membres?...", 
+        "cite_name": "Centre national de la recherche scientifique", 
+        "title": "Christophe Garcia - membres — LIRIS - CNRS"
+    }, 
+    {
+        "content": "christophe garcia. professor - liris - cnrs - insa ... verified email at insa-lyon.fr. scholar. get my own profile ... c garcia, g zikos, g tziritas. image and vision...", 
+        "email_list": [
+            "email@insa-lyon.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hcJOpTcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Christophe Garcia - Google Scholar Citations"
+    }, 
+    {
+        "content": "garcia, christophe ... ilam, christchurch new zealand. phone (64 3) 364 2349. email info@hitlabnz.org  university of canterbury  university of washington.", 
+        "email_list": [
+            "info@hitlabnz.org"
+        ], 
+        "cite_url": "www.hitlabnz.org/inde...", 
+        "cite_name": "Human Interface Technology Lab ‑ New Zealand", 
+        "title": "HITLabNZ - Garcia, Christophe"
+    }
+]

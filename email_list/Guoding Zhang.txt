@@ -1,0 +1,48 @@
+[
+    {
+        "content": "email：gdchen@nwpu.edu.cn. education： ... chen guoding，su hua，zhang yanchao. ... chen bo，chenguoding，sunhengchao，zhang yonghong . effect of...", 
+        "email_list": [
+            "gdchen@nwpu.edu.cn"
+        ], 
+        "cite_url": "jidian.nwpu.edu.cn/info/1238/5317.htm", 
+        "cite_name": "", 
+        "title": "Chen Guoding-西北工业大学机电学院"
+    }, 
+    {
+        "content": "email: wenzhang.zhang@gmail.com; personal web ... professor wenzhang zhang received his ph.d. in 2007 from national university of singapore. ... the school of economics, sufe, 777 guoding rd, shanghai 200433, china. all rights...", 
+        "email_list": [
+            "wenzhang.zhang@gmail.com"
+        ], 
+        "cite_url": "se.shufe.edu.cn/.../faz_30...", 
+        "cite_name": "Shanghai University of Finance and Economics", 
+        "title": "Wenzhang ZHANG"
+    }, 
+    {
+        "content": "email: zy.zhang@mail.shufe.edu.cn. personal web ... professor zhengyu zhang received his ph.d. in 2009 from shanghai university of finance and economics. ... the school of economics, sufe, 777 guoding rd, shanghai 200433, china.", 
+        "email_list": [
+            "zy.zhang@mail.shufe.edu.cn"
+        ], 
+        "cite_url": "se.shufe.edu.cn/.../faz_12...", 
+        "cite_name": "Shanghai University of Finance and Economics", 
+        "title": "Zhengyu ZHANG"
+    }, 
+    {
+        "content": "email: sisi.zhang@gmail.com、zhang.sisi@mail.shufe.edu.cn ... the school of economics, sufe, 777 guoding rd, shanghai 200433, china. all rights reserved.", 
+        "email_list": [
+            "sisi.zhang@gmail.com", 
+            "zhang.sisi@mail.shufe.edu.cn"
+        ], 
+        "cite_url": "se.shufe.edu.cn/.../faz_16...", 
+        "cite_name": "Shanghai University of Finance and Economics", 
+        "title": "Sisi ZHANG"
+    }, 
+    {
+        "content": "yongzhong zhan, guoding zhang, and zhenyi liu (2004). influences of ... p. r. china tel.: +86 21 6293 3106 fax: +86 21 6282 2012 e-mail: zyz03@sjtu.edu.cn...", 
+        "email_list": [
+            "zyz03@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.hanser-elibrary.com/doi/abs/10.3139/146.017897", 
+        "cite_name": "", 
+        "title": "Influences of counterface materials and reinforcements on ..."
+    }
+]

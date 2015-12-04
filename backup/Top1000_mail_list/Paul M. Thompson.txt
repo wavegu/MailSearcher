@@ -1,2 +1,29 @@
-thompson@loni.usc.edu	[19]
-email at usc.edu	[3]
+[
+    {
+        "content": "mail: paul thompson, ph.d. professor of neurology lab of neuro imaging ... u.s.a.. e-mail: thompson@loni.usc.edu; tel: (310)206-2101; fax: (310)206-5518...", 
+        "email_addr_list": [
+            "thompson@loni.usc.edu"
+        ], 
+        "cite_url": "users.loni.usc.edu/~thompson/thompson.html", 
+        "cite_name": "", 
+        "title": "Paul Thompson - University of Southern California"
+    }, 
+    {
+        "content": "paul thompson. paul thompson professor thompson@loni.usc.edu  http://www.loni.usc.edu/~thompson/thompson.html. laboratory of neuro imaging", 
+        "email_addr_list": [
+            "thompson@loni.usc.edu"
+        ], 
+        "cite_url": "loni.usc.edu/about.../indiv_detail.php?...", 
+        "cite_name": "University of Southern California", 
+        "title": "Paul Thompson - LONI - University of Southern California"
+    }, 
+    {
+        "content": "paul thompson. professor of neurology ... verified email at usc.edu - homepage  scholar ... er sowell, pm thompson, cj holmes, tl jernigan, aw toga.", 
+        "email_addr_list": [
+            "email@usc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=qCVy9hgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Paul Thompson - Google Scholar Citations"
+    }
+]

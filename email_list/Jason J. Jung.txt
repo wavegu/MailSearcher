@@ -1,0 +1,40 @@
+[
+    {
+        "content": "jason j. jung, ph. d. ... tel) +82 2 820 5136, mobile) +82 10 2023 5863. e-mail address j2jung@intelligent.pe.kr, j2jung@gmail.com, j3ung@cau.ac.kr...", 
+        "email_list": [
+            "j2jung@intelligent.pe.kr", 
+            "j2jung@gmail.com", 
+            "j3ung@cau.ac.kr"
+        ], 
+        "cite_url": "intelligent.pe.kr/", 
+        "cite_name": "", 
+        "title": "Jason J. Jung Homepage"
+    }, 
+    {
+        "content": "jason j. jung ... verified email at cau.ac.kr - homepage ... ontological framework based on contextual mediation for collaborative information retrieval. jj jung.", 
+        "email_list": [
+            "email@cau.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=I3exrZwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jason J. Jung - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. jason j. jung department of computer engineering chung-ang university 84 heukseok-ro, dongjak-gu 156-756 seoul, korea email: j2jung@gmail.com.", 
+        "email_list": [
+            "j2jung@gmail.com"
+        ], 
+        "cite_url": "www.inista.org/inista15/contact.php", 
+        "cite_name": "", 
+        "title": "Contact - INISTA 2015"
+    }, 
+    {
+        "content": "all paper should be submitted to prof. jason j. jung (ontology.society@gmail.com). extended versions of selected papers may be published in a special issue of...", 
+        "email_list": [
+            "ontology.society@gmail.com"
+        ], 
+        "cite_url": "www.zsi.pwr.wroc.pl/~krol/eng_IWEKSS.htm", 
+        "cite_name": "", 
+        "title": "Dariusz Król - IWEKSS"
+    }
+]

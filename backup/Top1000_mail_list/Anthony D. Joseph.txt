@@ -1,2 +1,20 @@
-adj@cs.berkeley.edu	[4]
-stratahadoop@oreilly.com	[3]
+[
+    {
+        "content": "email: adj@cs.berkeley.edu ... anthony d. joseph and m. frans kaashoek building reliable mobile-aware applications using the rover toolkit, to appear in...", 
+        "email_addr_list": [
+            "adj@cs.berkeley.edu"
+        ], 
+        "cite_url": "www.math.buffalo.edu/mad/.../joseph_anthonyd.ht...", 
+        "cite_name": "University at Buffalo", 
+        "title": "Anthony D. Joseph - Computer Scientist of the African ..."
+    }, 
+    {
+        "content": "anthony d. joseph is a professor in electrical engineering and computer ... he received his b.s., s.m., and ph.d. degrees in computer science from mit. ... for exhibition and sponsorship opportunities, email stratahadoop@oreilly.com...", 
+        "email_addr_list": [
+            "stratahadoop@oreilly.com"
+        ], 
+        "cite_url": "conferences.oreilly.com/strata/big-data-conference-ny-2015/.../219840", 
+        "cite_name": "", 
+        "title": "Speaker: Anthony D. Joseph: Big Data Conference - Strata + ..."
+    }
+]

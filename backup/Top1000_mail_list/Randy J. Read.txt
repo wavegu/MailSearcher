@@ -1,5 +1,39 @@
-rjr27@cam.ac.uk	[4]
-email at iwonka.med.virginia.edu	[3]
-email at cam.ac.uk	[1]
-email at kinemage.biochem.duke.edu	[1]
-email at kinemage.biochem.duke.edu.seventh	[1]
+[
+    {
+        "content": "professor randy j read ... pi photo. email: rjr27@cam.ac.uk. home page: ... sliwiak j, dauter z, kowiel m, mccoy aj, read rj, jaskolski m (2015).", 
+        "email_addr_list": [
+            "rjr27@cam.ac.uk"
+        ], 
+        "cite_url": "www.haem.cam.ac.uk/.../professor-randy-j-read...", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Randy J Read - Department of Haematology"
+    }, 
+    {
+        "content": "professor randy j read. professor of protein ... randy read is accepting applications for phd students. department of ... email: rjr27@cam.ac.uk. office phone:...", 
+        "email_addr_list": [
+            "rjr27@cam.ac.uk"
+        ], 
+        "cite_url": "www.infectiousdisease.cam.ac.uk/.../rjr27@cam....", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Randy J Read — Cambridge Infectious Diseases"
+    }, 
+    {
+        "content": "randy j read. professor of protein ... verified email at cam.ac.uk - homepage  scholar. get my own ... aj mccoy, rw grosse-kunstleve, lc storoni, rj read.", 
+        "email_addr_list": [
+            "email@cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=BbKCf7UAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Randy J Read - Google Scholar Citations"
+    }, 
+    {
+        "content": "randy j read. professor of protein ... verified email at iwonka.med.virginia.edu. @iwonka.med.virginia.edu ... verified email at kinemage.biochem.duke.edu.", 
+        "email_addr_list": [
+            "email@iwonka.med.virginia.edu", 
+            "email@kinemage.biochem.duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

@@ -1,5 +1,38 @@
-rodrik@hks.harvard.edu.dani	[14]
-rodrik@hks.harvard.edu	[14]
-rodrik@harvard.edu	[14]
-drodrik@ias.edu	[14]
-email at hks.harvard.edu	[3]
+[
+    {
+        "content": "email: dani_rodrik@harvard.edu. assistant: jessica de simone ... profile. dani rodrik is ford foundation professor of international political economy. he has...", 
+        "email_addr_list": [
+            "dani_rodrik@harvard.edu"
+        ], 
+        "cite_url": "https://www.hks.harvard.edu/.../...", 
+        "cite_name": "John F. Kennedy School of Government", 
+        "title": "Harvard Kennedy School - Dani Rodrik"
+    }, 
+    {
+        "content": "dani rodrik. dani rodrik. email: drodrik@ias.edu ... dani rodrik is an economist whose research covers globalization, economic growth and development, and...", 
+        "email_addr_list": [
+            "drodrik@ias.edu"
+        ], 
+        "cite_url": "www.theigc.org/person/dani-rodrik/", 
+        "cite_name": "", 
+        "title": "Dani Rodrik | IGC"
+    }, 
+    {
+        "content": "dani rodrik: current contact information and listing of economic research of this author provided by repec/ideas. ... email: dani_rodrik@hks.harvard.edu.", 
+        "email_addr_list": [
+            "dani_rodrik@hks.harvard.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pro60.html", 
+        "cite_name": "", 
+        "title": "Dani Rodrik at IDEAS"
+    }, 
+    {
+        "content": "cancel. dani rodrik. harvard university  economics, social science. verified email at hks.harvard.edu - homepage ... d rodrik, a subramanian, f trebbi.", 
+        "email_addr_list": [
+            "email@hks.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Rm5HunIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dani Rodrik - Google Scholar Citations"
+    }
+]

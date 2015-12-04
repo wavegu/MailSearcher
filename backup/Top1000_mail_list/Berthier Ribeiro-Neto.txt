@@ -1,2 +1,20 @@
-berthier@dcc.ufmg.br	[18]
-email at dcc.ufmg.br	[3]
+[
+    {
+        "content": "ricardo baeza-yates, berthier ribeiro-neto ... e-mail: berthier@dcc.ufmg.br ... berthier ribeiro-neto received a bachellor degree in math, a bs degree in...", 
+        "email_addr_list": [
+            "berthier@dcc.ufmg.br"
+        ], 
+        "cite_url": "people.ischool....", 
+        "cite_name": "University of California, Berkeley School of Information", 
+        "title": "Modern Information Retrieval - Authors"
+    }, 
+    {
+        "content": "cancel. berthier ribeiro-neto. cs dept, ufmg ... verified email at dcc.ufmg.br. scholar ... ahf laender, ba ribeiro-neto, as da silva, js teixeira. acm sigmod...", 
+        "email_addr_list": [
+            "email@dcc.ufmg.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JMkfK0sAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Berthier Ribeiro-Neto - Google Scholar Citations"
+    }
+]

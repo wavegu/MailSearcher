@@ -1,0 +1,57 @@
+[
+    {
+        "content": "manik varma. researcher ... manik@microsoft.com ... please e-mail your cv to me directly in addition to formally applying to iit/microsofts programmes.", 
+        "email_list": [
+            "manik@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/um/people/manik/", 
+        "cite_name": "Microsoft Research", 
+        "title": "Manik Varma - Microsoft Research"
+    }, 
+    {
+        "content": "cancel. manik varma. microsoft research ... verified email at microsoft.com - homepage  scholar ... a vedaldi, v gulshan, m varma, a zisserman. computer...", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=slkxxyIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Manik Varma - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: mbala at cse.iitd.ernet.in. phone: +91 11 26591285 ... email: sbansal at cse.iitd.ac.in. k. k. biswas emeritus .... manik varma. machine learning and...", 
+        "email_list": [
+            "mbala@cse.iitd.ernet.in", 
+            "sbansal@cse.iitd.ac.in"
+        ], 
+        "cite_url": "www.cse.iitd.ernet.in/people/faculty.shtml", 
+        "cite_name": "", 
+        "title": "Faculty - Computer Science and Engineering"
+    }, 
+    {
+        "content": "manik varma. homepage: http://research.microsoft.com/en-us/um/people/manik/ ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/manik_varma/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Manik Varma - Microsoft Research India - VideoLectures.NET"
+    }, 
+    {
+        "content": "apr 16, 2014 - padmashree smt. manik varma, as the name rightly suggests, a real gem in the crown of indian .... email: manikvarmapratishthan@gmail.com.", 
+        "email_list": [
+            "manikvarmapratishthan@gmail.com"
+        ], 
+        "cite_url": "www.manikvarma.com/pratishthan.php", 
+        "cite_name": "", 
+        "title": "About Manik Varma Pratishthan"
+    }, 
+    {
+        "content": "name, manik varma, photograph of manik varma. position, research student. college, jesus ... email, manik@robots.ox.ac.uk. link red triangle indicating link...", 
+        "email_list": [
+            "manik@robots.ox.ac.uk"
+        ], 
+        "cite_url": "www.robots.ox.ac.uk/~sarchdal/ManikVarma.html", 
+        "cite_name": "University of Oxford", 
+        "title": "Manik VARMA - Oxford Robotics Research Group"
+    }
+]

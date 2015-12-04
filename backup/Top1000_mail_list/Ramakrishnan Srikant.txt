@@ -1,3 +1,20 @@
-research at googleresearch.google.com	[3]
-email at google.com	[1]
-info@videolectures.net	[1]
+[
+    {
+        "content": "create alert. cancel. ramakrishnan srikant ... verified email at google.com - homepage  scholar ... r agrawal, h mannila, r srikant, h toivonen, ai verkamo.", 
+        "email_addr_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lxt0O5IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ramakrishnan Srikant - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. ramakrishnan srikant is a principal research scientist at google. ... dr. srikant received the acm sigkdd innovation award (2006) for his seminal work on mining ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/ramakrishnan_srikant/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Ramakrishnan Srikant - Google, Inc. - VideoLectures.NET"
+    }
+]

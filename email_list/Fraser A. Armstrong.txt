@@ -1,0 +1,57 @@
+[
+    {
+        "content": "the armstrong research group. ... floor icl, rooms: t7–t12, t17 phone: t12 (frasers office): +44 (0)1865 272647 e-mail: fraser.armstrong@chem.ox.ac.uk...", 
+        "email_list": [
+            "fraser.armstrong@chem.ox.ac.uk"
+        ], 
+        "cite_url": "armstrong.chem.ox.ac.uk/", 
+        "cite_name": "University of Oxford", 
+        "title": "Fraser Armstrong - University of Oxford"
+    }, 
+    {
+        "content": "... (0)1865 272647 e-mail: fraser.armstrong@chem.ox.ac.uk ... fraser armstrong is professor of chemistry and a fellow of st johns college. his interests are in...", 
+        "email_list": [
+            "fraser.armstrong@chem.ox.ac.uk"
+        ], 
+        "cite_url": "armstrong.chem.ox.ac.uk/bio.html", 
+        "cite_name": "University of Oxford", 
+        "title": "Group Members - Fraser Armstrong - University of Oxford"
+    }, 
+    {
+        "content": "professor f.a. armstrong f.r.s.. inorganic chemistry. fraser.armstrong@chem.ox.ac.uk. telephone: 44 (0) 1865 272647 (lab) / 287182 (st johns). research...", 
+        "email_list": [
+            "fraser.armstrong@chem.ox.ac.uk"
+        ], 
+        "cite_url": "research.chem.ox.ac.uk/fraser-armstrong.aspx", 
+        "cite_name": "University of Oxford", 
+        "title": "Professor F.A. Armstrong F.R.S. - Research Guides"
+    }, 
+    {
+        "content": "the armstrong research group. ... e-mail: fraser.armstrong@chem.ox.ac.uk ... university of oxford, dr blanford is a former post-doc in the armstrong lab and has...", 
+        "email_list": [
+            "fraser.armstrong@chem.ox.ac.uk"
+        ], 
+        "cite_url": "armstrong.chem.ox.ac.uk/collaborators.html", 
+        "cite_name": "University of Oxford", 
+        "title": "Collaborators - Fraser Armstrong - University of Oxford"
+    }, 
+    {
+        "content": "commercial sales. captain charlie crane. charliec@armstrongmarine.com ... eco tourism. fraser stothart. frasers@armstrongmarine.com...", 
+        "email_list": [
+            "charliec@armstrongmarine.com", 
+            "frasers@armstrongmarine.com"
+        ], 
+        "cite_url": "armstrongmarine.com/p-9118-contact.html", 
+        "cite_name": "", 
+        "title": "Email Us - Armstrong Marine"
+    }, 
+    {
+        "content": "... program (nmp), the southern medical program (smp), and the vancouver-fraser medical program (vfmp). .... dr. linlea armstrong, regional faculty development director, vancouver fraser medical program. ... email fac.dev@ubc.ca.", 
+        "email_list": [
+            "fac.dev@ubc.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "About Us | Faculty Development"
+    }
+]

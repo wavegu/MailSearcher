@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: zhang@cis.uab.edu ... chengcui zhang received her ph.d. from the school of computer sciences at florida international university, miami, florida in...", 
+        "email_list": [
+            "zhang@cis.uab.edu"
+        ], 
+        "cite_url": "https://www.cis.uab.edu/zhang/", 
+        "cite_name": "University of Alabama at Birmingham", 
+        "title": "Chengcui Zhang Homepage"
+    }, 
+    {
+        "content": "telephone: (205)-934-8606 fax: (205)-348-5473 email: zhang@cis.uab.edu .... min chen, hongli luo, and chengcui zhang, “multimedia semantic computing,”...", 
+        "email_list": [
+            "zhang@cis.uab.edu"
+        ], 
+        "cite_url": "https://www.cis.uab.edu/zhang/CV....", 
+        "cite_name": "University of Alabama at Birmingham", 
+        "title": "[PDF]CHENGCUI ZHANG, PH.D. Associate Professor School of ..."
+    }, 
+    {
+        "content": "cancel. chengcui zhang. university ... verified email at uab.edu - homepage  scholar ... k zhang, sc chen, d whitman, ml shyu, j yan, c zhang. geoscience...", 
+        "email_list": [
+            "email@uab.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TGeMLQcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "chengcui zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 2, 2007 - manuscripts should be sent as an attachment via email to one of the program chairs - dr. chengcui zhang: zhang@cis.uab.edu dr. hongli luo...", 
+        "email_list": [
+            "zhang@cis.uab.edu"
+        ], 
+        "cite_url": "https://lists.w3.org/Archives/.../0004.html", 
+        "cite_name": "World Wide Web Consortium", 
+        "title": "Deadline Extended: IEEE workshop on Semantic ..."
+    }
+]

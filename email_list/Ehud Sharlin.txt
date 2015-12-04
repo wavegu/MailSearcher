@@ -1,0 +1,47 @@
+[
+    {
+        "content": "ehud sharlin. associate professor ... verified email at cpsc.ucalgary.ca - homepage  scholar ... e sharlin, b watson, y kitamura, f kishino, y itoh. personal and...", 
+        "email_list": [
+            "email@cpsc.ucalgary.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eAFxlZIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ehud Sharlin - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: young@cs.umanitoba.ca ... johann wentzel, daniel j. rea, james e. young, ehud sharlin, shared presence and collaboration using a co-located...", 
+        "email_list": [
+            "young@cs.umanitoba.ca"
+        ], 
+        "cite_url": "hci.cs.umanitoba.ca/people/bio/james-e.young", 
+        "cite_name": "", 
+        "title": "James E.Young | HCI Lab | University of Manitoba"
+    }, 
+    {
+        "content": "ehud sharlin: publications, bio, bibliography, etc. ... personal homepage: http://pages.cpsc.ucalgary.ca/~ehud/; employer: (); email: ehud@cpsc.ucalgary.ca...", 
+        "email_list": [
+            "ehud@cpsc.ucalgary.ca"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/ehud-sharlin", 
+        "cite_name": "", 
+        "title": "Ehud Sharlin: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "ehud sharlin, ph.d. assistant professor. human interface engineering laboratory, osaka ... mobile : +81-90-6675-4718. e-mail: ehud@ist.osaka-u.ac.jp...", 
+        "email_list": [
+            "ehud@ist.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www-human.ist.osaka-u.ac.jp/~ehud/", 
+        "cite_name": "", 
+        "title": "Ehuds Homepage"
+    }, 
+    {
+        "content": "e. sharlin, b. a. watson, y. kitamura, f. kishino, and y. itoh, on tangible user interfaces, humans and spatiality, personal .... e-mail: ehud@ist.osaka-u.ac.jp...", 
+        "email_list": [
+            "ehud@ist.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www-human.ist.osaka-u.ac.jp/~ehud/Research.html", 
+        "cite_name": "", 
+        "title": "Research"
+    }
+]

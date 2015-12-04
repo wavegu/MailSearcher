@@ -1,0 +1,11 @@
+[
+    {
+        "content": "lewis, ted g. (2000): the web fosters a rust-belt renaissance. ... lewis, ted g. (2000): xm and sirius get serious about broadcast satellite radio. .... send us an email at hello@interaction-design.org or through our online contact form.", 
+        "email_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/ted-g-lewis", 
+        "cite_name": "", 
+        "title": "Ted G. Lewis: Publications, bio, bibliography, etc ..."
+    }
+]

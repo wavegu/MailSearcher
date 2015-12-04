@@ -1,5 +1,31 @@
-doron.lancet@weizmann.ac.il	[23]
-ricard.sole@upf.edu	[3]
-bernd.mayer@emergentec.com	[2]
-bernd.mayer@emergentec.com.doron	[2]
-omermar@gmail.com	[1]
+[
+    {
+        "content": "lancet and lms would like to hire a scientist who completed an msc, phd or ... please email doron.lancet@weizmann.ac.il with your cv/lp and details of.", 
+        "email_addr_list": [
+            "doron.lancet@weizmann.ac.il"
+        ], 
+        "cite_url": "safrabio.cs.tau.ac.il/download/Doron_Lancet.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Doron Lancets group at the Weizmann Institute has ..."
+    }, 
+    {
+        "content": "email: doron.lancet@weizmann.ac.il ... phone: +34 93316 0530. email: ricard.sole@upf.edu ... 43 699 113 49 173. email: bernd.mayer@emergentec.com.", 
+        "email_addr_list": [
+            "doron.lancet@weizmann.ac.il", 
+            "ricard.sole@upf.edu", 
+            "bernd.mayer@emergentec.com"
+        ], 
+        "cite_url": "synlet.izbi.uni-leipzig.de/index.php?page=30", 
+        "cite_name": "", 
+        "title": "Meetings - SYNLET - Universität Leipzig"
+    }, 
+    {
+        "content": "doron lancet pioneered genome research in israel, and currently heads of the crown human genome center at ... email: doron.lancet@weizmann.ac.il...", 
+        "email_addr_list": [
+            "doron.lancet@weizmann.ac.il"
+        ], 
+        "cite_url": "https://astrobiology.nasa.gov/directory/people/lancet-doron/", 
+        "cite_name": "", 
+        "title": "Doron Lancet Weizmann Institute of Science - NASA ..."
+    }
+]

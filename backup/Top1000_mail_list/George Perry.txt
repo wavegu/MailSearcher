@@ -1,4 +1,29 @@
-george.perry@utsa.edu	[23]
-george.perry@utsa.edu.george	[23]
-sdsu.igrow@sdstate.edu	[2]
-email at utsa.edu	[1]
+[
+    {
+        "content": "george perry. professor of ... verified email at utsa.edu - homepage  scholar ... lm sayre, da zelasko, plr harris, g perry, rg salomon, ma smith. journal of...", 
+        "email_addr_list": [
+            "email@utsa.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ySklo5EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "George Perry - Google Scholar Citations"
+    }, 
+    {
+        "content": "george perry,university of texas at san antonio,journal of biochips  tissue chips. ... verified email at utsa.edu - homepage  scholar. get my own profile.", 
+        "email_addr_list": [
+            "email@utsa.edu"
+        ], 
+        "cite_url": "www.omicsonline.org/editor-profile/George_Perry/", 
+        "cite_name": "", 
+        "title": "George Perry | OMICS International | University of Texa"
+    }, 
+    {
+        "content": "george perry, professor  sdsu extension beef reproductive management specialist. ... call 1.605.688.4792 or email sdsu.igrow@sdstate.edu  4-h  youth...", 
+        "email_addr_list": [
+            "sdsu.igrow@sdstate.edu"
+        ], 
+        "cite_url": "igrow.org  About  Our Experts", 
+        "cite_name": "", 
+        "title": "George Perry | Our Experts | iGrow"
+    }
+]

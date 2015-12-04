@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email, tjhfile@tjh.tjmu.edu.cn, office address ... [8] qing-guo ren, ying yu, xiang luo, deng-ji pan, wei wang,characterization of proteasome inhibition on...", 
+        "email_list": [
+            "tjhfile@tjh.tjmu.edu.cn"
+        ], 
+        "cite_url": "iso.hust.edu.cn/.../xiang...", 
+        "cite_name": "Huazhong University of Science and Technology", 
+        "title": "Luo Xiang - International Students Office,HUST"
+    }, 
+    {
+        "content": "verified email at mails.ucas.ac.cn. scholar. get my own profile ... qx wang, l bao, xl yang, h guo, rn yang, b ren, lx zhang, hq dai, ... fitoterapia 83 (1)...", 
+        "email_list": [
+            "email@mails.ucas.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0vm5eCoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hui Guo - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at ciac.ac.cn. scholar ... w guo, j yuan, q dong, e wang. journal of the ... y guo, s guo, j ren, y zhai, s dong, e wang. acs nano 4 (7),...", 
+        "email_list": [
+            "email@ciac.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Q5bM7ScAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Wang Erkang - Google Scholar Citations"
+    }
+]

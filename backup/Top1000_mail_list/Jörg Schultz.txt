@@ -1,8 +1,57 @@
-joerg.schultz@biozentrum.uni-wuerzburg.de	[16]
-joerg.schultz@biozentrum.uni-wuerzburg.de.lehrstuhl	[16]
-schultz@fh-bingen.de	[15]
-jschulz4@gwdg.de	[3]
-franziska.albrecht@rosalux.de	[2]
-wenke.christoph@rosalux.de	[2]
-neurologie@ukaachen.de	[1]
-contact@hjschulz.net	[1]
+[
+    {
+        "content": "geöffnete seite: univ.-prof. dr. med. jörg b. schulz ... fax: +49 241 80-82582. email: neurologie@ukaachen.de ... sincerely, univ.-prof. dr. med. j. b. schulz...", 
+        "email_addr_list": [
+            "neurologie@ukaachen.de"
+        ], 
+        "cite_url": "www.neuroscience-aachen.de/univ-prof-dr-med-joerg-b-schulz.html", 
+        "cite_name": "", 
+        "title": "Univ.-Prof. Dr. med. Jörg B. Schulz - Neurowissenschaften ..."
+    }, 
+    {
+        "content": "webseiten der georg-august-universität göttingen. ... wick a, wick w, waltenberger j, weller m, dichgans j, schulz jb. ... e-mail: jschulz4@gwdg.de. ggnb-...", 
+        "email_addr_list": [
+            "jschulz4@gwdg.de"
+        ], 
+        "cite_url": "https://www.uni-goettingen.de/de/58031.html", 
+        "cite_name": "University of Göttingen", 
+        "title": "Georg-August-Universität Göttingen - Schulz, Jörg, Prof. Dr ..."
+    }, 
+    {
+        "content": "email: contact@hjschulz.net skype: hajoschulz ... computing 2015. by hans-jörg schulz, bodo urban, and uwe von lukas (editors), fraunhofer verlag, 2015...", 
+        "email_addr_list": [
+            "contact@hjschulz.net"
+        ], 
+        "cite_url": "www.informatik.uni-rostock.de/~hs162/", 
+        "cite_name": "University of Rostock", 
+        "title": "Dr.-Ing. Hans-Jörg Schulz - Institut für Informatik"
+    }, 
+    {
+        "content": "fax: +49 (0)30 44310-180. email: franziska.albrecht@rosalux.de ... email: wenke.christoph@rosalux.de. philip degenhardt ... jörg schultz telephone: +49 (0)30...", 
+        "email_addr_list": [
+            "franziska.albrecht@rosalux.de", 
+            "wenke.christoph@rosalux.de"
+        ], 
+        "cite_url": "www.rosalux.de/english/worldwide.html", 
+        "cite_name": "", 
+        "title": "RLS - Worldwide - Rosa-Luxemburg-Stiftung"
+    }, 
+    {
+        "content": "affiliation: department of bioinformatics. street: biozentrum am hubland. zip code: 97074. city: würzburg. email: joerg.schultz@biozentrum.uni-wuerzburg.de.", 
+        "email_addr_list": [
+            "joerg.schultz@biozentrum.uni-wuerzburg.de"
+        ], 
+        "cite_url": "gs.zv.uni-wuerzburg.de/index.php?...en", 
+        "cite_name": "", 
+        "title": "Jörg Schultz"
+    }, 
+    {
+        "content": "bitte kommen sie auf mich zu; entweder im persönlichen kontakt im büro (raum 1-210), telefonisch (06721-409 428) oder per email (schultz@fh-bingen.de).", 
+        "email_addr_list": [
+            "schultz@fh-bingen.de"
+        ], 
+        "cite_url": "www.fh-bingen...", 
+        "cite_name": "University of Applied Sciences Bingen", 
+        "title": "Prof. Dr. Jörg Schultz - FH Bingen"
+    }
+]

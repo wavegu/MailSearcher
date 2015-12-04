@@ -1,3 +1,30 @@
-pdadams@berkeley.edu	[13]
-pdadams@lbl.gov	[13]
-pxa001@uark.edu	[3]
+[
+    {
+        "content": "paul d. adams ... email: pdadams@lbl.gov or pdadams@berkeley.edu. phone: 510-486-4225. fax: 510-486-5909. paul adams @ google scholar", 
+        "email_addr_list": [
+            "pdadams@lbl.gov", 
+            "pdadams@berkeley.edu"
+        ], 
+        "cite_url": "cci.lbl.gov/paul/", 
+        "cite_name": "Lawrence Berkeley National Laboratory", 
+        "title": "Homepage for Paul Adams - CCI"
+    }, 
+    {
+        "content": "faculty chemistry  biochemistry (479) 575-5621 pxa001@uark.edu. assoc professor chem236 university of arkansas fayetteville, ar 72701. contact card...", 
+        "email_addr_list": [
+            "pxa001@uark.edu"
+        ], 
+        "cite_url": "directory.uark.edu/people/pxa001", 
+        "cite_name": "University of Arkansas", 
+        "title": "Paul D. Adams | University of Arkansas"
+    }, 
+    {
+        "content": "paul adams. vice president for technology and ... paul adams. email: pdadams@lbl.gov. phone: (510) 486-4225. social: researchgate  curriculum vitae...", 
+        "email_addr_list": [
+            "pdadams@lbl.gov"
+        ], 
+        "cite_url": "www.jbei.org/people/leadership/paul-adams/", 
+        "cite_name": "", 
+        "title": "Paul Adams - jbei.org"
+    }
+]

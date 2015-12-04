@@ -1,1 +1,11 @@
-mdickson@levelfouradvisors.com	[16]
+[
+    {
+        "content": "mark dickson. 5202 indiana avenue lubbock, tx 79413. phone: 806.797.3251. fax: 806.791.7816. email: mdickson@levelfouradvisors.com. mark dickson is...", 
+        "email_addr_list": [
+            "mdickson@levelfouradvisors.com"
+        ], 
+        "cite_url": "www.levelfouradvisors.com/new/levelfourgroup/content.asp?contentid...", 
+        "cite_name": "", 
+        "title": "Mark Dickson - Level Four Group -"
+    }
+]

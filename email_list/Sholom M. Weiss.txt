@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sholom m. weiss nitin indurkhya tong zhang ... sholom@data-miner.com ...... to e-mail: for example, automatically forwarding e-mail to the appropriate...", 
+        "email_list": [
+            "sholom@data-miner.com"
+        ], 
+        "cite_url": "115.28.209.159/.../Fundamentals%20of%20Predictive%20Text%20Mini...", 
+        "cite_name": "", 
+        "title": "[PDF]Fundamentals of Predictive Text Mining"
+    }
+]

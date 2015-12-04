@@ -1,0 +1,38 @@
+[
+    {
+        "content": "professor liao guisheng ... office add: national key laboratory of radar signal processing, north campus tel: (029) 88201030 e-mail: gsliao@xidian.edu.cn...", 
+        "email_list": [
+            "gsliao@xidian.edu.cn"
+        ], 
+        "cite_url": "en.xidian.edu.cn/info/1030/1152.htm", 
+        "cite_name": "", 
+        "title": "Professor Liao Guisheng-http://www.xidian.edu.cn/English/"
+    }, 
+    {
+        "content": "jan 4, 2009 - guisheng liao. guisheng liao received the b.s. degree in mathematics from guangxi university, guangxi, ... e-mail:gsliao@xidian.edu.cn.", 
+        "email_list": [
+            "gsliao@xidian.edu.cn"
+        ], 
+        "cite_url": "rsp.xidian.edu.cn/ShowArticle.asp?ArticleID=150", 
+        "cite_name": "", 
+        "title": "National Lab of Radar Signal Processing - Guisheng Liao"
+    }, 
+    {
+        "content": "oct 16, 2015 - wgroup member: guisheng deng postdoctoral fellow (2000.10 ~ 2002.9) email: gsdeng@pku.edu.cn. dr. deng came to join wgroup in ... guisheng deng, mingyi liao, xue tian, jianbo wang chin. chem. lett. 2005, 16...", 
+        "email_list": [
+            "gsdeng@pku.edu.cn"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/physicalorganic/denggs.htm", 
+        "cite_name": "Peking University", 
+        "title": "Peking University"
+    }, 
+    {
+        "content": "email this article to a colleague. add to bookshelf ... yang zhi-wei, he shun, liao gui-sheng. national ... email: zwyang@mail.xidian.edu.cn. about author:...", 
+        "email_list": [
+            "zwyang@mail.xidian.edu.cn"
+        ], 
+        "cite_url": "www.signalpro.org.cn/EN/abstract/abstract8684.shtml", 
+        "cite_name": "", 
+        "title": "YANG Zhi-Wei, HE Shun, LIAO Gui-Sheng.Modified MUSIC ..."
+    }
+]

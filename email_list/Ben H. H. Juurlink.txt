@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ben juurlink, phd. member of the research group ... dr. ben juurlink heinz nixdorf institute and ... fax: +49 5251 60 64 82 email: benj@uni-paderborn.de...", 
+        "email_list": [
+            "benj@uni-paderborn.de"
+        ], 
+        "cite_url": "www.uni-paderborn.de/cs/juur.html", 
+        "cite_name": "", 
+        "title": "Ben Juurlink, Homepage"
+    }
+]

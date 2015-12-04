@@ -1,3 +1,38 @@
-schmidt@uci.edu	[17]
-d.schmidt@vanderbilt.edu	[17]
-email at vanderbilt.edu	[2]
+[
+    {
+        "content": "douglas c. schmidt. d.schmidt@vanderbilt.edu. associate chair of. computer science and. engineering and professor of computer science, at vanderbilt...", 
+        "email_addr_list": [
+            "d.schmidt@vanderbilt.edu"
+        ], 
+        "cite_url": "www.dre.vanderbilt.edu/~schmidt/", 
+        "cite_name": "Vanderbilt University", 
+        "title": "Douglas C. Schmidts Welcome Page - Vanderbilt University"
+    }, 
+    {
+        "content": "douglas c. schmidt. schmidt@uci.edu. associate professor. electrical and computer engineering  university of california, irvine. 616e engineering tower", 
+        "email_addr_list": [
+            "schmidt@uci.edu"
+        ], 
+        "cite_url": "www.ece.uci.edu/~schmidt/", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Douglas C. Schmidt - University of California, Irvine"
+    }, 
+    {
+        "content": "douglas c. schmidt. d.schmidt@vanderbilt.edu. associate chair of. computer science and engineering and professor of computer science vanderbilt...", 
+        "email_addr_list": [
+            "d.schmidt@vanderbilt.edu"
+        ], 
+        "cite_url": "www.cs.wustl.edu/~schmidt/PDF/", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "Douglas C. Schmidts Welcome Page - Department of ..."
+    }, 
+    {
+        "content": "cancel. douglas schmidt. vanderbilt university ... verified email at vanderbilt.edu - homepage  scholar. get my own profile ... dc schmidt, c cleeland.", 
+        "email_addr_list": [
+            "email@vanderbilt.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8GA4R2wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Douglas Schmidt - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "oct 9, 2015 - e-mail: p.machanick@ru.ac.za ... timothy l. bailey and philip machanick, inferring direct dna binding from chip-seq, nucleic acids...", 
+        "email_list": [
+            "p.machanick@ru.ac.za"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Rhodes University", 
+        "title": "Prof Philip Machanick - Rhodes University"
+    }, 
+    {
+        "content": "cancel. philip machanick. associate professor ... verified email at ru.ac.za - homepage  scholar. get my own ... t bailey, m bodén, t whitington, p machanick.", 
+        "email_list": [
+            "email@ru.ac.za"
+        ], 
+        "cite_url": "scholar.google.co.za/citations?user=PExFyEYAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Philip Machanick - Google Scholar Citations"
+    }
+]

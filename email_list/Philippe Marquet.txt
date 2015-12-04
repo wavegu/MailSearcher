@@ -1,0 +1,11 @@
+[
+    {
+        "content": "finger phm login: phm name: philippe marquet directory: /cristalphilippe ... marquet@univ-lille1.fr % getent phone phm phm:cristal:+33 (0)3 28 77 85 61...", 
+        "email_list": [
+            "marquet@univ-lille1.fr"
+        ], 
+        "cite_url": "www.lifl.fr/~marquet/", 
+        "cite_name": "", 
+        "title": "Philippe Marquet - LIFL"
+    }
+]

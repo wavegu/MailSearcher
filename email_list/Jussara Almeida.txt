@@ -1,0 +1,21 @@
+[
+    {
+        "content": "jussara almeida. associate professor at the ... verified email at dcc.ufmg.br. scholar. get my own ... cache sharing protocol. l fan, p cao, j almeida, az broder.", 
+        "email_list": [
+            "email@dcc.ufmg.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pkf_HjEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jussara Almeida - Google Scholar Citations"
+    }, 
+    {
+        "content": "jul 25, 2002 - jussara almeida (jussara@cs.wisc.edu) ... e-mail: jussara@cs.wisc.edu ... j. m. almeida, d. l. eager, m. c. ferris, and m. k. vernon,...", 
+        "email_list": [
+            "jussara@cs.wisc.edu", 
+            "jussara@cs.wisc.edu"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~jussara/", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Jussara Almeidas Home Page"
+    }
+]

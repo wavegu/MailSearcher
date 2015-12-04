@@ -1,0 +1,29 @@
+[
+    {
+        "content": "utpal banerjee. e-mail: banerjee@mbi.ucla.edu. phone: 310-206-5439. office: 5028 terasaki life sciences building. lab: 5045 terasaki life sciences building.", 
+        "email_list": [
+            "banerjee@mbi.ucla.edu"
+        ], 
+        "cite_url": "https://www.mcdb.ucla.edu/.../bane...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Utpal Banerjee - Faculty Page | UCLA Department of ..."
+    }, 
+    {
+        "content": "email: banerjee@ewald.mbi.ucla.edu ... utpal banerjee is a fraud. ... utpal banerjee was a god. he was an amazingly brilliant man who knew how to teach. i...", 
+        "email_list": [
+            "banerjee@ewald.mbi.ucla.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "BruinWalk : Utpal Banerjee"
+    }, 
+    {
+        "content": "this year this award is given to utpal banerjee in recognition of his enormous ... utpal received his ph.d. in chemistry at california institute of technology. .... phone: 412-226-5930 fax: 412-226-5931 email:genetics-gsa@thegsajournals.org.", 
+        "email_list": [
+            "genetics-gsa@thegsajournals.org"
+        ], 
+        "cite_url": "www.genetics.org/content/184/4/873.full", 
+        "cite_name": "Genetics", 
+        "title": "Utpal Banerjee - Genetics"
+    }
+]

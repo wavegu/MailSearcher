@@ -1,3 +1,29 @@
-koonin@ncbi.nlm.nih.gov	[13]
-email at ncbi.nlm.nih.gov	[3]
-fred.antson@york.ac.uk	[2]
+[
+    {
+        "content": "cancel. eugene koonin ... verified email at ncbi.nlm.nih.gov - homepage  scholar ... rl tatusov, nd fedorova, jd jackson, ar jacobs, b kiryutin, ev koonin, .", 
+        "email_addr_list": [
+            "email@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=F4P3ghEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Eugene Koonin - Google Scholar Citations"
+    }, 
+    {
+        "content": "speaker: dr eugene v koonin, national institutes of health, usa. abstract. viruses are the most ... email: fred.antson@york.ac.uk. department of biology", 
+        "email_addr_list": [
+            "fred.antson@york.ac.uk"
+        ], 
+        "cite_url": "https://www.york.ac.uk/biology/.../dreugenevkoonin/", 
+        "cite_name": "University of York", 
+        "title": "Dr Eugene V Koonin - Biology, The University of York"
+    }, 
+    {
+        "content": "sequence and structural comparisons of f- and v-type atpases have revealed ... correspondence to: eugene v. koonin email: koonin@ncbi.nlm.nih.gov.", 
+        "email_addr_list": [
+            "koonin@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinion", 
+        "cite_name": "Nature", 
+        "title": "Inventing the dynamo machine: the evolution of the F-type ..."
+    }
+]

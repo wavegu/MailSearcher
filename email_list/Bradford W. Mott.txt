@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at ncsu.edu - homepage  scholar ... bw mott, cb callaway, ls zettlemoyer, sy lee, jc lester ... w bares, b mott, l zettlemoyer, j lester.", 
+        "email_list": [
+            "email@ncsu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=cYz1oV8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bradford Mott - Google Scholar Citations"
+    }, 
+    {
+        "content": "author. us mail: bradford w. mott rt 2 box 135 1/2 a harrells, nc 28444. email: bwmott [at] eos.edu. debian maintainer. colin r. telmer telmerco [at]...", 
+        "email_list": [
+            "bwmott@eos.edu"
+        ], 
+        "cite_url": "man.cx/oonsoo(6)", 
+        "cite_name": "", 
+        "title": "Manpage for oonsoo - man.cx manual pages"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "oct 6, 2015 - leitung. prof. dr. amand fäßler. telefon: +49 7071 / 29-76370. email: amand.faessler@uni-tuebingen.de. © logo. imprint  contact  shortcut.", 
+        "email_list": [
+            "amand.faessler@uni-tuebingen.de"
+        ], 
+        "cite_url": "www.uni-tuebingen.de/.../aman...", 
+        "cite_name": "University of Tübingen", 
+        "title": "Institute for Theoretical Physics - Amand Fäßler"
+    }, 
+    {
+        "content": "mar 20, 2002 - gruppe prof. a. faessler, institut fuer theoretische physik der universitaet tuebingen. ... germany. email: amand.faessler@uni-tuebingen.de", 
+        "email_list": [
+            "amand.faessler@uni-tuebingen.de"
+        ], 
+        "cite_url": "www.tphys.physik.uni-tuebinge...", 
+        "cite_name": "University of Tübingen", 
+        "title": "Amand Faessler(20-Mar-2002) - Universität Tübingen"
+    }
+]

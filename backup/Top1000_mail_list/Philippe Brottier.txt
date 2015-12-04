@@ -1,2 +1,12 @@
-scp.brottier.zoro@avocatline.com.fr	[18]
-brottier.zoro@orange.fr	[17]
+[
+    {
+        "content": "composition: - philippe brottier email : scp.brottier.zoro@avocatline.com.fr - sandra larche email ... thierry zoro email : brottier.zoro@orange.fr...", 
+        "email_addr_list": [
+            "scp.brottier.zoro@avocatline.com.fr", 
+            "brottier.zoro@orange.fr"
+        ], 
+        "cite_url": "www.avocats-poitiers.com/detail-cabinet.htm?...PHILI...", 
+        "cite_name": "", 
+        "title": "SCP Philippe BROTTIER - Thierry ZORO - Ordre des ..."
+    }
+]

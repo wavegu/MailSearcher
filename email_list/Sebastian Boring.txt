@@ -1,0 +1,56 @@
+[
+    {
+        "content": "phone. +1 (403) 701 0516 (mobile). +1 (403) 210 9507 (office). email sebastian.boring@ucalgary.ca. homepage http://www.sebastianboring.com. education.", 
+        "email_list": [
+            "sebastian.boring@ucalgary.ca"
+        ], 
+        "cite_url": "www.sebastianboring.com/downloads/cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]SEBASTIAN BORING [curriculum vitae]"
+    }, 
+    {
+        "content": "administration. njalsgade 128, bygning 24, 5 sal, 2300 københavn s. sebastian.boring@di.ku.dk. phone: +45 35 33 56 94mobile: +45 51 31 96 72...", 
+        "email_list": [
+            "sebastian.boring@di.ku.dk"
+        ], 
+        "cite_url": "www.diku.dk/.../...", 
+        "cite_name": "University of Copenhagen Department of Computer S...", 
+        "title": "Sebastian Boring - Staff"
+    }, 
+    {
+        "content": "sebastian boring. associate professor ... verified email at di.ku.dk - homepage  scholar ... n marquardt, r diaz-marino, s boring, s greenberg. proceedings of...", 
+        "email_list": [
+            "email@di.ku.dk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Y...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Sebastian Boring - Google Scholar Citations"
+    }, 
+    {
+        "content": "mail, sebastian.boring@diku.dk. telefon, k.a.. fax, k.a.. adresse, sebastian boring department of computer science university of copenhagen njalsgade 128...", 
+        "email_list": [
+            "sebastian.boring@diku.dk"
+        ], 
+        "cite_url": "https://www.medien.ifi.lmu.de/team/sebastian.boring/", 
+        "cite_name": "", 
+        "title": "Sebastian Boring - Medieninformatik"
+    }, 
+    {
+        "content": "jul 19, 2010 - cell phone +49 170 2060864. e-mail sebastian.boring@ifi.lmu.de. homepage http://www.medien.ifi.lmu.de/team/sebastian.boring/. citizenship...", 
+        "email_list": [
+            "sebastian.boring@ifi.lmu.de"
+        ], 
+        "cite_url": "www.mmi.ifi.lmu.de/team/sebastian.boring/downloads/cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]DR. SEBASTIAN BORING - LMU"
+    }, 
+    {
+        "content": "jul 1, 2014 - sebastian boring. one of the authors, sebastian boring, associate professor at department of computer ... email: sebastian.boring@di.ku.dk...", 
+        "email_list": [
+            "sebastian.boring@di.ku.dk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Copenhagen", 
+        "title": "When technology interacts with you - a critical perspective ..."
+    }
+]

@@ -1,1 +1,11 @@
-nils.nilsson@lnu.se	[23]
+[
+    {
+        "content": "nils nilsson, phd. senior lecturer. email nils.nilsson@lnu.se. website http://lnu.se/ekonomihogskolan. department department of organisation and...", 
+        "email_addr_list": [
+            "nils.nilsson@lnu.se"
+        ], 
+        "cite_url": "lnu.se/employee/nils.nilsson?l=en", 
+        "cite_name": "Linnaeus University", 
+        "title": "Nils Nilsson - Linnaeus University, Sweden - Lnu.se"
+    }
+]

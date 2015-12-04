@@ -1,0 +1,31 @@
+[
+    {
+        "content": "jul 16, 2014 - contact. email: jsmurray@clevetheocomp.org ... jane s. murray, email: jsmurray@uno.edu email: jsmurray@clevetheocomp.org. peter politzer,", 
+        "email_list": [
+            "jsmurray@clevetheocomp.org", 
+            "jsmurray@uno.edu", 
+            "jsmurray@clevetheocomp.org"
+        ], 
+        "cite_url": "www.clevetheocomp.org/contact.html", 
+        "cite_name": "", 
+        "title": "Contact us - CleveTheoComp LLC"
+    }, 
+    {
+        "content": "peter politzer, ph.d. ppolitze@uno.edu, emeritus boyd professor. instructors and personnel. name, email, phone, title, office. skip gallagher, ph.d.", 
+        "email_list": [
+            "ppolitze@uno.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of New Orleans", 
+        "title": "Faculty  Staff | University of New Orleans"
+    }, 
+    {
+        "content": "jan 9, 2013 - peter politzer,. corresponding author. e-mail address: ppolitze@uno.edu. department of chemistry, university of new orleans, new orleans,...", 
+        "email_list": [
+            "ppolitze@uno.edu"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/cphc.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Halogen Bonding: An Interim Discussion - Politzer - 2013 ..."
+    }
+]

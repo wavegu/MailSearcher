@@ -1,2 +1,29 @@
-daniel-tranel@uiowa.com	[25]
-daniel-tranel@uiowa.edu	[25]
+[
+    {
+        "content": "daniel t tranel, phd. daniel-tranel. neurology, psychology. daniel-tranel@uiowa.edu. professor; neuroscience ph.d. program director. summary statement:.", 
+        "email_addr_list": [
+            "daniel-tranel@uiowa.edu"
+        ], 
+        "cite_url": "neuroscience.grad.uiowa.edu/faculty/daniel-tranel", 
+        "cite_name": "University of Iowa", 
+        "title": "Daniel T Tranel, PhD - Neuroscience - University of Iowa"
+    }, 
+    {
+        "content": "search email number information data on the internet ... hospitals and clinics 200 hawkins drive iowa city ia 52242 usa e-mail: daniel-tranel@uiowa.edu we...", 
+        "email_addr_list": [
+            "daniel-tranel@uiowa.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-daniel-tranel-uiowa-edu-189703...", 
+        "cite_name": "", 
+        "title": "daniel-tranel@uiowa.edu - The Email Archive"
+    }, 
+    {
+        "content": "... actions daniel tranel, david kemmerer, and ralph adolphs university of iowa ... drive, iowa city, iowa 52242, usa (email: daniel-tranel@uiowa.com).", 
+        "email_addr_list": [
+            "daniel-tranel@uiowa.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1841699470www.google.com/email", 
+        "cite_name": "", 
+        "title": "The Organisation of Conceptual Knowledge in the Brain: ...Google Business Email‎"
+    }
+]

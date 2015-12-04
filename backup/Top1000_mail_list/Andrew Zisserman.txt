@@ -1,4 +1,29 @@
-az@robots.ox.ac.uk	[3]
-az@robots.ox.ac.ukresearch	[3]
-email at robots.ox.ac.uk	[2]
-josef dot sivic at ens dot fr	[2]
+[
+    {
+        "content": "name, professor andrew zisserman, photograph of professor zisserman. position, professor of ... email, az@robots.ox.ac.uk. link red triangle indicating link...", 
+        "email_addr_list": [
+            "az@robots.ox.ac.uk"
+        ], 
+        "cite_url": "https://www.robots.ox.ac.uk/.../AndrewZisserman.ht...", 
+        "cite_name": "University of Oxford", 
+        "title": "Andrew Zisserman in Robotics Research Group ..."
+    }, 
+    {
+        "content": "andrew zisserman. university of oxford  computer vision. verified email at robots.ox.ac.uk ... m everingham, l van gool, cki williams, j winn, a zisserman.", 
+        "email_addr_list": [
+            "email@robots.ox.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=UZ5wscMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew Zisserman - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: josef dot sivic at ens dot fr. tel: +33. ... andrew zisserman. my thesis ..... james philbin, michael isard, josef sivic, and andrew zisserman. in eccv...", 
+        "email_addr_list": [
+            "sivic@ens.fr"
+        ], 
+        "cite_url": "www.di.ens.fr/~josef/", 
+        "cite_name": "École Normale Supérieure", 
+        "title": "Josef Sivic - Département dInformatique de lENS"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "contact dr li ding (email at li.ding@durham.ac.uk). biography. dr li dings research interests have been fostered through the five years or/ms training at...", 
+        "email_list": [
+            "email@li.ding"
+        ], 
+        "cite_url": "https://www.dur.ac.uk/research/directory/staff/?...", 
+        "cite_name": "Durham University", 
+        "title": "Dr Li Ding - Durham University"
+    }, 
+    {
+        "content": "li ding. contact info. email, dingl@cs.rpi.edu. additional info. publications ... li ding is a research scientist in the tetherless world constellation at rensselaer...", 
+        "email_list": [
+            "dingl@cs.rpi.edu"
+        ], 
+        "cite_url": "https://tw.rpi.edu/web/person/LiDing", 
+        "cite_name": "", 
+        "title": "Li Ding | Tetherless World Constellation"
+    }, 
+    {
+        "content": "hong kong; email: lsxlding@polyu.edu.hk; tel: +852 2766 5965; fax: +852 2330 ... http://www.lsgi.polyu.edu.hk/people/academic/ding-xiao-li/cv/index.asp.", 
+        "email_list": [
+            "lsxlding@polyu.edu.hk"
+        ], 
+        "cite_url": "www.lsgi.polyu.edu.hk/people/academic/ding-xiao-li/", 
+        "cite_name": "", 
+        "title": "Xiao-li DING — The Department of Land Surveying and Geo ..."
+    }, 
+    {
+        "content": "verified email at memect.com - homepage  scholar ... l ding, t finin, a joshi, r pan, rs cost, y peng, p reddivari, v doshi, . ... jh wang, m li, d li. chemical...", 
+        "email_list": [
+            "email@memect.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=c2FyjDwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Li Ding - Google Scholar Citations"
+    }
+]

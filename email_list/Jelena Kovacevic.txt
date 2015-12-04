@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email, jelenak@cmu.edu ... jelena kovačević receives the david edward schramm professorship  award winning igem team works with local stem program...", 
+        "email_list": [
+            "jelenak@cmu.edu"
+        ], 
+        "cite_url": "https://www.ece.cmu.edu/.../Jelena_Kovacevi...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Jelena Kovacevic - Electrical and Computer Engineering"
+    }, 
+    {
+        "content": "jelena kovacevic. schramm professor and ... verified email at andrew.cmu.edu - homepage  scholar ... c herley, j kovačević, k ramchandran, m vetterli.", 
+        "email_list": [
+            "email@andrew.cmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nMDDTtsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jelena Kovacevic - Google Scholar Citations"
+    }
+]

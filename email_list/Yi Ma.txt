@@ -1,0 +1,67 @@
+[
+    {
+        "content": "sep 19, 2015 - mail: 319 yueyang street, building 8, room 205. xuhui district, shanghai, china 200031. email: yima@uiuc.edu or mayi@shanghaitech.edu.", 
+        "email_list": [
+            "yima@uiuc.edu", 
+            "mayi@shanghaitech.edu"
+        ], 
+        "cite_url": "yima.csl.illinois.edu/", 
+        "cite_name": "Coordinated Science Laboratory", 
+        "title": "Homepage of Yi Ma"
+    }, 
+    {
+        "content": "xuhui district, shanghai, china, 200031. telephone: +86 21-5420-5551. email address: mayi@shanghaitech.edu.cn or yima@illinois.edu. 1 education.", 
+        "email_list": [
+            "mayi@shanghaitech.edu.cn", 
+            "yima@illinois.edu"
+        ], 
+        "cite_url": "yima.csl.illinois.edu/psfile/.../CV-YIMA....", 
+        "cite_name": "Coordinated Science Laboratory", 
+        "title": "[PDF]CV - of Yi Ma"
+    }, 
+    {
+        "content": "apr 27, 2012 - dr. yi ma is currently a lecturer within the institute for communication ... cooperative communications, dr. na yi ... e-mail: y.ma@surrey.ac.uk", 
+        "email_list": [
+            "y.ma@surrey.ac.uk"
+        ], 
+        "cite_url": "www.surrey.ac.uk/ics/people/yi_ma", 
+        "cite_name": "University of Surrey", 
+        "title": "Yi Ma - University of Surrey - Guildford"
+    }, 
+    {
+        "content": "email, jun.ma@utas.edu.au ... jun yi ma was born in shanghai in 1972 and began violin studies at the age of six with professor ding at the shanghai...", 
+        "email_list": [
+            "jun.ma@utas.edu.au"
+        ], 
+        "cite_url": "www.utas.edu.au/music/people-old/.../jun-yi-ma", 
+        "cite_name": "University of Tasmania", 
+        "title": "Jun Yi Ma - University of Tasmania"
+    }, 
+    {
+        "content": "create alert. cancel. yi ma (马毅) ... verified email at shanghaitech.edu.cn - homepage  scholar. get my own ... j wright, ay yang, a ganesh, ss sastry, y ma.", 
+        "email_list": [
+            "email@shanghaitech.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XqLiBQMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Yi Ma (马毅) - Google Scholar Citations"
+    }, 
+    {
+        "content": "contact author: yi ma, email: yi_ma@amat.com, phone number: (408) 584-0399. laser anneal technology for poly-silicon dopant activation enhancement.", 
+        "email_list": [
+            "yi_ma@amat.com"
+        ], 
+        "cite_url": "www.electrochem.org/dl/ma/205/pdfs/0264.PDF", 
+        "cite_name": "", 
+        "title": "[PDF]Contact author: Yi Ma, email: Yi_Ma@amat.com, phone ..."
+    }, 
+    {
+        "content": "email, tian-yi.ma@adelaide.edu.au. building, engineering north. floor/ ... page, please use the following url: http://www.adelaide.edu.au/directory/tian-yi.ma...", 
+        "email_list": [
+            "tian-yi.ma@adelaide.edu.au"
+        ], 
+        "cite_url": "www.adelaide.edu.au/directory/tian-yi.ma", 
+        "cite_name": "University of Adelaide", 
+        "title": "Dr Tian-yi Ma | The University of Adelaide Staff Directory"
+    }
+]

@@ -1,2 +1,20 @@
-myers@mpi-cbg.de	[12]
-email at mpi-cbg.de	[3]
+[
+    {
+        "content": "prof. dr. eugene w. myers. max planck institute of molecular cell biology and genetics, dresden. phone:+49 351 210-1220. email:myers@mpi-cbg.de...", 
+        "email_addr_list": [
+            "myers@mpi-cbg.de"
+        ], 
+        "cite_url": "www.mpg.de  Homepage  Institutes", 
+        "cite_name": "Max Planck Society", 
+        "title": "Myers, Eugene W. - Max-Planck-Gesellschaft"
+    }, 
+    {
+        "content": "cancel. gene myers. max-planck institute ... verified email at mpi-cbg.de. scholar. get my own ... sf altschul, w gish, w miller, ew myers, dj lipman. journal of...", 
+        "email_addr_list": [
+            "email@mpi-cbg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jlas1aMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Gene Myers - Google Scholar Citations"
+    }
+]

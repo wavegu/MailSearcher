@@ -1,0 +1,29 @@
+[
+    {
+        "content": "tel: +90-312-210 2080. fax: +90-312-210 5544 e-mail: yazici@ceng.metu.edu.tr, department of computer engineering middle east technical univ. (metu)", 
+        "email_list": [
+            "yazici@ceng.metu.edu.tr"
+        ], 
+        "cite_url": "https://www.ceng.metu.edu.tr/~yazici/", 
+        "cite_name": "", 
+        "title": "Home Page of Dr. Adnan YAZICI"
+    }, 
+    {
+        "content": "feb 21, 2010 - email: yazici@ceng.metu.edu.tr. web: http://www.ceng.metu.edu.tr/~yazici. office: a306. tel: +90-312-210-5583...", 
+        "email_list": [
+            "yazici@ceng.metu.edu.tr"
+        ], 
+        "cite_url": "https://www.ceng.metu.edu.tr/people/.../yazici/index", 
+        "cite_name": "", 
+        "title": "Adnan Yazıcı, Prof.Dr. [METU Computer Engineering]"
+    }, 
+    {
+        "content": "email: fpetry@nrlssc.navy.mil. prof. adnan yazici. multimedia database laboratory. department of computer engineering. middle east technical university.", 
+        "email_list": [
+            "fpetry@nrlssc.navy.mil"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-3-642-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Janusz Kacprzyk, Frederick E. Petry, and Adnan Yazici (Eds ..."
+    }
+]

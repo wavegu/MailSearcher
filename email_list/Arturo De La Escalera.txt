@@ -1,0 +1,21 @@
+[
+    {
+        "content": "arturo de la escalera. universidad carlos iii de madrid ... verified email at uc3m.es. scholar ... a de la escalera, le moreno, ma salichs, jm armingol. industrial...", 
+        "email_list": [
+            "email@uc3m.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LG21pIIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Arturo de la Escalera - Google Scholar Citations"
+    }, 
+    {
+        "content": "due to the high volume of email and spam, ota will review and screen all e-mails ... e-mail: biologique@videotron.ca ... e-mail: arturo.escalera@quimmco.com", 
+        "email_list": [
+            "biologique@videotron.ca", 
+            "arturo.escalera@quimmco.com"
+        ], 
+        "cite_url": "www.theorganicpages.com/topo/findabuyerresults.html?products=41", 
+        "cite_name": "", 
+        "title": "feed, animal - The Organic Pages Online The Organic ..."
+    }
+]

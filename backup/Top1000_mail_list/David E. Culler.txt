@@ -1,10 +1,43 @@
-1.culler@cs.ber	[14]
-culler@cs.berkeley.edu	[14]
-culler@cs.berkeley.edu.david	[14]
-email at berkeley.edu	[3]
-derenzo@eecs.berkeley.edu	[3]
-daw@cs.berkeley.edu	[2]
-arcak@eecs.berkeley.edu	[2]
-jonhui@cisco.com	[1]
-jpv@cisco.com	[1]
-vishwas@ipinfusion.com	[1]
+[
+    {
+        "content": "create alert. cancel. david culler ... verified email at berkeley.edu. scholar ... d gay, p levis, r von behren, m welsh, e brewer, d culler. acm sigplan...", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=urTiL7QAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David CULLER - Google Scholar Citations"
+    }, 
+    {
+        "content": "vasseur cisco systems 11 rue camille desmoulins issy les moulineaux 92782 france email: jpv@cisco.com david e. culler uc berkeley 465 soda hall...", 
+        "email_addr_list": [
+            "jpv@cisco.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-culler-cs-ber-7340029.htm", 
+        "cite_name": "", 
+        "title": "culler@cs.ber - The Email Archive"
+    }, 
+    {
+        "content": "mail trigger, to, cc ... vishwas manral vishwas@ipinfusion.com, jonathan hui jonhui@cisco.com, david e. culler culler@cs.berkeley.edu.", 
+        "email_addr_list": [
+            "vishwas@ipinfusion.com", 
+            "jonhui@cisco.com", 
+            "culler@cs.berkeley.edu"
+        ], 
+        "cite_url": "https://datatracker.ietf.org/doc/.../email/", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "Email expansions for draft-ietf-6man-rpl-routing-header-07"
+    }, 
+    {
+        "content": "faculty.create :name = murat arcak, :email = arcak@eecs.berkeley.edu, .... david e. culler, :email = culler@cs.berkeley.edu, :department = eecs ... stephen e. derenzo, :email = derenzo@eecs.berkeley.edu, :department ..... faculty.create :name = david wagner, :email = daw@cs.berkeley.edu,...", 
+        "email_addr_list": [
+            "arcak@eecs.berkeley.edu", 
+            "culler@cs.berkeley.edu", 
+            "derenzo@eecs.berkeley.edu", 
+            "daw@cs.berkeley.edu"
+        ], 
+        "cite_url": "https://github.com/.../blob/.../20101106171600_populate_real_faculty.rbwww.google.com/email", 
+        "cite_name": "", 
+        "title": "20101106171600_populate_real_faculty.rb - GitHubGoogle Business Email - Custom email for your company‎"
+    }
+]

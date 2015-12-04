@@ -1,3 +1,20 @@
-kjmurphy@usc.edu	[15]
-murphy@oakland.edu	[13]
-murphy@oakland.edu.kevin	[13]
+[
+    {
+        "content": "professor kevin j. murphy, ph.d., michigan state university. office: 349 elliott hall. phone: 248-370-3294 ... e-mail: murphy@oakland.edu.", 
+        "email_addr_list": [
+            "murphy@oakland.edu"
+        ], 
+        "cite_url": "www.sba.oakland.edu/Faculty/murphy/index.htm", 
+        "cite_name": "", 
+        "title": "Professor Kevin J. Murphy"
+    }, 
+    {
+        "content": "if you are kevin j. murphy , you may change this information at the repec author service. or if you are not registered ... email: kjmurphy@usc.edu. homepage...", 
+        "email_addr_list": [
+            "kjmurphy@usc.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pmu30.html", 
+        "cite_name": "", 
+        "title": "Kevin J. Murphy at IDEAS"
+    }
+]

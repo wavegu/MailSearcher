@@ -1,0 +1,48 @@
+[
+    {
+        "content": "feb 20, 2012 - university of amsterdam, science park 904, 1098 xh amsterdam, the netherlands e-mail: vdham@uva.nl. tomohiro kudoh. aist, information...", 
+        "email_list": [
+            "vdham@uva.nl"
+        ], 
+        "cite_url": "https://tnc2012.terena.org/getfile/1685", 
+        "cite_name": "", 
+        "title": "[PDF]Network Service Interface – gateway for future ... - TNC2012"
+    }, 
+    {
+        "content": "email: hide-nakada@aist.go.jp. tomohiro kudoh. national institute of advanced. industrial science and technology (aist). tsukuba, ibaraki, japan 305-8568.", 
+        "email_list": [
+            "hide-nakada@aist.go.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Virtual Machine Packing Algorithms for Lower Power ..."
+    }, 
+    {
+        "content": "felix-jp. tomohiro kudoh phone: +81-29-861-5761 e-mail: t.kudoh[at]aist.go.jp  national institute of advanced industrial science and technology (aist)", 
+        "email_list": [
+            "t.kudoh@aist.go.jp"
+        ], 
+        "cite_url": "www.ict-felix.eu/?page_id=651", 
+        "cite_name": "", 
+        "title": "FP7 FELIX project website » Contact us"
+    }, 
+    {
+        "content": "feb 20, 2012 - university of amsterdam, science park 904, 1098 xh amsterdam, the netherlands e-mail: vdham@uva.nl. tomohiro kudoh. aist, information...", 
+        "email_list": [
+            "vdham@uva.nl"
+        ], 
+        "cite_url": "dare.uva.nl/document/495975", 
+        "cite_name": "University of Amsterdam", 
+        "title": "[PDF]Network Service Interface – gateway for future network ..."
+    }, 
+    {
+        "content": "oct 16, 2007 - tomohiro kudoh1,*, shuichi okamoto2,3,*, yukio tsukishima4,*, hideaki tanaka3 ... *contact email: t.kudoh@aist.go.jp, okamoto@kddilabs.jp,...", 
+        "email_list": [
+            "t.kudoh@aist.go.jp", 
+            "okamoto@kddilabs.jp"
+        ], 
+        "cite_url": "eudl.eu/doi/10.4108/gridnets.2007.2289", 
+        "cite_name": "", 
+        "title": "Network as a resource: G-lambda project and its ... - EUDL"
+    }
+]

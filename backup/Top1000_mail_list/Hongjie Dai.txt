@@ -1,4 +1,39 @@
-hdai@stanford.edu	[8]
-hdai1@stanford.edu	[8]
-ydli@mail.tsinghua.edu.cn	[2]
-email at stanford.edu	[2]
+[
+    {
+        "content": "hongjie dai research lab. ... hongjie dais research lab at stanford university. the research of our group ... fax 650 725 9793. email hdai1@stanford.edu...", 
+        "email_addr_list": [
+            "hdai1@stanford.edu"
+        ], 
+        "cite_url": "dailab.stanford.edu/", 
+        "cite_name": "", 
+        "title": "Hongjie Dai - Stanford UniversityGroupCVPublicationsResearch Projects"
+    }, 
+    {
+        "content": "hongjie. dai. j.g.jackson-c.j. wood professor of chemistry (b. 1966). education: ... phone: 650-723-4518. email: hdai@stanford.edu. website: dai laboratory...", 
+        "email_addr_list": [
+            "hdai@stanford.edu"
+        ], 
+        "cite_url": "https://chemistry.stanford.edu/faculty/hongjie-dai", 
+        "cite_name": "", 
+        "title": "Hongjie Dai - Stanford University"
+    }, 
+    {
+        "content": "hongjie dai, nr. professor of ... verified email at stanford.edu. scholar ... j kong, nr franklin, c zhou, mg chapline, s peng, k cho, h dai. science 287 (5453)...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yWdvb8YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hongjie Dai, NR - Google Scholar Citations"
+    }, 
+    {
+        "content": "editors-in-chief prof. hongjie dai e-mail: hdai1@stanford.edu. prof. yadong li e-mail: ydli@mail.tsinghua.edu.cn. chair of advisory board. prof. qikun xue", 
+        "email_addr_list": [
+            "hdai1@stanford.edu", 
+            "ydli@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.thenanoresearch.com/work_contactus.asp", 
+        "cite_name": "", 
+        "title": "Contact Us - Nano Research"
+    }
+]

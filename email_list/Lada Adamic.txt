@@ -1,0 +1,20 @@
+[
+    {
+        "content": "lada adamic. office: 4360 north quad. phone: 734/615-2132. email: ladamic@umich.edu. adjunct associate professor of information, school of information...", 
+        "email_list": [
+            "ladamic@umich.edu"
+        ], 
+        "cite_url": "https://www.si.umich.edu/...", 
+        "cite_name": "University of Michigan School of Information", 
+        "title": "Lada Adamic | University of Michigan School of Information"
+    }, 
+    {
+        "content": "lada adamic. associate professor, si ... verified email at umich.edu - homepage  scholar ... la adamic, rm lukose, ar puniyani, ba huberman. physical...", 
+        "email_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0TJZPj0AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Lada Adamic - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "name：jianying wang: depart：finance: title：associate professor: tel：8610-82500577: fax：8610-82509169: e-mail：wjianying@ruc.edu.cn. overview...", 
+        "email_list": [
+            "wjianying@ruc.edu.cn"
+        ], 
+        "cite_url": "2010.rbs.org.cn/templates/T_eng_new_list2/index.aspx?...222...", 
+        "cite_name": "", 
+        "title": "Jianying Wang - Renmin University"
+    }, 
+    {
+        "content": "jianying wang. jianying wang. research associate, plant sciences. phone: 573-882-6171 wangjian@missouri.edu 315 bond life sciences center.", 
+        "email_list": [
+            "wangjian@missouri.edu"
+        ], 
+        "cite_url": "https://bondlsc.missouri.edu/person/jianying-wang/", 
+        "cite_name": "University of Missouri", 
+        "title": "Jianying Wang // Bond Life Sciences Center // University of ..."
+    }, 
+    {
+        "content": "name: jian-ying wang, md, ph.d. present position: ... e-mail: jwang@smail.umaryland.edu ..... editors: jian-ying wang and robert a. casero jr. title:.", 
+        "email_list": [
+            "jwang@smail.umaryland.edu"
+        ], 
+        "cite_url": "www.actaps.com.cn/resume/Jian-Ying%20WANG.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]WANG Jian-Ying ( Baltimore, USA)"
+    }, 
+    {
+        "content": "domain report for wang jianying, support@yinsibaohu.aliyun.com, associated with 48 domains and 16 emails.", 
+        "email_list": [
+            "support@yinsibaohu.aliyun.com"
+        ], 
+        "cite_url": "www.domainiq.com/name?wang_jianying", 
+        "cite_name": "", 
+        "title": "wang jianying - domainIQ"
+    }, 
+    {
+        "content": "jian-ying wu. department of ... verified email at scut.edu.cn - homepage  scholar ... a anand, y li, y wang, j wu, s gao, l bukhari, vp mathews, a kalnin, .", 
+        "email_list": [
+            "email@scut.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0lybPGYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jian-Ying Wu - Google Scholar Citations"
+    }
+]

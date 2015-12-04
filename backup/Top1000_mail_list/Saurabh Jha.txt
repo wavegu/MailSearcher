@@ -1,4 +1,20 @@
-saurabh.jha@uphs.upenn.edu	[21]
-saurabh at physics.rutgers.edu	[15]
-sjha8@illinois.edu	[8]
-sjha8@illinois.edu.saurabh	[8]
+[
+    {
+        "content": "position: faculty research group: astrophysics email address: saurabh at physics.rutgers.edu telephone: (848) 445-8962 office: serin w315 mailing address:...", 
+        "email_addr_list": [
+            "saurabh@physics.rutgers.edu"
+        ], 
+        "cite_url": "https://www.physics.rutgers.edu/people/pips/Jha.html", 
+        "cite_name": "Rutgers University", 
+        "title": "Rutgers Physics: Saurabh W. Jha - directory page"
+    }, 
+    {
+        "content": "saurabh jha, graduate student at uiuc - urbana champaign and member of depend group @csl, previously studied at vellore ... email: sjha8@illinois.edu.", 
+        "email_addr_list": [
+            "sjha8@illinois.edu"
+        ], 
+        "cite_url": "web.engr.illinois.edu/~sjha8/", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "Saurabh Jha — Exploring and Adding to Human Knowledge"
+    }
+]

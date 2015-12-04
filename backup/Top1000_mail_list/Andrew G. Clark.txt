@@ -1,4 +1,38 @@
-andrew.clark@curie.fr	[23]
-agclark@fas.harvard.edu	[13]
-ac347@cornell.edu	[3]
-email at ucl.ac.uk	[3]
+[
+    {
+        "content": "email: ac347@cornell.edu. andy clark is the jacob gould schurman professor of ... dr. clark is a member of the graduate field of genetics, genomics and...", 
+        "email_addr_list": [
+            "ac347@cornell.edu"
+        ], 
+        "cite_url": "mbg.cornell.edu/people/faculty", 
+        "cite_name": "Cornell University", 
+        "title": "Faculty | Department of Molecular Biology and Genetics"
+    }, 
+    {
+        "content": "andy clark is the jacob gould schurman professor of population genetics ... professor. 227 biotechnology bldg. (607) 255-0527. email: ac347@cornell.edu...", 
+        "email_addr_list": [
+            "ac347@cornell.edu"
+        ], 
+        "cite_url": "https://mbg.cornell.edu/people/andrew-clark", 
+        "cite_name": "Cornell University", 
+        "title": "Andrew Clark | Department of Molecular Biology and Genetics"
+    }, 
+    {
+        "content": "andrew clark is the director of choral activities and senior lecturer on music at ... dr. andrew g. clark ... contact information. email: agclark@fas.harvard.edu...", 
+        "email_addr_list": [
+            "agclark@fas.harvard.edu"
+        ], 
+        "cite_url": "holdenchoruses.fas.harvard.edu/people/dr-andrew-g-clark", 
+        "cite_name": "", 
+        "title": "Dr. Andrew G. Clark | The Holden Choruses"
+    }, 
+    {
+        "content": "cancel. andrew g. clark. postdoctoral fellow ... verified email at ucl.ac.uk. scholar ... ag clark, al miller, e vaughan, ey hoi-ying, r penkert, wm bement. current biology 19 ... ag clark, jr sider, k verbrugghe, g fenteany, g von dassow, .", 
+        "email_addr_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FlsZVCsAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew G. Clark - Google Scholar Citations"
+    }
+]

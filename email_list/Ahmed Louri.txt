@@ -1,0 +1,38 @@
+[
+    {
+        "content": "ahmed louri. professor emeritus. phone: 520.621.2318. email: louri@ece.arizona.edu. external website. education: ph. d. : computer engineering, the...", 
+        "email_list": [
+            "louri@ece.arizona.edu"
+        ], 
+        "cite_url": "ece.arizona.edu/ahmed-louri", 
+        "cite_name": "University of Arizona", 
+        "title": "Ahmed Louri | Department of Electrical and Computer ..."
+    }, 
+    {
+        "content": "chairman and david and marilyn karlgaard professor. office: room 5000b. address: science  engineering hall. phone: 202-994-5905. email: louri@gwu.edu.", 
+        "email_list": [
+            "louri@gwu.edu"
+        ], 
+        "cite_url": "www.ece.seas.g...", 
+        "cite_name": "George Washington University School of Engineering...", 
+        "title": "Ahmed Louri | Electrical  Computer Engineering | The ..."
+    }, 
+    {
+        "content": "see information and reports about louri@ece.arizona.edu (ahmed louris e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "louri@ece.arizona.edu"
+        ], 
+        "cite_url": "spam-report.email/louri/ece.arizona.edu", 
+        "cite_name": "", 
+        "title": "louri@ece.arizona.edu (Ahmed Louris e-mail) - Spam ..."
+    }, 
+    {
+        "content": "e-mail: avinashk@ece.arizona.edu ahmed louri , department of electrical and computer engineering, university of arizona, tucson, az - 85721, usa. e-mail:...", 
+        "email_list": [
+            "avinashk@ece.arizona.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-louri-ece-ari-858704.htm", 
+        "cite_name": "", 
+        "title": "louri@ece.ari - The Email Archive"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "mar 7, 2015 - sternwartstrasse 7, etz j78 ch-8092 zurich, switzerland tel: +41 44 632 4990. fax: +41 44 632 1199 e-mail: grabner@vision.ee.ethz.ch", 
+        "email_list": [
+            "grabner@vision.ee.ethz.ch"
+        ], 
+        "cite_url": "www.vision.ee.ethz.ch/~hegrabne/", 
+        "cite_name": "ETH Zurich", 
+        "title": "Helmut Grabner - Computer Vision Lab"
+    }, 
+    {
+        "content": "cancel. helmut grabner. eth zurich  computer vision, machine learning. verified email at vision.ee.ethz.ch - homepage ... h grabner, c leistner, h bischof.", 
+        "email_list": [
+            "email@vision.ee.ethz.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EstsI9oAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Helmut Grabner - Google Scholar Citations"
+    }, 
+    {
+        "content": "helmut grabner. first name(s): helmut. last name(s): grabner. email: grabner@vision.ee.ethz.ch. institute: eth zurich. publications of helmut grabner. 2011...", 
+        "email_list": [
+            "grabner@vision.ee.ethz.ch"
+        ], 
+        "cite_url": "publications.idiap.ch/index.php/authors/.../996", 
+        "cite_name": "Idiap Research Institute", 
+        "title": "Helmut Grabner - Idiap Publications"
+    }, 
+    {
+        "content": "ing. helmut grabner. x. tel.: 0463 55 8 66 - 21; fax: 0463 55 8 66 - 20; email: grabner@ami-ktn.at; (leiter sicherheitstechnik)...", 
+        "email_list": [
+            "grabner@ami-ktn.at"
+        ], 
+        "cite_url": "www.ami-ktn.at/.../sicherheitstechnik-personal.html", 
+        "cite_name": "", 
+        "title": "Team Sicherheitstechnik - AMI Kärnten"
+    }, 
+    {
+        "content": "jul 18, 2008 - juli 2008. dipl.-ing. helmut grabner. home. pflanzengasse 20, a-8020 graz, austria mobil: +43 680 2177988 email: helmut.grabner@gmx.at.", 
+        "email_list": [
+            "helmut.grabner@gmx.at"
+        ], 
+        "cite_url": "www.icg.tugraz.at/.../hgrabner/HelmutGrabner_Cv.pd...", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae - the Institute for Computer Graphics and ..."
+    }, 
+    {
+        "content": "helmut grabner. geschäftsführer tel.: +43 (0) 2732 / 811 27 - 13. fax: +43 (0) 2732 / 811 27 - 14. email: grabner@plasto-tec.at. mobil: 0664 401 41 65...", 
+        "email_list": [
+            "grabner@plasto-tec.at"
+        ], 
+        "cite_url": "www.plasto-tec.at/kontakt/ansprechpartner/", 
+        "cite_name": "", 
+        "title": "Ansprechpartner - plasto-tec"
+    }
+]

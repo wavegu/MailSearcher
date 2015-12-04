@@ -1,0 +1,20 @@
+[
+    {
+        "content": "steven j. plimpton multiscale science email: sjplimp@sandia.gov. phone: 505/845-7873. fax: 505/845-7442. mailing address: sandia national laboratories", 
+        "email_list": [
+            "sjplimp@sandia.gov"
+        ], 
+        "cite_url": "https://cfwebprod.sandia.gov/cfdocs/CompResearch/.../profile.cfm?snl...", 
+        "cite_name": "", 
+        "title": "Steven J. Plimpton - Sandia National Laboratories ..."
+    }, 
+    {
+        "content": "cancel. steve plimpton ... verified email at sandia.gov - homepage  scholar ... le silbert, d ertaş, gs grest, tc halsey, d levine, sj plimpton. physical...", 
+        "email_list": [
+            "email@sandia.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ny7N6KQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Steve Plimpton - Google Scholar Citations"
+    }
+]

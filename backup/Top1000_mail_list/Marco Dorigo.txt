@@ -1,6 +1,31 @@
-marco.dorigo@ulb.ac.be	[23]
-mdorigo at ulb.ac.be	[14]
-dorigo@elet.polimi.it	[13]
-maniezzo@elet.polimi.it	[2]
-email at ulb.ac.be	[2]
-colorni@elet.polimi.it	[1]
+[
+    {
+        "content": "marco dorigo. tel 02 650 31 69, fax 02 650 27 15, marco.dorigo@ulb.ac.be. campus du solbosch. cp194/06, avenue f.d. roosevelt 50, 1050 bruxelles...", 
+        "email_addr_list": [
+            "marco.dorigo@ulb.ac.be"
+        ], 
+        "cite_url": "https://www.ulb.ac.be/rech/.../CH4399.html", 
+        "cite_name": "Université libre de Bruxelles", 
+        "title": "Marco DORIGO - Université Libre de Bruxelles"
+    }, 
+    {
+        "content": "marco dorigo. fnrs research director ... verified email at ulb.ac.be - homepage  scholar. get my own ... m dorigo, v maniezzo, a colorni. systems, man, and...", 
+        "email_addr_list": [
+            "email@ulb.ac.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PwYT6EMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Marco Dorigo - Google Scholar Citations"
+    }, 
+    {
+        "content": "... of cooperating agents. marco dorigo, vittorio maniezzo, alberto colorni ... e-mail: dorigo@elet.polimi.it maniezzo@elet.polimi.it colorni@elet.polimi.it. abstract.", 
+        "email_addr_list": [
+            "dorigo@elet.polimi.it", 
+            "maniezzo@elet.polimi.it", 
+            "colorni@elet.polimi.it"
+        ], 
+        "cite_url": "www.agent.ai/doc/upload/200302/dori96.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]The Ant System: Optimization by a colony of cooperating ..."
+    }
+]

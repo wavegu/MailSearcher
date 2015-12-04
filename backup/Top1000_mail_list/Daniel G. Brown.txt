@@ -1,3 +1,11 @@
-dan.brown@uwaterloo.ca.latham	[12]
-dan.brown@uwaterloo.ca	[12]
-email at umich.edu	[2]
+[
+    {
+        "content": "daniel g. brown. university of michigan ... verified email at umich.edu - homepage  scholar ... dg brown, s page, r riolo, m zellner, w rand. international...", 
+        "email_addr_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=cD37cXcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Daniel G. Brown - Google Scholar Citations"
+    }
+]

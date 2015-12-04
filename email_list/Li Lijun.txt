@@ -1,0 +1,56 @@
+[
+    {
+        "content": "print email. li-jun yang, md, ms. associate professor. hematopathology. telephone: 352.392.0005. fax: 352.392.4693. e-mail: yanglj@pathology.ufl.edu.", 
+        "email_list": [
+            "yanglj@pathology.ufl.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Li-Jun Yang, MD | University of Florida Health Pathology ..."
+    }, 
+    {
+        "content": "tel.  fax: +86-10-62558934. e-mail: wanlijun@iccas.ac.cn. • present status and interests：. present status: professor. member, chinese academy of sciences.", 
+        "email_list": [
+            "wanlijun@iccas.ac.cn"
+        ], 
+        "cite_url": "spm.iccas.ac.cn/wanlijun/People/wljys/", 
+        "cite_name": "", 
+        "title": "Prof Li-Jun Wan---Chinese Academy of Sciences Key ..."
+    }, 
+    {
+        "content": "senior scientist. institute of materials research and engineering 3 research link singapore 117602. email:jun-li@imre.a-star.edu.sg. tel: +(65)-6874-8376", 
+        "email_list": [
+            "jun-li@imre.a-star.edu.sg"
+        ], 
+        "cite_url": "www.bioeng.nus.edu.sg/.../lijun/default....", 
+        "cite_name": "National University of Singapore", 
+        "title": "Li Jun - Department of Biomedical Engineering - National ..."
+    }, 
+    {
+        "content": "li-jun ma. assistant professor. office. lsl n433. lijun@biochem.umass.edu. (413) 545-1205 ... printer-friendly version  send by email. ©2015 university of...", 
+        "email_list": [
+            "lijun@biochem.umass.edu"
+        ], 
+        "cite_url": "https://www.biochem.umass.edu/.../l...", 
+        "cite_name": "University of Massachusetts Amherst", 
+        "title": "Li-Jun Ma - Department of Biochemistry and Molecular Biology"
+    }, 
+    {
+        "content": "nov 4, 2013 - lijun bi, ph.d, prof. ... e-mail：blj@sun5.ibp.ac.cn，tel：010-64888464 ... li f, wan k, wang j, zhang xe  bi l* genome sequencing of 161...", 
+        "email_list": [
+            "blj@sun5.ibp.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Lijun Bi----Institute of Biophysics Chinese Academy of ..."
+    }, 
+    {
+        "content": "jun li. theoretical chemistry center, department of chemistry, tsinghua unievrsity,. beijing 100084 ... e-mail: junli@tsinghua.edu.cn. website of research...", 
+        "email_list": [
+            "junli@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104131258090792174...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Li, Jun"
+    }
+]

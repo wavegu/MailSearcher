@@ -1,0 +1,29 @@
+[
+    {
+        "content": "nov 12, 2009 - pagina personal del dr. francisco j. perales. página principal  titulaciones y masters ... foto paco perales ... e-mail: paco.perales@uib.es...", 
+        "email_list": [
+            "paco.perales@uib.es"
+        ], 
+        "cite_url": "dmi.uib.es/~paco/", 
+        "cite_name": "", 
+        "title": "Pagina Personal del Dr. Francisco J. Perales"
+    }, 
+    {
+        "content": "dr francisco (paco) perales holds an undergraduate degree in sociology from london ... plage, s., perales, f. and baxter, j. (2015) doing gender overnight? .... staff details. phone: +61 7 3346 9964. email: f.perales@uq.edu.au. position:.", 
+        "email_list": [
+            "f.perales@uq.edu.au"
+        ], 
+        "cite_url": "https://www.issr.uq.edu.au/staff/perales-francisco", 
+        "cite_name": "University of Queensland", 
+        "title": "Dr Francisco (Paco) Perales - ISSR - The University of ..."
+    }, 
+    {
+        "content": "francisco (paco) perales. research fellow ... verified email at uq.edu.au - homepage  scholar ... f perales, j del pozo-cruz, j del pozo-cruz, b del pozo-cruz.", 
+        "email_list": [
+            "email@uq.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=LkMM_fsAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Francisco (Paco) Perales - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. khalid lafdi. university of dayton  carbon science and technology. verified email at udayton.edu. scholar ... o mesalhy, k lafdi, a elgafy, k bowman.", 
+        "email_list": [
+            "email@udayton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eC-JoegAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Khalid Lafdi - Google Scholar Citations"
+    }
+]

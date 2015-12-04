@@ -1,0 +1,30 @@
+[
+    {
+        "content": "ren yurong1,2,3†, qu meizhen1  yu zuolong1†. 1 chengdu institute of ... corresponding authors: ren yurong;yu zuolong email: ryrchem@163.com...", 
+        "email_list": [
+            "ryrchem@163.com"
+        ], 
+        "cite_url": "chem.scichina.com:8081/sciBe/EN/abstract/abstract415283.shtml", 
+        "cite_name": "", 
+        "title": "SiO/CNTs: A new anode composition for lithium-ion battery"
+    }, 
+    {
+        "content": "oct 6, 2015 - hui peng,. e-mail address: 1064878193@qq.com ... e-mail address: ustbwangmingshan@163.com  search for more ... zuolong yu. e-mail...", 
+        "email_list": [
+            "1064878193@qq.com", 
+            "ustbwangmingshan@163.com"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/celc.../full", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Enhanced electrochemical performance of Zr-modified ..."
+    }, 
+    {
+        "content": "corresponding authors: jiang qi email: jiangqi66@163.com. cite this article: jiang qi;lu xiao-ying;zhao yong;yu zuo-long. effect of microstructures change...", 
+        "email_list": [
+            "jiangqi66@163.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Effect of Microstructures Change on Electrochemical ..."
+    }
+]

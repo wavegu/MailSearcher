@@ -1,2 +1,11 @@
-group at csail.ronald	[18]
-email at mit.edu	[2]
+[
+    {
+        "content": "ronald l. rivest. viterbi professor of ... verified email at mit.edu - homepage  scholar. get my own ... rl rivest, a shamir, l adleman. communications of the...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6qE0tdAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ronald L. Rivest - Google Scholar Citations"
+    }
+]

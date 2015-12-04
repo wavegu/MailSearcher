@@ -1,5 +1,30 @@
-mullikin@mail.nih.gov	[17]
-email at mail.nih.gov	[2]
-tpalmore@mail.nih.gov	[2]
-karen.frank@nih.gov	[1]
-lander@genome.wi.mit.edu	[1]
+[
+    {
+        "content": "jim mullikin. director nih ... verified email at mail.nih.gov - homepage  scholar ... es lander, lm linton, b birren, c nusbaum, mc zody, j baldwin, ... nature...", 
+        "email_addr_list": [
+            "email@mail.nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=kTNXmEAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jim Mullikin - Google Scholar Citations"
+    }, 
+    {
+        "content": "... sarah milne, james c. mullikin, andrew mungall, robert plumb, mark ross, .... lander (e-mail: email: lander@genome.wi.mit.edu), r. h. waterston (e-mail:...", 
+        "email_addr_list": [
+            "lander@genome.wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Human Genome  article", 
+        "cite_name": "Nature", 
+        "title": "Initial sequencing and analysis of the human genome - Nature"
+    }, 
+    {
+        "content": "... nisc comparative sequencing program,; james c. mullikin,; jonas korlach,; david ... e-mail: karen.frank@nih.gov (k.m.f.); tpalmore@mail.nih.gov (t.n.p.);...", 
+        "email_addr_list": [
+            "karen.frank@nih.gov", 
+            "tpalmore@mail.nih.gov"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/6/254/254ra126www.google.com/emailwww.spokeo.com/Free.Email.Search", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Single-molecule sequencing to track plasmid diversity of ...Google Business Email‎Jamess Email Found‎Searches related to James C. Mullikin email"
+    }
+]

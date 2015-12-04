@@ -1,5 +1,21 @@
-neta@astro.princeton.edu	[10]
-email at astro.princeton.edu	[3]
-cosmology at princetonwww.princeton.edu	[3]
-cosmologist at princeton.clusters	[3]
-baha@physics.wisc.edu	[3]
+[
+    {
+        "content": "neta bahcall. princeton university ... verified email at astro.princeton.edu. scholar ... dg york, j adelman, je anderson jr, sf anderson, j annis, na bahcall, .", 
+        "email_addr_list": [
+            "email@astro.princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W-0_21AAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Neta Bahcall - Google Scholar Citations"
+    }, 
+    {
+        "content": "paul scherrer institut. bahcall, neta neta@astro.princeton.edu. princeton university. balantekin, baha baha@physics.wisc.edu. univ. wisconsin- madison.", 
+        "email_addr_list": [
+            "neta@astro.princeton.edu", 
+            "baha@physics.wisc.edu"
+        ], 
+        "cite_url": "www.weizmann.ac.il/.../RegistrantsList%2...www.google.com/email", 
+        "cite_name": "Weizmann Institute of Science", 
+        "title": "[PDF]Name Email Institution ARCONES, Almudena a.arcones ...Google Business Email - Custom email for your company‎"
+    }
+]

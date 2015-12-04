@@ -1,5 +1,39 @@
-radford@stat.utoronto.ca	[15]
-radford@stat.uto	[15]
-radford@utstat.utoronto.ca	[15]
-radford@cs.utoronto.ca	[15]
-email at utstat.toronto.edu	[4]
+[
+    {
+        "content": "contact information for radford m. neal. e-mail: radford@utstat.utoronto.ca or radford@cs.utoronto.ca. important note: if you want to send me e-mail, do not send...", 
+        "email_addr_list": [
+            "radford@utstat.utoronto.ca", 
+            "radford@cs.utoronto.ca"
+        ], 
+        "cite_url": "www.cs.toronto.edu/~radford/addresses.html", 
+        "cite_name": "", 
+        "title": "Contact Information for Radford M. Neal"
+    }, 
+    {
+        "content": "radford m. neal phd. email address(es): radford@stat.utoronto.ca; office phone: (416) 978-4970; office address: dept. of statistics, university of toronto 100...", 
+        "email_addr_list": [
+            "radford@stat.utoronto.ca"
+        ], 
+        "cite_url": "www.dlsph.utoronto.ca/.../neal-radfor...", 
+        "cite_name": "Dalla Lana School of Public Health", 
+        "title": "Radford M. Neal | Dalla Lana School of Public Health"
+    }, 
+    {
+        "content": "verified email at utstat.toronto.edu - homepage  scholar. get my own profile ... ih witten, rm neal, jg cleary ... ge hinton, p dayan, bj frey, rm neal. science...", 
+        "email_addr_list": [
+            "email@utstat.toronto.edu"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=rr8pZoUAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Radford Neal - Google Scholar Citations"
+    }, 
+    {
+        "content": "bayesian neural networks for the performance prediction challenge radford m. neal university of toronto radford@stat.utoronto.ca acronym of my entry:...", 
+        "email_addr_list": [
+            "radford@stat.utoronto.ca"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-radford-stat-uto-6535827.htm", 
+        "cite_name": "", 
+        "title": "radford@stat.uto - The Email Archive"
+    }
+]

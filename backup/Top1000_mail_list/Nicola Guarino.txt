@@ -1,4 +1,20 @@
-nicola.guarino@cnr.it	[27]
-nicola.guarino@cnr.it.nicola	[27]
-guarino@loa.istc.cnr.it	[16]
-email at loa.istc.cnr.it	[2]
+[
+    {
+        "content": "nicola guarino. email: guarino@loa.istc.cnr.it. telephone: + 39 0461 314871. fax: + 39 0461 314875. address: via alla cascata 56c - 38123 povo (tn) - italy.", 
+        "email_addr_list": [
+            "guarino@loa.istc.cnr.it"
+        ], 
+        "cite_url": "www.istc.cnr.it  ISTC PEOPLE", 
+        "cite_name": "", 
+        "title": "Nicola Guarino | Institute of Cognitive Sciences and ..."
+    }, 
+    {
+        "content": "nicola guarino. istc-cnr, laboratory for ... verified email at loa.istc.cnr.it. scholar ... a gangemi, n guarino, c masolo, a oltramari, l schneider. knowledge...", 
+        "email_addr_list": [
+            "email@loa.istc.cnr.it"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=3-WRYO4AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Nicola Guarino - Google Scholar Citations"
+    }
+]

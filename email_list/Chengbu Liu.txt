@@ -1,0 +1,75 @@
+[
+    {
+        "content": "xingang liu, with various research topics related to image/video/data processing. ... news. ieee smart city 2015 will be held on december 19-21, 2015, chengdu, sichuan, china. congratulations! cse 2014 ... email: hanksliu@uestc.edu.cn", 
+        "email_list": [
+            "hanksliu@uestc.edu.cn"
+        ], 
+        "cite_url": "umc.uestc.edu.cn/", 
+        "cite_name": "", 
+        "title": "Ubiquitous Media Communication Lab (UMCL) 电子科技 ..."
+    }, 
+    {
+        "content": "for more information email china@austrade.gov.au visit austrade.gov.au or .... liu bing. 刘冰. shanghai a/g senior trade commissioner. financial services. t: 86 21 ..... chengdu. senior business development manager. t: 86 28 8678 6128.", 
+        "email_list": [
+            "china@austrade.gov.au"
+        ], 
+        "cite_url": "https://www.austrade.gov.au/.../China%20Post%20Profile%2020...", 
+        "cite_name": "Austrade", 
+        "title": "[PDF]Australian Trade Commission China Team Profile - Austrade"
+    }, 
+    {
+        "content": "jun 6, 2013 - liu qitao, zhu bixin attend signing ceremony for cccc-chengdu strategic ... ge honglin, mayor of the chengdu municipal peoples government; ... ir contact, tel: 86-10-82016562 fax: 86-10-82016524 email: ir@ccccltd.cn.", 
+        "email_list": [
+            "ir@ccccltd.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Liu Qitao, Zhu Bixin attend signing ceremony for CCCC ..."
+    }, 
+    {
+        "content": "aug 3, 2009 - email: wuzhl@cib.ac.cn ... chengdu, 610041. china. tel: 86-28- ... 2003 yonglin liu scholarship for outstanding graduates, cas. seleted...", 
+        "email_list": [
+            "wuzhl@cib.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_cib_cas/yw/.../t20090803_2296874.html", 
+        "cite_name": "", 
+        "title": "Zhongliu Wu"
+    }, 
+    {
+        "content": "nov 15, 2012 - email：zengjm@cib.ac.cn. zhongchuan liu, ph, d. research associate phone: 86-28-82890501. email：liuzhc@cib.ac.cn. tian xie, master", 
+        "email_list": [
+            "zengjm@cib.ac.cn", 
+            "liuzhc@cib.ac.cn"
+        ], 
+        "cite_url": "english.cib.cas.cn/st/gi/201211/t20121115_95607.html", 
+        "cite_name": "", 
+        "title": "The Wang Laboratory in Chengdu Institute of Biology, CAS"
+    }, 
+    {
+        "content": "aug 25, 2015 - chongqing; chengdu; kunming; guiyang ... 21/f, wandao international mantion, no 50, zhongrong lu, ... email: chengdu@pcwoo.com.hk", 
+        "email_list": [
+            "chengdu@pcwoo.com.hk"
+        ], 
+        "cite_url": "www.tradecommissioner.gc.ca/eng/document.jsp?did=113333", 
+        "cite_name": "", 
+        "title": "Legal Service - Chongqing, Sichuan, Yunnan and Guizhou"
+    }, 
+    {
+        "content": "liu xiaojin. position：managing partner; edu：ll.m. email：liuxiaojin@grandall.com.cn; address：chengdu; tel：+86 28 6691 1985; fax：+86 28 8611 9827.", 
+        "email_list": [
+            "liuxiaojin@grandall.com.cn"
+        ], 
+        "cite_url": "www.grandall.com.cn/enzyry/hhr/140321162046.htm", 
+        "cite_name": "", 
+        "title": "LIU Xiaojin - Grandall law firm"
+    }, 
+    {
+        "content": "chengdu meishi international school ... thomas liu: head of school ... tel:(86) 028-8533-0653. fax:(86) 028-8533-0880. email: office@miscd.com...", 
+        "email_list": [
+            "office@miscd.com"
+        ], 
+        "cite_url": "www.miscd.com/en/Staff/Administration/index.html", 
+        "cite_name": "", 
+        "title": "Chengdu Meishi International School"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "content": "haifeng du, ph.d. tel. ... e-mail: haifengdu@iccas.ac.cn ... liu, y.; cao, z.; du, h.-f.* “asymmetric allylic alkylation of pyrroles and 4,7-dihydroindoles with...", 
+        "email_list": [
+            "haifengdu@iccas.ac.cn"
+        ], 
+        "cite_url": "lmrf.iccas.ac.cn/Eng%20hdf.html", 
+        "cite_name": "", 
+        "title": "Prof.Haifeng Du"
+    }, 
+    {
+        "content": "name, du hai-feng. title, associate dean,professor. research interests, public administration and complexity science. contact, haifengdu@mail.xjtu.edu.cn...", 
+        "email_list": [
+            "haifengdu@mail.xjtu.edu.cn"
+        ], 
+        "cite_url": "sppa.xjtu.edu.cn/jdglen/szxx.asp?id=4", 
+        "cite_name": "", 
+        "title": "Du Hai-feng - School of Public Policy and Management"
+    }, 
+    {
+        "content": "chen chuanfeng, http://cchen.iccas.ac.cn, cchen@iccas.ac.cn, 62588936 ... du haifeng, http://haifengdu.iccas.ac.cn, haifengdu@iccas.ac.cn, 62652117.", 
+        "email_list": [
+            "cchen@iccas.ac.cn", 
+            "haifengdu@iccas.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Faculty and Staff----Institute of Chemistry the Chinese ..."
+    }, 
+    {
+        "content": "haifeng jia. tsinghua university. verified email at tsinghua.edu.cn. scholar. get my own profile. google scholar ... h jia, s cheng, w du. journal-tsinghua...", 
+        "email_list": [
+            "email@tsinghua.edu.cn"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Haifeng Jia - Google Scholar Citations"
+    }, 
+    {
+        "content": "haifeng wang. university of delaware and the icct  ship. verified email at udel.edu ... b xu, l liu, x huang, h ma, y zhang, y du, p wang, x tang, h wang, .", 
+        "email_list": [
+            "email@udel.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=a0IkX0IAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Haifeng Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "cancel. haifeng wang. baidu ... verified email at baidu.com - homepage  scholar ... b xu, l liu, x huang, h ma, y zhang, y du, p wang, x tang, h wang, .", 
+        "email_list": [
+            "email@baidu.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jgy4jCAAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Haifeng Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at mail.ustc.edu.cn - homepage  scholar ... z hai-feng, l ke-zan, f xin-chu, w bing-hong. chinese ... h zhang, h yang, w du, b wang, x cao.", 
+        "email_list": [
+            "email@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VHrlqpgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Haifeng zhang - Google Scholar Citations"
+    }
+]

@@ -1,7 +1,38 @@
-fchisari@scripps.edu	[16]
-info@hepb.org	[2]
-cs-journals@wiley.com	[2]
-kmchang@mail.med.upenn.edu	[2]
-email at scripps.edu	[2]
-info@hepccenter.org.francis	[2]
-info@hepccenter.org	[2]
+[
+    {
+        "content": "the chisari lab. ... francis v. chisari, m.d. ... tel: (858) 784-8228 fax: (858) 784-2160. email: fchisari@scripps.edu. connect. scientific events  press room...", 
+        "email_addr_list": [
+            "fchisari@scripps.edu"
+        ], 
+        "cite_url": "www.scripps.edu/chisari/", 
+        "cite_name": "Scripps Research Institute", 
+        "title": "The Chisari Lab - The Scripps Research Institute"
+    }, 
+    {
+        "content": "cancel. francis v. chisari ... verified email at scripps.edu - homepage  scholar ... lg guidotti, r rochford, j chung, m shapiro, r purcell, fv chisari. science...", 
+        "email_addr_list": [
+            "email@scripps.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=IwpVn00AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Francis V. Chisari - Google Scholar Citations"
+    }, 
+    {
+        "content": "lab: (215) 823-5800 ext 6730. email: kmchang@mail.med.upenn.edu ... division), laboratory of dr. francis v chisari, the scripps research institute, la jolla,...", 
+        "email_addr_list": [
+            "kmchang@mail.med.upenn.edu"
+        ], 
+        "cite_url": "https://www.med.upenn.edu/apps/.../p1772...", 
+        "cite_name": "Perelman School of Medicine", 
+        "title": "Penn Dept of Medicine - Gastroenterology Division: Faculty ..."
+    }, 
+    {
+        "content": "francis v. chisari, m.d. ... dr. chisari is professor and head of the division of experimental pathology in the department of ... e-mail: info@hepccenter.org.", 
+        "email_addr_list": [
+            "info@hepccenter.org"
+        ], 
+        "cite_url": "www.hepccenter.org/chisari", 
+        "cite_name": "", 
+        "title": "Francis V. Chisari, M.D. - Center for the Study of Hepatitis C"
+    }
+]

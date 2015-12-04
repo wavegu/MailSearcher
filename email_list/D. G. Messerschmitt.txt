@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at berkeley.edu - homepage  scholar ... ea lee, dg messerschmitt. springer science ... jr barry, jm kahn, wj krause, e lee, dg messerschmitt.", 
+        "email_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=IJgXsgwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Edward A. LEE - Google Scholar Citations"
+    }
+]

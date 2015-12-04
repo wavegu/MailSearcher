@@ -1,7 +1,31 @@
-santiago.zanella-beguelin@inria.fr	[47]
-webcam.zanella-beguelin@inria.fr	[31]
-santiago at microsoft.com	[17]
-email at microsoft.com	[2]
-pierre-yves@strub.nu	[2]
-zakir@umich.edu	[2]
-alfredo.pironti@inria.fr	[1]
+[
+    {
+        "content": "santiago zanella-béguelin. microsoft research ... verified email at microsoft.com - homepage  scholar ... g barthe, b grégoire, s heraud, s zanella-béguelin.", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=boLOB98AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Santiago Zanella-Béguelin - Google Scholar Citations"
+    }, 
+    {
+        "content": "i am best reached by e-mail at zakir@umich.edu (gpg key) or by phone at (224) ... benjamin vandersloot, eric wustrow, santiago zanella-beguelin, and paul...", 
+        "email_addr_list": [
+            "zakir@umich.edu"
+        ], 
+        "cite_url": "https://zakird.com/cv.html", 
+        "cite_name": "", 
+        "title": "available here - Zakir Durumeric"
+    }, 
+    {
+        "content": "e-mail: alfredo.pironti@inria.fr imdea software institute. e-mail: pierre-yves@strub.nu inria. e-mail: santiago.zanella-beguelin@inria.fr 1 contents 1...", 
+        "email_addr_list": [
+            "alfredo.pironti@inria.fr", 
+            "pierre-yves@strub.nu", 
+            "santiago.zanella-beguelin@inria.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-zanella-beguelin-inria-fr-552695...www.google.com/emailwww.hansensclothing.com/", 
+        "cite_name": "", 
+        "title": "zanella-beguelin@inria.fr - The Email ArchiveGoogle Business Email - Custom email for your company‎Zanella Slacks - Direct - Italian tailored, Italian fabrics‎"
+    }
+]

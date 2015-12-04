@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email: yan.wang@mq.edu.au .... lei li and yan wang, the roadmap of trust and trust evaluation in web applications and web services, web services...", 
+        "email_list": [
+            "yan.wang@mq.edu.au"
+        ], 
+        "cite_url": "comp.mq.edu.au/~yanwang/", 
+        "cite_name": "", 
+        "title": "Home Page of Yan Wang - Department of Computing"
+    }, 
+    {
+        "content": "homepage of yan wang, dvmm lab, columbia university. ... email: yanwang@ee.columbia.edu. office address: 708 cepsr building, columbia university...", 
+        "email_list": [
+            "yanwang@ee.columbia.edu"
+        ], 
+        "cite_url": "www.ee.columbia.edu/~yanwang/", 
+        "cite_name": "", 
+        "title": "Yan Wang | Columbia University"
+    }, 
+    {
+        "content": "email: yan.wang@rmit.edu.au. campus: melbourne city campus. contact me about: research supervision, media comments. expand all sections...", 
+        "email_list": [
+            "yan.wang@rmit.edu.au"
+        ], 
+        "cite_url": "www.rmit.edu.au/contact/staff-contacts/.../wang-dr-yan/", 
+        "cite_name": "RMIT University", 
+        "title": "Dr Yan Wang - RMIT University"
+    }, 
+    {
+        "content": "yan wang: current contact information and listing of economic research of this author provided by repec/ideas. ... email: ywang2005b@gmail.com. homepage...", 
+        "email_list": [
+            "ywang2005b@gmail.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pwa545.html", 
+        "cite_name": "", 
+        "title": "Yan Wang at IDEAS"
+    }, 
+    {
+        "content": "may 15, 2013 - asst/prof yan wang. research assistant ... phone: +61 8 6488 7938; fax: +61 8 6488 7364; email: yan.a.wang@uwa.edu.au. research profile...", 
+        "email_list": [
+            "yan.a.wang@uwa.edu.au"
+        ], 
+        "cite_url": "www.physics.uwa.edu.au/.../academic-sta...", 
+        "cite_name": "University of Western Australia", 
+        "title": "Yan Wang - Academic staff : School of Physics : The ..."
+    }
+]

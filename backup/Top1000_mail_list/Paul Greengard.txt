@@ -1,3 +1,20 @@
-paul.greengard@rockefeller.edu	[27]
-info@alzinfo.org	[1]
-info@alzinfo.org.paul	[1]
+[
+    {
+        "content": "greengard, paul vincent astor professor laboratory of molecular and cellular neuroscience e-mail: paul.greengard@rockefeller.edu. laboratory of molecular...", 
+        "email_addr_list": [
+            "paul.greengard@rockefeller.edu"
+        ], 
+        "cite_url": "www.rockefeller.edu/research/.../PaulGreengard/", 
+        "cite_name": "Rockefeller University", 
+        "title": "Lab Members - The Rockefeller University » Scientists ..."
+    }, 
+    {
+        "content": "dr. paul greengard is the vincent astor professor, laboratory of molecular and cellular neuroscience and director of the fisher center for alzheimers ... greengard received his ph.d. from johns hopkins in 1953. ... email: info@alzinfo.org.", 
+        "email_addr_list": [
+            "info@alzinfo.org"
+        ], 
+        "cite_url": "https://www.alzinfo.org/about/bios/dr-paul-greengard-2/", 
+        "cite_name": "", 
+        "title": "Dr. Paul Greengard | Fisher Center for Alzheimers ..."
+    }
+]

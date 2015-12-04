@@ -1,4 +1,38 @@
-suciu@cs.washington.edu	[11]
-email at cs.washington.edu	[3]
-sudeepa at cs dot duke dot edu	[3]
-redactia@revista22.ro	[2]
+[
+    {
+        "content": "if youd like to obtain a copy, please send email to suciu@cs.washington.edu. mystiq is a system that uses a probabilistic data model to find answers in large...", 
+        "email_addr_list": [
+            "suciu@cs.washington.edu"
+        ], 
+        "cite_url": "https://homes.cs.washington.edu/~suciu/project...", 
+        "cite_name": "University of Washington", 
+        "title": "Dan Sucius Project MystiQ - University of Washington"
+    }, 
+    {
+        "content": "create alert. cancel. dan suciu ... verified email at cs.washington.edu - homepage  scholar ... a deutsch, m fernandez, d florescu, a levy, d suciu. computer...", 
+        "email_addr_list": [
+            "email@cs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SIxd6jgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Dan Suciu - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: sudeepa at cs dot duke dot edu ... dan suciu and the database group. i graduated from the ... (with paraschos koutris, tova milo, and dan suciu)", 
+        "email_addr_list": [
+            "sudeepa@cs.duke.edu"
+        ], 
+        "cite_url": "https://users.cs.duke.edu/~sudeepa/", 
+        "cite_name": "", 
+        "title": "Sudeepa Roy - Duke University"
+    }, 
+    {
+        "content": "articole scrise de dan suciu. editie scrisa| dan suciu .... sector 1, bucuresti romania; tel: +4021 3112208;; fax: +4021 3141776; email: redactia@revista22.ro...", 
+        "email_addr_list": [
+            "redactia@revista22.ro"
+        ], 
+        "cite_url": "www.revista22.ro/autor-dan-suciu-1", 
+        "cite_name": "", 
+        "title": "Dan Suciu - Revista 22 - saptamanal independent de ..."
+    }
+]

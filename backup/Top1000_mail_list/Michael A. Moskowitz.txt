@@ -1,4 +1,29 @@
-moskowitz@helix.mgh.harvard.edu	[20]
-mmoskowitz@ensemble.net	[20]
-moskowitz@helix.mgh.harvard.edumichael	[20]
-email at helix.mgh.harvard.edu	[4]
+[
+    {
+        "content": "massachusetts general hospital – east building 149 13th street charlestown, ma 02129. telephone: 617-726-8442. e-mail: moskowitz@helix.mgh.harvard.edu", 
+        "email_addr_list": [
+            "moskowitz@helix.mgh.harvard.edu"
+        ], 
+        "cite_url": "www2.massgeneral.org/.../neuro_faculty_...", 
+        "cite_name": "Massachusetts General Hospital", 
+        "title": "Michael Moskowitz - Massachusetts General Hospital"
+    }, 
+    {
+        "content": "michael a moskowitz. harvard ... verified email at helix.mgh.harvard.edu. scholar ... z huang, pl huang, n panahian, t dalkara, mc fishman, ma moskowitz.", 
+        "email_addr_list": [
+            "email@helix.mgh.harvard.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael A Moskowitz - Google Scholar Citations"
+    }, 
+    {
+        "content": "michael moskowitz. phone 888.428.2228. email: mmoskowitz@ensemble.net ... michael moskowitz has been involved in commercial real estate for over 25...", 
+        "email_addr_list": [
+            "mmoskowitz@ensemble.net"
+        ], 
+        "cite_url": "www.ensemblere.com/about-us.aspx", 
+        "cite_name": "Ensemble Real Estate Services, LLC", 
+        "title": "Ensemble Real Estate: Our Team"
+    }
+]

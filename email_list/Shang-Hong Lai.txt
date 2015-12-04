@@ -1,0 +1,68 @@
+[
+    {
+        "content": "賴尚宏老師, dr. shang-hong lai. director, computer and communication center ... email: lai@cs.nthu.edu.tw. tel: 03-574-2958, 03-5731100. fax: 03-573-1201...", 
+        "email_list": [
+            "lai@cs.nthu.edu.tw"
+        ], 
+        "cite_url": "www.cs.nthu.edu.tw/~lai/", 
+        "cite_name": "National Tsing Hua University", 
+        "title": "Prof. Lais Homepage - 國立清華大學資訊工程系"
+    }, 
+    {
+        "content": "prof. shang-hong lai, 賴尚宏 教授. cvlab ,電腦視覺實驗室. email: email: lai@cs.nthu.edu.tw lai@cs.nthu.edu.tw http://cv.cs.nthu.edu.tw. 1...", 
+        "email_list": [
+            "lai@cs.nthu.edu.tw", 
+            "lai@cs.nthu.edu.tw"
+        ], 
+        "cite_url": "cv.cs.nthu.edu.tw/upload/activities/18/27.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Prof. Shang-Hong Lai, 賴尚宏 教授 CVLAB ,電腦視覺實驗室 ..."
+    }, 
+    {
+        "content": "賴尚宏老師dr. shang-hong lai ... master; 陳昱均; yu-chang chen; ycchen19891229@gmail.com ... master; 張慈珊; tsz-shan chang; qbala1031@gmail.com...", 
+        "email_list": [
+            "ycchen19891229@gmail.com", 
+            "qbala1031@gmail.com"
+        ], 
+        "cite_url": "cv.cs.nthu.edu.tw/people.php", 
+        "cite_name": "", 
+        "title": "NTHU - CVLab | People - 國立清華大學"
+    }, 
+    {
+        "content": "shang-hong lai. professor of computer ... verified email at cs.nthu.edu.tw - homepage  scholar ... ky chang, tl liu, ht chen, sh lai. computer vision...", 
+        "email_list": [
+            "email@cs.nthu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LlybOXQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shang-Hong Lai - Google Scholar Citations"
+    }, 
+    {
+        "content": "lai-shan tam (譚麗珊). professor ... faculty of medicine, the chinese university of hong kong honorary ... email: lstam@cuhk.edu.hk. regarding the role of...", 
+        "email_list": [
+            "lstam@cuhk.edu.hk"
+        ], 
+        "cite_url": "www.mect.cuhk.edu.hk/people/lstam.html", 
+        "cite_name": "", 
+        "title": "Prof. Lai-Shan Tam (譚麗珊) - Department of Medicine ..."
+    }, 
+    {
+        "content": "hong kong police force - contact us. ... 151 tsz wan shan road, kowloon, 3661 1634, 2351 9064. sai kung division map ... 880 lai chi kok road, kowloon, 3661 1644, 2742 7046. shek kip mei .... email: crimeinformation@police.gov.hk", 
+        "email_list": [
+            "crimeinformation@police.gov.hk"
+        ], 
+        "cite_url": "www.police.gov.hk/ppp_en/contact_us.html", 
+        "cite_name": "Hong Kong Police Force", 
+        "title": "Contact us | Hong Kong Police Force"
+    }, 
+    {
+        "content": "shang-hong lai, national tsing hua university, (lai@cs.nthu.edu.tw) - yue gao, university of north carolina at chapel hill, (kevin.gaoy@gmail.com)", 
+        "email_list": [
+            "lai@cs.nthu.edu.tw", 
+            "kevin.gaoy@gmail.com"
+        ], 
+        "cite_url": "pcm2015.gist.ac.kr/special_session", 
+        "cite_name": "", 
+        "title": "Special Session"
+    }
+]

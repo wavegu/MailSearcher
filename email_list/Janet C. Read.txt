@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. janet c read. university of central ... verified email at uclan.ac.uk. scholar. get my own ... jc read, sj macfarlane, c casey. interaction design and...", 
+        "email_list": [
+            "email@uclan.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gT-BtGYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Janet C Read - Google Scholar Citations"
+    }, 
+    {
+        "content": "... of improving childrens writing. to find out more about research in computing, contact dr janet c read tel: +44 (0)1772 893285 email: jcread@uclan.ac.uk...", 
+        "email_list": [
+            "jcread@uclan.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Central Lancashire", 
+        "title": "Computing | Research | University of Central Lancashire"
+    }, 
+    {
+        "content": "janet c read. job: professor email: jcread@uclan.ac.uk. phone number: 01772893285. about me. my work with children as users of interactive technology has...", 
+        "email_list": [
+            "jcread@uclan.ac.uk"
+        ], 
+        "cite_url": "www.chici.org/meet-the-team/janet-c-read", 
+        "cite_name": "", 
+        "title": "Child Computer Interaction Group | Janet C Read"
+    }
+]

@@ -1,2 +1,20 @@
-karinoffice@ucsd.edu	[11]
-nathan.jew@ucsf.edu	[1]
+[
+    {
+        "content": "michael karin. distinguished professor of pharmacology ph.d., university of california, los angeles email: karinoffice@ucsd.edu...", 
+        "email_addr_list": [
+            "karinoffice@ucsd.edu"
+        ], 
+        "cite_url": "biomedsci.ucsd.edu/.../faculty_descri...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Michael Karin - Biomedical Sciences Graduate Program"
+    }, 
+    {
+        "content": "michael karin ... e-mail: karinoffice@ucsd.edu ... dr. karin joined the faculty at the university of california, san diego in 1986, where currently he is a...", 
+        "email_addr_list": [
+            "karinoffice@ucsd.edu"
+        ], 
+        "cite_url": "pharmacology.ucsd.edu/faculty/karin.html", 
+        "cite_name": "", 
+        "title": "Michael Karin - Department of Pharmacology, University of ..."
+    }
+]

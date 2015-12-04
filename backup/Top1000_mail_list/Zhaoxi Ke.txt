@@ -1,4 +1,11 @@
-bauer@ncbi.nlm.nih.gov.characterization	[1]
-ychen2002@163.com.gok	[1]
-bauer@ncbi.nlm.nih.gov	[1]
-ychen2002@163.com	[1]
+[
+    {
+        "content": "ke chen, guobao cao, zhaoxi huang, fenghui zhao, min liu, and yong chen (2015). determination of ... +86-8 98-66 27 91 22, e-mail: ychen2002@163.com.", 
+        "email_addr_list": [
+            "ychen2002@163.com"
+        ], 
+        "cite_url": "www.hanser-elibrary.com/doi/abs/10.3139/113.110376", 
+        "cite_name": "", 
+        "title": "Determination of Shape Transition Concentrations in Self ..."
+    }
+]

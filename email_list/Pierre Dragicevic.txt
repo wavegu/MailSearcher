@@ -1,0 +1,39 @@
+[
+    {
+        "content": "pierre dragicevic. research ... verified email at inria.fr - homepage  scholar ... a bezerianos, f chevalier, p dragicevic, n elmqvist, jd fekete. computer...", 
+        "email_list": [
+            "email@inria.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hqyns68AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Pierre Dragicevic - Google Scholar Citations"
+    }, 
+    {
+        "content": "feb 27, 2015 - office: 1044; email: tobias.isenberg@inria.fr; phone: +33 1 74 85 42 92 ... email: pierre.dragicevic@inria.fr; phone: please inquire by e-mail.", 
+        "email_list": [
+            "tobias.isenberg@inria.fr", 
+            "pierre.dragicevic@inria.fr"
+        ], 
+        "cite_url": "www.aviz.fr/Main/Contact", 
+        "cite_name": "", 
+        "title": "Aviz Contact Page"
+    }, 
+    {
+        "content": "mar 4, 2015 - lecturer : dr pierre dragicevic, inria / aviz, france. place: ... if you would like to talk to him, please email luana micallef (luana.micallef@hiit.fi).", 
+        "email_list": [
+            "luana.micallef@hiit.fi"
+        ], 
+        "cite_url": "https://www.cs.helsinki.fi/en/events/81924", 
+        "cite_name": "", 
+        "title": "Recent and Future Information Visualization Research at ..."
+    }, 
+    {
+        "content": "jun 9, 2015 - ... p-value, sta- tistical testing, confidence intervals, estimation. ∗ pierre dragicevic is with inria, france; email: pierre.dragicevic@inria.fr...", 
+        "email_list": [
+            "pierre.dragicevic@inria.fr"
+        ], 
+        "cite_url": "https://hal.inria.fr/...", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "[PDF]HCI Statistics without p-values - HAL-Inria"
+    }
+]

@@ -1,4 +1,30 @@
-sally.floyd@nortonrosefulbright.com	[21]
-floyd at acm.org	[11]
-floyd@ee.lbl.gov	[11]
-floyd@aciri.org	[11]
+[
+    {
+        "content": "sally floyd - information. email: floyd at acm.org, contact information, and my pgp key. icsi, and the icsi networking group.", 
+        "email_addr_list": [
+            "floyd@acm.org"
+        ], 
+        "cite_url": "www.icir.org/floyd/", 
+        "cite_name": "", 
+        "title": "Sally Floyd at ICSI - The ICSI Networking and Security Group"
+    }, 
+    {
+        "content": "email address: floyd@aciri.org (though my old email address of floyd@ee.lbl.gov still works fine), and my pgp public key. note on email: i have not yet figured...", 
+        "email_addr_list": [
+            "floyd@aciri.org", 
+            "floyd@ee.lbl.gov"
+        ], 
+        "cite_url": "ee.lbl.gov/floyd/", 
+        "cite_name": "", 
+        "title": "Sally Floyd"
+    }, 
+    {
+        "content": "email: sally.floyd@nortonrosefulbright.com. related services. corporate. sally floyd is a commercial and corporate lawyer, based in melbourne. sally is...", 
+        "email_addr_list": [
+            "sally.floyd@nortonrosefulbright.com"
+        ], 
+        "cite_url": "www.nortonrosefulbright.com/people/128758/sallyfloyd", 
+        "cite_name": "", 
+        "title": "Sally Floyd | Associate | Norton Rose Fulbright"
+    }
+]

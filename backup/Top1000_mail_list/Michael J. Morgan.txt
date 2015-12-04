@@ -1,3 +1,11 @@
-michael.j.morgan@monash.edu	[31]
-michael.j.morgan@monash.professor	[31]
-michael.morgan@mq.edu.au	[27]
+[
+    {
+        "content": "org. unit: school of physics and astronomy, faculty of science email: michael.j.morgan@monash.edu. title: head of school, physics phone: +61 3 990 53645", 
+        "email_addr_list": [
+            "michael.j.morgan@monash.edu"
+        ], 
+        "cite_url": "directory.monash.edu.au/.../staffsearch?...Michael%20...", 
+        "cite_name": "Monash University", 
+        "title": "Professor Michael Morgan - Search the Monash staff directory"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. alessandra sala. bell labs, ireland ... verified email at alcatel-lucent.com - homepage  scholar ... a sala, l cao, c wilson, r zablit, h zheng, by zhao.", 
+        "email_list": [
+            "email@alcatel-lucent.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_s17ezAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alessandra Sala - Google Scholar Citations"
+    }, 
+    {
+        "content": "bienvenidos a mi pequeña colección de momentos email:asalamicola@gmail.com.", 
+        "email_list": [
+            "asalamicola@gmail.com"
+        ], 
+        "cite_url": "https://instagram.com/misalessandra/?hl=en", 
+        "cite_name": "", 
+        "title": "Alessandra Sala Micola (@misalessandra) • Instagram ..."
+    }, 
+    {
+        "content": "lets coordinate via email: alessandra.sala@bell-labs.com. 9:41 am - 10 apr 2015. 0 retweets 0 favorites. reply. retweet. retweeted. favorite. favorited. more.", 
+        "email_list": [
+            "alessandra.sala@bell-labs.com"
+        ], 
+        "cite_url": "https://twitter.com/Ale_xsandra/status/586569817634668545", 
+        "cite_name": "", 
+        "title": "Alessandra Sala on Twitter: @almtwally Ill be delighted ..."
+    }
+]

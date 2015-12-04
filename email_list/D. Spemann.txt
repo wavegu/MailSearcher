@@ -1,0 +1,29 @@
+[
+    {
+        "content": "verified email at physik.uni-leipzig.de. scholar. get my own profile ... p esquinazi, d spemann, r höhne, a setzer, kh han, t butz. physical review letters 91...", 
+        "email_list": [
+            "email@physik.uni-leipzig.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lhvWG1wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pablo Esquinazi - Google Scholar Citations"
+    }, 
+    {
+        "content": "dec 12, 2012 - fax: 215-573-7601. email: kesslerd@mail.med.upenn.edu ... formation and function of the spemann organizer in axial development", 
+        "email_list": [
+            "kesslerd@mail.med.upenn.edu"
+        ], 
+        "cite_url": "www.med.upenn.edu/apps/faculty/.../p353...", 
+        "cite_name": "Perelman School of Medicine", 
+        "title": "Daniel S. Kessler, Ph.D."
+    }, 
+    {
+        "content": "oct 23, 2014 - d. spemann1,a), p. esquinazi1,b), a. setzer1 and w. böhlmann1. scitation author ... a) electronic mail: spemann@uni-leipzig.de. b) electronic...", 
+        "email_list": [
+            "spemann@uni-leipzig.de"
+        ], 
+        "cite_url": "scitation.aip.org/content/aip/.../1.4900613", 
+        "cite_name": "American Institute of Physics", 
+        "title": "Trace element content and magnetic properties of ... - Scitation"
+    }
+]

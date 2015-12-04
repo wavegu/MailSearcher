@@ -1,0 +1,30 @@
+[
+    {
+        "content": "chotirat ann ratanamahatana. assistant professor ... verified email at cp.eng.chula.ac.th. scholar ... x xi, e keogh, c shelton, l wei, ca ratanamahatana.", 
+        "email_list": [
+            "email@cp.eng.chula.ac.th"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chotirat Ann Ratanamahatana - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 13, 2004 - 1/8. chotirat ann ratanamahatana, ph.d. อ.ดร.โชติรัตน  รัตนามหัทธนะ. email: ann@cp.eng.chula.ac.th, ann@thai.org. homepage:...", 
+        "email_list": [
+            "ann@cp.eng.chula.ac.th", 
+            "ann@thai.org"
+        ], 
+        "cite_url": "www.cs.ucr.edu/.../Ann_cv_web.pdf", 
+        "cite_name": "University of California, Riverside", 
+        "title": "[PDF]Curriculum Vitae - Computer Science and Engineering"
+    }, 
+    {
+        "content": "email : ann@cp.eng.chula.ac.th ... 8, vit niennattrakul and chotirat ann ratanamahatana, shape averaging under time warping in proceedings of 6th...", 
+        "email_list": [
+            "ann@cp.eng.chula.ac.th"
+        ], 
+        "cite_url": "www1.cp.eng.chula.ac.th/.../instructor_detail_en.php?email=ann@cp.eng...", 
+        "cite_name": "", 
+        "title": "Computer Engineering, Chulalongkorn University :: Instructor"
+    }
+]

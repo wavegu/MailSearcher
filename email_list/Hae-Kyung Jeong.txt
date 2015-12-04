@@ -1,0 +1,39 @@
+[
+    {
+        "content": "jeong, hyo sung ... min, hee. emailmhmhkr@khu.ac.kr. appointment dates03/01/2013–02/28/2014. home institutionkyung hee university. fieldpolitical...", 
+        "email_list": [
+            "emailmhmhkr@khu.ac.kr"
+        ], 
+        "cite_url": "ieas.berkeley.edu/.../vs_directory_form...", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Directory - Visiting Scholars - Center for Korean Studies, UC ..."
+    }, 
+    {
+        "content": "prof. hae kyung jeong. email: outron@daegu.ac.kr. tel: 053-850-6438, fax: 053-210-8711. address: department of physics. daegu university, gyeongsan.", 
+        "email_list": [
+            "outron@daegu.ac.kr"
+        ], 
+        "cite_url": "curie.daegu.ac.kr/members.html", 
+        "cite_name": "", 
+        "title": "Group members - Jeong Lab Home Page"
+    }, 
+    {
+        "content": "chang, hae kyung seoul national ... jung, sung kook korea university(b.a.) .... e-mail: undergraduate school : admission@acts.ac.kr. graduate school...", 
+        "email_list": [
+            "admission@acts.ac.kr"
+        ], 
+        "cite_url": "english.acts.ac.kr/people/resident-faculty/", 
+        "cite_name": "", 
+        "title": "Resident Faculty « ACTS"
+    }, 
+    {
+        "content": "seoul paik hospital : mareunnae-ro 9, jung-gu, seoul, korea tel.82-2-2270-0114 ... professor, hye kyung lee, pathhkl@hanmail.net, gastrointestinal pathology, hepatobiliary pathology, ... hye jung kim / e-mail: kim-hyejung@hotmail.com", 
+        "email_list": [
+            "pathhkl@hanmail.net", 
+            "kim-hyejung@hotmail.com"
+        ], 
+        "cite_url": "med.inje.ac.kr/eng/sub03/sub03_1_4.asp", 
+        "cite_name": "", 
+        "title": "Inje University College of Medicine"
+    }
+]

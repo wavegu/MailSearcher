@@ -1,0 +1,47 @@
+[
+    {
+        "content": "hours. always open. short description. fotografia okolicznościowa - foto pospieszczyk. phone. 791734223. email. foto.pospieszczyk@gmail.com. website.", 
+        "email_list": [
+            "foto.pospieszczyk@gmail.com"
+        ], 
+        "cite_url": "https://www.facebook.com/foto.pospieszczyk/info", 
+        "cite_name": "", 
+        "title": "Foto Pospieszczyk - Facebook"
+    }, 
+    {
+        "content": "by pospieszczyk, a. (institute of energy and climate research – plasma physics, ... 1, d-86135 augsburg (germany)), e-mail: a.pospieszczyk@fz-juelich.de", 
+        "email_list": [
+            "a.pospieszczyk@fz-juelich.de"
+        ], 
+        "cite_url": "https://inis.iaea.org/.../search.aspx?orig...", 
+        "cite_name": "International Atomic Energy Agency", 
+        "title": "Spectroscopic characterisation of the PSI-2 plasma in the ..."
+    }, 
+    {
+        "content": "by pospieszczyk, a; borodin, d; brezinsek, s; huber, a; kirschner, a; mertens, ... 119991 moscow (russian federation)), e-mail: a.pospieszczyk@fz-juelich.de", 
+        "email_list": [
+            "a.pospieszczyk@fz-juelich.de"
+        ], 
+        "cite_url": "https://inis.iaea.org/.../search.aspx?orig...", 
+        "cite_name": "International Atomic Energy Agency", 
+        "title": "Determination of rate coefficients for fusion-relevant atoms ..."
+    }, 
+    {
+        "content": "verified email at fz-juelich.de - homepage  scholar. get my own ... s brezinsek, g sergienko, a pospieszczyk, p mertens, u samm, ... plasma physics and...", 
+        "email_list": [
+            "email@fz-juelich.de"
+        ], 
+        "cite_url": "scholar.google.de/citations?user=0ZAMcSAAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Sebastijan Brezinsek - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at utoronto.ca. scholar. get my own profile ... s brezinsek, a pospieszczyk, d borodin, mf stamp, r pugno, ... journal of nuclear materials 363,...", 
+        "email_list": [
+            "email@utoronto.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RPewFJoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Adam McLean - Google Scholar Citations"
+    }
+]

@@ -1,2 +1,20 @@
-agrawalr@purdue.edu	[16]
-amy@redesignmobile.com	[2]
+[
+    {
+        "content": "office: frny 765-494-2257 (engineering administration) frny 3053d (chemical engineering). email: agrawalr@purdue.edu...", 
+        "email_addr_list": [
+            "agrawalr@purdue.edu"
+        ], 
+        "cite_url": "https://engineering.purdue.edu/Engr/.../ptProfile?...id...", 
+        "cite_name": "Purdue University", 
+        "title": "Rakesh Agrawal - Our People - Purdue Engineering"
+    }, 
+    {
+        "content": "email amy@redesignmobile.com. ... i love that my banker at first republic can do most things over email and dropbox .... rakesh agrawal is a payments expert.", 
+        "email_addr_list": [
+            "amy@redesignmobile.com"
+        ], 
+        "cite_url": "redesignmobile.com/www.google.com/email", 
+        "cite_name": "", 
+        "title": "redesign | mobile | A marketplace for professionalsGoogle Business Email - Custom email for your company‎Searches related to Rakesh Agrawal email"
+    }
+]

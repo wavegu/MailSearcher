@@ -1,4 +1,29 @@
-prato@units.it	[11]
-prato@units.it.welcome	[11]
-email at units.it	[2]
-redazioneweb@usl4.toscana.it	[1]
+[
+    {
+        "content": "prof. maurizio prato. address dipartimento scienze chimiche e farmaceutiche,. piazzale europa 1, 34127 trieste, italy. room 163. e-mail prato@units.it.", 
+        "email_addr_list": [
+            "prato@units.it"
+        ], 
+        "cite_url": "www2.units.it/pratoweb/Maurizio_Prato/Prof._Prato....", 
+        "cite_name": "University of Trieste", 
+        "title": "Prof. Maurizio Prato"
+    }, 
+    {
+        "content": "maurizio prato. università di trieste  chimica. verified email at units.it - homepage ... v georgakilas, k kordatos, m prato, dm guldi, m holzinger, a hirsch.", 
+        "email_addr_list": [
+            "email@units.it"
+        ], 
+        "cite_url": "https://scholar.google.co.uk/citations?user=SCP6c0gAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Maurizio Prato - Google Scholar Citations"
+    }, 
+    {
+        "content": "azienda usl 4 di prato ... informazioni sul medico bellini maurizio ... nominativo: bellini maurizio; tipologia: generico; comune: prato; continuità assistenziale: il medico fa parte del gruppo ... e-mail redazioneweb@usl4.toscana.it.", 
+        "email_addr_list": [
+            "redazioneweb@usl4.toscana.it"
+        ], 
+        "cite_url": "servizi.usl4.toscana.it/.../elencoambulatoriorario.php?...", 
+        "cite_name": "", 
+        "title": "bellini maurizio - Informazioni sul medico scelto - Azienda ..."
+    }
+]

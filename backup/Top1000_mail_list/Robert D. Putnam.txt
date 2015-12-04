@@ -1,2 +1,20 @@
-putnam@hks.harvard.edu	[13]
-converse@harvard.edu	[2]
+[
+    {
+        "content": "email: robert_putnam@hks.harvard.edu ... robert d. putnam is the peter and isabel malkin professor of public policy at harvard, where he teaches both...", 
+        "email_addr_list": [
+            "robert_putnam@hks.harvard.edu"
+        ], 
+        "cite_url": "https://www.hks.harvard.edu/.../...", 
+        "cite_name": "John F. Kennedy School of Government", 
+        "title": "Harvard Kennedy School - Robert Putnam"
+    }, 
+    {
+        "content": "robert d. putnam is malkin professor of public policy at harvard university. he is a ... please contact louise converse by email louise_converse@harvard.edu...", 
+        "email_addr_list": [
+            "louise_converse@harvard.edu"
+        ], 
+        "cite_url": "www.hks.harvard.edu/.../putna...", 
+        "cite_name": "John F. Kennedy School of Government", 
+        "title": "Robert D. Putnam - Harvard Kennedy School"
+    }
+]

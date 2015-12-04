@@ -1,0 +1,48 @@
+[
+    {
+        "content": "calabretta, dr. n. address: technische universiteit eindhoven p.o. box 513 ... 9.087; tel: +31 40-247 5361; tel (internal): 5361; email: n.calabretta@remove-this.tue.nl ... calabretta, n., centelles, r.p., di lucente, s.  dorren, h.j.s. (2013).", 
+        "email_list": [
+            "n.calabretta@remove-this.tue.nl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Eindhoven University of Technology", 
+        "title": "dr. N. (Nicola) Calabretta - Publications"
+    }, 
+    {
+        "content": "verified email at cooperhealth.edu. scholar ... i lind, jh gill, n calabretta ... myh shen, n calabretta, s cavanaugh, n datwani, c lew, m dadhania. journal of...", 
+        "email_list": [
+            "email@cooperhealth.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nNf926sAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nancy Calabretta - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: michael.connelly@ul.ie. dr. n calabretta. cobra research institute eindhoven university of technology, netherland. e-mail: n.calabretta@tue.nl.", 
+        "email_list": [
+            "michael.connelly@ul.ie", 
+            "n.calabretta@tue.nl"
+        ], 
+        "cite_url": "soe.northumbria.ac.uk/ocr/csndsp/PhotoQulu.html", 
+        "cite_name": "", 
+        "title": "Photonic Communications Systems and Networks"
+    }, 
+    {
+        "content": "paul calabretta faculty of management department phone: (657) 278-7938. email: pcalabretta@fullerton.edu. office: sgmh ... faculty biography: n/a degree:", 
+        "email_list": [
+            "pcalabretta@fullerton.edu"
+        ], 
+        "cite_url": "sbaeweb.fullerton.edu/management/faculty-profile.aspx?ID...", 
+        "cite_name": "", 
+        "title": "Paul Calabretta | CSUF Mihaylo College of Business and ..."
+    }, 
+    {
+        "content": "douglas godshall. douglas n. godshall, esq. dngodshall@gmail.com. the obligation of our profession is, or has been thought to be, to serve as healers...", 
+        "email_list": [
+            "dngodshall@gmail.com"
+        ], 
+        "cite_url": "www.attorneysmediationservices.com/", 
+        "cite_name": "", 
+        "title": "Mediation Attorneys Jeffrey Wilkof  Joseph Calabretta ..."
+    }
+]

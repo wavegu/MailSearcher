@@ -1,0 +1,38 @@
+[
+    {
+        "content": "fax: (613) 520 4334. email: bertossi at scs.carleton.ca. room: 5302 hp (herzberg laboratories, secretary). full professor, carleton university, ottawa, canada.", 
+        "email_list": [
+            "bertossi@scs.carleton.ca"
+        ], 
+        "cite_url": "www.scs.carleton.ca/~bertossi/", 
+        "cite_name": "Carleton University", 
+        "title": "Leopoldo Bertossi"
+    }, 
+    {
+        "content": "leopoldo bertossi. phone: 613-520-2600 x 1627 or 8750; email: bertossi@scs.carleton.ca; web link: http://www.scs.carleton.ca/~bertossi/. intelligent information...", 
+        "email_list": [
+            "bertossi@scs.carleton.ca"
+        ], 
+        "cite_url": "carleton.ca/ics/people/leopoldo-bertossi/", 
+        "cite_name": "Carleton University", 
+        "title": "Bertossi, Leopoldo - Institute of Cognitive Science (ICS)"
+    }, 
+    {
+        "content": "leopoldo bertossi ... verified email at scs.carleton.ca - homepage ... consistent query answering in databases. l bertossi. acm sigmod record 35 (2), 68-76,...", 
+        "email_list": [
+            "email@scs.carleton.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TeBUgNcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Leopoldo Bertossi - Google Scholar Citations"
+    }, 
+    {
+        "content": "consistent query answering in databases leopoldo bertossi carleton university school of computer science ottawa canada. bertossi@scs.carleton.ca 1...", 
+        "email_list": [
+            "bertossi@scs.carleton.ca"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-bertossi-scs-car-13913379.htm", 
+        "cite_name": "", 
+        "title": "bertossi@scs.car - The Email Archive"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "gary m. weiss. dept. of computer ... verified email at fordham.edu - homepage  scholar. get my own profile ... jr kwapisz, gm weiss, sa moore. acm sigkdd...", 
+        "email_list": [
+            "email@fordham.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Euaq4sMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Gary M. Weiss - Google Scholar Citations"
+    }, 
+    {
+        "content": "gary m. weiss. assistant ... e-mail: gweiss@cis.fordham.edu. fordham ... edited works: g. m. weiss, m. saar-tsechansky, and b. zadrozny (editors).", 
+        "email_list": [
+            "gweiss@cis.fordham.edu"
+        ], 
+        "cite_url": "www.cis.fordham.edu/cvs/Gary-Weiss.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]GARY M. WEISS - Fordham University Computer and ..."
+    }
+]

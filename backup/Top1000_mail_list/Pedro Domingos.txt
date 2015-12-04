@@ -1,4 +1,20 @@
-pedrod at cs dot washington dot edu	[12]
-pedrod@cs.washington.edu	[12]
-pedrod@cs.washington.edupedro	[12]
-email at cs.washington.edu	[2]
+[
+    {
+        "content": "pedro domingos. professor of computer ... verified email at cs.washington.edu - homepage  scholar ... g hulten, l spencer, p domingos. proceedings of the...", 
+        "email_addr_list": [
+            "email@cs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KOrhfVMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Pedro Domingos - Google Scholar Citations"
+    }, 
+    {
+        "content": "pedro domingos teaches computer science at the university of washington in seattle. ... pedro domingos. pedro ... email: pedrod@cs.washington.edu", 
+        "email_addr_list": [
+            "pedrod@cs.washington.edu"
+        ], 
+        "cite_url": "sources.npr.org/pedro-domingos/", 
+        "cite_name": "", 
+        "title": "Pedro Domingos | Source of the Week"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: nosh@northwestern.edu ... noshir contractor is the director of the science of networks in communities (sonic) research group at northwestern...", 
+        "email_list": [
+            "nosh@northwestern.edu"
+        ], 
+        "cite_url": "sonic.northwestern.edu/people/noshir-contractor/", 
+        "cite_name": "Northwestern University", 
+        "title": "Noshir Contractor – Director"
+    }, 
+    {
+        "content": "noshir contractor. jane s.  william j. ... verified email at northwestern.edu - homepage  scholar ... pr monge, md cozzens, ns contractor. organization...", 
+        "email_list": [
+            "email@northwestern.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Fqw9o84AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Noshir Contractor - Google Scholar Citations"
+    }, 
+    {
+        "content": "noshir contractor. view  view source  printer-friendly version  send by email. noshir contractor. contact info. email, nosh@northwestern.edu...", 
+        "email_list": [
+            "nosh@northwestern.edu"
+        ], 
+        "cite_url": "tw.rpi.edu/web/person/noshircontractor", 
+        "cite_name": "", 
+        "title": "Noshir Contractor | Tetherless World Constellation"
+    }, 
+    {
+        "content": "noshir contractor - professor at northwestern university. ... send an email to noshir contractors email address at nosh@northwestern.edu. send an email to...", 
+        "email_list": [
+            "nosh@northwestern.edu"
+        ], 
+        "cite_url": "www.allthepeople.net/noshir-contractor", 
+        "cite_name": "", 
+        "title": "Noshir Contractor - AllThePeople.net"
+    }
+]

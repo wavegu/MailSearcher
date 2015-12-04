@@ -1,0 +1,30 @@
+[
+    {
+        "content": "email: larry.matthies@jpl.nasa.gov. publications: karol hausman, stephan weiss, roland brockers, larry matthies and gaurav s. sukhatme. self-calibrating...", 
+        "email_list": [
+            "larry.matthies@jpl.nasa.gov"
+        ], 
+        "cite_url": "robotics.usc.edu/publications/author/100/", 
+        "cite_name": "", 
+        "title": "Larry Matthies - USC Robotics Research Lab"
+    }, 
+    {
+        "content": "publication details. karol hausman, stephan weiss, roland brockers, larry matthies and gaurav s. sukhatme. ... email: hausman@usc.edu. homepage...", 
+        "email_list": [
+            "hausman@usc.edu"
+        ], 
+        "cite_url": "robotics.usc.edu/publications/911/", 
+        "cite_name": "", 
+        "title": "Details - USC Robotics Research Labs"
+    }, 
+    {
+        "content": "f.braun@jpl.nasa.gov nathan bridges science post doc mail stop 183-501 jet ..... r.matijevic@jpl.nasa.gov larry matthies rover/geology/geomorphology...", 
+        "email_list": [
+            "f.braun@jpl.nasa.gov", 
+            "r.matijevic@jpl.nasa.gov"
+        ], 
+        "cite_url": "ftp://pdsimage2.wr.usgs.gov/cdroms/Mars_Pathfinder/.../contacts.asc", 
+        "cite_name": "", 
+        "title": "Contact - USGS"
+    }
+]

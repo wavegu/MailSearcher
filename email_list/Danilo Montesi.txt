@@ -1,0 +1,58 @@
+[
+    {
+        "content": "e-mail: danilo.montesi@unibo.it; tel: +39 051 20 9 4887; fax: +39 051 20 9 4510. altri contatti. web: vai al sito personale. dipartimento di informatica - scienza...", 
+        "email_list": [
+            "danilo.montesi@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../danilo.m...", 
+        "cite_name": "University of Bologna", 
+        "title": "Danilo Montesi — Università di Bologna — Home Page"
+    }, 
+    {
+        "content": "e-mail: danilo.montesi@unibo.it; tel: +39 051 20 9 4887; fax: +39 051 20 9 4510. altri contatti. web: go to personal web site. dipartimento di informatica...", 
+        "email_list": [
+            "danilo.montesi@unibo.it"
+        ], 
+        "cite_url": "https://www.unibo.it/.../danilo.m...", 
+        "cite_name": "University of Bologna", 
+        "title": "Danilo Montesi — University of Bologna — Home Page"
+    }, 
+    {
+        "content": "danilo montesi. professor of computer science, university of bologna  databases. verified email at unibo.it ... m magnani, n rizopoulos, pm brien, d montesi.", 
+        "email_list": [
+            "email@unibo.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AXmoGAkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Danilo Montesi - Google Scholar Citations"
+    }, 
+    {
+        "content": "danilo montesi. professor of computer science, university of bologna  databases. verified email at unibo.it ... a gal, a anaby-tavor, a trombetta, d montesi.", 
+        "email_list": [
+            "email@unibo.it"
+        ], 
+        "cite_url": "0-scholar.google.com.brum.beds.ac.uk/citations?user...hl=en", 
+        "cite_name": "", 
+        "title": "Danilo Montesi - Google Scholar Citations"
+    }, 
+    {
+        "content": "fax: 051 2962140. email: sbettelli@anastasis.it ... fax: +39 051 20 9 4510. email: danilo.montesi@unibo.it. web: http://www.unibo.it/docenti/danilo.montesi...", 
+        "email_list": [
+            "sbettelli@anastasis.it", 
+            "danilo.montesi@unibo.it"
+        ], 
+        "cite_url": "www.oplon.eu/en_US/contacts/", 
+        "cite_name": "", 
+        "title": "Contacts - Contatti"
+    }, 
+    {
+        "content": "cell.: +39 327 0087942. email: f.marchetti@reply.it ... fax: +39 051 20 9 4510. email: danilo.montesi@unibo.it. web: http://www.unibo.it/docenti/danilo.montesi...", 
+        "email_list": [
+            "f.marchetti@reply.it", 
+            "danilo.montesi@unibo.it"
+        ], 
+        "cite_url": "www.oplon.eu/it_IT/contacts/", 
+        "cite_name": "", 
+        "title": "Contatti - oplon"
+    }
+]

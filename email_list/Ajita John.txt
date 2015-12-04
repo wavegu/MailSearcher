@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at avaya.com. scholar ... d lee, an netravali, kk sabnani, b sugla, a john. network ... m de choudhury, h sundaram, a john, dd seligmann.", 
+        "email_list": [
+            "email@avaya.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7ML1oe0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ajita John - Google Scholar Citations"
+    }, 
+    {
+        "content": "if youd like to contact me, my email is shreeharsh at gmail dot com. im trying to make use of ... shreeharsh kelkar, ajita john, doree duncan seligmann (2009).", 
+        "email_list": [
+            "shreeharsh@gmail.com"
+        ], 
+        "cite_url": "web.mit.edu/skelkar/www/", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Home Page of Shreeharsh Kelkar - MIT"
+    }
+]

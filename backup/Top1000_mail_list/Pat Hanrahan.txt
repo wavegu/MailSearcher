@@ -1,5 +1,20 @@
-phanrahan@lds21.ie	[18]
-lchen@forbes.com	[2]
-tableau@marketstreetpartners.com	[1]
-email at cs.stanford.edu	[1]
-tableau@marketstreetpartners.com.almost	[1]
+[
+    {
+        "content": "patrick hanrahan. stanford university ... verified email at cs.stanford.edu. scholar ... r ng, m levoy, m brédif, g duval, m horowitz, p hanrahan. computer...", 
+        "email_addr_list": [
+            "email@cs.stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RzEnQmgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Patrick Hanrahan - Google Scholar Citations"
+    }, 
+    {
+        "content": "title: assistant national co-ordinator. mobile: 087 2079563. email: phanrahan@lds21.ie. programmes:misneach, spreagadh  developing leadership through...", 
+        "email_addr_list": [
+            "phanrahan@lds21.ie"
+        ], 
+        "cite_url": "primary.lds21.ie/index.php?option=com_contenttask=view...www.google.com/email", 
+        "cite_name": "", 
+        "title": "Pat HanrahanGoogle Business Email - Custom email for your company‎Searches related to Pat Hanrahan email"
+    }
+]

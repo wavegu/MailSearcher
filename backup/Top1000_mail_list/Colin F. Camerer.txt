@@ -1,1 +1,20 @@
-camerer@hss.caltech.edu	[16]
+[
+    {
+        "content": "repec short-id: pca47. email: camerer@hss.caltech.edu ... kyle carlson  joshua kim  annamaria lusardi  colin f. camerer, 2015. bankruptcy rates...", 
+        "email_addr_list": [
+            "camerer@hss.caltech.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pca47.html", 
+        "cite_name": "", 
+        "title": "Colin Camerer at IDEAS"
+    }, 
+    {
+        "content": "colin f. camerer is axline. professor of business economics at caltech (email: camerer@hss.caltech.edu). this research is partially supported by nsf grant...", 
+        "email_addr_list": [
+            "camerer@hss.caltech.edu"
+        ], 
+        "cite_url": "faculty.haas.berkeley.edu/.../Psychological.pdf", 
+        "cite_name": "Haas School of Business", 
+        "title": "[PDF]Teck H. Ho, Noah Lim and Colin F. Camerer How - Faculty ..."
+    }
+]

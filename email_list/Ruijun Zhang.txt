@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dr long ruijun. professor, lanzhou university, china. e-mail: longrj@lzu.edu.cn. dr. zhang zijun. associate professor,. anhui agricultural university, china.", 
+        "email_list": [
+            "longrj@lzu.edu.cn"
+        ], 
+        "cite_url": "www.aadgn.upm.edu.my/aadgn/file/2_China.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]COUNTRY REPORT - CHINA Dr Long Ruijun Dr. Zhang ..."
+    }
+]

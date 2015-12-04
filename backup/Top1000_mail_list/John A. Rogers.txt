@@ -1,3 +1,20 @@
-jrogers@illinois.edu	[14]
-chemistry at illinoiswww.chemistry.illinois.edu	[3]
-email at illinois.edu	[2]
+[
+    {
+        "content": "contact the rogers group. john a. rogers: bio and cv. email: jrogers@illinois.edu. the frederick seitz materials research laboratory 104 s. goodwin ave,...", 
+        "email_addr_list": [
+            "jrogers@illinois.edu"
+        ], 
+        "cite_url": "rogers.matse.illinois.edu/cont...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "Contact - Rogers Research Group"
+    }, 
+    {
+        "content": "cancel. john a. rogers. university ... verified email at illinois.edu. scholar ... me stewart, cr anderton, lb thompson, j maria, sk gray, ja rogers, ... chemical...", 
+        "email_addr_list": [
+            "email@illinois.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sXhiROYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John A. Rogers - Google Scholar Citations"
+    }
+]

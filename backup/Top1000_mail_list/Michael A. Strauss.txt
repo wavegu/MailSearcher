@@ -1,6 +1,38 @@
-mstrauss@straussmalk.com	[17]
-strauss@astro.princeton.edu	[16]
-strauss at ou.edu	[16]
-communications@oberlin.edu	[4]
-communications@oberlin.edudr	[4]
-mstraus1@yu.edu	[4]
+[
+    {
+        "content": "michael a. strauss. michael strauss is interested in all aspects of extragalactic astronomy and observational cosmology. ... e-mail: strauss@astro.princeton.edu...", 
+        "email_addr_list": [
+            "strauss@astro.princeton.edu"
+        ], 
+        "cite_url": "https://www.princeton.edu/astro/people/.../strauss/", 
+        "cite_name": "Princeton University", 
+        "title": "Michael A. Strauss - Princeton University"
+    }, 
+    {
+        "content": "e-mail: mstraus1@yu.edu ... michael strauss is associate dean of the sy syms school of business and assistant to the provost with responsibilities for the...", 
+        "email_addr_list": [
+            "mstraus1@yu.edu"
+        ], 
+        "cite_url": "yu.edu/faculty/pages/Strauss-Michael", 
+        "cite_name": "Yeshiva University", 
+        "title": "Michael Strauss - Yeshiva University provides the highest ..."
+    }, 
+    {
+        "content": "a young michael strauss longed to play the saxophone—until the sound of a viola changed his life. ... violist michael isaac strauss has performed around the world as a soloist, in chamber music and ... email: communications@oberlin.edu", 
+        "email_addr_list": [
+            "communications@oberlin.edu"
+        ], 
+        "cite_url": "https://new.oberlin.edu/conservatory/.../faculty-detail.dot...", 
+        "cite_name": "Oberlin College", 
+        "title": "Michael Isaac Strauss - Oberlin College"
+    }, 
+    {
+        "content": "michael s. strausss profile image ... email: mstrauss@straussmalk.com  vcard. mike concentrates his practice in estate and trust planning, including estate tax...", 
+        "email_addr_list": [
+            "mstrauss@straussmalk.com"
+        ], 
+        "cite_url": "www.straussmalk.com  Attorneys", 
+        "cite_name": "", 
+        "title": "Michael S. Strauss | Attorney | Strauss  Malk"
+    }
+]

@@ -1,4 +1,29 @@
-email at r.m.myers	[16]
-myers@shgc.stanford.edu	[13]
-myers@shgc.stanford.edu.the	[13]
-email at hudsonalpha.com	[3]
+[
+    {
+        "content": "cancel. richard m. myers ... verified email at hudsonalpha.com. scholar ... d bell, a berchuck, m birrer, j chien, dw cramer, f dao, r dhir, ... nature...", 
+        "email_addr_list": [
+            "email@hudsonalpha.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=uNSng0gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard M. Myers - Google Scholar Citations"
+    }, 
+    {
+        "content": "(email at r.m.myers@durham.ac.uk) ... bonaccini calia, domenico, myers, richard m., zappa, franco, love, gordon d., morris, timothy j., hackenberg,...", 
+        "email_addr_list": [
+            "email@r.m.myers"
+        ], 
+        "cite_url": "https://www.dur.ac.uk/physics/staff/profiles/?id=546", 
+        "cite_name": "Durham University", 
+        "title": "Prof Richard Myers - Durham University"
+    }, 
+    {
+        "content": "holly k. tabor, neil j. risch  richard m. myers about the authors. top of page ... correspondence to: richard m. myers email: myers@shgc.stanford.edu.", 
+        "email_addr_list": [
+            "myers@shgc.stanford.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinion", 
+        "cite_name": "Nature", 
+        "title": "Candidate-gene approaches for studying complex genetic ..."
+    }
+]

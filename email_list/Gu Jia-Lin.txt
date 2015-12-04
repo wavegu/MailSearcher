@@ -1,0 +1,31 @@
+[
+    {
+        "content": "jia-lin zhu graduated from the department of engineering physics in ... [3] jia-lin zhu, dao-hua tang, and bing-lin gu .... email：zjl-dmp@tsinghua.edu.cn", 
+        "email_list": [
+            "zjl-dmp@tsinghua.edu.cn"
+        ], 
+        "cite_url": "info.phys.tsinghua.edu.cn:8080/english/personnel/profile.php?lang...", 
+        "cite_name": "", 
+        "title": "FacultyStaff--Zhu,JiaLin"
+    }, 
+    {
+        "content": "ms. jia lin. jia lin photo. lecturer in chinese. jialin@email.unc.edu (919) 962-1018. new west 110. professional biography. i received my m.a. in teaching...", 
+        "email_list": [
+            "jialin@email.unc.edu"
+        ], 
+        "cite_url": "https://asianstudies.unc.edu/people/faculty/jia-lin", 
+        "cite_name": "", 
+        "title": "Ms. Jia Lin — Asian Studies"
+    }, 
+    {
+        "content": "... (65) 6516 1879 / 6516 2921. e-mail: phycw@nus.edu.sg /chmcw@nus.edu.sg .... dr. zhang jialin email: ... email: chengding.gu@nus.edu.sg. entry year: aug...", 
+        "email_list": [
+            "phycw@nus.edu.sg", 
+            "chmcw@nus.edu.sg", 
+            "chengding.gu@nus.edu.sg"
+        ], 
+        "cite_url": "staff.science.nus.edu.sg/~chenwei/members.html", 
+        "cite_name": "", 
+        "title": "Prof. Chens lab-首页"
+    }
+]

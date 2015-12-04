@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email: torralba@mit.edu. my research is in the areas of computer vision, machine learning and human visual perception. i am interested in scene and object...", 
+        "email_list": [
+            "torralba@mit.edu"
+        ], 
+        "cite_url": "web.mit.edu/torralba/www/", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Antonio Torralba - MIT"
+    }, 
+    {
+        "content": "apr 17, 2015 - antonio torralba. [ login to edit profile ]; position: professor; office: 32-d530; phone: +1 (617) 324-0900; email: torralba@csail.mit.edu; areas...", 
+        "email_list": [
+            "torralba@csail.mit.edu"
+        ], 
+        "cite_url": "https://www.csa...", 
+        "cite_name": "MIT Computer Science and Artificial Intelligence Labo...", 
+        "title": "Antonio Torralba | MIT CSAIL"
+    }, 
+    {
+        "content": "email: torralba@csail.mit.edu. web: http://web.mit.edu/torralba. current position. 2005 – present research scientist,. mit, computer science and artificial...", 
+        "email_list": [
+            "torralba@csail.mit.edu"
+        ], 
+        "cite_url": "web.mit.edu/torralba/www/cv.pdf", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "[PDF]Antonio Torralba - MIT"
+    }, 
+    {
+        "content": "antonio torralba. professor of computer ... verified email at csail.mit.edu - homepage  scholar ... j xiao, j hays, k ehinger, a oliva, a torralba. computer...", 
+        "email_list": [
+            "email@csail.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8cxDHS4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Antonio Torralba - Google Scholar Citations"
+    }, 
+    {
+        "content": "antonio torralba. professor of electronic ... verified email at us.es. scholar ... j ramirez-angulo, rg carvajal, a torralba, j galan, ap vega-leal, ... circuits and...", 
+        "email_list": [
+            "email@us.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vyK7L5EAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Antonio Torralba - Google Scholar Citations"
+    }
+]

@@ -1,5 +1,20 @@
-s.beck@ucl.ac.uk	[10]
-s.beck@ucl.ac.uk.stephan	[10]
-v.rakyan@qmul.ac.uk	[1]
-dehoga-kv-kiel@online.de	[1]
-email at ucl.ac.uk	[1]
+[
+    {
+        "content": "cancel. stephan beck ... verified email at ucl.ac.uk - homepage  scholar ... ms chee, at bankier, s beck, r bohni, cm brown, r cerny, t horsnell, ... current...", 
+        "email_addr_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=D2eEH-sAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Stephan Beck - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: dehoga-kv-kiel@online.de; kreisverband herzogtum lauenburg ... 24340 gammelby, tel.04351/8810; stephan beck, sjipwai 28, 25980 sylt, tel.", 
+        "email_addr_list": [
+            "dehoga-kv-kiel@online.de"
+        ], 
+        "cite_url": "www.dehoga-sh.de  Wir über unswww.google.com/email", 
+        "cite_name": "", 
+        "title": "Organisationsplan | Dehoga Schleswig-Holstein in KielGoogle Business Email - Custom email for your company‎Searches related to Stephan Beck email"
+    }
+]

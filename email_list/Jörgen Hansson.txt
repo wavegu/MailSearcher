@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jörgen hansson head of school/professor school of informatics 0500-448310. ... email; jorgen.hansson@his.se. work; 0500-448310. signature; hanj.", 
+        "email_list": [
+            "jorgen.hansson@his.se"
+        ], 
+        "cite_url": "www.his.se/en/about-us/Facts.../jorgen_hansson/", 
+        "cite_name": "University of Skövde", 
+        "title": "Jörgen Hansson - Högskolan i Skövde"
+    }, 
+    {
+        "content": "jörgen hansson. professor, university of skövde ... verified email at his.se - homepage  scholar ... a tešanovic, d nyström, j hansson, c norström. journal of...", 
+        "email_list": [
+            "email@his.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=D2vlC88AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jörgen Hansson - Google Scholar Citations"
+    }, 
+    {
+        "content": "grischa liebel, n. marko, matthias tichy, a. leitner, jörgen hansson .... phone: 46 31 786 0000 • email: info@gu.se • organisation number: 202100-3153", 
+        "email_list": [
+            "info@gu.se"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Gothenburg", 
+        "title": "No information provided"
+    }, 
+    {
+        "content": "feb 9, 2014 - this podcast was submitted by jörgen hansson. you can contact this contributor via their email at hansson.jogge@spray.se. in this podcast, ill...", 
+        "email_list": [
+            "email@hansson.jogge"
+        ], 
+        "cite_url": "blind-planet.com/author/jorgen-hansson/feed/", 
+        "cite_name": "", 
+        "title": "Blind Planet» jörgen Hansson"
+    }
+]

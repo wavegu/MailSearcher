@@ -1,7 +1,32 @@
-wonhee@kaist.ac.kr.comparison	[13]
-wonhee@kaist.ac.kr	[13]
-whjang@inje.ac	[10]
-weberj@cmg.mfldclin.edu	[3]
-daehyun@inje.ac.kr	[1]
-envchang@hhi.co.kr	[1]
-ssyea@inje.ac.kr	[1]
+[
+    {
+        "content": "051-890-6974, email: daehyun@inje.ac.kr. dr. sung su yea. 051-890-6892, email: ssyea@inje.ac.kr. dr. won hee jang. 051-890-6885, email: whjang@inje.ac.", 
+        "email_addr_list": [
+            "daehyun@inje.ac.kr", 
+            "ssyea@inje.ac.kr", 
+            "whjang@inje.ac"
+        ], 
+        "cite_url": "med.inje.ac.kr/eng/sub03/sub03_1_3.asp", 
+        "cite_name": "", 
+        "title": "Inje University College of Medicine"
+    }, 
+    {
+        "content": "email : envchang@hhi.co.kr. research area. now, he is working for the hyundai heavy industry. wonhee jang. contact. phone : ... email : wonhee@kaist.ac.kr.", 
+        "email_addr_list": [
+            "envchang@hhi.co.kr", 
+            "wonhee@kaist.ac.kr"
+        ], 
+        "cite_url": "www.kaist-opel.com/sub2/menu6.php", 
+        "cite_name": "", 
+        "title": "Alumni - OPEL"
+    }, 
+    {
+        "content": "adong yu, chengfeng zhao, ying fan, wonhee jang, andrew j. mungall, panos ... should be addressed to j.l.w. (e-mail: email: weberj@cmg.mfldclin.edu).", 
+        "email_addr_list": [
+            "weberj@cmg.mfldclin.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Human Genome  letter to naturewww.google.com/emailwww.beenverified.com/", 
+        "cite_name": "Nature", 
+        "title": "Comparison of human genetic and sequence-based ...Google Business Email - Custom email for your company‎We Found Wonhee Jang‎"
+    }
+]

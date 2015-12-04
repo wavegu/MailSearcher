@@ -1,0 +1,23 @@
+[
+    {
+        "content": "bond, francis, timothy baldwin, richard fothergill and kiyotaka uchimoto ... bond@ieee.org,tb@ldwin.net,richard.fothergill@gmail.com,uchimoto@nict.go.jp.", 
+        "email_list": [
+            "bond@ieee.org", 
+            "tb@ldwin.net", 
+            "richard.fothergill@gmail.com", 
+            "uchimoto@nict.go.jp"
+        ], 
+        "cite_url": "people.eng.unimelb.edu.au/.../gwn2012.pdf", 
+        "cite_name": "University of Melbourne", 
+        "title": "[PDF]Japanese SemCor"
+    }, 
+    {
+        "content": "... suzhou, china. email: wlchen at suda.edu.cn .... wenliang chen*, junichi kazama, kiyotaka uchimoto, and kentaro torisawa. exploiting subtrees in...", 
+        "email_list": [
+            "wlchen@suda.edu.cn"
+        ], 
+        "cite_url": "hlt.suda.edu.cn/~wlchen/wenliang.html", 
+        "cite_name": "", 
+        "title": "Wenliang Chen HomePage"
+    }
+]

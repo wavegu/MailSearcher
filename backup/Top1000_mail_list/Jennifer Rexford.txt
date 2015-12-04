@@ -1,3 +1,20 @@
-email at cs.princeton.edu	[2]
-eric.keller@colorado.edu.cs	[2]
-eric.keller@colorado.edu	[2]
+[
+    {
+        "content": "jennifer rexford. professor of ... verified email at cs.princeton.edu - homepage ... m caesar, d caldwell, n feamster, j rexford, a shaikh, j van der merwe.", 
+        "email_addr_list": [
+            "email@cs.princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=07ds-DAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jennifer Rexford - Google Scholar Citations"
+    }, 
+    {
+        "content": "... engineering department at princeton university advised by jennifer rexford in the computer science department. ... email: eric.keller@colorado.edu.", 
+        "email_addr_list": [
+            "eric.keller@colorado.edu"
+        ], 
+        "cite_url": "https://ngn.cs.colorado.edu/~ekeller/", 
+        "cite_name": "", 
+        "title": "Eric Keller -- University of Colorado"
+    }
+]

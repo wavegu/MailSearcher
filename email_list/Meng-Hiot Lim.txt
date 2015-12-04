@@ -1,0 +1,11 @@
+[
+    {
+        "content": "managing editor-in-chief: meng-hiot lim ... 7 fax: +1(201)348-4505 7 email: journals-ny@springer.com or (for outside the americas) 7 write: springer...", 
+        "email_list": [
+            "journals-ny@springer.com"
+        ], 
+        "cite_url": "www.springer.com/.../V0295_DF_Me...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "[PDF]pdf, 232 kB - Springer"
+    }
+]

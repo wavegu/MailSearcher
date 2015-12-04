@@ -1,0 +1,39 @@
+[
+    {
+        "content": "interested applicants please send your cv to my email: chhoi@smu.edu.sg ... dr. steven hoi is an associate professor in the school of information systems...", 
+        "email_list": [
+            "chhoi@smu.edu.sg"
+        ], 
+        "cite_url": "stevenhoi.org/", 
+        "cite_name": "", 
+        "title": "Steven C.H. Hoi"
+    }, 
+    {
+        "content": "steven c.h. hoi. associate ... verified email at smu.edu.sg - homepage  scholar ... l yang, r jin, l mummert, r sukthankar, a goode, b zheng, sch hoi, .", 
+        "email_list": [
+            "email@smu.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JoLjflYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Steven C.H. Hoi - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: dywang@msu.edu / dayong.wangts@gmail.com ... steven c.h. hoi, pengcheng wu. the 22nd acm international conference on multimedia (mm2014).", 
+        "email_list": [
+            "dywang@msu.edu", 
+            "dayong.wangts@gmail.com"
+        ], 
+        "cite_url": "dayongwang.info/pdf/cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]HOI, Chu Hong Steven - Dayong WANG"
+    }, 
+    {
+        "content": "steven c.h. hoi school of information systems singapore management university email: chhoi@smu.edu.sg introduction http://stevenhoi.org/ finance...", 
+        "email_list": [
+            "chhoi@smu.edu.sg"
+        ], 
+        "cite_url": "docplayer.net/5366662-Steven-c-h-hoi-school-of-information-systems-si...", 
+        "cite_name": "", 
+        "title": "Steven C.H. Hoi School of Information Systems Singapore ..."
+    }
+]

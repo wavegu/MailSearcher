@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. javier movellan. research ... verified email at mplab.ucsd.edu. scholar ... ms bartlett, g littlewort, m frank, c lainscsek, i fasel, j movellan. computer...", 
+        "email_list": [
+            "email@mplab.ucsd.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=07NrZFIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Javier Movellan - Google Scholar Citations"
+    }
+]

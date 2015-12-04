@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mit freundlichen gruessen, urs hoelzle und klaus erik schauser professor urs hoelzle e-mail: urs@cs.ucsb.edu professor klaus e. schauser...", 
+        "email_list": [
+            "urs@cs.ucsb.edu"
+        ], 
+        "cite_url": "www.cs.ucsb.e...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Studienaufruf - UCSB Computer Science"
+    }, 
+    {
+        "content": "email corrections to hoffman@cs.wisc.edu. .... %a ellen spertus %a seth copen goldstein %a klaus erik schauser %a thorsten von eicken %a david e. culler...", 
+        "email_list": [
+            "hoffman@cs.wisc.edu"
+        ], 
+        "cite_url": "research.cs.wisc.edu/arch/www/.../isca20", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "isca20"
+    }
+]

@@ -1,5 +1,1 @@
-kari.stefansson@decode.is	[29]
-unnur.styrkarsdottir@decode.is	[3]
-gunnars@landspitali.is	[2]
-daniel.gudbjartsson@decode.is	[2]
-thorgeir@decode.is	[1]
+[]

@@ -1,1 +1,11 @@
-lfulton@wustl.edu	[14]
+[
+    {
+        "content": "phone: (314) 286-1924. lucinda fulton research instructor production group leader at the genome center email: lfulton@wustl.edu. phone: (314) 286-1460.", 
+        "email_addr_list": [
+            "lfulton@wustl.edu"
+        ], 
+        "cite_url": "pgrn.org/display/pgrnwebsite/WU-NGS+Profile", 
+        "cite_name": "", 
+        "title": "WU-NGS Profile - PGRN Web Site - Confluence"
+    }
+]

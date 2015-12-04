@@ -1,3 +1,29 @@
-sam.griffiths-jones@manchester.ac.uk	[35]
-ku.ca.regnas@anrorcim.rfam	[3]
-email at manchester.ac.uk	[2]
+[
+    {
+        "content": "summary. photograph of professor sam griffiths-jones ... email: sam.griffiths-jones@manchester.ac.uk. website(s): mirbase microrna database", 
+        "email_addr_list": [
+            "sam.griffiths-jones@manchester.ac.uk"
+        ], 
+        "cite_url": "www.ls.manchester.ac.uk/people/profile/?...729", 
+        "cite_name": "University of Manchester", 
+        "title": "Professor Sam Griffiths-Jones - Faculty of Life Sciences"
+    }, 
+    {
+        "content": "professor sam griffiths-jones. role: professor of computational biology. email: sam.griffiths-jones@manchester.ac.uk. tel: +44161 275 5673. location: faculty...", 
+        "email_addr_list": [
+            "sam.griffiths-jones@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/.../sam.griffiths-jones/", 
+        "cite_name": "University of Manchester", 
+        "title": "Professor Sam Griffiths-Jones research profile - personal ..."
+    }, 
+    {
+        "content": "cancel. sam griffiths-jones ... verified email at manchester.ac.uk. scholar ... a bateman, l coin, r durbin, rd finn, v hollich, s griffiths‐jones, ... nucleic acids...", 
+        "email_addr_list": [
+            "email@manchester.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OCLU-0MAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sam Griffiths-Jones - Google Scholar Citations"
+    }
+]

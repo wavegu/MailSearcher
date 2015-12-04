@@ -1,3 +1,29 @@
-christine.vanbroeckhoven@molgen.vib-ua.bethis	[47]
-christine.vanbroeckhoven@ua.ac.be	[47]
-email at molgen.vib-ua.be	[3]
+[
+    {
+        "content": "professor christine van broeckhoven. professor christina van broeckhoven. scientific director ... 3 265 1012. e-mail: christine.vanbroeckhoven@ua.ac.be...", 
+        "email_addr_list": [
+            "christine.vanbroeckhoven@ua.ac.be"
+        ], 
+        "cite_url": "https://ec.europa.eu/research/eurab/cvbroeckhoven.html", 
+        "cite_name": "Europa", 
+        "title": "van Broeckhoven - European Commission - Europa"
+    }, 
+    {
+        "content": "profile details. contact name: christine van broeckhoven; email: christine.vanbroeckhoven@molgen.vib-ua.bethis e-mail address is being protected from...", 
+        "email_addr_list": [
+            "christine.vanbroeckhoven@molgen.vib-ua.bethis"
+        ], 
+        "cite_url": "www.ibngs.org/index.php?option=com_communityview...", 
+        "cite_name": "", 
+        "title": "Christine Van Broeckhoven"
+    }, 
+    {
+        "content": "christine van broeckhoven. prof. ... verified email at molgen.vib-ua.be - homepage ... l claes, j del-favero, b ceulemans, l lagae, c van broeckhoven, .", 
+        "email_addr_list": [
+            "email@molgen.vib-ua.be"
+        ], 
+        "cite_url": "scholar.google.be/citations?user...hl=en", 
+        "cite_name": "Google", 
+        "title": "Christine Van Broeckhoven - Google Scholar Citations"
+    }
+]

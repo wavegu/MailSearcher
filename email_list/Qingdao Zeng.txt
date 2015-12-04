@@ -1,0 +1,56 @@
+[
+    {
+        "content": "may 16, 2008 - hi, i am an experienced interpreter in qingdao, 31 yrs old, bachelor degree, fluent in english, more than seven ... e-mail: zenglilisky@163.com", 
+        "email_list": [
+            "zenglilisky@163.com"
+        ], 
+        "cite_url": "community.travelchinaguide.com/forum2.asp?i=40224", 
+        "cite_name": "", 
+        "title": "Interpreter available in Qingdao,Shandong - China Travel Community ..."
+    }, 
+    {
+        "content": "... 21 6575 1025. contact：ms.sophia zeng/corporate marketing ... email：marketing@awotglobal.com. qingdao. awot global corporation qingdao branch", 
+        "email_list": [
+            "marketing@awotglobal.com"
+        ], 
+        "cite_url": "www.awotglobal.com/contact.html", 
+        "cite_name": "", 
+        "title": "Contact Us - AWOT"
+    }, 
+    {
+        "content": "since 1997 qingdao zhengyang chain-drive co., ltd was founded, and its brand, pocea, has been renowned for innovation, design ... e-mail:info@pocea.cn", 
+        "email_list": [
+            "info@pocea.cn"
+        ], 
+        "cite_url": "www.pocea.cn/en/index.asp", 
+        "cite_name": "", 
+        "title": "Qingdao Zheng Yang transmission chain"
+    }, 
+    {
+        "content": "zeng zhao min tel: 6596-6715 ... e-mail: cstjsa@public.timeunion.com.cn. general manager ... china shipping agency (qingdao) co., ltd. 18/f, shandong...", 
+        "email_list": [
+            "cstjsa@public.timeunion.com.cn"
+        ], 
+        "cite_url": "www.chinashipping.com.sg/agencies_china_frame.htm", 
+        "cite_name": "", 
+        "title": "Shanghai - China Shipping (S) Agencies Pte Ltd"
+    }, 
+    {
+        "content": "add: floor 22, hisense tower, 17 donghai xi road, qingdao, 266071. tel: +86-532-808788449. fax: +86-532-83866770. email: zhangfangxin@hisense.com", 
+        "email_list": [
+            "zhangfangxin@hisense.com"
+        ], 
+        "cite_url": "www.hisense.cn/en/supp/cont/Business/", 
+        "cite_name": "", 
+        "title": "Hisense --Support"
+    }, 
+    {
+        "content": "b-13e, jinfu mansion, no.22,shandong rd,qingdao,266071,china. phone: 0086 532 85811422. fax: 0086 532 85836994. email: makey.zeng@gmail.com.", 
+        "email_list": [
+            "makey.zeng@gmail.com"
+        ], 
+        "cite_url": "www.wood-urns.com/contact.html", 
+        "cite_name": "", 
+        "title": "Contact Us-HiYi WoodWork Factory - Wood Urns"
+    }
+]

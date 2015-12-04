@@ -1,0 +1,48 @@
+[
+    {
+        "content": "kcbd 10146. chicago, il 60637. phone: 773-834-4669. email: robert.grossman@uchicago.edu. website: https://aaa-uruk04.cri.uchicago.edu/profiles/display/...", 
+        "email_list": [
+            "robert.grossman@uchicago.edu"
+        ], 
+        "cite_url": "igsb.org/people/robert-grossman", 
+        "cite_name": "", 
+        "title": "Robert Grossman « People « Institute for Genomics and ..."
+    }, 
+    {
+        "content": "robert grossman. professor, department of radiology;professor, ... email: robert.grossman@nyumc.org. education details; research; publications...", 
+        "email_list": [
+            "robert.grossman@nyumc.org"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/grossr03", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Robert I. Grossman | NYU School of Medicine"
+    }, 
+    {
+        "content": "robert grossman, phd ... sciences; senior fellow, computation institute and argonne national laboratory. email: robert.grossman@uchicago.edu.", 
+        "email_list": [
+            "robert.grossman@uchicago.edu"
+        ], 
+        "cite_url": "www.contechicago.org/our-team/robert-grossman", 
+        "cite_name": "", 
+        "title": "Robert GROSSMAN, Ph.D. | Conte Center at University of ..."
+    }, 
+    {
+        "content": "department(s): biological sciences division, medicine, genetic medicine. email: robert.grossman@uchicago.edu. phone: (773) 702-5660. fax: (773) 834-2877.", 
+        "email_list": [
+            "robert.grossman@uchicago.edu"
+        ], 
+        "cite_url": "https://directory.uchicago.edu/.../1340200895", 
+        "cite_name": "University of Chicago", 
+        "title": "Robert Grossman - Online Directory | The University of ..."
+    }, 
+    {
+        "content": "robert grossman, assistant clinical professor psychiatry at mount sinai ... email. robert.grossman@mountsinai.org  robert.a.grossman@mssm.edu...", 
+        "email_list": [
+            "robert.grossman@mountsinai.org", 
+            "robert.a.grossman@mssm.edu"
+        ], 
+        "cite_url": "www.mountsinai.org/profiles/robert-a-grossman", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Robert A Grossman - The Mount Sinai Hospital"
+    }
+]

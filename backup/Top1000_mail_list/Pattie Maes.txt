@@ -1,1 +1,11 @@
-email at media.mit.edu	[2]
+[
+    {
+        "content": "pattie maes. professor of ... verified email at media.mit.edu - homepage ... modeling adaptive autonomous agents. p maes. artificial life 1 (1_2), 135-162, 1993.", 
+        "email_addr_list": [
+            "email@media.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vVHnofMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pattie Maes - Google Scholar Citations"
+    }
+]

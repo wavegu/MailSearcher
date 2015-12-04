@@ -1,4 +1,29 @@
-shrout@psych.nyu.edu	[13]
-journals.permissions@oxfordjournals.org	[4]
-email at nyu.edu	[2]
-miida@kent.edu	[1]
+[
+    {
+        "content": "patrick e. shrout. professor of psychology, new ... verified email at nyu.edu. scholar ... bg link, ft cullen, e struening, pe shrout, bp dohrenwend. american...", 
+        "email_addr_list": [
+            "email@nyu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jXJNXq8AAAAJ...en", 
+        "cite_name": "Google Scholar", 
+        "title": "Patrick E. Shrout - Google Scholar Citations"
+    }, 
+    {
+        "content": "patrick e. shrout, department of psychology, new york university, 6 washington pl #550, new york, ny 10003; e-mail: shrout@psych.nyu.edu...", 
+        "email_addr_list": [
+            "shrout@psych.nyu.edu"
+        ], 
+        "cite_url": "pss.sagepub.com/content/8/1/1.refs", 
+        "cite_name": "Psychological Science", 
+        "title": "References - Psychological Science"
+    }, 
+    {
+        "content": "e-mail: miida@kent.edu ... advisors: professors patrick e. shrout and niall bolger ... iida, m., green-rapaport, a., shrout, p. e., gleason, m. e., j.,  bolger,...", 
+        "email_addr_list": [
+            "miida@kent.edu"
+        ], 
+        "cite_url": "https://webapp4.asu.edu/directory/cv?id...", 
+        "cite_name": "Arizona State University", 
+        "title": "[PDF]MASUMI IIDA - Arizona State University"
+    }
+]

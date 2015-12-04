@@ -1,0 +1,50 @@
+[
+    {
+        "content": "chao.huang@cwt.com ... cadwalader, wickersham  tafts womens leadership initiative launches housing clinic in ... enter your email to register. next ».", 
+        "email_list": [
+            "chao.huang@cwt.com"
+        ], 
+        "cite_url": "www.cadwalader.com/.../chao-huang", 
+        "cite_name": "Cadwalader, Wickersham  Taft", 
+        "title": "Chao Huang - Cadwalader, Wickersham  Taft"
+    }, 
+    {
+        "content": "email: li.wei@hitsz.edu.cn. phone: +86-755-26033608（fax）. personal profile ... [2]wei li, xiaochuan ma, yun zhu, jun yang, chaohuan hou. detection...", 
+        "email_list": [
+            "li.wei@hitsz.edu.cn"
+        ], 
+        "cite_url": "www.hitsz.edu.cn/body/shizi/detailen.php?strID=513", 
+        "cite_name": "", 
+        "title": "LI Wei"
+    }, 
+    {
+        "content": "chao huang. graduate student. department of computer science and engineering. graduate student college of engineering. email: chuang7@nd.edu.", 
+        "email_list": [
+            "chuang7@nd.edu"
+        ], 
+        "cite_url": "https://engineering.nd.edu/profiles/chuang", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Chao Huang — College of Engineering"
+    }, 
+    {
+        "content": "... cthsu@mail.stust.edu.tw. ying shieh kung, kung@mail.stust.edu.tw ... chun ju hou, cjhou@mail.stust.edu.tw. chao huang wei, drwei@mail.stust.edu.tw...", 
+        "email_list": [
+            "cthsu@mail.stust.edu.tw", 
+            "kung@mail.stust.edu.tw", 
+            "cjhou@mail.stust.edu.tw", 
+            "drwei@mail.stust.edu.tw"
+        ], 
+        "cite_url": "www.studyintaiwan.org/program155.html", 
+        "cite_name": "", 
+        "title": "star Ph D in Electrical Engineering - Study in Taiwan"
+    }, 
+    {
+        "content": "mar 30, 2015 - to resolve this, shi bo, hao chengpeng, hou chaohuan, ma xiaochuan and peng chengyan from the ... email: haochengp@mail.ioa.ac.cn...", 
+        "email_list": [
+            "haochengp@mail.ioa.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Research Progress----Institute Of Acoustics Chinese ..."
+    }
+]

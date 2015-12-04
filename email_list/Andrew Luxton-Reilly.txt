@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dr andrew luxton-reilly. job title: senior lecturer email: andrew@cs.auckland.ac.nz. phone: (64 9) 373-7599 85654. campus: city office: 303 - 479", 
+        "email_list": [
+            "andrew@cs.auckland.ac.nz"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Auckland", 
+        "title": "Dr Andrew Luxton-Reilly - Staff Profile - The University of ..."
+    }, 
+    {
+        "content": "andrew luxton-reilly. the university of auckland ... verified email at cs.auckland.ac.nz. scholar ... e thompson, a luxton-reilly, jl whalley, m hu, p robbins.", 
+        "email_list": [
+            "email@cs.auckland.ac.nz"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7h3ksMQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew Luxton-Reilly - Google Scholar Citations"
+    }, 
+    {
+        "content": "jul 17, 2006 - email: andrew@cs.auckland.ac.nz. retrieved from http://dq-nz.org/dqwiki/index.php?title=andrew_luxton-reillyoldid=42884. category:.", 
+        "email_list": [
+            "andrew@cs.auckland.ac.nz"
+        ], 
+        "cite_url": "dq-nz.org/dqwiki/index.php?title=Andrew_Luxton-Reilly", 
+        "cite_name": "", 
+        "title": "Andrew Luxton-Reilly - DQWiki"
+    }, 
+    {
+        "content": "oct 7, 2015 - by andrew luxton-reilly, daniel bertinshaw, paul denny, beryl plimmer, ... and sheehan, robert}, author-email = {andrew@cs.auckland.ac.nz...", 
+        "email_list": [
+            "andrew@cs.auckland.ac.nz"
+        ], 
+        "cite_url": "www.peerwise-community.org/wp-publications/isi000304130200077/", 
+        "cite_name": "", 
+        "title": "The Impact of Question Generation Activities on Performance"
+    }
+]

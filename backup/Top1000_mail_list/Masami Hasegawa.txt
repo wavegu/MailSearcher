@@ -1,2 +1,20 @@
-hasegawa@ism.ac.jp	[17]
-email at fudan.edu.cn	[2]
+[
+    {
+        "content": "masami hasegawa. professor of life sciences, ... verified email at fudan.edu.cn. scholar. get my own ... m hasegawa, h kishino, t yano. journal of molecular...", 
+        "email_addr_list": [
+            "email@fudan.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=K5vhwUAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Masami Hasegawa - Google Scholar Citations"
+    }, 
+    {
+        "content": "masami hasegawa, ph. d. professor department of prediction and control the institute of statistical mathematics. e-mail : hasegawa@ism.ac.jp...", 
+        "email_addr_list": [
+            "hasegawa@ism.ac.jp"
+        ], 
+        "cite_url": "www.ism.ac.jp/~hasegawa/", 
+        "cite_name": "", 
+        "title": "MASAMIs HOME PAGE"
+    }
+]

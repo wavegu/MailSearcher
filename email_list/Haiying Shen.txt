@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email: shenh@clemson.edu  personal home page. biography dr. haiying (helen) shen received the b.s. degree in computer science and engineering from...", 
+        "email_list": [
+            "shenh@clemson.edu"
+        ], 
+        "cite_url": "www.clemson.edu/ces/departments/ece/.../hshen.html", 
+        "cite_name": "Clemson University", 
+        "title": "Haiying (Helen) Shen | Clemson University, South Carolina"
+    }, 
+    {
+        "content": "haiying (helen) shen ... verified email at clemson.edu - homepage ... h shen. parallel and distributed systems, ieee transactions on 21 (6), 827-840, 2010.", 
+        "email_list": [
+            "email@clemson.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W0Cx7ZAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Haiying (Helen) Shen - Google Scholar Citations"
+    }, 
+    {
+        "content": "haiying (helen) shen - optimizing virtual resource management in cloud datacenters ... dr. haiying (helen) shen is currently an associate professor in the department of electrical and computer engineering at ... e-mail: cse@cse.nd.edu.", 
+        "email_list": [
+            "cse@cse.nd.edu"
+        ], 
+        "cite_url": "https://cse.nd.edu/.../cse-seminar-series-haiying...", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Haiying (Helen) Shen - Optimizing Virtual Resource ..."
+    }, 
+    {
+        "content": "learn more about: listserv email list management software • listserv ... haiying haiying shen shen * owner= shenh@clemson.edu haiying...", 
+        "email_list": [
+            "shenh@clemson.edu"
+        ], 
+        "cite_url": "www.lsoft.com/.../WL.EXE?SL2...R...", 
+        "cite_name": "L‑Soft International, Inc.", 
+        "title": "S1205E_C_E_991032@LISTS.CLEMSON.EDU"
+    }, 
+    {
+        "content": "email: dboison@downeurobiology.org ... danielle osborne, landen weltha, detlev boison, bounmy saleumvong, haiying shen ... haiying shen, md, phd", 
+        "email_list": [
+            "dboison@downeurobiology.org"
+        ], 
+        "cite_url": "www.legacyhealth.org/.../detlev-boison-phd.aspx", 
+        "cite_name": "Legacy Health System", 
+        "title": "Detlev Boison PhD - Legacy Health"
+    }
+]

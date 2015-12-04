@@ -1,5 +1,29 @@
-pgarnavich@cfa.harvard.edu	[20]
-garnavich.1@nd.edu	[19]
-pgarnavi@miranda.phys.nd.edu	[3]
-pgarnavi@nd.edu	[3]
-amaya@as.arizona.edu	[2]
+[
+    {
+        "content": "m.s., massachusetts institute of technology, 1983. ph.d., university of washington, 1991. e-mail: pgarnavi@nd.edu. address: nsh 185. phone: (574-63)1-7262", 
+        "email_addr_list": [
+            "pgarnavi@nd.edu"
+        ], 
+        "cite_url": "physics.nd.edu/people/faculty/peter-garnavich/", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Peter Garnavich - Physics Department - University of Notre ..."
+    }, 
+    {
+        "content": "peter garnavich ... email: garnavich.1@nd.edu ... garnavich also led a team of astronomers that detected heat generated from a gamma-ray burst for the first...", 
+        "email_addr_list": [
+            "garnavich.1@nd.edu"
+        ], 
+        "cite_url": "news.nd.edu/for-the-media/.../peter-garnavich/", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Peter Garnavich // Notre Dame News // University of Notre ..."
+    }, 
+    {
+        "content": "peter m. garnavich. harvard-smithsonian center for astrophysics, cambridge, ma 02138 email: pgarnavich@cfa.harvard.edu. alberto noriega-crespo. infrared...", 
+        "email_addr_list": [
+            "pgarnavich@cfa.harvard.edu"
+        ], 
+        "cite_url": "cds.cern.ch/record/333872/files/9709140.pdfwww.google.com/email", 
+        "cite_name": "CERN", 
+        "title": "[PDF]Highly Collimated Molecular Hydrogen Jets Near IRAS ...Google Business Email - Custom email for your company‎"
+    }
+]

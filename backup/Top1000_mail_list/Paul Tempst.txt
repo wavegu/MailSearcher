@@ -1,3 +1,20 @@
-p-tempst@mskcc.org	[14]
-jvillanueva@vhio.net	[1]
-cszalinski@ascb.org	[1]
+[
+    {
+        "content": "email: jvillanueva@vhio.net ... senior research scientist with paul tempst, 2005-2009. memorial ... postdoctoral fellow with paul tempst, 2002-2005. memorial...", 
+        "email_addr_list": [
+            "jvillanueva@vhio.net"
+        ], 
+        "cite_url": "www.vhio.net  Home  Principal Investigators", 
+        "cite_name": "", 
+        "title": "Josep Villanueva - Vall dHebron Institute of Oncology ..."
+    }, 
+    {
+        "content": "paul tempst is in the molecular biology program, memorial sloan-kettering cancer center, ... correspondence to: paul tempst e-mail: p-tempst@mskcc.org...", 
+        "email_addr_list": [
+            "p-tempst@mskcc.org"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  News and Views", 
+        "cite_name": "Nature", 
+        "title": "Super-SILAC for tumors and tissues : Abstract : Nature ..."
+    }
+]

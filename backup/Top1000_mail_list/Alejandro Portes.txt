@@ -1,8 +1,66 @@
-aportes@law.miami.edu	[14]
-aportes@princeton.edu	[14]
-aportes@law.miami.edu.alejandro	[14]
-email at princeton.edu	[3]
-whaller@clemson.edu	[2]
-elisabeth.anderson@nyu.edu	[2]
-port44@princeton.edu	[2]
-daniel.karell@nyu.edu	[2]
+[
+    {
+        "content": "alejandro portes. department of sociology. 186 wallace hall. princeton nj 08544. 609-258-4436. aportes@princeton.edu (link sends e-mail)  cv  center for...", 
+        "email_addr_list": [
+            "aportes@princeton.edu"
+        ], 
+        "cite_url": "https://sociology.princeton.edu/.../alejandro-portes", 
+        "cite_name": "Princeton University", 
+        "title": "Alejandro Portes | Princeton Sociology - Princeton University"
+    }, 
+    {
+        "content": "alejandro portes. sociology ... verified email at princeton.edu. scholar ... social capital: its origins and applications in modern sociology. a portes. lesser, eric...", 
+        "email_addr_list": [
+            "email@princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=P7ocv9gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alejandro Portes - Google Scholar Citations"
+    }, 
+    {
+        "content": "... of miami school of law, alejandro portes was the howard harrison and gabrielle snyder beck professor of sociology and .... e-mail: aportes@law.miami.edu.", 
+        "email_addr_list": [
+            "aportes@law.miami.edu"
+        ], 
+        "cite_url": "www.law.miami.edu/.../alejandro-por...", 
+        "cite_name": "University of Miami School of Law", 
+        "title": "Alejandro Portes | University of Miami School of Law"
+    }, 
+    {
+        "content": "email: port44@princeton.edu  [cv] [webpage]. alejandro portes. alejandro portes is howard harrison and gabrielle snyder beck professor of sociology and...", 
+        "email_addr_list": [
+            "port44@princeton.edu"
+        ], 
+        "cite_url": "www.cream-migration.org/personneldetail.php?id=145", 
+        "cite_name": "", 
+        "title": "Alejandro Portes - CReAM: Centre for Research and ..."
+    }, 
+    {
+        "content": "email: port44@princeton.edu discipline: sociology expertise: immigration ... alejandro portes, ph.d. examines how well health care organizations are meeting...", 
+        "email_addr_list": [
+            "port44@princeton.edu"
+        ], 
+        "cite_url": "www.investigatorawards.o...", 
+        "cite_name": "Investigator Awards in Health Policy Research", 
+        "title": "Alejandro Portes | Robert Wood Johnson Foundation ..."
+    }, 
+    {
+        "content": "email: elisabeth.anderson@nyu.edu  view full bio ... analysis; afghanistan email: daniel.karell@nyu.edu ... alejandro portes, professor of sociology. affiliation:...", 
+        "email_addr_list": [
+            "elisabeth.anderson@nyu.edu", 
+            "daniel.karell@nyu.edu"
+        ], 
+        "cite_url": "nyuad.nyu.edu/en/.../Faculty.html", 
+        "cite_name": "New York University Abu Dhabi", 
+        "title": "Faculty - NYU Abu Dhabi - New York University"
+    }, 
+    {
+        "content": "email: whaller@clemson.edu ... william j. haller, alejandro portes, and scott lynch. ... alejandro portes, patricia fernández-kelly, and william j. haller.", 
+        "email_addr_list": [
+            "whaller@clemson.edu"
+        ], 
+        "cite_url": "www.clemson.edu/cbbs/about/profiles/?userid...www.google.com/email", 
+        "cite_name": "Clemson University", 
+        "title": "William Haller - Faculty and Staff Profile | College of ...Google Business Email - Custom email for your company‎Searches related to Alejandro Portes email"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "content": "email: laurence.nigay@imag.fr. web: http://iihm.imag.fr/nigay/. degrees awarded. 1988-89 software engineering masters degree, université joseph fourier...", 
+        "email_list": [
+            "laurence.nigay@imag.fr"
+        ], 
+        "cite_url": "iihm.imag.fr/nigay/NigayCV-En.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Laurence Nigay - IIHM"
+    }, 
+    {
+        "content": "cancel. laurence nigay. university of grenoble 1. human-computer interaction. verified email at imag.fr - homepage  scholar ... g calvary, j coutaz, l nigay.", 
+        "email_list": [
+            "email@imag.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Wb5ku2AAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Laurence Nigay - Google Scholar Citations"
+    }, 
+    {
+        "content": "coutaz@imag.fr laurence.nigay@imag.fr daniel.salber@imag.fr abstract. one trend in human computer interaction is to extend the sensory-motor capabilities...", 
+        "email_list": [
+            "coutaz@imag.fr", 
+            "laurence.nigay@imag.fr", 
+            "daniel.salber@imag.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-nigay-imag-fr-12422484.htm", 
+        "cite_name": "", 
+        "title": "nigay@imag.fr - The Email Archive"
+    }
+]

@@ -1,2 +1,38 @@
-shih.fu.chang@columbia.edu	[23]
-email at ee.columbia.edu	[2]
+[
+    {
+        "content": "shih-fu chang. professor office: 709 schapiro cepsr, mail code: 4712. phone: +1 212-854-6894. fax: +1 212-932-9421. email: shih.fu.chang@columbia.edu", 
+        "email_addr_list": [
+            "shih.fu.chang@columbia.edu"
+        ], 
+        "cite_url": "www.ee.columbia.edu/shih-fu-chang", 
+        "cite_name": "", 
+        "title": "Shih-Fu Chang | Electrical Engineering"
+    }, 
+    {
+        "content": "(tel) 212-854-6894 (email) shih.fu.chang@columbia.edu. summary: shih-fu chang is the sr. executive vice dean and the richard dicker professor of the fu.", 
+        "email_addr_list": [
+            "shih.fu.chang@columbia.edu"
+        ], 
+        "cite_url": "www.ee.columbia.edu/~sfchang/Shih-Fu%20Chang%20CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Shih-Fu Chang - Department of Electrical Engineering"
+    }, 
+    {
+        "content": "shih-fu chang. professor of ... verified email at ee.columbia.edu - homepage  scholar ... m naphade, jr smith, j tesic, sf chang, w hsu, al kennedy, .", 
+        "email_addr_list": [
+            "email@ee.columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OMVTRscAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Shih-Fu Chang - Google Scholar Citations"
+    }, 
+    {
+        "content": "tao chen, damian borth, trevor darrell, shih-fu chang ... damian borth; tao chen; rong-rong ji; shih-fu chang ... email: taochen [at] ee.columbia.edu.", 
+        "email_addr_list": [
+            "taochen@ee.columbia.edu"
+        ], 
+        "cite_url": "visual-sentiment-ontology.appspot.com/about", 
+        "cite_name": "", 
+        "title": "About - Visual Sentiment Analysis"
+    }
+]

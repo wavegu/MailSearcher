@@ -1,0 +1,20 @@
+[
+    {
+        "content": "franklin t. luk. luk@cs.rpi.edu. professor ph.d., stanford university scientific computation, parallel processing. luk came to rpi in 1992 after fourteen years at...", 
+        "email_list": [
+            "luk@cs.rpi.edu"
+        ], 
+        "cite_url": "www.cs.rpi.edu/people/luk.html", 
+        "cite_name": "Rensselaer Polytechnic Institute", 
+        "title": "Franklin T. Luk"
+    }, 
+    {
+        "content": "e-mail: eric.peeters@uclouvain.be ... faster and smaller hardware implementation of xtr, in franklin t. luk, editor(s), advanced signal processing algorithms,...", 
+        "email_list": [
+            "eric.peeters@uclouvain.be"
+        ], 
+        "cite_url": "www.uclouvain.be/crypto/people/.../1", 
+        "cite_name": "Université catholique de Louvain", 
+        "title": "UCL Crypto Group | Dr. Eric Peeters"
+    }
+]

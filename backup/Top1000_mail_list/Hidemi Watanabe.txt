@@ -1,1 +1,11 @@
-email at ist.hokudai.ac.jp	[2]
+[
+    {
+        "content": "hidemi watanabe. professor of ... verified email at ist.hokudai.ac.jp. scholar ... m hattori, a fujiyama, td taylor, h watanabe, t yada, hs park, ... nature 405...", 
+        "email_addr_list": [
+            "email@ist.hokudai.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CPYSVd8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hidemi Watanabe - Google Scholar Citations"
+    }
+]

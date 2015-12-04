@@ -1,3 +1,38 @@
-giuseppe.mancia@unimib.it	[29]
-giuseppe.mancia@unimib.itufficio	[29]
-robert.fagard@uzleuven.be	[2]
+[
+    {
+        "content": "e-mail: giuseppe.mancia@unimib.it. fields of interest: pathophysiology, clinical pharmacology and therapy of hypertension, congestive heart failure and other...", 
+        "email_addr_list": [
+            "giuseppe.mancia@unimib.it"
+        ], 
+        "cite_url": "degruyteropen.com/people/mancia/", 
+        "cite_name": "", 
+        "title": "Giuseppe Mancia | De Gruyter Open"
+    }, 
+    {
+        "content": "mancia giuseppe. qualifica:professore ordinarioemail:giuseppe.mancia@unimib.itufficio: direzione clinica medica, università degli studi di milano-bicocca,...", 
+        "email_addr_list": [
+            "giuseppe.mancia@unimib.itufficio"
+        ], 
+        "cite_url": "www.dimep.medicina.unimib.it/personale_175.php-d...", 
+        "cite_name": "", 
+        "title": "Mancia Giuseppe - Dipartimento di Medicina Clinica e ..."
+    }, 
+    {
+        "content": "3000 leuven, belgium. tel: +32 16 348 707. fax: +32 16 343 766 email: robert.fagard@uzleuven.be professor giuseppe mancia. centro di fisiologia clinica.", 
+        "email_addr_list": [
+            "robert.fagard@uzleuven.be"
+        ], 
+        "cite_url": "https://www.escardio.org/static.../AHWeb_EM_Hypertension_2013.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Hypertension - European Society of Cardiology"
+    }, 
+    {
+        "content": "correspondence to giuseppe mancia, md, phd, piazza dei daini, 4 - 20126, milano, italy. e-mail giuseppe.mancia@unimib.it  figure 1. view larger version:.", 
+        "email_addr_list": [
+            "giuseppe.mancia@unimib.it"
+        ], 
+        "cite_url": "circres.ahajournals.org/content/116/.../1034.figures-onl...www.google.com/email", 
+        "cite_name": "Circulation Research", 
+        "title": "Clinical Value of Ambulatory Blood PressureGoogle Business Email - Custom email for your company‎Searches related to Giuseppe Mancia email"
+    }
+]

@@ -1,1 +1,11 @@
-email at cs.cornell.edu	[1]
+[
+    {
+        "content": "jon kleinberg. professor of computer ... verified email at cs.cornell.edu - homepage  scholar ... l backstrom, d huttenlocher, j kleinberg, x lan. proceedings...", 
+        "email_addr_list": [
+            "email@cs.cornell.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VX7d5EQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jon Kleinberg - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "create alert. cancel. ernestina menasalvas ... verified email at fi.upm.es ... v robles, p larrañaga, jm peña, e menasalvas, ms pérez, v herves, ... artificial...", 
+        "email_list": [
+            "email@fi.upm.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CVyVk2UAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ernestina Menasalvas - Google Scholar Citations"
+    }, 
+    {
+        "content": "ernestina menasalvas professor at the department of computer systems languages and sw ... email: ernestina.menasalvas@upm.es. phone- +34 609445458.", 
+        "email_list": [
+            "ernestina.menasalvas@upm.es"
+        ], 
+        "cite_url": "ctb.upm.es/pdfs/Ernestina_Menasalvas_short_cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Ernestina Menasalvas Professor at the Department of ... - CTB"
+    }, 
+    {
+        "content": "sep 11, 2014 - email: ernestina.menasalvas@upm.es. url: http://scholar.google.com/citations?user=cvyvk2uaaaajhl=en; prof. pedro pereira rodrigues", 
+        "email_list": [
+            "ernestina.menasalvas@upm.es"
+        ], 
+        "cite_url": "www.kmd.ovgu.de/ECML_PKDD_MedicalMining_Tutorial.html", 
+        "cite_name": "", 
+        "title": "KMD - ECML/PKDD 2014 - Medical Mining Tutorial"
+    }
+]

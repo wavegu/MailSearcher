@@ -1,0 +1,47 @@
+[
+    {
+        "content": "ilya sutskever i am a research scientist at google. previously, i was a co-founder ... email = ilyasu at google.com neural networks for the masses  awesomeness.", 
+        "email_list": [
+            "ilyasu@google.com"
+        ], 
+        "cite_url": "www.cs.toronto.edu/~ilya/", 
+        "cite_name": "", 
+        "title": "Ilya Sutskevers home page"
+    }, 
+    {
+        "content": "cancel. ilya sutskever. research ... verified email at google.com - homepage  scholar ... ge hinton, n srivastava, a krizhevsky, i sutskever, rr salakhutdinov.", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=x04W...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Ilya Sutskever - Google Scholar Citations"
+    }, 
+    {
+        "content": "you can contact me by email at woj.zaremba@gmail.com. my cv is ... wojciech zaremba, ilya sutskever  scale-invariant learning and convolutional networks", 
+        "email_list": [
+            "email@woj.zaremba"
+        ], 
+        "cite_url": "cs.nyu.edu/~zaremba/", 
+        "cite_name": "New York University", 
+        "title": "Wojciech Zaremba - NYU Computer Science Department"
+    }, 
+    {
+        "content": "ilya sutskever google inc ... ilya sutskever (google inc). average ... for information on trade opportunities with oreilly conferences, email partners@oreilly.com...", 
+        "email_list": [
+            "partners@oreilly.com"
+        ], 
+        "cite_url": "conferences.oreilly.com/strata/strata2014/public/schedule/.../167382", 
+        "cite_name": "", 
+        "title": "Speaker: Ilya Sutskever: Strata 2014 - OReilly Conferences ..."
+    }, 
+    {
+        "content": "feb 12, 2014 - ilya sutskever ... you can subscribe to our weekly seminar email list by sending an email to majordomo@lists.berkeley.edu that contains the...", 
+        "email_list": [
+            "majordomo@lists.berkeley.edu"
+        ], 
+        "cite_url": "redwood.berkeley.edu/seminar-info.ph...", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Ilya Sutskever - Redwood Center for Theoretical Neuroscience"
+    }
+]

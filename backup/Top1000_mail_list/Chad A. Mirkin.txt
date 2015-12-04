@@ -1,6 +1,40 @@
-camirkin@chem.northwestern.edu	[15]
-chadnano@northwestern.edu	[10]
-jacs@chem.psu.edu	[3]
-schatz@chem.northwestern.edu	[3]
-email at northwestern.edu	[3]
-rochester@jacs.acs.org	[2]
+[
+    {
+        "content": "group leader, phone #, room #, email. chad a. mirkin, 1-2907, 3012, chadnano@northwestern.edu. research assistant professor, email. sarah petrosko...", 
+        "email_addr_list": [
+            "chadnano@northwestern.edu"
+        ], 
+        "cite_url": "https://mirkin-group.northwestern.edu/people/", 
+        "cite_name": "", 
+        "title": "People | Mirkin"
+    }, 
+    {
+        "content": "chad mirkin. professor of ... verified email at northwestern.edu - homepage  scholar ... r elghanian, jj storhoff, rc mucic, rl letsinger, ca mirkin. science...", 
+        "email_addr_list": [
+            "email@northwestern.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Qxl6qsMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chad Mirkin - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail rochester@jacs.acs.org. thomas e. mallouk. the pennsylvania state university. tel (814) 865-4320. e-mail jacs@chem.psu.edu. chad a. mirkin.", 
+        "email_addr_list": [
+            "rochester@jacs.acs.org", 
+            "jacs@chem.psu.edu"
+        ], 
+        "cite_url": "https://pubs.acs.org/userimages/.../jacsat-eab.pdf", 
+        "cite_name": "American Chemical Society", 
+        "title": "EDITORIAL ADVISORY BOARD EDITOR: PETER J. STANG ..."
+    }, 
+    {
+        "content": "correspondence to: george c. schatzchad a. mirkin email: camirkin@chem.northwestern.edu. email: schatz@chem.northwestern.edu. top of page. inorganic...", 
+        "email_addr_list": [
+            "camirkin@chem.northwestern.edu", 
+            "schatz@chem.northwestern.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Controlling anisotropic nanoparticle growth through ... - Nature"
+    }
+]

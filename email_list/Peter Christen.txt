@@ -1,0 +1,38 @@
+[
+    {
+        "content": "aug 3, 2015 - email, peter.christen@anu.edu.au. phone, +61 2 612 55690. fax, +61 2 612 50010. office, n322 in the computer science and information...", 
+        "email_list": [
+            "peter.christen@anu.edu.au"
+        ], 
+        "cite_url": "https://cs.anu.edu.au/~./Peter.Christen/", 
+        "cite_name": "Australian National University", 
+        "title": "Homepage of Peter Christen - Computer Science"
+    }, 
+    {
+        "content": "email: peter.christen@anu.edu.au. personal website: http://cs.anu.edu.au/people/peter. ... research opportunities with assoc professor peter christen.", 
+        "email_list": [
+            "peter.christen@anu.edu.au"
+        ], 
+        "cite_url": "people.cecs.anu.edu....", 
+        "cite_name": "ANU College of Engineering and Computer Science", 
+        "title": "Peter CHRISTEN - CECS People - ANU"
+    }, 
+    {
+        "content": "e: peter.christen@anu.edu.au ... tran, k, christen, p, sanner, s et al 2015, context-aware detection of sneaky vandalism on wikipedia across multiple...", 
+        "email_list": [
+            "peter.christen@anu.edu.au"
+        ], 
+        "cite_url": "https://researchers.anu.edu.au/.../christen-p...", 
+        "cite_name": "Australian National University", 
+        "title": "Dr Peter Christen - Researchers - ANU"
+    }, 
+    {
+        "content": "peter christen. associate professor ... verified email at anu.edu.au - homepage  scholar. get my own ... c perera, a zaslavsky, p christen, d georgakopoulos.", 
+        "email_list": [
+            "email@anu.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=oz-2CXsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Peter Christen - Google Scholar Citations"
+    }
+]

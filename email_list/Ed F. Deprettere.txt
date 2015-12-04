@@ -1,0 +1,31 @@
+[
+    {
+        "content": "fax: +31-(0)71 527 6985; email: a.c.j.kienhuis@liacs.leidenuniv.nl .... bin jiang, bart kienhuis, and ed deprettere, ``hierarchical run time deadlock ..... bart kienhuis and ed f. deprettere,``modeling stream-based applications using the sbf...", 
+        "email_list": [
+            "a.c.j.kienhuis@liacs.leidenuniv.nl"
+        ], 
+        "cite_url": "liacs.leidenuniv.nl/~kienhuisacj/", 
+        "cite_name": "", 
+        "title": "Bart Kienhuis - LIACS"
+    }, 
+    {
+        "content": "email: adarsh@cadl.iisc.ernet.in, nandy@serc.iisc.ernet.in. hristo nikolov and ed f. deprettere. leiden institute of advanced computer science (liacs).", 
+        "email_list": [
+            "adarsh@cadl.iisc.ernet.in", 
+            "nandy@serc.iisc.ernet.in"
+        ], 
+        "cite_url": "www.computer.org/csdl/.../sasp/.../05941074.pdf", 
+        "cite_name": "IEEE Computer Society", 
+        "title": "USHA: Unified software and hardware architecture for video ..."
+    }, 
+    {
+        "content": "email: fjunma, parhig@ece.umn.edu. ed f. deprettere. ee department. delft university of technology. 2628 cd delft, the netherlands email: ed@cas.et.tudelft.", 
+        "email_list": [
+            "parhig@ece.umn.edu", 
+            "ed@cas.et.tudelft"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2595...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }
+]

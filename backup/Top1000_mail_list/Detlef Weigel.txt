@@ -1,2 +1,29 @@
-detlef.weigel@tuebingen.mpg.de	[25]
-email at weigelworld.org	[14]
+[
+    {
+        "content": "detlef weigel is a director and scientific member at the max planck institute for developmental biology, tübingen ... email:detlef.weigel@tuebingen.mpg.de...", 
+        "email_addr_list": [
+            "detlef.weigel@tuebingen.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/.../entwicklungsbiologie_wissM...", 
+        "cite_name": "Max Planck Society", 
+        "title": "Weigel, Detlef | Max Planck Society"
+    }, 
+    {
+        "content": "prof. dr. detlef weigel, max-planck-institut für entwicklungsbiologie, tübingen. ... telefon:+49 7071 601-1410. e-mail:detlef.weigel@tuebingen.mpg.de...", 
+        "email_addr_list": [
+            "detlef.weigel@tuebingen.mpg.de"
+        ], 
+        "cite_url": "www.mpg.de  Startseite  Institute", 
+        "cite_name": "Max Planck Society", 
+        "title": "Weigel, Detlef | Max-Planck-Gesellschaft"
+    }, 
+    {
+        "content": "detlef weigel. max planck ... verified email at weigelworld.org - homepage  scholar ... r schwab, jf palatnik, m riester, c schommer, m schmid, d weigel.", 
+        "email_addr_list": [
+            "email@weigelworld.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VgzYS6IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Detlef Weigel - Google Scholar Citations"
+    }
+]

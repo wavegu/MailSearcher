@@ -1,0 +1,20 @@
+[
+    {
+        "content": "... 91 610 8661. email:tino at idsia dot ch ... publications. rupesh kumar srivastava, jonathan masci, faustino gomez, and juergen schmidhuber (2015).", 
+        "email_list": [
+            "tino@idsia.ch"
+        ], 
+        "cite_url": "www.idsia.ch/~tino", 
+        "cite_name": "Dalle Molle Institute for Artificial Intelligence Research", 
+        "title": "Faustino Gomez - Home Page - Idsia"
+    }, 
+    {
+        "content": "sep 7, 2006 - ta: shafaq chaudhry, email: shafaq@cs.ucf.edu ... control tasks with neuroevolution by faustino j. gomez and risto miikkulainen (1999).", 
+        "email_list": [
+            "shafaq@cs.ucf.edu"
+        ], 
+        "cite_url": "www.cs.ucf.edu/~kstanley/cap6938fall06.html", 
+        "cite_name": "", 
+        "title": "Fall 2006 CAP 6938 Topics in Neuroevolution and ..."
+    }
+]

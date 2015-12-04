@@ -1,0 +1,20 @@
+[
+    {
+        "content": "xiaowei ying. ups. data mining, privacy, social network. verified email at bankofamerica.com - homepage ... l harrison, x hu, x ying, a lu, w wang, x wu.", 
+        "email_list": [
+            "email@bankofamerica.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eMkCt8YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xiaowei Ying - Google Scholar Citations"
+    }, 
+    {
+        "content": "prospective students. please apply here, or email admissions at cs dot duke dot edu. i am looking for a couple of motivated students interested in systems and...", 
+        "email_list": [
+            "admissions@cs.duke.edu"
+        ], 
+        "cite_url": "https://users.cs.duke.edu/~xwy/", 
+        "cite_name": "", 
+        "title": "Xiaowei Yangs Home Page - Duke University"
+    }
+]

@@ -1,3 +1,38 @@
-sen@hri.res.in	[7]
-sen@mri.ernet.in	[7]
-email at mri.ernet.in	[2]
+[
+    {
+        "content": "e-mail, sen@mri.ernet.in ... sen received his phd from stony brook university. ... academic and research achievements: ashoke sen is among indias most...", 
+        "email_addr_list": [
+            "sen@mri.ernet.in"
+        ], 
+        "cite_url": "www.insaindia.org/detail.php?id=N96-1204", 
+        "cite_name": "", 
+        "title": "Ashoke Sen - INSA"
+    }, 
+    {
+        "content": "email id , sen@hri.res.in  www.hri.res.in/~sen/. contact no, 0532-227-4302. broad research areas (max 5 lines). 1, my work spans various aspects of string...", 
+        "email_addr_list": [
+            "sen@hri.res.in"
+        ], 
+        "cite_url": "www.hbni.ac.in/faculty/HRI/hrial_phys_sen_ashoke.htm", 
+        "cite_name": "", 
+        "title": "Ashoke Sen"
+    }, 
+    {
+        "content": "cancel. ashoke sen. harish-chandra research institute. string theory. verified email at mri.ernet.in - homepage  scholar ... jj atick, lj dixon, a sen. nuclear...", 
+        "email_addr_list": [
+            "email@mri.ernet.in"
+        ], 
+        "cite_url": "scholar.google.co.in/citations?user=aXfgCusAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Ashoke Sen - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. ashoke sen. harish-chandra research lnstitute,allahabad. email : sen@mri.ernet.in. summarv ofachievements : my research during the period november...", 
+        "email_addr_list": [
+            "sen@mri.ernet.in"
+        ], 
+        "cite_url": "serb.gov.in/pdfs/research/Dr_Ashoke_Sen.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dr. Ashoke Sen"
+    }
+]

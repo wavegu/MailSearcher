@@ -1,0 +1,21 @@
+[
+    {
+        "content": "oct 20, 2010 - email: christian.balkenius@lucs.lu.se. title: cognitive ... email: barto@cs.umass.edu. title: small-world .... contact: dr. gwen littlewort email:...", 
+        "email_list": [
+            "christian.balkenius@lucs.lu.se", 
+            "barto@cs.umass.edu"
+        ], 
+        "cite_url": "www.liralab.it/teaching/SINA_08-09/SINA_PREV/.../contact-info.html", 
+        "cite_name": "", 
+        "title": "ICDL2004 - LIRA-Lab"
+    }, 
+    {
+        "content": "mar 23, 2015 - collaborators: marian bartlett, ian fasel, gwen littlewort-ford, javier. movellan .... email: tenx@buffalo.edu, or call sara at 716.645.3515. elab.", 
+        "email_list": [
+            "tenx@buffalo.edu"
+        ], 
+        "cite_url": "https://www.buffalo.edu/.../2015%20STOR%20rece...", 
+        "cite_name": "University at Buffalo", 
+        "title": "[PDF]reception program - University at Buffalo"
+    }
+]

@@ -1,6 +1,21 @@
-deanna.church@personalis.com	[25]
-deanna.church@personalis.com	[25]
-dbullock@fredcchurch.com	[3]
-dbullock@fredcchurch.com	[3]
-schneiva@ncbi.nlm.nih.gov	[2]
-schneiva@ncbi.nlm.nih.gov	[2]
+[
+    {
+        "content": "jan 24, 2015 - corresponding authors: deanna m church deanna.church@personalis.com - valerie a schneider schneiva@ncbi.nlm.nih.gov - richard...", 
+        "email_list": [
+            "deanna.church@personalis.com", 
+            "schneiva@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "www.genomebiology.com/2015/16/1/13", 
+        "cite_name": "Genome Biology", 
+        "title": "Extending reference assembly models - Genome Biology"
+    }, 
+    {
+        "content": "deanna m. deanna m. bullock, csrm, aic. associate ... position: commercial claims team leader. email: dbullock@fredcchurch.com. phone: 978-322-7242...", 
+        "email_list": [
+            "dbullock@fredcchurch.com"
+        ], 
+        "cite_url": "www.fredcchurch.com/deanna-m", 
+        "cite_name": "", 
+        "title": "Deanna M. | Fred C Church"
+    }
+]

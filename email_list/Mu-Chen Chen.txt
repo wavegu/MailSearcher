@@ -1,0 +1,38 @@
+[
+    {
+        "content": "welcome. mu-chen chen 陳穆臻 (professor) phd, national chiao tung university, roc. email:ittchen@mail.nctu.edu.tw. tel: 02-23494967 fax: 02-...", 
+        "email_list": [
+            "ittchen@mail.nctu.edu.tw"
+        ], 
+        "cite_url": "www.itt.nctu.edu.tw/.../Chen/Chen.html", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "Mu-Chen Chen"
+    }, 
+    {
+        "content": "chuan-mu chen, ph.d. department ... verified email at dragon.nchu.edu.tw - homepage ... ps yan, cm chen, h shi, f rahmatpanah, sh wei, cw caldwell, .", 
+        "email_list": [
+            "email@dragon.nchu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XmdEHIQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chuan-Mu Chen, Ph.D. - Google Scholar Citations"
+    }, 
+    {
+        "content": "mu chen. harvard school of public health. verified email at mail.harvard.edu ... a pan, m chen, r chowdhury, jhy wu, q sun, h campos, d mozaffarian, .", 
+        "email_list": [
+            "email@mail.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hhfJIdcAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mu Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 11, 2015 - email: muchunc@uci.edu. university of california, irvine 3127 frederick reines hall mail code: 4575. irvine, ca ... picture of mu-chun chen...", 
+        "email_list": [
+            "muchunc@uci.edu"
+        ], 
+        "cite_url": "www.faculty.uci.edu/profile.cfm?faculty...", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Mu-Chun Chen - UC Irvine - Faculty Profile System"
+    }
+]

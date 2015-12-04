@@ -1,1 +1,11 @@
-email at ucsd.edu	[4]
+[
+    {
+        "content": "cancel. ming t. tsuang ... verified email at ucsd.edu. scholar ... mt tsuang, mj lyons, jm meyer, t doyle, sa eisen, j goldberg, w true, ... archives of general...", 
+        "email_addr_list": [
+            "email@ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5AIq8e8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ming T. Tsuang - Google Scholar Citations"
+    }
+]

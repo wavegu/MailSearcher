@@ -1,0 +1,56 @@
+[
+    {
+        "content": "phone: (852) 2358 7122. fax: (852) 2358 0054. e-mail: kechengh@ust.hk .... zoo, xue-jun., li, xin-yong., zhao, qi-dong., chen, guo-hua., preparation and...", 
+        "email_list": [
+            "kechengh@ust.hk"
+        ], 
+        "cite_url": "www.cbme.ust.hk/kec...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Guohua CHEN - Department of Chemical and Biomolecular ..."
+    }, 
+    {
+        "content": "email: ghhe@whu.edu.cn .... Ÿ he guohua and chen jun, 2007, research progresses on relationship of exchange rate change and economic growth...", 
+        "email_list": [
+            "ghhe@whu.edu.cn"
+        ], 
+        "cite_url": "ems.whu.edu.cn/en/50/1/3/2015-05-20/59.html", 
+        "cite_name": "", 
+        "title": "He Guohua"
+    }, 
+    {
+        "content": "enrollment: lib arts-tc twin cities fall 2015 - tentativ. email address: guoxx663@umn.edu. internet id: guoxx663. mobile/cell phone: +1 612-516-0682.", 
+        "email_list": [
+            "guoxx663@umn.edu"
+        ], 
+        "cite_url": "www.umn.edu/lookup?SET...UID=guoxx663", 
+        "cite_name": "University of Minnesota", 
+        "title": "Guo, Huajun - People Search : University of Minnesota"
+    }, 
+    {
+        "content": "email: ghcao@vt.edu ... a (2010); yang lu, hengyong yu, guohua cao, jun zhao, ge wang and otto zhou multi-beam field emission x-ray system with...", 
+        "email_list": [
+            "ghcao@vt.edu"
+        ], 
+        "cite_url": "www.sbes.vt.edu/people/bio.php?person=Guohua-Cao", 
+        "cite_name": "Virginia Tech", 
+        "title": "Guohua Cao, Ph.D. - Virginia Tech - Wake Forest University ..."
+    }, 
+    {
+        "content": "wu hua-jun. phd of bioinformatics ... verified email at jimmy.harvard.edu. scholar ... s fu, z lv, z gao, h wu, j pang, b zhang, q dong, x guo, xj wang, .", 
+        "email_list": [
+            "email@jimmy.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pQF7BaYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Wu Hua-Jun - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: liusj@sun.im.ac.cn ... chao-hua shen, peng xu, zhou huang, dong-yang cai, shuang-jiang liu and wen-bin du. 2014. bacterial ... cheng-ying jiang, li-jun liu, xu guo, xiao-yan youa, shuang-jiang liu, ansgar poetsch. 2014.", 
+        "email_list": [
+            "liusj@sun.im.ac.cn"
+        ], 
+        "cite_url": "www.im.ac.cn/sklmr/EN%20version/LiuSJ.html", 
+        "cite_name": "", 
+        "title": "Shuangjiang Liu - 中国科学院微生物研究所"
+    }
+]

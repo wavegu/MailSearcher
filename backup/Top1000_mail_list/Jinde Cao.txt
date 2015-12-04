@@ -1,9 +1,61 @@
-jdcaoseu@gmail.com	[8]
-jdcaoseu@gmail.com.jinde	[8]
-jdcao@seu.edu.cn	[8]
-email at seu.edu.cn	[2]
-mahhdai@cityu.edu.hk	[1]
-s.huang@ee.qub.ac.uk	[1]
-wenwuyu@gmail.com	[1]
-mahhdai@math.cityu.edu.hk	[1]
-bits@yahoo.com	[1]
+[
+    {
+        "content": "create alert. cancel. jinde cao ... verified email at seu.edu.cn. scholar ... j cao. circuits and systems i: fundamental theory and applications, ieee ..., 2001.", 
+        "email_addr_list": [
+            "email@seu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8_ffELYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jinde Cao - Google Scholar Citations"
+    }, 
+    {
+        "content": "ph.d. jinde cao ... ph.d. jinde cao. telephone：86-25-52090596-8535. email：jdcao@seu.edu.cn; jdcaoseu@gmail.com...", 
+        "email_addr_list": [
+            "jdcao@seu.edu.cn", 
+            "jdcaoseu@gmail.com"
+        ], 
+        "cite_url": "math.seu.edu.cn/Portal/101005570/English/", 
+        "cite_name": "", 
+        "title": "Jinde Cao"
+    }, 
+    {
+        "content": "ph.d. jinde cao ... name, jinde cao, gender, male. date of birth ... telephone, 86-25-52090596-8535, email, jdcao@seu.edu.cn; jdcaoseu@gmail.com.", 
+        "email_addr_list": [
+            "jdcao@seu.edu.cn", 
+            "jdcaoseu@gmail.com"
+        ], 
+        "cite_url": "math.seu.edu.cn/Portal/101005570/.../Resume.do", 
+        "cite_name": "", 
+        "title": "Welcome to Jinde CAOs Personal Website!"
+    }, 
+    {
+        "content": "wenwuyu@gmail.com ... supervisor: professor jinde cao math control ... [3] w. yu, j. cao, j. lü, global synchronization of linearly hybrid coupled networks with...", 
+        "email_addr_list": [
+            "wenwuyu@gmail.com"
+        ], 
+        "cite_url": "www.ee.columbia.edu/~wwyu/", 
+        "cite_name": "", 
+        "title": "Wenwu Yus Homepage"
+    }, 
+    {
+        "content": "r.c.srivastava,lucknow, india, email: rcs_bits@yahoo.com. b.n.mishra, hazaribag ... jinde cao, china, email: jdcao@seu.edu.cn. muhammad aslam noor...", 
+        "email_addr_list": [
+            "rcs_bits@yahoo.com", 
+            "jdcao@seu.edu.cn"
+        ], 
+        "cite_url": "https://sites.google.com/site/drbimalmishra/membersoftheeditorialboard", 
+        "cite_name": "", 
+        "title": "membersoftheeditorialboard - IJMMSA - Google Sites"
+    }, 
+    {
+        "content": "email: mahhdai@math.cityu.edu.hk, mahhdai@cityu.edu.hk. de-shuang huang queens university belfast, uk email: s.huang@ee.qub.ac.uk. jinde cao", 
+        "email_addr_list": [
+            "mahhdai@math.cityu.edu.hk", 
+            "mahhdai@cityu.edu.hk", 
+            "s.huang@ee.qub.ac.uk"
+        ], 
+        "cite_url": "serialsjournals.com/editorial-board.php?journals_id=231www.google.com/email", 
+        "cite_name": "", 
+        "title": "Editors/Editorial Board - Serials PublicationsGoogle Business Email‎"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "content": "sep 7, 2015 - dr. volker strumpen. head of institute. volker strumpen. altenberger straße 69 4040 linz, austria. room: s3 0312-2. email: strumpen@ica.jku.", 
+        "email_list": [
+            "strumpen@ica.jku"
+        ], 
+        "cite_url": "https://www.ica.jku.at/people/strumpen", 
+        "cite_name": "Johannes Kepler University Linz", 
+        "title": "Volker Strumpen — ICA Website"
+    }, 
+    {
+        "content": "mbtaylor@ucsd.edu, email. ebu 3b 3202, office. prof.taylor@gmail.com, gchat .... james psota, arvind saraf, nathan shnidman, volker strumpen, matt frank,...", 
+        "email_list": [
+            "mbtaylor@ucsd.edu", 
+            "prof.taylor@gmail.com"
+        ], 
+        "cite_url": "cseweb.ucsd.edu/~mbtaylor/", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Dark Silicon, Tiled Processors, Specialization, Vision and ..."
+    }
+]

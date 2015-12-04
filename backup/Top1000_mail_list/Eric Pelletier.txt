@@ -1,4 +1,38 @@
-eric.pelletier@snhu.edu	[27]
-pelletier@uml.edu	[20]
-epelletier@offitkurman.com	[20]
-info@remax-quebec.com	[1]
+[
+    {
+        "content": "eric pelletier from re/max t.m.s. inc. sainte-thérèse. ... eric pelletier real estate broker ... email : info@remax-quebec.com. re/max québec inc.", 
+        "email_addr_list": [
+            "info@remax-quebec.com"
+        ], 
+        "cite_url": "www.remax-quebec.com/en/courtiers-immobiliers/epelletier/index.rmx", 
+        "cite_name": "", 
+        "title": "ERIC PELLETIER from RE/MAX T.M.S. INC. Sainte-Thérèse"
+    }, 
+    {
+        "content": "eric pelletier assistant baseball coach - #28. phone: 978-934-2138. email: eric_pelletier@uml.edu. eric pelletier, who enters his third year at umass lowell in...", 
+        "email_addr_list": [
+            "eric_pelletier@uml.edu"
+        ], 
+        "cite_url": "goriverhawks.com/coaches.aspx?rc=610", 
+        "cite_name": "", 
+        "title": "UMass Lowell - 2014 Baseball Coaching Staff"
+    }, 
+    {
+        "content": "email: epelletier@offitkurman.com. office phone: 240.507.1739. fax: 240.507.1735. mailing address: 4800 montgomery lane 8th floor bethesda, md 20814.", 
+        "email_addr_list": [
+            "epelletier@offitkurman.com"
+        ], 
+        "cite_url": "www.offitkurman.com/attorney/eric-pelletier/", 
+        "cite_name": "", 
+        "title": "Eric J. Pelletier, attorney at law: Washington, Virginia | Offit ..."
+    }, 
+    {
+        "content": "title: assistant baseball coach. phone: (603) 645-9637. email: eric.pelletier@snhu.edu. year: second year. alma mater: so. new hampshire 10...", 
+        "email_addr_list": [
+            "eric.pelletier@snhu.edu"
+        ], 
+        "cite_url": "snhupenmen.com/.../Pelleti...", 
+        "cite_name": "Southern New Hampshire University Athletics", 
+        "title": "Eric Pelletier - SNHU"
+    }
+]

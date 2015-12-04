@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cameron marlow. until recently, i founded and led the data science ... such as flickr, del.icio.us, and last.fm. email: cameron@cameronmarlow.com  facebook", 
+        "email_list": [
+            "cameron@cameronmarlow.com"
+        ], 
+        "cite_url": "cameronmarlow.com/", 
+        "cite_name": "", 
+        "title": "Cameron Marlow | cameronmarlow.com"
+    }, 
+    {
+        "content": "cameron marlow. data scientist, facebook ... verified email at fb.com - homepage  scholar ... c marlow, m naaman, d boyd, m davis. proceedings of the...", 
+        "email_list": [
+            "email@fb.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TTLOfXIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Cameron Marlow - Google Scholar Citations"
+    }
+]

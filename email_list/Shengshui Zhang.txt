@@ -1,0 +1,58 @@
+[
+    {
+        "content": "dr. sheng s. zhang (shengshui zhang) is a research chemist in sensors and electron devices directorate, u.s. army ... e-mail, shengshui.zhang.civ@mail.mil...", 
+        "email_list": [
+            "shengshui.zhang.civ@mail.mil"
+        ], 
+        "cite_url": "sitekreator.com/sheng/main_page.html", 
+        "cite_name": "", 
+        "title": "Sheng S. Zhang (Shengshui Zhang) - Welcome to my home"
+    }, 
+    {
+        "content": "verified email at us.army.mil - homepage  scholar. get my own profile ... k xu, s zhang, tr jow, w xu, ca angell ... s zhang, ms ding, k xu, j allen, tr jow.", 
+        "email_list": [
+            "email@us.army.mil"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3uytHlQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sheng S. Zhang (张升水） - Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about zss@mail.com (shengshui zhangs e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "zss@mail.com"
+        ], 
+        "cite_url": "spam-report.email/zss/mail.com", 
+        "cite_name": "", 
+        "title": "zss@mail.com (Shengshui Zhangs e-mail) - Spam-Report ..."
+    }, 
+    {
+        "content": "see information and reports about szhang@mail.com (shengshui zhangs e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "szhang@mail.com"
+        ], 
+        "cite_url": "spam-report.email/szhang/mail.com", 
+        "cite_name": "", 
+        "title": "szhang@mail.com (Shengshui Zhangs e-mail) - Spam ..."
+    }, 
+    {
+        "content": "citation: zhang ss (2013) sulfurized carbon: a class of cathode materials for ... 20783-1197, usa e-mail: shengshui.zhang.civ@mail.mil; shengshui@gmail.com.", 
+        "email_list": [
+            "shengshui.zhang.civ@mail.mil", 
+            "shengshui@gmail.com"
+        ], 
+        "cite_url": "www.frontiersin.org/Profile/PublicationDetails.aspx?...", 
+        "cite_name": "Frontiers Media", 
+        "title": "Frontiers | Sulfurized Carbon: A Class of Cathode Materials ..."
+    }, 
+    {
+        "content": "jun 28, 2013 - sheng s. zhang. + author affiliations ... ↵ze-mail: shengshui.zhang.civ@mail.mil; shengshui@gmail.com. manuscript submitted may 24, 2013.", 
+        "email_list": [
+            "shengshui.zhang.civ@mail.mil", 
+            "shengshui@gmail.com"
+        ], 
+        "cite_url": "jes.ecsdl.org/content/160/9/A1421.abstract", 
+        "cite_name": "", 
+        "title": "Abstract - Journal of The Electrochemical Society"
+    }
+]

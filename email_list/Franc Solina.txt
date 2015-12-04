@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. franc solina. university ... verified email at fri.uni-lj.si - homepage  scholar ... shape recovery and segmentation with deformable part models. f solina.", 
+        "email_list": [
+            "email@fri.uni-lj.si"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ShKuoiUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Franc Solina - Google Scholar Citations"
+    }
+]

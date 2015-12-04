@@ -1,4 +1,47 @@
-steve.rozen@duke-nus.edu.sg	[21]
-steve.rozen@duke-nus.edu.sg.steve	[21]
-rozen@bcm.edu	[11]
-email at duke-nus.edu.sg	[2]
+[
+    {
+        "content": "other affiliations: associate professor track v,. psychiatry and behavioral sciences,. duke university medical center. email: steve.rozen@duke-nus.edu.sg.", 
+        "email_addr_list": [
+            "steve.rozen@duke-nus.edu.sg"
+        ], 
+        "cite_url": "https://www.duke-nus.edu.sg/cscb/content/steve-rozen", 
+        "cite_name": "", 
+        "title": "Steve ROZEN | CSCB - Duke-NUS"
+    }, 
+    {
+        "content": "rozen lab ... associates. if interested please e-mail your cv and, if a recent bachelors or masters graduate, your transcript to: steve.rozen [at] duke-nus.edu.sg.", 
+        "email_addr_list": [
+            "steve.rozen@duke-nus.edu.sg"
+        ], 
+        "cite_url": "steverozen.net/", 
+        "cite_name": "", 
+        "title": "Steve Rozen"
+    }, 
+    {
+        "content": "verified email at duke-nus.edu.sg - homepage  scholar ... s rozen, h skaletsky ... r reijo, ty lee, p salo, r alagappan, lg brown, m rosenberg, s rozen, .", 
+        "email_addr_list": [
+            "email@duke-nus.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com.sg/citations?user=56zaHG0AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Steven G. Rozen - Google Scholar Citations"
+    }, 
+    {
+        "content": "steve rozen ... email. rozen@bcm.edu. is this you?log in to edit your profile. positions. e-mail access: human genome sequencing center: baylor college of...", 
+        "email_addr_list": [
+            "rozen@bcm.edu"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../b2485eb8-ffed-11e2...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Steve Rozen - People - Baylor College of Medicine"
+    }, 
+    {
+        "content": "3087 yellow zone, durham, nc 27710; box 3862 med ctr, durham, nc 27710; email icon steve.rozen@duke-nus.edu.sg phone icon (919) 684-5616...", 
+        "email_addr_list": [
+            "steve.rozen@duke-nus.edu.sg"
+        ], 
+        "cite_url": "https://scholars.duke.edu/display/per0685982www.google.com/email", 
+        "cite_name": "", 
+        "title": "Rozen, Steven George - Scholars@Duke - Duke UniversityGoogle Business Email - Custom email for your company‎"
+    }
+]

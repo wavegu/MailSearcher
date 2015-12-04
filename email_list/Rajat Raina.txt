@@ -1,0 +1,20 @@
+[
+    {
+        "content": "rajat raina rajatr@cs.stanford.edu http://www.stanford.edu/~rajatr. statistical machine learning, especially unsupervised, semi-supervised and transfer learning.", 
+        "email_list": [
+            "rajatr@cs.stanford.edu"
+        ], 
+        "cite_url": "ai.stanford.edu/~rajatr/rajatraina.pdf", 
+        "cite_name": "Stanford AI Lab", 
+        "title": "[PDF]Rajat Raina - Stanford AI Lab - Stanford University"
+    }, 
+    {
+        "content": "... conferences  academic organisations  eu supported  blog  about us  rajat raina ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/rajat_raina/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Rajat Raina - VideoLectures.NET"
+    }
+]

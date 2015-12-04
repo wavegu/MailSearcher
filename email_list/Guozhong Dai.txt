@@ -1,0 +1,39 @@
+[
+    {
+        "content": "china, email: {jyy; tf}@iel.iscas.ac.cn;,xiaolong (luke) zhang, college of ... state university, pa 16802, email: lzhang@ist.psu.edu; guozhong dai and hongan.", 
+        "email_list": [
+            "lzhang@ist.psu.edu"
+        ], 
+        "cite_url": "zhang.ist.psu.edu/pdf/TIST_2011.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Drawn Concept Maps - (Luke) Zhang"
+    }, 
+    {
+        "content": "fax: +86-10-62661577. email: danliwang2009@gmail.com; danli@iscas.ac.cn ... danli wang, tingting yin, fang peng, hongan wang, guozhong dai. a story...", 
+        "email_list": [
+            "danliwang2009@gmail.com", 
+            "danli@iscas.ac.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~danliwan...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "个人主页 - 中国科学院大学"
+    }, 
+    {
+        "content": "guozhong dai: publications, bio, bibliography, etc. ... employer: (); email: dgz@iel.iscas.ac.cn. publication statistics. publication period start: 1998; publication...", 
+        "email_list": [
+            "dgz@iel.iscas.ac.cn"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/guozhong-dai", 
+        "cite_name": "", 
+        "title": "Guozhong Dai: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "... and technology; joined department: 2006; email:liuyongjin@tsinghua.edu.cn .... cui-xia ma, yong-jin liu, hong-an wang, dong-xing teng, guo-zhong dai...", 
+        "email_list": [
+            "liuyongjin@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.cs.tsinghua.edu.cn/.../2010122400160830541...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Yongjin LIU - Department of Computer Science and ..."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "content": "cancel. hua kun liu. university of wollongong  energy materials. verified email at uow.edu.au ... ms park, gx wang, ym kang, d wexler, sx dou, hk liu.", 
+        "email_list": [
+            "email@uow.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=-AOHUY0AAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Hua Kun Liu - Google Scholar Citations"
+    }, 
+    {
+        "content": "hua kun liu is a distingiushed professor and a co-ordinator of energy materials research program of the institute for .... e-mail: hua_liu@uow.edu.au. huakun...", 
+        "email_list": [
+            "hua_liu@uow.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Wollongong", 
+        "title": "Professor Hua Kun Liu - ISEM - University of Wollongong"
+    }, 
+    {
+        "content": "... publications  seminars  our team  study with us  work with us  news. search. our team; kun liu. contact information. email, kun.liu@merton.ox.ac.uk.", 
+        "email_list": [
+            "kun.liu@merton.ox.ac.uk"
+        ], 
+        "cite_url": "www.dpag.ox.ac.uk/team/kun-liu", 
+        "cite_name": "University of Oxford", 
+        "title": "Kun Liu — Physiology, Anatomy and Genetics"
+    }, 
+    {
+        "content": "kun liu. 1717 bissonnet street, apt 113. houston, tx 77005. tel: (832) 533-5241. email: kun.liu@rice.edu. educaton. ph.d., computational and applied...", 
+        "email_list": [
+            "kun.liu@rice.edu"
+        ], 
+        "cite_url": "www.caam.rice.edu/~kl9/Site/Home_files/Resume.pdf", 
+        "cite_name": "Rice University", 
+        "title": "[PDF]KUN LIU - Department of Computational and Applied ..."
+    }, 
+    {
+        "content": "verified email at informatik.uni-freiburg.de - homepage  scholar. get my own ... ss lienkamp, k liu, cm karner, tj carroll, o ronneberger, ... nature genetics...", 
+        "email_list": [
+            "email@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "scholar.google.de/citations?user=13JkmhIAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Kun Liu - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 12, 2014 - dr. hai-kun liu ... liu h-k., belz t., bock d., takacs a., wu h., lichter p., chai m-q., schütz g. (2008) the nuclear ... e-mail: l.haikun@dkfz.de.", 
+        "email_list": [
+            "l.haikun@dkfz.de"
+        ], 
+        "cite_url": "www.dkfz.de/.../normale-und-neoplastis...", 
+        "cite_name": "German Cancer Research Center", 
+        "title": "Deutsches Krebsforschungszentrum - dkfz.de"
+    }, 
+    {
+        "content": "oct 31, 2015 - dr. hai-kun liu. dr. hai-kun liu. position: ... phone: +49 6221 420 | fax: +49 6221 422995 | internet: www.dkfz.de | e-mail: kontakt@dkfz.de.", 
+        "email_list": [
+            "kontakt@dkfz.de"
+        ], 
+        "cite_url": "https://www.dkfz.de/.../Mitarbeiter_Detai...", 
+        "cite_name": "German Cancer Research Center", 
+        "title": "Dr. Hai-Kun Liu - dkfz.de"
+    }
+]

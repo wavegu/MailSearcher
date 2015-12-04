@@ -1,0 +1,20 @@
+[
+    {
+        "content": "create alert. cancel. dietrich paulus ... verified email at uni-koblenz.de. scholar ... r chrástek, m wolf, k donath, h niemann, d paulus, t hothorn, ... medical...", 
+        "email_list": [
+            "email@uni-koblenz.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3SeodI4AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dietrich Paulus - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr.-ing. dietrich paulus. head of the active vision group. sprechstunde: by arrangement with the secretarys office (sekcv@uni-koblenz.de) - possible...", 
+        "email_list": [
+            "sekcv@uni-koblenz.de"
+        ], 
+        "cite_url": "https://www.uni-ko...", 
+        "cite_name": "University of Koblenz and Landau", 
+        "title": "Prof. Dr.-Ing. Dietrich Paulus — Universität Koblenz · Landau"
+    }
+]

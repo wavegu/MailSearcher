@@ -1,2 +1,20 @@
-mccallum@cs.umass.edu	[18]
-email at cs.umass.edu	[3]
+[
+    {
+        "content": "andrew k. mccallum. headshot. faculty. position: professor. office: cs244. phone: (413) 545-1323. email: mccallum@cs.umass.edu. homepage: link...", 
+        "email_addr_list": [
+            "mccallum@cs.umass.edu"
+        ], 
+        "cite_url": "https://www.cics.umass.edu/faculty/directory/mccallum_andrew", 
+        "cite_name": "", 
+        "title": "Andrew K. McCallum | College of Information and Computer ..."
+    }, 
+    {
+        "content": "andrew mccallum. professor of computer ... verified email at cs.umass.edu - homepage  scholar ... k nigam, ak mccallum, s thrun, t mitchell. machine...", 
+        "email_addr_list": [
+            "email@cs.umass.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yILa1y0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew McCallum - Google Scholar Citations"
+    }
+]

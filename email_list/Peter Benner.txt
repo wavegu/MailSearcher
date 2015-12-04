@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dr. peter benner. head of research unit computational methods in ... +49 391 6110 451. fax: +49 391 6110 453. e-mail: benner@mpi-magdeburg.mpg.de...", 
+        "email_list": [
+            "benner@mpi-magdeburg.mpg.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Max Planck Society", 
+        "title": "MPI Magdeburg: CSC: Staff: Peter Benner: Home"
+    }, 
+    {
+        "content": "1 39106 magdeburg, an not so old photo. büro: raum s2.15. telefon: +49 391 6110 451. fax: +49 391 6110 453. e-mail: benner@mpi-magdeburg.mpg.de...", 
+        "email_list": [
+            "benner@mpi-magdeburg.mpg.de"
+        ], 
+        "cite_url": "https://www2.mpi-magdeburg.mp...", 
+        "cite_name": "Max Planck Society", 
+        "title": "MPI Magdeburg: CSC: Staff: Peter Benner: Start"
+    }, 
+    {
+        "content": "phone: +49 371 531-22540. secretary: +49 371 531-32659 (heike weichelt). fax: +49 371 531-22509. e-mail: benner@mathematik.tu-chemnitz.de...", 
+        "email_list": [
+            "benner@mathematik.tu-chemnitz.de"
+        ], 
+        "cite_url": "https://www-user.tu-chemnitz.de/~be...", 
+        "cite_name": "Chemnitz University of Technology", 
+        "title": "Prof. Dr. Peter Benner - Technische Universität Chemnitz"
+    }, 
+    {
+        "content": "cancel. peter benner ... verified email at mpi-magdeburg.mpg.de ... solving large-scale control problems. p benner. control systems, ieee 24 (1), 44-59, 2004.", 
+        "email_list": [
+            "email@mpi-magdeburg.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6zcRrC4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Peter Benner - Google Scholar Citations"
+    }
+]

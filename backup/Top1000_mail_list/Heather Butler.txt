@@ -1,3 +1,29 @@
-butler-maddenhv@cardiff.ac.uk	[14]
-hbutler@csudh.edu	[14]
-info@heatherbutlerphotography.com	[1]
+[
+    {
+        "content": "heather butler hbutler@csudh.edu ... butler, h. a. (2013, under review). debiasing juror ... butler, h. a. (2012). halpern .... student email (toromail)  email icon...", 
+        "email_addr_list": [
+            "hbutler@csudh.edu"
+        ], 
+        "cite_url": "www4.csudh.edu/.../index", 
+        "cite_name": "California State University, Dominguez Hills", 
+        "title": "Faculty - California State University, Dominguez Hills"
+    }, 
+    {
+        "content": "heather butler-madden. teaching technician. email: butler-maddenhv@cardiff.ac.uk; telephone: +44 (0)29 2087 0237. overview...", 
+        "email_addr_list": [
+            "butler-maddenhv@cardiff.ac.uk"
+        ], 
+        "cite_url": "www.cardiff.ac.uk/.../38497-butler-madden-heather", 
+        "cite_name": "Cardiff University", 
+        "title": "Heather Butler-Madden - People - Cardiff University"
+    }, 
+    {
+        "content": "deposits are non-refundable. always made with you in mind, so snag your spot before they are all gone! email me at: info@heatherbutlerphotography.com for...", 
+        "email_addr_list": [
+            "info@heatherbutlerphotography.com"
+        ], 
+        "cite_url": "heatherbutlerphotography.com/ohio-travel-sessions-2015/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Ohio Travel Sessions 2015 » Heather Butler PhotographyGoogle Business Email‎Searches related to Heather Butler email"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "pericles a. mitkas. professor of electrical and ... verified email at auth.gr. scholar. get my own ... s diplaris, g tsoumakas, pa mitkas, i vlahavas. advances in...", 
+        "email_list": [
+            "email@auth.gr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=t58rc8QAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pericles A. Mitkas - Google Scholar Citations"
+    }, 
+    {
+        "content": "contacts: prof. pericles a. mitkas rector t: +30 2310 996715. f: +30 2310 996706. e: rector@auth.gr; prof. konstantinos-vasileios katsampalos dean of...", 
+        "email_list": [
+            "rector@auth.gr"
+        ], 
+        "cite_url": "www.cesaer.org/...", 
+        "cite_name": "Conference of European Schools for Advanced Engin...", 
+        "title": "Aristotle University of Thessaloniki - Cesaer"
+    }, 
+    {
+        "content": "oct 8, 2015 - e-mail: gramm-syg@ad.auth.gr ... pericles. mitkas. digitally signed by pericles mitkas. dn: c=gr ... mitkas, email=mitkas@ece.auth.gr.", 
+        "email_list": [
+            "gramm-syg@ad.auth.gr", 
+            "mitkas@ece.auth.gr"
+        ], 
+        "cite_url": "https://diavgeia.gov.gr/doc/7Ν8Β46Ψ8ΧΒ-Ζ0Χ", 
+        "cite_name": "", 
+        "title": "[PDF]Pericles Mitkas"
+    }
+]

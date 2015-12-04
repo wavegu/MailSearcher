@@ -1,0 +1,20 @@
+[
+    {
+        "content": "niloy ganguly. department of cse ... verified email at cse.iitkgp.ernet.in - homepage  scholar ... n ganguly, bk sikdar, a deutsch, g canright, pp chaudhuri.", 
+        "email_list": [
+            "email@cse.iitkgp.ernet.in"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hCbFmUUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Niloy Ganguly - Google Scholar Citations"
+    }, 
+    {
+        "content": "niloy ganguly email: nilo partha bhowmick email: pb@cse.iitkgp.ernet.in research areas: digital geometry, shape analysis,", 
+        "email_list": [
+            "pb@cse.iitkgp.ernet.in"
+        ], 
+        "cite_url": "https://www.yumpu.com/en/document/view/32529020/...pdf...-/143", 
+        "cite_name": "", 
+        "title": "Niloy Ganguly Email: nilo - Yumpu"
+    }
+]

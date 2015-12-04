@@ -1,6 +1,29 @@
-michel.gendreau@polymtl.ca	[29]
-michel.gendreau@cirrelt.camichel	[29]
-michel.gendreau@cirrelt.ca	[29]
-martin.savelsbergh@isye.gatech.edu	[3]
-email at cirrelt.net	[2]
-jean-francois.cordeau@hec.ca	[1]
+[
+    {
+        "content": "verified email at cirrelt.net. scholar ... É taillard, p badeau, m gendreau, f guertin, jy potvin ... jf cordeau, m gendreau, g laporte, jy potvin, f semet.", 
+        "email_addr_list": [
+            "email@cirrelt.net"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=BAhQaA8AAAAJ", 
+        "cite_name": "Google", 
+        "title": "Michel Gendreau - Google Scholar Citations"
+    }, 
+    {
+        "content": "telephone: 514-340-4711 # 4513; fax: 514-340-4173; email: michel.gendreau@polymtl.ca. professors/researchers. michel gendreau, chairholder...", 
+        "email_addr_list": [
+            "michel.gendreau@polymtl.ca"
+        ], 
+        "cite_url": "www.polymtl.ca  ...  Directory", 
+        "cite_name": "École Polytechnique de Montréal", 
+        "title": "SERC/Hydro-Québec Industrial Research Chair on the ..."
+    }, 
+    {
+        "content": "michel gendreau. department of mathematics and industrial engineering ... email: michel.gendreau@polymtl.ca. back. top of page. date modified: 2014-05-20.", 
+        "email_addr_list": [
+            "michel.gendreau@polymtl.ca"
+        ], 
+        "cite_url": "www.nserc-crsng.gc....", 
+        "cite_name": "Natural Sciences and Engineering Research Council", 
+        "title": "Michel Gendreau - NSERC - Chairholder Profile"
+    }
+]

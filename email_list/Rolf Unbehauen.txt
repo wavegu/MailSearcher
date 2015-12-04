@@ -1,0 +1,11 @@
+[
+    {
+        "content": "oct 1, 1998 - e-mail: email: he@late.e-technik.uni-erlangen.de ... a. cochocki , rolf unbehauen, neural networks for optimization and signal processing,...", 
+        "email_list": [
+            "he@late.e-technik.uni-erlangen.de"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=300933", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Approximate Feedback Linearisation Using Multilayer ..."
+    }
+]

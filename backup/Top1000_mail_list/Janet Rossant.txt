@@ -1,3 +1,29 @@
-janet.rossant@sickkids.ca	[25]
-oirm@oirm.ca	[2]
-email at sickkids.ca	[1]
+[
+    {
+        "content": "e-mail: janet.rossant@sickkids.ca ... dr. janet rossant is a senior scientist in the developmental  stem cell biology program at the hospital for sick children...", 
+        "email_addr_list": [
+            "janet.rossant@sickkids.ca"
+        ], 
+        "cite_url": "www.sickkids.ca/.../R/Janet-Rossant.html", 
+        "cite_name": "The Hospital for Sick Children", 
+        "title": "Janet Rossant - The Hospital for Sick Children"
+    }, 
+    {
+        "content": "verified email at sickkids.ca ... f shalaby, j rossant, tp yamaguchi, m gertsenstein, xf wu, . ... a nagy, j rossant, r nagy, w abramow-newerly, jc roder.", 
+        "email_addr_list": [
+            "email@sickkids.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=abY9aJ0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Janet Rossant - Google Scholar Citations"
+    }, 
+    {
+        "content": "janet rossant. profile: senior scientist and chief of ... lab: rossant lab. research interests: our lab is ... ontario, canada m5g 0a4 email: oirm@oirm.ca...", 
+        "email_addr_list": [
+            "oirm@oirm.ca"
+        ], 
+        "cite_url": "oirm.ca/regenerative-medicine-stemcell-scientists/janet-rossant", 
+        "cite_name": "", 
+        "title": "Regenerative Medicine  Stem Cells | Janet Rossant | OIRM"
+    }
+]

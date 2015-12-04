@@ -1,0 +1,29 @@
+[
+    {
+        "content": "weidong jin, m.s.. people  weidong jin, m.s.. nav. back to people search. share. email. weidong.jin@bcm.edu. is this you?log in to edit your profile.", 
+        "email_list": [
+            "weidong.jin@bcm.edu"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../b27b26d0-ffed-11e2...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Weidong Jin, M.S. | People | Baylor College of Medicine ..."
+    }, 
+    {
+        "content": "oct 12, 2015 - weidong jin et. geophysical ... 咨询电话：027-67883001 email:dxb@cug.edu.cn 地址：武汉市洪山区鲁磨路388号邮编：430074. 版权所有：中国...", 
+        "email_list": [
+            "dxb@cug.edu.cn"
+        ], 
+        "cite_url": "dxy.cug.edu.cn/content.asp?id=3115", 
+        "cite_name": "", 
+        "title": "Weidong Jin et. Geophysical Research Letters, 2015-研究进展"
+    }, 
+    {
+        "content": "see information and reports about nurajin@netscape.net (weidong jins e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "nurajin@netscape.net"
+        ], 
+        "cite_url": "spam-report.email/nurajin/netscape.net", 
+        "cite_name": "", 
+        "title": "nurajin@netscape.net (Weidong Jins e-mail) - Spam-Report ..."
+    }
+]

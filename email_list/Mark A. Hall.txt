@@ -1,0 +1,47 @@
+[
+    {
+        "content": "mark hall academy harlow academy transformation trust. ... harlow essex cm17 9lrtel: 01279 866280. fax: 01279 866286. email: office@mha.attrust.org.uk.", 
+        "email_list": [
+            "office@mha.attrust.org.uk"
+        ], 
+        "cite_url": "www.mha.attrust.org.uk/contact/", 
+        "cite_name": "", 
+        "title": "Mark Hall Academy – Academy Transformation Trust ..."
+    }, 
+    {
+        "content": "mark hall. director of health law and policy program fred d.  elizabeth l. turnage professor of law. phone: 336.758.4476. email: hallma@wfu.edu. location:...", 
+        "email_list": [
+            "hallma@wfu.edu"
+        ], 
+        "cite_url": "law.wfu.edu/faculty/.../hallma/", 
+        "cite_name": "Wake Forest University School of Law", 
+        "title": "Mark Hall - Wake Forest University School of Law"
+    }, 
+    {
+        "content": "mark a. hall, j.d., professor public health sciences-social sciences at wake forest baptist medical center. ... email: mhall@wakehealth.edu  media medical...", 
+        "email_list": [
+            "mhall@wakehealth.edu"
+        ], 
+        "cite_url": "www.wakehealth.edu/.../Hall-Mark-A...", 
+        "cite_name": "Wake Forest Baptist Medical Center", 
+        "title": "Mark A. Hall, J.D., Professor Public Health Sciences-Social ..."
+    }, 
+    {
+        "content": "mark c hall ... fax. 765.494.7897. office. bind room 194. email. mchall@purdue.edu ... martinez, j. s., hall, h., bartolowits, m. d.,  hall, m. c. (2012).", 
+        "email_list": [
+            "mchall@purdue.edu"
+        ], 
+        "cite_url": "https://ag.purdue.edu/.../Profile....", 
+        "cite_name": "Purdue University College of Agriculture", 
+        "title": "Mark C Hall - Pages - profile - Purdue University"
+    }, 
+    {
+        "content": "contact details. telephone: +44 (0)121 414 8577; email: m.a.hall.1@bham.ac.uk ... mark is a senior lecturer in project and operations management. previously...", 
+        "email_list": [
+            "m.a.hall.1@bham.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Birmingham", 
+        "title": "Mark Hall - The Department of Procurement and Operations ..."
+    }
+]

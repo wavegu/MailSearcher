@@ -1,0 +1,20 @@
+[
+    {
+        "content": "dumitru erhan. software engineer ... verified email at google.com - homepage  scholar ... d erhan, y bengio, a courville, pa manzagol, p vincent, s bengio.", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wfGiqXEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dumitru Erhan - Google Scholar Citations"
+    }, 
+    {
+        "content": "... conferences  academic organisations  eu supported  blog  about us  dumitru erhan ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/dumitru_erhan/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Dumitru Erhan - VideoLectures.NET"
+    }
+]

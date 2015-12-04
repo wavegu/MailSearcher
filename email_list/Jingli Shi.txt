@@ -1,0 +1,21 @@
+[
+    {
+        "content": "email: jli@xidian.edu.cn; jingli.xd@gmail.com ... [1] jing li, jianhua ge, chensi zhang, jingjing shi, yun rui and mohsen guizani, “impact of channel...", 
+        "email_list": [
+            "jli@xidian.edu.cn", 
+            "jingli.xd@gmail.com"
+        ], 
+        "cite_url": "web.xidian.edu.cn/jli/en/", 
+        "cite_name": "Xidian University", 
+        "title": "| Jing Lis Homepage | Xidian University Homepage"
+    }, 
+    {
+        "content": "jing li profile page. jing li. name: jing li. title: associate professor, dr. email: jing.li@sjtu.edu.cn. this e-mail ... website: cbb.sjtu.edu.cn/~jingli/. phone...", 
+        "email_list": [
+            "jing.li@sjtu.edu.cn"
+        ], 
+        "cite_url": "life.sjtu.edu.cn/english/index.php/component/comprofiler/.../Jing%20Li", 
+        "cite_name": "", 
+        "title": "Jing Li"
+    }
+]

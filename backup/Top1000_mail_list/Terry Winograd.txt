@@ -1,3 +1,29 @@
-winograd@cs.stanford.edu	[17]
-winograd@cs.sta	[17]
-remartin@uci.edu	[2]
+[
+    {
+        "content": "curriculum vitae -- terry allen winograd ... email: winograd@cs.stanford.edu ... winograd, terry (2001), interaction spaces for 21st century computing, in john...", 
+        "email_addr_list": [
+            "winograd@cs.stanford.edu"
+        ], 
+        "cite_url": "https://hci.stanford.edu/winograd/cv.html", 
+        "cite_name": "", 
+        "title": "Terry Winograd CV - Stanford HCI Group - Stanford University"
+    }, 
+    {
+        "content": "email rsvp required to rick martin at remartin@uci.edu by monday, january 14. ... terry winograd is professor of computer science at stanford university,...", 
+        "email_addr_list": [
+            "remartin@uci.edu"
+        ], 
+        "cite_url": "isr.uci.edu/content/terry-winograd", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Terry Winograd - Institute for Software Research"
+    }, 
+    {
+        "content": "terry winograd department of computer science stanford university stanford ca 943059035. e-mail: winograd@cs.stanford.edu hci editorial record.", 
+        "email_addr_list": [
+            "winograd@cs.stanford.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-winograd-cs-sta-6668176.htm", 
+        "cite_name": "", 
+        "title": "winograd@cs.sta - The Email Archive"
+    }
+]

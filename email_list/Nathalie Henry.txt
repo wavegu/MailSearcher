@@ -1,0 +1,29 @@
+[
+    {
+        "content": "nathalie henry. centre administrator, phd course and phd admissions. email: nslh100@cam.ac.uk. office phone: +44 (0)1223 764055. download as vcard...", 
+        "email_list": [
+            "nslh100@cam.ac.uk"
+        ], 
+        "cite_url": "www.devstudies.cam.ac.uk/people/nathaliehenry", 
+        "cite_name": "University of Cambridge", 
+        "title": "Nathalie Henry — Centre of Development Studies"
+    }, 
+    {
+        "content": "cancel. nathalie henry riche. microsoft research. information visualization. verified email at microsoft.com ... b lee, c plaisant, cs parr, jd fekete, n henry.", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HH02qY4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Nathalie Henry Riche - Google Scholar Citations"
+    }, 
+    {
+        "content": "the list below contains all domains related to the email address nathalie.henry@gandi.net. the listed domains are showing the mentioned email address in their...", 
+        "email_list": [
+            "nathalie.henry@gandi.net"
+        ], 
+        "cite_url": "website.informer.com/email/nathalie.henry@gandi.net", 
+        "cite_name": "", 
+        "title": "Nathalie.henry@gandi.net at Website Informer"
+    }
+]

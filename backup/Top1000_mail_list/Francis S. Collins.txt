@@ -1,3 +1,20 @@
-francis.collins@nih.gov	[33]
-francis.collins@nih.hhs.gov	[33]
-execsec1@od.nih.gov	[3]
+[
+    {
+        "content": "friends, the email address for dr. francis s. collins, director of nih, is francis.collins@nih.hhs.gov --- for those too tired to write, send the...", 
+        "email_addr_list": [
+            "francis.collins@nih.hhs.gov"
+        ], 
+        "cite_url": "forums.phoenixrising.me  ...  General ME/CFS News", 
+        "cite_name": "", 
+        "title": "FRANCIS S. COLLINS, MD PHD, NIH CONTACT INFO - inluding email ..."
+    }, 
+    {
+        "content": "national institutes of health. e-mail address: execsec1@od.nih.gov. phone number: 301-496-2433. francis s. collins, m.d., ph.d., was officially sworn in on...", 
+        "email_addr_list": [
+            "execsec1@od.nih.gov"
+        ], 
+        "cite_url": "www.hhs.gov/.../francis-...", 
+        "cite_name": "U.S. Department of Health and Human Services", 
+        "title": "Francis S. Collins | HHS.gov"
+    }
+]

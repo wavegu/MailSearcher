@@ -1,4 +1,12 @@
-oded@wisdom.weizmann.ac.il	[9]
-sofya@theory.lcs.mit.edu	[2]
-sofya@theory.lcs.mit.edu.user	[2]
-benny@cs.technion.ac.il	[1]
+[
+    {
+        "content": "oded goldreich ... oded@wisdom.weizmann.ac.il. ... for computer science, mit, 545 technology sq. cambridge, ma 02139. email: sofya@theory.lcs.mit.edu.", 
+        "email_addr_list": [
+            "oded@wisdom.weizmann.ac.il", 
+            "sofya@theory.lcs.mit.edu"
+        ], 
+        "cite_url": "www.cs.huji.ac.il/~salex/.../imp_mon.ps", 
+        "cite_name": "Hebrew University of Jerusalem", 
+        "title": "[PS]Improved Testing Algorithms for Monotonicity Yevgeniy ..."
+    }
+]

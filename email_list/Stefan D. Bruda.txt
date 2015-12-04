@@ -1,0 +1,30 @@
+[
+    {
+        "content": "may 9, 2012 - stefan d. bruda department of ... stefan@bruda.ca. my pgp public key is ... i consider html email and propriatery attachments harmful. bruda.", 
+        "email_list": [
+            "stefan@bruda.ca"
+        ], 
+        "cite_url": "https://bruda.ca/contact", 
+        "cite_name": "", 
+        "title": "Bruda.CA - Contact"
+    }, 
+    {
+        "content": "may 12, 2015 - best regards, stefan -- -- stefan d. bruda, phd professor of computer ... web: http://bruda.ca, email: stefan at bruda.ca pgp public key:...", 
+        "email_list": [
+            "stefan@bruda.ca"
+        ], 
+        "cite_url": "comments.gmane.org/gmane.os.apple.fink.general/39572", 
+        "cite_name": "", 
+        "title": "Unix software for Apple Macintosh general discussion"
+    }, 
+    {
+        "content": "jan 8, 2002 - from: stefan bruda bruda@cs.queensu.ca newsgroups: ... kingston, on k7l 3n6 canada email: bruda@cs.queensu.ca -- stefan d. bruda...", 
+        "email_list": [
+            "bruda@cs.queensu.ca", 
+            "bruda@cs.queensu.ca"
+        ], 
+        "cite_url": "people.cs.kuleuven.be/~dirk/ada-belgium/events/02/020617-hpcs.html", 
+        "cite_name": "", 
+        "title": "16th Annual International Symposium on High Performance ..."
+    }
+]

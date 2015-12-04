@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mail, andreas.butz@ifi.lmu.de ...... alois ferscha, rene mayrhofer, t. strang, claudia linnhoff-popien, anind k. dey, andreas butz, albrecht schmidt  advances...", 
+        "email_list": [
+            "andreas.butz@ifi.lmu.de"
+        ], 
+        "cite_url": "www.medien.ifi.lmu.de/team/andreas.butz/", 
+        "cite_name": "", 
+        "title": "Andreas Butz - Medieninformatik"
+    }, 
+    {
+        "content": "nikolaus t. butz. university of north dakota ... verified email at my.und.edu. scholar. get my own profile ... jj vitton, pl schultz, nt butz. journal of critical...", 
+        "email_list": [
+            "email@my.und.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=x_LshxIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nikolaus T. Butz - Google Scholar Citations"
+    }
+]

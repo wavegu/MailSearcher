@@ -1,0 +1,11 @@
+[
+    {
+        "content": "katsunori wakabayashi. 1) kwansei ... verified email at kwansei.ac.jp - homepage  scholar ... m fujita, k wakabayashi, k nakada, k kusakabe. journal of the...", 
+        "email_list": [
+            "email@kwansei.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=P_06lXYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Katsunori Wakabayashi - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "pennsylvania state university 307d ist building university park, pa 16802. 814/863-9462 814/865-6426 (fax) email: lzhang at ist dot psu dot edu. courses...", 
+        "email_list": [
+            "lzhang@ist.psu.edu"
+        ], 
+        "cite_url": "zhang.ist.psu.edu/people.html", 
+        "cite_name": "", 
+        "title": "Xiaolong (Luke) Zhang: Lab Members"
+    }
+]

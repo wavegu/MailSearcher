@@ -1,3 +1,38 @@
-peer.bork@embl.de	[17]
-bork@embl.de	[9]
-email at embl.de	[2]
+[
+    {
+        "content": "peer bork ( disclaimer ). (a more realistic picture of mine....) email: peer.bork@embl.de. personal data:german, born in berlin on may 4, 1963, married, two...", 
+        "email_addr_list": [
+            "peer.bork@embl.de"
+        ], 
+        "cite_url": "www.embl.de/~bork/", 
+        "cite_name": "EMBL ‑ European Molecular Biology Laboratory", 
+        "title": "Peer Bork - EMBL"
+    }, 
+    {
+        "content": "meyerhofstraße 1 69117 heidelberg phone: +49 6221 387-8361. opens window for sending email peer.bork@embl.de. opens external link in new window...", 
+        "email_addr_list": [
+            "peer.bork@embl.de"
+        ], 
+        "cite_url": "www.klinikum.uni-heidelberg.de/Faculty....", 
+        "cite_name": "University Hospital Heidelberg", 
+        "title": "UniversitätsKlinikum Heidelberg: Faculty"
+    }, 
+    {
+        "content": "verified email at embl.de - homepage ... j schultz, f milpetz, p bork, cp ponting ... c von mering, r krause, b snel, m cornell, sg oliver, s fields, p bork.", 
+        "email_addr_list": [
+            "email@embl.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=M6Etr6oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Peer Bork - Google Scholar Citations"
+    }, 
+    {
+        "content": "lars juhl jensen, jasmin saric  peer bork about the authors. top of page ... correspondence to: peer bork email: bork@embl.de. top of page...", 
+        "email_addr_list": [
+            "bork@embl.de"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Reviewwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Literature mining for the biologist: from information retrieval ...Google Business Email‎"
+    }
+]

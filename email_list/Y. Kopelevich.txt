@@ -1,0 +1,57 @@
+[
+    {
+        "content": "verified email at ifi.unicamp.br. scholar. get my own ... y kopelevich, jhs torres, rr da silva, f mrowka, h kempa, p esquinazi. physical review letters 90 (15),...", 
+        "email_list": [
+            "email@ifi.unicamp.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VtbzE6gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Robson Ricardo da Silva - Google Scholar Citations"
+    }, 
+    {
+        "content": "dec 11, 2007 - y. kopelevich,. e-mail address: kopel@ifi.unicamp.br. , instituto de física “gleb wataghin”, universidade estadual de campinas, unicamp...", 
+        "email_list": [
+            "kopel@ifi.unicamp.br"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/adma.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Graphene Physics in Graphite - Kopelevich - 2007 ..."
+    }, 
+    {
+        "content": "dec 23, 2010 - e-mail: lukyanc@ferroix.net ... (by y. kopelevich and i. lukyanchuk) nobel prize in physics 2010 was given for “groundbreaking experiments...", 
+        "email_list": [
+            "lukyanc@ferroix.net"
+        ], 
+        "cite_url": "www.lukyanc.net/news/untitledpost", 
+        "cite_name": "", 
+        "title": "Letter to the Nobel Committee - Igor Lukyanchuk"
+    }, 
+    {
+        "content": "may 29, 2002 - h. kempa, p. esquinazi, and y. kopelevich. phys. rev. b 65, 241101(r) ... *email address: esquin@physik.uni-leipzig.de. click to expand...", 
+        "email_list": [
+            "esquin@physik.uni-leipzig.de"
+        ], 
+        "cite_url": "link.aps.org/doi/10.../PhysRevB.65.241101", 
+        "cite_name": "American Physical Society", 
+        "title": "Field-induced metal-insulator transition in the c-axis ..."
+    }, 
+    {
+        "content": "aug 26, 2011 - e-mail: sfagan@unifra.br or solange.fagan@gmail.com ..... [3] a. f. garcía-flores, h. terashita, e. granado and y. kopelevich, phys. rev. b 79...", 
+        "email_list": [
+            "sfagan@unifra.br", 
+            "solange.fagan@gmail.com"
+        ], 
+        "cite_url": "www.abc.org.br/IMG/pdf/doc-801.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Untitled"
+    }, 
+    {
+        "content": "max kopelevich. send to a friend email; share facebook twitter; more sharethis. max kopelevich. email: mik@chem.ucla.edu. office: young hall, room...", 
+        "email_list": [
+            "mik@chem.ucla.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "BruinWalk : Max Kopelevich"
+    }
+]

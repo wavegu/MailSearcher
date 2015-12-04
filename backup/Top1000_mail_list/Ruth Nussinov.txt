@@ -1,5 +1,38 @@
-ruthnu@post.tau.ac.il	[10]
-ruthnu@tau.ac.il	[10]
-nussinor@helix.nih.gov	[3]
-amarda@gmu.edu	[2]
-email at post.tau.ac.il	[1]
+[
+    {
+        "content": "ruth nussinov. professor and senior ... verified email at post.tau.ac.il - homepage  scholar ... d schneidman-duhovny, y inbar, r nussinov, hj wolfson.", 
+        "email_addr_list": [
+            "email@post.tau.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=L3n3n8UAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ruth Nussinov - Google Scholar Citations"
+    }, 
+    {
+        "content": "nussinov ruth department: tel aviv university, ramat aviv, israel ... (972)-3-6409034. fax: (972)-3-6405168. email: ruthnu@post.tau.ac.il  personal", 
+        "email_addr_list": [
+            "ruthnu@post.tau.ac.il"
+        ], 
+        "cite_url": "www2.tau.ac.il/Person/medicine/researcher.asp?id...", 
+        "cite_name": "Tel Aviv University", 
+        "title": "Nussinov Ruth, , TAU"
+    }, 
+    {
+        "content": "room 103. tel: (972)-3-6407967 (972)-3-6409034. fax: (972)-3-6405168. email: ruthnu@tau.ac.il. postal address: human genetics sackler school of medicine", 
+        "email_addr_list": [
+            "ruthnu@tau.ac.il"
+        ], 
+        "cite_url": "www2.tau.ac.il/nano/researcher.asp?id=abhdjeigi", 
+        "cite_name": "Tel Aviv University", 
+        "title": "Researchers: Nussinov Ruth"
+    }, 
+    {
+        "content": "dr. ruth nussinov, e-mail: nussinor@helix.nih.gov. keywords: cancer treatment decisions, driver mutations, driver genes, redundant pathways, parallel...", 
+        "email_addr_list": [
+            "nussinor@helix.nih.gov"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 5, No 17  Nussinov", 
+        "cite_name": "", 
+        "title": "The structural basis for cancer treatment decisions | Nussinov"
+    }
+]

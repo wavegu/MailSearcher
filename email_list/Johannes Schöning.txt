@@ -1,0 +1,38 @@
+[
+    {
+        "content": "persoonlijke gegevens, identity. naam: prof. dr. johannes schoening. functie: docent. e-mail: johannes.schoening@uhasselt.be. faculteit: wetenschappen.", 
+        "email_list": [
+            "johannes.schoening@uhasselt.be"
+        ], 
+        "cite_url": "https://www.uhasselt.be/fiche?...johannes...schoenin...", 
+        "cite_name": "University of Hasselt", 
+        "title": "Johannes SCHOENING - Fiche"
+    }, 
+    {
+        "content": "johannes schöning. hasselt university ... verified email at acm.org - homepage  scholar ... j schöning, b hecht, m raubal, a krüger, m marsh, m rohs.", 
+        "email_list": [
+            "email@acm.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=kLVhCO0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Johannes Schöning - Google Scholar Citations"
+    }, 
+    {
+        "content": "visiting lecturer, university college london. email: johannes.schoening@uhasselt.be. johannes schöning is a professor of computer science with a focus on...", 
+        "email_list": [
+            "johannes.schoening@uhasselt.be"
+        ], 
+        "cite_url": "www.spatial.ucsb.edu/.../Schoning-bio.p...", 
+        "cite_name": "UCSB Center for Spatial Studies", 
+        "title": "[PDF]Bio - spatial@ucsb"
+    }, 
+    {
+        "content": "personal homepage: http://www.johannesschoening.de/website/johannes_schoning.html; employer: (); email: johannes.schoening@gmail.com...", 
+        "email_list": [
+            "johannes.schoening@gmail.com"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/johannes-schoning", 
+        "cite_name": "", 
+        "title": "Johannes Schoning: Publications, bio, bibliography, etc ..."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "cancel. alireza bab-hadiashar ... verified email at rmit.edu.au - homepage  scholar ... ra russell, a bab-hadiashar, rl shepherd, gg wallace. robotics and...", 
+        "email_list": [
+            "email@rmit.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=A...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Alireza Bab-Hadiashar - Google Scholar Citations"
+    }, 
+    {
+        "content": "professor alireza bab-hadiashar. share. share; tweet  email. { name ... email: abh@rmit.edu.au. campus: melbourne city campus. contact me about:...", 
+        "email_list": [
+            "abh@rmit.edu.au"
+        ], 
+        "cite_url": "https://www.rmit.edu.au/.../bab-hadiashar-professor-alir...", 
+        "cite_name": "RMIT University", 
+        "title": "Professor Alireza Bab-Hadiashar - RMIT University"
+    }, 
+    {
+        "content": "position. professor. school / work unit. aerosp mech  manuf eng. contact details. +61 3 9925 6192. abh@rmit.edu.au. location. building: 57. level: 3", 
+        "email_list": [
+            "abh@rmit.edu.au"
+        ], 
+        "cite_url": "www1.rmit.edu.au/staff/alireza-bab-hadiashar", 
+        "cite_name": "RMIT University", 
+        "title": "Bab-Hadiashar, Professor. Alireza - RMIT University"
+    }, 
+    {
+        "content": "reza hoseinnezhad and alireza bab-hadiashar abstract in electromechanical ... rmit university, melbourne, victoria, australia e-mail: rezah@rmit.edu.au;...", 
+        "email_list": [
+            "rezah@rmit.edu.au"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1461414695", 
+        "cite_name": "", 
+        "title": "Nonlinear Approaches in Engineering Applications"
+    }, 
+    {
+        "content": "aug 1, 1998 - e-mail: ali.bab-hadiashar@eng.monash.edu.au, dav ... david suter  intelligent robotics .... view colleagues of alireza bab-hadiashar...", 
+        "email_list": [
+            "ali.bab-hadiashar@eng.monash.edu.au"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=296203", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Robust Optic Flow Computation - ACM Digital Library"
+    }
+]

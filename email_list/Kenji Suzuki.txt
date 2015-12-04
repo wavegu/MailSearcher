@@ -1,0 +1,49 @@
+[
+    {
+        "content": "kenji suzuki: current contact information and listing of economic research of this author ... email: kenjisuz@meiji.ac.jp ... suzuki, kenji  tanimoto, kanji, 2005.", 
+        "email_list": [
+            "kenjisuz@meiji.ac.jp"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/psu71.html", 
+        "cite_name": "", 
+        "title": "Kenji Suzuki at IDEAS"
+    }, 
+    {
+        "content": "email: ksuzuki@iit.edu ... kenji suzuki joined department of electrical and computer engineering and medical imaging research center, illinois institute of...", 
+        "email_list": [
+            "ksuzuki@iit.edu"
+        ], 
+        "cite_url": "https://engineering.iit.edu/faculty/kenji-suzuki", 
+        "cite_name": "", 
+        "title": "Kenji Suzuki, Ph.D. | IIT Armour College of Engineering ..."
+    }, 
+    {
+        "content": "kenji suzuki, ph.d. section of imaging sciences. department of radiology ... e-mail: k-suzuki [at] aoi.bsd.uchicago.edu. e-mail: kenjisuzuki00 [at] gmail.com...", 
+        "email_list": [
+            "k-suzuki@aoi.bsd.uchicago.edu", 
+            "kenjisuzuki00@gmail.com"
+        ], 
+        "cite_url": "suzukilab.uchicago.edu/contact.htm", 
+        "cite_name": "", 
+        "title": "Contact Us - Kenji Suzuki - The University of Chicago"
+    }, 
+    {
+        "content": "e-mail: vblechin@zedat.fu-berlin.de .... email: c.w.hughes@warwick.ac.uk ..... kenji suzuki is associate professor at school of global japanese studies, meiji...", 
+        "email_list": [
+            "vblechin@zedat.fu-berlin.de", 
+            "c.w.hughes@warwick.ac.uk"
+        ], 
+        "cite_url": "https://www.hhs.se/en/.../eijs/.../members...", 
+        "cite_name": "Stockholm School of Economics", 
+        "title": "Members - Stockholm School of Economics"
+    }, 
+    {
+        "content": "cancel. kenji suzuki ... verified email at iit.edu - homepage  scholar ... h arimura, s katsuragawa, k suzuki, f li, j shiraishi, s sone, k doi. academic...", 
+        "email_list": [
+            "email@iit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MdNb8Z0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kenji Suzuki - Google Scholar Citations"
+    }
+]

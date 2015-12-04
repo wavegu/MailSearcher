@@ -1,0 +1,47 @@
+[
+    {
+        "content": "cancel. eddie denessen ... onderwijskunde. verified email at pwo.ru.nl. scholar ... l van den bergh, e denessen, l hornstra, m voeten, rw holland. american...", 
+        "email_list": [
+            "email@pwo.ru.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OojPCnoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Eddie Denessen - Google Scholar Citations"
+    }, 
+    {
+        "content": "feb 26, 2015 - eddie denessen, geert driessen  peter sleegers (2005) jep segregation by choice? a study of ... email: e.denessen@pwo.ru.nl; 2. 348 e.", 
+        "email_list": [
+            "e.denessen@pwo.ru.nl"
+        ], 
+        "cite_url": "www.slideshare.net/.../jep05-denessendriessensleegerssegregationbychoic...", 
+        "cite_name": "", 
+        "title": "Eddie Denessen, Geert Driessen amp; Peter Sleegers ..."
+    }, 
+    {
+        "content": "eddie denessen. radboud university ... lisette hornstra is a phd candidate at the university of amsterdam, the netherlands; e-mail: t.e.hornstra@uva.nl.", 
+        "email_list": [
+            "t.e.hornstra@uva.nl"
+        ], 
+        "cite_url": "aer.sagepub.com/content/47/2/497.abstract", 
+        "cite_name": "Sage Publications", 
+        "title": "The Implicit Prejudiced Attitudes of Teachers"
+    }, 
+    {
+        "content": "be addressed to eddie denessen, e-mail: e.denessen@pwo.ru.nl crucial for teachers to create strong links with parents and to enable parental involvement at.", 
+        "email_list": [
+            "e.denessen@pwo.ru.nl"
+        ], 
+        "cite_url": "www.ernape.net/ejournal/index.php/IJPE/article/viewFile/82/60", 
+        "cite_name": "", 
+        "title": "[PDF]Denessen, E, Bakker, J, Kloppenburg, L, Kerkhof, M ..."
+    }, 
+    {
+        "content": "... should be addressed to eddie denessen p. o. box 9104 radboud university nijmegen 6500 he nijmegen the netherlands or e-mail e.denessen@pwo.ru.nl...", 
+        "email_list": [
+            "e.denessen@pwo.ru.nl"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-denessen-pwo-ru-nl-4206195.htm", 
+        "cite_name": "", 
+        "title": "denessen@pwo.ru.nl - The Email Archive"
+    }
+]

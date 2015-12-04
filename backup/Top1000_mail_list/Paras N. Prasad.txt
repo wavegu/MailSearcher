@@ -1,3 +1,20 @@
-pnprasad@buffalo.edu	[15]
-pnprasad@buffalo.edu.paras	[15]
-email at buffalo.edu	[1]
+[
+    {
+        "content": "paras n. prasad ... e-mail: pnprasad@buffalo.edu ... i. klejbor, e. k. stachowiak, p. dutta, i. roy, n. kaur, e. j. bergey, p. n. prasad and m. k. stachowiak, natl.", 
+        "email_addr_list": [
+            "pnprasad@buffalo.edu"
+        ], 
+        "cite_url": "chemistry.buffalo.edu/people/prasad/", 
+        "cite_name": "University at Buffalo", 
+        "title": "Paras N. Prasad - Department of Chemistry - University at ..."
+    }, 
+    {
+        "content": "paras n. prasad. institute for lasers, photonics ... verified email at buffalo.edu - homepage  scholar ... gs he, ls tan, q zheng, pn prasad. chemical reviews...", 
+        "email_addr_list": [
+            "email@buffalo.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WlZqdokAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Paras N. Prasad - Google Scholar Citations"
+    }
+]

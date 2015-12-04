@@ -1,0 +1,40 @@
+[
+    {
+        "content": "... policy gradients. daan wierstraa,∗, alexander förstera, jan petersb ... email addresses: daan@idsia.ch (daan wierstra), alexander@idsia.ch. (alexander...", 
+        "email_list": [
+            "daan@idsia.ch", 
+            "alexander@idsia.ch"
+        ], 
+        "cite_url": "www.idsia.ch/~da...", 
+        "cite_name": "Dalle Molle Institute for Artificial Intelligence Research", 
+        "title": "[PDF]Recurrent Policy Gradients - Idsia"
+    }, 
+    {
+        "content": "email: vmnih at cs dot toronto dot edu ... beattie, amir sadik, ioannis antonoglou, helen king, dharshan kumaran, daan wierstra, shane legg, demis hassabis.", 
+        "email_list": [
+            "vmnih@cs.toronto.edu"
+        ], 
+        "cite_url": "https://www.cs.toronto.edu/~vmnih/", 
+        "cite_name": "", 
+        "title": "Vlad Mnih"
+    }, 
+    {
+        "content": "daan@deepmind.com ... mail@jan-peters.net ... c 2014 daan wierstra, tom schaul, tobias glasmachers, yi sun, jan peters and jürgen schmidhuber.", 
+        "email_list": [
+            "daan@deepmind.com", 
+            "mail@jan-peters.net"
+        ], 
+        "cite_url": "www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Natural Evolution Strategies - Journal of Machine Learning ..."
+    }, 
+    {
+        "content": "my email address is c.blundell@gatsby.ucl.ac.uk. with excellent ... karol gregor, ivo danihelka, andriy mnih, charles blundell, daan wierstra. icml 2014.", 
+        "email_list": [
+            "c.blundell@gatsby.ucl.ac.uk"
+        ], 
+        "cite_url": "www.gatsby.ucl.ac.uk/~ucgtcbl/", 
+        "cite_name": "University College London", 
+        "title": "Charles Blundell"
+    }
+]

@@ -1,2 +1,11 @@
-ei.dcu@sniggih.sed	[2]
-ei.dcu@sreveis.naibaf	[2]
+[
+    {
+        "content": "professor desmond gerard higgins b.a.(mod), phd. ▽. ◁. ▷. home [x] ... conway institute belfield dublin 4. telephone: ext. 6833. email: ei.dcu@sniggih.sed...", 
+        "email_addr_list": [
+            "ei.dcu@sniggih.sed"
+        ], 
+        "cite_url": "www.ucd.ie  ...  Conway Fellows (A-Z)", 
+        "cite_name": "University College Dublin", 
+        "title": "Professor Des Higgins | UCD Conway"
+    }
+]

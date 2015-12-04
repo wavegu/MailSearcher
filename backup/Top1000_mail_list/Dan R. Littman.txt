@@ -1,7 +1,75 @@
-dan.littman@med.nyu.edu	[21]
-dan.littman@med.nyu.edu.runx	[21]
-lsherman@scripps.eduthis	[3]
-jeff.blenker@med.nyu.edu	[3]
-email at med.nyu.edu	[3]
-infoaai@aai.org	[1]
-taniuchi@rcai.riken.jp	[1]
+[
+    {
+        "content": "e-mail: dan.littman@med.nyu.edu ... email: jeff.blenker@med.nyu.edu ... kirigin fk, birchmeier c, wagner ef, murphy km, myers rm, bonneau r, littman dr.", 
+        "email_addr_list": [
+            "dan.littman@med.nyu.edu", 
+            "jeff.blenker@med.nyu.edu"
+        ], 
+        "cite_url": "skirball.med.nyu.edu/faculty/.../dan-r-littm...", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Dan R. Littman - Skirball Institute of Biomolecular Medicine"
+    }, 
+    {
+        "content": "contact info. phone: 212/263-7579. email: dan.littman@med.nyu.edu. web: hhmi research in progress  littman lab, skirball institute. research; publications...", 
+        "email_addr_list": [
+            "dan.littman@med.nyu.edu"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/littmd01", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Dan Rudolf Littman | NYU School of Medicine"
+    }, 
+    {
+        "content": "dan r. littman, md, phd. dan r ... e-mail: dan.littman@med.nyu.edu. lab website: http://saturn.med.nyu.edu/research/mp/littmanlab/index.html. research...", 
+        "email_addr_list": [
+            "dan.littman@med.nyu.edu"
+        ], 
+        "cite_url": "kimmelstem.med.nyu.edu/dan-r-littman", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Dan R. Littman, MD, PhD | The Helen L. and Martin S ..."
+    }, 
+    {
+        "content": "email: lsherman@scripps.eduthis e-mail address is being protected from spambots. you need javascript ... dan r. littman, m.d., ph.d. on council since 2010", 
+        "email_addr_list": [
+            "lsherman@scripps.eduthis"
+        ], 
+        "cite_url": "www.iuisonline.org/index.php?option=com_content...", 
+        "cite_name": "", 
+        "title": "United States of America"
+    }, 
+    {
+        "content": "dan littman. nyu langone ... verified email at med.nyu.edu - homepage ... hk deng, r liu, w ellmeier, s choe, d unutmaz, m burkhart, pd marzio, ... nature...", 
+        "email_addr_list": [
+            "email@med.nyu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=k_88WOoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dan Littman - Google Scholar Citations"
+    }, 
+    {
+        "content": "president: dan r. littman, m.d., ph.d., hhmi/skirball institute of biomolecular medicine, new york, ... email: infoaai@aai.org | website feedback: aai webmaster.", 
+        "email_addr_list": [
+            "infoaai@aai.org"
+        ], 
+        "cite_url": "https://aai.org/About/", 
+        "cite_name": "American Association of Immunologists", 
+        "title": "About AAI - The American Association of Immunologists"
+    }, 
+    {
+        "content": "amélie collins, dan r. littman  ichiro taniuchi about the authors. top of page ... correspondence to: dan r. littman email: dan.littman@med.nyu.edu.", 
+        "email_addr_list": [
+            "dan.littman@med.nyu.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "RUNX proteins in transcription factor networks that ... - Nature"
+    }, 
+    {
+        "content": "amélie collins, dan r. littman  ichiro taniuchi about the authors ... correspondence to: ichiro taniuchi email: taniuchi@rcai.riken.jp. top of page...", 
+        "email_addr_list": [
+            "taniuchi@rcai.riken.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review  Full textwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "RUNX proteins in transcription factor networks that regulate ...Google Business Email‎"
+    }
+]

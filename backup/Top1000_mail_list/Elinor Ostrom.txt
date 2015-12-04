@@ -1,1 +1,11 @@
-email at asu.edu	[2]
+[
+    {
+        "content": "verified email at asu.edu - homepage  scholar. get my own ... elinor ostrom, understanding institutional diversity ... e ostrom, r gardner, j walker. university...", 
+        "email_addr_list": [
+            "email@asu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RKN66-kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Elinor Ostrom - Google Scholar Citations"
+    }
+]

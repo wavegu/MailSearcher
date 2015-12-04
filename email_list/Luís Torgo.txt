@@ -1,0 +1,21 @@
+[
+    {
+        "content": "luís torgo. associate professor ... verified email at fc.up.pt - homepage  scholar. get my own ... m herrera, l torgo, j izquierdo, r pérez-garcía. journal of...", 
+        "email_list": [
+            "email@fc.up.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2vyIvbsAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Luís Torgo - Google Scholar Citations"
+    }, 
+    {
+        "content": "search-based class discretization luis torgo joao gama email : ltorgo@ncc.up.pt email : jgama@ncc.up.pt liacc - university of porto r. campo alegre, 823...", 
+        "email_list": [
+            "ltorgo@ncc.up.pt", 
+            "jgama@ncc.up.pt"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540628584", 
+        "cite_name": "", 
+        "title": "Machine Learning: ECML'97: 9th European Conference on ..."
+    }
+]

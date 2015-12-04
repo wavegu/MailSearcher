@@ -1,0 +1,48 @@
+[
+    {
+        "content": "dr alan j. barrett wellcome trust genome campus wellcome trust sanger institute hinxton, cambs cb10 1sa, uk email: alan.barrett@sanger.ac.uk. tel: fax:", 
+        "email_list": [
+            "alan.barrett@sanger.ac.uk"
+        ], 
+        "cite_url": "www.protease.net/index.php?id=9cid=826pid=224", 
+        "cite_name": "", 
+        "title": "Alan J. Barrett - International Protease Network - People"
+    }, 
+    {
+        "content": "alan.j.barrett@gmail.com is owned by alan barrett (alskis art). find domain names registred with alan.j.barrett@gmail.com. try our reverse whois search tool to...", 
+        "email_list": [
+            "alan.j.barrett@gmail.com", 
+            "alan.j.barrett@gmail.com"
+        ], 
+        "cite_url": "domainbigdata.com/email/alan.j.barrett@gmail.com", 
+        "cite_name": "", 
+        "title": "Alan.j.barrett@gmail.com - Reverse Whois"
+    }, 
+    {
+        "content": "dr. alan j. barrett. fellow. , cambridge, cambridgeshire ... united kingdom. phone: +44 1223 4966 35. fax: +44 1223 496 023. email: alan.barrett@bbsrc.ac.uk...", 
+        "email_list": [
+            "alan.barrett@bbsrc.ac.uk"
+        ], 
+        "cite_url": "www.iupac.org/.../me...", 
+        "cite_name": "International Union of Pure and Applied Chemistry", 
+        "title": "Barrett - IUPAC - International Union of Pure and Applied ..."
+    }, 
+    {
+        "content": "suffix: repec short-id: pba425. email: alan.barrett@esri.ie ... barrett, alan  mosca, irene  whelan, brendan j., 2013. (lack of) pension knowledge, iza...", 
+        "email_list": [
+            "alan.barrett@esri.ie"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pba425.html", 
+        "cite_name": "", 
+        "title": "Alan Barrett at IDEAS"
+    }, 
+    {
+        "content": "alan barrett. economic and social reseach ... verified email at esri.ie. scholar. get my own profile ... a barrett, j fitzgerald, b nolan. labour economics 9 (5),...", 
+        "email_list": [
+            "email@esri.ie"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=IDoPm-oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alan Barrett - Google Scholar Citations"
+    }
+]

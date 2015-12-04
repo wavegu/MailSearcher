@@ -1,0 +1,48 @@
+[
+    {
+        "content": "e-mail: provost@uq.edu.au. office ... email: a.voigt@uq.edu.au. areas of responsibility. professor g.q. max lu is the standing deputy to the vice-chancellor and...", 
+        "email_list": [
+            "provost@uq.edu.au", 
+            "a.voigt@uq.edu.au"
+        ], 
+        "cite_url": "www.uq.edu.au/about/provost", 
+        "cite_name": "University of Queensland", 
+        "title": "Professor G.Q. Max Lu, Provost and Senior Vice-President ..."
+    }, 
+    {
+        "content": "phone: +61 (7) 3365 9044. e-mail: dvc.research@uq.edu.au. office: level 3, brian wilson chancellery. post: the university of queensland brisbane, qld 4072...", 
+        "email_list": [
+            "dvc.research@uq.edu.au"
+        ], 
+        "cite_url": "www.uq.edu.au/about/dvc-research", 
+        "cite_name": "University of Queensland", 
+        "title": "Professor Robyn Ward AM, Deputy Vice-Chancellor ..."
+    }, 
+    {
+        "content": "aug 18, 2015 - 920 n. 17th street kansas state university manhattan, ks 66506-2904. phone: 785-532-6727. fax: 785-532-7310. email: geog@k-state.edu...", 
+        "email_list": [
+            "geog@k-state.edu"
+        ], 
+        "cite_url": "https://www.k-state.edu/geography/.../maxlu.html", 
+        "cite_name": "Kansas State University", 
+        "title": "Max Lu - Kansas State University"
+    }, 
+    {
+        "content": "there are two storage rings at the max iv laboratory. the smaller ring has an electron energy of 1500 .... tel: +46 (0)46 222 98 72. mail: maxlab@maxlab.lu.se.", 
+        "email_list": [
+            "maxlab@maxlab.lu.se"
+        ], 
+        "cite_url": "https://www.maxlab.lu.se/maxiv", 
+        "cite_name": "MAX‑lab, Lund University, Sweden", 
+        "title": "MAX IV | MAX IV Laboratory"
+    }, 
+    {
+        "content": "phone and e-mail addresses. phone (reception desk): +46-(0)46-222 98 72. phone (lund university): +46-(0)46-222 00 00. e-mail: maxlab@maxlab.lu.se...", 
+        "email_list": [
+            "maxlab@maxlab.lu.se"
+        ], 
+        "cite_url": "https://www.maxlab.lu.se/contact", 
+        "cite_name": "MAX‑lab, Lund University, Sweden", 
+        "title": "Contact | MAX IV Laboratory"
+    }
+]

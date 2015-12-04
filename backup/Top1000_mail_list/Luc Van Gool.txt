@@ -1,4 +1,29 @@
-vangool@vision.ee.ethz.ch	[16]
-vangool@vision.ee.ethz.luc	[16]
-vangool@vision.ee.ethz	[16]
-email at esat.kuleuven.be	[3]
+[
+    {
+        "content": "sternwartstrasse 7. eth zentrum ch - 8092 zürich, switzerland. tel: +41 44 63 26578. fax: +41 44 63 21199. office: etf c117 e-mail: vangool@vision.ee.ethz.", 
+        "email_addr_list": [
+            "vangool@vision.ee.ethz"
+        ], 
+        "cite_url": "https://www.vision.ee.ethz.ch/members/get_member.cgi?id...", 
+        "cite_name": "ETH Zurich", 
+        "title": "Luc Van Gool - ETHZ - Computer Vision Lab: Members"
+    }, 
+    {
+        "content": "luc van gool. professor computer ... verified email at esat.kuleuven.be. scholar ... m everingham, l van gool, cki williams, j winn, a zisserman. international...", 
+        "email_addr_list": [
+            "email@esat.kuleuven.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TwMib_QAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Luc Van Gool - Google Scholar Citations"
+    }, 
+    {
+        "content": "first name(s): luc. last name(s): van gool. email: vangool@vision.ee.ethz.ch. institute: eth zurich. publications of luc van gool. 2013. learning to learn new...", 
+        "email_addr_list": [
+            "vangool@vision.ee.ethz.ch"
+        ], 
+        "cite_url": "publications.idiap.ch/index.php/authors/.../997", 
+        "cite_name": "Idiap Research Institute", 
+        "title": "Luc Van Gool - Idiap Publications"
+    }
+]

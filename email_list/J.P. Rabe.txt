@@ -1,0 +1,57 @@
+[
+    {
+        "content": "verified email at liv.ac.uk - homepage  scholar. get my own profile ... p samorí, a fechtenkötter, f jäckel, t böhme, k müllen, jp rabe. journal of the american...", 
+        "email_list": [
+            "email@liv.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=m1SdlaEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Frank Jaeckel - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: ddavis@hopkinscountytx.org. county attorney dusty rabe phone: (903) 438-4017 128 jefferson, suite b sulphur springs, tx 75482. county...", 
+        "email_list": [
+            "ddavis@hopkinscountytx.org"
+        ], 
+        "cite_url": "www.hopkinscountytx.org/default.aspx?Hopkins_County/...", 
+        "cite_name": "", 
+        "title": "County Phone Numbers - Hopkins County"
+    }, 
+    {
+        "content": "jun 22, 2015 - email: slawomir.braun at liu.se .... p. samorí, s. k. m. jönsson, m. fahlman, f. jäckel, j. p. rabe, j. hellberg, k. müllen, w. r. salaneck, synth.", 
+        "email_list": [
+            "slawomir.braun@liu.se"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Linköping University", 
+        "title": "Slawomir Braun: Division Members: IFM: Linköping University"
+    }, 
+    {
+        "content": "273 to 281 fax : (632) 832-3066 (632) 527-8733 (632) 527- 8732 email : yasps@yusen.co.jp; yaspm@yusen.co.jp contact person: atty. ... contact person: jerry stehmeier - president; raul ch. rabe - chairman of the board; emmanuel l.", 
+        "email_list": [
+            "yasps@yusen.co.jp", 
+            "yaspm@yusen.co.jp"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1433039796", 
+        "cite_name": "", 
+        "title": "Philippines Government and Business Contacts Handbook"
+    }, 
+    {
+        "content": "email anne.millman@papworth.nhs.uk. specialties respiratory medicine ... buttery rc , van meerbeeck jp, rabe kf, annema jt (2009). ebus-tbna for the...", 
+        "email_list": [
+            "anne.millman@papworth.nhs.uk"
+        ], 
+        "cite_url": "www.papworthhospital.nhs.uk/content.php?/about/...", 
+        "cite_name": "Papworth Hospital", 
+        "title": "Papworth Hospital | Dr Robert Buttery"
+    }, 
+    {
+        "content": "hough, loren. assistant professor. email: hough@colorado.edu. telephone: ... j. zasadzinski, g. heppke, j. p. rabe, w. stocker, e. krblova, d. m. walba, m. a....", 
+        "email_list": [
+            "hough@colorado.edu"
+        ], 
+        "cite_url": "phys.colorado.edu/people/hough-loren", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Hough, Loren | Physics"
+    }
+]

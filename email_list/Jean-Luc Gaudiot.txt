@@ -1,0 +1,23 @@
+[
+    {
+        "content": "email gaudiot@uci.edu. phone (949) 824-9748. fax (949) 824-3779. address. the henry samueli school of engineering university of california, irvine irvine...", 
+        "email_list": [
+            "gaudiot@uci.edu"
+        ], 
+        "cite_url": "www.eng.uci.edu/.../jean-luc-gaud...", 
+        "cite_name": "Henry Samueli School of Engineering", 
+        "title": "Jean-Luc Gaudiot - Henry Samueli School of Engineering"
+    }, 
+    {
+        "content": ".cerin@computer.org email: hjin@hust.edu.cn url: ... utard@ens-lyon.fr jean-luc gaudiot (uci/los angeles) email: gaudiot@uci.edu franck cappello...", 
+        "email_list": [
+            "cerin@computer.org", 
+            "hjin@hust.edu.cn", 
+            "utard@ens-lyon.fr", 
+            "gaudiot@uci.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-gaudiot-uci-edu-15018132.htm", 
+        "cite_name": "", 
+        "title": "gaudiot@uci.edu - The Email Archive"
+    }
+]

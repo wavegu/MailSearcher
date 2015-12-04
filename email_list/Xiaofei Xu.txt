@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. dr. xiaofei xu. soochow university ... verified email at suda.edu.cn. scholar. get my own ... x xu, de cristancho, s costeux, zg wang. the journal of...", 
+        "email_list": [
+            "email@suda.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eXbfq7QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dr. Xiaofei Xu - Google Scholar Citations"
+    }, 
+    {
+        "content": "徐晓飞教授（professor xu xiaofei）. 电话：, +86-451-8641 8566. 传真：, +86-451-8641 8566. e-mail：, xiaofei@hit.edu.cn. 通信. 地址：. 哈尔滨工业大学校办.", 
+        "email_list": [
+            "xiaofei@hit.edu.cn"
+        ], 
+        "cite_url": "homepage.hit.edu.cn/pages/xuxiaofei", 
+        "cite_name": "", 
+        "title": "徐晓飞 - 哈尔滨工业大学个人主页"
+    }, 
+    {
+        "content": "email: xianzhi.wang@adelaide.edu.au. tel: +61 451 261 008 ... xianzhi wang, quan z. sheng, xiu susie fang, lina yao, xiaofei xu, xue li. an integrated...", 
+        "email_list": [
+            "xianzhi.wang@adelaide.edu.au"
+        ], 
+        "cite_url": "xianzhiwang.weebly.com/", 
+        "cite_name": "", 
+        "title": "Xianzhi Wang - Xianzhi Wangs Homepage"
+    }
+]

@@ -1,3 +1,38 @@
-weil@brown.edu	[9]
-info@nber.orgnber	[2]
-info@nber.org	[2]
+[
+    {
+        "content": "first name: david. middle name: n. last name: weil. suffix: repec short-id: pwe24. email: david_weil@brown.edu. homepage: postal address: department...", 
+        "email_addr_list": [
+            "david_weil@brown.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pwe24.html", 
+        "cite_name": "", 
+        "title": "David N. Weil at IDEAS"
+    }, 
+    {
+        "content": "david weil david n. weil. professor of economics. brown university. e-mail: david_weil@brown.edu. box b, brown university providence, ri 02912 usa", 
+        "email_addr_list": [
+            "david_weil@brown.edu"
+        ], 
+        "cite_url": "www.econ.brown.edu/faculty/David_Weil/", 
+        "cite_name": "Brown University", 
+        "title": "David Weil - Brown University"
+    }, 
+    {
+        "content": "david_weil@brown.edu email icon. david n. weil james and meryl tisch professor of economics. david weil, professor of economics, is an alumnus of brown (a.b., history, 1982). he returned to brown as an assistant professor in 1990,...", 
+        "email_addr_list": [
+            "david_weil@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/display/dweil", 
+        "cite_name": "", 
+        "title": "Weil, David - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "david n. weil ... this paper is available as pdf (82 k) or via email. ... 1050 massachusetts ave., cambridge, ma 02138; 617-868-3900; email: info@nber.org", 
+        "email_addr_list": [
+            "info@nber.org"
+        ], 
+        "cite_url": "www.nber.org/papers/w20919", 
+        "cite_name": "National Bureau of Economic Research", 
+        "title": "Capital and Wealth in the 21st Century"
+    }
+]

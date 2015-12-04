@@ -1,3 +1,29 @@
-email at microsoft.com	[3]
-info@maltzauctions.com	[1]
-corson@isr.umd.edu	[1]
+[
+    {
+        "content": "create alert. cancel. david a. maltz ... verified email at microsoft.com - homepage  scholar ... j broch, da maltz, db johnson, yc hu, j jetcheva. proceedings...", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-YmsnYMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David A. Maltz - Google Scholar Citations"
+    }, 
+    {
+        "content": "1.516.349.7022 |info@maltzauctions.com. maltz auctions. join our email list! sign up now to ... david a. constantino, auctioneer dca# 1424944. richard b.", 
+        "email_addr_list": [
+            "info@maltzauctions.com"
+        ], 
+        "cite_url": "www.maltzauctions.com/auction/202483/200-flood-damaged-vehicles", 
+        "cite_name": "", 
+        "title": "Maltz Auctions – 200+ FLOOD DAMAGED VEHICLES"
+    }, 
+    {
+        "content": "... internet-draft yih-chun hu carnegie mellon university david a. maltz .... research email: corson@isr.umd.edu university of maryland college park,...", 
+        "email_addr_list": [
+            "corson@isr.umd.edu"
+        ], 
+        "cite_url": "https://tools.ietf.org/.../draft-ietf-manet-si...www.google.com/email", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "draft-ietf-manet-simple-mbcast-01 - A Simple Protocol for ...Google Business Email - Custom email for your company‎Searches related to David A. Maltz email"
+    }
+]

@@ -1,1 +1,11 @@
-ang@cs.stanford.edu	[6]
+[
+    {
+        "content": "andrew ng. home ... andrew y. ng computer science department ... email: ang@cs.stanford.edu (if contacting me about cs229 or cs229a, please see below).", 
+        "email_addr_list": [
+            "ang@cs.stanford.edu"
+        ], 
+        "cite_url": "ai.stanford.edu/~ang/contact.html", 
+        "cite_name": "Stanford AI Lab", 
+        "title": "Andrew Ng - Contact information - Stanford AI Lab"
+    }
+]

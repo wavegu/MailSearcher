@@ -1,1 +1,11 @@
-email at walton.uark.edu	[3]
+[
+    {
+        "content": "fred d davis. distinguished professor of ... verified email at walton.uark.edu. scholar. get my own ... fd davis, rp bagozzi, pr warshaw. management science...", 
+        "email_addr_list": [
+            "email@walton.uark.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=oXyWrfcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Fred D Davis - Google Scholar Citations"
+    }
+]

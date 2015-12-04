@@ -1,1 +1,11 @@
-simont@hmgc.mcw.edu	[1]
+[
+    {
+        "content": "donna karolchik and jim kent are at the university of california, santa cruz, 1156 high ... correspondence to: simon n twigger e-mail: simont@hmgc.mcw.edu...", 
+        "email_addr_list": [
+            "simont@hmgc.mcw.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Commentary", 
+        "cite_name": "Nature", 
+        "title": "What everybody should know about the rat genome and its ..."
+    }
+]

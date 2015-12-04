@@ -1,2 +1,20 @@
-rdz@cs.cornell.edu	[3]
-email at cs.cornell.edu	[2]
+[
+    {
+        "content": "ramin zabih. rz13-profile.jpg. ramin zabih; dept: computer science; title: professor; address: 111 8th ave, new york, ny 10011; email: rdz@cs.cornell.edu...", 
+        "email_addr_list": [
+            "rdz@cs.cornell.edu"
+        ], 
+        "cite_url": "https://www.engineering.corne...", 
+        "cite_name": "Cornell University College of Engineering", 
+        "title": "Ramin Zabih - Cornell Engineering: Faculty Profile"
+    }, 
+    {
+        "content": "ramin zabih. professor of ... verified email at cs.cornell.edu - homepage  scholar ... r szeliski, r zabih, d scharstein, o veksler, v kolmogorov, a agarwala, .", 
+        "email_addr_list": [
+            "email@cs.cornell.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8Lp0W54AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ramin Zabih - Google Scholar Citations"
+    }
+]

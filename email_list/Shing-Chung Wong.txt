@@ -1,0 +1,56 @@
+[
+    {
+        "content": "shing-chung josh wong. professor of ... verified email at uakron.edu - homepage  scholar ... a baji, yw mai, sc wong, m abtahi, p chen. composites...", 
+        "email_list": [
+            "email@uakron.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=L_IkR24AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shing-Chung Josh Wong - Google Scholar Citations"
+    }, 
+    {
+        "content": "shing-chung “josh” wong, phd, f.spe, f.asme ... email: swong@uakron.edu .... interdisciplinary committee members: dr. shing-chung wong (mechanical...", 
+        "email_list": [
+            "swong@uakron.edu"
+        ], 
+        "cite_url": "https://www.uakron.edu/.../CV%20of%20S-C%20W...", 
+        "cite_name": "University of Akron", 
+        "title": "[PDF]Shing-Chung Wong (Josh) - University of Akron"
+    }, 
+    {
+        "content": "dec 16, 2010 - shing-chung josh wong. department of mechanical engineering. university of akron, akron oh 44325-3903. email: swong@uakron.edu.", 
+        "email_list": [
+            "swong@uakron.edu"
+        ], 
+        "cite_url": "sydney.edu.au/camt/.../CV_Shing-Chung_Wong.pd...", 
+        "cite_name": "University of Sydney", 
+        "title": "[PDF]Shing-Chung Wong (Josh) - The University of Sydney"
+    }, 
+    {
+        "content": "dr. shing-chung josh wong professor 59 auburn science and engineering crt. akron, ohio 44325 330-972-8275 swong@uakron.eduthis email address is...", 
+        "email_list": [
+            "swong@uakron.eduthis"
+        ], 
+        "cite_url": "centire.org/akron-staff/105-dr-shing-chung-josh-wong", 
+        "cite_name": "", 
+        "title": "Dr. Shing-Chung Josh Wong - Center for Tire Research"
+    }, 
+    {
+        "content": "dr. shing-chung josh wong professor 59 auburn science and engineering crt. akron, ohio 44325 330-972-8275 swong@uakron.eduthis email address is...", 
+        "email_list": [
+            "swong@uakron.eduthis"
+        ], 
+        "cite_url": "www.centire.org/about-centire/people/university-of-akron-faculty", 
+        "cite_name": "", 
+        "title": "University of Akron - Center for Tire Research"
+    }, 
+    {
+        "content": "姓名, 王興宗. office_hour. 聯絡電話, 5712121ext.56320. 傳真, 03-5716631. e-mail, scwang@mail.nctu.edu.tw. 個人網站, 連結. 實驗室網址. 個人著作參考網址.", 
+        "email_list": [
+            "scwang@mail.nctu.edu.tw"
+        ], 
+        "cite_url": "www.ieo.nctu.edu.tw/...", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "王興宗 - 國立交通大學光電系"
+    }
+]

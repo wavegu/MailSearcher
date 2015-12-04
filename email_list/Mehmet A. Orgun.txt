@@ -1,0 +1,38 @@
+[
+    {
+        "content": "mehmet a. orgun. department of computing ... verified email at mq.edu.au - homepage  scholar ... ha müller, sr tilley, ma orgun, bd corrie, nh madhavji.", 
+        "email_list": [
+            "email@mq.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FpZlwKUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mehmet A. Orgun - Google Scholar Citations"
+    }, 
+    {
+        "content": "intelligent systems group (isg). department of computing. macquarie university, sydney. nsw 2109, australia. email: mehmet.orgun@mq.edu.au...", 
+        "email_list": [
+            "mehmet.orgun@mq.edu.au"
+        ], 
+        "cite_url": "www.emu.edu.tr/.../Expert_Systems_E...", 
+        "cite_name": "Eastern Mediterranean University", 
+        "title": "[DOC]CFP - Eastern Mediterranean University"
+    }, 
+    {
+        "content": "manoj s. gaur (malaviya national institute of technology, india) - email: gaurms@gmail.com. mehmet a. orgun (macquarie university, australia) - email:...", 
+        "email_list": [
+            "gaurms@gmail.com"
+        ], 
+        "cite_url": "www.igi-global.com/calls-for-papers-special/international.../1096", 
+        "cite_name": "", 
+        "title": "Calls for Papers (special): International Journal of ..."
+    }, 
+    {
+        "content": "mehmet a. orguna, guido governatorib, chuchang liuc, mark reynoldsd, abdul sattare ... email addresses: mehmet.orgun@mq.edu.au (mehmet a. orgun),...", 
+        "email_list": [
+            "mehmet.orgun@mq.edu.au"
+        ], 
+        "cite_url": "www98.griffith.edu.au/dspace/.../77102_1.pdf?...1", 
+        "cite_name": "Griffith University", 
+        "title": "[PDF]View"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: xiaohui.helen.gu at gmail.com ... dr. gu received illiac fellowship, david j. kuck best master thesis award, and saburo muroga fellowship from...", 
+        "email_list": [
+            "xiaohui.helen.gu@gmail.com"
+        ], 
+        "cite_url": "www.csc.ncsu.edu/faculty/gu/", 
+        "cite_name": "North Carolina State University", 
+        "title": "Prof. Xiaohui (Helen) Gus Homepage"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "cancel. matej kristan. assistant professor at ... verified email at fri.uni-lj.si - homepage  scholar ... m perše, m kristan, s kovačič, g vučkovič, j perš. computer...", 
+        "email_list": [
+            "email@fri.uni-lj.si"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=z...", 
+        "cite_name": "Google Scholar", 
+        "title": "Matej Kristan - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: matej.kristan@fe.uni-lj.si. tel: ++386 1 4768 876. fax: ++ ... matej kristan, vildana sulic, stanislav kovacic, and janez perš . fast image-based obstacle...", 
+        "email_list": [
+            "matej.kristan@fe.uni-lj.si"
+        ], 
+        "cite_url": "vision.fe.uni-lj.si/people/MatejK.html", 
+        "cite_name": "", 
+        "title": "Machine Vision Group - Matej Kristan"
+    }, 
+    {
+        "content": "... trackingdf.html for code. a.11. local-global tracking (lgt) submitted by: luka cehovin luka.cehovin@fri.uni-lj.si matej kristan matej.kristan@fri.uni-lj.si ale s...", 
+        "email_list": [
+            "luka.cehovin@fri.uni-lj.si", 
+            "matej.kristan@fri.uni-lj.si"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-kristan-fri-uni-25539148.htm", 
+        "cite_name": "", 
+        "title": "kristan@fri.uni - The Email Archive"
+    }
+]

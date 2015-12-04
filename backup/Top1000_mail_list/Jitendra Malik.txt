@@ -1,6 +1,49 @@
-malik@eecs.berkeley.edu	[11]
-email at eecs.berkeley.edu	[2]
-email1@email.com	[2]
-fox@berkeley.edu	[1]
-office@jitendermalik.in	[1]
-angie@eecs.berkeley.edu	[1]
+[
+    {
+        "content": "asst: angie abbatecola, (510) 643-6413, angie@eecs.berkeley.edu. email: malik@eecs.berkeley.edu. prospective graduate students-you do not need to contact...", 
+        "email_addr_list": [
+            "angie@eecs.berkeley.edu", 
+            "malik@eecs.berkeley.edu"
+        ], 
+        "cite_url": "www.cs.berkeley.edu/~malik/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Jitendra Maliks Home Page"
+    }, 
+    {
+        "content": "jitendra malik. professor of eecs, uc ... verified email at eecs.berkeley.edu. scholar. get my own profile ... d martin, c fowlkes, d tal, j malik. computer vision...", 
+        "email_addr_list": [
+            "email@eecs.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=oY9R5YQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jitendra Malik - Google Scholar Citations"
+    }, 
+    {
+        "content": "jitendra malik. ganaur ... no 94 in part no 148. email:office@jitendermalik.in ... facebook twitter blogger gmail linkedin yahoomail email favorites. print profile...", 
+        "email_addr_list": [
+            "office@jitendermalik.in"
+        ], 
+        "cite_url": "myneta.info  Haryana Election 2014  SONIPAT  GANAUR", 
+        "cite_name": "", 
+        "title": "Jitendra Malik(Bharatiya Janata Party(BJP)):Constituency ..."
+    }, 
+    {
+        "content": "first_name, last_name, email, phone, division, area1, area2. frances, allen ... jitendra, malik, email1@email.com, computer science, theory. kris, pister...", 
+        "email_addr_list": [
+            "email1@email.com"
+        ], 
+        "cite_url": "https://www.relishapp.com/armandofox/.../staff-can-view-meeting-statisti...", 
+        "cite_name": "", 
+        "title": "Staff can view meeting statistics - Staff - Vdms - Armandofox ..."
+    }, 
+    {
+        "content": "56, jitendra, malik, email1@email.com, computer science, theory. 57, armando, fox, fox@berkeley.edu, computer science, programming systems...", 
+        "email_addr_list": [
+            "email1@email.com", 
+            "fox@berkeley.edu"
+        ], 
+        "cite_url": "https://www.relishapp.com/.../staff-can-manually-tweak-faculty-s-schedul...www.google.com/email", 
+        "cite_name": "", 
+        "title": "staff can manually tweak facultys schedule - Staff - Vdms ...Google Business Email‎Searches related to Jitendra Malik email"
+    }
+]

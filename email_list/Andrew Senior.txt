@@ -1,0 +1,38 @@
+[
+    {
+        "content": "cancel. andrew senior. google deepmind ... verified email at google.com. scholar ... a senior, a hampapur, yl tian, l brown, s pankanti, r bolle. image and...", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=17fLjgQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew Senior - Google Scholar Citations"
+    }, 
+    {
+        "content": "feb 25, 2015 - st. andrews senior care (sasc) - caring and supporting our elderly in the community ... email: enquiries@sasc.org.sg, address: block 5...", 
+        "email_list": [
+            "enquiries@sasc.org.sg"
+        ], 
+        "cite_url": "www.sach.org.sg/.../announcement-sach-starts-operating-st.-andrew-s-se...", 
+        "cite_name": "", 
+        "title": "Announcement: SACH starts operating St. Andrews Senior ..."
+    }, 
+    {
+        "content": "andrew senior is head of tax at rabobank international, london branch and chairman of the association of foreign ... email: andrew.senior@rabobank.com.", 
+        "email_list": [
+            "andrew.senior@rabobank.com"
+        ], 
+        "cite_url": "www.taxjournal.com/tj/content/andrew-senior", 
+        "cite_name": "", 
+        "title": "Andrew Senior | Tax Journal"
+    }, 
+    {
+        "content": "senior school. st andrews senior school, private bag, molo 20106, kenya tel: +254 (0)735 337736 or +254 (0)20 2025708 email: officesenior@turimail.co.ke.", 
+        "email_list": [
+            "officesenior@turimail.co.ke"
+        ], 
+        "cite_url": "www.standrewsturi.com/Contact_Us/", 
+        "cite_name": "", 
+        "title": "St Andrews School"
+    }
+]

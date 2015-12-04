@@ -1,0 +1,11 @@
+[
+    {
+        "content": "create alert. cancel. vania bogorny ... verified email at inf.ufsc.br. scholar ... lo alvares, v bogorny, b kuijpers, jaf de macedo, b moelans, ... proceedings of...", 
+        "email_list": [
+            "email@inf.ufsc.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-x_FW...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Vania Bogorny - Google Scholar Citations"
+    }
+]

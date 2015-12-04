@@ -1,6 +1,29 @@
-zhudb@iccas.ac.cn	[8]
-dicha@iccas.ac.cn	[2]
-xwzhan@pku.edu.cn	[2]
-wangshu@iccas.ac.cn	[1]
-lab@suda.edu.cn	[1]
-tang4@mailbox.sc.edu	[1]
+[
+    {
+        "content": "email : tang4@mailbox.sc.edu ... daoben zhus group, mainly participating in an international cooperation project of ... daoben zhu on organic chemistry.", 
+        "email_addr_list": [
+            "tang4@mailbox.sc.edu"
+        ], 
+        "cite_url": "www.chem.sc.edu/faculty/tang/group.htm", 
+        "cite_name": "University of South Carolina", 
+        "title": "Tang Polymer Group | Group"
+    }, 
+    {
+        "content": "email：wangshu@iccas.ac.cn. telephone：010-62636680 .... fude feng yanli tang shu wang* yuliang li daoben zhu angew. chem. int. ed. 2007 46...", 
+        "email_addr_list": [
+            "wangshu@iccas.ac.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~wangshu?...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "Shu Wang - 个人主页 - 中国科学院大学"
+    }, 
+    {
+        "content": "office tel: 86-10-62766835; email: xwzhan@pku.edu.cn ... yuze lin, jiayu wang, zhi-guo zhang, huitao bai, yongfang li, daoben zhu and xiaowei zhan,...", 
+        "email_addr_list": [
+            "xwzhan@pku.edu.cn"
+        ], 
+        "cite_url": "en.coe.pku.edu.cn/Faculty-A-Z/140.htmwww.google.com/email", 
+        "cite_name": "Peking University", 
+        "title": "Xiaowei Zhan | College of Engineering - Peking UniversityGoogle Business Email‎"
+    }
+]

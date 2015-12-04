@@ -1,0 +1,38 @@
+[
+    {
+        "content": "li xu，li jin， lu long， linlin liu， xin he，wei gao，longfu zhu，xianlong zhang，2012，overexpression ... xiyan yang, xianlong zhang, daojun yuan, fangyan jin, yunchao zhang and jiao xu, 2012, .... e-mail: xlzhang@mail.hzau.edu.cn.", 
+        "email_list": [
+            "xlzhang@mail.hzau.edu.cn"
+        ], 
+        "cite_url": "ic.hzau.edu.cn/supervisor/201212/W020130103537791729208.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Dr Xianlong Zhang"
+    }, 
+    {
+        "content": "chen deng-yuan, email: dychen@mail.shu.edu.cn. prof. zhang da-jun ... zhu xiao-ying, supervisor: prof. zhang da-jun. duration: 9.2007-1.2011. email: li qi, supervisor: prof. ... bi jin-bo, supervisor: prof. ... sun xian-long, supervisor: prof.", 
+        "email_list": [
+            "dychen@mail.shu.edu.cn"
+        ], 
+        "cite_url": "www.science.shu.edu.cn/siziduiwu/zdj/Research%20Group.htm", 
+        "cite_name": "", 
+        "title": "Research Group"
+    }, 
+    {
+        "content": "apr 8, 2015 - xianlong jin, school of mechanical engineering, shanghai jiaotong university, shanghai 200240, china. email: jxlong@sjtu.edu.cn...", 
+        "email_list": [
+            "jxlong@sjtu.edu.cn"
+        ], 
+        "cite_url": "hpc.sagepub.com/content/.../1094342015581402.abstract", 
+        "cite_name": "Sage Publications", 
+        "title": "Improving the parallel efficiency of large-scale structural ..."
+    }, 
+    {
+        "content": "nov 2, 2011 - email: xlzhang@mail.hazu.edu.cn ... shuangxia jin, xianlong zhang, henry daniell, pinellia ternate agglutinin expression in chloroplasts...", 
+        "email_list": [
+            "xlzhang@mail.hazu.edu.cn"
+        ], 
+        "cite_url": "gjc.nwsuaf.edu.cn/new/html/2011/Par2011.../95.html", 
+        "cite_name": "", 
+        "title": "ZHANG Xianlong - 西北农林科技大学国际交流处"
+    }
+]

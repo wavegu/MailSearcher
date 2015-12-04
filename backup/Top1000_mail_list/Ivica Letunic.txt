@@ -1,5 +1,11 @@
-ivica at letunic.com	[25]
-email at biobyte.de	[3]
-mkuhn@mpi-cbg.de.smart	[1]
-bork@embl.de	[1]
-mkuhn@mpi-cbg.de	[1]
+[
+    {
+        "content": "create alert. cancel. ivica letunić ... verified email at biobyte.de - homepage  scholar ... i letunic, rr copley, b pils, s pinkert, j schultz, p bork. nucleic acids...", 
+        "email_addr_list": [
+            "email@biobyte.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QqRR0osAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ivica Letunić - Google Scholar Citations"
+    }
+]

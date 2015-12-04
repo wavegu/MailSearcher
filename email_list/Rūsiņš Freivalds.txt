@@ -1,0 +1,29 @@
+[
+    {
+        "content": "rusins freivalds. born in latvia in 1942;; graduated from the university of latvia ... e-mail: rusins@cclu.lv. 13th international symposium on fundamentals of", 
+        "email_list": [
+            "rusins@cclu.lv"
+        ], 
+        "cite_url": "www.lumii.lv/Pages/MII_staff/rusins.html", 
+        "cite_name": "University of Latvia", 
+        "title": "Rusins Freivalds - lumii"
+    }, 
+    {
+        "content": "rusins freivalds. professor of computer science ... verified email at mii.lu.lv. scholar. get my own ... chs rusins freivalds, efim b. kinber. information and...", 
+        "email_list": [
+            "email@mii.lu.lv"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zDbJmlEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rusins Freivalds - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 30, 2007 - raina bulv. 29. riga, lv 1459. latvia. phone: +371 722 6997, +371 26563358. fax: +371 782 0153. e-mail: rusins.freivalds@mii.lu.lv...", 
+        "email_list": [
+            "rusins.freivalds@mii.lu.lv"
+        ], 
+        "cite_url": "www.lza.lv/scientists/freivalds.htm", 
+        "cite_name": "Latvian Academy of Sciences", 
+        "title": "Rusins Martins Freivalds"
+    }
+]

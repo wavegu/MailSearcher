@@ -1,0 +1,29 @@
+[
+    {
+        "content": "universidade federal fluminense (uff) rua passo da pátria, 156 - bl. e - sala 302. niterói - rj - brazil e-mail: bianca@ic.uff.br. phone: +55 (21) 2629-5642", 
+        "email_list": [
+            "bianca@ic.uff.br"
+        ], 
+        "cite_url": "www.ic.uff.br/~bianca/", 
+        "cite_name": "", 
+        "title": "Bianca Zadrozny - Instituto de Computação - UFF"
+    }, 
+    {
+        "content": "cancel. bianca zadrozny. ibm research brasil. machine learning, data mining. verified email at br.ibm.com - homepage ... b zadrozny, j langford, n abe.", 
+        "email_list": [
+            "email@br.ibm.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lSyUzLEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bianca Zadrozny - Google Scholar Citations"
+    }, 
+    {
+        "content": "bianca zadrozny. homepage: http://www.ic.uff.br/~bianca/. search externally: google scholar, ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/bianca_zadrozny/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Bianca Zadrozny - VideoLectures.NET"
+    }
+]

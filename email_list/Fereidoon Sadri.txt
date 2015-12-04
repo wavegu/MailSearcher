@@ -1,0 +1,21 @@
+[
+    {
+        "content": "name, office phone, email ... blanchet-sadri, francine (dr.) (336) 256-1125, blanchet@uncg.edu ... sadri, fereidoon (dr.) (336) 256-1112, f_sadri@uncg.edu.", 
+        "email_list": [
+            "blanchet@uncg.edu", 
+            "f_sadri@uncg.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of North Carolina at Greensboro", 
+        "title": "College of Arts  Science - UNCG Campus Directory - The ..."
+    }, 
+    {
+        "content": "verified email at semnan.ac.ir - homepage  scholar ... h hemmatian, a fereidoon, a sadollah, a bahreininejad ... a fereidoon, f sadri, h hemmatian.", 
+        "email_list": [
+            "email@semnan.ac.ir"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=T7YcYIYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hossein Hemmatian - Google Scholar Citations"
+    }
+]

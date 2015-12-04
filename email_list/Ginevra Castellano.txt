@@ -1,0 +1,48 @@
+[
+    {
+        "content": "dr. ginevra castellano is a researcher at the hci centre| and the school of electronic, electrical and systems engineering| ... email: g.castellano@bham.ac.uk.", 
+        "email_list": [
+            "g.castellano@bham.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Birmingham", 
+        "title": "Dr Ginevra Castellano, Electronic, Electrical and Systems ..."
+    }, 
+    {
+        "content": "cancel. ginevra castellano ... verified email at it.uu.se - homepage  scholar ... g castellano, m mortillaro, a camurri, g volpe, k scherer. university of...", 
+        "email_list": [
+            "email@it.uu.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DoX2DJIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ginevra Castellano - Google Scholar Citations"
+    }, 
+    {
+        "content": "department of information technology, division of visual information and interaction. email: ginevra.castellano@it.uu.se; telephone: +4618-471 3463; mobile...", 
+        "email_list": [
+            "ginevra.castellano@it.uu.se"
+        ], 
+        "cite_url": "katalog.uu.se/empinfo/?languageId=1id=N14...", 
+        "cite_name": "Uppsala University", 
+        "title": "Ginevra Castellano - Uppsala University, Sweden"
+    }, 
+    {
+        "content": "ginevra castellano – associate senior lecturer ... +46 18 - 471 3463. mobile: +46 70 425 02 00. fax: +46 18 511925. email: ginevra.castellano@it.uu.se...", 
+        "email_list": [
+            "ginevra.castellano@it.uu.se"
+        ], 
+        "cite_url": "www.it.uu.se/katalog/ginca820", 
+        "cite_name": "Uppsala University", 
+        "title": "UU/IT/Ginevra Castellano"
+    }, 
+    {
+        "content": "applications should be sent to dr. ginevra castellano (ginevra.castellano@gmail.com) and prof. chris baber (c.baber@bham.ac.uk), school of electronic,...", 
+        "email_list": [
+            "ginevra.castellano@gmail.com", 
+            "c.baber@bham.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Funded PhD studentship at the University of Birmingham, UK"
+    }
+]

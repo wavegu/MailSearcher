@@ -1,0 +1,74 @@
+[
+    {
+        "content": "email: maoxiuguang@qmul.ac.uk ... mao xg, wang jh, su wt, zhang lb, zhao xd, wei l, nie wh and yang ft (2007) the g- and c-banded karyotypes of...", 
+        "email_list": [
+            "maoxiuguang@qmul.ac.uk"
+        ], 
+        "cite_url": "https://evolve.sbcs.qmul.ac.uk/rossiter/people/mao-xiuguang/", 
+        "cite_name": "", 
+        "title": "Mao Xiuguang | Rossiter Lab"
+    }, 
+    {
+        "content": "verified email at case.edu - homepage  scholar. get my own profile ... b mao, z kang, e wang, c tian, z zhang, c wang, y song, m li. journal of solid state...", 
+        "email_list": [
+            "email@case.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WeX1adAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Baodong Mao - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at bjut.edu.cn - homepage ... p liu, sc mao, lh wang, xd han, z zhang ... p chen, sc mao, y liu, f wang, yf zhang, z zhang, xd han.", 
+        "email_list": [
+            "email@bjut.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ow5BDmUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shengcheng Mao (S.C. Mao 毛圣成） - Google Scholar ..."
+    }, 
+    {
+        "content": "verified email at emory.edu - homepage ... l yang, h mao, ya wang, z cao, x peng, x wang, h duan, c ni, q yuan, . ... x wu, y tan, h mao, m zhang.", 
+        "email_list": [
+            "email@emory.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2IsLGRsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hui Mao - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at sklec.ecnu.edu.cn - homepage  scholar. get my own ... l ao, x gu, q feng, j wang, pcm obrien, b fu, x mao, w su, y wang, ... cytogenetic and ... x mao, g he, p hua, g jones, s zhang, sj rossiter. molecular ecology 22...", 
+        "email_list": [
+            "email@sklec.ecnu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=YRH0VeAAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Xiuguang Mao - Google Scholar Citations"
+    }, 
+    {
+        "content": "cancel. ying mao. hua shan hospital, fudan university. verified email at fudan.edu.cn ... k jin, x wang, l xie, xo mao, w zhu, y wang, j shen, y mao, s banwait, . ... x wu, j hu, l zhou, y mao, b yang, l gao, r xie, f xu, d zhang, j liu, .", 
+        "email_list": [
+            "email@fudan.edu.cn"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=AjhozkwAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Ying Mao - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 3, 2012 - email: jzhang1@sjtu.edu.cn ... professor zhang is a prominent scientist for his pioneering contribution in laser-plasma physics and high field physics. .... f liu, wm wang, m kando, jy mao, l zhang, jl ma, yt li, sv bulanov,...", 
+        "email_list": [
+            "jzhang1@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.physics.sjtu.edu.cn/en/people/.../jzha...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Zhang jie | Department of Physics and Astronomy Shanghai ..."
+    }, 
+    {
+        "content": "verified email at sutd.edu.sg. scholar ... s zhang, s wang, b chen, s mao. geoscience and remote ... s mao, l xiong, lc jiao, s zhang, b chen. electronics...", 
+        "email_list": [
+            "email@sutd.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com.sg/citations?user=QLCqaOwAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Shasha Mao - Google Scholar Citations"
+    }
+]

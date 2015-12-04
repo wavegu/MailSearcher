@@ -1,2 +1,11 @@
-redazione@gravita-zero.org	[1]
-email at roma1.infn.it	[1]
+[
+    {
+        "content": "giorgio parisi. professor of theoretical ... verified email at roma1.infn.it. scholar. get my own ... e brézin, c itzykson, g parisi, jb zuber. communications in...", 
+        "email_addr_list": [
+            "email@roma1.infn.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TeuEgRkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Giorgio Parisi - Google Scholar Citations"
+    }
+]

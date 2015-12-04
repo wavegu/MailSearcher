@@ -1,3 +1,29 @@
-bwerner@mit.edu.birger	[3]
-bwerner@mit.edu	[3]
-email at mit.edu	[1]
+[
+    {
+        "content": "birger wernerfelt is the j.c. penney professor of management and a professor of marketing at the mit sloan school of management ... e-mail: bwerner@mit.edu.", 
+        "email_addr_list": [
+            "bwerner@mit.edu"
+        ], 
+        "cite_url": "mitsloan.mit.edu  ...  Directory", 
+        "cite_name": "MIT Sloan School of Management", 
+        "title": "Birger Wernerfelt - MIT Sloan Faculty Directory - MIT Sloan"
+    }, 
+    {
+        "content": "birger wernerfelt. jc penney professor mit sloan, mit. verified email at mit.edu. scholar. get my own profile ... c fornell, b wernerfelt. journal of marketing...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "birger Wernerfelt - Google Scholar Citations"
+    }, 
+    {
+        "content": "birger wernerfelt: current contact information and listing of economic research of this author provided by repec/ideas. ... email: bwerner@mit.edu. homepage...", 
+        "email_addr_list": [
+            "bwerner@mit.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pwe107.html", 
+        "cite_name": "", 
+        "title": "Birger Wernerfelt at IDEAS"
+    }
+]

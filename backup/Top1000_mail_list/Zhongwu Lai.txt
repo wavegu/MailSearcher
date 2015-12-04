@@ -1,3 +1,11 @@
-zhongwu@yahoo.com	[15]
-raymond.chen@astrazeneca.com.meltzerlab	[1]
-raymond.chen@astrazeneca.com	[1]
+[
+    {
+        "content": "doi: 10.1021/cb400186w. publication date (web): august 16, 2013. copyright © 2013 american chemical society. *e-mail: raymond.chen@astrazeneca.com.", 
+        "email_addr_list": [
+            "raymond.chen@astrazeneca.com"
+        ], 
+        "cite_url": "pubs.acs.org/doi/abs/10.1021/cb400186w", 
+        "cite_name": "American Chemical Society", 
+        "title": "Discovery and Mechanistic Study of a Small Molecule ..."
+    }
+]

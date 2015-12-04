@@ -1,0 +1,29 @@
+[
+    {
+        "content": "robert d. finn. protein families team ... verified email at ebi.ac.uk. scholar ... rd finn, j mistry, j tate, p coggill, a heger, je pollington, ol gavin, ... nucleic...", 
+        "email_list": [
+            "email@ebi.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=G-43AGgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Robert D. Finn - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: gavin@stls.frb.org. research division ... with benjamin d. keen and finn e. kydland. review of ... with robert dittmar and finn e. kydland. international...", 
+        "email_list": [
+            "gavin@stls.frb.org"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Federal Reserve Bank of St. Louis", 
+        "title": "William T. Gavin - St. Louis Fed - Federal Reserve Bank of ..."
+    }, 
+    {
+        "content": "learn more about finns jmj insurance agency of michigan. visit our site ... finn, brad blair, steven finn. james d. finn, rob conley, robert finn, john carrizales ... phone: 734-668-4050; fax: 734-668-1860; email: robert@finnsins.com.", 
+        "email_list": [
+            "robert@finnsins.com"
+        ], 
+        "cite_url": "finnsins.com/about-us/", 
+        "cite_name": "", 
+        "title": "About Us | Finns JMJ Insurance Agency"
+    }
+]

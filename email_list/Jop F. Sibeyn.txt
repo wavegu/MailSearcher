@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mar 1, 2005 - the homepage of jop sibeyn who is working at the computing science department of umeå universitet. ... email: jopsi@cs.umu.se", 
+        "email_list": [
+            "jopsi@cs.umu.se"
+        ], 
+        "cite_url": "www8.cs.umu.se/~jopsi/", 
+        "cite_name": "", 
+        "title": "JOP SIBEYNs Home Page"
+    }, 
+    {
+        "content": "email: umeyer@ae.cs.uni-frankfurt.de. cv: pdf. research interests .... jop f. sibeyn, james abello, and ulrich meyer. heuristics for semi-external depth first...", 
+        "email_list": [
+            "umeyer@ae.cs.uni-frankfurt.de"
+        ], 
+        "cite_url": "https://ae.cs.uni-frankfurt.de/?p...", 
+        "cite_name": "Goethe University of Frankfurt", 
+        "title": "Deutsch - Professur für Algorithm Engineering - Goethe ..."
+    }
+]

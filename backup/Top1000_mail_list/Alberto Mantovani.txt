@@ -1,2 +1,20 @@
-alberto.mantovani@humanitasresearch.it	[33]
-alberto.mantovani@unimi.it	[33]
+[
+    {
+        "content": "phone, +39 02 8224 2444. fax, +39 02 8224 5101. email, alberto.mantovani@humanitasresearch.it. address, via manzoni, 56 20089 rozzano italy...", 
+        "email_addr_list": [
+            "alberto.mantovani@humanitasresearch.it"
+        ], 
+        "cite_url": "dc-research.eu/person/alberto-mantovani", 
+        "cite_name": "", 
+        "title": "DC-Research Knowledge Portal: Alberto Mantovani"
+    }, 
+    {
+        "content": "altro recapito telefonico, 02 5031 2887. e-mail, alberto.mantovani@unimi.it. altra e-mail. luogo di ricevimento. orario di ricevimento, martedì 16.00-17.00 istituto...", 
+        "email_addr_list": [
+            "alberto.mantovani@unimi.it"
+        ], 
+        "cite_url": "www.medicina.unimi.it/.../MANTOVANI-ALBERTO-...", 
+        "cite_name": "", 
+        "title": "alberto mantovani - Professori e Ricercatori dei Corsi di laurea"
+    }
+]

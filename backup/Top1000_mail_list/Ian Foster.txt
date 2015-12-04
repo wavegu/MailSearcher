@@ -1,6 +1,48 @@
-fosterci@jmu.edu	[14]
-foster@anl.gov	[13]
-foster@uchicago.edu	[13]
-foster@mcs.anl.gov	[13]
-ian@star-legal.co.uk	[7]
-named-postdoc@anl.gov	[1]
+[
+    {
+        "content": "posted by ian foster on february 08, 2013 in globus, newtech, technology ..... the following documents must be sent via e-mail to:š named-postdoc@anl.gov...", 
+        "email_addr_list": [
+            "named-postdoc@anl.gov"
+        ], 
+        "cite_url": "ianfoster.typepad.com/", 
+        "cite_name": "", 
+        "title": "Ian Foster"
+    }, 
+    {
+        "content": "office: keezell 201. phone: 540-568-1640. email: fosterci@jmu.edu. office hours: courses: fall 2015. eng 221: literature/culture/ideas: introduction to...", 
+        "email_addr_list": [
+            "fosterci@jmu.edu"
+        ], 
+        "cite_url": "https://www.jmu.edu/.../faculty_foster.html", 
+        "cite_name": "James Madison University", 
+        "title": "JMU English Faculty | Christopher Ian Foster"
+    }, 
+    {
+        "content": "email: foster@mcs.anl.gov. website: http://www.mcs.anl.gov/~foster. bio. ian foster is director of the computation institute, a joint institute of the university of...", 
+        "email_addr_list": [
+            "foster@mcs.anl.gov"
+        ], 
+        "cite_url": "www.igsb.org/people/ian-t.-foster", 
+        "cite_name": "", 
+        "title": "Ian T. Foster - Institute for Genomics and Systems Biology"
+    }, 
+    {
+        "content": "ian foster – solicitor and director. commercial law ... email: ian@star-legal.co.uk. ian foster is available at the following star legal branch(es): clifton", 
+        "email_addr_list": [
+            "ian@star-legal.co.uk"
+        ], 
+        "cite_url": "star-legal.co.uk/uk-lawyers/ian-foster", 
+        "cite_name": "", 
+        "title": "Ian Foster - Star Legal, UK Law Firm"
+    }, 
+    {
+        "content": "you can reach me via email at foster@uchicago.edu or foster@anl.gov. skype: ianfosterusa. snail mail or to meet in person: searle 222 5735 s ellis ave", 
+        "email_addr_list": [
+            "foster@uchicago.edu", 
+            "foster@anl.gov"
+        ], 
+        "cite_url": "www.ianfoster.org/wordpress/contact/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Contact | Ian FosterGoogle Business Email - Custom email for your company‎Searches related to Ian Foster email"
+    }
+]

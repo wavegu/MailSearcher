@@ -1,2 +1,11 @@
-news@jax.org	[1]
-news@jax.org.not	[1]
+[
+    {
+        "content": "yu-hui rogers, site director of the jackson laboratory for genomic medicine, ... (journalists only), please send an email request for details to news@jax.org.", 
+        "email_addr_list": [
+            "news@jax.org"
+        ], 
+        "cite_url": "https://www.jax.org/.../yu-hui-rogers-of-the-jackson-l...", 
+        "cite_name": "Jackson Laboratory", 
+        "title": "Yu-Hui Rogers of The Jackson Laboratory among top ..."
+    }
+]

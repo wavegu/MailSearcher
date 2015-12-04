@@ -1,0 +1,11 @@
+[
+    {
+        "content": "oct 13, 2008 - dr. gary rost bradski and adrian kaehler, the creators of opencv, have put their ... email it, or your idea to opencvcode@gmail.com.", 
+        "email_list": [
+            "opencvcode@gmail.com"
+        ], 
+        "cite_url": "fyi.oreilly.com/2008/10/gary-bradskis-top-ten-tips-for.html", 
+        "cite_name": "", 
+        "title": "Gary Bradskis Last Tip! Contributing to OpenCVs Future, 10 ..."
+    }
+]

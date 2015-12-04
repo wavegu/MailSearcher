@@ -1,0 +1,38 @@
+[
+    {
+        "content": "the list below contains all domains related to the email address mitsutaka.fujita@gmail.com. the listed domains are showing the mentioned email address in...", 
+        "email_list": [
+            "mitsutaka.fujita@gmail.com"
+        ], 
+        "cite_url": "website.informer.com/email/mitsutaka.fujita@gmail.com", 
+        "cite_name": "", 
+        "title": "Mitsutaka.fujita@gmail.com at Website Informer"
+    }, 
+    {
+        "content": "mitsutaka fujita owned domains: ... registrant fax ext: registrant email:mitsutaka.fujita@gmail.com admin id:1315feba600 admin name:mitsutaka fujita...", 
+        "email_list": [
+            "mitsutaka.fujita@gmail.com"
+        ], 
+        "cite_url": "who.pho.to/mitsutaka_fujita/", 
+        "cite_name": "", 
+        "title": "Mitsutaka FUJITA Domains - Who Pho.to"
+    }, 
+    {
+        "content": "jul 1, 2010 - tomonori matsuura and mitsutaka fujita, 2006: two different aperiodic phases of wind-driven ocean ... email: matsuura@bosai.go.jp...", 
+        "email_list": [
+            "matsuura@bosai.go.jp"
+        ], 
+        "cite_url": "", 
+        "cite_name": "American Meteorological Society", 
+        "title": "AMS Journals Online - Two Different Aperiodic Phases of ..."
+    }, 
+    {
+        "content": "k wakabayashi, m fujita, hiroshi ajiki, m sigrist phys. ... katsunori wakabayashi, manfred sigrist and mitsutaka fujita j. phys. soc ... e-mail: mana[at]nims.go.jp.", 
+        "email_list": [
+            "mana@nims.go.jp"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Katsunori Wakabayashi | People | MANA"
+    }
+]

@@ -1,3 +1,29 @@
-kcrandall@gwu.edu	[19]
-crandall@byu.edu	[18]
-email at gwu.edu	[2]
+[
+    {
+        "content": "dr. crandall is also director of gws computational biology institute. ... office: innovation hall suite 305. phone: 571-553-0107. email: kcrandall@gwu.edu...", 
+        "email_addr_list": [
+            "kcrandall@gwu.edu"
+        ], 
+        "cite_url": "biology.columbian.gwu.edu/keith-crandall", 
+        "cite_name": "", 
+        "title": "Keith A. Crandall | The George Washington University"
+    }, 
+    {
+        "content": "create alert. cancel. keith a. crandall ... verified email at gwu.edu - homepage  scholar ... ka crandall, orp bininda-emonds, gm mace, rk wayne. trends in...", 
+        "email_addr_list": [
+            "email@gwu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nccuYroAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Keith A. Crandall - Google Scholar Citations"
+    }, 
+    {
+        "content": "keith crandall is a professor  chair of the department of biology at brigham young university. professor crandall studies ... email: keith_crandall@byu.edu...", 
+        "email_addr_list": [
+            "keith_crandall@byu.edu"
+        ], 
+        "cite_url": "blog.opentreeoflife.org/keith-a-crandall/", 
+        "cite_name": "", 
+        "title": "Keith A. Crandall - Open Tree of Life"
+    }
+]

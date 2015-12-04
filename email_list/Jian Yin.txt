@@ -1,0 +1,50 @@
+[
+    {
+        "content": "email, jian.yin@sydney.edu.au .... zealand, australia: wiley-blackwell publishing asia pty ltd. wyburn, k., wu, h., yin, j., jose, m., eris, j., chadban, s. (2005).", 
+        "email_list": [
+            "jian.yin@sydney.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sydney", 
+        "title": "Dr Jian Yin - The University of Sydney"
+    }, 
+    {
+        "content": "jian yin. alum, advised by mike dahlin and lorenzo alvisi. area of interest distributed systems. email jian.yin at pnnl.gov", 
+        "email_list": [
+            "jian.yin@pnnl.gov"
+        ], 
+        "cite_url": "https://www.cs.utexas.edu/lasr/profile.php?...", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "Jian Yin - Laboratory for Advanced Systems Research ..."
+    }, 
+    {
+        "content": "jian yin music provides preparation lessons, examination scores and ... contact jian yin music @ 81284653 or email to jianyinmusic@gmail.com for more...", 
+        "email_list": [
+            "jianyinmusic@gmail.com"
+        ], 
+        "cite_url": "https://www.facebook.com/jianyinmusic/posts/715000185202381?fref...", 
+        "cite_name": "", 
+        "title": "Jian Yin Music - Registration for NUS chinese instrumental..."
+    }, 
+    {
+        "content": "dec 18, 2014 - email: yanfa.yan@utoledo.edu. research assistant professors. dr. wanjian yin. email: wanjian.yin@utoledo.edu ... email:jie.ge@utoledo.edu...", 
+        "email_list": [
+            "yanfa.yan@utoledo.edu", 
+            "wanjian.yin@utoledo.edu", 
+            "jie.ge@utoledo.edu"
+        ], 
+        "cite_url": "astro1.panet.utoledo.edu/~yyan/y_group.html", 
+        "cite_name": "", 
+        "title": "Yan Group Members"
+    }, 
+    {
+        "content": "sep 28, 2015 - jian yin b.s. south china university of technology (china) m.s. boston ... yinjian@bu.edu ... phone: (617) 353-8883, email: rpaiella@bu.edu.", 
+        "email_list": [
+            "yinjian@bu.edu", 
+            "rpaiella@bu.edu"
+        ], 
+        "cite_url": "https://www.bu.edu/paiella/people.html", 
+        "cite_name": "Boston University", 
+        "title": "Paiella Group - Boston University"
+    }
+]

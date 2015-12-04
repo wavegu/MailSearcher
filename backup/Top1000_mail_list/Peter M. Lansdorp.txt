@@ -1,4 +1,29 @@
-p.m.lansdorp@umcg.nl.identification	[22]
-p.m.lansdorp@umcg.nl	[22]
-plansdor@bccrc.ca	[3]
-email at umcg.nl	[3]
+[
+    {
+        "content": "dr. peter m. lansdorp, md, phd ... email: plansdor@bccrc.ca ... visit dr. lansdorps home page on the terry fox laboratory website for publication list, lab...", 
+        "email_addr_list": [
+            "plansdor@bccrc.ca"
+        ], 
+        "cite_url": "www.bccrc.ca/dept/terry-fox.../Lansdorp", 
+        "cite_name": "BC Cancer Research Centre", 
+        "title": "Dr. Peter M. Lansdorp, MD, PhD - The BC Cancer Agency ..."
+    }, 
+    {
+        "content": "peter m. lansdorpstem cells, developmental control, telomere biology, self-renewal ... email: plansdor@bccrc.ca. research interests: stem cells, developmental...", 
+        "email_addr_list": [
+            "plansdor@bccrc.ca"
+        ], 
+        "cite_url": "medgen.med.ubc.ca  Home  Profiles", 
+        "cite_name": "UBC Faculty of Medicine", 
+        "title": "Peter Lansdorp | Department of Medical Genetics"
+    }, 
+    {
+        "content": "verified email at umcg.nl. scholar ... j gauldie, c richards, d harnish, p lansdorp, h baumann ... lw terstappen, s huang, m safford, pm lansdorp, mr loken.", 
+        "email_addr_list": [
+            "email@umcg.nl"
+        ], 
+        "cite_url": "scholar.google.nl/citations?user=cgkbEkwAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Peter Lansdorp - Google Scholar Citations"
+    }
+]

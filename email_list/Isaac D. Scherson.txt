@@ -1,0 +1,30 @@
+[
+    {
+        "content": "feb 21, 2007 - professor isaac d. scherson. (a.k.a.the schark) ... fax: +1 (949) 824-4056. e-mail: isaac at ics.uci.edu or isaac at uci.edu. academic web:.", 
+        "email_list": [
+            "isaac@ics.uci.edu", 
+            "isaac@uci.edu"
+        ], 
+        "cite_url": "www.ics.uci.edu...", 
+        "cite_name": "Donald Bren School of Information and Computer Sci...", 
+        "title": "Isaac D. Scherson"
+    }, 
+    {
+        "content": "dr. schersons research interests fall in the general areas of distributed and parallel processing, computer ... shean t. mcmahon and isaac d. scherson, a statistical mechanical approach to a framework for modeling ... email: isaac@uci.edu...", 
+        "email_list": [
+            "isaac@uci.edu"
+        ], 
+        "cite_url": "www.faculty.uci.edu/.../detaildept.cfm?id...", 
+        "cite_name": "University of California, Irvine", 
+        "title": "UCI Faculty Profiles: Isaac D. Scherson"
+    }, 
+    {
+        "content": "isaac d. scherson. professor ... verified email at ics.uci.edu - homepage  scholar ... c morin, r lottiaux, g vallée, p gallard, d margery, jy berthou, ... cluster...", 
+        "email_list": [
+            "email@ics.uci.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=szsAigoAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Isaac D. Scherson - Google Scholar Citations"
+    }
+]

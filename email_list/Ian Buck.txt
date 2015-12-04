@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ian buck is a photographer based in seattle, washington. ... email: ian.buck@gmail.com. instagram: @ibnw. or send a message here: name. name. first name.", 
+        "email_list": [
+            "ian.buck@gmail.com"
+        ], 
+        "cite_url": "ianbuckphoto.com/contact/", 
+        "cite_name": "", 
+        "title": "Contact — IAN BUCK"
+    }
+]

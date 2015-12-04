@@ -1,0 +1,47 @@
+[
+    {
+        "content": "30 janvier, eric lecolinet, introduction, architectures logicielles des ihms, ... ne pas hésiter à me contacter par email (nom.prenom@telecom-paristech.fr)...", 
+        "email_list": [
+            "nom.prenom@telecom-paristech.fr"
+        ], 
+        "cite_url": "perso.telecom-paristech.fr/~elc/iad/", 
+        "cite_name": "Télécom ParisTech", 
+        "title": "elc  Enseignement  Master IAD  UE IHM/CIE"
+    }, 
+    {
+        "content": "eric lecolinet: publications, bio, bibliography, etc. ... homepage: http://perso.telecom-paristech.fr/~elc/; employer: (); email: eric.lecolinet@telecom-paristech.fr...", 
+        "email_list": [
+            "eric.lecolinet@telecom-paristech.fr"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/eric-lecolinet", 
+        "cite_name": "", 
+        "title": "Eric Lecolinet: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "email: can.liu@lri.fr. université paris sud - bat. 650 (pcri) ... michel beaudouin-lafon, dr. olivier chapuis and dr. eric lecolinet. thesis expected in dec. 2015.", 
+        "email_list": [
+            "can.liu@lri.fr"
+        ], 
+        "cite_url": "https://www.lri.fr/~liuc/files/CV_Canliu_April15.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Can Liu - LRI"
+    }, 
+    {
+        "content": "verified email at telecom-paristech.fr - homepage  scholar ... g bailly, e lecolinet, l nigay. proceedings of the ... g bailly, r walter, j müller, t ning, e lecolinet.", 
+        "email_list": [
+            "email@telecom-paristech.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W4R1-ogAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gilles Bailly - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at malacria.fr - homepage  scholar ... s malacria, e lecolinet, y guiard. proceedings of the ... q roy, s malacria, y guiard, e lecolinet, j eagan.", 
+        "email_list": [
+            "email@malacria.fr"
+        ], 
+        "cite_url": "scholar.google.co.nz/citations?user=Me1oJeYAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Sylvain Malacria - Google Scholar Citations"
+    }
+]

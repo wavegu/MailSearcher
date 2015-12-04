@@ -1,0 +1,38 @@
+[
+    {
+        "content": "e-mail: fredrik.liljeros@iffs.se. presentation. fredrik liljeros. professor, sociology. fredrik liljeros is professor in sociology at stockholm university. his research...", 
+        "email_list": [
+            "fredrik.liljeros@iffs.se"
+        ], 
+        "cite_url": "www.iffs.se/en/researchers/fredrik-liljeros/", 
+        "cite_name": "", 
+        "title": "Fredrik Liljeros - Institutet för Framtidsstudier"
+    }, 
+    {
+        "content": "e-post fredrik.liljeros@sociology.su.se. besöksadress universitetsvägen 10 b, plan 9. rum b 951. postadress stockholms universitet sociologiska institutionen...", 
+        "email_list": [
+            "fredrik.liljeros@sociology.su.se"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Fredrik Liljeros - Stockholms universitet"
+    }, 
+    {
+        "content": "jul 12, 2007 - fredrik liljeros, phd. researcher. department of sociology,. stockholm university. e-mail: fredrik.liljeros@s-gem.se. phone: +46 8 163189.", 
+        "email_list": [
+            "fredrik.liljeros@s-gem.se"
+        ], 
+        "cite_url": "www.s-gem.se/about_sgem/researchers/fredrik_liljeros_en.html", 
+        "cite_name": "", 
+        "title": "Fredrik Liljeros, PhD - S-GEM"
+    }, 
+    {
+        "content": "fredrik liljeros, christofer r. edling, h. eugene stanley, y. Åberg  luis a. n. .... correspondence to: fredrik liljeros e-mail: email: liljeros@sociology.su.se.", 
+        "email_list": [
+            "liljeros@sociology.su.se"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Social networks (communication arising): Sexual contacts ..."
+    }
+]

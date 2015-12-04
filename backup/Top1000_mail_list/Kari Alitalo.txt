@@ -1,3 +1,20 @@
-kari.alitalo at helsinki.fi	[23]
-kari.alitalo@helsinki.fi	[23]
-ralf.adams@cancer.org.uk	[2]
+[
+    {
+        "content": "kari alitalo to lead wihuri research institute. posted on march 18, 2013 by juha kettunen. academy professor kari alitalo, md, a leading scientist in the field of angiogenesis and lymphangiogenesis, will join the ... email: info [at] wri.fi", 
+        "email_addr_list": [
+            "info@wri.fi"
+        ], 
+        "cite_url": "www.wri.fi  News", 
+        "cite_name": "", 
+        "title": "KARI ALITALO to Lead Wihuri Research Institute - Wihuri ..."
+    }, 
+    {
+        "content": "ralf h. adams  kari alitalo about the authors ... email: ralf.adams@cancer.org.uk; molecular/cancer biology laboratory and ludwig institute for cancer...", 
+        "email_addr_list": [
+            "ralf.adams@cancer.org.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Molecular regulation of angiogenesis and ... - Nature"
+    }
+]

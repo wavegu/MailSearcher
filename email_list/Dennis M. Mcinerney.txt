@@ -1,0 +1,20 @@
+[
+    {
+        "content": "dennis m. mcinerney, is chair professor of educational psychology at the hong ... prof mcinerney, dennis michael 麥翰林 ... email: dennismm@ied.edu.hk.", 
+        "email_list": [
+            "dennismm@ied.edu.hk"
+        ], 
+        "cite_url": "https://oraas0.ied.edu.hk/.../people_det...", 
+        "cite_name": "Hong Kong Institute of Education", 
+        "title": "Profile Details of MCINERNEY, Dennis Michael 麥翰林"
+    }, 
+    {
+        "content": "dennis m. mcinerney. chair professor of ... verified email at ied.edu.hk. scholar. get my own ... dm mcinerney, la roche, v mcinerney, hw marsh. american...", 
+        "email_list": [
+            "email@ied.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9TJAICAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dennis M. McInerney - Google Scholar Citations"
+    }
+]

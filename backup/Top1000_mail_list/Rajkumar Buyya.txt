@@ -1,4 +1,30 @@
-rajkumar@buyya.com	[17]
-rajkumar@ieee.org	[17]
-rajkumar@csse.monash.edu.au	[17]
-email at unimelb.edu.au	[2]
+[
+    {
+        "content": "rajkumar buyya. clouds lab, computing ... verified email at unimelb.edu.au - homepage  scholar ... r buyya, cs yeo, s venugopal, j broberg, i brandic.", 
+        "email_addr_list": [
+            "email@unimelb.edu.au"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rajkumar Buyya - Google Scholar Citations"
+    }, 
+    {
+        "content": "rajkumar buyya school of computer science and software engineering monash technology melbourne, australia email: rajkumar@ieee.org url:...", 
+        "email_addr_list": [
+            "rajkumar@ieee.org"
+        ], 
+        "cite_url": "www.powershow.com/.../Rajkumar_Buyya_powerpoint_ppt_presentatio...", 
+        "cite_name": "", 
+        "title": "PPT – Rajkumar Buyya PowerPoint presentation | free to ..."
+    }, 
+    {
+        "content": "presentation on theme: 1 rajkumar buyya, monash university, melbourne. email: rajkumar@csse.monash.edu.au / rajkumar@buyya.com web:...", 
+        "email_addr_list": [
+            "rajkumar@csse.monash.edu.au", 
+            "rajkumar@buyya.com"
+        ], 
+        "cite_url": "slideplayer.com/slide/5022127/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Presentation 1 Rajkumar Buyya, Monash University ...Google Business Email‎"
+    }
+]

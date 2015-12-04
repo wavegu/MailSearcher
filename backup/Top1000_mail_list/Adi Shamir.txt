@@ -1,4 +1,20 @@
-adi.shamir@weizmann.ac.il	[19]
-adi.shamir@weizmann.ac.il.adi	[19]
-adi.shamir at weizmann.ac.il	[19]
-rshamir at tau dot ac dot il	[14]
+[
+    {
+        "content": "department: faculty of mathematics and computer science  department of computer science and applied mathematics. email: adi.shamir@weizmann.ac.il.", 
+        "email_addr_list": [
+            "adi.shamir@weizmann.ac.il"
+        ], 
+        "cite_url": "www.weizmann.ac.il/pages/.../people?...", 
+        "cite_name": "Weizmann Institute of Science", 
+        "title": "Adi Shamir - People | Weizmann Institute of Science"
+    }, 
+    {
+        "content": "ron shamir. sackler professor of bioinformatics. the blavatnik school ... phone: +972-3-640-5383. fax: +972-3-640-5384. e-mail: rshamir at tau dot ac dot il.", 
+        "email_addr_list": [
+            "rshamir@tau.ac.il"
+        ], 
+        "cite_url": "www.cs.tau.ac.il/~rshamir/", 
+        "cite_name": "Tel Aviv University", 
+        "title": "Ron Shamirs personal homepage"
+    }
+]

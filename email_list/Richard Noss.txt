@@ -1,0 +1,29 @@
+[
+    {
+        "content": "richard noss is director of the london knowledge lab, an interdisciplinary ... tel: +44 (0)20 7907 4643; fax: +44 (0)20 7763 2138; email: r.noss@ioe.ac.uk...", 
+        "email_list": [
+            "r.noss@ioe.ac.uk"
+        ], 
+        "cite_url": "https://www.ioe.ac.uk/staff/LKLB_38.html", 
+        "cite_name": "UCL Institute of Education", 
+        "title": "Professor Richard Noss - Institute of Education"
+    }, 
+    {
+        "content": "richard noss, professor richard noss director, tel phase ... to the development of tlrp-tel through to 2012. more on tel. contact email: r.noss@ioe.ac.uk.", 
+        "email_list": [
+            "r.noss@ioe.ac.uk"
+        ], 
+        "cite_url": "www.tlrp.org/manage/directors/rn.html", 
+        "cite_name": "", 
+        "title": "Richard Noss"
+    }, 
+    {
+        "content": "jan 20, 2012 - richard noss is professor of mathematics education at the university of ... maintainer: natalie hinton; email: natalie.hinton@unimelb.edu.au.", 
+        "email_list": [
+            "natalie.hinton@unimelb.edu.au"
+        ], 
+        "cite_url": "web.education.unimelb.edu.au/.../richard_noss....", 
+        "cite_name": "University of Melbourne", 
+        "title": "Richard Noss Lecture : News : Melbourne Graduate School ..."
+    }
+]

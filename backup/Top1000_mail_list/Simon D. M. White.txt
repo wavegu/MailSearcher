@@ -1,3 +1,38 @@
-swhite at mpa-garching.mpg.de	[14]
-swhite@mpa-garching.mpg.de	[12]
-email at mpa-garching.mpg.de	[3]
+[
+    {
+        "content": "simon d. m. white. director at the max-planck-institut fuer astrophysik ... email: swhite@mpa-garching.mpg.de. secretary: cornelia rickl office: 0049-89-30000-...", 
+        "email_addr_list": [
+            "swhite@mpa-garching.mpg.de"
+        ], 
+        "cite_url": "wwwmpa.mpa-garching.mpg.de/~swhite/", 
+        "cite_name": "", 
+        "title": "Simon DM White - MPA"
+    }, 
+    {
+        "content": "dr. simon d.m. white. max planck institute for astrophysics, garching. phone:+49 89 30000-2211fax:+49 89 30000-2899. email:swhite@mpa-garching.mpg.de...", 
+        "email_addr_list": [
+            "swhite@mpa-garching.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/379074/astrophysik_wissM2", 
+        "cite_name": "Max Planck Society", 
+        "title": "White, Simon D. M. | Max Planck Society"
+    }, 
+    {
+        "content": "professor simon d.m. white. max-planck-institut fr astrophysik ... email: swhite@mpa-garching.mpg.de. date and place of birth: 30 september, 1951,...", 
+        "email_addr_list": [
+            "swhite@mpa-garching.mpg.de"
+        ], 
+        "cite_url": "wwwmpa.mpa-garching.mpg.de/~swhite/currentcv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Professor Simon D.M. White - MPA"
+    }, 
+    {
+        "content": "cancel. simon d m white ... verified email at mpa-garching.mpg.de - homepage  scholar ... v springel, sdm white, a jenkins, cs frenk, n yoshida, l gao, .", 
+        "email_addr_list": [
+            "email@mpa-garching.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Gv-FkZ4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Simon D M White - Google Scholar Citations"
+    }
+]

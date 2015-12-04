@@ -1,0 +1,60 @@
+[
+    {
+        "content": "guojie song. associate professor of ... verified email at pku.edu.cn. scholar. get my own ... q jiang, g song, c gao, y wang, w si, k xie. twenty-fifth aaai...", 
+        "email_list": [
+            "email@pku.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=a832IIMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Guojie Song - Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about songgj@yahoo.com (guojie songs e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "songgj@yahoo.com"
+        ], 
+        "cite_url": "spam-report.email/songgj/yahoo.com", 
+        "cite_name": "", 
+        "title": "songgj@yahoo.com (Guojie Songs e-mail) - Spam-Report ..."
+    }, 
+    {
+        "content": "... at gmail dot com. (previous email: hanlei@cis.pku.edu.cn; leihan@comp.hkbu.edu.hk) ... 2012-2014. [5] lei han, yu zhang, guojie song and kunqing xie.", 
+        "email_list": [
+            "hanlei@cis.pku.edu.cn", 
+            "leihan@comp.hkbu.edu.hk"
+        ], 
+        "cite_url": "www.stat.rutgers.edu/home/lhan/", 
+        "cite_name": "Rutgers University", 
+        "title": "Lei Hans Homepage - Rutgers University"
+    }, 
+    {
+        "content": "feb 9, 2015 - email: gardnegt@mail.uc.edu ... email: bidwelpp@ucmail.uc.edu .... dr. guojie song, visiting faculty cardiovascular medicine, (april -july...", 
+        "email_list": [
+            "gardnegt@mail.uc.edu", 
+            "bidwelpp@ucmail.uc.edu"
+        ], 
+        "cite_url": "med2.uc.edu/kranias/members.htm", 
+        "cite_name": "", 
+        "title": "Kranias Lab : members"
+    }, 
+    {
+        "content": "print  email. for general ... song xianlin. idmsx at nus.edu.sg ... guo qinfeng. idmguoqf at nus.edu.sg. guoqinfeng. project officer. guo jie. idmgj at nus.edu.", 
+        "email_list": [
+            "idmsx@nus.edu.sg", 
+            "idmguoqf@nus.edu.sg", 
+            "idmgj@nus.edu"
+        ], 
+        "cite_url": "nuslivinglab.nus.edu.sg/index.../aboutus", 
+        "cite_name": "National University of Singapore", 
+        "title": "About Us - NUS Living Lab"
+    }, 
+    {
+        "content": "dong, zheng-bin and song, guo-jie and xie, kun-qing and wang, jing-yao an ... public at this website, please email cjg@ecs.soton.ac.uk - include the file(s),...", 
+        "email_list": [
+            "cjg@ecs.soton.ac.uk"
+        ], 
+        "cite_url": "www2009.eprints.org/view/author/Song=3AGuo-Jie=3A=3A.html", 
+        "cite_name": "", 
+        "title": "Items by Song, Guo-Jie - WWW2009 EPrints"
+    }
+]

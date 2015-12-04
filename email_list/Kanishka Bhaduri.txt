@@ -1,0 +1,12 @@
+[
+    {
+        "content": "email: kamalika.das@nasa.gov. kanishka bhaduri. mct inc., nasa ames research center, moffett field, ca-94035. email: kanishka.bhaduri-1@nasa.gov.", 
+        "email_list": [
+            "kamalika.das@nasa.gov", 
+            "kanishka.bhaduri-1@nasa.gov"
+        ], 
+        "cite_url": "ti.arc.nasa.gov/publications/2777/download/", 
+        "cite_name": "", 
+        "title": "[PDF]Book title goes here - Intelligent Systems Division - NASA"
+    }
+]

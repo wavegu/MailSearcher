@@ -1,3 +1,29 @@
-z.yang@ucl.ac.uk	[10]
-z.yang at ucl.ac.uk	[10]
-email at ucl.ac.uk	[1]
+[
+    {
+        "content": "professor ziheng yang, frs. r.a. fisher professor of statistical genetics ... london wc1e 6bt england fax: +44 (0)20 7679 7096. email: z.yang at ucl.ac.uk...", 
+        "email_addr_list": [
+            "z.yang@ucl.ac.uk"
+        ], 
+        "cite_url": "abacus.gene.ucl.ac.uk/ziheng/", 
+        "cite_name": "University College London", 
+        "title": "Zihengs Page - Ziheng Yang - University College London"
+    }, 
+    {
+        "content": "cancel. ziheng yang. ra fisher ... verified email at ucl.ac.uk - homepage  scholar. get my ... z yang, r nielsen, n goldman, amk pedersen. genetics 155 (1)...", 
+        "email_addr_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=Ke7yUWEAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Ziheng Yang - Google Scholar Citations"
+    }, 
+    {
+        "content": "curriculum vitae. ziheng yang ... +44 (20) 7679 7096. email: z.yang@ucl.ac.uk ... systematic biology; yang, z., w.s.w. wong, and r. nielsen. 2005. bayes...", 
+        "email_addr_list": [
+            "z.yang@ucl.ac.uk"
+        ], 
+        "cite_url": "159.226.149.45/summercourse/old/cvYang-new.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Ziheng YANG"
+    }
+]

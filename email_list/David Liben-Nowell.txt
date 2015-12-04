@@ -1,0 +1,20 @@
+[
+    {
+        "content": "david liben-nowells staff photo. david liben-nowell ... david musicants staff photo. david musicant profile ... email: cs@carleton.edu. fax: 507-222-4312.", 
+        "email_list": [
+            "cs@carleton.edu"
+        ], 
+        "cite_url": "https://apps.carleton.edu/curricular/cs/faculty/", 
+        "cite_name": "Carleton College", 
+        "title": "Carleton College: Computer Science: Meet the Faculty and ..."
+    }, 
+    {
+        "content": "david liben-nowell dlibenno@carleton.edu. carleton college ... inferred spread of topics among blogs/email/twitter. [wu huberman adamic tyler 2003].", 
+        "email_list": [
+            "dlibenno@carleton.edu"
+        ], 
+        "cite_url": "people.tuebingen.mpg.de/networks.../menorca.pdf", 
+        "cite_name": "Max Planck Society", 
+        "title": "[PDF]David Liben-Nowell"
+    }
+]

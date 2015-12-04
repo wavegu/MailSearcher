@@ -1,3 +1,11 @@
-feynmancenter@lanl.gov	[16]
-provost@caltech.edu.richard	[3]
-provost@caltech.edu	[3]
+[
+    {
+        "content": "the richard p. feynman prize for excellence in teaching was established in 1993 to ... the late richard feynman, one of the most brilliant theoretical physicists and original ... tel: 626-395-6336 fax: 626-795-1898 email: provost@caltech.edu.", 
+        "email_addr_list": [
+            "provost@caltech.edu"
+        ], 
+        "cite_url": "https://provost.caltech.edu/FeynmanTe...", 
+        "cite_name": "California Institute of Technology", 
+        "title": "Richard P. Feynman Prize for Excellence in Teaching ..."
+    }
+]

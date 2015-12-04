@@ -1,4 +1,11 @@
-zcs@tsinghua.edu.cn	[2]
-ir@kingsoft.com	[1]
-dongliu@ee.columbia	[1]
-email at kingsoft.com	[1]
+[
+    {
+        "content": "hongjiang zhang. kingsoft. multimedia ... video processing, .. verified email at kingsoft.com - homepage ... hj zhang, a kankanhalli, sw smoliar. multimedia...", 
+        "email_addr_list": [
+            "email@kingsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=u6wmNbQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "hongjiang zhang - Google Scholar Citations"
+    }
+]

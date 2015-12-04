@@ -1,0 +1,20 @@
+[
+    {
+        "content": "masahide nakamura. associate ... verified email at cs.kobe-u.ac.jp - homepage  scholar ... h tamada, k okamoto, m nakamura, a monden, k matsumoto.", 
+        "email_list": [
+            "email@cs.kobe-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.co.jp/citations?user=72-zqhwAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Masahide Nakamura - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at okayama-u.ac.jp - homepage  scholar. get my own profile ... h tamada, k okamoto, m nakamura, a monden, k matsumoto. international...", 
+        "email_list": [
+            "email@okayama-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BFTnBtoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Akito Monden - Google Scholar Citations"
+    }
+]

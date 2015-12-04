@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: yuezhsh@gmail.com. shuzhuo li and xiaoyi jin are in the institute for population and development studies, school of public policy and administration,...", 
+        "email_list": [
+            "yuezhsh@gmail.com"
+        ], 
+        "cite_url": "usj.sagepub.com/content/50/9/1704.abstract", 
+        "cite_name": "Sage Publications", 
+        "title": "Abstract - Urban Studies"
+    }, 
+    {
+        "content": "email: cqjin@sei.ecnu.edu.cn ... cheqing jin received his bachelor and master degrees from zhejiang university in ... xiaoyi duan，cheqing jin(*)，xiaoling wang ，pop: a passenger-oriented partners matching system，damasca 2015. 5.", 
+        "email_list": [
+            "cqjin@sei.ecnu.edu.cn"
+        ], 
+        "cite_url": "faculty.ecnu.edu.cn/s/616/t/.../main.jspy", 
+        "cite_name": "East China Normal University", 
+        "title": "East China Normal University Cheqing JIN"
+    }, 
+    {
+        "content": "email this article ... jin xiao-yi ... jiaotong university; institute for empirical social science research, xian jiaotong university email: zhshyue@mail.xjtu.edu.cn.", 
+        "email_list": [
+            "zhshyue@mail.xjtu.edu.cn"
+        ], 
+        "cite_url": "www.society.shu.edu.cn/EN/.../abstract8815.shtml", 
+        "cite_name": "Shanghai University", 
+        "title": "From Ascribed to Acquired：Migrant Workers Social ..."
+    }, 
+    {
+        "content": "email, bo.jin@adelaide.edu.au .... xiaoyi wang an and bo jin* (2011) description of [fefe] hydrogenase expression and biochemical activities of newly isolated...", 
+        "email_list": [
+            "bo.jin@adelaide.edu.au"
+        ], 
+        "cite_url": "www.adelaide.edu.au/directory/bo.jin", 
+        "cite_name": "University of Adelaide", 
+        "title": "Dr Bo Jin | The University of Adelaide Staff Directory"
+    }
+]

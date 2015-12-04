@@ -1,0 +1,29 @@
+[
+    {
+        "content": "child protection, group d (moncton) (section) ... mon. to fri.: 8:30 am - 4:30 pm. fax : (506) 856-3296. email : sd-ds@gnb.ca ... moncton, nb e1c 8r3 canada.", 
+        "email_list": [
+            "sd-ds@gnb.ca"
+        ], 
+        "cite_url": "www2.gnb.ca/.../dept_renderer.140.15703.9687.200663...", 
+        "cite_name": "New Brunswick", 
+        "title": "Child Protection, Group D (Moncton) (Section)"
+    }, 
+    {
+        "content": "nbcc moncton is one of nbccs largest campuses offering more than 40 full-time regular programs, night school courses and ... email: moncton@nbcc.ca...", 
+        "email_list": [
+            "moncton@nbcc.ca"
+        ], 
+        "cite_url": "www.nbcc.ca/about-nbcc/.../moncto...", 
+        "cite_name": "New Brunswick Community College", 
+        "title": "NBCC Moncton Campus - New Brunswick Community College"
+    }, 
+    {
+        "content": "... can be reached on her cell at 381-2192 or email at nleblanc@exitmoncton.ca ... très fiable lorsque les clients envisagent de vendre ou dacheter une maison.", 
+        "email_list": [
+            "nleblanc@exitmoncton.ca"
+        ], 
+        "cite_url": "www.exitmoncton.ca/our-team.asp?id=67", 
+        "cite_name": "", 
+        "title": "Nicole LeBlanc - Our Team | Exit Realty Associates - Greater ..."
+    }
+]

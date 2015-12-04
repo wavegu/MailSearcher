@@ -1,5 +1,20 @@
-jun.l.wang@ucl.ac.uk.jun	[15]
-junwang.tang@ucl.ac.uk	[15]
-jun-wang@ouhsc.edu	[15]
-jun.l.wang@ucl.ac.uk	[15]
-media@genomics.cn	[1]
+[
+    {
+        "content": "junwang tang. reader in energy ... email: junwang.tang@ucl.ac.uk. tel: +44(0)20 7679 7393. research groups. catalysis and chemical reaction...", 
+        "email_addr_list": [
+            "junwang.tang@ucl.ac.uk"
+        ], 
+        "cite_url": "https://www.ucl.ac.uk/...staff/junwang-tang", 
+        "cite_name": "University College London", 
+        "title": "Junwang Tang - University College London"
+    }, 
+    {
+        "content": "dr. wangs research interests are in the areas of information retrieval and intelligent multimedia systems. his research ... email address: jun.l.wang@ucl.ac.uk.", 
+        "email_addr_list": [
+            "jun.l.wang@ucl.ac.uk"
+        ], 
+        "cite_url": "https://www.ucl.ac.uk/secret/aboutus/.../JWan...", 
+        "cite_name": "University College London", 
+        "title": "Dr Jun Wang"
+    }
+]

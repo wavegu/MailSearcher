@@ -1,3 +1,29 @@
-eibe@cs.waikato.ac.nz	[9]
-eibe@waikato.ac.nz	[9]
-email at cs.waikato.ac.nz	[2]
+[
+    {
+        "content": "associate professor eibe frank. department: computer science ... contact details. email: eibe@cs.waikato.ac.nz. phone: extension 4396...", 
+        "email_addr_list": [
+            "eibe@cs.waikato.ac.nz"
+        ], 
+        "cite_url": "www.waikato.ac.nz  ...  Expertise  Experts AZ", 
+        "cite_name": "University of Waikato", 
+        "title": "Associate Professor Eibe Frank - Waikato University Experts ..."
+    }, 
+    {
+        "content": "email: eibe@waikato.ac.nz. room: g.1.05 ... fax: +64 7 858 5095. website: http://www.cs.waikato.ac.nz/~eibe/ ... find more research publications by eibe frank...", 
+        "email_addr_list": [
+            "eibe@waikato.ac.nz"
+        ], 
+        "cite_url": "www.cms.waikato.ac.nz  ...  Our People", 
+        "cite_name": "University of Waikato", 
+        "title": "Associate Professor Eibe Frank - Computing  Mathematical ..."
+    }, 
+    {
+        "content": "eibe frank. associate professor ... verified email at cs.waikato.ac.nz - homepage  scholar ... m hall, e frank, g holmes, b pfahringer, p reutemann, ih witten.", 
+        "email_addr_list": [
+            "email@cs.waikato.ac.nz"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dUV_NvIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Eibe Frank - Google Scholar Citations"
+    }
+]

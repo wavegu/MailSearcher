@@ -1,0 +1,21 @@
+[
+    {
+        "content": "jane s. richardson. professor of biochemistry ... verified email at duke.edu - homepage  scholar ... iw davis, lw murray, js richardson, dc richardson.", 
+        "email_list": [
+            "email@duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=UF1_VRcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jane S. Richardson - Google Scholar Citations"
+    }, 
+    {
+        "content": "jane s. richardson. james b. duke professor ... e-mail dcrjsr at kinemage.biochem.duke.edu .... laura murray, land of green ginger, gaultheria at gmail.com.", 
+        "email_list": [
+            "dcrjsr@kinemage.biochem.duke.edu", 
+            "gaultheria@gmail.com"
+        ], 
+        "cite_url": "kinemage.biochem.duke.edu/lab/.../richardson.php", 
+        "cite_name": "Duke University", 
+        "title": "Jane S. Richardson - Kinemage Home Page - Duke University"
+    }
+]

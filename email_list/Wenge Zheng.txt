@@ -1,0 +1,47 @@
+[
+    {
+        "content": "sep 29, 2009 - wenge zheng. phone: 0574-86685141. fax : 0574-86685186. email: wgzheng@nimte.ac.cn. working experience 1. 2007-present...", 
+        "email_list": [
+            "wgzheng@nimte.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Wenge Zheng - Ningbo Institute of Materials Technology ..."
+    }, 
+    {
+        "content": "office phone: (919) 660-5378; email address: wenge.liu@duke.edu ... li, y; liu, w; zhou, l; zheng, z; liu, w, synchronous presentation of acute pancreatitis...", 
+        "email_list": [
+            "wenge.liu@duke.edu"
+        ], 
+        "cite_url": "bme.duke.edu/faculty/wenge-liu", 
+        "cite_name": "Duke University", 
+        "title": "Wenge Liu | Duke Biomedical Engineering Department"
+    }, 
+    {
+        "content": "e-mail: zhenghy@hpstar.ac.cn ... kuo li, haiyan zheng, ilia n. ivanov, malcolm guthrie, yuming xiao, wenge yang, chris a. tulk, yusheng zhao, and...", 
+        "email_list": [
+            "zhenghy@hpstar.ac.cn"
+        ], 
+        "cite_url": "www.hpstar.ac.cn/contents/14/246.html", 
+        "cite_name": "", 
+        "title": "Haiyan Zheng - HPSTAR"
+    }, 
+    {
+        "content": "the committees of hpstar. seminar committee (email group: seminar.committee@hpstar.ac.cn). dr. li zhang (principal) ... dr. wenge yang. dr. jiuhua chen.", 
+        "email_list": [
+            "seminar.committee@hpstar.ac.cn"
+        ], 
+        "cite_url": "www.hpstar.ac.cn/channels/50.html", 
+        "cite_name": "", 
+        "title": "HPSTAR"
+    }, 
+    {
+        "content": "sep 30, 2010 - *corresponding author: fax +86-10 6261 3251; e-mail yuj@iccas.ac.cn. ... guoying ji , wentao zhai , dongpo lin , qian ren , wenge zheng...", 
+        "email_list": [
+            "yuj@iccas.ac.cn"
+        ], 
+        "cite_url": "pubs.acs.org/doi/abs/10.1021/ma101473r", 
+        "cite_name": "American Chemical Society", 
+        "title": "Thermal Behavior of Poly(l-lactide) Having Low l-Isomer ..."
+    }
+]

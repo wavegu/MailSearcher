@@ -1,4 +1,29 @@
-ediener@illinois.edu	[17]
-ediener@s.psych.uiuc.edu	[17]
-ediener@s.psych.uiuc.edu.the	[17]
-email at illinois.edu	[6]
+[
+    {
+        "content": "professor ed diener ... email: ediener@illinois.edu ... we commend you for reaching out for help, but dr. diener is a researcher, not a licensed clinical...", 
+        "email_addr_list": [
+            "ediener@illinois.edu"
+        ], 
+        "cite_url": "internal.psychology.illinois.e...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "Contacts - Ed Diener, Subjective Well-Being"
+    }, 
+    {
+        "content": "ed diener. university of illinois or university of utah or university of washington or university of virginia. science of well-being. verified email at illinois.edu -...", 
+        "email_addr_list": [
+            "email@illinois.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_xR5tL8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ed Diener - Google Scholar Citations"
+    }, 
+    {
+        "content": "ed diener: current contact information and listing of economic research of this author provided by repec/ideas. ... email: ediener@s.psych.uiuc.edu.", 
+        "email_addr_list": [
+            "ediener@s.psych.uiuc.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pdi45.html", 
+        "cite_name": "", 
+        "title": "Ed Diener at IDEAS"
+    }
+]

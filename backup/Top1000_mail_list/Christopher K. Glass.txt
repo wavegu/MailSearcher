@@ -1,4 +1,29 @@
-chglass@ucsd.edu	[12]
-cglass@ucsd.edu	[12]
-chglass@ucsd.edu.index	[12]
-ckg@ucsd.edu	[4]
+[
+    {
+        "content": "christopher k. glass, md, phd. professor of medicine professor of cellular and molecular ... contact information. email: ckg@ucsd.edu; website: glass lab...", 
+        "email_addr_list": [
+            "ckg@ucsd.edu"
+        ], 
+        "cite_url": "endocrinology.ucsd.edu/.../christophe...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Christopher K. Glass - Faculty - Division of Endocrinology at ..."
+    }, 
+    {
+        "content": "christopher k. glass, m.d., ph.d. ... and cellular and molecular medicine. website: http://cmm.ucsd.edu/glass/glasslab/index.html. email: chglass@ucsd.edu.", 
+        "email_addr_list": [
+            "chglass@ucsd.edu"
+        ], 
+        "cite_url": "igm.ucsd.edu/faculty/.../glass.shtml", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Christopher K. Glass, MD, Ph.D. - Institute for Genomic ..."
+    }, 
+    {
+        "content": "christopher k. glass. professor of medicine and cellular  molecular medicine m.d., ph.d., university of california, san diego email: cglass@ucsd.edu...", 
+        "email_addr_list": [
+            "cglass@ucsd.edu"
+        ], 
+        "cite_url": "biomedsci.ucsd.edu/.../faculty_descri...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Christopher K. Glass - Faculty - Biomedical Sciences ..."
+    }
+]

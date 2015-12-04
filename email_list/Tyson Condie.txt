@@ -1,0 +1,20 @@
+[
+    {
+        "content": "tyson condie. professor ... verified email at cs.ucla.edu - homepage  scholar ... t condie, n conway, p alvaro, jm hellerstein, k elmeleegy, r sears. nsdi 10...", 
+        "email_list": [
+            "email@cs.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7SdcAiEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tyson Condie - Google Scholar Citations"
+    }, 
+    {
+        "content": "please scan and email the signed copyright form to the vldb 2015 proceedings chair,. tyson condie at tcondie at cs.ucla.edu.", 
+        "email_list": [
+            "tcondie@cs.ucla.edu"
+        ], 
+        "cite_url": "www.vldb.org/.../PVLDB_Copyright_Transfer.p...", 
+        "cite_name": "VLDB Endowment Inc.", 
+        "title": "[PDF]VLDB 2015 Copyright Transfer Form - VLDB Endowment Inc."
+    }
+]

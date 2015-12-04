@@ -1,2 +1,29 @@
-amari@brain.riken.jp	[12]
-email at brain.riken.jp	[3]
+[
+    {
+        "content": "e-mail: amari@brain.riken.jp, i wish you enjoy the links to interesting resources on the internet. links are of various type. you may find statistical, neural network...", 
+        "email_addr_list": [
+            "amari@brain.riken.jp"
+        ], 
+        "cite_url": "www.brain.riken.go.jp/labs/mns/amari/home-E.html", 
+        "cite_name": "", 
+        "title": "Shun-ichi AMARI - RIKEN Brain Science Institute"
+    }, 
+    {
+        "content": "verified email at brain.riken.jp. scholar ... a shun-ichi. springer ... dynamics of pattern formation in lateral-inhibition type neural fields. s amari. biological...", 
+        "email_addr_list": [
+            "email@brain.riken.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=cH2eTqAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Amari S* - Google Scholar Citations"
+    }, 
+    {
+        "content": "... date visited: october 26, 2006 wtec attendees: g. gerhardt (report author), t. berger, g. hane hosts: shun-ichi amari email: amari@brain.riken.jp director,...", 
+        "email_addr_list": [
+            "amari@brain.riken.jp"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1402087055", 
+        "cite_name": "", 
+        "title": "Brain-Computer Interfaces: An international assessment of ..."
+    }
+]

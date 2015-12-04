@@ -1,4 +1,21 @@
-sudhir.kumar@luht.scot.nhs.uk	[23]
-sopory@mail.jnu.ac.in	[2]
-vc@mail.jnu.ac.in	[1]
-email at temple.edu	[1]
+[
+    {
+        "content": "email: sopory@mail.jnu.ac.in vc@mail.jnu.ac.in ... sisir kumar mitra memorial lecture award, 2011-2012, indian national science academy, new delhi.", 
+        "email_addr_list": [
+            "sopory@mail.jnu.ac.in", 
+            "vc@mail.jnu.ac.in"
+        ], 
+        "cite_url": "www.jnu.ac.in/vicechancellor/default.htm", 
+        "cite_name": "Jawaharlal Nehru University", 
+        "title": "Prof. Sudhir Kumar SOPORY, Vice Chancellor, JNU"
+    }, 
+    {
+        "content": "sudhir kumar. director ... verified email at temple.edu - homepage  scholar ... k tamura, d peterson, n peterson, g stecher, m nei, s kumar. molecular...", 
+        "email_addr_list": [
+            "email@temple.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=G5zYeD8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sudhir Kumar - Google Scholar Citations"
+    }
+]

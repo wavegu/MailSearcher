@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jan 4, 2009 - guisheng liao. guisheng liao received the b.s. degree in mathematics from guangxi university, guangxi, ... e-mail:gsliao@xidian.edu.cn.", 
+        "email_list": [
+            "gsliao@xidian.edu.cn"
+        ], 
+        "cite_url": "rsp.xidian.edu.cn/ShowArticle.asp?ArticleID=150", 
+        "cite_name": "", 
+        "title": "National Lab of Radar Signal Processing - Guisheng Liao"
+    }, 
+    {
+        "content": "professor liao guisheng ... office add: national key laboratory of radar signal processing, north campus tel: (029) 88201030 e-mail: gsliao@xidian.edu.cn...", 
+        "email_list": [
+            "gsliao@xidian.edu.cn"
+        ], 
+        "cite_url": "en.xidian.edu.cn/info/1030/1152.htm", 
+        "cite_name": "", 
+        "title": "Professor Liao Guisheng-http://www.xidian.edu.cn/English/"
+    }, 
+    {
+        "content": "email: liaomingyi@sohu.com ... mingyi liao, wengang yao, haitao feng and jianbo wang, chin. j. org. ... guisheng deng, mingyi liao, xue tian, jianbo wang", 
+        "email_list": [
+            "liaomingyi@sohu.com"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/physicalorganic/Liaomy.htm", 
+        "cite_name": "Peking University", 
+        "title": "Mingyi Liao"
+    }, 
+    {
+        "content": "email this article to a colleague. add to bookshelf ... yang zhi-wei, he shun, liao gui-sheng. national ... email: zwyang@mail.xidian.edu.cn. about author:...", 
+        "email_list": [
+            "zwyang@mail.xidian.edu.cn"
+        ], 
+        "cite_url": "www.signalpro.org.cn/EN/abstract/abstract8684.shtml", 
+        "cite_name": "", 
+        "title": "YANG Zhi-Wei, HE Shun, LIAO Gui-Sheng.Modified MUSIC ..."
+    }, 
+    {
+        "content": "lun ma  lunma@mail.xidian.edu.cn (1); guisheng liao (1). author affiliations. 1. national laboratory of radar signal processing, xidian university, xian,...", 
+        "email_list": [
+            "lunma@mail.xidian.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs114...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "A novel autofocus algorithm based on maximum total ..."
+    }
+]

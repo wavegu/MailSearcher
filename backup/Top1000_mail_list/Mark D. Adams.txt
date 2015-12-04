@@ -1,2 +1,20 @@
-mark dot d dot adams at case dot edu	[20]
-email at jcvi.org	[3]
+[
+    {
+        "content": "cancel. mark d adams. j craig venter institute  genome. verified email at jcvi.org ... jc venter, md adams, ew myers, pw li, rj mural, gg sutton, ho smith, .", 
+        "email_addr_list": [
+            "email@jcvi.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hKV4ZD8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mark D Adams - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: mark dot d dot adams at case dot edu. website. mark adams received a b.a. in chemistry from warren wilson college in swannanoa, nc in 1984.", 
+        "email_addr_list": [
+            "adams@case.edu"
+        ], 
+        "cite_url": "systemsbiology.case.edu/participants/collaborators/Adams.shtml", 
+        "cite_name": "", 
+        "title": "Mark Adams - Complex Systems Biology Center - Case ..."
+    }
+]

@@ -1,3 +1,20 @@
-george.weinstock@jax.org	[31]
-gweinsto@genome.wustl.edu	[3]
-gro.xaj@kcotsniew.egroeg	[2]
+[
+    {
+        "content": "the jackson laboratory for genomic medicine 10 discovery drive farmington, ct 06032. phone: 860-837-2420. email: george.weinstock@jax.org. website(s):.", 
+        "email_addr_list": [
+            "george.weinstock@jax.org"
+        ], 
+        "cite_url": "facultydirectory.uchc.edu/profile...", 
+        "cite_name": "University of Connecticut Health Center", 
+        "title": "George M. Weinstock - Faculty Directory › UConn Health"
+    }, 
+    {
+        "content": "george m weinstock the genome institute washington university, st. louis mo 63108, usa e-mail: gweinsto@genome.wustl.edu. curtis davis multicoreware...", 
+        "email_addr_list": [
+            "gweinsto@genome.wustl.edu"
+        ], 
+        "cite_url": "www.omicsonline.org/mblast-keeping-up-with-the-sequencing-explosion...www.google.com/email", 
+        "cite_name": "", 
+        "title": "mBLAST: Keeping up with the Sequencing Explosion for ...Google Business Email‎"
+    }
+]

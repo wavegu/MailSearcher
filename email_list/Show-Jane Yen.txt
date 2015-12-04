@@ -1,0 +1,21 @@
+[
+    {
+        "content": "the experimental result shows that our approach outperforms the previous n-gram-based classification model .... show-jane yen  sjyen@mail.mcu.edu.tw...", 
+        "email_list": [
+            "sjyen@mail.mcu.edu.tw"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2F978-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Automatic Chinese Text Classification Using N-Gram Model ..."
+    }, 
+    {
+        "content": "show-jane yen  sjyen@mail.mcu.edu.tw (5); yue-shi lee  leeys@mail.mcu.edu.tw (5). author affiliations. 5. department of computer science and information...", 
+        "email_list": [
+            "sjyen@mail.mcu.edu.tw", 
+            "leeys@mail.mcu.edu.tw"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2F978-3-6...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Mining High Utility Patterns in Different Time Periods ..."
+    }
+]

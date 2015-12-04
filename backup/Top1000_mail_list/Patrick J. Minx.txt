@@ -1,3 +1,20 @@
-admin@wi.mit.edu	[2]
-newsroom@wi.mit.edu	[2]
-lander@genome.wi.mit.edu	[1]
+[
+    {
+        "content": "helen skaletsky, tomoko kuroda-kawaguchi, patrick j. minx, holland s. ... for materials should be addressed to d.c.p. (email: page_admin@wi.mit.edu).", 
+        "email_addr_list": [
+            "page_admin@wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Abstract - Nature"
+    }, 
+    {
+        "content": "... lisa l. cook, robert s. fulton, douglas l. johnson, patrick j. minx  sandra .... lander (e-mail: email: lander@genome.wi.mit.edu), r. h. waterston (e-mail:...", 
+        "email_addr_list": [
+            "lander@genome.wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Human Genome  article", 
+        "cite_name": "Nature", 
+        "title": "Initial sequencing and analysis of the human genome - Nature"
+    }
+]

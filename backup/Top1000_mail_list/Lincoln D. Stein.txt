@@ -1,1 +1,11 @@
-lincoln.stein@gmail.com	[25]
+[
+    {
+        "content": "lincoln d. stein. cpan directory, lds [ archive ]. email, lincoln.stein@gmail.com. homepage, http://stein.cshl.edu. cpan testers, [module test results] [cpan...", 
+        "email_addr_list": [
+            "lincoln.stein@gmail.com"
+        ], 
+        "cite_url": "search.cpan.org/~lds/", 
+        "cite_name": "CPAN", 
+        "title": "Lincoln D. Stein - search.cpan.org"
+    }
+]

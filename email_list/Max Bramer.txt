@@ -1,0 +1,30 @@
+[
+    {
+        "content": "photo of professor max bramer ... ++44 (0)23 9284 6380; email: max.bramer@port.ac.uk; department: school of computing; faculty: faculty of technology...", 
+        "email_list": [
+            "max.bramer@port.ac.uk"
+        ], 
+        "cite_url": "www.port.ac.uk/school.../prof-max-bramer.htm...", 
+        "cite_name": "University of Portsmouth", 
+        "title": "Staff: Professor Max Bramer - University of Portsmouth"
+    }, 
+    {
+        "content": "email: max.bramer@port.ac.uk. treasurer: rosemary gilligan*, university of hertfordshire email: r.e.gilligan@herts.ac.uk. prof. adrian hopgood*, sheffield...", 
+        "email_list": [
+            "max.bramer@port.ac.uk", 
+            "r.e.gilligan@herts.ac.uk"
+        ], 
+        "cite_url": "www.bcs-sgai.org/?section=committee", 
+        "cite_name": "", 
+        "title": "BCS SGAI - The Specialist Group on Artificial Intelligence"
+    }, 
+    {
+        "content": "max bramer (for british computer society specialist group on artificial intelligence, sgai), dr. john ... max bramer (chair, sgai) email: max.bramer@port.ac.uk", 
+        "email_list": [
+            "max.bramer@port.ac.uk"
+        ], 
+        "cite_url": "www.bcs-sgai.org/micomp/info.html", 
+        "cite_name": "", 
+        "title": "BCS Machine Intelligence Prize - BCS SGAI"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "photo of clark lombardi ... email: lombardi@uw.edu ... designing islamic constitutions: past trends and options for a democratic future, 11 intl j. const.", 
+        "email_list": [
+            "lombardi@uw.edu"
+        ], 
+        "cite_url": "https://www.law.washington.ed...", 
+        "cite_name": "University of Washington School of Law", 
+        "title": "Clark Lombardi | UW School of Law"
+    }, 
+    {
+        "content": "feb 11, 2015 - profile for dr luisa lombardi, senior lecturer. ... phone: +61 3 52271157 +61 3 52271157. email: luisa.lombardi@deakin.edu.au...", 
+        "email_list": [
+            "luisa.lombardi@deakin.edu.au"
+        ], 
+        "cite_url": "https://www.deakin.edu.au/profiles/luisa-lombardi", 
+        "cite_name": "Deakin University", 
+        "title": "Staff profile - Luisa Lombardi - Deakin University"
+    }
+]

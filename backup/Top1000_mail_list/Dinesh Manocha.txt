@@ -1,5 +1,21 @@
-dm@cs.unc.edu	[3]
-addresses.dm@cs.unc.edu	[3]
-email at cs.unc.edu	[3]
-nagag@microsoft.com	[1]
-jpan at cs.hku.hk	[1]
+[
+    {
+        "content": "create alert. cancel. dinesh manocha ... verified email at cs.unc.edu - homepage  scholar ... jd cohen, mc lin, d manocha, m ponamgi. proceedings of the...", 
+        "email_addr_list": [
+            "email@cs.unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=X08l_4IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Dinesh Manocha - Google Scholar Citations"
+    }, 
+    {
+        "content": "this is in email addresses: nagag@microsoft.com (naga k. govindaraju) dm@cs.unc.edu (dinesh manocha) . preprint submitted to elsevier http://gpgpu.org in...", 
+        "email_addr_list": [
+            "nagag@microsoft.com", 
+            "dm@cs.unc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-dm-cs-unc-edu-3745914.htm", 
+        "cite_name": "", 
+        "title": "dm@cs.unc.edu - The Email Archive"
+    }
+]

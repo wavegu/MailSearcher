@@ -1,4 +1,29 @@
-robert.plomin@kcl.ac.uk	[25]
-mr-conference@bristol.ac.uk	[2]
-mr-conference@bristol.ac.uk.robert	[2]
-email at kcl.ac.uk	[1]
+[
+    {
+        "content": "postal address: c1.31. sgdp research centre denmark hill london. united kingdom. telephone: +44 (0)20 7848 0893. e-mail: robert.plomin@kcl.ac.uk...", 
+        "email_addr_list": [
+            "robert.plomin@kcl.ac.uk"
+        ], 
+        "cite_url": "https://kclpure.kcl.ac.uk/portal/robert.plomin.html", 
+        "cite_name": "King's College London", 
+        "title": "Robert Plomin - Research Portal, Kings College, London"
+    }, 
+    {
+        "content": "create alert. cancel. robert plomin ... verified email at kcl.ac.uk. scholar. get my own ... hh goldsmith, ah buss, r plomin, mk rothbart, a thomas, s chess, .", 
+        "email_addr_list": [
+            "email@kcl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=6e21j94AAAAJ", 
+        "cite_name": "Google", 
+        "title": "Robert Plomin - Google Scholar Citations"
+    }, 
+    {
+        "content": "robert j. plomin is an american psychologist best known for his work in twin studies and behaviour genetics. plomin earned a b.a. in psychology from depaul university in 1970 and a ph.d. in psychology ... email: mr-conference@bristol.ac.uk.", 
+        "email_addr_list": [
+            "mr-conference@bristol.ac.uk"
+        ], 
+        "cite_url": "www.mendelianrandomization.org.uk/speaker-profiles/plomin/", 
+        "cite_name": "", 
+        "title": "Robert Plomin | Mendelian Randomization Conference"
+    }
+]

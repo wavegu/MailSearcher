@@ -1,0 +1,39 @@
+[
+    {
+        "content": "leif sörnmo. e-post: leif.sornmo@bme.lth.se. professor vid avdelningen för biomedicinsk teknik. telefon: +46 46 222 90 23. mobiltelefon: +46 70 660 50 39.", 
+        "email_list": [
+            "leif.sornmo@bme.lth.se"
+        ], 
+        "cite_url": "www.lu.se/lucat/user/tde-lso", 
+        "cite_name": "", 
+        "title": "Leif Sörnmo | Lunds universitet"
+    }, 
+    {
+        "content": "leif sörnmo. professor of biomedical signal ... verified email at bme.lth.se. scholar ... m lagerholm, c peterson, g braccini, l edenbrandt, l sörnmo. biomedical...", 
+        "email_list": [
+            "email@bme.lth.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Vl6bTjYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Leif Sörnmo - Google Scholar Citations"
+    }, 
+    {
+        "content": "sherlock has analyzed leif.sornmo@eit.lth.se email address. looking at its pattern the owners name (or company name) is leif sornmo. government records.", 
+        "email_list": [
+            "leif.sornmo@eit.lth.se"
+        ], 
+        "cite_url": "www.emailsherlock.com/emailsearch/leif.sornmo@eit.lth.se/", 
+        "cite_name": "", 
+        "title": "leif.sornmo@eit.lth.se - Free Email Search Results on ..."
+    }, 
+    {
+        "content": "email: frida.sandberg@eit.lth.se. academic degrees. nov 2010: planned doctoral .... technology. lth. phone. +46 46 22 90 23. email leif.sornmo@eit.lth.se.", 
+        "email_list": [
+            "frida.sandberg@eit.lth.se", 
+            "leif.sornmo@eit.lth.se"
+        ], 
+        "cite_url": "www.eit.lth.se/.../FridaSandberg_CV10110...", 
+        "cite_name": "Lund Institute of Technology", 
+        "title": "[PDF]Curriculum vitae - Lund Institute of Technology"
+    }
+]

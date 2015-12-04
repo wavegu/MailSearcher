@@ -1,4 +1,20 @@
-weinbergd@mail.nih.gov	[18]
-dhw at astronomy.ohio-state.edu	[4]
-robert.rebussini@lfg.com	[1]
-robert.rebussini@lfg.comdr	[1]
+[
+    {
+        "content": "responsibilities: david weinberg is acting as project lead for nichds human placenta project. this role includes generation ... email: weinbergd@mail.nih.gov...", 
+        "email_addr_list": [
+            "weinbergd@mail.nih.gov"
+        ], 
+        "cite_url": "https://www.nic...", 
+        "cite_name": "Eunice Kennedy Shriver National Institute of Child He...", 
+        "title": "NICHD Staff Detail for DAVID Weinberg"
+    }, 
+    {
+        "content": "david h. weinberg. 1000 chapel view blvd. suite 210. cranston, ri 02920. phone: 401.490.0290 ext. 302. email addresses: robert.rebussini@lfg.com", 
+        "email_addr_list": [
+            "robert.rebussini@lfg.com"
+        ], 
+        "cite_url": "www.robertrebussini.com/menu/contact-us", 
+        "cite_name": "", 
+        "title": "Contact Us - Integrated Financial Partners"
+    }
+]

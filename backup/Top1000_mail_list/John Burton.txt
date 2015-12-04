@@ -1,6 +1,47 @@
-john.burton@uvu.edu	[21]
-jab@worldlandtrust.org	[3]
-info@worldlandtrust.org	[1]
-info@johnburton.net	[1]
-coffee@johnburton.co.nz	[1]
-info@worldlandtrust.orgworld	[1]
+[
+    {
+        "content": "biography of john burton, ceo of wlt ... with an extensive background in both journalism and conservation, john burton has ... email: info@worldlandtrust.org", 
+        "email_addr_list": [
+            "info@worldlandtrust.org"
+        ], 
+        "cite_url": "www.worldlandtrust.org  About  Staff", 
+        "cite_name": "World Land Trust", 
+        "title": "Biography of John Burton, CEO of WLT | World Land Trust"
+    }, 
+    {
+        "content": "john burton photo. john a burton. chief executive officer ... read johns biography »  read johns blog: green diary »; email john at: jab@worldlandtrust.org...", 
+        "email_addr_list": [
+            "jab@worldlandtrust.org"
+        ], 
+        "cite_url": "www.worldlandtrust.org  About", 
+        "cite_name": "World Land Trust", 
+        "title": "World Land Trust Staff"
+    }, 
+    {
+        "content": "john burton ltd is a leading supplier of green coffee beans, delivering the best and most varied range available from around ... email: coffee@johnburton.co.nz...", 
+        "email_addr_list": [
+            "coffee@johnburton.co.nz"
+        ], 
+        "cite_url": "johnburton.co.nz/contact-us/", 
+        "cite_name": "", 
+        "title": "Contact Us - John Burton Limited"
+    }, 
+    {
+        "content": "john burton, based on his book 20 elements of revival ... info@johnburton.net. contact. name*. first last. email*. i would like to receive ministry updates*. yes", 
+        "email_addr_list": [
+            "info@johnburton.net"
+        ], 
+        "cite_url": "www.johnburton.net/contact/", 
+        "cite_name": "", 
+        "title": "Contact - John Burton | Conference Speaker | Author"
+    }, 
+    {
+        "content": "burton, john charles. title: secondary field coordinator - school of education. office: me 131. email: john.burton@uvu.edu. phone: 801-863-6587. fax:.", 
+        "email_addr_list": [
+            "john.burton@uvu.edu"
+        ], 
+        "cite_url": "https://www.uvu.edu/profpages/profiles/.../679", 
+        "cite_name": "Utah Valley University", 
+        "title": "Burton, John Charles - UVU Employee Professional Page"
+    }
+]

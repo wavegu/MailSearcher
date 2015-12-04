@@ -1,0 +1,48 @@
+[
+    {
+        "content": "e-mail: d.reidsma@utwente.nl. phone ... dennis reidsma is assistant professor at the human media interaction group and lecturer at the creative technology...", 
+        "email_list": [
+            "d.reidsma@utwente.nl"
+        ], 
+        "cite_url": "hmi.ewi.utwente.nl/Member/dennis_reidsma", 
+        "cite_name": "", 
+        "title": "HMI Dennis Reidsma"
+    }, 
+    {
+        "content": "nov 27, 2013 - e-mail: d.reidsma@utwente.nl ... dennis reidsma is deeply involved in shaping of, as well as teaching in, the bsc curriculum creative...", 
+        "email_list": [
+            "d.reidsma@utwente.nl"
+        ], 
+        "cite_url": "hmi.ewi.utwente.nl/Member/dennis_reidsma/Teaching", 
+        "cite_name": "", 
+        "title": "HMI Dennis Reidsma - Human Media Interaction"
+    }, 
+    {
+        "content": "dennis reidsma. assistant professor ... verified email at utwente.nl. scholar. get my own ... h van welbergen, d reidsma, zm ruttkay, j zwiers. journal on...", 
+        "email_list": [
+            "email@utwente.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WDq0z5sAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Dennis Reidsma - Google Scholar Citations"
+    }, 
+    {
+        "content": "dennis reidsma. email: d.reidsmaz@utwente.nl; alternate email: dennis@gonnagles.nl; website: http://; registered on: 06/30/2011; last connection: 08/22/...", 
+        "email_list": [
+            "d.reidsmaz@utwente.nl", 
+            "dennis@gonnagles.nl"
+        ], 
+        "cite_url": "www.mindmakers.org/users/34", 
+        "cite_name": "", 
+        "title": "Dennis Reidsma - Mindmakers"
+    }, 
+    {
+        "content": "dennis reidsma: measurement of multimodal synchrony. author: mr. dennis reidsma email: dennisr@ewi.utwente.nl. affilliation: human media interaction,...", 
+        "email_list": [
+            "dennisr@ewi.utwente.nl"
+        ], 
+        "cite_url": "https://www.cs.tcd.ie/...systems/.../node13.html", 
+        "cite_name": "Trinity College, Dublin", 
+        "title": "Dennis Reidsma: Measurement of Multimodal Synchrony"
+    }
+]

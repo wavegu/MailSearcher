@@ -1,5 +1,21 @@
-t.h.w.baeck@liacs.leidenuniv.nl	[2]
-email at ulb.ac.be	[2]
-heiko.hamann@uni-paderborn.de	[1]
-heiko.hamann@uni-paderborn.de.thomas	[1]
-z.yang@liacs.leidenuniv.nl	[1]
+[
+    {
+        "content": "thomas stützle. senior research associate of ... verified email at ulb.ac.be - homepage  scholar ... f hutter, hh hoos, k leyton-brown, t stützle. journal of...", 
+        "email_addr_list": [
+            "email@ulb.ac.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OrODXkAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Thomas Stützle - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: t.h.w.baeck@liacs.leidenuniv.nl room: 169 ... email: z.yang@liacs.leidenuniv.nl. kaifeng ... marco dorigo and thomas stützle - ant colony optimization", 
+        "email_addr_list": [
+            "t.h.w.baeck@liacs.leidenuniv.nl", 
+            "z.yang@liacs.leidenuniv.nl"
+        ], 
+        "cite_url": "natcomp.liacs.nl/NC/", 
+        "cite_name": "", 
+        "title": "Course webpage Natural Computing"
+    }
+]

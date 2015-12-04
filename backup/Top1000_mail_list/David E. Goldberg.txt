@@ -1,5 +1,47 @@
-david.goldberg@olin.edu	[28]
-consultation at www.meetwithdavegoldberg.com	[19]
-dgoldberg@clarkhill.com	[19]
-dgold11@pitt.edu	[3]
-email at threejoy.com	[2]
+[
+    {
+        "content": "david e. goldberg. founder  president, big ... verified email at threejoy.com. scholar. get my own profile ... j horn, n nafpliotis, de goldberg. evolutionary...", 
+        "email_addr_list": [
+            "email@threejoy.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BUzKxsoAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David E. Goldberg - Google Scholar Citations"
+    }, 
+    {
+        "content": "distinguished academic partner. email. david.goldberg@olin.edu. twitter ... dave goldberg is dedicated to transforming education around the globe in alignment...", 
+        "email_addr_list": [
+            "david.goldberg@olin.edu"
+        ], 
+        "cite_url": "www.olin.edu/.../david-goldber...", 
+        "cite_name": "Franklin W. Olin College of Engineering", 
+        "title": "Faculty Profile for David Goldberg | Olin College"
+    }, 
+    {
+        "content": "... these methods can work for you and your institution. call dave goldberg at 217-621-2645 or set up a consultation at www.meetwithdavegoldberg.com today.", 
+        "email_addr_list": [
+            "consultation@www.meetwithdavegoldberg.com"
+        ], 
+        "cite_url": "threejoy.com/", 
+        "cite_name": "", 
+        "title": "ThreeJoy Associates, Inc."
+    }, 
+    {
+        "content": "david e. goldberg. history. contact information: phone: (814) 269-2981. internal: 2981. email: dgold11@pitt.edu. office location: history 113f krebs hall.", 
+        "email_addr_list": [
+            "dgold11@pitt.edu"
+        ], 
+        "cite_url": "www.upj.pitt.edu/.../DirectoryDetai...", 
+        "cite_name": "University of Pittsburgh at Johnstown", 
+        "title": "David E. Goldberg - UPJ"
+    }, 
+    {
+        "content": "email: dgoldberg@clarkhill.com. practice areas. corporate ... david e. goldberg is a member of the firms corporate/mergers and acquisitions practice group.", 
+        "email_addr_list": [
+            "dgoldberg@clarkhill.com"
+        ], 
+        "cite_url": "www.clarkhill.com/people/david-e-goldberg", 
+        "cite_name": "Clark Hill PLC", 
+        "title": "Clark Hill PLC: David E. Goldberg"
+    }
+]

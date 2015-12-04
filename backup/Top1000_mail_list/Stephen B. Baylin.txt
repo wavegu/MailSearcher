@@ -1,2 +1,20 @@
-sbaylin@jhmi.edu	[15]
-pjones@med.usc.edu	[2]
+[
+    {
+        "content": "department affiliations, oncology. rank, professor. office phone, 410-955-8506. lab phone. fax, 410-614-9884. email, sbaylin@jhmi.edu. som address, 544...", 
+        "email_addr_list": [
+            "sbaylin@jhmi.edu"
+        ], 
+        "cite_url": "cmm.jhmi.edu/index.php/cmm-faculty/stephen-b-baylin/", 
+        "cite_name": "", 
+        "title": "Stephen B. Baylin, MD"
+    }, 
+    {
+        "content": "these authors contributed equally. correspondence: stephen b. baylin, email: sbaylin@jhmi.edu. keywords: non-small cell lung cancer(nsclc), azacytidine...", 
+        "email_addr_list": [
+            "sbaylin@jhmi.edu"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 4, No 11  Wrangle", 
+        "cite_name": "", 
+        "title": "Alterations of immune response of non-small cell lung ..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "organization, ra name, email, phone. c-dac, knowledge ... +91-011-26591783. iiit, delhi, ponnurangam kumaraguru, pk@iiitd.ac.in, +91-011-25099177...", 
+        "email_list": [
+            "pk@iiitd.ac.in"
+        ], 
+        "cite_url": "ca.garudaindia.in/index.php/ra/contact-ra/", 
+        "cite_name": "", 
+        "title": "ca.garudaindia.in » Contact RA"
+    }, 
+    {
+        "content": "ponnurangam kumaraguru, steve sheng, alessandro acquisti, ... university; email: acquisti@andrew.cmu.edu; l. cranor, carnegie mellon...", 
+        "email_list": [
+            "acquisti@andrew.cmu.edu"
+        ], 
+        "cite_url": "lorrie.cranor.org/pubs/johnny_paper.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Teaching Johnny Not to Fall for Phish - Lorrie Faith Cranor"
+    }
+]

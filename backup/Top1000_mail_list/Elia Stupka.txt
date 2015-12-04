@@ -1,5 +1,47 @@
-elia.stupka@cbm.fvg.it	[21]
-stupka.elia@hsr.it	[21]
-email at hsr.it	[3]
-remo.sanges@szn.it	[3]
-andrea.weber@flemingeurope.com	[2]
+[
+    {
+        "content": "create alert. cancel. elia stupka ... verified email at hsr.it. scholar. get my own ... s aparicio, j chapman, e stupka, n putnam, j chia, p dehal, ... science 297...", 
+        "email_addr_list": [
+            "email@hsr.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=a2BqAmQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Elia Stupka - Google Scholar Citations"
+    }, 
+    {
+        "content": "funding source: san raffaele salary on grant: commensurate with role/experience. contact person (referent): elia stupka ref. e-mail: stupka.elia@hsr.it", 
+        "email_addr_list": [
+            "stupka.elia@hsr.it"
+        ], 
+        "cite_url": "bioinformatics.it/index.php?mod=newsnewsId=507", 
+        "cite_name": "", 
+        "title": "Bioinformatics.it :: Bioinformatics Italian Society"
+    }, 
+    {
+        "content": "elia stupka. email: elia.stupka@cbm.fvg.it; registered on: projects. bio-eutilities (manager, 01/03/2014); bio::featureio (manager, 03/09/2011); bio::graphics...", 
+        "email_addr_list": [
+            "elia.stupka@cbm.fvg.it"
+        ], 
+        "cite_url": "https://redmine.open-bio.org/users/11", 
+        "cite_name": "", 
+        "title": "Elia Stupka - OBF Redmine"
+    }, 
+    {
+        "content": "+39 081 5833428 – mobile: +39 340 2789194 – e-mail: remo.sanges@szn.it .... remo sanges, pedro cruz, vincenza maselli, elia stupka. analysis of...", 
+        "email_addr_list": [
+            "remo.sanges@szn.it"
+        ], 
+        "cite_url": "www.adm.sissa.it/_media/collaborazioni/sanges.15.cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]REMO SANGES, PhD"
+    }, 
+    {
+        "content": "dr. elia stupka started his genomics career as part of the ensembl group and the core human genome ... email: andrea.weber@flemingeurope.com. news.", 
+        "email_addr_list": [
+            "andrea.weber@flemingeurope.com"
+        ], 
+        "cite_url": "pharma.flemingeurope.com  Pharma  Pharma Exabytewww.google.com/email", 
+        "cite_name": "", 
+        "title": "Elia StupkaGoogle Business Email‎"
+    }
+]

@@ -1,7 +1,38 @@
-ian@ece.gatech.edu	[8]
-ian@ece.gatech.edu.ian	[8]
-cordai@ece.gatech.edufaculty	[3]
-email at ece.gatech.edu	[3]
-cordai@ece.gatech.edu	[3]
-mint@etsetb.upc.edu	[2]
-wxudong@ieee.org	[1]
+[
+    {
+        "content": "dr. ian f. akyildiz is the ken byer chair professor in telecommunications, the chair of the telecom group at the school of ... e-mail: cordai@ece.gatech.edu", 
+        "email_addr_list": [
+            "cordai@ece.gatech.edu"
+        ], 
+        "cite_url": "www.ece.gatech.edu/~ian", 
+        "cite_name": "Georgia Institute of Technology", 
+        "title": "Dr. Ian F. Akyildiz - School of Electrical and Computer ..."
+    }, 
+    {
+        "content": "cancel. ian f. akyildiz. school of ... verified email at ece.gatech.edu - homepage  scholar ... if akyildiz, w su, y sankarasubramaniam, e cayirci. computer...", 
+        "email_addr_list": [
+            "email@ece.gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=rAGwv14AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "IAN F. AKYILDIZ - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. ian f. akyildiz is the ken byer chair professor in telecommunications, the chair of the telecom group at the school of ... email: ian@ece.gatech.edu.", 
+        "email_addr_list": [
+            "ian@ece.gatech.edu"
+        ], 
+        "cite_url": "et4nbic.cs.tut.fi/nanocom/ifa/publications.html", 
+        "cite_name": "", 
+        "title": "Dr. Ian F. Akyildiz | Publications - ET4NBIC Lab"
+    }, 
+    {
+        "content": "ian f. akyildiz, from the broadband wireless networking lab. ... can pre-register in the course by sending an email to mint@etsetb.upc.edu including your name,...", 
+        "email_addr_list": [
+            "mint@etsetb.upc.edu"
+        ], 
+        "cite_url": "telecombcn.upc.edu/en/mason-share/notif/1259.html", 
+        "cite_name": "", 
+        "title": "Course by Prof. Ian F. Akyildiz - Telecom BCN - UPC"
+    }
+]

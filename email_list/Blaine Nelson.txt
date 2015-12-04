@@ -1,0 +1,11 @@
+[
+    {
+        "content": "blaines homepage. this is blaine nelsons personal home page. currently, im a graduate student ... email: blaine.nelson at gmail dot com. my other pages:.", 
+        "email_list": [
+            "blaine.nelson@gmail.com"
+        ], 
+        "cite_url": "blaine-nelson.com/", 
+        "cite_name": "", 
+        "title": "Blaine Nelsons Hompage"
+    }
+]

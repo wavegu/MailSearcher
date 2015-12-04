@@ -1,0 +1,20 @@
+[
+    {
+        "content": "university of sussex web profile of prof hilary buxton. ... email: hilaryb@sussex.ac.uk. personal homepage: hilaryb  download vcarddownload vcard to your...", 
+        "email_list": [
+            "hilaryb@sussex.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sussex", 
+        "title": "Hilary Buxton : University of Sussex"
+    }, 
+    {
+        "content": "contact: beatrice.j.adams@gmail.com. beatrice graduated with .... hilary buxton modern ... hilary received her b.a. in history from smith college in 2011. she is...", 
+        "email_list": [
+            "beatrice.j.adams@gmail.com"
+        ], 
+        "cite_url": "history.rutgers.edu/.../graduate-student-contacts", 
+        "cite_name": "Rutgers University", 
+        "title": "Graduate Student Contacts - Department of History"
+    }
+]

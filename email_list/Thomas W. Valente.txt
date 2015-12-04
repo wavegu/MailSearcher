@@ -1,0 +1,29 @@
+[
+    {
+        "content": "thomas w. valente, ph.d. associate professor department of preventive medicine 2001 n ... ca 90033-9045. phone: 323.442.8238. e-mail: tvalente@usc.edu...", 
+        "email_list": [
+            "tvalente@usc.edu"
+        ], 
+        "cite_url": "www-hsc.usc.edu/~tvalente/about.htm", 
+        "cite_name": "University of Southern California", 
+        "title": "About Me"
+    }, 
+    {
+        "content": "thomas valente. professor of preventive ... verified email at usc.edu. scholar. get my own ... r iyengar, c van den bulte, tw valente. marketing science 30 (2),...", 
+        "email_list": [
+            "email@usc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MUHQo80AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Thomas Valente - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 25, 2015 - social network analysis for program implementation. thomas w. valente ,. * e-mail: tvalente@usc.edu. affiliation: preventive medicine, school...", 
+        "email_list": [
+            "tvalente@usc.edu"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0131712", 
+        "cite_name": "", 
+        "title": "Social Network Analysis for Program Implementation - PLoS"
+    }
+]

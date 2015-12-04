@@ -1,0 +1,29 @@
+[
+    {
+        "content": "professor stephen h. muggleton. freng, faaai, fbcs ... e-mail: secretary: +44 20 7594 8307 +44 20 7581 8024 s.muggleton@imperial.ac.uk  bridget gundry...", 
+        "email_list": [
+            "s.muggleton@imperial.ac.uk"
+        ], 
+        "cite_url": "wp.doc.ic.ac.uk/shm/", 
+        "cite_name": "", 
+        "title": "Professor Stephen H. Muggleton | Head of Computational ..."
+    }, 
+    {
+        "content": "stephen muggleton. imperial college london ... verified email at imperial.ac.uk - homepage  scholar. get my own ... citations, 14426, 3664. h-index, 72, 33.", 
+        "email_list": [
+            "email@imperial.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WxJXT2MAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen Muggleton - Google Scholar Citations"
+    }, 
+    {
+        "content": "... philip g. k. reiser, christopher h. bryant, stephen h. muggleton, douglas b. kell ... correspondence to: stephen g. oliver email: steve.oliver@man.ac.uk.", 
+        "email_list": [
+            "steve.oliver@man.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Functional genomic hypothesis generation and ... - Nature"
+    }
+]

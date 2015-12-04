@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sidney dmello ... dr. dmellos primary research interests are in the cognitive and affective ... dmello, s. k.  graesser a. c. (2014). ... email: sdmello@nd.edu.", 
+        "email_list": [
+            "sdmello@nd.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Sidney DMello // Department of Psychology // University of ..."
+    }, 
+    {
+        "content": "ryan s.j.d. baker a, sidney k. d mello b, ma. ... corresponding author: ryan s.j.d. baker contact email: rsbaker@andrew.cmu.edu address: human-computer...", 
+        "email_list": [
+            "rsbaker@andrew.cmu.edu"
+        ], 
+        "cite_url": "docplayer.net/36778-Ryan-s-j-d-baker-a-sidney-k-d-mello-b-ma-merced...", 
+        "cite_name": "", 
+        "title": "Ryan S.J.d. Baker a, Sidney K. D Mello b, Ma. Mercedes T ..."
+    }, 
+    {
+        "content": "arthur c. graesser; sidney k. dmello; scotty d. craig; amy witherspoon; ... feedback and suggestions please email info@editlib.org or use our online...", 
+        "email_list": [
+            "info@editlib.org"
+        ], 
+        "cite_url": "www.editlib.org/?...D’Mello%2C%20Sidney%20K.", 
+        "cite_name": "", 
+        "title": "DMello, Sidney K. - EdITLib"
+    }
+]

@@ -1,1 +1,11 @@
-allel.hadjali@ensma.fr	[2]
+[
+    {
+        "content": "poitiers, france. email: allel.hadjali@ensma.fr. henriprade. henri prade. le centre national de la recherche scientifique(cnrs) in paul sabatier university.", 
+        "email_addr_list": [
+            "allel.hadjali@ensma.fr"
+        ], 
+        "cite_url": "www.softcomputing.es/metaspace/portal/12/477", 
+        "cite_name": "", 
+        "title": "IFSA-EUSFLAT 2015"
+    }
+]

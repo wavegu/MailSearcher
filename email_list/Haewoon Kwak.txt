@@ -1,0 +1,20 @@
+[
+    {
+        "content": "research scientist, qatar computing research institute, hbku. computational social science - game analytics - data journalism. verified email at qf.org.qa -...", 
+        "email_list": [
+            "email@qf.org.qa"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=M6i3Be0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Haewoon Kwak - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. haewoon kwak. haewoon. scientist. social computing. hkwak@qf.org.qa ... at qcri, haewoon focuses on computational social science and computational...", 
+        "email_list": [
+            "hkwak@qf.org.qa"
+        ], 
+        "cite_url": "www.qcri.org.qa/our-people/bio?pid=180name=Haewoon_Kwak", 
+        "cite_name": "", 
+        "title": "QCRI - Dr. Haewoon Kwak Biography"
+    }
+]

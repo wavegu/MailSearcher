@@ -1,2 +1,11 @@
-contact@biopredictive.com	[2]
-contact@biopredictive.com.trials	[2]
+[
+    {
+        "content": "extrait interview du pr thierry poynard dans paris-match. léquipe du pr thierry poynard, chef du ... tel : +33 1 84 79 23 90 email : contact@biopredictive.com.", 
+        "email_addr_list": [
+            "contact@biopredictive.com"
+        ], 
+        "cite_url": "www.biopredictive.com/.../extrait-interview-du-pr-thie...", 
+        "cite_name": "", 
+        "title": "Extrait Interview du Pr Thierry Poynard dans Paris-Match ..."
+    }
+]

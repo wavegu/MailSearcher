@@ -1,3 +1,20 @@
-carl.folke@su.se	[19]
-carl.folke@beijer.kva.se	[19]
-email at beijer.kva.se	[1]
+[
+    {
+        "content": "e-mail carl.folke@beijer.kva.se. address: the beijer institute of ecological economics, the royal swedish academy of science, box 50005 se-104 05...", 
+        "email_addr_list": [
+            "carl.folke@beijer.kva.se"
+        ], 
+        "cite_url": "www.beijer.kva.se/staff_under.php?id=1", 
+        "cite_name": "", 
+        "title": "Carl Folke - The Beijer Institute of Ecological Economics"
+    }, 
+    {
+        "content": "carl folke. beijer institute royal swedish ... verified email at beijer.kva.se. scholar ... m scheffer, s carpenter, ja foley, c folke, b walker. nature 413 (6856)...", 
+        "email_addr_list": [
+            "email@beijer.kva.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MAc53iIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Carl Folke - Google Scholar Citations"
+    }
+]

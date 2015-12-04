@@ -1,0 +1,20 @@
+[
+    {
+        "content": "complete survey for this doctor: dr. andreas bollmann, md, patient survey, chester, pa, ... please enter a valid email address, e.g. name@email.com*.", 
+        "email_list": [
+            "name@email.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Tell Us About Your Experience with Dr. Andreas Bollmann ..."
+    }, 
+    {
+        "content": "view andreas bollmanns business profile as scientific advisory board member at cardiology online inc and ... email: andreas.bollmann@kard.lu.se.", 
+        "email_list": [
+            "andreas.bollmann@kard.lu.se"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Andreas-Bollmann/542833992", 
+        "cite_name": "", 
+        "title": "Andreas Bollmann | Cardiology Online Inc | ZoomInfo.com"
+    }
+]

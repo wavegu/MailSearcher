@@ -1,0 +1,39 @@
+[
+    {
+        "content": "cancel. takeshi kawakami. research ... verified email at ebc.uu.se - homepage  scholar ... t kawakami, rk butlin, m adams, dj paull, sjb cooper. evolution...", 
+        "email_list": [
+            "email@ebc.uu.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SfEVd58AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Takeshi Kawakami - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail address: ***.osaka-u.ac.jp ... takashi yoshimura, tyoshi@chem.sci, ri center. concurrent ... takashi kawakami, kawakami@chem.sci, okumura lab.", 
+        "email_list": [
+            "tyoshi@chem.sci", 
+            "kawakami@chem.sci"
+        ], 
+        "cite_url": "www.chem.sci.osaka-u.ac.jp/chem/chem/eng/staff/", 
+        "cite_name": "Osaka University", 
+        "title": "Faculty and Research - Osaka University"
+    }, 
+    {
+        "content": "mr. yoichi kato. bureau chief. american general bureau. asahi shimbun. email: yoichikato@aol.com. prof. takashi kawakami. faculty of international studies.", 
+        "email_list": [
+            "yoichikato@aol.com"
+        ], 
+        "cite_url": "csis.org/.../080328_pacfor_...", 
+        "cite_name": "Center for Strategic and International Studies", 
+        "title": "[PDF]Participant List - Center for Strategic and International Studies"
+    }, 
+    {
+        "content": "email: takeshi.kawakami@ebc.uu.se; visiting address: evolutionsbiologiskt centrum norbyv. 18d 75236 uppsala; postal address: evolutionsbiologiskt centrum...", 
+        "email_list": [
+            "takeshi.kawakami@ebc.uu.se"
+        ], 
+        "cite_url": "katalog.uu.se/empinfo/?languageId=1id=N11...", 
+        "cite_name": "Uppsala University", 
+        "title": "Takeshi Kawakami - Uppsala University, Sweden"
+    }
+]

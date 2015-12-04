@@ -1,4 +1,20 @@
-vladimir.vapnik@rhul.ac.uk	[29]
-guestservices@fi.edu.learning	[3]
-guestservices@fi.edu	[3]
-email at nec-labs.com	[1]
+[
+    {
+        "content": "verified email at nec-labs.com. scholar. get my own ... be boser, im guyon, vn vapnik. proceedings of the ... i guyon, j weston, s barnhill, v vapnik. machine...", 
+        "email_addr_list": [
+            "email@nec-labs.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vtegaJgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "vapnik - Google Scholar Citations"
+    }, 
+    {
+        "content": "perhaps the most influential and innovative researcher in machine learning is vladimir vapnik, ... call or email us at 215.448.1200 or guestservices@fi.edu.", 
+        "email_addr_list": [
+            "guestservices@fi.edu"
+        ], 
+        "cite_url": "https://www.fi.edu/laureates/vladimir-vapnik", 
+        "cite_name": "", 
+        "title": "Vladimir Vapnik | The Franklin Institute"
+    }
+]

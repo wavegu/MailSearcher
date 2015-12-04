@@ -1,6 +1,20 @@
-hanke@agowa.de.abstract	[2]
-hanke@agowa.de	[2]
-info@lgcgenomcis.com	[2]
-alfons@pedgen.med.uni-muenchen.de.a	[2]
-alfons@pedgen.med.uni-muenchen.de	[2]
-jmcphers@watson.wustl.edu	[1]
+[
+    {
+        "content": "oliver brandau1, gerald nyakatura2, kerry b jedele1, matthias platzer2, helene ... 4467; fax: +49 89 5160 4780; email: alfons@pedgen.med.uni-muenchen.de.", 
+        "email_addr_list": [
+            "alfons@pedgen.med.uni-muenchen.de"
+        ], 
+        "cite_url": "www.nature.com/articles/5200207", 
+        "cite_name": "Nature", 
+        "title": "Abstract - Nature"
+    }, 
+    {
+        "content": "... gerald nyakatura, reiner siebert  brigitte schlegelberger for department of ... should be addressed to j.d.m. (e-mail: email: jmcphers@watson.wustl.edu).", 
+        "email_addr_list": [
+            "jmcphers@watson.wustl.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Human Genome  article", 
+        "cite_name": "Nature", 
+        "title": "A physical map of the human genome : Abstract : Nature"
+    }
+]

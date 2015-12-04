@@ -1,6 +1,38 @@
-julian.downward@crick.ac.uk	[29]
-julian.downward@crick.ac.ukjulian	[29]
-julian.downward@cancer.org.uk	[29]
-info@acmedsci.ac.uk.julian	[1]
-info@acmedsci.ac.uk	[1]
-email at cancer.org.uk	[1]
+[
+    {
+        "content": "professor julian downward leads the signal transduction laboratory at our london research institute. he wants to ... email: julian.downward@crick.ac.uk", 
+        "email_addr_list": [
+            "julian.downward@crick.ac.uk"
+        ], 
+        "cite_url": "www.cancerresearchuk.org/.../julian-downward-220", 
+        "cite_name": "Cancer Research UK", 
+        "title": "Julian Downward : Cancer Research UK"
+    }, 
+    {
+        "content": "cancel. julian downward ... verified email at cancer.org.uk - homepage ... j downward, y yarden, e mayes, g scrace, n totty, p stockwell, a ullrich, .", 
+        "email_addr_list": [
+            "email@cancer.org.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=06_2Xm0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Julian DOWNWARD - Google Scholar Citations"
+    }, 
+    {
+        "content": "professor julian downward frs fmedsci ... julian downward is associate director at cancer research uks london research ... e-mail: info@acmedsci.ac.uk.", 
+        "email_addr_list": [
+            "info@acmedsci.ac.uk"
+        ], 
+        "cite_url": "www.acmedsci.ac.uk/.../...", 
+        "cite_name": "Academy of Medical Sciences, United Kingdom", 
+        "title": "Professor Julian Downward - Fellow | Academy of Medical ..."
+    }, 
+    {
+        "content": "author affiliations. cancer research uk, london research institute, 44 lincolns inn fields, london wc2a 3px, uk. email: julian.downward@cancer.org.uk.", 
+        "email_addr_list": [
+            "julian.downward@cancer.org.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Reviewwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Targeting RAS signalling pathways in cancer therapy - NatureGoogle Business Email‎Searches related to Julian Downward email"
+    }
+]

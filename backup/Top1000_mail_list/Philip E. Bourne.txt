@@ -1,3 +1,29 @@
-pbourne@ucsd.edu	[15]
-bourne@sdsc.edu	[14]
-email at nih.gov	[2]
+[
+    {
+        "content": "philip bourne. associate director for ... verified email at nih.gov - homepage  scholar ... hm berman, t battistuz, tn bhat, wf bluhm, pe bourne, k burkhardt, . ... s günther, m kuhn, m dunkel, m campillos, c senger, e petsalaki, ... nucleic...", 
+        "email_addr_list": [
+            "email@nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Y9q2zZAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Philip Bourne - Google Scholar Citations"
+    }, 
+    {
+        "content": "philip e. bourne, ph.d. professor skaggs school of ... founding editor in chief plos computational biology. email pbourne@ucsd.edu. phone (858) 534-8301...", 
+        "email_addr_list": [
+            "pbourne@ucsd.edu"
+        ], 
+        "cite_url": "pharmacy.ucsd.edu...", 
+        "cite_name": "Skaggs School of Pharmacy and Pharmaceutical Sci...", 
+        "title": "Dr. Philip E. Bourne - UC San Diego Skaggs School of ..."
+    }, 
+    {
+        "content": "philip e. bourne is editor-in-chief of plos computational biology . e-mail: bourne@sdsc.edu. x ... li xie, jerry li, lei xie, philip e. bourne. research article | 15...", 
+        "email_addr_list": [
+            "bourne@sdsc.edu"
+        ], 
+        "cite_url": "www.ploscompbiol.org/.../info%3Adoi%2...www.google.com/email", 
+        "cite_name": "PLOS Computational Biology", 
+        "title": "PLOS Computational Biology: Ten Simple Rules for Getting ...Google Business Email‎"
+    }
+]

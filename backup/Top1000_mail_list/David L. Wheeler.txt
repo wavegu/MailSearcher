@@ -1,1 +1,11 @@
-dwheeler@alfanarmedia.org	[17]
+[
+    {
+        "content": "... al fanar, david l. wheeler, at dwheeler@alfanarmedia.org and the managing editor, ... the telephone number is +44 (0) 20 7993 7545, the e-mail address is...", 
+        "email_addr_list": [
+            "dwheeler@alfanarmedia.org"
+        ], 
+        "cite_url": "www.al-fanarmedia.org/contact/", 
+        "cite_name": "", 
+        "title": "Contact Us - Al-Fanar MediaAl-Fanar Media - الفنار للإعلام"
+    }
+]

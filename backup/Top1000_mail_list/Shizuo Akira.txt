@@ -1,3 +1,20 @@
-sakira@biken.osaka-u.ac.jp	[12]
-tatsuya@biken.osaka-u.ac.jp.shizuo	[3]
-tatsuya@biken.osaka-u.ac.jp	[3]
+[
+    {
+        "content": "shizuo akira  kiyoshi takeda about the authors. top of page ... correspondence to: shizuo akira email: sakira@biken.osaka-u.ac.jp. top of page...", 
+        "email_addr_list": [
+            "sakira@biken.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Toll-like receptor signalling : Abstract : Nature Reviews ..."
+    }, 
+    {
+        "content": "society: japanese society for immunology. president: prof shizuo akira; osaka university. japan. email: sakira@biken.osaka-u.ac.jp. secretary: prof toshiaki...", 
+        "email_addr_list": [
+            "sakira@biken.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www.fimsa.org/jsi.html", 
+        "cite_name": "", 
+        "title": "Japan - Federation of Immunological Societies of Asia ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "qinghua zhu. department of: operations management. professor. phone: 86（021） 62933203. email: qhzhu@sjtu.edu.cn...", 
+        "email_list": [
+            "qhzhu@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.acem.sjtu.edu.cn/.../zhuqinghua.htm...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "QingHua ZHU - Faculty - Antai College of Economics ..."
+    }, 
+    {
+        "content": "qinghua tao, ph.d. professor ... gao l, zhang y, zhu xc, gu f, tao qh* (2014) ash1 regulates germ layer ... email address: qhtaolab@mail.tsinghua.edu.cn...", 
+        "email_list": [
+            "qhtaolab@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "life.tsinghua.edu.cn/english/faculty/faculty/674.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "Qinghua Tao - school of Life Sclences,Tsinghua University"
+    }, 
+    {
+        "content": "92, nankai district, tianjin, p. r. china; email: huqinghua@tju.edu.cn. publication ... [6]min f,hu qh,zhu w. feature selection with test cost constraint.", 
+        "email_list": [
+            "huqinghua@tju.edu.cn"
+        ], 
+        "cite_url": "cs.tju.edu.cn/faculty/huqinghua/", 
+        "cite_name": "", 
+        "title": "Qinghua Hu"
+    }
+]

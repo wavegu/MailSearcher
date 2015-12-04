@@ -1,1 +1,11 @@
-info@hutton.ac.uk	[1]
+[
+    {
+        "content": "(james hutton institute joint studentship programme with university of stirling). ... littlewood, n.a.; dinnie, e.; gilbert, l.; hooper, r.j.; iason, g.r.; irvine, r.j.; lackova, .... email: info@hutton.ac.uk; phone: +44 (0)844 928 5428; craigiebuckler...", 
+        "email_addr_list": [
+            "info@hutton.ac.uk"
+        ], 
+        "cite_url": "www.hutton.ac.uk  staff", 
+        "cite_name": "James Hutton Institute", 
+        "title": "Dr Lucy Gilbert | Ecological Sciences | The James Hutton ..."
+    }
+]

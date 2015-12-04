@@ -1,8 +1,48 @@
-leena.peltonen at ktl.fi	[27]
-leena.peltonen@ktl.fi.leena	[27]
-leena.peltonen@ktl.fi	[27]
-lpeltonen@mednet.ucla.edu	[18]
-firstname.lastname@thl.fi	[2]
-laura.hubbard@wtgc.org	[2]
-ppajukanta@mednet.ucla.edu	[2]
-firstname.surname@thl.fi	[1]
+[
+    {
+        "content": "finland - professor leena peltonen (co-ordinator of ncoedg). contact. sari kivikko (p.a. to ... email:firstname.surname@thl.fi. sorry, you need javascript here.", 
+        "email_addr_list": [
+            "firstname.surname@thl.fi"
+        ], 
+        "cite_url": "www.ncoedg.org  Home  Intellectual Cores", 
+        "cite_name": "", 
+        "title": "FINLAND - Professor Leena Peltonen (co-ordinator of ..."
+    }, 
+    {
+        "content": "contact, professor leena peltonen ... email: firstname.lastname@thl.fi ... throughout of her research career, dr. peltonen has recognized and successfully used...", 
+        "email_addr_list": [
+            "firstname.lastname@thl.fi"
+        ], 
+        "cite_url": "www.ncoedg.org  Home  Intellectual Cores", 
+        "cite_name": "", 
+        "title": "Professor Leena Peltonen"
+    }, 
+    {
+        "content": "e-mail: laura.hubbard@wtgc.org. comments: this wellcome trust summer school provides an opportunity for phd students to learn from and be inspired by...", 
+        "email_addr_list": [
+            "laura.hubbard@wtgc.org"
+        ], 
+        "cite_url": "www.bsgm.org.uk/news.../the-leena-peltonen-school-of-human-genomic...", 
+        "cite_name": "", 
+        "title": "The Leena Peltonen School of Human Genomics"
+    }, 
+    {
+        "content": "leena peltonen, ucla, department of human genetics, gonda ... 90095-7088, phone: 310-794-9802, fax: 310-794-5446, e-mail: lpeltonen@mednet.ucla.edu...", 
+        "email_addr_list": [
+            "lpeltonen@mednet.ucla.edu"
+        ], 
+        "cite_url": "www.genetics.ucla.edu/hdl/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "UCLA Human Genetics"
+    }, 
+    {
+        "content": "e-mail: ppajukanta@mednet.ucla.edu and leena peltonen, biomedicum helsinki, haartmanink. 8, 00250 helsinki, finland. email: leena.peltonen@ktl.fi.", 
+        "email_addr_list": [
+            "ppajukanta@mednet.ucla.edu", 
+            "leena.peltonen@ktl.fi"
+        ], 
+        "cite_url": "https://labs.genetics.ucla.edu/pajukanta/fchlcomb/", 
+        "cite_name": "", 
+        "title": "Combined Analysis of Genome Scans of Dutch and Finnish ..."
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "email: brenna.argall@northwestern.edu  dr. argalls ric ... email: y-dhaher@northwestern.edu  dr. dhahers ric ... li-qun zhang, phd. senior research...", 
+        "email_list": [
+            "brenna.argall@northwestern.edu", 
+            "y-dhaher@northwestern.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "SMPP Faculty - Rehabilitation Institute of Chicago"
+    }, 
+    {
+        "content": "cancel. li-qun zhang. professor of pmr ... verified email at northwestern.edu. scholar ... m makhsous, f lin, rw hendrix, m hepler, lq zhang. spine 28 (11)...", 
+        "email_list": [
+            "email@northwestern.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=kREPhEUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Li-Qun Zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "liqun zhang（张立群）. position: ... email: zhanglq@mail.buct.edu.cn. tel: 0086-10- ... liu, quanyong; tan, tianwei; weng, jingyi; zhang, liqun*. study on the...", 
+        "email_list": [
+            "zhanglq@mail.buct.edu.cn"
+        ], 
+        "cite_url": "www.polyeng.com/AMRI/zhang-liqun.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]zhang liqun.pdf"
+    }, 
+    {
+        "content": "email: liqun.zhang@manchester.ac.uk; telephone: +44 (0)161 446 8449. stem cell and leukaemic proteomics laboratory division of cancer studies", 
+        "email_list": [
+            "liqun.zhang@manchester.ac.uk"
+        ], 
+        "cite_url": "www.mhs.manchester.ac.uk/staff/92245/", 
+        "cite_name": "University of Manchester", 
+        "title": "Liqun Zhang - University of Manchester"
+    }
+]

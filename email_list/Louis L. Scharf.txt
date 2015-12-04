@@ -1,0 +1,58 @@
+[
+    {
+        "content": "contact information. office location: engineering b116 phone: (970)491-2979. fax: (970)491-2249. email: scharf@engr.colostate.edu...", 
+        "email_list": [
+            "scharf@engr.colostate.edu"
+        ], 
+        "cite_url": "www.engr.colostate.edu/faculty.../profiles.php?...", 
+        "cite_name": "Colorado State University", 
+        "title": "Dr Louis L Scharf - Search Faculty and Staff - College of ..."
+    }, 
+    {
+        "content": "louis scharf. research professor of ... verified email at engr.colostate.edu. scholar. get my own ... l ramdas kumaresan, l scharf, ak shaw. 178, 1986.", 
+        "email_list": [
+            "email@engr.colostate.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=bAk9WFIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Louis Scharf - Google Scholar Citations"
+    }, 
+    {
+        "content": "professor louis l. scharf, colorado state university. email: scharf@engr.colostate.edu. • magnus uppsäll, swedish defence research agency email:...", 
+        "email_list": [
+            "scharf@engr.colostate.edu"
+        ], 
+        "cite_url": "www.ltu.se/cms_fs/.../cv_nordenvaad.pd...", 
+        "cite_name": "Luleå University of Technology", 
+        "title": "[PDF]Curriculum Vitae Magnus Lundberg Nordenvaad Personal ..."
+    }, 
+    {
+        "content": "louis l. scharf. department of mathematics. colorado state university. fort collins, co 80523-1874 usa. email: louis.scharf@colostate.edu. edwin k. p....", 
+        "email_list": [
+            "louis.scharf@colostate.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Optimization of Exponential Error Rates for a Suboptimum ..."
+    }, 
+    {
+        "content": "louis l. scharf. 1. todd mcwhorter. 2. shawn kraut ... scharf@engr.colostate.edu. email : mcwhorter@aster.com. email : kraut@ee.duke.edu. 1. this work...", 
+        "email_list": [
+            "scharf@engr.colostate.edu", 
+            "mcwhorter@aster.com", 
+            "kraut@ee.duke.edu"
+        ], 
+        "cite_url": "https://www.ll.mit.edu/asap/asap.../Scharf.pdf", 
+        "cite_name": "MIT Lincoln Laboratory", 
+        "title": "[PDF]Presentation"
+    }, 
+    {
+        "content": "phone: 39-0832-297205 email: giuseppe.ricci@unile.it. louis l. scharf. electrical and computer engineering. campus delivery 1373. colorado state university.", 
+        "email_list": [
+            "giuseppe.ricci@unile.it"
+        ], 
+        "cite_url": "https://www.ll.mit.edu/asap/.../11_Ab_Ricci.pdf", 
+        "cite_name": "MIT Lincoln Laboratory", 
+        "title": "[PDF]Abstract - MIT Lincoln Laboratory"
+    }
+]

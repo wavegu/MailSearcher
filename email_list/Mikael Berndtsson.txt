@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mikael berndtsson senior lecturer in informatics school of informatics ... email; mikael.berndtsson@his.se ... berndtsson, m. and hansson, j. (2000). time is the...", 
+        "email_list": [
+            "mikael.berndtsson@his.se"
+        ], 
+        "cite_url": "www.his.se/en/about-us/Facts.../mikael_berndtsson/", 
+        "cite_name": "University of Skövde", 
+        "title": "Mikael Berndtsson - Högskolan i Skövde"
+    }, 
+    {
+        "content": "mikael berndtsson. university of skövde, sweden. verified email at his.se - homepage ... sf andler, j hansson, j eriksson, j mellin, m berndtsson, b eftring.", 
+        "email_list": [
+            "email@his.se"
+        ], 
+        "cite_url": "scholar.google.se/citations?user=dSA7rUQAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Mikael Berndtsson - Google Scholar Citations"
+    }
+]

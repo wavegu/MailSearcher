@@ -1,1 +1,11 @@
-daron@mit.edu	[12]
+[
+    {
+        "content": "daron acemoglu. contact information. phone: (617) 253-1927. fax: (617) 253-1330. email: daron@mit.edu. address: mit department of economics", 
+        "email_addr_list": [
+            "daron@mit.edu"
+        ], 
+        "cite_url": "economics.mit.edu/.../acemoglu", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "MIT Economics : Daron AcemogluPapersCoursesPublicationsData Archive"
+    }
+]

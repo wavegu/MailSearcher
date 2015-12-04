@@ -1,0 +1,38 @@
+[
+    {
+        "content": "christian j. a. sigrist, swiss institute of bioinformatics (sib), cmu, university of ... +41 22 702 58 68 fax: +41 22 702 58 58 e-mail: christian.sigrist@isb-sib.ch.", 
+        "email_list": [
+            "christian.sigrist@isb-sib.ch"
+        ], 
+        "cite_url": "bib.oxfordjournals.org/.../3/3/265.short?...", 
+        "cite_name": "Briefings in Bioinformatics", 
+        "title": "PROSITE: A documented database using patterns and ..."
+    }, 
+    {
+        "content": "aug 9, 2005 - christian j. a. sigrist*, edouard de castro, petra s. ... for permissions, please email: journals.permissions@oupjournals.org. bioinformatics...", 
+        "email_list": [
+            "journals.permissions@oupjournals.org"
+        ], 
+        "cite_url": "bioinformatics.oxfordjournals.org/.../bioinformatics.bti61...", 
+        "cite_name": "Bioinformatics", 
+        "title": "ProRule: a new database containing functional and ..."
+    }, 
+    {
+        "content": "oct 28, 2015 - e-mail: christian.sigrist@isb-sib.ch. prosite: a documented database using patterns and profiles as motif descriptors. christian j. a. sigrist...", 
+        "email_list": [
+            "christian.sigrist@isb-sib.ch"
+        ], 
+        "cite_url": "https://archive-ouverte.unige.ch/.../ATTACHMENT...", 
+        "cite_name": "University of Geneva", 
+        "title": "[PDF]Article (Published version)"
+    }, 
+    {
+        "content": "authors/contributors : christian j. a. sigrist contact email : christian.sigrist@isb-sib.ch. year : 2009. language : english keywords : algorithms; amino acid...", 
+        "email_list": [
+            "christian.sigrist@isb-sib.ch"
+        ], 
+        "cite_url": "www.ibiranet.in/pages/new_result/PROSITE/Databases", 
+        "cite_name": "", 
+        "title": "iBIRA"
+    }
+]

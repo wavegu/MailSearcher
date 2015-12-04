@@ -1,2 +1,11 @@
-axa@dei.unipd.it	[1]
-serres@mail.ucr.edu	[1]
+[
+    {
+        "content": "3. department of computer science and engineering, university of california, riverside, ca 92521, usa. e-mail: axa@dei.unipd.it; fangcheng.gong@celera.", 
+        "email_addr_list": [
+            "axa@dei.unipd.it"
+        ], 
+        "cite_url": "www.cc.gatech.ed...", 
+        "cite_name": "Georgia Institute of Technology College of Computing", 
+        "title": "[PDF]Verbumculus and the Discovery of Unusual Words - College ..."
+    }
+]

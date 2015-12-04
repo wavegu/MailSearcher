@@ -1,1 +1,29 @@
-email at cs.umd.edu	[2]
+[
+    {
+        "content": "university of maryland selected ben shneiderman as a distinguished university professor in 2013. ... ben shneiderman (resume) is a distinguished university professor in the department of computer science, ... e-mail: ben [at] cs.umd.edu", 
+        "email_addr_list": [
+            "ben@cs.umd.edu"
+        ], 
+        "cite_url": "https://www.cs.umd.edu/users/ben/", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Ben Shneiderman - Department of Computer Science"
+    }, 
+    {
+        "content": "ben shneiderman is a distinguished university professor in the department of computer science, ... ben shneidermans biography appears in marquiss whos who in the world, whos who in america, and .... e-mail: ben [at] cs.umd.edu", 
+        "email_addr_list": [
+            "ben@cs.umd.edu"
+        ], 
+        "cite_url": "https://www.cs.umd.edu/.../ben/abo...", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "About Ben Shneiderman - Department of Computer Science"
+    }, 
+    {
+        "content": "ben shneiderman. professor of computer ... verified email at cs.umd.edu - homepage  scholar. get my own ... b shneiderman, s ben. pearson education india...", 
+        "email_addr_list": [
+            "email@cs.umd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=h4i4fh8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ben Shneiderman - Google Scholar Citations"
+    }
+]

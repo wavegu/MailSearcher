@@ -1,0 +1,38 @@
+[
+    {
+        "content": "homepage of yiorgos makris at the university of texas at dallas. ... yiorgos is a professor in the department of electrical engineering at the erik jonsson ... e-mail: yiorgos.makris@utdallas.edu. web: http://www.utdallas.edu/~yiorgos.makris...", 
+        "email_list": [
+            "yiorgos.makris@utdallas.edu"
+        ], 
+        "cite_url": "www.utdallas.edu/~yiorgos.makris", 
+        "cite_name": "University of Texas at Dallas", 
+        "title": "Yiorgos Makris - The University of Texas at Dallas"
+    }, 
+    {
+        "content": "e-mail: yiorgos.makris@utdallas.edu. • personal data: born april 1, 1973, male, us citizen, married to dr. una e. makris, md. research interests: • security and...", 
+        "email_list": [
+            "yiorgos.makris@utdallas.edu"
+        ], 
+        "cite_url": "www.utdallas.edu/~yiorgos.makris/cv.pdf", 
+        "cite_name": "University of Texas at Dallas", 
+        "title": "[PDF]Yiorgos Makris - The University of Texas at Dallas"
+    }, 
+    {
+        "content": "cancel. yiorgos makris. the university of texas at dallas. verified email at utdallas.edu - homepage ... hgd stratigopoulos, p drineas, m slamani, y makris.", 
+        "email_list": [
+            "email@utdallas.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dUO4lKwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yiorgos Makris - Google Scholar Citations"
+    }, 
+    {
+        "content": "yiorgos. family name: makris. affiliation: the university of texas at dallas. country: usa. email: yiorgos.makris@utdallas.edu  share this.  return to last page...", 
+        "email_list": [
+            "yiorgos.makris@utdallas.edu"
+        ], 
+        "cite_url": "www.date-conference.com/.../yio...", 
+        "cite_name": "Design, Automation and Test in Europe", 
+        "title": "Yiorgos Makris, The University of Texas at Dallas, USA - DATE"
+    }
+]

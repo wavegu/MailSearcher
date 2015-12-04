@@ -1,0 +1,38 @@
+[
+    {
+        "content": "biochemistry. professor of biochemistry; interdepartmental professor. email. zhu132@purdue.edu ... about dr. jian-kang zhu. distinguished professor of plant...", 
+        "email_addr_list": [
+            "zhu132@purdue.edu"
+        ], 
+        "cite_url": "https://ag.purdue.edu/.../Profile....", 
+        "cite_name": "Purdue University College of Agriculture", 
+        "title": "Jian-Kang Zhu - Purdue Agriculture - Purdue University"
+    }, 
+    {
+        "content": "jian-kang zhu senior principal investigator director email: jkzhu@sibs.ac.cn. phone: (86) 21-57078201. office:research center 325...", 
+        "email_addr_list": [
+            "jkzhu@sibs.ac.cn"
+        ], 
+        "cite_url": "www.psc.ac.cn/research_personal_information.asp?id=62", 
+        "cite_name": "", 
+        "title": "Jian-Kang Zhu - Shanghai Center for Plant Stress Biology ..."
+    }, 
+    {
+        "content": "e-mail: jianhuaz@ucr.edu ... supervisor: dr. jian-kang zhu .... chinnusamy, v., zhu, j. and zhu, j.-k. (2006) salt stress signaling and mechanisms of plant salt...", 
+        "email_addr_list": [
+            "jianhuaz@ucr.edu"
+        ], 
+        "cite_url": "www.ib.cas.cn/xshd/200706/P020090319708669559545.doc", 
+        "cite_name": "", 
+        "title": "[DOC]publications"
+    }, 
+    {
+        "content": "tian tian jian kang zhu  print  email ... sort by oldest first; sort by latest first; subscribe with email ... send us an email to changchun_live@hotmail.com.", 
+        "email_addr_list": [
+            "changchun_live@hotmail.com"
+        ], 
+        "cite_url": "www.changchunlive.com/magazine/.../69.../452-tian-tian-jian-kang-zhu", 
+        "cite_name": "", 
+        "title": "Tian Tian Jian Kang Zhu - Changchun LIVE!"
+    }
+]

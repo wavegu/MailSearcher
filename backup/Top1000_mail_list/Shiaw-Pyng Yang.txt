@@ -1,3 +1,20 @@
-admin@wi.mit.edu	[1]
-haoliliu@mail.cgu.edu.tw	[1]
-xqhuang@cs.iastate.edu	[1]
+[
+    {
+        "content": "... aye tin-wollam, shiaw-pyng yang, robert h. waterston, richard k. wilson, ... for materials should be addressed to d.c.p. (email: page_admin@wi.mit.edu).", 
+        "email_addr_list": [
+            "page_admin@wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Abstract - Nature"
+    }, 
+    {
+        "content": "xiaoqiu huang*,; shiaw-pyng yang1,; asif t. chinwalla1,; ladeana w. hillier1, ... tel: +1 515 294 2432; fax: +1 515 294 0258; email: xqhuang@cs.iastate.edu.", 
+        "email_addr_list": [
+            "xqhuang@cs.iastate.edu"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/34/1/201.abstractwww.google.com/email", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "Application of a superword array in genome assemblyGoogle Business Email‎"
+    }
+]

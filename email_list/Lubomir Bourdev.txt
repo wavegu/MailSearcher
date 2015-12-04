@@ -1,0 +1,29 @@
+[
+    {
+        "content": "lubomir bourdev. research scientist ... computer vision. verified email at fb.com ... ma kowalski, l markosian, jd northrup, l bourdev, r barzel, ls holden, .", 
+        "email_list": [
+            "email@fb.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OXFjRnEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Lubomir Bourdev - Google Scholar Citations"
+    }, 
+    {
+        "content": "description. lubomir bourdev lubomir.bourdev@gmail.com, http://www.lubomir.org education doctor of philosophy master of science bachelor of arts thesis:...", 
+        "email_list": [
+            "lubomir.bourdev@gmail.com"
+        ], 
+        "cite_url": "www.pdffiller.com/289175-cv-Lubomir-Bourdevs-Resume-Various-Filla...", 
+        "cite_name": "", 
+        "title": "Fillable Lubomir Bourdevs Resume - lubomir - PDFfiller"
+    }, 
+    {
+        "content": "papers core papers: · lubomir bourdev, jitendra malik, poselets: body part ... please send email to lbourdev at eecs.berekely.edu if you have problems with the...", 
+        "email_list": [
+            "lbourdev@eecs.berekely.edu"
+        ], 
+        "cite_url": "www.datatang.com/dataset/105336/Intro.swf", 
+        "cite_name": "", 
+        "title": "[FLASH]1 / 3 Poselets and Their Applications in High-Level ..."
+    }
+]

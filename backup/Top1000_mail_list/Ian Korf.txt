@@ -1,1 +1,11 @@
-sympa@ucdavis.edu	[1]
+[
+    {
+        "content": "send an email to sympa@ucdavis.edu. ... apr 8, 2015: ian korf is quoted in a nature commentary article about bioinformatics service cores and the need for...", 
+        "email_addr_list": [
+            "sympa@ucdavis.edu"
+        ], 
+        "cite_url": "korflab.ucdavis.edu/bitsandbites.html", 
+        "cite_name": "University of California, Davis", 
+        "title": "Bits and Bites - Korf Lab"
+    }
+]

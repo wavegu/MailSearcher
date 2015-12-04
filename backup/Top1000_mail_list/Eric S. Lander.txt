@@ -1,1 +1,20 @@
-info@videolectures.net	[1]
+[
+    {
+        "content": "email: lander [at] broadinstitute.org ... eric s. lander ... using a variety of techniques and a multi-disciplinary approach, the lander laboratory and others at the...", 
+        "email_addr_list": [
+            "lander@broadinstitute.org"
+        ], 
+        "cite_url": "https://biology.mit.edu/.../eric_land...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Eric S. Lander | MIT Biology"
+    }, 
+    {
+        "content": "eric lander is founding director of the broad institute and director of its genome biology program. as one of the principal leaders of the human genome project, eric and .... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/eric_lander/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Eric S. Lander - Broad Institute - VideoLectures.NET"
+    }
+]

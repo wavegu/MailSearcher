@@ -1,0 +1,30 @@
+[
+    {
+        "content": "cancel. brajendra panda. university of arkansas  database systems, computer security, database security. verified email at uark.edu ... b panda, j giordano.", 
+        "email_list": [
+            "email@uark.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BnPJWCUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Brajendra Panda - Google Scholar Citations"
+    }, 
+    {
+        "content": "brajendra panda, head, department of computer science university of arkansas, usa and professor, brian blake, dean, .... email: mbeckford@utech.edu.jm", 
+        "email_list": [
+            "mbeckford@utech.edu.jm"
+        ], 
+        "cite_url": "https://www.utech.edu.jm/.../UTechfir...", 
+        "cite_name": "University Of Technology, Jamaica", 
+        "title": "UTech Awards first PhD Degree - University of Technology ..."
+    }, 
+    {
+        "content": "verified email at bu.edu. @bu.edu. cited by 6550. databases ... brajendra panda. university of arkansas ... verified email at zu.ac.ae. @zu.ac.ae. cited by 500.", 
+        "email_list": [
+            "email@bu.edu", 
+            "email@zu.ac.ae"
+        ], 
+        "cite_url": "scholar.google.hu/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Google Scholar Citations"
+    }
+]

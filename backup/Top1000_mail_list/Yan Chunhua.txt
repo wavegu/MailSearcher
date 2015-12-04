@@ -1,6 +1,38 @@
-chyan@chem.pku.edu.cn	[8]
-lfyan@ustc.edu.cn	[7]
-yan@pku.edu.cn	[7]
-ncicbiitcomms@mail.nih.gov	[2]
-594327358@qq.com	[1]
-sun@hms.harvard.edu	[1]
+[
+    {
+        "content": "group leader: professor chunhua yan ... e-mail:chyan@chem.pku.edu.cn ... e. q. gao, s. q. bai, z. m. wang and c. h. yan, two-dimesional homochiral...", 
+        "email_addr_list": [
+            "chyan@chem.pku.edu.cn"
+        ], 
+        "cite_url": "www.chem.pku.edu.cn/page/relab/.../yanchunhua.htm", 
+        "cite_name": "Peking University", 
+        "title": "The State Key Laboratory of Rare Earth Materials Chemistry ..."
+    }, 
+    {
+        "content": "email: wei_sun@hms.harvard.edu ... advisor: chunhua yan .... yan, c.*. luminescence modulation of ordered up-conversion nano-patterns via a photochromic.", 
+        "email_addr_list": [
+            "wei_sun@hms.harvard.edu"
+        ], 
+        "cite_url": "yin.hms.harvard.edu/cv/cv.sun.wei.pdf", 
+        "cite_name": "Harvard Medical School", 
+        "title": "[PDF]Wei Sun - Peng Yin - Harvard University"
+    }, 
+    {
+        "content": "corresponding authors: yan chunhua email: yan@pku.edu.cn ... zhang chao, bai yanchun, fang chenjie, li wentao, huang yanyi, yan chunhua.", 
+        "email_addr_list": [
+            "yan@pku.edu.cn"
+        ], 
+        "cite_url": "chem.scichina.com:8081/sciBe/EN/abstract/abstract412904.shtml", 
+        "cite_name": "", 
+        "title": "Abstract - SCIENCE CHINA Chemistry"
+    }, 
+    {
+        "content": "professor: yang chunhua. focus: turfgrass management. tel: +86 137-9586-7347. email: 594327358@qq.com. feng guangyan. professor: zhang xinquan.", 
+        "email_addr_list": [
+            "594327358@qq.com"
+        ], 
+        "cite_url": "https://fulbrightchina.files.wordpress.com/.../sicau-grassland-students.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]SICAU Grassland Sciences Program Graduate Students"
+    }
+]

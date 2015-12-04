@@ -1,0 +1,5 @@
+fox at cs.washington.edu	[8]
+denis@robotics.usc.edu.dieter	[2]
+email at cs.washington.edu	[2]
+denis@robotics.usc.edu	[2]
+gthuang@xconomy.com	[1]

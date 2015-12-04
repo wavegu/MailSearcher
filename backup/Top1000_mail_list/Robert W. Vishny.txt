@@ -1,1 +1,11 @@
-robert.vishny@chicagobooth.edu	[25]
+[
+    {
+        "content": "robert w. vishny. myron s. scholes distinguished service professor of finance. phone : 1-773-702-2522. email : robert.vishny@chicagobooth.edu. address :.", 
+        "email_addr_list": [
+            "robert.vishny@chicagobooth.edu"
+        ], 
+        "cite_url": "www.chicagobooth.edu/.../v/robert-w-vishny", 
+        "cite_name": "Booth School of Business", 
+        "title": "Robert W Vishny | The University of Chicago Booth School ..."
+    }
+]

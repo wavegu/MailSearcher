@@ -1,4 +1,20 @@
-alan.lopez@unimelb.edu.au	[19]
-alan.lopez@unimelb.edu.au.alan	[19]
-email at unimelb.edu.au	[5]
-ua.ude.bleminu@zepol.nala	[5]
+[
+    {
+        "content": "alan d lopez. university of melbourne ... verified email at unimelb.edu.au. scholar. get my own ... ad lopez, cd mathers, m ezzati, dt jamison, cj murray.", 
+        "email_addr_list": [
+            "email@unimelb.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tYilcK8AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alan D Lopez - Google Scholar Citations"
+    }, 
+    {
+        "content": "alan lopez. the university of melbourne building 379, level 5 207 bouverie st, carlton 3010. vic australia. email: alan.lopez@unimelb.edu.au.", 
+        "email_addr_list": [
+            "alan.lopez@unimelb.edu.au"
+        ], 
+        "cite_url": "globalhealth.washington.edu/faculty/alan-lopez", 
+        "cite_name": "University of Washington", 
+        "title": "Alan Lopez | University of Washington - Department of ..."
+    }
+]

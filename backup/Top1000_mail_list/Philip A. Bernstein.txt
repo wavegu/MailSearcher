@@ -1,1 +1,11 @@
-jmabb@tbk.org	[3]
+[
+    {
+        "content": "email: jmabb@tbk.org. web: tbk.org. please enroll me/us in the rabbi phillip s. bernstein society. i/we understand our obligation to contribute a minimum of...", 
+        "email_addr_list": [
+            "jmabb@tbk.org"
+        ], 
+        "cite_url": "tbk.org/community2/philip-s-bernstein-society", 
+        "cite_name": "Temple B'rith Kodesh", 
+        "title": "Temple Brith Kodesh - Philip S. Bernstein Society"
+    }
+]

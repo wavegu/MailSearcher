@@ -1,7 +1,30 @@
-donnam@bcm.edu	[13]
-sscherer@bcm.tmc.edu	[1]
-questions@hgsc.bcm.tmc.edu.donna	[1]
-jonathan.rothberg@gmail.com	[1]
-questions@hgsc.bcm.tmc.edu	[1]
-agibbs@bcm.edu.microbiome	[1]
-agibbs@bcm.edu	[1]
+[
+    {
+        "content": "donnam@bcm.edu ... ross, matthew c., muzny donna m., mccormick joseph b., gibbs richard a., fisher-hoch susan .... e-mail: questions@hgsc.bcm.tmc.edu.", 
+        "email_addr_list": [
+            "donnam@bcm.edu", 
+            "questions@hgsc.bcm.tmc.edu"
+        ], 
+        "cite_url": "https://www.hgsc.bcm.edu/people/muzny-d", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Donna Muzny, M.S. | BCM-HGSC"
+    }, 
+    {
+        "content": "... morgan,; marie-claude gingras,; donna m. muzny,; linh d. hoang,; shahed yousaf,; james r. lupski,,, and; richard a. gibbs,,* ... e-mail: agibbs@bcm.edu.", 
+        "email_addr_list": [
+            "agibbs@bcm.edu"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/3/87/87re3", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Whole-Genome Sequencing for Optimized Patient ..."
+    }, 
+    {
+        "content": "steven e. scherer, donna m. muzny, christian j. buhay, rui chen, andrew cree, ... for materials should be addressed to s.s. (email: sscherer@bcm.tmc.edu).", 
+        "email_addr_list": [
+            "sscherer@bcm.tmc.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "The finished DNA sequence of human chromosome 12 ..."
+    }
+]

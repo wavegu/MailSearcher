@@ -1,3 +1,20 @@
-joel.richardson@cme-mec.ca	[30]
-jerichardson@kimchang.com	[23]
-gro.xaj@nosdrahcir.leoj	[3]
+[
+    {
+        "content": "joel e. richardson ... email jerichardson@kimchang.com ... joel richardson is a foreign attorney in the international arbitration  cross-border litigation...", 
+        "email_addr_list": [
+            "jerichardson@kimchang.com"
+        ], 
+        "cite_url": "www.kimchang.com/frame2.jsp?lang=2b_id...", 
+        "cite_name": "Kim  Chang", 
+        "title": "Kim  Chang ::: Joel E. RICHARDSON Attorney"
+    }, 
+    {
+        "content": "our team. joel richardson. vice president, nb  pei   divisions ... (506) 259-0358 cell. e-mail: joel.richardson@cme-mec.ca. twitter: @joelhrichardson", 
+        "email_addr_list": [
+            "joel.richardson@cme-mec.ca"
+        ], 
+        "cite_url": "nb.cme-mec.ca/new-brunswick/about/our-team.html", 
+        "cite_name": "", 
+        "title": "Our Team - Canadian Manufacturers  Exporters"
+    }
+]

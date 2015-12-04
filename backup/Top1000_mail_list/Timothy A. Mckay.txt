@@ -1,2 +1,29 @@
-tamckay@umich.edu	[13]
-email at umich.edu	[4]
+[
+    {
+        "content": "timothy a. mckay. arthur f. ... email: tamckay@umich.edu .... wide field imaging from space, mckay, t., linder, e., and fruchter, a., ed., published as a special.", 
+        "email_addr_list": [
+            "tamckay@umich.edu"
+        ], 
+        "cite_url": "www-personal.umich.edu/~tamckay/mckaywebcv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Timothy A. McKay - Umich - University of Michigan"
+    }, 
+    {
+        "content": "email: tamckay@umich.edu ... timothy mckay, phd, is an arthur f. thurnau professor of physics and astronomy, and the director of the lsa honors program at...", 
+        "email_addr_list": [
+            "tamckay@umich.edu"
+        ], 
+        "cite_url": "chcr.umich.edu/person.php?id=358", 
+        "cite_name": "", 
+        "title": "CHCR: People: Timothy A. McKay, PhD"
+    }, 
+    {
+        "content": "timothy mckay. professor of physics ... verified email at umich.edu. scholar. get my own .... bp koester, ta mckay, j annis, rh wechsler, a evrard, l bleem, .", 
+        "email_addr_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fRjSWV8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Timothy McKay - Google Scholar Citations"
+    }
+]

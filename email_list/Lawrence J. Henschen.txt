@@ -1,0 +1,29 @@
+[
+    {
+        "content": "fax: (520) 621-2590. email: flybrain@neurobio.arizona.edu ... lawrence j. henschen, ph.d. department of ... kansas. university of kansas, lawrence. mary l.", 
+        "email_list": [
+            "flybrain@neurobio.arizona.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Participating Institutions - Baylor College of Medicine"
+    }, 
+    {
+        "content": "location: evanston, illinois contact: lawrence j. henschen, ph.d. email: henschen@ece.northwestern.edu. phone: (847) 491-3338. fax: (847) 491-4455...", 
+        "email_list": [
+            "henschen@ece.northwestern.edu"
+        ], 
+        "cite_url": "www.physiology.emory.edu/FIRST/iracdaprograms.htm", 
+        "cite_name": "Emory University", 
+        "title": "Fellowships in Research and Science Teaching | IRACDA ..."
+    }, 
+    {
+        "content": "follow for current faculty listing. room: l349 telephone: 847 491-3338 e-mail: henschen@eecs.northwestern.edu personal website: lawrence j.", 
+        "email_list": [
+            "henschen@eecs.northwestern.edu"
+        ], 
+        "cite_url": "search.chinajob.com/advancequery.dll?...Lawrence...", 
+        "cite_name": "", 
+        "title": "6 - 海外高层次人才搜索引擎"
+    }
+]

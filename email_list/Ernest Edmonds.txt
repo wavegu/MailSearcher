@@ -1,0 +1,29 @@
+[
+    {
+        "content": "ernest edmonds has held the position of university dean, has sat on many funding ... msc (nottingham), phd (nottingham). email. ernest.edmonds@uts.edu.au.", 
+        "email_list": [
+            "ernest.edmonds@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/ernest.edmonds", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Ernest Edmonds | University of Technology Sydney"
+    }, 
+    {
+        "content": "cancel. ernest edmonds. unknown affiliation ... verified email at ernestedmonds.com. scholar ... ea edmonds, a weakley, l candy, m fell, r knott, s pauletto.", 
+        "email_list": [
+            "email@ernestedmonds.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PaJGmKYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ernest Edmonds - Google Scholar Citations"
+    }, 
+    {
+        "content": "personal homepage: http://datasearch2.uts.edu.au/ccdp/members/detail.cfm?staffid=4799; employer: (); email: ernest.edmonds@uts.edu.au...", 
+        "email_list": [
+            "ernest.edmonds@uts.edu.au"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/ernest-edmonds", 
+        "cite_name": "", 
+        "title": "Ernest Edmonds: Publications, bio, bibliography, etc ..."
+    }
+]

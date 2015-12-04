@@ -1,4 +1,29 @@
-marketing.japan@oxfordjournals.org.editorial	[3]
-kishimot@imed3.med.osaka-u.ac.jp	[3]
-marketing.japan@oxfordjournals.org	[3]
-adnet@faseb.org	[2]
+[
+    {
+        "content": "tadamitsu kishimoto. graduate school of frontier bioscience, osaka university, osaka 565-0871, japan; email: kishimot@imed3.med.osaka-u.ac.jp.", 
+        "email_addr_list": [
+            "kishimot@imed3.med.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www.annualreviews.org  ...  Volume 23, 2005", 
+        "cite_name": "Annual Reviews", 
+        "title": "INTERLEUKIN-6: From Basic Science to Medicine—40 ..."
+    }, 
+    {
+        "content": "review article by professor tadamitsu kishimoto. ... kishimoto, under the theme of “immunology in japan” ... email: marketing.japan@oxfordjournals.org.", 
+        "email_addr_list": [
+            "marketing.japan@oxfordjournals.org"
+        ], 
+        "cite_url": "www.oxfordjournals.org/.../press_release_for_immunology_in_japan_en...", 
+        "cite_name": "", 
+        "title": "[PDF]Immunology in Japan - Oxford Journals"
+    }, 
+    {
+        "content": "tadamitsu kishimoto. george klein. hynda k. kleinman ... 301-530-7104 email: sjacobson@pubs. faseb.org ... fax 301-571-0683 email: adnet@faseb.org.", 
+        "email_addr_list": [
+            "adnet@faseb.org"
+        ], 
+        "cite_url": "www.fasebj.org/content/11/1/local/ed-board.pdfwww.google.com/email", 
+        "cite_name": "The FASEB Journal", 
+        "title": "Editorial Board (PDF) - The FASEB JournalGoogle Business Email‎"
+    }
+]

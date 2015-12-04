@@ -1,2 +1,11 @@
-arkani@ias.nima	[14]
-arkan@ias.edu	[3]
+[
+    {
+        "content": "arkani-hamed, nima. ... nima arkani-hamed (princeton, inst. advanced study)  [author profile] [google] [students] [arxiv] [ads] ... email: arkan@ias.edu", 
+        "email_addr_list": [
+            "arkan@ias.edu"
+        ], 
+        "cite_url": "inspirehep.net  Home  HepNameswww.google.com/email", 
+        "cite_name": "", 
+        "title": "Record #1018121 - INSPIRE-HEPGoogle Business Email - Custom email for your company‎Searches related to Nima Arkani-Hamed email"
+    }
+]

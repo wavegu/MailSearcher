@@ -1,4 +1,38 @@
-twr2@cam.ac.uk.professor	[4]
-twr2@cam.ac.uk	[4]
-bje10@cam.ac.uk	[1]
-hansb@nmr.mgh.harvard.edu	[1]
+[
+    {
+        "content": "professor of cognitive neuroscience and experimental psychology. trevor robbins is accepting applications for phd students. email: twr2@cam.ac.uk.", 
+        "email_addr_list": [
+            "twr2@cam.ac.uk"
+        ], 
+        "cite_url": "www.psychol.cam.ac.uk/pages/staffweb/robbins/", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Trevor W. Robbins, CBE FRS FMedSci FBPsS ..."
+    }, 
+    {
+        "content": "trevor robbins. university position. head of department. professor trevor robbins is pleased to consider applications from ... email. twr2@cam.ac.uk...", 
+        "email_addr_list": [
+            "twr2@cam.ac.uk"
+        ], 
+        "cite_url": "www.neuroscience.cam.ac.uk/.../profile.php?Tr...", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Trevor Robbins :: Cambridge Neuroscience"
+    }, 
+    {
+        "content": "trevor w. robbins, cbe, frs fmedsci. trevor robbins is ... tel: 44-1223 333551: fax 44-1223 333564; e-mail twr2@cam.ac.uk. degrees. university of...", 
+        "email_addr_list": [
+            "twr2@cam.ac.uk"
+        ], 
+        "cite_url": "https://www.ecnp.eu/.../...", 
+        "cite_name": "European College of Neuropsychopharmacology", 
+        "title": "[PDF]Curriculum vitae - ECNP"
+    }, 
+    {
+        "content": "trevor w robbins, dept of experimental psychology, university of cambridge, cambridge, uk ... the program included drug abuse investigators (t. robbins and h. breiter) who have started using .... email: hansb@nmr.mgh.harvard.edu.", 
+        "email_addr_list": [
+            "hansb@nmr.mgh.harvard.edu"
+        ], 
+        "cite_url": "archives.drugabuse.gov/.../CNS_symp.h...www.google.com/email", 
+        "cite_name": "National Institute on Drug Abuse", 
+        "title": "Cognitive Neuroscience  Drug Addiction: Primed for ...Google Business Email‎"
+    }
+]

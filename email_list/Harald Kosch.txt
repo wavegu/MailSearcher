@@ -1,0 +1,21 @@
+[
+    {
+        "content": "sep 5, 2014 - fax: +49(0)851/509-3062. email: harald.kosch@uni-passau.de 1. sprechzeiten: nach e-mail-anmeldung bei ingrid.winter@uni-passau.de...", 
+        "email_list": [
+            "harald.kosch@uni-passau.de", 
+            "ingrid.winter@uni-passau.de"
+        ], 
+        "cite_url": "www.fim.uni-passau.de/.../person...", 
+        "cite_name": "University of Passau", 
+        "title": "Personendetails - Universität Passau"
+    }, 
+    {
+        "content": "email: klamma@informatik.rwth-aachen.de .... published in florian stegmaier, harald kosch, ralf klamma, mathias lux, ernesto damiani: multimedia on the...", 
+        "email_list": [
+            "klamma@informatik.rwth-aachen.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "RWTH Aachen University", 
+        "title": "PD Dr. Ralf Klamma, AOR — Informatik 5 (Information ..."
+    }
+]

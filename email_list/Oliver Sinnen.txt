@@ -1,0 +1,11 @@
+[
+    {
+        "content": "pierre-françois dutot, oliver sinnen, leonel sousa. abstract. considering ... of lisbon, rua. alves redol 9, p-1000-029 lisboa, portugal; email: las@inesc-id.pt...", 
+        "email_list": [
+            "las@inesc-id.pt"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.8798...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }
+]

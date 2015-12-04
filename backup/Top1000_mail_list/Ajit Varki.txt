@@ -1,3 +1,56 @@
-a1varki@ucsd.edu	[12]
-varkiadmin@ucsd.edu.varki	[12]
-varkiadmin@ucsd.edu	[12]
+[
+    {
+        "content": "photo of ajit varki. ajit varki. distinguished professor of medicine and cellular and molecular medicine m.d., christian ... st. louis. email: a1varki@ucsd.edu...", 
+        "email_addr_list": [
+            "a1varki@ucsd.edu"
+        ], 
+        "cite_url": "biomedsci.ucsd.edu/.../faculty_descri...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Ajit Varki - Faculty - Biomedical Sciences Graduate Program ..."
+    }, 
+    {
+        "content": "la jolla ca 92093-0687. telephone: fax: e-mail: varki lab: (858) 534-2214 (858) 534-5611 (no unsolicited faxes) varkiadmin@ucsd.edu. link to varki lab.", 
+        "email_addr_list": [
+            "varkiadmin@ucsd.edu"
+        ], 
+        "cite_url": "cmm.ucsd.edu/varki/", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Ajit Varki - Cellular and Molecular Medicine"
+    }, 
+    {
+        "content": "learn about the research and publications of ajit varki, md a member of neurograd ... email: varkiadmin@ucsd.edu. website: http://cmm.ucsd.edu/varki...", 
+        "email_addr_list": [
+            "varkiadmin@ucsd.edu"
+        ], 
+        "cite_url": "healthsciences.ucsd.edu/.../ajit-varki.a...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Ajit Varki, MD - UC San Diego Health Sciences"
+    }, 
+    {
+        "content": "9500 gilman drive mc 0687. la jolla ca 920930687. telephone: (858) 5342214. fax: (858) 5345611 (no unsolicited faxes). email: varkiadmin@ucsd.edu...", 
+        "email_addr_list": [
+            "varkiadmin@ucsd.edu"
+        ], 
+        "cite_url": "https://www.iitm.ac.in/.../ajitvarki", 
+        "cite_name": "Indian Institute of Technology Madras", 
+        "title": "AJIT VARKI | Indian Institute of Technology Madras"
+    }, 
+    {
+        "content": "9500 gilman drive mc 0687. la jolla ca 920930687. telephone: fax: email: (858) 5342214. (858) 5345611 (no unsolicited faxes) varkiadmin@ucsd.edu.", 
+        "email_addr_list": [
+            "varkiadmin@ucsd.edu"
+        ], 
+        "cite_url": "https://www.iitm.ac.in/.../profile_o...", 
+        "cite_name": "Indian Institute of Technology Madras", 
+        "title": "[PDF]Dr. AJIT VARKI - Indian Institute of Technology Madras"
+    }, 
+    {
+        "content": "varki, ajit. pi, university of california, san diego , 858-534-2214. contact information. name: ajit varki (m.d.). telephone ... email: mailto:varkiadmin@ucsd.edu...", 
+        "email_addr_list": [
+            "varkiadmin@ucsd.edu"
+        ], 
+        "cite_url": "edrn.nci.nih.gov  Sites  University of California, San Diego", 
+        "cite_name": "", 
+        "title": "Varki, Ajit — EDRN Public Portal"
+    }
+]

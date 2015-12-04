@@ -1,0 +1,29 @@
+[
+    {
+        "content": "reinhard lüling. impressum  webmaster ... dr. rer. nat. reinhard lüling ... germany, office: phone: fax: e-mail: phone (priv.): no office rl@uni-paderborn.de...", 
+        "email_list": [
+            "rl@uni-paderborn.de"
+        ], 
+        "cite_url": "www2.cs.uni-paderborn.de/cs/ag-monien/PERSONAL/RL/", 
+        "cite_name": "", 
+        "title": "AG-Monien - People - Reinhard Lüling Research"
+    }, 
+    {
+        "content": "e-mail: info@burg.biz. handelsregister: amtsgericht hagen, nr. ... ust.-id-nr.: de126881184 geschäftsführung: dietmar lüling, harald lüling, reinhard lüling", 
+        "email_list": [
+            "info@burg.biz"
+        ], 
+        "cite_url": "www.burg.biz/.../ff8080821b0705aa011b452314bf08...", 
+        "cite_name": "", 
+        "title": "Burg Wächter - Impressum"
+    }, 
+    {
+        "content": "geschäftsführer: reinhard lüling telefon: (0 26 81) 80 05-0. telefax: (0 26 81) 80 05-99. email: info@glockenspitze.de. rechtlicher hinweis: die herausgeber...", 
+        "email_list": [
+            "info@glockenspitze.de"
+        ], 
+        "cite_url": "www.glockenspitze.de/Impressum.html", 
+        "cite_name": "", 
+        "title": "Impressum - Glockenspitze"
+    }
+]

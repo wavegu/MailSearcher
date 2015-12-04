@@ -1,0 +1,21 @@
+[
+    {
+        "content": "yossi lev is currently living in new york city. email: yossi.lev at oracle.com , levyossi4 at gmail.com. education: * phd at the computer science department of...", 
+        "email_list": [
+            "yossi.lev@oracle.com", 
+            "levyossi4@gmail.com"
+        ], 
+        "cite_url": "https://labs.oracle.com/pls/apex/f?p=labs:bio:0:68", 
+        "cite_name": "Oracle Corporation", 
+        "title": "Yossi Lev - Oracle Labs"
+    }, 
+    {
+        "content": "verified email at oracle.com - homepage  scholar. get my own ... p damron, a fedorova, y lev, v luchangco, m moir, d nussbaum. acm sigplan notices 41...", 
+        "email_list": [
+            "email@oracle.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2O3fm8wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yossi Lev - Google Scholar Citations"
+    }
+]

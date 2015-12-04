@@ -1,0 +1,58 @@
+[
+    {
+        "content": "aug 28, 2009 - ... 510301 guangdong, china. shuhuaqi@scsio.ac.cn. e-mail: shuhuaqi@scsio.ac.cn. ... shu-hua qi, cheng-hai gao, pei-yuan qian, si zhang. ... shu-hua qi, guo-chen su, yi-fei wang, qiu-ying liu, cheng-hai gao.", 
+        "email_list": [
+            "shuhuaqi@scsio.ac.cn", 
+            "shuhuaqi@scsio.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Shu-Hua Qi - South China Sea Institute Of Oceanology"
+    }, 
+    {
+        "content": "qi shuhua, dr. qi shuhua professor south china sea institute of oceanology, email: shuhuaqi@scsio.ac.cn ... hong kong university, email: rajan@hku.hk...", 
+        "email_list": [
+            "shuhuaqi@scsio.ac.cn", 
+            "rajan@hku.hk"
+        ], 
+        "cite_url": "www.qian.ust.hk/personnel/alumini/", 
+        "cite_name": "", 
+        "title": "Alumini | Prof Qians Laboratory"
+    }, 
+    {
+        "content": "address correspondence to shuhua qi, email: qishuhuanwpu@163.com. abstract. to satisfy the high electrical and thermal conductivity required for the...", 
+        "email_list": [
+            "qishuhuanwpu@163.com"
+        ], 
+        "cite_url": "www.tandfonline.com/doi/pdf/10.1080/00218464.2015.1058712", 
+        "cite_name": "", 
+        "title": "On the Use of Silver Plated Nano Aluminum Nitride and ..."
+    }, 
+    {
+        "content": "email: zhangquan[at]ntu.edu.sg. dr zhu liangliang research .... yap qi ming (cbc) summer research student ... ho shu hua (cbc) summer research student...", 
+        "email_list": [
+            "zhangquan@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/.../Former%20mem...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Zhaos group, CBC, NTU"
+    }, 
+    {
+        "content": "professor  dr shuhua qi. vice director. institution: ... email: qishuhua11@163.com ... [1] qi shuhua, daniel brown et al., inundation extent and flood frequency.", 
+        "email_list": [
+            "qishuhua11@163.com"
+        ], 
+        "cite_url": "pyl.jxnu.edu.cn/DragonTraining2014/files/WTR-CV-QiShuhua.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Professor  Dr Shuhua Qi"
+    }, 
+    {
+        "content": "email: qying@civil.tamu.edu .... jianlin hu, hongliang zhang, shu-hua chen, qi ying, christine wiedinmyer, francois, vandenberghe, michael kleeman.", 
+        "email_list": [
+            "qying@civil.tamu.edu"
+        ], 
+        "cite_url": "https://ceprofs.civil.tamu.edu/qying/", 
+        "cite_name": "", 
+        "title": "Qi Ying Associate Professor Env"
+    }
+]

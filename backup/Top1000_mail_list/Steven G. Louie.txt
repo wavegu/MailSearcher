@@ -1,2 +1,38 @@
-sglouie@berkeley.edu	[13]
-email at berkeley.edu	[2]
+[
+    {
+        "content": "steven g. louie. contact information: email: sglouie@berkeley.edu. snail mail: university of california at berkeley department of physics 366 leconte hall #...", 
+        "email_addr_list": [
+            "sglouie@berkeley.edu"
+        ], 
+        "cite_url": "civet.berkeley.edu/louie/sglouie/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Prof. Steven G. Louie - Cohen/Louie Group"
+    }, 
+    {
+        "content": "steven g. louie. professor of ... verified email at berkeley.edu. scholar ... ng chopra, rj luyken, k cherrey, vh crespi, ml cohen, sg louie, ... science 269...", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=m0u9N18AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Steven G. Louie - Google Scholar Citations"
+    }, 
+    {
+        "content": "steven g. louie. faculty senior scientist professor of physics, university of california, berkeley. sglouie@berkeley.edu 510-642-1709. research profile ».", 
+        "email_addr_list": [
+            "sglouie@berkeley.edu"
+        ], 
+        "cite_url": "www2.lbl.gov/.../louie_investiga...", 
+        "cite_name": "Lawrence Berkeley National Laboratory", 
+        "title": "Steven G. Louie - Lawrence Berkeley National Laboratory"
+    }, 
+    {
+        "content": "young-woo son, marvin l. cohen  steven g. louie ... and requests for materials should be addressed to s.g.l. (email: sglouie@berkeley.edu). top of page.", 
+        "email_addr_list": [
+            "sglouie@berkeley.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "Half-metallic graphene nanoribbons : Abstract : Nature"
+    }
+]

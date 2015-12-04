@@ -1,7 +1,38 @@
-mark.westoby@mq.edu.au	[23]
-mark.westoby@mq.edu.au.professor	[23]
-mark.westoby@mq.edu.au.macquarie	[23]
-tern.comms@uq.edu.au	[2]
-tern.comms@uq.edu.au.mark	[2]
-email at mq.edu.au	[2]
-g2g-admin@mq.edu.au	[2]
+[
+    {
+        "content": "mark westoby. department of biological sciences macquarie university, sydney, nsw 2109, australia phone +61 (2) 9850 8196 mark.westoby@mq.edu.au.", 
+        "email_addr_list": [
+            "mark.westoby@mq.edu.au"
+        ], 
+        "cite_url": "bio.mq.edu.au/research/groups/.../westoby/mark.ht...", 
+        "cite_name": "Macquarie University", 
+        "title": "Mark Westoby - Biological Sciences - Macquarie University"
+    }, 
+    {
+        "content": "department: dept of biological sciences. telephone number: +61-2-9850-8196. address: dept of biological sciences. email: mark.westoby@mq.edu.au.", 
+        "email_addr_list": [
+            "mark.westoby@mq.edu.au"
+        ], 
+        "cite_url": "https://mqsr.mq.edu.au/mqsr/contact.../000002134...", 
+        "cite_name": "Macquarie University", 
+        "title": "Professor Mark Westoby - MQSR"
+    }, 
+    {
+        "content": "cancel. mark westoby ... verified email at mq.edu.au - homepage  scholar ... ij wright, pb reich, m westoby, dd ackerly, z baruch, f bongers, ... nature 428...", 
+        "email_addr_list": [
+            "email@mq.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2PXSnHsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mark Westoby - Google Scholar Citations"
+    }, 
+    {
+        "content": "professor mark westoby. professor westobys research field is evolutionary ecology. ... mark has made significant contributions also to state-and-transition modelling for rangelands management, to diet ... email tern.comms@uq.edu.au.", 
+        "email_addr_list": [
+            "tern.comms@uq.edu.au"
+        ], 
+        "cite_url": "www.tern.org.au/Profile-Mark-Westoby-pg18711.html", 
+        "cite_name": "", 
+        "title": "Profile Mark Westoby - TERN"
+    }
+]

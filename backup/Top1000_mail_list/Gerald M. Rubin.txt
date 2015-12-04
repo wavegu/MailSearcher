@@ -1,2 +1,20 @@
-rubing@janelia.hhmi.org	[12]
-email at janelia.hhmi.org	[4]
+[
+    {
+        "content": "cancel. gerald m. rubin ... verified email at janelia.hhmi.org - homepage  scholar ... m ashburner, ca ball, ja blake, d botstein, h butler, jm cherry, ... nature...", 
+        "email_addr_list": [
+            "email@janelia.hhmi.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GVEt7WgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gerald M. Rubin - Google Scholar Citations"
+    }, 
+    {
+        "content": "name: gerald m. rubin. 1st degree, ph.d. 2nd degree. position/ address ... email: rubing@janelia.hhmi.org. research area: generate, and eventually apply,...", 
+        "email_addr_list": [
+            "rubing@janelia.hhmi.org"
+        ], 
+        "cite_url": "www.hhwf.org/Dir/detail.php?id=605", 
+        "cite_name": "", 
+        "title": "Gerald M. Rubin - Helen Hay Whitney Foundation"
+    }
+]

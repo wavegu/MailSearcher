@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email : gmc@chicagobooth.edu. address : 5807 south woodlawn avenue ... george constantinides studies the causes of the historically observed premium of...", 
+        "email_list": [
+            "gmc@chicagobooth.edu"
+        ], 
+        "cite_url": "www.chicagobooth.edu/.../george-m-constantin...", 
+        "cite_name": "Booth School of Business", 
+        "title": "George M Constantinides | The University of Chicago Booth ..."
+    }, 
+    {
+        "content": "cancel. george constantinides ... verified email at ic.ac.uk - homepage  scholar ... du lee, aa gaffar, rcc cheung, o mencer, w luk, g constantinides.", 
+        "email_list": [
+            "email@ic.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NTn1NJAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "George Constantinides - Google Scholar Citations"
+    }, 
+    {
+        "content": "first name: george. middle name: m. last name: constantinides. suffix: repec short-id: pco144. email: gmc@chicagobooth.edu. homepage...", 
+        "email_list": [
+            "gmc@chicagobooth.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pco144.html", 
+        "cite_name": "", 
+        "title": "George M. Constantinides at IDEAS"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "da zheng, phd. professor department of ... email: dzheng@suffolk.edu ... “let us remember fengliu instead of miseries: dayou poems and chinese diaspora.", 
+        "email_list": [
+            "dzheng@suffolk.edu"
+        ], 
+        "cite_url": "https://www.suffolk.edu/college/12029.php", 
+        "cite_name": "Suffolk University", 
+        "title": "Da Zheng, Professor - Suffolk University"
+    }, 
+    {
+        "content": "remove suggestion. da-zheng feng .... and da-zheng feng (email: dzfeng@mail.xidian.edu.cn) are with the national laboratory of radar signal processing...", 
+        "email_list": [
+            "dzfeng@mail.xidian.edu.cn"
+        ], 
+        "cite_url": "www.researchgate.net/.../251075940_Fast_Implementation_of...", 
+        "cite_name": "ResearchGate", 
+        "title": "Fast Implementation of the Progressive Edge-Growth ..."
+    }, 
+    {
+        "content": "da-zheng feng. 1. , member, ieee, hua zhang. 1. 1. national laboratory of radar signal ... email: dzfeng@xidian.edu.cn. wei xing zheng2, senior member,...", 
+        "email_list": [
+            "dzfeng@xidian.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0576...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Triply Iterative Algorithm for Extracting Statistically ..."
+    }, 
+    {
+        "content": "7 days ago - ... fax: +61 8 9346 3210; email: nathan.pavlos@uwa.edu.au ... ang esm, pavlos nj, chim sm, feng ht, scaife rm, steer j, zheng mh and xu j. ... feng h, cheng t, steer jh, joyce da, pavlos nj, leong c, kular j, liu j,...", 
+        "email_list": [
+            "nathan.pavlos@uwa.edu.au"
+        ], 
+        "cite_url": "www.uwa.edu.au/people/nathan.pavlos", 
+        "cite_name": "University of Western Australia", 
+        "title": "Assoc/Prof Nathan Pavlos - UWA Staff Profile : The ..."
+    }
+]

@@ -1,3 +1,20 @@
-sherlock@genome.stanford.edu	[17]
-gsherloc@stanford.edu	[3]
-email at stanford.edu	[2]
+[
+    {
+        "content": "cancel. gavin sherlock. associate ... verified email at stanford.edu - homepage  scholar ... pt spellman, g sherlock, mq zhang, vr iyer, k anders, mb eisen, .", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zorKm2EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gavin Sherlock - Google Scholar Citations"
+    }, 
+    {
+        "content": "gavin sherlock. cpan directory, sherlock [ archive ]. email, sherlock@genome.stanford.edu. homepage, http://www.stanford.edu/group/sherlocklab/.", 
+        "email_addr_list": [
+            "sherlock@genome.stanford.edu"
+        ], 
+        "cite_url": "search.cpan.org/~sherlock/", 
+        "cite_name": "CPAN", 
+        "title": "Gavin Sherlock - search.cpan.org"
+    }
+]

@@ -1,4 +1,31 @@
-bryant@ncbi.nlm.nih.gov	[13]
-steve.oliver@man.ac.uk	[2]
-adam@burnham.org	[1]
-adam@sdsc.edu	[1]
+[
+    {
+        "content": "tel: (301) 435-7792. fax: (301) 480-9241 or (301) 435-7793. e-mail: bryant@ncbi.nlm.nih.gov. photo of dr. stephen h. bryant, senior investigator, ncbi, from...", 
+        "email_addr_list": [
+            "bryant@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "NCBI Structure Group Research"
+    }, 
+    {
+        "content": "stephen h. bryant national center ... email: bryant@ncbi.nlm.nih.gov. phone: (301) 435- ... email: adam@burnham.org, adam@sdsc.edu. phone: (858) 646-...", 
+        "email_addr_list": [
+            "bryant@ncbi.nlm.nih.gov", 
+            "adam@burnham.org", 
+            "adam@sdsc.edu"
+        ], 
+        "cite_url": "rcsb-modeling-workshop.rutgers.edu/participants.html", 
+        "cite_name": "", 
+        "title": "Participants"
+    }, 
+    {
+        "content": "... philip g. k. reiser, christopher h. bryant, stephen h. muggleton, douglas b. kell ... correspondence to: stephen g. oliver email: steve.oliver@man.ac.uk.", 
+        "email_addr_list": [
+            "steve.oliver@man.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Naturewww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Functional genomic hypothesis generation and ... - NatureGoogle Business Email‎"
+    }
+]

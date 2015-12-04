@@ -1,2 +1,11 @@
-agarwala@dimacs.rutgers.edu	[18]
-journals.permissions@oxfordjournals.org	[3]
+[
+    {
+        "content": "richa agarwala. email: agarwala@dimacs.rutgers.edu; office: room 423, core: busch campus; phone: 908-445-4575; fax: 908-445-5932...", 
+        "email_addr_list": [
+            "agarwala@dimacs.rutgers.edu"
+        ], 
+        "cite_url": "dimacs.rutgers.edu/People/Postdocs/Agarwala.html", 
+        "cite_name": "Rutgers University", 
+        "title": "Richa Agarwala - dimacs"
+    }
+]

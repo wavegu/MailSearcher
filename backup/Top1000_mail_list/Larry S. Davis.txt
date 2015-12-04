@@ -1,2 +1,20 @@
-email at cs.umd.edu	[7]
-chenxi at umiacs dot umd dot edu	[3]
+[
+    {
+        "content": "larry davis. professor of computer ... verified email at cs.umd.edu. scholar ... w 4 s: a real-time system for detecting and tracking people in 2 1/2d. i haritaoglu...", 
+        "email_addr_list": [
+            "email@cs.umd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lc0ARagAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Larry Davis - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: chenxi at umiacs dot umd dot edu ... larry s. davis; topics: scene understanding, object recognition and detection, ... xi chen, he he, larry davis.", 
+        "email_addr_list": [
+            "chenxi@umiacs.umd.edu"
+        ], 
+        "cite_url": "https://sites.google.com/site/xichenstephen/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Xi (Stephen) Chen , PhD Candidate in Computer Science ...Google Business Email‎Searches related to Larry S. Davis email"
+    }
+]

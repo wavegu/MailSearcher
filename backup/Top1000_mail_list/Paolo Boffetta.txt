@@ -1,0 +1,39 @@
+[
+    {
+        "content": "paolo boffetta, professor medicine, hematology and medical oncology, professor oncological sciences, ... email. paolo.boffetta@mssm.edu...", 
+        "email_addr_list": [
+            "paolo.boffetta@mssm.edu"
+        ], 
+        "cite_url": "https://www.mountsinai.org/.../paolo-null-boffetta", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Paolo Boffetta - The Mount Sinai Hospital"
+    }, 
+    {
+        "content": "department of epidemiology. kresge bldg, 9th floor. 677 huntington avenue. boston, massachusetts 02115. paolo.boffetta@i-pri.org...", 
+        "email_addr_list": [
+            "paolo.boffetta@i-pri.org"
+        ], 
+        "cite_url": "www.hsph.harvard.edu/paolo...", 
+        "cite_name": "Harvard T.H. Chan School of Public Health", 
+        "title": "Paolo Boffetta | Harvard T.H. Chan School of Public Health"
+    }, 
+    {
+        "content": "create alert. cancel. paolo boffetta ... verified email at mssm.edu. scholar ... rj hung, jd mckay, v gaborieau, p boffetta, m hashibe, d zaridze, ... nature 452...", 
+        "email_addr_list": [
+            "email@mssm.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BcSVQxoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Paolo Boffetta - Google Scholar Citations"
+    }, 
+    {
+        "content": "paolo boffetta director institute for translational ... medicine email paola.boffetta@mssm.edu paolo.boffetta@mssm.edu training areas cancer...", 
+        "email_addr_list": [
+            "paola.boffetta@mssm.edu", 
+            "paolo.boffetta@mssm.edu"
+        ], 
+        "cite_url": "https://sites.google.com/site/paoloboffettablog", 
+        "cite_name": "", 
+        "title": "Paolo Boffetta - Google Sites"
+    }
+]

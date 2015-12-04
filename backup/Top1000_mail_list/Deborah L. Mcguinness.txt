@@ -1,4 +1,20 @@
-email at rpi.edu	[4]
-dlm@ksl.stanford.edu	[4]
-mcguid@rpi.edu.deborah	[3]
-mcguid@rpi.edu	[3]
+[
+    {
+        "content": "deborah mcguinness is a leading expert in knowledge representation and reasoning languages and ... most recently, mcguinness is best known for her leadership role in semantic web research, and for her ... email address: mcguid@rpi.edu.", 
+        "email_addr_list": [
+            "mcguid@rpi.edu"
+        ], 
+        "cite_url": "www.cogsci.rpi.edu/pl/faculty-staff-cogsci/deborah-mcguinness", 
+        "cite_name": "", 
+        "title": "Deborah McGuinness - Cognitive Science Department ..."
+    }, 
+    {
+        "content": "deborah l. mcguinness. tetherless world chair ... verified email at rpi.edu. scholar. get my own ... d fensel, f van harmelen, i horrocks, dl mcguinness, .", 
+        "email_addr_list": [
+            "email@rpi.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PLJ0L4QAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Deborah L. McGuinness - Google Scholar Citations"
+    }
+]

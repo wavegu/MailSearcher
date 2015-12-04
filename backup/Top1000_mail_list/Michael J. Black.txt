@@ -1,2 +1,20 @@
-black@tuebingen.mpg.de	[11]
-email at is.mpg.de	[2]
+[
+    {
+        "content": "create alert. cancel. michael j. black ... verified email at is.mpg.de - homepage  scholar ... s baker, d scharstein, jp lewis, s roth, mj black, r szeliski.", 
+        "email_addr_list": [
+            "email@is.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6NjbexEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael J. Black - Google Scholar Citations"
+    }, 
+    {
+        "content": "black, michael j. profile_image. ph.d., prof. (brown university, providence/usa) michael j. black. max planck institute for ... email:black@tuebingen.mpg.de...", 
+        "email_addr_list": [
+            "black@tuebingen.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/.../intelligente_systeme_tuebinge...", 
+        "cite_name": "Max Planck Society", 
+        "title": "Michael J. Black - Max-Planck-Gesellschaft"
+    }
+]

@@ -1,3 +1,29 @@
-michael.meaney@mcgill.ca	[27]
-email at mcgill.ca	[3]
-andree-anne.bouvette-turcot@mail.mcgill.ca	[1]
+[
+    {
+        "content": "michael j meaney is a james mcgill professor of medicine at douglas mental health university institute of ... email: andree-anne.bouvette-turcot@mail.mcgill.ca...", 
+        "email_addr_list": [
+            "andree-anne.bouvette-turcot@mail.mcgill.ca"
+        ], 
+        "cite_url": "michael-meaney.lab.mcgill.ca/en/team_en.html", 
+        "cite_name": "", 
+        "title": "Michael Meaneys Lab - Team"
+    }, 
+    {
+        "content": "name: michael j. meaney, phd. mcgill title: james mcgill professor, departments of psychiatry and neurology  ... e-mail: michael.meaney@mcgill.ca. areas of...", 
+        "email_addr_list": [
+            "michael.meaney@mcgill.ca"
+        ], 
+        "cite_url": "neurology.mcgill.ca/meaney_m.html", 
+        "cite_name": "", 
+        "title": "Michael J. Meaney - McGill Department of Neurology"
+    }, 
+    {
+        "content": "verified email at mcgill.ca. scholar. get my own profile ... d liu, j diorio, b tannenbaum, c caldji, d francis, a freedman, ... science 277 (5332) ... c caldji, b tannenbaum, s sharma, d francis, pm plotsky, mj meaney. proceedings of the...", 
+        "email_addr_list": [
+            "email@mcgill.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LkRMhD4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael J Meaney - Google Scholar Citations"
+    }
+]

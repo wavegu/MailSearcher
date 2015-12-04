@@ -1,6 +1,47 @@
-vbafna@ucsd.edu	[12]
-vbafna@cs.ucsd.edu	[12]
-vbafna@ucsd.edu.vineet	[12]
-bafna@dmac.rutgers.edu	[11]
-email at cs.ucsd.edu	[1]
-marketing@algaeindustrymagazine.com	[1]
+[
+    {
+        "content": "at ucsd, vineet bafna continues to focus on computational analysis of ... google scholar publications. vineet bafna. web page. email: vbafna@ucsd.edu.", 
+        "email_addr_list": [
+            "vbafna@ucsd.edu"
+        ], 
+        "cite_url": "jacobsschool.ucsd.edu/...bios/index.sfe?...", 
+        "cite_name": "Jacobs School of Engineering", 
+        "title": "Vineet Bafna - UCSD Jacobs School of Engineering"
+    }, 
+    {
+        "content": "vineet bafna. professor ... verified email at cs.ucsd.edu - homepage  scholar ... r bals, x wang, z wu, t freeman, v bafna, m zasloff, jm wilson. journal of...", 
+        "email_addr_list": [
+            "email@cs.ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NzQu5SwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Vineet Bafna - Google Scholar Citations"
+    }, 
+    {
+        "content": "vineet bafna. email: bafna@dmac.rutgers.edu. areas of interest: computational biology; approximation algorithms. dimacs: september 1995 - august 1996...", 
+        "email_addr_list": [
+            "bafna@dmac.rutgers.edu"
+        ], 
+        "cite_url": "dmac.rutgers.edu/People/Postdocs/Bafna.html", 
+        "cite_name": "", 
+        "title": "Vineet Bafna - dimacs"
+    }, 
+    {
+        "content": "vineet bafna computer science and engineering, ucsd research: snp analysis, non-coding rnas, mass spectrometry email: vbafna@cs.ucsd.edu phone:...", 
+        "email_addr_list": [
+            "vbafna@cs.ucsd.edu"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Vineet-Bafna/512174160", 
+        "cite_name": "", 
+        "title": "Dr. Vineet Bafna - ZoomInfo"
+    }, 
+    {
+        "content": "home / archives for vineet bafna ... computer science and engineering professor at the university of california san diego (ucsd) vineet bafna was on the roster of experts who spoke at ... email marketing@algaeindustrymagazine.com...", 
+        "email_addr_list": [
+            "marketing@algaeindustrymagazine.com"
+        ], 
+        "cite_url": "www.algaeindustrymagazine.com/tag/vineet-bafna/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Vineet Bafna Archives - Algae Industry Magazine :Algae ...Google Business Email‎"
+    }
+]

@@ -1,2 +1,20 @@
-kamatan@uf.a.u-tokyo.ac.jp	[1]
-email at kuicr.kyoto-u.ac.jp	[1]
+[
+    {
+        "content": "susumu goto. institute for ... verified email at kuicr.kyoto-u.ac.jp. scholar ... m kanehisa, s goto, m hattori, kf aoki-kinoshita, m itoh, s kawashima, ... nucleic...", 
+        "email_addr_list": [
+            "email@kuicr.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wHoNzDEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Susumu Goto - Google Scholar Citations"
+    }, 
+    {
+        "content": "susumu goto (associate professor) toshihide hirao (lecturer) ... contact details: e-mail kamatan@uf.a.u-tokyo.ac.jp , tel. 0167-42-2111, fax.", 
+        "email_addr_list": [
+            "kamatan@uf.a.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.uf.a.u-tokyo.ac.jp/english/faculty.html", 
+        "cite_name": "", 
+        "title": "Faculty | University Forests, Graduate School of Agricultural ..."
+    }
+]

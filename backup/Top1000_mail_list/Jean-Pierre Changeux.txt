@@ -1,2 +1,11 @@
-changeux at pasteur.fr	[18]
-email at pasteur.fr	[2]
+[
+    {
+        "content": "jean-pierre changeux. emeritus professor ... verified email at pasteur.fr. scholar ... s dehaene, jp changeux, l naccache, j sackur, c sergent. trends in...", 
+        "email_addr_list": [
+            "email@pasteur.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Bq3F8iIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jean-Pierre Changeux - Google Scholar Citations"
+    }
+]

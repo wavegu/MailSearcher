@@ -1,4 +1,29 @@
-suyeonkim08@gmail.com	[2]
-email at wehi.edu.au	[2]
-terry@stat.berkeley.edu	[2]
-yuvalb@stat.berkeley.edu	[1]
+[
+    {
+        "content": "cancel. terence p speed. the walter  eliza hall institute. verified email at wehi.edu.au ... yh yang, s dudoit, p luu, dm lin, v peng, j ngai, tp speed.", 
+        "email_addr_list": [
+            "email@wehi.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Sg6_CmwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Terence P Speed - Google Scholar Citations"
+    }, 
+    {
+        "content": "terry speeds research concerns the application of statistics to problems in genetics and ... (message), +1-510-642-7892 (fax); email: terry@stat.berkeley.edu...", 
+        "email_addr_list": [
+            "terry@stat.berkeley.edu"
+        ], 
+        "cite_url": "www.stat.berkeley.edu/~terry/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Terry Speed - Department of Statistics"
+    }, 
+    {
+        "content": "verified email at wehi.edu.au - homepage  scholar. get my own profile. google scholar ... gk smyth, t speed. methods 31 (4), 265-273, 2003. 1571, 2003.", 
+        "email_addr_list": [
+            "email@wehi.edu.au"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=k1z6axEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Gordon K Smyth - Google Scholar Citations"
+    }
+]

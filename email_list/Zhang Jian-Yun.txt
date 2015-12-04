@@ -1,0 +1,30 @@
+[
+    {
+        "content": "cancel. jian-yun nie. university of montreal  information retrieval, natural language processing. verified email at iro.umontreal.ca ... jr wen, jy nie, hj zhang.", 
+        "email_list": [
+            "email@iro.umontreal.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W7uYg0UAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jian-Yun Nie - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: yunjiang@cs.cornell.edu. my curriculum vitae is here. ... journal papers: yun jiang, marcus lim, changxi zheng, ashutosh saxena. “learning to place...", 
+        "email_list": [
+            "yunjiang@cs.cornell.edu"
+        ], 
+        "cite_url": "www.cs.cornell.edu/~yunjiang/", 
+        "cite_name": "Cornell University", 
+        "title": "Homepage of Yun Jiang - Cornell University"
+    }, 
+    {
+        "content": "feb 7, 2013 - ... of sciences (cas). email: zlding@mail.igcas.ac.cn ... technology, cas. email: pqchen@cashq.ac.cn .... zhang jianyun. nanjing hydraulic...", 
+        "email_list": [
+            "zlding@mail.igcas.ac.cn", 
+            "pqchen@cashq.ac.cn"
+        ], 
+        "cite_url": "www.igbp.net/.../chinabe...", 
+        "cite_name": "International Geosphere‑Biosphere Programme", 
+        "title": "China-Beijing NC - IGBP"
+    }
+]

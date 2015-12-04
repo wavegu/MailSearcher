@@ -1,5 +1,38 @@
-anil.k.jain@frb.gov	[21]
-dranilkjain@gmail.com	[18]
-dranilkjain@gmail.com.digital	[18]
-jain@cse.msu.edu	[10]
-email at cse.msu.edu	[2]
+[
+    {
+        "content": "email: jain@cse.msu.edu. research contributions vita prip lab. anil k. jain is a university distinguished professor in the department of computer science...", 
+        "email_addr_list": [
+            "jain@cse.msu.edu"
+        ], 
+        "cite_url": "www.cse.msu.edu/~jain/", 
+        "cite_name": "Michigan State University", 
+        "title": "Dr. Anil K. Jain - Department of Computer Science and ..."
+    }, 
+    {
+        "content": "anil k. jain. michigan state university ... verified email at cse.msu.edu - homepage  scholar ... d maltoni, d maio, ak jain, s prabhakar. springer-verlag new...", 
+        "email_addr_list": [
+            "email@cse.msu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=g-_ZXGsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Anil K. Jain - Google Scholar Citations"
+    }, 
+    {
+        "content": "anil jain. contact information. email: anil.k.jain@frb.gov. i am now an economist at the federal reserve board of governors. my new site is here: anilkjain.com.", 
+        "email_addr_list": [
+            "anil.k.jain@frb.gov"
+        ], 
+        "cite_url": "economics.mit.edu/grad/akj25", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "MIT Economics : Anil Jain"
+    }, 
+    {
+        "content": "jain ak. biodata of prof. anil k jain of university college of medical sciences. ... resi. 91-120-(2792778) 9811604663. e-mail. : dranilkjain@gmail.com.", 
+        "email_addr_list": [
+            "dranilkjain@gmail.com"
+        ], 
+        "cite_url": "www.iorg.co.in/wp-content/uploads/.../Resume-latest-dr-anil-jain.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Biodata of Prof. Anil K Jain of University College of Medical ..."
+    }
+]

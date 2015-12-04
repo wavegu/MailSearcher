@@ -1,0 +1,20 @@
+[
+    {
+        "content": "kaizhu huang. xian jiaotong liverpool ... verified email at xjtlu.edu.cn - homepage  scholar ... k huang, h yang, i king, mr lyu, l chan. the journal of...", 
+        "email_list": [
+            "email@xjtlu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3l5B0joAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kaizhu Huang - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: ppyang at nlpr.ia.ac.cn. selected publications. peipei yang, kaizhu huang, cheng-lin liu. geometry preserving multi-task metric learning. machine...", 
+        "email_list": [
+            "ppyang@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "www.cripac.ia.ac.cn/People/ppyang.html", 
+        "cite_name": "", 
+        "title": "CRIPAC"
+    }
+]

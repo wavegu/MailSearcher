@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at philips.com. scholar. get my own ... a hampapur, l brown, j connell, a ekin, n haas, m lu, s pankanti. signal processing ... a ekin. image processing, 2003. icip 2003. proceedings. 2003 international ..., 2003. 76, 2003.", 
+        "email_list": [
+            "email@philips.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eBmIC4wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ahmet Ekin - Google Scholar Citations"
+    }, 
+    {
+        "content": "ahmet ekin, İzmir Üniversitesi hastanesi. ... dr. ahmet ekin. ortopedi ... email info@izmiruniversitesihastanesi.com. yeni girne bulvarı 1825 sok. no.", 
+        "email_list": [
+            "info@izmiruniversitesihastanesi.com"
+        ], 
+        "cite_url": "www.izmiruniversitesihastanesi.com/.../ahmet-ekin", 
+        "cite_name": "", 
+        "title": "Ahmet Ekin - İzmir Üniversitesi Hastanesi"
+    }
+]

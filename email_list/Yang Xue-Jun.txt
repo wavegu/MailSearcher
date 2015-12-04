@@ -1,0 +1,57 @@
+[
+    {
+        "content": "xuejun yang. office: meb 3445, school of computing, university of utah. email: jxyang at cs dot utah dot edu. i am a fifth year phd student in school of...", 
+        "email_list": [
+            "jxyang@cs.utah.edu"
+        ], 
+        "cite_url": "www.cs.utah.edu/~jxyang/", 
+        "cite_name": "University of Utah", 
+        "title": "Xuejun Yang - School of Computing - University of Utah"
+    }, 
+    {
+        "content": "create alert. cancel. xuejun yang. microsoft ... verified email at microsoft.com. scholar ... j regehr, y chen, p cuoq, e eide, c ellison, x yang. acm sigplan...", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=oZb5Xu4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xuejun Yang - Google Scholar Citations"
+    }, 
+    {
+        "content": "deputy dean: pan jianfeng wang xixin yang xiaolei xue jun guo li assistant dean: yi ming yang ming che hao hou meng chen ruoying li yuanyuan party officials: ... email: llmpku@pku.edu.cn, llmpku@gmail.com. copyright (c) peking...", 
+        "email_list": [
+            "llmpku@pku.edu.cn", 
+            "llmpku@gmail.com"
+        ], 
+        "cite_url": "en.law.pku.edu.cn/overview/office/index.htm", 
+        "cite_name": "Peking University", 
+        "title": "Administrative Offices_Peking University Law School"
+    }, 
+    {
+        "content": "director md/phd program. basic biomedical sciences. lee medicine  science hall 251. phone: (605) 658-6345. email: xuejun.wang@usd.edu.", 
+        "email_list": [
+            "xuejun.wang@usd.edu"
+        ], 
+        "cite_url": "www.usd.edu/faculty-and.../Xuejun-Wang", 
+        "cite_name": "University of South Dakota", 
+        "title": "Xuejun Wang Ph.D. - The University of South Dakota - USD"
+    }, 
+    {
+        "content": "... research  events  contact us  faculty directory  li, xue-jun june. photo of xue-jun june li, ph.d. ... email: xjli@uchc.edu. website(s): neuroscience...", 
+        "email_list": [
+            "xjli@uchc.edu"
+        ], 
+        "cite_url": "facultydirectory.uchc.edu/profile...", 
+        "cite_name": "University of Connecticut Health Center", 
+        "title": "Xue-Jun June - Faculty Directory › UConn Health"
+    }, 
+    {
+        "content": "domain report for yang xuejun, support@yinsibaohu.aliyun.com, associated with 678 domains and 16 emails.", 
+        "email_list": [
+            "support@yinsibaohu.aliyun.com"
+        ], 
+        "cite_url": "www.domainiq.com/name?yang_xuejun", 
+        "cite_name": "", 
+        "title": "yang xuejun - domainIQ"
+    }
+]

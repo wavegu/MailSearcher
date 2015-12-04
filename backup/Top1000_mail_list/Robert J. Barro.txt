@@ -1,1 +1,11 @@
-edepuy@fas.harvard.edu	[1]
+[
+    {
+        "content": "robert j. barro. paul m. warburg professor of economics. search. photo barro. littauer center 218 ... e-mail: edepuy@fas.harvard.edu. tel: 617-496-0053.", 
+        "email_addr_list": [
+            "edepuy@fas.harvard.edu"
+        ], 
+        "cite_url": "scholar.harvard.edu/barro/home", 
+        "cite_name": "Harvard University", 
+        "title": "Robert J. Barro"
+    }
+]

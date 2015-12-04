@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dr helen purchase. room s104, computing science, 15 lilybank ... (computing science). telephone: 01413304484 email: helen.purchase@glasgow.ac.uk...", 
+        "email_list": [
+            "helen.purchase@glasgow.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Glasgow", 
+        "title": "Dr Helen Purchase - University of Glasgow"
+    }, 
+    {
+        "content": "create alert. cancel. helen purchase. unknown affiliation. verified email at dcs.gla.ac.uk. scholar ... c ware, h purchase, l colpoys, m mcgill. information...", 
+        "email_list": [
+            "email@dcs.gla.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4I7Q3nEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Helen Purchase - Google Scholar Citations"
+    }, 
+    {
+        "content": "“helen purchase is a leading expert in computer science and this book ... “helen purchases new book is a practical guide to hci experiments. .... if you are having problems accessing these resources please email cflack@cambridge.org.", 
+        "email_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../experimental-human-...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Experimental Human-Computer Interaction | Computing and ..."
+    }
+]

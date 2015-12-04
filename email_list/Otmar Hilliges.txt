@@ -1,0 +1,38 @@
+[
+    {
+        "content": "aug 4, 2015 - e-mail: otmar.hilliges@inf.ethz.ch; phone: +41 44 632 39 56; fax: +41 44 632 16 59; address: universitätstrasse 6, 8092 zürich, switzerland...", 
+        "email_list": [
+            "otmar.hilliges@inf.ethz.ch"
+        ], 
+        "cite_url": "people.inf.ethz.ch/otmarh/", 
+        "cite_name": "ETH Zurich", 
+        "title": "Prof. Dr. Otmar Hilliges - ETH Zürich"
+    }, 
+    {
+        "content": "otmar hilliges. assistant professor ... verified email at inf.ethz.ch - homepage  scholar ... ra newcombe, s izadi, o hilliges, d molyneaux, d kim, aj davison, .", 
+        "email_list": [
+            "email@inf.ethz.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-epU9OsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Otmar Hilliges - Google Scholar Citations"
+    }, 
+    {
+        "content": "aug 31, 2012 - mail, otmar.hilliges@ifi.lmu.de ... download, mark hancock, otmar hilliges, christopher collins, ... download, otmar hilliges, david kirk", 
+        "email_list": [
+            "otmar.hilliges@ifi.lmu.de"
+        ], 
+        "cite_url": "www.medien.ifi.lmu.de/team/otmar.hilliges/", 
+        "cite_name": "", 
+        "title": "Otmar Hilliges - Medieninformatik"
+    }, 
+    {
+        "content": "name: otmar hilliges; email: hilliges@in.tum.de; company name: ls1; company url: dwarf. interests; movies; dwarf; classes  other university stuff.", 
+        "email_list": [
+            "hilliges@in.tum.de"
+        ], 
+        "cite_url": "far.in.tum.de/Main/OtmarHilliges", 
+        "cite_name": "", 
+        "title": "OtmarHilliges - Forschungsgruppe Augmented Reality (FAR)"
+    }
+]

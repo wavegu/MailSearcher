@@ -1,5 +1,20 @@
-alan.evans@mcgill.ca.alan	[19]
-alan.evans@mcgill.ca	[19]
-jcevans@ups.edu	[13]
-alan at bic.mni.mcgill.caalan	[13]
-alan at bic.mni.mcgill.ca	[13]
+[
+    {
+        "content": "alan c. evans. professor, neurology and neurosurgery professor, medical ... tel: +1-514-398-8926. fax: +1-514-398-8948. e-mail: alan at bic.mni.mcgill.ca", 
+        "email_addr_list": [
+            "alan@bic.mni.mcgill.ca"
+        ], 
+        "cite_url": "https://www.mcgill.ca/bme/meet-our.../alan-c-evans", 
+        "cite_name": "McGill University", 
+        "title": "Alan C. Evans | Biomedical Engineering - McGill University"
+    }, 
+    {
+        "content": "tacoma, wa 98416 usa e-mail: jcevans@ups.edu .... james evans, christian c. carman, and alan s. thorndike, solar anomaly and planetary displays in the...", 
+        "email_addr_list": [
+            "jcevans@ups.edu"
+        ], 
+        "cite_url": "www2.ups.edu/faculty/jcevans/", 
+        "cite_name": "", 
+        "title": "James Evans - University of Puget Sound"
+    }
+]

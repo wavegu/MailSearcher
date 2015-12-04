@@ -1,2 +1,11 @@
-yusufs@mcmaster.ca	[12]
-badzioch@hhsc.ca	[1]
+[
+    {
+        "content": "professor, medicine. email: yusufs@mcmaster.ca. website: salim yusufs homepage ... view chair announcement  faces of innovation: salim yusuf. [back].", 
+        "email_addr_list": [
+            "yusufs@mcmaster.ca"
+        ], 
+        "cite_url": "fhs.mcmaster.ca/.../cardiovascular_disease_chair.ht...", 
+        "cite_name": "McMaster University", 
+        "title": "Cardiovascular Disease Chair - Faculty of Health Sciences"
+    }
+]

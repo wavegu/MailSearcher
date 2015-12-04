@@ -1,0 +1,48 @@
+[
+    {
+        "content": "aug 31, 2011 - email: huangzhenghai@tju.edu.cn .... hu sheng-long, huang zheng-hai, and qi liqun, strictly nonnegative tensors and nonnegative tensor...", 
+        "email_list": [
+            "huangzhenghai@tju.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Tianjin University", 
+        "title": "Huang Zhenghai - 天津大学理学院"
+    }, 
+    {
+        "content": "hai qi. professor, school of life sciences, tsinghua university professor, school ... yuan, wensheng wei, yuanwu ma, lianfeng zhang, longyan wu, and hai qi#. ... tel:+86-10-62772269 fax:+86-10-62788604 email:swxrs@tsinghua.edu.cn.", 
+        "email_list": [
+            "swxrs@tsinghua.edu.cn"
+        ], 
+        "cite_url": "life.tsinghua.edu.cn/english/faculty/.../752.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "Hai Qi"
+    }, 
+    {
+        "content": "email: hbyang@chem.ecnu.edu.cn. address: ..... bao-yong hou, de-xian wang, hai-bo yang, qi-yu zheng, and mei-xiang wang,* “synthesis and structure of...", 
+        "email_list": [
+            "hbyang@chem.ecnu.edu.cn"
+        ], 
+        "cite_url": "faculty.ecnu.edu.cn/s/557/t/.../main.jspy", 
+        "cite_name": "East China Normal University", 
+        "title": "East China Normal University Hai-Bo Yang"
+    }, 
+    {
+        "content": "email: sibcb@sibs.ac.cn .... beibei chu, yacheng liao, wei qi, chang xie, ximing du, jiang wang, hongyuan yang, honghua miao, boliang li, baoliang song. ... yuxuan wu, hai zhou, xiaoying fan, ying zhang, man zhang, yinghua wang,...", 
+        "email_list": [
+            "sibcb@sibs.ac.cn"
+        ], 
+        "cite_url": "www.sibcb.ac.cn/ep2-3.asp", 
+        "cite_name": "", 
+        "title": "Representative Publications - Institute of Biochemistry and ..."
+    }, 
+    {
+        "content": "sep 19, 2011 - shenglong hu ∗, zheng-hai huang †, chen ling ‡, liqun qi § ... †email: huangzhenghai@tju.edu.cn. ... §email: maqilq@polyu.edu.hk.", 
+        "email_list": [
+            "huangzhenghai@tju.edu.cn", 
+            "maqilq@polyu.edu.hk"
+        ], 
+        "cite_url": "www.polyu.edu.hk/.../E-Determinant....", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "[PDF]E-Determinants of Tensors - The Hong Kong Polytechnic ..."
+    }
+]

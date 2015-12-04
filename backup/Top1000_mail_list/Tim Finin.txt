@@ -1,8 +1,40 @@
-finin@umbc.edu	[11]
-finin@cs.umbc.edu	[11]
-email at umbc.edu	[2]
-199508172201.saa08888@cujo.cs.umbc.edu	[1]
-199508172201.saa08888@cujo.cs.umbc.eduwww-ksl.stanford.edu	[1]
-199506292103.raa06954@cujo.cs.umbc.edu	[1]
-199506292103.raa06954@cujo.cs.umbc.eduksl.stanford.edu	[1]
-199404021650.aa02366@algol.cs.umbc.eduksl.stanford.edu	[1]
+[
+    {
+        "content": "umbc professor tim finin ... email: finin@umbc.edu. sorry ... tim finin is a professor in the department of computer science and electrical engineering at the...", 
+        "email_addr_list": [
+            "finin@umbc.edu"
+        ], 
+        "cite_url": "www.csee.umbc.edu/.../tim-fin...", 
+        "cite_name": "University of Maryland, Baltimore County", 
+        "title": "Tim Finin | Computer Science and Electrical Engineering"
+    }, 
+    {
+        "content": "tim finin. professor of computer science and electrical engineering, ... verified email at umbc.edu - homepage ... t finin, r fritzson, d mckay, r mcentire.", 
+        "email_addr_list": [
+            "email@umbc.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tim Finin - Google Scholar Citations"
+    }, 
+    {
+        "content": "from: timothy finin finin@cs.umbc.edu date: thu, 17 aug 1995 18:01:49 -0400 message-id: 199508172201.saa08888@cujo.cs.umbc.edu to:...", 
+        "email_addr_list": [
+            "finin@cs.umbc.edu", 
+            "199508172201.saa08888@cujo.cs.umbc.edu"
+        ], 
+        "cite_url": "www-ksl.stanford.edu/email-archives/ontolingua.messages/198.html", 
+        "cite_name": "", 
+        "title": "EMail Msg 199508172201.SAA08888@cujo.cs.umbc.edu"
+    }, 
+    {
+        "content": "from: timothy finin finin@cs.umbc.edu date: thu, 29 jun 1995 17:03:58 -0400 message-id: 199506292103.raa06954@cujo.cs.umbc.edu to:...", 
+        "email_addr_list": [
+            "finin@cs.umbc.edu", 
+            "199506292103.raa06954@cujo.cs.umbc.edu"
+        ], 
+        "cite_url": "ksl.stanford.edu/email-archives/kqml.messages/261.html", 
+        "cite_name": "", 
+        "title": "EMail Msg 199506292103.RAA06954@cujo.cs.umbc.edu"
+    }
+]

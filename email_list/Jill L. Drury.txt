@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jill l. drury. department head, the mitre ... verified email at mitre.org - homepage  scholar. get my own ... ha yanco, jl drury, j scholtz. human–computer...", 
+        "email_list": [
+            "email@mitre.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1ko71zcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jill L. Drury - Google Scholar Citations"
+    }, 
+    {
+        "content": "jill drury. home  kennedy college of sciences  computer science  jill drury. jill l. drury, computer science. email: jdrury@cs.uml.edu...", 
+        "email_list": [
+            "jdrury@cs.uml.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Massachusetts Lowell", 
+        "title": "Jill Drury - UMass Lowell"
+    }, 
+    {
+        "content": "personal homepage: employer: (); email ... 3. jill l. drury. 6 ... send us an email at hello@interaction-design.org or through our online contact form. or find us...", 
+        "email_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/holly-a-yanco", 
+        "cite_name": "", 
+        "title": "Holly A. Yanco: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "administrative staff. aaron d. jones, j.d., ll.m. dean of the college of continuing professional studies. phone: (417) 873-6829. email: aaronjones@drury.edu.", 
+        "email_list": [
+            "aaronjones@drury.edu"
+        ], 
+        "cite_url": "www.drury.edu/ccps/ccps-staff/", 
+        "cite_name": "Drury University", 
+        "title": "Drury University: CCPS Staff"
+    }
+]

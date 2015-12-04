@@ -1,6 +1,47 @@
-k.friston@fil.ion.ucl.ac.uk	[16]
-karl@fil.ion.ucl.ac.uk	[9]
-karl@fil.ion.ucl.ac.uk.public	[9]
-email at ucl.ac.uk	[2]
-ling@a-star.edu.sg	[1]
-ling@a-star.edu.sg.models	[1]
+[
+    {
+        "content": "neuroscience. verified email at ucl.ac.uk - homepage ... j ashburner, kj friston ... kj friston, j ashburner, cd frith, jb poline, jd heather, rsj frackowiak.", 
+        "email_addr_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=q_4u0aoAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Karl Friston - Google Scholar Citations"
+    }, 
+    {
+        "content": "prof. karl j. friston wellcome department of cognitive neurology institute of neurology, university college london london, uk email: karl@fil.ion.ucl.ac.uk.", 
+        "email_addr_list": [
+            "karl@fil.ion.ucl.ac.uk"
+        ], 
+        "cite_url": "www.ntu.edu.sg/home/.../brain.htm", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "CALL FOR PAPERS - Nanyang Technological University"
+    }, 
+    {
+        "content": "professor karl j friston, from the institute of neurology university college ... ms chua yee ling, at did: 6826 6340 or email: chua_yee_ling@a-star.edu.sg.", 
+        "email_addr_list": [
+            "chua_yee_ling@a-star.edu.sg"
+        ], 
+        "cite_url": "a-star.edu.sg/.../Public-Le...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Public Lecture -The Predicting Brain, by Professor Karl J ..."
+    }, 
+    {
+        "content": "karl j. friston. wellcome department of cognitive neurology, university college london, london, wc1n 3bg, united kingdom; email: k.friston@fil.ion.ucl.ac.uk.", 
+        "email_addr_list": [
+            "k.friston@fil.ion.ucl.ac.uk"
+        ], 
+        "cite_url": "www.annualreviews.org  ...  Volume 56, 2005", 
+        "cite_name": "Annual Reviews", 
+        "title": "Models of Brain Function in Neuroimaging - Annual Review ..."
+    }, 
+    {
+        "content": "karl j friston. the wellcome ... email k.friston@fil.ion.ucl.ac.uk ... comprehensive and engaging commentary on our target article (friston et al this issue). we.", 
+        "email_addr_list": [
+            "k.friston@fil.ion.ucl.ac.uk"
+        ], 
+        "cite_url": "www.mrc-cbu.cam.ac.uk/.../FristonHenson_NI_...www.google.com/email", 
+        "cite_name": "University of Cambridge", 
+        "title": "[PDF]divide  conquer; a defence of functional localisersGoogle Business Email‎Searches related to Karl J. Friston email"
+    }
+]

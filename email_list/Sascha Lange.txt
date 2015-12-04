@@ -1,0 +1,30 @@
+[
+    {
+        "content": "sascha lange. department of ... verified email at informatik.uni-freiburg.de - homepage  scholar ... m riedmiller, t gabel, r hafner, s lange. autonomous...", 
+        "email_list": [
+            "email@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PwKJ0PgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sascha Lange - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: membership@bma1.ca. 25 adele cr nepean on k2j 2t7 ... email: vicepresident@bma1.ca. telephone: 819-682-9131. secretary. sascha lange. email:...", 
+        "email_list": [
+            "membership@bma1.ca", 
+            "vicepresident@bma1.ca"
+        ], 
+        "cite_url": "bma1.ca/contact-us-s29.php", 
+        "cite_name": "", 
+        "title": "Contact us"
+    }, 
+    {
+        "content": "email: sascha.lange@emt-penzberg.de. web: www.emt-penzberg.de. emt is a certified aviation company and supplier of air vehicles and aviation equipment.", 
+        "email_list": [
+            "sascha.lange@emt-penzberg.de"
+        ], 
+        "cite_url": "www.uavdach.org/Mitglieder/emt/emt.htm", 
+        "cite_name": "", 
+        "title": "Ständige Mitglieder der UAV D • - UAV DACH"
+    }
+]

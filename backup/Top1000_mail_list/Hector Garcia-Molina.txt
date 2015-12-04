@@ -1,4 +1,20 @@
-hector@cs.stanford.edu	[13]
-email at cs.stanford.edu	[2]
-dpark027 at stanford.edu	[1]
-dpark027 at stanford.edu.stanford	[1]
+[
+    {
+        "content": "hector garcia-molina professor, computer science and electrical engineering departments of stanford university ... email: hector@cs.stanford.edu. address:...", 
+        "email_addr_list": [
+            "hector@cs.stanford.edu"
+        ], 
+        "cite_url": "infolab.stanford.edu/people/hector.html", 
+        "cite_name": "", 
+        "title": "Hector Garcia-Molina - The Stanford University InfoLab"
+    }, 
+    {
+        "content": "hector garcia-molina. professor of ... verified email at cs.stanford.edu. scholar ... s chawathe, h garcia-molina, j hammer, k ireland, y papakonstantinou, .", 
+        "email_addr_list": [
+            "email@cs.stanford.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=bAa...", 
+        "cite_name": "Google Scholar", 
+        "title": "hector garcia-molina - Google Scholar Citations"
+    }
+]

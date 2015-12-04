@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. tiziano bianchi ... verified email at polito.it - homepage  scholar ... m barni, t bianchi, d catalano, m di raimondo, r donida labati, p failla, .", 
+        "email_list": [
+            "email@polito.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KtxtAgoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tiziano Bianchi - Google Scholar Citations"
+    }, 
+    {
+        "content": "tiziano bianchi. +39 011 090 4070 +39 011 090 4099 tiziano.bianchi[at]polito.it. publications. tiziano bianchi received the laurea degree (cum laude) in...", 
+        "email_list": [
+            "tiziano.bianchi@polito.it"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Polytechnic University of Turin", 
+        "title": "Tiziano Bianchi - Telecommunication Networks Group"
+    }, 
+    {
+        "content": "tiziano bianchi. assistant professor with time contract. profile  research  teaching ... phone, +39 0110904070 / 4070 (det). e-mail, tiziano.bianchi@polito.it...", 
+        "email_list": [
+            "tiziano.bianchi@polito.it"
+        ], 
+        "cite_url": "www.det.polito.it/.../tiz...", 
+        "cite_name": "Polytechnic University of Turin", 
+        "title": "DET - TIZIANO BIANCHI"
+    }
+]

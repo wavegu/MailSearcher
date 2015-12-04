@@ -1,1 +1,11 @@
-murray@cds.caltech.edu	[15]
+[
+    {
+        "content": "richard m murray. icb caltech program co-leader icb systems and synthetic ... email: murray@cds.caltech.edu. website: http://www.cds.caltech.edu/~murray/...", 
+        "email_addr_list": [
+            "murray@cds.caltech.edu"
+        ], 
+        "cite_url": "https://www.icb.ucsb.edu/.../richar...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Richard M Murray | www.icb.ucsb.edu"
+    }
+]

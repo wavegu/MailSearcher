@@ -1,6 +1,47 @@
-david.wald@case.edu	[12]
-dcase@globalpost.com	[11]
-secretarydcase@newyorkphysicians.com.david	[11]
-secretarydcase@newyorkphysicians.com	[11]
-email at biomaps.rutgers.edu	[3]
-dlc@tblaw.com	[3]
+[
+    {
+        "content": "david b. case, md, macp ... 212-857-4660 alternate number: 212-317-4660 fax number: 212-752-2454 email: secretarydcase@newyorkphysicians.com.", 
+        "email_addr_list": [
+            "secretarydcase@newyorkphysicians.com"
+        ], 
+        "cite_url": "newyorkphysicians.com/david-b-case.html", 
+        "cite_name": "", 
+        "title": "New York Physicians - David B. Case, MD"
+    }, 
+    {
+        "content": "mailing address: 2103 cornell rd. wrb 3530. cleveland, oh 44106-7288 phone: (216) 368-5668 fax: (216) 368-0494 email: david.wald@case.edu...", 
+        "email_addr_list": [
+            "david.wald@case.edu"
+        ], 
+        "cite_url": "www.case.edu/med/.../faculty/wald.html", 
+        "cite_name": "Case Western Reserve University", 
+        "title": "David Wald, M.D., Ph.D. - Case Western Reserve University"
+    }, 
+    {
+        "content": "cancel. david a case ... verified email at biomaps.rutgers.edu - homepage  scholar ... j wang, rm wolf, jw caldwell, pa kollman, da case. journal of...", 
+        "email_addr_list": [
+            "email@biomaps.rutgers.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=IcWfDggAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David A Case - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: dlc@tblaw.com ... david l. case is a shareholder at tiffany  bosco, p.a., with 40 years of experience in tax planning, estate planning, probate and trust...", 
+        "email_addr_list": [
+            "dlc@tblaw.com"
+        ], 
+        "cite_url": "www.tblaw.com/attorneys/david-case", 
+        "cite_name": "Tiffany  Bosco PA", 
+        "title": "David L. Case - Attorneys - Tiffany  Bosco"
+    }, 
+    {
+        "content": "david case. trip: fellows fall 1998; affiliation: freelance; country: azerbaijan; year: 1998. email: dcase@globalpost.com. david case is editor of passport,...", 
+        "email_addr_list": [
+            "dcase@globalpost.com"
+        ], 
+        "cite_url": "internationalreportingproject.org/.../case-d...", 
+        "cite_name": "International Reporting Project", 
+        "title": "Case, David — International Reporting Project"
+    }
+]

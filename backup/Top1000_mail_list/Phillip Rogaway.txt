@@ -1,12 +1,68 @@
-rogaway@cs.ucdavis.edu	[15]
-rogaway at cs.ucdavis.edu	[15]
-authenticated-.rogaway@cs.ucd	[15]
-rwoodard@gr.com	[2]
-ryan@halfzero.com	[2]
-adokano@ucdavis.edu	[1]
-tvhoang@engr.ucsb.edu	[1]
-ymu@uow.edu.au	[1]
-email at cs.ucdavis.edu	[1]
-c.mitchell@rhul.ac.uk	[1]
-adokano@ucdavis.eduphillip	[1]
-tdk@acm.org	[1]
+[
+    {
+        "content": "professor phillip rogaway department of computer science 3009 kemper hall university of california davis, ca 95616 email: rogaway at cs.ucdavis.edu...", 
+        "email_addr_list": [
+            "rogaway@cs.ucdavis.edu"
+        ], 
+        "cite_url": "faculty.engineering.ucdavis.edu/rogaw...", 
+        "cite_name": "UC Davis College of Engineering", 
+        "title": "Professor Phillip Rogaway"
+    }, 
+    {
+        "content": "ecs 120 – theory of computation – spring 2015 – phillip rogaway. you are ... office hours in kemper 55 (basement). email: adokano@ucdavis.edu", 
+        "email_addr_list": [
+            "adokano@ucdavis.edu"
+        ], 
+        "cite_url": "web.cs.ucdavis.edu/~rogaway/.../info.html", 
+        "cite_name": "University of California, Davis", 
+        "title": "ECS 120 – Spring 2015 – Rogaway"
+    }, 
+    {
+        "content": "cancel. phillip rogaway. uc davis  cryptography. verified email at cs.ucdavis.edu - homepage ... m bellare, a desai, d pointcheval, p rogaway. advances in...", 
+        "email_addr_list": [
+            "email@cs.ucdavis.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gUEkPQEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Phillip Rogaway - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: tvhoang@engr.ucsb.edu. university of california ... 2. viet tung hoang, reza reyhanitabar, phillip rogaway, and damian vizár. “online authenticated-.", 
+        "email_addr_list": [
+            "tvhoang@engr.ucsb.edu"
+        ], 
+        "cite_url": "www.cs.ucsb.edu/.../hviettung_C...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "[PDF]VIET TUNG HOANG"
+    }, 
+    {
+        "content": "ca 95819 usa email: tdk@acm.org krovetz informational page 25 rfc 4418 umac march 2006 phillip rogaway department of computer science university...", 
+        "email_addr_list": [
+            "tdk@acm.org"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-rogaway-cs-ucd-6921271.htm", 
+        "cite_name": "", 
+        "title": "rogaway@cs.ucd - The Email Archive"
+    }, 
+    {
+        "content": "rogaway@cs.ucdavis.edu:phillip-rogaway. ryan@halfzero.com:halfzero-digital-design-and-web-development; rwoodard@gr.com:rod-woodard", 
+        "email_addr_list": [
+            "rogaway@cs.ucdavis.edu", 
+            "ryan@halfzero.com", 
+            "rwoodard@gr.com"
+        ], 
+        "cite_url": "www.richkids.me/free-email-15/?email=rogaway@cs...Phillip-Rogaway...", 
+        "cite_name": "", 
+        "title": "rogaway@cs.ucdavis.edu:Phillip-Rogaway - Business Email ..."
+    }, 
+    {
+        "content": "email: c.mitchell@rhul.ac.uk. yi mu. lead guest editor. university of wollongong, australia. email: ymu@uow.edu.au. phillip rogaway. university of california...", 
+        "email_addr_list": [
+            "c.mitchell@rhul.ac.uk", 
+            "ymu@uow.edu.au"
+        ], 
+        "cite_url": "www.uow.edu.au/~ymu/ijwmc/preface.pdfwww.google.com/email", 
+        "cite_name": "University of Wollongong", 
+        "title": "[PDF]Preface - University of WollongongGoogle Business Email‎"
+    }
+]

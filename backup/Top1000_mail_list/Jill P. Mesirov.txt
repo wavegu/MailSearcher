@@ -1,3 +1,11 @@
-mesirov@broad.mit.edu	[15]
-mesirov@broadinstitute.org	[15]
-airoldi@fas.harvard.edu	[1]
+[
+    {
+        "content": "jill mesirov is associate director and chief informatics officer at the broad institute of mit ... contact information. email: mesirov@broad.mit.edu. p: 617-714-7070...", 
+        "email_addr_list": [
+            "mesirov@broad.mit.edu"
+        ], 
+        "cite_url": "www.iq.harvard.edu/people/jill-mesirov", 
+        "cite_name": "Harvard University", 
+        "title": "Jill Mesirov | Harvard Institute for Quantitative Social Science"
+    }
+]

@@ -1,1 +1,11 @@
-email at broadinstitute.org	[2]
+[
+    {
+        "content": "cancel. pablo tamayo ... verified email at broadinstitute.org - homepage  scholar ... tr golub, dk slonim, p tamayo, c huard, m gaasenbeek, jp mesirov, .", 
+        "email_addr_list": [
+            "email@broadinstitute.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-Cf5lUIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pablo Tamayo - Google Scholar Citations"
+    }
+]

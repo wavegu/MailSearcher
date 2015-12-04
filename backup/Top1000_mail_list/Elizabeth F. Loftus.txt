@@ -1,2 +1,29 @@
-eloftus@uci.edu	[15]
-email at uci.edu	[3]
+[
+    {
+        "content": "email eloftus@uci.edu office phone 1.949.824.3285 departmental ... elizabeth f. loftus, katherine ketcham (1994). st. martins press. witness for the defense:.", 
+        "email_addr_list": [
+            "eloftus@uci.edu"
+        ], 
+        "cite_url": "faculty.washington.edu/eloftus/", 
+        "cite_name": "University of Washington", 
+        "title": "Elizabeth F. Loftus - University of Washington"
+    }, 
+    {
+        "content": "... california 92697-7080 email: eloftus@uci.edu .... bethschrift redux: research inspired by the work of elizabeth f. loftus special issue of applied. cognitive...", 
+        "email_addr_list": [
+            "eloftus@uci.edu"
+        ], 
+        "cite_url": "www.law.uci.edu/.../loftus/...", 
+        "cite_name": "University of California, Irvine School of Law", 
+        "title": "[PDF]vitae elizabeth f. loftus - UCI Law - University of California ..."
+    }, 
+    {
+        "content": "elizabeth f. loftus. psychology ... verified email at uci.edu - homepage ... the reality of repressed memories. ef loftus. american psychologist 48 (5), 518, 1993.", 
+        "email_addr_list": [
+            "email@uci.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ZNoHqr8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Elizabeth F. Loftus - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "e-mail: gabriella.pasi@itc.cnr.it. telefono : +39 02 23699 489. fax : +39 02 23699 543. moderator: patrick bosc received the ph. d degree in computer science...", 
+        "email_list": [
+            "gabriella.pasi@itc.cnr.it"
+        ], 
+        "cite_url": "www.hafsamx.org/ifsa2007/panels/P2.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Moderator: Patrick Bosc and Masoud Nikravsh Panelists: P ..."
+    }
+]

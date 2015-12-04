@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dr martin levin delivers a session called use of cbct in endodontics. ... martin d. levin, dmd. topic. use of cbct in ... e-mail: marty@endonet.com. google +...", 
+        "email_list": [
+            "marty@endonet.com"
+        ], 
+        "cite_url": "www.aae.org/.../martin-d--levin,-d...", 
+        "cite_name": "American Association of Endodontists", 
+        "title": "AAE - Martin D Levin, DMD"
+    }
+]

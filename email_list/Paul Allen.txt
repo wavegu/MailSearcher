@@ -1,0 +1,11 @@
+[
+    {
+        "content": "the paul g. allen family foundation 505 5th avenue south, suite 900. seattle, wa 98104. val bush, grants specialist email: valbu@pgafamilyfoundation.org.", 
+        "email_list": [
+            "valbu@pgafamilyfoundation.org"
+        ], 
+        "cite_url": "www.pgafamilyfoundation.org/About/Contact", 
+        "cite_name": "", 
+        "title": "Contact - PGA Foundations - Paul G. Allen Family Foundation"
+    }
+]

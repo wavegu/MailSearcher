@@ -1,3 +1,20 @@
-angusdc@ccm.upmc.edu.derek	[13]
-angusdc@ccm.upmc.edu	[13]
-email at upmc.edu	[7]
+[
+    {
+        "content": "dr. derek angus is a distinguished professor and the mitchell p. fink endowed chair of critical care medicine at the ... dr. angus is also an attending icu physician at upmc presbyterian hospital. ... email: angusdc@ccm.upmc.edu.", 
+        "email_addr_list": [
+            "angusdc@ccm.upmc.edu"
+        ], 
+        "cite_url": "www.mirm.pitt.edu  people  Faculty  Staff", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Derek C. Angus, MD, MPH, FRCP, FCCM, FCCP ..."
+    }, 
+    {
+        "content": "derek c angus. professor, university of ... verified email at upmc.edu. scholar ... dc angus, wt linde-zwirble, j lidicker, g clermont, j carcillo, ... critical care...", 
+        "email_addr_list": [
+            "email@upmc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=esoEF3IAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Derek C Angus - Google Scholar Citations"
+    }
+]

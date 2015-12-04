@@ -1,5 +1,29 @@
-john@geekwire.com.oren	[2]
-john@geekwire.com	[2]
-email at cs.uw.edu	[2]
-info@videolectures.net	[2]
-ai2-info@allenai.org	[2]
+[
+    {
+        "content": "cancel. oren etzioni ... verified email at cs.uw.edu - homepage  scholar ... o etzioni, m cafarella, d downey, am popescu, t shaked, s soderland, ... artificial...", 
+        "email_addr_list": [
+            "email@cs.uw.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XF6Yk98AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Oren Etzioni - Google Scholar Citations"
+    }, 
+    {
+        "content": "ai2, founded by paul allen and led by dr. oren etzioni, conducts high-impact research ... dr. oren etzioni is chief executive officer of the allen institute for artificial ..... to get in touch, email us at: ai2-info@allenai.org or call us: 206.548.5600.", 
+        "email_addr_list": [
+            "ai2-info@allenai.org"
+        ], 
+        "cite_url": "allenai.org/team.html", 
+        "cite_name": "", 
+        "title": "AI2 : Our Team - Allen Institute for Artificial Intelligence"
+    }, 
+    {
+        "content": "dr. oren etzioni is the executive director of the allen institute for artificial intelligence. he was ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/oren_etzioni/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Oren Etzioni - VideoLectures.NET"
+    }
+]

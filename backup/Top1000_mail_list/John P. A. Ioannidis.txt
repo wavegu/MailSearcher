@@ -1,2 +1,11 @@
-jioannid@stanford.edu	[4]
-email at stanford.edu	[3]
+[
+    {
+        "content": "cancel. john p. a. ioannidis ... verified email at stanford.edu - homepage  scholar ... a liberati, dg altman, j tetzlaff, c mulrow, pc gøtzsche, jpa ioannidis, .", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=A9e6sPYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "John P. A. Ioannidis - Google Scholar Citations"
+    }
+]

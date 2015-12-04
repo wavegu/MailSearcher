@@ -1,1 +1,11 @@
-brogeon@william-saurin.fr	[1]
+[
+    {
+        "content": "bernard rogeon. directeur financier. directeur des ressources humaines. tel : 01 60 26 60 00 fax : 01 60 26 69 75. e-mail : brogeon@william-saurin.fr...", 
+        "email_addr_list": [
+            "brogeon@william-saurin.fr"
+        ], 
+        "cite_url": "www.annuaire-decideur.com/.../imp_fiche.adml?...", 
+        "cite_name": "", 
+        "title": "Imprimer cette fiche - Imprimer lannuaire"
+    }
+]

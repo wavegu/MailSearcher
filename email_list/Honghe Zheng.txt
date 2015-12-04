@@ -1,0 +1,39 @@
+[
+    {
+        "content": "email：hhzheng@suda.edu.cn ... (8) honghe zheng; li zhang; gao liu; xiangyun song; vincent s battaglia， the influence of mechanical property on the...", 
+        "email_list": [
+            "hhzheng@suda.edu.cn"
+        ], 
+        "cite_url": "nyxy.suda.edu.cn/Ch/ProductView.asp?id=127...", 
+        "cite_name": "", 
+        "title": "苏州大学能源学院-师资队伍-郑洪河"
+    }, 
+    {
+        "content": "sep 23, 2011 - e-mail address: gliu@lbl.gov ... honghe zheng, ... cheng yan, gao liu, shanqing zhang, dual-functional gum arabic binder for silicon anodes...", 
+        "email_list": [
+            "gliu@lbl.gov"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/adma.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Polymers with Tailored Electronic Structure for High ..."
+    }, 
+    {
+        "content": "email：huanpangchem@hotmail.com ... huan pang, yizhou zhang, wen-yong lai,* zheng hu* and wei huang*，lamellar ..... zhenzhen yan, le ma, yahui ma, guochang li, jing chen, jiangshan zhang and honghe zheng,* hydrated cobalt...", 
+        "email_list": [
+            "huanpangchem@hotmail.com"
+        ], 
+        "cite_url": "id.sciencenet.cn/en/skyworth", 
+        "cite_name": "", 
+        "title": "科学网--学术名片英文版"
+    }, 
+    {
+        "content": "jan 3, 2013 - jie shao, xinyong li, li zhang, qunting qu* and honghe zheng* ... e-mail: qtqu@suda.edu.cn; hhzheng@suda.edu.cn; fax: +86-0512...", 
+        "email_list": [
+            "qtqu@suda.edu.cn", 
+            "hhzheng@suda.edu.cn"
+        ], 
+        "cite_url": "pubs.rsc.org/en/content/.../2012/.../c2nr3359...", 
+        "cite_name": "Royal Society of Chemistry", 
+        "title": "Core–shell sulfur@polypyrrole composites as high-capacity ..."
+    }
+]

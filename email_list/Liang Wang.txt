@@ -1,0 +1,29 @@
+[
+    {
+        "content": "chinese academy of sciences, beijing 100190, china. fax: +86 (0)10 6255 1993. email: wangliang at nlpr.ia.ac.cn. http: //www.cbsr.ia.ac.cn/users/liangwang/...", 
+        "email_list": [
+            "wangliang@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "www.cbsr.ia.ac.cn/users/liangwang/", 
+        "cite_name": "", 
+        "title": "Homepage of Liang Wang"
+    }, 
+    {
+        "content": "... for ruyis party1.jpg. farewell party for ruyi wang at cocos grill ... guo-liang wang department of plant ... fax: (614) 292 4455. e-mail: wang.620@osu.edu.", 
+        "email_list": [
+            "wang.620@osu.edu"
+        ], 
+        "cite_url": "plantpath.osu.edu/wanglab/", 
+        "cite_name": "Ohio State University", 
+        "title": "Guo-Liang Wang - Department of Plant Pathology - The ..."
+    }, 
+    {
+        "content": "liang wang phd student. email: l.wang@qmul.ac.uk. research interests: for my china scholarship council-funded studentship, i am interested in probing the...", 
+        "email_list": [
+            "l.wang@qmul.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Queen Mary University of London", 
+        "title": "Liang Wang - School of Biological and Chemical Sciences"
+    }
+]

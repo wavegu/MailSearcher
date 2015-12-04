@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: tsw@pku.edu.cn ... xu zhuoqun, yang dongqing, tang shiwei, zhang ming, data structures and algorithms, higher education press, 2004 (in chinese).", 
+        "email_list": [
+            "tsw@pku.edu.cn"
+        ], 
+        "cite_url": "www.cis.pku.edu.cn/faculty/system/TangShiWei/TangShiwei_en.htm", 
+        "cite_name": "", 
+        "title": "Tang Shiwei"
+    }
+]

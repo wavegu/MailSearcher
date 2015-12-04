@@ -1,3 +1,20 @@
-kgshin@eecs.umich.edu	[11]
-kgshin@eecs.umich.edu.kang	[11]
-email at unist.ac.kr	[3]
+[
+    {
+        "content": "kang g. shin (신강근). i am the kevin and nancy oconnor professor of ... +1 734-763-0391 (voice) +1 734-763-8094 (fax). e-mail: kgshin@eecs.umich.edu.", 
+        "email_addr_list": [
+            "kgshin@eecs.umich.edu"
+        ], 
+        "cite_url": "web.eecs.umich.edu/~kgshin/", 
+        "cite_name": "University of Michigan", 
+        "title": "Kang G. Shin - Electrical Engineering and Computer Science"
+    }, 
+    {
+        "content": "verified email at unist.ac.kr - homepage  scholar. get my own ... g shin, y shu, z li, z jiang, g mirka. journal of ... s lee, h kang, g shin. ergonomics 58 (2)...", 
+        "email_addr_list": [
+            "email@unist.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6EeivboAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gwanseob Shin - Google Scholar Citations"
+    }
+]

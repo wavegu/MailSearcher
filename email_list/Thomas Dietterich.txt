@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sep 30, 2015 - thomas g. dietterich ... e-mail: tgd@cs.orst.edu phone: +1-541-737-5559 office: kec 2067. pgp public key (last updated september 30,...", 
+        "email_list": [
+            "tgd@cs.orst.edu"
+        ], 
+        "cite_url": "eecs.oregonstate.edu/~tgd/", 
+        "cite_name": "Oregon State University", 
+        "title": "Thomas G. Dietterichs home page"
+    }, 
+    {
+        "content": "(541) 737-5559. fax: (541) 737-1300. e-mail: tgd@eecs.oregonstate.edu ... thomas g. dietterich (ab oberlin college 1977; m.s. university of illinois 1979;...", 
+        "email_list": [
+            "tgd@eecs.oregonstate.edu"
+        ], 
+        "cite_url": "eecs.oregonstate.edu/people/dietterich-thomas", 
+        "cite_name": "Oregon State University", 
+        "title": "Thomas G. Dietterich | Electrical Engineering and Computer ..."
+    }, 
+    {
+        "content": "thomas dietterich. distinguished professor of ... verified email at cs.orst.edu - homepage  scholar. get my own ... tg dietterich, g bakiri. journal of artificial...", 
+        "email_list": [
+            "email@cs.orst.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=09kJn28AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Thomas Dietterich - Google Scholar Citations"
+    }
+]

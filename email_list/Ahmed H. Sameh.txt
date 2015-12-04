@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sep 13, 2012 - sameh ahmed phd student ... email: ahmedsa at cse dot ohio-state dot edu ... 2- sameh m. shohdy, ashraf b. el-sisi, nabil ismail “fpga...", 
+        "email_list": [
+            "ahmedsa@cse.ohio-state.edu"
+        ], 
+        "cite_url": "www.cse.ohio-state.edu...", 
+        "cite_name": "Computer Science  Engineering, Department of", 
+        "title": "Sameh Ahmed"
+    }, 
+    {
+        "content": "staff blogs,. sameh abdel-rahaman ahmed mohamed salem profile page ... first name: sameh. email: sameh_salem@h-eng.helwan.edu.eg. this e-mail...", 
+        "email_list": [
+            "sameh_salem@h-eng.helwan.edu.eg"
+        ], 
+        "cite_url": "www.helwan.edu.eg/Staff-Blog/index.php/user-profile/.../481", 
+        "cite_name": "", 
+        "title": "Sameh Abdel-Rahaman Ahmed Mohamed Salem"
+    }, 
+    {
+        "content": "verified email at mu.edu.sa - homepage  scholar. get my own profile ... h-index, 3, 2. i10-index, 2, 2 ... mre tahlawi, aa farrag, ss ahmed. assiut university...", 
+        "email_list": [
+            "email@mu.edu.sa"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GN6GKPQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sameh S Ahmed - Google Scholar Citations"
+    }
+]

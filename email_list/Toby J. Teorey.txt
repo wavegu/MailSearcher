@@ -1,0 +1,20 @@
+[
+    {
+        "content": "toby j. teorey professor emeritus computer science ... ann arbor, mi 48109-2121 usa phone: 734-763-8154, fax: 734-763-1260, e-mail: teorey@umich.edu", 
+        "email_list": [
+            "teorey@umich.edu"
+        ], 
+        "cite_url": "web.eecs.umich.edu/~teorey/", 
+        "cite_name": "University of Michigan", 
+        "title": "Toby J. Teoreys Home Page"
+    }, 
+    {
+        "content": "toby j. teorey ... mi 48109-2121; phone: 734-763-8154, fax: 734-763-1260; e-mail: teorey@umich.edu; http://www.eecs.umich.edu/~teorey ... database modeling and design: logical design (t. teorey, s. lightstone, t. nadeau, h.v....", 
+        "email_list": [
+            "teorey@umich.edu"
+        ], 
+        "cite_url": "web.eecs.umich.edu/~teorey/cv.html", 
+        "cite_name": "University of Michigan", 
+        "title": "Toby J. Teorey - Electrical Engineering and Computer Science"
+    }
+]

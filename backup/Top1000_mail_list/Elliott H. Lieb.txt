@@ -1,1 +1,11 @@
-lieb at princeton dot edu	[10]
+[
+    {
+        "content": "elliott h. lieb professor of mathematics and physics ... princeton, nj 08544. office: 333 jadwin hall phone: (609) 258-4420. email: lieb at princeton dot edu...", 
+        "email_addr_list": [
+            "lieb@princeton.edu"
+        ], 
+        "cite_url": "https://web.math.princeton.edu/~lieb/", 
+        "cite_name": "Princeton University", 
+        "title": "Elliott Lieb - Princeton University"
+    }
+]

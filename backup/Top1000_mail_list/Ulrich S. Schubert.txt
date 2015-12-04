@@ -1,3 +1,40 @@
-ulrich.schubert@uni-jena.de	[30]
-jobs@schubert-group.de	[3]
-email at uni-jena.de	[2]
+[
+    {
+        "content": "dr. ulrich s. schubert. address: ... 0049 (0) 3641 948 201. e-mail: ulrich.schubert@uni-jena.de. e-mail: (applications), jobs@schubert-group.de. homepage:.", 
+        "email_addr_list": [
+            "ulrich.schubert@uni-jena.de", 
+            "jobs@schubert-group.de"
+        ], 
+        "cite_url": "https://www.uni-jena.de/.../Prof__U__S__Schubert.ht...", 
+        "cite_name": "University of Jena", 
+        "title": "S - Friedrich-Schiller-Universität Jena"
+    }, 
+    {
+        "content": "dr. ulrich s. schubert) an der universität jena. ... e-mail: ulrich.schubert@uni-jena.de. e-mail (applications): jobs@schubert-group.de. sekretariat: franca frister", 
+        "email_addr_list": [
+            "ulrich.schubert@uni-jena.de", 
+            "jobs@schubert-group.de"
+        ], 
+        "cite_url": "www.chemgeo.uni-jena.de/Schubert.html", 
+        "cite_name": "", 
+        "title": "Lehrstuhl für Organische Chemie II (Prof. Dr. Ulrich S ..."
+    }, 
+    {
+        "content": "ulrich s. schubert. friedrich schiller university ... verified email at uni-jena.de - homepage  scholar ... bj de gans, pc duineveld, us schubert. advanced...", 
+        "email_addr_list": [
+            "email@uni-jena.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BOtIDSwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ulrich S. Schubert - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. ulrich s. schubert. friedrich schiller university ... germany email: ulrich.schubert@uni-jena.de. information about local organisation. sylvia braunsdorf.", 
+        "email_addr_list": [
+            "ulrich.schubert@uni-jena.de"
+        ], 
+        "cite_url": "https://www.gdch.de/fileadmin/.../Einladung_Makro_2014_V06.pdfwww.google.com/email", 
+        "cite_name": "", 
+        "title": "[PDF]invit a tion Polymers and Energy - Gesellschaft Deutscher ...Google Business Email‎"
+    }
+]

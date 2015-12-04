@@ -1,0 +1,29 @@
+[
+    {
+        "content": "contact details, qualifications and research interests for dr nick bryan-kinns at the school of electronic engineering and ... email: n.bryan-kinns@qmul.ac.uk.", 
+        "email_list": [
+            "n.bryan-kinns@qmul.ac.uk"
+        ], 
+        "cite_url": "www.eecs.qmul.ac.uk/.../dr-nick-brya...", 
+        "cite_name": "Queen Mary University of London", 
+        "title": "Dr Nick Bryan-Kinns, Reader in Interaction Design | School ..."
+    }, 
+    {
+        "content": "dr. nick bryan-kinns. queen mary ... verified email at acm.org - homepage  scholar ... d stowell, a robertson, n bryan-kinns, md plumbley. international...", 
+        "email_list": [
+            "email@acm.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YK0-nYAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dr. Nick Bryan-Kinns - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 30, 2011 - ... sound and music group (isam) led by dr. nick bryan-kinns. ... made by email to dr. nick bryan-kinns: (nick.bryan-kinns@eecs.qmul.ac.uk).", 
+        "email_list": [
+            "nick.bryan-kinns@eecs.qmul.ac.uk"
+        ], 
+        "cite_url": "adi.ictdotyou.com/2011/.../phd-studentship-interactional-sound-and-mus...", 
+        "cite_name": "", 
+        "title": "Internet of Things | Human-centred Computing » PhD ..."
+    }
+]

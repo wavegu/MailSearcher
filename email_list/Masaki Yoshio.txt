@@ -1,0 +1,21 @@
+[
+    {
+        "content": "oct 19, 2011 - e-mail xiayg@nimte.ac.cn ... yonggaoxia, masaki yoshio and hideyuki noguchi, improved electrochemical performance of lifepo4 by...", 
+        "email_list": [
+            "xiayg@nimte.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Professor Zhaoping Liu - Ningbo Institute of Materials ..."
+    }, 
+    {
+        "content": "masaki yoshio • ralph j. brodd • akiya kozawa. editors ... editors. prof. em. masaki yoshio ..... e-mail: yoshio@cc.saga-u.ac.jp, gbe03502@nifty.com xvii...", 
+        "email_list": [
+            "yoshio@cc.saga-u.ac.jp", 
+            "gbe03502@nifty.com"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-0-38...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF (257KB) - Springer"
+    }
+]

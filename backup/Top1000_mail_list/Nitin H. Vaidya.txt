@@ -1,7 +1,47 @@
-vaidya.nhv@uiuc.edu	[15]
-nhv@uiuc.edu	[4]
-nhv@crhc.uiu	[4]
-nhv@illinois.edu.nitin	[4]
-nhv@illinois.edu	[4]
-vincent.magret@alcatel.com	[3]
-email at illinois.edu	[2]
+[
+    {
+        "content": "nitin h. vaidya ... e-mail: nhv@illinois.edu ... vaidya (vitae) and his students carry out research on topics related to distributed computing and wireless systems.", 
+        "email_addr_list": [
+            "nhv@illinois.edu"
+        ], 
+        "cite_url": "disc.ece.illinois.edu/", 
+        "cite_name": "", 
+        "title": "Nitin Vaidya"
+    }, 
+    {
+        "content": "professor vaidyas research is focused on wireless networks. designing ... nitin h. vaidyas home page. phone: (217) 265-5414. email: nhv@illinois.edu.", 
+        "email_addr_list": [
+            "nhv@illinois.edu"
+        ], 
+        "cite_url": "www.iti.illinois.edu  People  Researchers", 
+        "cite_name": "Information Trust Institute", 
+        "title": "Nitin H. Vaidya - Information Trust Institute - University of ..."
+    }, 
+    {
+        "content": "create alert. cancel. nitin vaidya. university of illinois  wireless networks, distributed systems. verified email at illinois.edu ... h-index, 68, 45. i10-index, 196...", 
+        "email_addr_list": [
+            "email@illinois.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=C4kPEC0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Nitin Vaidya - Google Scholar Citations"
+    }, 
+    {
+        "content": "mobicom98 (c) 2000 nitin vaidya how to read write present papers nitin h. vaidya university of illinois at urbana-champaign nhv@uiuc.edu 2002 nitin...", 
+        "email_addr_list": [
+            "nhv@uiuc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-nhv-uiuc-edu-14509344.htm", 
+        "cite_name": "", 
+        "title": "nhv@uiuc.edu - The Email Archive"
+    }, 
+    {
+        "content": "t magret alcatel internetworking inc. 26801 w. agoura road calabasas ca 91301 phone: +1 818 878 4485 email: vincent.magret@alcatel.com nitin h. vaidya...", 
+        "email_addr_list": [
+            "vincent.magret@alcatel.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-nhv-crhc-uiu-7385846.htm", 
+        "cite_name": "", 
+        "title": "nhv@crhc.uiu - The Email Archive"
+    }
+]

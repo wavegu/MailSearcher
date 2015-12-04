@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at am.gdynia.pl - homepage  scholar. get my own ... d barbucha, i czarnowski, p jedrzejowicz, e ratajczak, i wierzbowska. intelligent systems...", 
+        "email_list": [
+            "email@am.gdynia.pl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=rSw9djYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Irek Czarnowski - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 18, 2014 - irek czarnowski e-mail: i.czarnowski@wpit.am.gdynia.pl. iii spotkanie polskiej ..... czarnowski, ireneusz, jędrzejowicz drzejowicz drzejowicz...", 
+        "email_list": [
+            "i.czarnowski@wpit.am.gdynia.pl"
+        ], 
+        "cite_url": "www.cs.put.poznan.pl/sigml/wp-content/.../IC.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Irek Czarnowski Podejście agentowe w projektowaniu sieci ..."
+    }
+]

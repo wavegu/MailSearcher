@@ -1,0 +1,30 @@
+[
+    {
+        "content": "academic profile. assoc prof miao chun yan. associate professor school of computer engineering college of engineering. email: ascymiao@ntu.edu.sg", 
+        "email_list": [
+            "ascymiao@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Assoc Prof Miao Chun Yan"
+    }, 
+    {
+        "content": "cancel. chunyan miao. nanyang technological ... verified email at ntu.edu.sg. scholar. get my own ... y miao, zq liu, ck siew, cy miao. fuzzy systems, ieee...", 
+        "email_list": [
+            "email@ntu.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fmXGRJgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chunyan Miao - Google Scholar Citations"
+    }, 
+    {
+        "content": "sep 1, 2006 - e-mail: weng0004@ntu.edu.sg, e-mail: ascymiao@ntu.edu.sg, e-mail: .... han yu , zhiqi shen , chunyan miao, a trustworthy beacon-based...", 
+        "email_list": [
+            "weng0004@ntu.edu.sg", 
+            "ascymiao@ntu.edu.sg"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=1185120", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "An Entropy-Based Approach to Protecting Rating Systems ..."
+    }
+]

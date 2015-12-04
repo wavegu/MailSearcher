@@ -1,0 +1,20 @@
+[
+    {
+        "content": "iickho song. department of electrical ... verified email at ieee.org. scholar. get my own profile ... yh kim, i song, s yoon, sr park. vehicular technology, ieee...", 
+        "email_list": [
+            "email@ieee.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OFPVYpcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Iickho Song - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: isong@sejong.kaist.ac.kr. assistant professor ... e-mail: kimsytskkucc .konkuk.a ekr ... with 57 tablesi iickho song;[insoo bae;sun yong kim.- berlin...", 
+        "email_list": [
+            "isong@sejong.kaist.ac.kr"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-3-662-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Iickho Song· Iinsoo Bae . Sun Yong Advanced ... - Springer"
+    }
+]

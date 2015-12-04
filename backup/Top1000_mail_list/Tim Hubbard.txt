@@ -1,6 +1,38 @@
-tim.hubbard@falmouth.ac.uk	[21]
-timothy.hubbard@colby.edu	[21]
-timothy.hubbard@colby.edutim	[21]
-tim.hubbard@rathbones.com	[21]
-tim.hubbard@kcl.ac.uk	[21]
-thubbard@uga.edu	[16]
+[
+    {
+        "content": "contact information: tim hubbard department of economics colby college 5242 mayflower hill drive waterville, me 04901. email: timothy.hubbard@colby.edu", 
+        "email_addr_list": [
+            "timothy.hubbard@colby.edu"
+        ], 
+        "cite_url": "www.colby.edu/economics/faculty/thubbard/", 
+        "cite_name": "Colby College", 
+        "title": "Tim Hubbard - Colby College"
+    }, 
+    {
+        "content": "job title: lecturer, multimedia broadcast journalism; email: tim.hubbard@falmouth.ac.uk. tim hubbard is currently weekend editor at bbc radio cornwall and...", 
+        "email_addr_list": [
+            "tim.hubbard@falmouth.ac.uk"
+        ], 
+        "cite_url": "www.falmouth.ac.uk/content/tim-hubbard", 
+        "cite_name": "Falmouth University", 
+        "title": "Tim Hubbard | Falmouth University - No 1 for Arts"
+    }, 
+    {
+        "content": "timothy hubbard. timothy ... email address: work thubbard@uga.edu ... zavyalova, a., pfarrer, m., reger r., hubbard, t. reputation as a benefit and a burden?", 
+        "email_addr_list": [
+            "thubbard@uga.edu"
+        ], 
+        "cite_url": "www.terry.uga.edu/directory/profile/thubbard/", 
+        "cite_name": "Terry College of Business", 
+        "title": "Timothy Hubbard - Faculty and Staff Directory - Terry ..."
+    }, 
+    {
+        "content": "investment director tim hubbard is an investmentdirector looking after private ... location: london email: tim.hubbard@rathbones.com sectors: investment...", 
+        "email_addr_list": [
+            "tim.hubbard@rathbones.com"
+        ], 
+        "cite_url": "www.rathbones.com  About Us  Our Peoplewww.google.com/email", 
+        "cite_name": "Rathbone Brothers", 
+        "title": "Tim Hubbard - RathbonesGoogle Business Email - Custom email for your company‎Searches related to Tim Hubbard email"
+    }
+]

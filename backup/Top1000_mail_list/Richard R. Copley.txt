@@ -1,4 +1,20 @@
-copley@embl-heidelberg.de	[13]
-email at obs-vlfr.fr	[6]
-m.telford@ucl.ac.uk	[3]
-jf@well.ox.ac.uk	[1]
+[
+    {
+        "content": "richard copley. upmc paris 06 ... verified email at obs-vlfr.fr. scholar ... ac gavin, m bösche, r krause, p grandi, m marzioch, a bauer, j schultz, ... nature...", 
+        "email_addr_list": [
+            "email@obs-vlfr.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5j7V_lUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard Copley - Google Scholar Citations"
+    }, 
+    {
+        "content": "analysis of echinoderm class relationships supports asterozoa. proc. r. soc. b 281: 20140479. ... e-mail: m.telford@ucl.ac.uk. richard r. copley e-mail:...", 
+        "email_addr_list": [
+            "m.telford@ucl.ac.uk"
+        ], 
+        "cite_url": "royalsocietypublishing.org/content/royprsb/281/.../20140479.full.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Phylogenomic analysis of echinoderm class relationships ..."
+    }
+]

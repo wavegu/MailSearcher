@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: kristina.edstrom@kemi.uu.se ... 25(1): 77-84 [mer information]; högström, j., fredriksson, w., edström, k., björefors, f., nyholm, l. et al. (2013). cation...", 
+        "email_list": [
+            "kristina.edstrom@kemi.uu.se"
+        ], 
+        "cite_url": "katalog.uu.se/empinfo/?languageId=1id=XX3264", 
+        "cite_name": "Uppsala University", 
+        "title": "Kristina Edström - Uppsala University, Sweden"
+    }, 
+    {
+        "content": "verified email at kth.se - homepage  scholar ... k edström, j törnevik, m engström, Å wiklund. improving ... j malmqvist, k edström, s gunnarsson, s Östlund.", 
+        "email_list": [
+            "email@kth.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MZ_hTxYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kristina Edström - Google Scholar Citations"
+    }, 
+    {
+        "content": "university of sussex web profile of mr lars edstrom. ... post: fellow (institute of development studies). location: ids k-4. email: l.j.edstrom@sussex.ac.uk.", 
+        "email_list": [
+            "l.j.edstrom@sussex.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sussex", 
+        "title": "Lars Edstrom : University of Sussex"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "dr. qingsong yu, is an assistant professor, dept. of mechanical and aerospace ... email questions or comments about this website to webmaster@umkc.edu.", 
+        "email_list": [
+            "webmaster@umkc.edu"
+        ], 
+        "cite_url": "https://dentistry.u...", 
+        "cite_name": "University of Missouri–Kansas City School of Dentistry", 
+        "title": "Qingsong Yu, Ph.D."
+    }, 
+    {
+        "content": "qingsong yu. university of missouri ... verified email at missouri.edu. scholar ... hb ma, c wilson, b borgmeyer, k park, q yu, sus choi, m tirumala. applied...", 
+        "email_list": [
+            "email@missouri.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BHGzooYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Qingsong Yu - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: jacobyw@missouri.edu. chemistry. research ... email: pinherop@missouri.edu ..... mary gilliam and qingsong yu, surface modification of a group of...", 
+        "email_list": [
+            "jacobyw@missouri.edu", 
+            "pinherop@missouri.edu"
+        ], 
+        "cite_url": "dgr.rints.com/pdf_2009/d0004000.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]UNIVERSITY OF MISSOURI—COLUMBIA"
+    }
+]

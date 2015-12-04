@@ -1,0 +1,39 @@
+[
+    {
+        "content": "gultekin ozsoyoglu department of eecs  case western reserve university 10900 euclid ... 216-368-5029. fax: 216-368-2801. e-mail: (tekin at case.edu)", 
+        "email_list": [
+            "tekin@case.edu"
+        ], 
+        "cite_url": "art.case.edu/", 
+        "cite_name": "", 
+        "title": "Gultekin Ozsoyoglus Home Page"
+    }, 
+    {
+        "content": "curriculum vitae: gultekin ozsoyoglu ... e-mail: tekin@case.edu ... ozsoyoglu has published in all major database conferences and journals such as acm.", 
+        "email_list": [
+            "tekin@case.edu"
+        ], 
+        "cite_url": "art.case.edu/CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CV - Gultekin Ozsoyoglu - Case Western Reserve University"
+    }, 
+    {
+        "content": "cancel. gultekin ozsoyoglu. professor, electr. ... verified email at case.edu. scholar. get my own ... g Özsoyoğlu, zm Özsoyoğlu, v matos. acm transactions on...", 
+        "email_list": [
+            "email@case.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=y768HUkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gultekin Ozsoyoglu - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: s.chung@csuohio.edu. email: sschung.cis@gmail.com ... sun s. chung, gultekin ozsoyoglu, accepted to 2nd international ieee workshop on privacy...", 
+        "email_list": [
+            "s.chung@csuohio.edu", 
+            "sschung.cis@gmail.com"
+        ], 
+        "cite_url": "cis.csuohio.edu/~sschung/", 
+        "cite_name": "", 
+        "title": "SS Chungs Classes - Cleveland State University"
+    }
+]

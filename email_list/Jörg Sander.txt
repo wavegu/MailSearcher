@@ -1,0 +1,48 @@
+[
+    {
+        "content": "jörg sanders homepage professor, department of computing science. contact information: dr. jörg sander department of ... email: jsander@ualberta.ca...", 
+        "email_list": [
+            "jsander@ualberta.ca"
+        ], 
+        "cite_url": "https://webdocs.cs.ualberta.ca/~joerg/", 
+        "cite_name": "", 
+        "title": "Jörg Sanders Homepage - University of Alberta"
+    }, 
+    {
+        "content": "jörg sander. professor, computing ... verified email at ualberta.ca. scholar. get my own ... mm breunig, hp kriegel, rt ng, j sander. acm sigmod record 29 (2)...", 
+        "email_list": [
+            "email@ualberta.ca"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jörg Sander - Google Scholar Citations"
+    }, 
+    {
+        "content": "additive manufacturing for defence and aerospace summit jörg sander, ... mr jörg sander mechanical system design for airborne electronics ... contact us on 0800 652 2363 or +44 (0) 20 7368 9300 or email enquire@iqpc.co.uk now!", 
+        "email_list": [
+            "enquire@iqpc.co.uk"
+        ], 
+        "cite_url": "www.additivemanufacturingsummit.com/SpeakerInfo.aspx?tp_spkid...", 
+        "cite_name": "", 
+        "title": "Mr Jörg Sander"
+    }, 
+    {
+        "content": "email: g.kaiser@sjr-stuttgart.de; rainer mayerhoffer (geschäftsführung) ... email: bettina.schaefer@sjr-stuttgart.de; jörg sander (fachbereiche interkulturelle...", 
+        "email_list": [
+            "g.kaiser@sjr-stuttgart.de", 
+            "bettina.schaefer@sjr-stuttgart.de"
+        ], 
+        "cite_url": "www.sjr-stuttgart.de/index.php?...", 
+        "cite_name": "", 
+        "title": "Stadtjugendring Stuttgart e.V.: Alle Angebote"
+    }, 
+    {
+        "content": "jörg sander (ausgeschieden). weitere informationen / further ... zimmer / room: telefon / phone: fax: email: ... sander@dbs.informatik.uni-muenchen.de...", 
+        "email_list": [
+            "sander@dbs.informatik.uni-muenchen.de"
+        ], 
+        "cite_url": "www.dbs.informatik.uni-muenchen.de/.../sander.html", 
+        "cite_name": "", 
+        "title": "Jörg Sander - DBS - LMU"
+    }
+]

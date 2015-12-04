@@ -1,3 +1,48 @@
-abraham.ajith@acm.org	[25]
-ajith.abraham@ieee.org	[25]
-email at ieee.org	[3]
+[
+    {
+        "content": "curriculum vitae of professor (dr.) ajith abraham. contact information ... personal email: ajith.abraham@ieee.org, abraham.ajith@acm.org. personal www:...", 
+        "email_addr_list": [
+            "ajith.abraham@ieee.org", 
+            "abraham.ajith@acm.org"
+        ], 
+        "cite_url": "www.softcomputing.net/resume.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae of Professor (Dr.) Ajith Abraham"
+    }, 
+    {
+        "content": "ajith abraham. machine intelligence research ... verified email at ieee.org - homepage  scholar ... s das, a abraham, uk chakraborty, a konar. evolutionary...", 
+        "email_addr_list": [
+            "email@ieee.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=i95DGLQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ajith Abraham - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: ajith.abraham@ieee.org,. www: http://www.softcomputing.net,. profile: http://www.researcherid.com/rid/a-1416-2008. faculty of electrical engineering...", 
+        "email_addr_list": [
+            "ajith.abraham@ieee.org"
+        ], 
+        "cite_url": "hais.pwr.wroc.pl/abrachambio.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Prof. Ajith Abracham"
+    }, 
+    {
+        "content": "ajith abraham p.hd. email: ajith.abraham@ieee.org. my primary research interests are in computational intelligence with a focus on hybridizing intelligent...", 
+        "email_addr_list": [
+            "ajith.abraham@ieee.org"
+        ], 
+        "cite_url": "www.angelfire.com/oz/ajithabraham/", 
+        "cite_name": "", 
+        "title": "Home page of Ajith Abraham Ph.D. - Angelfire"
+    }, 
+    {
+        "content": "researcherid: a-1416-2008. e-mail: ajith.abraham@ieee.org. url: http://www.researcherid.com/rid/a-1416-2008. subject: business  economics; computer...", 
+        "email_addr_list": [
+            "ajith.abraham@ieee.org"
+        ], 
+        "cite_url": "www.researcherid.com/rid/A-1416-2008", 
+        "cite_name": "", 
+        "title": "Ajith Abraham A-1416-2008 - ResearcherID.com"
+    }
+]

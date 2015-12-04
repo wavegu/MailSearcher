@@ -1,6 +1,29 @@
-yorke2 at ipst.james	[22]
-yorke at umd.edu	[12]
-yorke@umd.edu.james	[11]
-yorke@umd.edu	[11]
-maach@maa.org	[2]
-email at umd.edu	[2]
+[
+    {
+        "content": "james a. yorke ... james yorke came to the university of maryland as a math graduate student in 1963 hoping to explore ... email: yorke at umd.edu...", 
+        "email_addr_list": [
+            "yorke@umd.edu"
+        ], 
+        "cite_url": "yorke.umd.edu/", 
+        "cite_name": "", 
+        "title": "James A. Yorke"
+    }, 
+    {
+        "content": "james yorke. professor of mathematics and ... verified email at umd.edu. scholar. get my own profile ... e ott, c grebogi, ja yorke. physical review letters 64...", 
+        "email_addr_list": [
+            "email@umd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hBKWbpsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "James Yorke - Google Scholar Citations"
+    }, 
+    {
+        "content": "james a. yorke likens chaos to the pachyderm in the tale of the blind men and the elephant. ... credited as the first to use the word “chaos” in its mathematical sense, yorke packed his hourlong ... email us at maach@maa.org for more details.", 
+        "email_addr_list": [
+            "maach@maa.org"
+        ], 
+        "cite_url": "www.maa.org/.../aspects-of-chaoswww.google.com/email", 
+        "cite_name": "Mathematical Association of America", 
+        "title": "Aspects of Chaos | Mathematical Association of AmericaGoogle Business Email - Custom email for your company‎Searches related to James A. Yorke email"
+    }
+]

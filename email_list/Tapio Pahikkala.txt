@@ -1,0 +1,30 @@
+[
+    {
+        "content": "cancel. tapio pahikkala. adjunct professor of ... verified email at utu.fi - homepage  scholar ... a airola, s pyysalo, j björne, t pahikkala, f ginter, t salakoski.", 
+        "email_list": [
+            "email@utu.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ROQQmPEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Tapio Pahikkala - Google Scholar Citations"
+    }, 
+    {
+        "content": "authors: tapio pahikkala, antti airola. email: firstname.lastname@utu.fi. homepage: http://staff.cs.utu.fi/~aatapa/software/rlscore/. version: 0.5.1. license: the...", 
+        "email_list": [
+            "firstname.lastname@utu.fi"
+        ], 
+        "cite_url": "https://github.com/aatapa/RLScore", 
+        "cite_name": "", 
+        "title": "aatapa/RLScore · GitHub"
+    }, 
+    {
+        "content": "jun 22, 2008 - technol., univ. of turku, joukahaisenkatu 3-5 b, 20520 turku, finland, email: evgeni.tsivtsivadze@utu.fi, tapio.pahikkala@utu.fi,...", 
+        "email_list": [
+            "evgeni.tsivtsivadze@utu.fi", 
+            "tapio.pahikkala@utu.fi"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=1566876", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "A Sparse Regularized Least-Squares Preference Learning ..."
+    }
+]

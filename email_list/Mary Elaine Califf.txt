@@ -1,0 +1,48 @@
+[
+    {
+        "content": "contact information: phone: (309) 438-8338. email: mecalif@ilstu.edu ... mary elaine califf is an associate professor in the computer science area of the...", 
+        "email_list": [
+            "mecalif@ilstu.edu"
+        ], 
+        "cite_url": "it.illinoisstate.edu/itk/profiles/default.aspx?q...", 
+        "cite_name": "Illinois State University", 
+        "title": "Dr. Mary Elaine Califf - Faculty  Staff: School of Information ..."
+    }, 
+    {
+        "content": "email: mecaliff@ilstu.edu. education. ph.d. in computer ... alberto lavelli, mary elaine califf, fabio ciravegna, dayne freitag, claudio. guiliano, nicholas...", 
+        "email_list": [
+            "mecaliff@ilstu.edu"
+        ], 
+        "cite_url": "cast.illinoisstate.edu/downloads/Vita-Califf.pdf", 
+        "cite_name": "Illinois State University", 
+        "title": "[PDF]Mary Elaine Califf - CAST - Illinois State"
+    }, 
+    {
+        "content": "email: mecaliff@ilstu.edu. education. ph.d. in computer ... alberto lavelli, mary elaine califf, fabio ciravegna, dayne freitag, claudio. guiliano, nicholas...", 
+        "email_list": [
+            "mecaliff@ilstu.edu"
+        ], 
+        "cite_url": "www.itk.ilstu.edu/faculty/mecalif/fullvita.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Mary Elaine Califf"
+    }, 
+    {
+        "content": "mary elaine califf ... and jakarta international school--so anyone looking for mary meador from jis has ... email address: mecaliff@ilstu.edu; postal address:", 
+        "email_list": [
+            "mecaliff@ilstu.edu"
+        ], 
+        "cite_url": "www.itk.ilstu.edu/faculty/mecalif/calif.htm", 
+        "cite_name": "", 
+        "title": "Mary Elaine Califf - School of Information Technology"
+    }, 
+    {
+        "content": "originally proposed by: mary elaine califf [mec] (email: mecalif@ilstu.edu). also ie/wg by: stephen soderland [ss] (email: soderlan@cs.washington.edu ).", 
+        "email_list": [
+            "mecalif@ilstu.edu", 
+            "soderlan@cs.washington.edu"
+        ], 
+        "cite_url": "www.isi.edu/info-agents/RISE/Jobs/__Source__.html", 
+        "cite_name": "", 
+        "title": "JOBS"
+    }
+]

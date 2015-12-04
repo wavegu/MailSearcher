@@ -1,3 +1,29 @@
-agarwaa@ccf.org	[3]
-email at ccf.org	[3]
-aka@uvic.ca	[3]
+[
+    {
+        "content": "ashok agarwal, ph.d., hcld ... e-mail: agarwaa@ccf.org ... dr. ashok agarwal is the director of the clinical andrology laboratory and reproductive tissue...", 
+        "email_addr_list": [
+            "agarwaa@ccf.org"
+        ], 
+        "cite_url": "www.asiaandro.com/archive/.../036.htm", 
+        "cite_name": "Asian Journal of Andrology", 
+        "title": "Ashok Agarwal - Asian Journal of Andrology"
+    }, 
+    {
+        "content": "create alert. cancel. ashok agarwal, phd, hcld ... verified email at ccf.org - homepage  scholar. get my own ... a agarwal, s gupta, rk sharma. reprod biol...", 
+        "email_addr_list": [
+            "email@ccf.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FP_jRpIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ashok Agarwal, PhD, HCLD - Google Scholar Citations"
+    }, 
+    {
+        "content": "b.sc. (agra, india); ph.d. (bombay, india). ashok agarwal. contact information. office: elliott 212. phone: 250-721-7741. email: aka@uvic.ca. website: enter link...", 
+        "email_addr_list": [
+            "aka@uvic.ca"
+        ], 
+        "cite_url": "www.uvic.ca/science/physics/vispa/.../agarwal.phpwww.google.com/email", 
+        "cite_name": "University of Victoria", 
+        "title": "Ashok Agarwal - University of VictoriaGoogle Business Email - Custom email for your company‎Searches related to Ashok Agarwal email"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "dr.ma man sze, cecilia 馬汶詩博士. title: assistant professor. qualifications: phd (south carolina) mphil (cuhk) bed (cuhk). email: cecilia.ma@polyu.edu.hk.", 
+        "email_list": [
+            "cecilia.ma@polyu.edu.hk"
+        ], 
+        "cite_url": "www.apssweb.polyu.edu.hk/.../dr-ma...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Dr.Ma Man Sze, Cecilia 馬汶詩博士 | The Department of ..."
+    }, 
+    {
+        "content": "research lab. hai ning shi, dvm, phd ... work email: shiha@helix.mgh.harvard.edu. research team: chienwen su, phd, instructor of pediatrics mei zhang...", 
+        "email_list": [
+            "shiha@helix.mgh.harvard.edu"
+        ], 
+        "cite_url": "www2.massgeneral.org/.../lab-shi.html", 
+        "cite_name": "Massachusetts General Hospital", 
+        "title": "Research Lab of Hai Ning Shi - Massachusetts General ..."
+    }, 
+    {
+        "content": "7 days ago - phone: +61 8 6488 4699; fax: +61 8 6488 7330; email: mark.spackman@uwa.edu.au ... nemkevich, a., bürgi, h.b., spackman, m.a., corry, b., molecular .... teaching: prof spackman currently supervises ming wen shi (phd)...", 
+        "email_list": [
+            "mark.spackman@uwa.edu.au"
+        ], 
+        "cite_url": "www.uwa.edu.au/people/mark.spackman", 
+        "cite_name": "University of Western Australia", 
+        "title": "Professor Mark Spackman - UWA Staff Profile : The ..."
+    }, 
+    {
+        "content": "e-mail: wen-shi.tsai@ worldveg.org;wenshi.tw@yahoo.com.tw. wstsai- 1 - ..... green, s. k., tsai, w. s.*, shih, s. l., rezaian, m. a. and duangsong, u. 2003.", 
+        "email_list": [
+            "wenshi.tw@yahoo.com.tw"
+        ], 
+        "cite_url": "web.tari.gov.tw/ISIVIBD/資料檔/cv/CV-WSTsai-16.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Wen-Hsi Tsai"
+    }, 
+    {
+        "content": "verified email at microsoft.com. scholar ... z nie, y ma, s shi, jr wen, wy ma ... r song, jr wen, s shi, g xin, ty liu, t qin, x zheng, j zhang, gr xue, .", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Lg31AKMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shuming Shi - Google Scholar Citations"
+    }, 
+    {
+        "content": "tingting feng, duan feng, wen shi, xiaohua li* and huimin ma*. ... wei chen, wen shi, zhao li, huimin ma*, yang liu, jinghua zhang, qingjun liu, simple and .... 网址：http://acl.iccas.ac.cn 联系电话：（010）62569712 email:acl@iccas.ac.cn.", 
+        "email_list": [
+            "acl@iccas.ac.cn"
+        ], 
+        "cite_url": "acl.iccas.ac.cn/ktz/mhmz/lwzz_8790/", 
+        "cite_name": "", 
+        "title": "论文著作------中国科学院活体分析化学重点实验室"
+    }
+]

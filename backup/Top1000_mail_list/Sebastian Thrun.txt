@@ -1,2 +1,11 @@
-thrun at stanford.edu.sebastian	[29]
-thrun at stanford.edu	[12]
+[
+    {
+        "content": "sebastian thrun computer science department stanford university 353 serra mall gates building 154. stanford, ca 94305-9010. email: thrun at stanford.edu.", 
+        "email_addr_list": [
+            "thrun@stanford.edu"
+        ], 
+        "cite_url": "robots.stanford.edu/contact.html", 
+        "cite_name": "Sebastian Thrun", 
+        "title": "Sebastian Thrun – Contact"
+    }
+]

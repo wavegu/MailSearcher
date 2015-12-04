@@ -1,3 +1,38 @@
-tianhe@ecust.edu.cn	[13]
-tianhe at cs.umn.edu	[13]
-email at rockefeller.edu	[2]
+[
+    {
+        "content": "email: tianhe at cs.umn.edu ... dr. tian he is currently an associate professor in the department of computer science and engineering at the university of...", 
+        "email_addr_list": [
+            "tianhe@cs.umn.edu"
+        ], 
+        "cite_url": "www-users.cs.umn.edu/~tianhe/", 
+        "cite_name": "University of Minnesota", 
+        "title": "Tian He"
+    }, 
+    {
+        "content": "he tian. professor dean of school of chemistry and molecular engineering ... office: room 303, researching building 13; email: tianhe@ecust.edu.cn; office...", 
+        "email_addr_list": [
+            "tianhe@ecust.edu.cn"
+        ], 
+        "cite_url": "webmanage.ecust.edu.cn/s/230/t/262/a/57190/info.jspy", 
+        "cite_name": "", 
+        "title": "Prof. He TIAN"
+    }, 
+    {
+        "content": "he tian, ph.d. sakmar lab, rockefeller ... verified email at rockefeller.edu. scholar ... h tian, s naganathan, ma kazmi, tw schwartz, tp sakmar, t huber.", 
+        "email_addr_list": [
+            "email@rockefeller.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5xDaLqMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "He Tian, Ph.D. - Google Scholar Citations"
+    }, 
+    {
+        "content": "doi: 10.1002/anie.201405377. he tian. date of birth: july 22, 1962. position: ... e-mail: tianhe@ecust.edu.cn. education: 1978–1982 bs, nanjing university of...", 
+        "email_addr_list": [
+            "tianhe@ecust.edu.cn"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/anie.../pdf", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "He Tian - Wiley Online Library"
+    }
+]

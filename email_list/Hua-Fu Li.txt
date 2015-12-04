@@ -1,0 +1,29 @@
+[
+    {
+        "content": "hua fu , ph. d. ... email：fuhua@mail.tsinghua.edu.cn ... liu xw, fu h*, jiang yy, zhao yf, a simple and highly efficient approach to quinazolinones ... li xs, zhang dw,pang h, shen f, fu h*,jiang yy, zhao yf “synthesis of a diverse...", 
+        "email_list": [
+            "fuhua@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104032034494843516...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Chemistry,Tsinghua University"
+    }, 
+    {
+        "content": "create alert. cancel. huafu chen ... verified email at uestc.edu.cn. scholar ... z zhang, g lu, y zhong, q tan, w liao, z wang, z wang, k li, h chen, .", 
+        "email_list": [
+            "email@uestc.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NPWY0n0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Huafu Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 10, 2011 - ... university, taiwan. hua-fu li, department of information management, kainan university, taoyuan 338, taiwan. email: lihuafu@gmail.com...", 
+        "email_list": [
+            "lihuafu@gmail.com"
+        ], 
+        "cite_url": "jis.sagepub.com/content/37/5/532.short", 
+        "cite_name": "Journal of Information Science", 
+        "title": "MHUI-max: An efficient algorithm for discovering high-utility ..."
+    }
+]

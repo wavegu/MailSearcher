@@ -1,0 +1,47 @@
+[
+    {
+        "content": "ke-zhi wang. professor of chemistry ... verified email at bnu.edu.cn. scholar. get my own ... jy li, wj xiao, kz wang, gh sun, lm gao. tectonic evolution and...", 
+        "email_list": [
+            "email@bnu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=owX83UUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ke-Zhi Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 22, 2015 - the eportfolio of kezhi wang. ... email: kezhi2011@gmail.com ... [j9] kezhi wang, shan liang, huibo bi and xiuyun li, a novel method of...", 
+        "email_list": [
+            "kezhi2011@gmail.com"
+        ], 
+        "cite_url": "www2.warwick.ac.uk/fac/sci/eng/study/.../esrlac/", 
+        "cite_name": "University of Warwick", 
+        "title": "Kezhi Wang - University of Warwick"
+    }, 
+    {
+        "content": "academic profile. assoc prof mao kezhi. associate professor school of electrical  electronic engineering college of engineering. email: ekzmao@ntu.edu.", 
+        "email_list": [
+            "ekzmao@ntu.edu"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Assoc Prof Mao Kezhi"
+    }, 
+    {
+        "content": "kezhi lis homepage. introduction. kezhi (kenneth) li is currently a postdoc researcher at access linnaeus centre, royal institute ... email: kezhi at kth.se.", 
+        "email_list": [
+            "kezhi@kth.se"
+        ], 
+        "cite_url": "https://sites.google.com/site/kezhiswebsite", 
+        "cite_name": "", 
+        "title": "Kezhis website - Sites - Google"
+    }, 
+    {
+        "content": "huang kezhi ... 2001, award of science and technology achievement, ho leung ho lee foundation 2000, isi ... e-mail: huangkz@mail.tsinghua.edu.cn...", 
+        "email_list": [
+            "huangkz@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/publish/.../faculties-2-7.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "HUANG Kezhi - 清华大学 - Tsinghua University"
+    }
+]

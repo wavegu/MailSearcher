@@ -1,4 +1,29 @@
-moni.naor at weizmann dot ac dot il	[17]
-moni.naor@weizmann.ac.il	[17]
-naor.naor@weizmann.ac.il	[9]
-segev at cs.huji.ac.il	[1]
+[
+    {
+        "content": "email: description: description: moni.naor at weizmann dot ac dot il. i am a professor of computer science at the weizmann institute of science. my research is in...", 
+        "email_addr_list": [
+            "moni.naor@weizmann.ac.il"
+        ], 
+        "cite_url": "www.wisdom.weizmann.ac.il/~naor/", 
+        "cite_name": "Weizmann Institute of Science", 
+        "title": "Home Page of Moni Naor מוני נאור"
+    }, 
+    {
+        "content": "email: moni.naor@weizmann.ac.il. research supported in part by a grant from the i-core program of the planning and budgeting committee the israel science...", 
+        "email_addr_list": [
+            "moni.naor@weizmann.ac.il"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-naor-weizmann-ac-il-839913.htm", 
+        "cite_name": "", 
+        "title": "naor@weizmann.ac.il - The Email Archive"
+    }, 
+    {
+        "content": "email: segev at cs.huji.ac.il ... moni naor. prior to joining the hebrew .... joël alwen, yevgeniy dodis, moni naor, gil segev, shabsi walfish and daniel wichs", 
+        "email_addr_list": [
+            "segev@cs.huji.ac.il"
+        ], 
+        "cite_url": "www.cs.huji.ac.il/~segev/", 
+        "cite_name": "Hebrew University of Jerusalem", 
+        "title": "Gil Segevs Home Page -- Hebrew University"
+    }
+]

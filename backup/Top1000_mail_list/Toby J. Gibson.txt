@@ -1,3 +1,21 @@
-toby.gibson@embl.de	[21]
-toby.gibson at embl.de	[21]
-info@biomedcentral.com	[1]
+[
+    {
+        "content": "↵*corresponding author: tel: +49 6221 387 8398; fax: +49 6221 387 8306; email: toby.gibson@embl.de. received january 11, 2013. revision received july 4...", 
+        "email_addr_list": [
+            "toby.gibson@embl.de"
+        ], 
+        "cite_url": "database.oxfordjournals.org/content/2013/bat066.short", 
+        "cite_name": "Database", 
+        "title": "Capturing cooperative interactions with the PSI-MI format"
+    }, 
+    {
+        "content": "corresponding author: toby j gibson toby.gibson@embl.de ... if you would like to participate and need an invitation, please email info@biomedcentral.com,...", 
+        "email_addr_list": [
+            "toby.gibson@embl.de", 
+            "info@biomedcentral.com"
+        ], 
+        "cite_url": "www.biomedcentral.com/1471-2105/5/79/commentswww.google.com/email", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Bioinformatics | User comments | Phospho.ELM: A ...Google Business Email‎"
+    }
+]

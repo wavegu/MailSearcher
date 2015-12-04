@@ -1,2 +1,20 @@
-j.m.owen@bath.ac.uk	[14]
-owenmj@cf.ac.uk	[11]
+[
+    {
+        "content": "prof michael owen director/professor, institute of psychological medicine and ... email address: owenmj@cf.ac.uk; telephone: +44 029 20 688 320, ext.", 
+        "email_addr_list": [
+            "owenmj@cf.ac.uk"
+        ], 
+        "cite_url": "medicine.cf.ac.uk/person/prof-michael-john-owen/", 
+        "cite_name": "School of Medicine", 
+        "title": "Prof Michael Owen - School of Medicine - Cardiff University"
+    }, 
+    {
+        "content": "staff profile of professor mike owen. ... tel: +44 (0) 1225 386549. email: j.m.owen@bath.ac.uk ... emeritus professor j michael owen. dsc dphil bsc. profile.", 
+        "email_addr_list": [
+            "j.m.owen@bath.ac.uk"
+        ], 
+        "cite_url": "www.bath.ac.uk/mech-eng/people/owen-mike/", 
+        "cite_name": "University of Bath", 
+        "title": "Professor Mike Owen | University of Bath"
+    }
+]

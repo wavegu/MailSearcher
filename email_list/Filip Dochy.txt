@@ -1,0 +1,20 @@
+[
+    {
+        "content": "apr 17, 2014 - email: filip.dochy at ppw.kuleuven.be. membership number: 3697. membership type: ordinary. main country of residence: belgium.", 
+        "email_list": [
+            "filip.dochy@ppw.kuleuven.be"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Academy of Europe: Dochy Filip"
+    }, 
+    {
+        "content": "↵filip dochy is a professor at the research center for teaching and training methodology, ... 3000 leuven, belgium; e-mail filip.dochy@ped.kuleuven.ac.be.", 
+        "email_list": [
+            "filip.dochy@ped.kuleuven.ac.be"
+        ], 
+        "cite_url": "rer.sagepub.com/content/75/1/27.abstract", 
+        "cite_name": "Review of Educational Research", 
+        "title": "Effects of Problem-Based Learning: A Meta-Analysis From ..."
+    }
+]

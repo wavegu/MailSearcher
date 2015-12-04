@@ -1,0 +1,66 @@
+[
+    {
+        "content": "phone : (852)2358-7433 fax : (852)2358-1643 office : 3444 e-mail : makxu@ust.hk. dr. kun xu. chair professor, department of mathematics and department of...", 
+        "email_list": [
+            "makxu@ust.hk"
+        ], 
+        "cite_url": "www.math.ust.hk/~m...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Welcome to the home of Kun Xu - Department of Mathematics"
+    }, 
+    {
+        "content": "your browser does not support javascript! hong-kun xu ... office: 3002-2. tel: (07)5252000-3836(o). fax: (07)5253809. e-mail: xuhk@math.nsysu.edu.tw...", 
+        "email_list": [
+            "xuhk@math.nsysu.edu.tw"
+        ], 
+        "cite_url": "", 
+        "cite_name": "National Sun Yat‑sen University", 
+        "title": "Hong-Kun Xu - National Sun Yat-sen UniversityDepartment ..."
+    }, 
+    {
+        "content": "職稱(position) : 西灣講座教授. 辦公室(office) : 理3002-2. 電話(phone) : (07)5252000-3836（o）. 傳真(fax) : (07)5253809. e-mail: xuhk@math.nsysu.edu.tw...", 
+        "email_list": [
+            "xuhk@math.nsysu.edu.tw"
+        ], 
+        "cite_url": "math.nsysu.edu.tw/.../...", 
+        "cite_name": "National Sun Yat‑sen University", 
+        "title": "徐洪坤Hong-Kun Xu - 國立中山大學應用數學系Department ..."
+    }, 
+    {
+        "content": "verified email at tsinghua.edu.cn - homepage  scholar. get my own ... k xu, k chen, h fu, wl sun, sm hu ... sm hu, t chen, k xu, mm cheng, rr martin.", 
+        "email_list": [
+            "email@tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W2XJUmUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kun Xu - Google Scholar Citations"
+    }, 
+    {
+        "content": "cancel. kun xu. chair professor, mathematics department, hong kong university of science and technology ... verified email at ust.hk - homepage  scholar.", 
+        "email_list": [
+            "email@ust.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dRlBzscAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Kun Xu - Google Scholar Citations"
+    }, 
+    {
+        "content": "sep 29, 2015 - kun xu. social presence, computers are social actors, cmc, multitasking, media addiction, gis. media  ... work email: kun.xu@temple.edu.", 
+        "email_list": [
+            "kun.xu@temple.edu"
+        ], 
+        "cite_url": "https://smc.temple.edu/mc/student-directory/kun-xu/", 
+        "cite_name": "Temple University", 
+        "title": "Kun Xu | Media and Communication Doctoral Program"
+    }, 
+    {
+        "content": "shandong xukun group is located in the peach garden of linyi. ... tel: (86)-571-89937541 msn: glassinchina@hotmail.com email: glassinchina@gmail.com.", 
+        "email_list": [
+            "glassinchina@hotmail.com", 
+            "glassinchina@gmail.com"
+        ], 
+        "cite_url": "yjd.glassinchina.com/", 
+        "cite_name": "", 
+        "title": "Shandong Xukun Group Glass branch: glass cup,glassware ..."
+    }
+]

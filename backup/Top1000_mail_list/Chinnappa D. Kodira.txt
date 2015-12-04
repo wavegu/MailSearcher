@@ -1,7 +1,30 @@
-hckist@umn.edu	[3]
-chad@broad.mit.edu	[3]
-moc.ehcor@ynased.nairb	[2]
-shimizu@dmb.med.keio.ac.jp	[1]
-framptol@mail.nih.gov	[1]
-thomas.sharpton@gladstone.ucsf.edu	[1]
-m.rep@uva.nl	[1]
+[
+    {
+        "content": "... manuel garber, chinnappa d. kodira, mary g. schueler, atsushi shimizu, ... c.n. (email: chad@broad.mit.edu) or n.s. (email: shimizu@dmb.med.keio.ac.jp).", 
+        "email_addr_list": [
+            "chad@broad.mit.edu", 
+            "shimizu@dmb.med.keio.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "DNA sequence and analysis of human chromosome 8 ..."
+    }, 
+    {
+        "content": "email: thomas.sharpton@gladstone.ucsf.edu. phone: (415) 734-2748 ... maiti, chinnappa d. kodira, daniel e. neafsey, qiandong zeng, chiung-yu hung, cody...", 
+        "email_addr_list": [
+            "thomas.sharpton@gladstone.ucsf.edu"
+        ], 
+        "cite_url": "taylorlab.berkeley.edu/tsharpton", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "TSharpton | J. Taylor Lab"
+    }, 
+    {
+        "content": "mark s. boguski, m.d., ph.d. fred hutchinson cancer ... framptol@mail.nih.gov. richard a. gibbs, ph.d. ... chinnappa d. kodira, m.s.. director of genome...", 
+        "email_addr_list": [
+            "framptol@mail.nih.gov"
+        ], 
+        "cite_url": "www.genome.gov/10005116www.google.com/emailwww.beenverified.com/", 
+        "cite_name": "National Human Genome Research Institute", 
+        "title": "ENCODE Workshop ParticipantsGoogle Business Email - Custom email for your company‎We Found Chinnappa Kodira‎"
+    }
+]

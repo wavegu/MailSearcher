@@ -1,1 +1,11 @@
-l.matthews@sussex.ac.uk	[18]
+[
+    {
+        "content": "lucy matthews header. photograph of lucy matthews. clinical trials co-ordinator. email: l.matthews@sussex.ac.uk. tel: (uk) 01273 87 7919, (int.) +44 1273...", 
+        "email_addr_list": [
+            "l.matthews@sussex.ac.uk"
+        ], 
+        "cite_url": "shore-c.sussex.ac.uk  Staff", 
+        "cite_name": "University of Sussex", 
+        "title": "Lucy Matthews - SHORE-C"
+    }
+]

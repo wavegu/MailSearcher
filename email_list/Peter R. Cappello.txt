@@ -1,0 +1,47 @@
+[
+    {
+        "content": "professor. office: 2157 harold frank hall. email: cappello@cs.ucsb.edu ... patent award: systolic super summation device, peter cappello on behalf of the...", 
+        "email_list": [
+            "cappello@cs.ucsb.edu"
+        ], 
+        "cite_url": "https://www.cs.ucsb.edu/.../cappell...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Peter Cappello | UCSB Computer Science"
+    }, 
+    {
+        "content": "available now at abebooks.co.uk - free shipping - isbn: 9780879421861 - hard cover - pictorial boards - ieee press - 1984 - book condition: very good...", 
+        "email_list": [
+            "now@abebooks.co.uk"
+        ], 
+        "cite_url": "www.abebooks.co.uk/VLSI-Signal...Peter-R-Cappello/.../bd", 
+        "cite_name": "AbeBooks", 
+        "title": "VLSI-Signal Processing by Edited By Peter R. Cappello et al ..."
+    }, 
+    {
+        "content": "peter cappello. professor of computer ... verified email at cs.ucsb.edu. scholar ... p cappello, b christiansen, mf ionescu, mo neary, ke schauser, d wu.", 
+        "email_list": [
+            "email@cs.ucsb.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8fudeRAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Peter Cappello - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: maryccappello@gmail.com ... professor cappello is a recipient of a 2015 berlin prize and will be in residence at the american .... a conversation with uri professor, poet, peter covino on uncontained beauty in poetry and the essay...", 
+        "email_list": [
+            "maryccappello@gmail.com"
+        ], 
+        "cite_url": "www.uri.edu/artsci/eng/Faculty/Cappello.html", 
+        "cite_name": "University of Rhode Island", 
+        "title": "Mary Cappello - University of Rhode Island"
+    }, 
+    {
+        "content": "email: padua@csrd.uiuc.edu. my gratitude is ... peter r. cappello ... richard j. leblanc, jr. peter lee. thomas lengauer. zhiyuan li. calvin lin. you-jian lin.", 
+        "email_list": [
+            "padua@csrd.uiuc.edu"
+        ], 
+        "cite_url": "https://link.springer.com/.../10.1007%2FB...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Referees and valedictory - Springer"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "content": "fritz scholz affiliate professor department of statistics ... phone for messages: 206-543-7237 e-mail: fritz at stat dot washington dot edu or fscholz at u dot...", 
+        "email_list": [
+            "fritz@stat.washington.edu"
+        ], 
+        "cite_url": "https://www.stat.washington.edu/people/fritz/", 
+        "cite_name": "University of Washington", 
+        "title": "Fritz Scholz - Statistics - University of Washington"
+    }, 
+    {
+        "content": "name: fritz scholz. e-mail: fritz[at]stat.washington.edu. position: affiliate professor. position type: faculty. phone: (206)543-3866. office: pdl c-310.", 
+        "email_list": [
+            "fritz@stat.washington.edu"
+        ], 
+        "cite_url": "https://www.stat.washington.edu/.../people.php...", 
+        "cite_name": "University of Washington", 
+        "title": "Fritz Scholz - Statistics - University of Washington"
+    }, 
+    {
+        "content": "e-mail: urbakh@csssg.tau.ac.il ... e-mail: p.r.unwin@warwick.ac.uk ... f. scholz, fritz scholz ernst moritz arndt universität greifswald institut für chemie und...", 
+        "email_list": [
+            "urbakh@csssg.tau.ac.il", 
+            "p.r.unwin@warwick.ac.uk"
+        ], 
+        "cite_url": "www.wiley-vch.de/bard/eoe/vol_editors.html", 
+        "cite_name": "", 
+        "title": "BARD | Volume editors"
+    }, 
+    {
+        "content": "mail: miriam.rosenbaum@rwth-aachen.de. phone: +49-241-80- ... advisors: dr. uwe schröder, dr. fritz scholz with a scholarship of the fond der chemischen...", 
+        "email_list": [
+            "miriam.rosenbaum@rwth-aachen.de"
+        ], 
+        "cite_url": "www.iamb.rwth-aachen.de/html/members.php?s=detid=2", 
+        "cite_name": "", 
+        "title": "Miriam Agler-Rosenbaum - Institute of Applied Microbiology"
+    }, 
+    {
+        "content": "mar 5, 2009 - e-mail: roberto at stat dot washington dot edu ... email: raltschul at uwb dot edu ... a case study in statistical tolerancing, with fritz scholz,...", 
+        "email_list": [
+            "roberto@stat.washington.edu", 
+            "raltschul@uwb.edu"
+        ], 
+        "cite_url": "https://catalyst.uw.edu/workspace/altscr/15201/84974", 
+        "cite_name": "", 
+        "title": "Roberto Altschul - Home - Catalyst - University of Washington"
+    }, 
+    {
+        "content": "allen j. bard · györgy inzelt · fritz scholz. (eds.) electrochemical ... ajbard@mail.utexas.edu. prof. dr. györgy inzelt ... dr. fritz scholz. university greifswald.", 
+        "email_list": [
+            "ajbard@mail.utexas.edu"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-3-540-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF (153KB) - Springer"
+    }
+]

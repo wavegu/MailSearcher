@@ -1,4 +1,29 @@
-geman@brown.edu	[11]
-geman@brown.edu.missing	[11]
-drton@galton.uchicago.edu	[1]
-info@videolectures.net	[1]
+[
+    {
+        "content": "geman, stuart  curriculum vitae  stuart_geman@brown.edu email icon. stuart geman james manning professor of applied mathematics. dr. geman is a...", 
+        "email_addr_list": [
+            "stuart_geman@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/display/sgeman", 
+        "cite_name": "", 
+        "title": "Geman, Stuart - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "stuart geman. james manning professor of applied mathematics room 210, 182 george street phone: +1 401 863 3088 stuart_geman@brown.edu.", 
+        "email_addr_list": [
+            "stuart_geman@brown.edu"
+        ], 
+        "cite_url": "www.brown.edu/academics/applied.../stuart-geman", 
+        "cite_name": "Brown University", 
+        "title": "Stuart Geman | Division of Applied Mathematics"
+    }, 
+    {
+        "content": "stuart geman. homepage: http://www.dam.brown.edu/people/geman/index.shtml ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/stuart_geman/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Stuart Geman - VideoLectures.NET"
+    }
+]

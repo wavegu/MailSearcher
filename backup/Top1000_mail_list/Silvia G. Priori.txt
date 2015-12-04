@@ -1,2 +1,11 @@
-silvia.priori@nyumc.org	[25]
-lindy@circulationjournal.org	[1]
+[
+    {
+        "content": "biosketch / results /. silvia priori. professor, department of medicine ... email: silvia.priori@nyumc.org. web: google  yahoo  bing. research; publications...", 
+        "email_addr_list": [
+            "silvia.priori@nyumc.org"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/priors01", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Silvia G. Priori | NYU School of Medicine"
+    }
+]

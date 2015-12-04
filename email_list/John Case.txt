@@ -1,0 +1,29 @@
+[
+    {
+        "content": "please give your complete email address beside `your email so i could respond ... send to: case@cis.udel.edu. your email: subject: john cases homepage", 
+        "email_list": [
+            "case@cis.udel.edu"
+        ], 
+        "cite_url": "www.cis.udel.edu/~case/email.html", 
+        "cite_name": "University of Delaware", 
+        "title": "Email to John Case"
+    }, 
+    {
+        "content": "to contact john case send email to: olhcguy-whatever@yahoo.com. or, if you have a default email program (eudora, outlook, etc.), click here:...", 
+        "email_list": [
+            "olhcguy-whatever@yahoo.com"
+        ], 
+        "cite_url": "www.johncase.com/Contact.html", 
+        "cite_name": "", 
+        "title": "Contact John Case"
+    }, 
+    {
+        "content": "email address: johnwshc@gmail.com. john case is a former electronics worker and union organizer with the united electrical, radio and machine workers...", 
+        "email_list": [
+            "johnwshc@gmail.com"
+        ], 
+        "cite_url": "peoplesworld.org/john-case", 
+        "cite_name": "People's World", 
+        "title": "John Case » peoplesworld"
+    }
+]

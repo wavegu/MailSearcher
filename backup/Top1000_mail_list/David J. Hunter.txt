@@ -1,5 +1,47 @@
-david.hunter@sydney.edu.au	[23]
-email at d.j.hunter	[18]
-dhunter@westmont.edu	[14]
-email at hsph.harvard.edu	[3]
-andrea.baden@hunter.cuny.edu	[2]
+[
+    {
+        "content": "email, david.hunter@sydney.edu.au ... professor hunter is a rheumatology clinician researcher whose main research focus has been clinical and translational...", 
+        "email_addr_list": [
+            "david.hunter@sydney.edu.au"
+        ], 
+        "cite_url": "sydney.edu.au  ...  Professor David Hunter", 
+        "cite_name": "University of Sydney", 
+        "title": "Professor David Hunter - The University of Sydney"
+    }, 
+    {
+        "content": "(email at d.j.hunter@durham.ac.uk) .... hunter, david j, marks, linda  smith, katherine e (2010). the public ... hunter, david j, shishkin, s  taroni, f (2005).", 
+        "email_addr_list": [
+            "email@d.j.hunter"
+        ], 
+        "cite_url": "https://www.dur.ac.uk/school.health/staff/?id=63", 
+        "cite_name": "Durham University", 
+        "title": "Professor D J Hunter - Durham University"
+    }, 
+    {
+        "content": "andrea.baden@hunter.cuny.edu ... conservation genetics, primate behavior, lemurs, madagascar. j. brown ... david j. hodges ... (212) 772-5410 | email us.", 
+        "email_addr_list": [
+            "andrea.baden@hunter.cuny.edu"
+        ], 
+        "cite_url": "www.hunter.cuny.edu  Anthropology  PEOPLE", 
+        "cite_name": "Hunter College", 
+        "title": "Full-Time Faculty — Hunter College"
+    }, 
+    {
+        "content": "david j. hunter dhunter@westmont.edu  department of mathematics and computer science  westmont college. office: winter hall 303, (805) 565-6075.", 
+        "email_addr_list": [
+            "dhunter@westmont.edu"
+        ], 
+        "cite_url": "www.westmont.edu/~dhunter/", 
+        "cite_name": "Westmont College", 
+        "title": "David J. Hunter - Westmont College"
+    }, 
+    {
+        "content": "david j hunter. dean for academic affairs, ... verified email at hsph.harvard.edu. scholar ... ta manolio, fs collins, nj cox, db goldstein, la hindorff, dj hunter, ... nature 461 ... jae manson, wc willett, mj stampfer, ga colditz, dj hunter, .", 
+        "email_addr_list": [
+            "email@hsph.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.ch/citations?user=Nq0hidMAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "David J Hunter - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "name: dr xianfeng chen; position: lecturer in photonics and sensors; email: x.chen@bangor.ac.uk; phone: +44 (0) 1248 382480; location: dean street...", 
+        "email_list": [
+            "x.chen@bangor.ac.uk"
+        ], 
+        "cite_url": "www.bangor.ac.uk/eng/Staff/x_chen.php", 
+        "cite_name": "Bangor University", 
+        "title": "Staff Profile of Dr Xianfeng Chen - Bangor University"
+    }, 
+    {
+        "content": "email. xduan@chem.ucla.edu. office. molecular sciences building 2505b ... w. j. yu, z. li, h. zhou, y. chen, y. wang, y. huang and x. duan, nature mater.", 
+        "email_list": [
+            "xduan@chem.ucla.edu"
+        ], 
+        "cite_url": "www.chemistry.ucla.edu/.../duan-xi...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Duan, Xiangfeng | UCLA Chemistry and Biochemistry"
+    }, 
+    {
+        "content": "welcome to chen group at the city university of hong kong ... xianfeng chen, d.phil. (oxford) assistant ... (852) 3442 0538. email: xianfeng.chen@cityu.edu.hk...", 
+        "email_list": [
+            "xianfeng.chen@cityu.edu.hk"
+        ], 
+        "cite_url": "www.ap.cityu.edu.hk/personal-website/xf-chen/mysite3/index.htm", 
+        "cite_name": "", 
+        "title": "Home - Department of Physics and Materials Science - City ..."
+    }, 
+    {
+        "content": "email: liuxf@ucas.ac.cn. telephone: 86-10-8825-6840 .... limei sun, songbai han, yuntao liu, dongfeng chen, xiangfeng liu. the crystal structure and...", 
+        "email_list": [
+            "liuxf@ucas.ac.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~xiangfeng...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "Xiangfeng Liu - 个人主页 - 中国科学院大学"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "przemysław kazienko, prof. nadzw. pwr. ... e-mail: przemyslaw.kazienko@pwr.edu.pl ... (aktualna lista http://www.zsi.pwr.wroc.pl/~kazienko/projekty.htm), m.in.", 
+        "email_list": [
+            "przemyslaw.kazienko@pwr.edu.pl"
+        ], 
+        "cite_url": "https://doktoranci.pwr.edu.pl/promotorzy.php?id...", 
+        "cite_name": "", 
+        "title": "dr hab. inż. Przemysław Kazienko, prof. nadzw. PWr."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "contact person: mr. li email address: cssmt@musenlaser.com. guangzhou musen laser electronic technology co.,ltd address: taoyuan industrial zone d...", 
+        "email_list": [
+            "cssmt@musenlaser.com"
+        ], 
+        "cite_url": "eng.musenlaser.com/?p=7", 
+        "cite_name": "", 
+        "title": "Contact Us - Shenzhen Musen Laser Electronic Technology ..."
+    }, 
+    {
+        "content": "phone: 18670305313. contact person: mr. li email address: cssmt@musenlaser.com. beijing musen laser electronic technology co.,ltd address: liandong...", 
+        "email_list": [
+            "cssmt@musenlaser.com"
+        ], 
+        "cite_url": "en.musentech.com/?p=6", 
+        "cite_name": "", 
+        "title": "Contact us - ACCC IN THE COLD CHAIN"
+    }, 
+    {
+        "content": "verified email at mayo.edu. scholar ... st wu, h liu, d li, c tao, ma musen, cg chute, nh shah. journal of the american ... d li, k kipper-schuler, g savova.", 
+        "email_list": [
+            "email@mayo.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sA04kPEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dingcheng Li - Google Scholar Citations"
+    }, 
+    {
+        "content": "... graduate school of shandong university address: num 27 shandananlu, jinan city, shandong province; postalcode:250101. e-mail: 91680@sdu.edu.cn.", 
+        "email_list": [
+            "91680@sdu.edu.cn"
+        ], 
+        "cite_url": "gradms.sdu.edu.cn/personintroduce/browseEngIntroduce.do?...1...", 
+        "cite_name": "", 
+        "title": "Introduction"
+    }
+]

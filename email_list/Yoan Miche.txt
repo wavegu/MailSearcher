@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. yoan miche. aalto university ... verified email at aalto.fi. scholar ... y miche, a sorjamaa, p bas, o simula, c jutten, a lendasse. neural networks, ieee...", 
+        "email_list": [
+            "email@aalto.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=q6vjnMUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Yoan Miche - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 5, 2012 - email: series@ics.tkk.fi. ©yoan miche ... yoan miche: developing fast machine learning techniques with applications to. steganalysis...", 
+        "email_list": [
+            "series@ics.tkk.fi"
+        ], 
+        "cite_url": "https://hal.archives-ouvertes.fr/tel-00737353/document", 
+        "cite_name": "", 
+        "title": "[PDF]tel.archives-ouvertes.fr - Hal"
+    }
+]

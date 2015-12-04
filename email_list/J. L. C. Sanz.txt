@@ -1,0 +1,38 @@
+[
+    {
+        "content": "for more information email s14angelikajankowska@leggott.ac.uk or the leader ... and you can also follow @jlcmentoring for more tips on staying safe online.", 
+        "email_list": [
+            "s14angelikajankowska@leggott.ac.uk"
+        ], 
+        "cite_url": "https://gv.leggott.ac.uk/", 
+        "cite_name": "John Leggott College", 
+        "title": "John Leggott College: Grapevine"
+    }, 
+    {
+        "content": "john leggott college. west common lane ... tel: +44(0)1724 282998, fax: +44(0)1724 281631, email: info@leggott.ac.uk  parentpay facebook twitter youtube.", 
+        "email_list": [
+            "info@leggott.ac.uk"
+        ], 
+        "cite_url": "www.leggott.ac.uk/", 
+        "cite_name": "John Leggott College", 
+        "title": "John Leggott College: Home"
+    }, 
+    {
+        "content": "verified email at tbempresas.com - homepage ... m flickner, j hafner, ej rodríguez, jlc sanz ... ga baricco, am olivero, ej rodrı́guez, fg safar, jlc sanz.", 
+        "email_list": [
+            "email@tbempresas.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=U-gCGL4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Eduardo Rodríguez Ringach - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at unifi.it - homepage  scholar. get my own profile. google scholar ... ad bimbo, p nesi, jlc sanz. image processing, ieee transactions on 5...", 
+        "email_list": [
+            "email@unifi.it"
+        ], 
+        "cite_url": "scholar.google.co.in/citations?user=c2S3Ni0AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Paolo Nesi - Google Scholar Citations"
+    }
+]

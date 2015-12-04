@@ -1,0 +1,47 @@
+[
+    {
+        "content": "le gruenwald. dr. david w. franke professor and samuel roberts noble foundation presidential professor. e-mail: ggruenwald@ou.edu", 
+        "email_list": [
+            "ggruenwald@ou.edu"
+        ], 
+        "cite_url": "www.ou.edu/coe/cs/people/gruenwald.html", 
+        "cite_name": "University of Oklahoma", 
+        "title": "Dr. Le Gruenwald - University of Oklahoma"
+    }, 
+    {
+        "content": "dr. le gruenwald. university of oklahoma, usa. email: ggruenwald@ou.edu. qualifications. 1990 ph.d., southern methodist university, usa. 1983 m.sc.", 
+        "email_list": [
+            "ggruenwald@ou.edu"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Le Gruenwald - Journals, Conferences, Proceedings, Open ..."
+    }, 
+    {
+        "content": "email this page print this page bookmark and share. division of information ... le gruenwald, lgruenwa@nsf.gov, (703) 292-8074, 1125 s. c.s. george lee...", 
+        "email_list": [
+            "lgruenwa@nsf.gov"
+        ], 
+        "cite_url": "www.nsf.gov/funding/pgm_summ.jsp?...id...", 
+        "cite_name": "National Science Foundation", 
+        "title": "Information and Intelligent Systems: | NSF - National ..."
+    }, 
+    {
+        "content": "email: you.simin@gmail.com ... data on gpus: jianting zhang, simin you, le gruenwald bigspatial workshop 2015 (co-located with acm sigspatial 2015)...", 
+        "email_list": [
+            "you.simin@gmail.com"
+        ], 
+        "cite_url": "simin.me/", 
+        "cite_name": "", 
+        "title": "Simin You | CUNY"
+    }, 
+    {
+        "content": "mobile database research: what is to be done le gruenwald university of oklahoma school of computer science ggruenwald@ou.edu frank olken...", 
+        "email_list": [
+            "ggruenwald@ou.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-ggruenwald-ou-edu-3511871.htm", 
+        "cite_name": "", 
+        "title": "ggruenwald@ou.edu - The Email Archive"
+    }
+]

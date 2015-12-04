@@ -1,0 +1,22 @@
+[
+    {
+        "content": "cancel. evan h. magill. university of stirling  networks. verified email at cs.stir.ac.uk - homepage ... m calder, m kolberg, eh magill, s reiff-marganiec.", 
+        "email_list": [
+            "email@cs.stir.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OdNK...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Evan H. Magill - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 9, 2002 - email addresses: muffy@dcs.gla.ac.uk (muffy calder), ... ehm@cs.stir.ac.uk (evan h. magill), sreiff@dcs.gla.ac.uk (stephan reiff-marganiec).", 
+        "email_list": [
+            "muffy@dcs.gla.ac.uk", 
+            "ehm@cs.stir.ac.uk", 
+            "sreiff@dcs.gla.ac.uk"
+        ], 
+        "cite_url": "www.dcs.gla.ac.uk/.../calder-kolberg-magill-reiff....", 
+        "cite_name": "University of Glasgow", 
+        "title": "[PDF]A Critical Review and Considered Forecast - School of ..."
+    }
+]

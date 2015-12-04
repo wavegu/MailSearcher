@@ -1,4 +1,29 @@
-carl@isi.edu	[9]
-carl at isi.edu	[9]
-carl@isi.edumailto	[9]
-email at isi.edu	[1]
+[
+    {
+        "content": "email: carl@isi.edu. web page: http://www.isi.edu/~carl. education dr. kesselman received a dual ba/bs in computer science and electrical engineering from...", 
+        "email_addr_list": [
+            "carl@isi.edu"
+        ], 
+        "cite_url": "ise.usc.edu/directory/carl_kesselman.htm", 
+        "cite_name": "University of Southern California", 
+        "title": "USC - Viterbi School of Engineering - Carl Kesselman"
+    }, 
+    {
+        "content": "carl kesselman. carl kesselman, ph.d. director, medical informatics isi ... email: carl at isi.edu. phone: 310-448-9338. groups: carl. © 2015 the university of...", 
+        "email_addr_list": [
+            "carl@isi.edu"
+        ], 
+        "cite_url": "www.isi.edu/people/carl", 
+        "cite_name": "", 
+        "title": "Information Sciences Institute - Carl Kesselman"
+    }, 
+    {
+        "content": "carl kesselman. professor university ... verified email at isi.edu. scholar. get my own ... a chervenak, i foster, c kesselman, c salisbury, s tuecke. journal of...", 
+        "email_addr_list": [
+            "email@isi.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5c38WVcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Carl Kesselman - Google Scholar Citations"
+    }
+]

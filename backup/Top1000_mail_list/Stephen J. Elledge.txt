@@ -1,5 +1,22 @@
-selledge@genetics.med.harvard.edu	[16]
-selledge at genetics.med.harvard.edu	[16]
-selledge@bcm.edu	[16]
-zguo1 at rics.bwh.harvard.edu	[3]
-geichele@bcm.edu	[2]
+[
+    {
+        "content": "dr. stephen j. elledge. department ... email: selledge at genetics.med.harvard.edu ... jay guo. zguo1 at rics.bwh.harvard.edu. (617) 525-4516. chanhee kang.", 
+        "email_addr_list": [
+            "selledge@genetics.med.harvard.edu", 
+            "zguo1@rics.bwh.harvard.edu"
+        ], 
+        "cite_url": "elledgelab.med.harvard.edu/?page_id=253", 
+        "cite_name": "Harvard University", 
+        "title": "Stephen J. Elledge - Elledge Lab"
+    }, 
+    {
+        "content": "adjunct professor. email. geichele@bcm.edu. phone. 713-798- ... stephen j elledge, ph.d. adjunct professor. email. selledge@bcm.edu. phone. 713-798-6625.", 
+        "email_addr_list": [
+            "geichele@bcm.edu", 
+            "selledge@bcm.edu"
+        ], 
+        "cite_url": "www.bcm.edu  ...  Faculty", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Adjunct Faculty - Baylor College of Medicine"
+    }
+]

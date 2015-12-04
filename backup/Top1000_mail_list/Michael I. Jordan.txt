@@ -1,4 +1,29 @@
-jordan@cs.berkeley	[13]
-jordan@stat.berkeley.edu	[13]
-jordan@cs.berkeley.edu	[13]
-email at cs.berkeley.edu	[3]
+[
+    {
+        "content": "michael i. jordans homepage at the university of california. ... fax: (510) 642-5775. email: jordan@cs.berkeley.edu  statistics 401 evans hall #3860. berkeley...", 
+        "email_addr_list": [
+            "jordan@cs.berkeley.edu"
+        ], 
+        "cite_url": "https://www.stat.berkeley.edu/~jordan/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Michael I. Jordans Home Page"
+    }, 
+    {
+        "content": "michael i. jordan. professor of eecs and ... verified email at cs.berkeley.edu - homepage  scholar ... mi jordan, z ghahramani, ts jaakkola, lk saul. machine...", 
+        "email_addr_list": [
+            "email@cs.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yxUduqMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael I. Jordan - Google Scholar Citations"
+    }, 
+    {
+        "content": "michael i. jordan. email: jordan@cs.berkeley. office hours: tuesday/thursday 2pm-3pm. (location: 427 evans). tapan parikh photo. tapan parikh. email:.", 
+        "email_addr_list": [
+            "jordan@cs.berkeley"
+        ], 
+        "cite_url": "data8.org/staff.html", 
+        "cite_name": "", 
+        "title": "Staff | STAT 94 Fall 2015"
+    }
+]

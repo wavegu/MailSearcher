@@ -1,3 +1,20 @@
-asen@fas.harvard.edu	[8]
-as341@cam.ac.uk	[3]
-as341@cam.ac.ukpune	[3]
+[
+    {
+        "content": "amartya sen is thomas w lamont university professor, and professor of economics and ... contact information. email: asen@fas.harvard.edu. littauer 205...", 
+        "email_addr_list": [
+            "asen@fas.harvard.edu"
+        ], 
+        "cite_url": "philosophy.fas.harvard.edu/people/amartya-sen", 
+        "cite_name": "", 
+        "title": "Amartya Sen | Harvard University Department of Philosophy"
+    }, 
+    {
+        "content": "amartya sen is the sixth indian to get the nobel and the first asian winner of the economics prize. ... name: amartya sen ... email: as341@cam.ac.uk", 
+        "email_addr_list": [
+            "as341@cam.ac.uk"
+        ], 
+        "cite_url": "www.webindia123.com/personal/abroad/amartya.htm", 
+        "cite_name": "", 
+        "title": "Amartya Sen - Webindia123.com"
+    }
+]

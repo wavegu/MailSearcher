@@ -1,2 +1,20 @@
-mjdaly@atgu.mgh.harvard.edu	[11]
-mdaly@cinapc.com	[10]
+[
+    {
+        "content": "mark daly. department of genetics co-director, program in medical and population genetics, broad institute ... email: mjdaly@atgu.mgh.harvard.edu. visit my...", 
+        "email_addr_list": [
+            "mjdaly@atgu.mgh.harvard.edu"
+        ], 
+        "cite_url": "https://dms.hms.harvard.edu/bbs/fac/Daly.php", 
+        "cite_name": "Harvard Medical School", 
+        "title": "Mark Daly - Harvard BBS PhD Program - Harvard University"
+    }, 
+    {
+        "content": "immigration lawyer mark c. daly, president and founder ... i had also worked with my mother, sybil j. daly for four years in her .... email: mdaly@cinapc.com.", 
+        "email_addr_list": [
+            "mdaly@cinapc.com"
+        ], 
+        "cite_url": "www.stepbystepimmigrationforms.com  Attorneywww.google.com/email", 
+        "cite_name": "", 
+        "title": "Mark C. Daly - Step By Step Immigration FormsGoogle Business Email‎"
+    }
+]

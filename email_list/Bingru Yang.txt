@@ -1,0 +1,11 @@
+[
+    {
+        "content": "bingru yang. university of science and technology beijing, china. email: bryang_kd@yahoo.com.cn. qualifications. b.s., tianjin normal university.", 
+        "email_list": [
+            "bryang_kd@yahoo.com.cn"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Bingru Yang - Journals, Conferences, Proceedings, Open ..."
+    }
+]

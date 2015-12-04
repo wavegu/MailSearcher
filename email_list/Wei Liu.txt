@@ -1,0 +1,75 @@
+[
+    {
+        "content": "email: weiliu at us.ibm.com or wliu at ee.columbia.edu ... robust and scalable graph-based semisupervised learning wei liu et al. proceedings of the ieee...", 
+        "email_list": [
+            "weiliu@us.ibm.com", 
+            "wliu@ee.columbia.edu"
+        ], 
+        "cite_url": "www.ee.columbia.edu/~wliu/", 
+        "cite_name": "", 
+        "title": "Unique Wei LIUs Homepage"
+    }, 
+    {
+        "content": "email: wei.liu[at]uts.edu.au. address: room 11.07.307, level 7, building 11 (the broadway building), po box 123, broadway nsw 2007, australia.", 
+        "email_list": [
+            "wei.liu@uts.edu.au"
+        ], 
+        "cite_url": "https://sites.google.com/site/weiliusite/", 
+        "cite_name": "", 
+        "title": "Wei Lius Homepage - Sites - Google"
+    }, 
+    {
+        "content": "dr wei liu. senior lecturer. email : w.liu@sheffield.ac.uk. tel: +44 (0) 114 222 5813. qualifications. bsc. space physics, peking university, china, 1996;", 
+        "email_list": [
+            "w.liu@sheffield.ac.uk"
+        ], 
+        "cite_url": "https://www.sheffield.ac.uk/eee/staff/w_liu", 
+        "cite_name": "University of Sheffield", 
+        "title": "Dr Wei Liu - University of Sheffield"
+    }, 
+    {
+        "content": "verified email at ee.columbia.edu - homepage  scholar. get my own ... w liu, j wang, r ji, yg jiang, sf chang ... yg jiang, q dai, x xue, w liu, cw ngo.", 
+        "email_list": [
+            "email@ee.columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AjxoEpIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Wei Liu - Google Scholar Citations"
+    }, 
+    {
+        "content": "wei liu. associate professor department of mathematics and statistics  york university ... email: liuwei at mathstat dot yorku dot ca. phone: (416) 736-2100...", 
+        "email_list": [
+            "liuwei@mathstat.yorku.ca"
+        ], 
+        "cite_url": "www.math.yorku.ca/~liuwei/", 
+        "cite_name": "York University", 
+        "title": "Wei Liu - Department of Mathematics and Statistics - York ..."
+    }, 
+    {
+        "content": "nov 3, 2015 - ... fax: +61 8 6488 1089; email: wei.liu@uwa.edu.au; personal homepage ... (4)*wei liu and mary-anne williams, a framework for multi-agent...", 
+        "email_list": [
+            "wei.liu@uwa.edu.au"
+        ], 
+        "cite_url": "www.uwa.edu.au/people/wei.liu", 
+        "cite_name": "University of Western Australia", 
+        "title": "Dr Wei Liu - UWA Staff Profile : The University of Western ..."
+    }, 
+    {
+        "content": "dr wei liu is a data science research program leader and a lecturer at the ... member, association for computing machinery. email. wei.liu@uts.edu.au.", 
+        "email_list": [
+            "wei.liu@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/wei.liu", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Wei Liu | University of Technology Sydney"
+    }, 
+    {
+        "content": "wei liu. assistant professor. office: psf-242 lab: psh32 phone: (480)727-6452 lab phone: 480-727-4296. fax: (480) 965-2747. email: w.liu@asu.edu.", 
+        "email_list": [
+            "w.liu@asu.edu"
+        ], 
+        "cite_url": "https://sms.asu.edu/faculty/W_liu.asp", 
+        "cite_name": "", 
+        "title": "Wei Liu - Department of Chemistry and Biochemistry"
+    }
+]

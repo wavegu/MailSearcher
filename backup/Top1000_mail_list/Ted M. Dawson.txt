@@ -1,3 +1,38 @@
-tdawson@jhmi.edu	[14]
-tdawson@jhmi.edu.ted	[14]
-email at jhmi.edu	[4]
+[
+    {
+        "content": "ted m. dawson ... e-mail address: tdawson@jhmi.edu ... the dawson lab studies molecular mechanisms of neurodegeneration of parkinsons disease, nitric...", 
+        "email_addr_list": [
+            "tdawson@jhmi.edu"
+        ], 
+        "cite_url": "www.hopkinsmedicine.org/.../dawson...", 
+        "cite_name": "Johns Hopkins School of Medicine", 
+        "title": "Ted M. Dawson - Johns Hopkins Medicine"
+    }, 
+    {
+        "content": "ted dawson md, ph.d. leonard and madlyn abramson professor of neurodegenerative diseases. tdawson@jhmi.edu. telephone number: 410-614-3359", 
+        "email_addr_list": [
+            "tdawson@jhmi.edu"
+        ], 
+        "cite_url": "neuroscience.jhu.edu/resources/.../ted-dawson", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Ted Dawson - Neuroscience - Johns Hopkins University"
+    }, 
+    {
+        "content": "ted m. dawson. director, institute for ... verified email at jhmi.edu - homepage  scholar ... tm dawson, ds bredt, m fotuhi, pm hwang, sh snyder. proceedings...", 
+        "email_addr_list": [
+            "email@jhmi.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XNbJbbkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ted M. Dawson - Google Scholar Citations"
+    }, 
+    {
+        "content": "ted m. dawson, md, phd ... email, tdawson@jhmi.edu ... yu, s.-w., h.-m. wang, m.f. poitras, c. coombs, w.j. bowers, h.j. federoff, guy g. poirer, t.m....", 
+        "email_addr_list": [
+            "tdawson@jhmi.edu"
+        ], 
+        "cite_url": "cmm.jhmi.edu/index.php/cmm-faculty/ted-m-dawson-md-phd/", 
+        "cite_name": "", 
+        "title": "Ted M. Dawson, MD, PhD"
+    }
+]

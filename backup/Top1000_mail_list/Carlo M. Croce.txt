@@ -1,2 +1,39 @@
-carlo.croce@osumc.edu	[21]
-peixuan.guo@uky.edu	[1]
+[
+    {
+        "content": "contact information: office: 1080 biomedical research tower 460 w. 12th ave. columbus, oh 43210. phone: 614-292-3063. email: carlo.croce@osumc.edu...", 
+        "email_addr_list": [
+            "carlo.croce@osumc.edu"
+        ], 
+        "cite_url": "medicine.osu.edu/.../croce-carl...", 
+        "cite_name": "Ohio State University College of Medicine", 
+        "title": "Croce, Carlo M. - The Ohio State University College of ..."
+    }, 
+    {
+        "content": "email this article (login required). email the author ... carlo m. croce, email: carlo.croce@osumc.edu. peixuan guo, email: peixuan.guo@uky.edu. keywords:...", 
+        "email_addr_list": [
+            "carlo.croce@osumc.edu", 
+            "peixuan.guo@uky.edu"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 6, No 17  Lee", 
+        "cite_name": "", 
+        "title": "RNA nanoparticle as a vector for targeted siRNA delivery ..."
+    }, 
+    {
+        "content": "supplementary files. email this article (login required). email the author (login required) ... carlo m. croce, email: carlo.croce@osumc.edu. keywords: mir-155...", 
+        "email_addr_list": [
+            "carlo.croce@osumc.edu"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 6, No 28  Tili", 
+        "cite_name": "", 
+        "title": "Abstract - Impact Journals"
+    }, 
+    {
+        "content": "... signatures in human cancers. george a. calin  carlo m. croce about the authors ... correspondence to: carlo m. croce email: carlo.croce@osumc.edu.", 
+        "email_addr_list": [
+            "carlo.croce@osumc.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "MicroRNA signatures in human cancers : Abstract : Nature ..."
+    }
+]

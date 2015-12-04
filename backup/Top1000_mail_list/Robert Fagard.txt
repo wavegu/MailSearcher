@@ -1,3 +1,20 @@
-robert.fagard@uz.kuleuven.ac.be	[25]
-robert.fagard@uzleuven.be	[25]
-giuseppe.mancia@unimib.it	[1]
+[
+    {
+        "content": "3000 leuven, belgium. tel: +32 16 348 707. fax: +32 16 343 766 email: robert.fagard@uzleuven.be professor giuseppe mancia. centro di fisiologia clinica.", 
+        "email_addr_list": [
+            "robert.fagard@uzleuven.be"
+        ], 
+        "cite_url": "https://www.escardio.org/static.../AHWeb_EM_Hypertension_2013.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Hypertension - European Society of Cardiology"
+    }, 
+    {
+        "content": "correspondence to robert h. fagard, md, phd, u.z. gasthuisberg, ... tel: +32 16 34 87 07; fax: +32 16 34 37 66; e-mail: robert.fagard@uz.kuleuven.ac.be...", 
+        "email_addr_list": [
+            "robert.fagard@uz.kuleuven.ac.be"
+        ], 
+        "cite_url": "cpr.sagepub.com/.../12.abstra...", 
+        "cite_name": "European Journal of Preventive Cardiology", 
+        "title": "Effect of exercise on blood pressure control in hypertensive ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "pasquale de meo. assistant ... verified email at unime.it - homepage  scholar ... sa catanese, p de meo, e ferrara, g fiumara, a provetti. proceedings of the...", 
+        "email_list": [
+            "email@unime.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PX15CIgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pasquale De Meo - Google Scholar Citations"
+    }, 
+    {
+        "content": "de meo, pasquale. email: pdemeo@unime.it. dipartimento di fisica, viale f. stagno dalcontres. insegnamenti: programmazione + laboratorio di...", 
+        "email_list": [
+            "pdemeo@unime.it"
+        ], 
+        "cite_url": "informatica.unime.it/de-meo-pasquale/", 
+        "cite_name": "", 
+        "title": "De Meo, Pasquale « Informatica.unime.it"
+    }, 
+    {
+        "content": "28 ch-5200 brugg switzerland mr. pasquale de meo phone: +41 56 460 37 60 fax: +41 56 442 35 42 email: de_meo.pasquale@brugg.com tuset,...", 
+        "email_list": [
+            "de_meo.pasquale@brugg.com"
+        ], 
+        "cite_url": "www.bruggcables.com/domains/bruggcables.../Compound_DE.xml", 
+        "cite_name": "", 
+        "title": "28 Mitchel drive A-Glossodia NSW 2756 Australia Contact ..."
+    }
+]

@@ -1,2 +1,11 @@
-gwhitesides@gmwgroup.harvard.edu	[22]
-institute at harvardwyss.harvard.edu	[2]
+[
+    {
+        "content": "george m. whitesides. department of chemistry  chemical biology harvard ... email: gwhitesides@gmwgroup.harvard.edu web: http://gmwgroup.harvard.edu...", 
+        "email_addr_list": [
+            "gwhitesides@gmwgroup.harvard.edu"
+        ], 
+        "cite_url": "www.fas.harvard.edu/.../George_M_Whitesides.htm", 
+        "cite_name": "Harvard University", 
+        "title": "Harvard Biophysics Faculty: George M. Whitesides"
+    }
+]

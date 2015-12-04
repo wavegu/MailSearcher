@@ -1,2 +1,21 @@
-shimizu@dmb.med.keio.ac.jp	[3]
-chad@broad.mit.edu	[1]
+[
+    {
+        "content": "... hiroto matsumine, yasuhiro yamamura, shinsei minoshima, masayuki yokochi, ... should be addressed to n.s. (e-mail: email: shimizu@dmb.med.keio.ac.jp).", 
+        "email_addr_list": [
+            "shimizu@dmb.med.keio.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Mutations in the : parkin: gene cause autosomal recessive ..."
+    }, 
+    {
+        "content": "... atanas h. mihalev, shinsei minoshima, yuji murayama, jerome w. naylor, ... c.n. (email: chad@broad.mit.edu) or n.s. (email: shimizu@dmb.med.keio.ac.jp).", 
+        "email_addr_list": [
+            "chad@broad.mit.edu", 
+            "shimizu@dmb.med.keio.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "DNA sequence and analysis of human chromosome 8 ..."
+    }
+]

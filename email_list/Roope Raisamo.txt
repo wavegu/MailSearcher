@@ -1,0 +1,47 @@
+[
+    {
+        "content": "cancel. roope raisamo. university of tampere. verified email at cs.uta.fi ... k salminen, v surakka, j lylykangas, j raisamo, r saarinen, ... proceedings of the...", 
+        "email_list": [
+            "email@cs.uta.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Roope Raisamo - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 9, 2013 - roope raisamo. professor, 1 august 2013-31 july 2014. office: atalpa 310. tel. +358 50 570 2007. email: roope.raisamo@uta.fi.", 
+        "email_list": [
+            "roope.raisamo@uta.fi"
+        ], 
+        "cite_url": "www.uta.fi/iasr/fellows/2013.../rooperaisamo.html", 
+        "cite_name": "University of Tampere", 
+        "title": "Roope Raisamo-Fellows-Institute for Advanced Social ..."
+    }, 
+    {
+        "content": "email: veikko.surakka@uta.fi ... professor roope raisamo, uta. roope raisamo is a full professor of computer science (user interface software development) in...", 
+        "email_list": [
+            "veikko.surakka@uta.fi"
+        ], 
+        "cite_url": "www.cs.tut.fi/ihte/.../yhteystiedot.sht...", 
+        "cite_name": "Tampere University of Technology", 
+        "title": "INTO"
+    }, 
+    {
+        "content": "roope raisamo ... email: rr@cs.uta.fi ... evreinova, t. v., evreinov, g.,  raisamo, r. (2007) camera based head-mouse: optimization of template-based...", 
+        "email_list": [
+            "rr@cs.uta.fi"
+        ], 
+        "cite_url": "www.tiresias.org/research/researchers/raisamos.htm", 
+        "cite_name": "", 
+        "title": "Tiresias :: Researchers :: Roope Raisamo"
+    }, 
+    {
+        "content": "curriculum vitae: roope raisamo. ph.d., professor of computer science. contact ... email: rr@cs.uta.fi. personal data. born on august 17th, 1971, in nokia,...", 
+        "email_list": [
+            "rr@cs.uta.fi"
+        ], 
+        "cite_url": "www.teacherscreate.org/finlandusa/BioSketches/RRaisamo-bio.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae: Roope Raisamo - Teachers Create"
+    }
+]

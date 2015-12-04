@@ -1,5 +1,39 @@
-kazuo.shinozaki@riken.jp	[29]
-sinozaki@rtc.riken.go.jp	[3]
-takashi.kuromori@riken.jp	[3]
-sugiyama@postman.riken.go.jp	[2]
-yao@riken.jp	[1]
+[
+    {
+        "content": "group director: kazuo shinozaki (d.sci.) ... n., takahashi, f., anderson, j. c., ishihama, y., peck, s. c. and shinozaki, k.: ... email: kazuo.shinozaki [at] riken.jp...", 
+        "email_addr_list": [
+            "kazuo.shinozaki@riken.jp"
+        ], 
+        "cite_url": "www.riken.jp/en/research/labs/csrs/gene_discov/", 
+        "cite_name": "", 
+        "title": "Gene Discovery Research Group | RIKEN"
+    }, 
+    {
+        "content": "pdf(331kb)  gene discovery research group: kazuo shinozaki(d.sci.) ... biomass research platform team: kazuo shinozaki(d.sci.) ... email: csrs [at] riken.jp...", 
+        "email_addr_list": [
+            "csrs@riken.jp"
+        ], 
+        "cite_url": "www.riken.jp/en/research/labs/csrs/", 
+        "cite_name": "", 
+        "title": "RIKEN Center for Sustainable Resource Science | RIKEN"
+    }, 
+    {
+        "content": "contact: kazuo shinozaki. riken plant science center. email: sinozaki@rtc.riken.go.jp. in japan, ongoing programs for arabidopsis functional genomics are...", 
+        "email_addr_list": [
+            "sinozaki@rtc.riken.go.jp"
+        ], 
+        "cite_url": "https://www.arabidopsis.org/portals/masc/countries/Japan_2006.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]2006 Japan MASC report (pdf)."
+    }, 
+    {
+        "content": "... plant science center, email: sugiyama@postman.riken.go.jp shigeyuki ... fax: +81-45-503-9553, email: yao@riken.jp kazuo shinozaki, project director,...", 
+        "email_addr_list": [
+            "sugiyama@postman.riken.go.jp", 
+            "yao@riken.jp"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1402054688www.google.com/email", 
+        "cite_name": "", 
+        "title": "Systems Biology: International Research and DevelopmentGoogle Business Email - Custom email for your company‎"
+    }
+]

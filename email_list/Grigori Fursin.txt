@@ -1,0 +1,51 @@
+[
+    {
+        "content": "... climbing, jogging, ...), photography, reading. professional e-mail: grigori.fursin@ctuning.org or grigori@dividiti.com. personal e-mail: gfursin@gmail.com...", 
+        "email_list": [
+            "grigori.fursin@ctuning.org", 
+            "grigori@dividiti.com", 
+            "gfursin@gmail.com"
+        ], 
+        "cite_url": "fursin.net/research.html", 
+        "cite_name": "", 
+        "title": "Research - Grigori Fursin"
+    }, 
+    {
+        "content": "grigori fursin. cto, dividiti (uk) ... verified email at ctuning.org - homepage  scholar ... f agakov, e bonilla, j cavazos, b franke, g fursin, mfp oboyle, .", 
+        "email_list": [
+            "email@ctuning.org"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Grigori Fursin - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 18, 2015 - grigori fursin, cto, ctuning foundation. time and ... to attend the talk, please signup by email to martin elsman (mael at di.ku.dk). abstract:.", 
+        "email_list": [
+            "mael@di.ku.dk"
+        ], 
+        "cite_url": "hiperfit.dk/news/2015/03/18/talk-by-grigori-fursin/", 
+        "cite_name": "", 
+        "title": "Talk by Grigori Fursin on Collaborative and Reproducible ..."
+    }, 
+    {
+        "content": "nov 6, 2009 - from: grigori fursin grigori dot fursin at inria dot fr ... dot fr; cc: zbigniew chamski zbigniew dot chamski at gmail dot com, richard...", 
+        "email_list": [
+            "fursin@inria.fr", 
+            "chamski@gmail.com"
+        ], 
+        "cite_url": "https://gcc.gnu.org/ml/gcc/.../msg00158.html", 
+        "cite_name": "GNU Compiler Collection", 
+        "title": "Grigori Fursin - RE: [plugins-ici-cloning-instrumentation] new ..."
+    }, 
+    {
+        "content": "tand, orsay, 91893, france; email: grigori.fursin@unidapt.org or grigori.fursin@inria.fr. permission to make digital or hard copies of part or all of this work for...", 
+        "email_list": [
+            "grigori.fursin@unidapt.org", 
+            "grigori.fursin@inria.fr"
+        ], 
+        "cite_url": "pages.saclay.inria....", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "[PDF]Collective optimization: A practical collaborative ... - Inria"
+    }
+]

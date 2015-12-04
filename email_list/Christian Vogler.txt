@@ -1,0 +1,29 @@
+[
+    {
+        "content": "christian vogler. associate professor and ... verified email at gallaudet.edu. scholar ... l zhao, k kipper, w schuler, c vogler, n badler, m palmer. envisioning...", 
+        "email_list": [
+            "email@gallaudet.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NJL6CzUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Christian Vogler - Google Scholar Citations"
+    }, 
+    {
+        "content": "tel: +49 151 161478 11 fax: +49 9574 81 644. sales manager emea tel: +65 8710 0092 email: christian.vogler@matthey.com tel: +1 514 571 8199 email:...", 
+        "email_list": [
+            "christian.vogler@matthey.com"
+        ], 
+        "cite_url": "www.jmbatterymaterials.com/contact/germany", 
+        "cite_name": "", 
+        "title": "Johnson Matthey Battery Materials - Germany"
+    }, 
+    {
+        "content": "das impressum von psysiotherapie in der engelsburg christian vogler. ... 02361 4073030. telefax: 02361 4900490. e-mail: info@physiotherapie-vogler.de...", 
+        "email_list": [
+            "info@physiotherapie-vogler.de"
+        ], 
+        "cite_url": "www.physiotherapie-vogler.de/impressum/", 
+        "cite_name": "", 
+        "title": "Kontakt - Physiotherapie in der Engelsburg Christian Vogler ..."
+    }
+]

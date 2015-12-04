@@ -1,2 +1,11 @@
-more.minna@utsouthwestern.edu	[11]
-minna@utsouthwestern.edu	[11]
+[
+    {
+        "content": "minna@utsouthwestern.edu nci minna john d. ut southwestern medical center 5323 harry hines blvd dallas texas 75390-9105...", 
+        "email_addr_list": [
+            "minna@utsouthwestern.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-minna-utsouthwestern-edu-1150...", 
+        "cite_name": "", 
+        "title": "minna@utsouthwestern.edu - The Email Archive"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cagnoni stefano. mail di ateneo: stefano.cagnoni@unipr.it. telefono: +39 0521 905731. sito web: http://www.ce.unipr.it/people/cagnoni. fax: +39...", 
+        "email_list": [
+            "stefano.cagnoni@unipr.it"
+        ], 
+        "cite_url": "www.unipr.it/ugov/person/16857", 
+        "cite_name": "", 
+        "title": "CAGNONI Stefano | Università degli Studi di Parma"
+    }, 
+    {
+        "content": "create alert. cancel. stefano cagnoni. university of parma. verified email at ce.unipr.it ... s cagnoni, ab dobrzeniecki, r poli, jc yanch. image and vision...", 
+        "email_list": [
+            "email@ce.unipr.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NNC4BZ4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stefano Cagnoni - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 1, 2015 - slide 1 stefano cagnoni dip. ingegneria dellinformazione parco area delle scienze 181a 43100 parma email: cagnoni@ce.unipr.it tel.", 
+        "email_list": [
+            "cagnoni@ce.unipr.it"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Stefano Cagnoni Dip. Ingegneria dellInformazione Parco ..."
+    }
+]

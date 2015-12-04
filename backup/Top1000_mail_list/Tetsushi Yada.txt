@@ -1,2 +1,20 @@
-yt@i.kyoto-u.ac.jp	[3]
-ichinose@i.kyoto-u.ac.jp	[1]
+[
+    {
+        "content": "email: yt@i.kyoto-u.ac.jp ... t. yada, y. totoki, y. takaeda, y. sakaki, and t. takagi. ... k. ohshima, m. hattori, t. yada, t. gojobori, y. sakaki, and n. okada.", 
+        "email_addr_list": [
+            "yt@i.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "www.genome.ist.i.kyoto-u.ac.jp/cv/yada.jpn.html", 
+        "cite_name": "", 
+        "title": "Tetsushi Yada (Japanese)"
+    }, 
+    {
+        "content": "showing 1 - 20 of 33 for search: yada, tetsushi, query time: 0.48s. results per ... authors: ichinose, natsuhiro1 ichinose@i.kyoto-u.ac.jp, yada, tetsushi2, gotoh, osamu3 ..... search tools: get rss feed — email this search — save search...", 
+        "email_addr_list": [
+            "ichinose@i.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "https://catalog.vsc.edu/lscfind/EDS/Search?...Yada%2C+Tetsushitype...", 
+        "cite_name": "", 
+        "title": "Search Results - Yada, Tetsushi - Catalog"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: d.paterson1@uq.edu.au. david l. paterson is a professor of medicine at the university of queensland centre for clinical research (uqccr). he is also...", 
+        "email_list": [
+            "d.paterson1@uq.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Queensland", 
+        "title": "UQCCR - Professor David Paterson"
+    }, 
+    {
+        "content": "professor. david patterson. david patterson. office: sg mudd 103. office phone: (303) 871-5650. email: david.patterson@du.edu...", 
+        "email_list": [
+            "david.patterson@du.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Denver", 
+        "title": "David Patterson - University of Denver"
+    }, 
+    {
+        "content": "email: david.patterson@utdallas.edu. areas of specialization: holocaust, anti-semtism, jewish literature, jewish history, modern jewish thought. education:", 
+        "email_list": [
+            "david.patterson@utdallas.edu"
+        ], 
+        "cite_url": "https://www.utdallas.edu/.../faculty_detail.ph...", 
+        "cite_name": "University of Texas at Dallas", 
+        "title": "David Patterson - Faculty - School of Arts and Humanities ..."
+    }, 
+    {
+        "content": "photo of david patterson. david patterson, phd ... of liberal arts; work telephone: 617.287.6988; work email: david.patterson@umb.edu  click to view website.", 
+        "email_list": [
+            "david.patterson@umb.edu"
+        ], 
+        "cite_url": "https://www.umb.edu/.../david_patters...", 
+        "cite_name": "University of Massachusetts Boston", 
+        "title": "David Patterson - University of Massachusetts Boston"
+    }
+]

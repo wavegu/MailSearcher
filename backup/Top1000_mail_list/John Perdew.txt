@@ -1,5 +1,29 @@
-perdew@temple.edufaculty	[13]
-perdew@temple.edu	[13]
-perdew@mailhost.tcs.tulane.edu	[13]
-perdew@temple.missing	[13]
-email at temple.edu	[2]
+[
+    {
+        "content": "faculty. john p. perdew, ph.d. research professor laura h. carnell professor of physics and chemistry, temple university. email: perdew@temple.edu", 
+        "email_addr_list": [
+            "perdew@temple.edu"
+        ], 
+        "cite_url": "https://tulane.edu/sse/pep/faculty.../john-perdew.cfm", 
+        "cite_name": "Tulane University", 
+        "title": "John P. Perdew - Tulane University"
+    }, 
+    {
+        "content": "john p. perdew. professor of physics, temple ... verified email at temple.edu. scholar. get my own ... jp perdew, k burke, m ernzerhof. physical review letters...", 
+        "email_addr_list": [
+            "email@temple.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tdUYk60AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John P. Perdew - Google Scholar Citations"
+    }, 
+    {
+        "content": "john p. perdew. perdew. professor of physics, tulane university, new orleans, la 70118 usa. email:perdew@mailhost.tcs.tulane.edu. www: external link...", 
+        "email_addr_list": [
+            "perdew@mailhost.tcs.tulane.edu"
+        ], 
+        "cite_url": "www.iaqms.org/members/perdew.php", 
+        "cite_name": "", 
+        "title": "John P. Perdew - International Academy of Quantum ..."
+    }
+]

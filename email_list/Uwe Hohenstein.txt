@@ -1,0 +1,29 @@
+[
+    {
+        "content": "d-18051 rostock germany email: heuer@informatik.uni-rostock.de tel.: +49-381-498-34 01 fax.: +49-381-498-34 26. uwe hohenstein siemens ag - muenchen", 
+        "email_list": [
+            "heuer@informatik.uni-rostock.de"
+        ], 
+        "cite_url": "dbis.informatik.uni-rostock.de/lehrstuhl/workshops/dagstuhl_96/", 
+        "cite_name": "", 
+        "title": "Datenbank- und Informationssysteme: Dagstuhl 96"
+    }, 
+    {
+        "content": "jul 10, 2013 - ... (düsseldorf) gesprochen habe, möge mir bitte seine email-adresse schicken. mail an uwe.hohenstein at yahoo.de . grüße uwe hohenstein...", 
+        "email_list": [
+            "uwe.hohenstein@yahoo.de"
+        ], 
+        "cite_url": "https://mailman.freifunk-rheinland.net/pipermail/.../00...", 
+        "cite_name": "", 
+        "title": "[FFRL] Hallo Jürgen! EMail? - Freifunk Rheinland e.V."
+    }, 
+    {
+        "content": "uwe hoff landesgruppe hessen der. cdu/csu-bundestagsfraktion ... email: michael.brand@bundestag.de. webseite: .... 65329 hohenstein-holzhausen tel.", 
+        "email_list": [
+            "michael.brand@bundestag.de"
+        ], 
+        "cite_url": "www.cdu-landesgruppe-hessen.de/inhalte/.../index.ht...", 
+        "cite_name": "", 
+        "title": "CDU Landesgruppe Hessen - KONTAKT"
+    }
+]

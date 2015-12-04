@@ -1,7 +1,56 @@
-v.ravikumar@ncl.res.in	[19]
-rkumar@ntu.edu.sg	[12]
-rkumar@ntu.edu.sgr	[12]
-ravi.k53@gmail.com	[10]
-ravik262@gmail.com	[10]
-rrk@iimb.ernet.in	[3]
-sales@ravikumardistilleries.com	[1]
+[
+    {
+        "content": "academic profile. prof k ravi kumar. dean, college of business (nanyang business school) college deans office. email: rkumar@ntu.edu.sg", 
+        "email_addr_list": [
+            "rkumar@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Prof K Ravi Kumar"
+    }, 
+    {
+        "content": "r ravi kumar print bio. organizational behaviour  human resources management. professor. e-mail: rrk@iimb.ernet.in. prior to his joining iimb in 1986,...", 
+        "email_addr_list": [
+            "rrk@iimb.ernet.in"
+        ], 
+        "cite_url": "www.iimb.ernet.in/.../r-ravi-ku...", 
+        "cite_name": "Indian Institute of Management Bangalore", 
+        "title": "R Ravi Kumar | Indian Institute of Management Bangalore"
+    }, 
+    {
+        "content": "view ravi kumar (ravik262@gmail.com)s (india) professional profile on linkedin. linkedin is the worlds largest business network, helping professionals like...", 
+        "email_addr_list": [
+            "ravik262@gmail.com"
+        ], 
+        "cite_url": "https://in.linkedin.com/pub/ravi-kumar-ravik262-gmail-com/38/.../149", 
+        "cite_name": "", 
+        "title": "Ravi Kumar (ravik262@gmail.com) | LinkedIn"
+    }, 
+    {
+        "content": "ravi kumar. senior staff research scientist. google. mountain view, ca. email: ravi.k53@gmail.com. phone: (408) 718 1108. interests: web and data mining,...", 
+        "email_addr_list": [
+            "ravi.k53@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/ravik53/cv", 
+        "cite_name": "", 
+        "title": "Ravi Kumar - Ravi Kumar - Sites - Google"
+    }, 
+    {
+        "content": "name: dr. v. ravi kumar. division: chemical engineering and process. development division. email: v.ravikumar@ncl.res.in. phone: 020-2590-2161. fax:.", 
+        "email_addr_list": [
+            "v.ravikumar@ncl.res.in"
+        ], 
+        "cite_url": "www.ncl-india.org/.../Ravi_Kumar.pdf", 
+        "cite_name": "National Chemical Laboratory", 
+        "title": "[PDF]Dr. Ravi Kumar - National Chemical Laboratory"
+    }, 
+    {
+        "content": "for information on any of our services and products kindly contact sales@ravikumardistilleries.com and mail your communications to our corporate office at...", 
+        "email_addr_list": [
+            "sales@ravikumardistilleries.com"
+        ], 
+        "cite_url": "www.ravikumardistilleries.com/contactus.html", 
+        "cite_name": "", 
+        "title": "Contact Us - Welcome to Ravikumar Distillieries Limited"
+    }
+]

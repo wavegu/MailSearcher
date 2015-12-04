@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. ansley post. google  systems, networking, storage. verified email at google.com ... a mislove, g oberoi, a post, c reis, p druschel, ds wallach.", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ov02lMQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ansley Post - Google Scholar Citations"
+    }, 
+    {
+        "content": "room number 627. d-66123 saarbruecken germany. office: room number 627, mpii. phone: +49 681 9325-693. email: abpost@rice.edu...", 
+        "email_list": [
+            "abpost@rice.edu"
+        ], 
+        "cite_url": "www.mpi-sws.org/~abpost/", 
+        "cite_name": "", 
+        "title": "Ansley Post, Rice University/MPI-SWS"
+    }, 
+    {
+        "content": "reprinted from internet webpage from: bill ansley subject: re: ansley name date: sun, 03 may 1998 18:30:46. ... ansley, nebraska, united states postal service zip code is 68814 [sourcepsz] ... mail to: bansley-camden@worldnet.att.net", 
+        "email_list": [
+            "bansley-camden@worldnet.att.net"
+        ], 
+        "cite_url": "www.ansleyne.com/ansley-l-archives/", 
+        "cite_name": "", 
+        "title": "ANSLEY-L Archives | Village of Ansley, NE"
+    }
+]

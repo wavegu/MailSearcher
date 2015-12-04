@@ -1,0 +1,29 @@
+[
+    {
+        "content": "christopher m brown ... chris brown joins us as an acls fellow and is currently at work on his first book project, ... cmb4@princeton.edu (link sends e-mail).", 
+        "email_list": [
+            "cmb4@princeton.edu"
+        ], 
+        "cite_url": "https://english.princeton.edu/.../christopher-michael-...", 
+        "cite_name": "Princeton University", 
+        "title": "Christopher Michael Brown | Department of English"
+    }, 
+    {
+        "content": "the latest tweets from christopher m brown (@notthatbreezy). software developer at @azavea ... fire us an email at hello@sparkgeo.com. unmute @maptiks", 
+        "email_list": [
+            "hello@sparkgeo.com"
+        ], 
+        "cite_url": "https://twitter.com/notthatbreezy", 
+        "cite_name": "", 
+        "title": "Christopher M Brown (@NotThatBreezy) | Twitter"
+    }, 
+    {
+        "content": "64 3 479-5201; fax: 64 3 479-7866; email:chris.brown@otago.ac.nz .... waugh, e. chen, a. baird, m. fleming, s. brown, c.m. and v k. ward (2014)...", 
+        "email_list": [
+            "chris.brown@otago.ac.nz"
+        ], 
+        "cite_url": "biochem.otago.ac.nz/our-people/.../chris-brown/", 
+        "cite_name": "University of Otago", 
+        "title": "Dr Chris Brown » Department of Biochemistry, University of ..."
+    }
+]

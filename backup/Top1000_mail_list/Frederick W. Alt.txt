@@ -1,2 +1,11 @@
-alt@rascal.med.harvard.edu	[7]
-alt@enders.tch.harvard.edu	[7]
+[
+    {
+        "content": "correspondence to: frederick w. alt correspondence and requests for materials should be addressed to f.w.a. (e-mail: email: alt@rascal.med.harvard.edu).", 
+        "email_addr_list": [
+            "alt@rascal.med.harvard.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Naturewww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Interplay of p53 and DNA-repair protein XRCC4 in ...Google Business Email‎Searches related to Frederick W. Alt email"
+    }
+]

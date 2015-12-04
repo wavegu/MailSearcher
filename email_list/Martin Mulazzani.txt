@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. martin schmiedecker (mulazzani) ... verified email at sba-research.org - homepage ... m mulazzani, s schrittwieser, m leithner, m huber, e weippl.", 
+        "email_list": [
+            "email@sba-research.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tnqZ_EEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Martin Schmiedecker (Mulazzani) - Google Scholar Citations"
+    }
+]

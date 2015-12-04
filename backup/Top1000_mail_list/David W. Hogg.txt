@@ -1,3 +1,20 @@
-david.hogg@nyu.edu	[19]
-email at nyu.edu	[2]
-ude.uyn@ggoh.divad	[2]
+[
+    {
+        "content": "email: ude.uyn@ggoh.divad telephone: [send me email] fax: +1 212 995 4903. nyu ccpp assistant: lynn denesopolis nyu ccpp assistant telephone: +1 212...", 
+        "email_addr_list": [
+            "ude.uyn@ggoh.divad"
+        ], 
+        "cite_url": "cosmo.nyu.edu/hogg/contact.html", 
+        "cite_name": "New York University", 
+        "title": "David W. Hogg / contact - CCPP - New York University"
+    }, 
+    {
+        "content": "david w hogg. new york university ... verified email at nyu.edu - homepage  scholar ... dj eisenstein, i zehavi, dw hogg, r scoccimarro, mr blanton, .", 
+        "email_addr_list": [
+            "email@nyu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hcmW-W0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "David W Hogg - Google Scholar Citations"
+    }
+]

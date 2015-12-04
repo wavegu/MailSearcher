@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jul 14, 2014 - institution, (menesr). location, jules verne (insa). e-mail, jean-michel.jolion at liris.cnrs.fr. url, http://rfv.insa-lyon.fr/~jolion...", 
+        "email_list": [
+            "jean-michel.jolion@liris.cnrs.fr"
+        ], 
+        "cite_url": "https://liris....", 
+        "cite_name": "Centre national de la recherche scientifique", 
+        "title": "Jolion Jean-Michel - membres — LIRIS - CNRS"
+    }, 
+    {
+        "content": "jean-michel jolion. ministère de lenseignement ... fondation pour luniversité de lyon 210 avenue jean jaurès 69007 lyon email : jeco@fpul-lyon.org...", 
+        "email_list": [
+            "jeco@fpul-lyon.org"
+        ], 
+        "cite_url": "www.journeeseconomie.org/index.php?arc=p4...35", 
+        "cite_name": "", 
+        "title": "Jean-Michel Jolion - Journées de léconomie : Les personnes"
+    }
+]

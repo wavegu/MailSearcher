@@ -1,0 +1,57 @@
+[
+    {
+        "content": "email: lig at sci dot utah dot edu ... please contact me at liguoshi at gmail dot com. ... guo-shi li, xavier tricoche, daniel weiskopf, and charles hansen.", 
+        "email_list": [
+            "lig@sci.utah.edu", 
+            "liguoshi@gmail.com"
+        ], 
+        "cite_url": "www.cs.utah.edu/~lig/", 
+        "cite_name": "University of Utah", 
+        "title": "Guo-Shi Li - School of Computing - University of Utah"
+    }, 
+    {
+        "content": "dr. shiguo sun, dr. liqiu wang, dr. hongyang li, dr. yunling gao ..... the research and application of fluorescent sio2 nanoparticle; email: k_ninghf@163.com.", 
+        "email_list": [
+            "k_ninghf@163.com"
+        ], 
+        "cite_url": "finechem.dlut.edu.cn/peng/en/group_members/index.html?lightBox...", 
+        "cite_name": "", 
+        "title": "Group Member - 精细化工国家重点实验室 - 大连理工大学"
+    }, 
+    {
+        "content": "verified email at ynu.ac.jp - homepage  scholar. get my own ... s guo, z du, s zhang, d li, z li, y deng ... x cui, s zhang, f shi, q zhang, x ma, l lu, y deng.", 
+        "email_list": [
+            "email@ynu.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com.hk/citations?user=UPI4PuEAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Shiguo Zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 27, 2012 - email: lishi006@sioc.ac.cn ... li, shi; qu, hongmei; zhou, lishan; kanno, ken-ichiro; guo, qiaoxia; shen, baojian; takahashi, tamotsu*...", 
+        "email_list": [
+            "lishi006@sioc.ac.cn"
+        ], 
+        "cite_url": "english.lomc.sioc.cas.cn/People/kygg/201204/t20120427_84380.html", 
+        "cite_name": "", 
+        "title": "Li, Shi----State Key Laboratory of Organometallic Chemistry ..."
+    }, 
+    {
+        "content": "prof guo zhongshi (steve) received his ba in english and english literature from beijing ... email: guo@hkbu.edu.hk .... in lee becker  josephi beate (eds.)...", 
+        "email_list": [
+            "guo@hkbu.edu.hk"
+        ], 
+        "cite_url": "journalism.hkbu.edu.hk/staff/drGuo.php", 
+        "cite_name": "Hong Kong Baptist University", 
+        "title": "Prof. GUO Zhongshi (Steve) - Department of Journalism ..."
+    }, 
+    {
+        "content": "li-shi luo (罗礼诗). old dominion university  computational physics and ... verified email at odu.edu - homepage  scholar. get my own profile. google scholar...", 
+        "email_list": [
+            "email@odu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eGjACTQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Li-Shi Luo (罗礼诗) - Google Scholar Citations"
+    }
+]

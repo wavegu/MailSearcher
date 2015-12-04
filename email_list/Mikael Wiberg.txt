@@ -1,0 +1,29 @@
+[
+    {
+        "content": "mikael wiberg. title: professor/consultant hand surgeon e-mail: mikael.pj.wiberg@umu.se. phone: +46 90 786 50 24. address: dept. of integrative medical...", 
+        "email_list": [
+            "mikael.pj.wiberg@umu.se"
+        ], 
+        "cite_url": "www.imb.umu.se/english/research/.../mikael-wiberg/", 
+        "cite_name": "Umeå University", 
+        "title": "Mikael Wiberg - Department of Integrative Medical Biology ..."
+    }, 
+    {
+        "content": "mikael wiberg ... verified email at informatik.umu.se - homepage ... m wiberg. system sciences, 2001. proceedings of the 34th annual hawaii international ...,...", 
+        "email_list": [
+            "email@informatik.umu.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WD5iXagAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mikael Wiberg - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail micke.wiberg@gmail.com. utbildning. teknisk officersutbildning vid lvohs/ts (rms) i göteborg (3 år). tekniskt gymnasium (4 år) el-teleteknisk linje.", 
+        "email_list": [
+            "micke.wiberg@gmail.com"
+        ], 
+        "cite_url": "www.ide-sthlm.se/.../Mikael-Wiberg-konsultprofil-SV...", 
+        "cite_name": "", 
+        "title": "[PDF]Mikael Wiberg konsultprofil SVE - Industrial Design and ..."
+    }
+]

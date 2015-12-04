@@ -1,0 +1,30 @@
+[
+    {
+        "content": "sep 7, 2005 - kyungsook han. school of ... e-mail : khan@inha.ac.kr. homepage ... bioinformatics, graphics. e-mail. quaah@hanmail.net. phone. 017-564-...", 
+        "email_list": [
+            "khan@inha.ac.kr", 
+            "quaah@hanmail.net"
+        ], 
+        "cite_url": "wilab.inha.ac.kr/member.htm", 
+        "cite_name": "Inha University", 
+        "title": "Prof. Kyungsook Han"
+    }, 
+    {
+        "content": "mar 18, 2014 - maintainer, kyungsook han. email, khan at inha.ac.kr. article, (byun and han, 2009) pseudoviewer3: generating planar drawings of...", 
+        "email_list": [
+            "khan@inha.ac.kr"
+        ], 
+        "cite_url": "omictools.com/pseudoviewer-s4139.html", 
+        "cite_name": "", 
+        "title": "PseudoViewer - OMICtools"
+    }, 
+    {
+        "content": "name and title: kyungsook han, phd. affiliation and title: inha university, ... contact e-mail: khan@inha.ac.kr. contact phone (optional). 2. manuscript...", 
+        "email_list": [
+            "khan@inha.ac.kr"
+        ], 
+        "cite_url": "www.ibc7.org/article/file_down.php?pid=39mode=view_pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Kyungsook Han - Interdisciplinary Bio Central"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "view anshul guptas (india) professional profile on linkedin. linkedin is the worlds ... we are hiring for multiple roles, write to me at anshul@box8.in. location...", 
+        "email_list": [
+            "anshul@box8.in"
+        ], 
+        "cite_url": "https://in.linkedin.com/pub/anshul-gupta/21/893/b7", 
+        "cite_name": "", 
+        "title": "Anshul Gupta | LinkedIn"
+    }, 
+    {
+        "content": "create alert. cancel. anshul gupta ... verified email at astrazeneca.com. scholar ... pm stewart, a gupta, mc sheppard, cb whorwood, aj howie, dv milford, .", 
+        "email_list": [
+            "email@astrazeneca.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LOLsytQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anshul Gupta - Google Scholar Citations"
+    }, 
+    {
+        "content": "contact information. email: guptaa @cse dot tamu dot edu ; anshulg@neo.tamu.edu. personal ... anshul gupta, manisha srivastava and chitralekha mahanta.", 
+        "email_list": [
+            "anshulg@neo.tamu.edu"
+        ], 
+        "cite_url": "psi.cse.tamu.edu/people/anshul-gupta/", 
+        "cite_name": "Texas AM University", 
+        "title": "Anshul Gupta - Perception, Sensing  Instrumentation lab"
+    }
+]

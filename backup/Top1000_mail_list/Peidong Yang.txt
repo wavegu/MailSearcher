@@ -1,1 +1,11 @@
-yang@berkeley.edu	[9]
+[
+    {
+        "content": "s.k. and angela chan distinguished professor of energy professor of chemistry. email: p_yang@berkeley.edu (link sends e-mail) office: 239 hildebrand hall", 
+        "email_addr_list": [
+            "p_yang@berkeley.edu"
+        ], 
+        "cite_url": "chemistry.berkeley.edu  ...  Faculty", 
+        "cite_name": "UC Berkeley College of Chemistry", 
+        "title": "Peidong Yang | College of Chemistry"
+    }
+]

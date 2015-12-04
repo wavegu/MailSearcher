@@ -1,5 +1,47 @@
-john.carroll@lamar.edu	[23]
-jmcarrollhealer@icloud.com	[17]
-jcarroll@hkucc.hku.hk	[16]
-email at psu.edu	[2]
-hello@interaction-design.org	[1]
+[
+    {
+        "content": "john m. carroll, ph.d. department: history. email: john.carroll@lamar.edu. research interests: sports, u.s. military. appropriate majors: history. member texas...", 
+        "email_addr_list": [
+            "john.carroll@lamar.edu"
+        ], 
+        "cite_url": "www.lamar.edu  ...  History  John-m.-carroll,-ph.d.", 
+        "cite_name": "Lamar University", 
+        "title": "John M. Carroll, Ph.D. - Lamar University"
+    }, 
+    {
+        "content": "john m. carroll. distinguished professor of ... verified email at psu.edu - homepage  scholar ... jm carroll, dc neale, pl isenhour, mb rosson, ds mccrickard.", 
+        "email_addr_list": [
+            "email@psu.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "John M. Carroll - Google Scholar Citations"
+    }, 
+    {
+        "content": "john m. carroll is edward frymoyer chair professor of information sciences and .... diaz, paloma, rosson, mary beth, aedo, ignacio, carroll, john m. (2009): web ...... send us an email at hello@interaction-design.org or through our online...", 
+        "email_addr_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/john-m-carroll", 
+        "cite_name": "", 
+        "title": "John M. Carroll - Interaction Design Foundation"
+    }, 
+    {
+        "content": "john m. carroll ~ healer, teacher, spiritual counselor ... kingston, ny 12401 845-338-8420 -. e-mail your question to john ~ jmcarrollhealer@icloud.com...", 
+        "email_addr_list": [
+            "jmcarrollhealer@icloud.com"
+        ], 
+        "cite_url": "www.johnmcarrollhealer.com/contact.html", 
+        "cite_name": "", 
+        "title": "Contact John - John Carroll - Healer and Spiritual Guide"
+    }, 
+    {
+        "content": "professor john carroll ... british in pre-opium war canton, in robert bickers and jon howlett, eds., britain and china: empire, ... e-mail: jcarroll@hkucc.hku.hk", 
+        "email_addr_list": [
+            "jcarroll@hkucc.hku.hk"
+        ], 
+        "cite_url": "www.history.hku.hk/.../staff-john-carroll.htmlwww.google.com/emailwww.spokeo.com/John.Email.Search.Free", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Professor John Carroll - History Department - University of ...Google Business Email‎Found: Johns Email - Lookup Johns Email Address‎"
+    }
+]

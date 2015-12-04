@@ -1,1 +1,11 @@
-s.djankov@lse.ac.uk	[16]
+[
+    {
+        "content": "first name: simeon. middle name: last name: djankov. suffix: repec short-id: pdj4. email: s.djankov@lse.ac.uk. homepage: postal address: 14 curzon street...", 
+        "email_addr_list": [
+            "s.djankov@lse.ac.uk"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pdj4.html", 
+        "cite_name": "", 
+        "title": "Simeon Djankov at IDEAS"
+    }
+]

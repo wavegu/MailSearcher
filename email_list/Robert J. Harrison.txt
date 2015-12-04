@@ -1,0 +1,38 @@
+[
+    {
+        "content": "robert j. harrison ... email. robert.harrison@stonybrook.edu ... dr. harrison comes to stony brook from the university of tennessee knoxville and oak ridge...", 
+        "email_list": [
+            "robert.harrison@stonybrook.edu"
+        ], 
+        "cite_url": "www.iacs.stonybrook.edu/.../robert-j-harrison", 
+        "cite_name": "Stony Brook University", 
+        "title": "Robert J. Harrison | Institute for Advanced Computational ..."
+    }, 
+    {
+        "content": "robert j. harrison ... email. robert.harrison@stonybrook.edu. professor robert harrison is a distinguished expert in high-performance computing. through a...", 
+        "email_list": [
+            "robert.harrison@stonybrook.edu"
+        ], 
+        "cite_url": "www.ams.sunysb.edu/people/Robert%20J%20Harrison.htm", 
+        "cite_name": "", 
+        "title": "Robert J Harrison.htm"
+    }, 
+    {
+        "content": "robert harrison ... g.i. fann, j.c. pei, r.j. harrison ,j. jia, j.c. hill, m.j. ou, w. nazarewicz, w.a. shelton and n. schunck, fast ... email: rharrison@bnl.gov.", 
+        "email_list": [
+            "rharrison@bnl.gov"
+        ], 
+        "cite_url": "https://www.bnl.gov/.../Harrison-Robert...", 
+        "cite_name": "Brookhaven National Laboratory", 
+        "title": "Robert Harrison | BNL - Brookhaven National Laboratory"
+    }, 
+    {
+        "content": "lowndes  harrison,toronto, ontario, ... phone: 416-977-8720. fax: 416-974-9099. email: info@lowndesharrison.com. listed individuals. robert j. harrison...", 
+        "email_list": [
+            "info@lowndesharrison.com"
+        ], 
+        "cite_url": "www.canadianlawlist.com/listingdetail/.../lowndes-and-harrison-687051/", 
+        "cite_name": "", 
+        "title": "Lowndes  Harrison - Canadian Law List - Listing Detail"
+    }
+]

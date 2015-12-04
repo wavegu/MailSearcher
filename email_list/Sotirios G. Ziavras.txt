@@ -1,0 +1,48 @@
+[
+    {
+        "content": "ziavras, sotirios g. ... email: sotirios.g.ziavras@njit.edu. office: fenster hall 145. phone ... njit newsroom tagged with sotirios g. ziavras  no stories...", 
+        "email_list": [
+            "sotirios.g.ziavras@njit.edu"
+        ], 
+        "cite_url": "ece.njit.edu/people/ziavras.php", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "NJIT: Electrical and Computer Engineering: Sotirios G. Ziavras"
+    }, 
+    {
+        "content": "sotirios g. ziavras, d.sc. associate provost for graduate studies professor of electrical and computer engineering 973-596-3462 ziavras@njit.edu. sotirios...", 
+        "email_list": [
+            "ziavras@njit.edu"
+        ], 
+        "cite_url": "www5.njit.edu/.../contact.php", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "Contact the Office of Graduate Studies | Graduate Studies"
+    }, 
+    {
+        "content": "contact: phone: 979-845-7981 (office) e-mail: hasan@entc.tamu.edu references - professor sotirios g. ziavras (ziavras@njit.edu 1-973-596-5651) ece...", 
+        "email_list": [
+            "hasan@entc.tamu.edu", 
+            "ziavras@njit.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-ziavras-njit-edu-4261166.htm", 
+        "cite_name": "", 
+        "title": "ziavras@njit.edu - The Email Archive"
+    }, 
+    {
+        "content": "started by ziavras ○november 8, 2004 ... please, email your cv to ziavras@adm.njit.edu ========================================= sotirios g. ziavras professor department of electrical and computer engineering new jersey...", 
+        "email_list": [
+            "ziavras@adm.njit.edu"
+        ], 
+        "cite_url": "www.fpgarelated.com/showthread/comp.arch.fpga/15651-1.php", 
+        "cite_name": "", 
+        "title": "comp.arch.fpga | Postdoctoral position available"
+    }, 
+    {
+        "content": "by sotirios ziavras in parallel processing and paralell computing. ... on fpga-based machines* xiaofang wang and sotirios g. ziavras department of ... usa email: ziavras@njit.edu abstract the efficient solution of large systems of linear...", 
+        "email_list": [
+            "ziavras@njit.edu"
+        ], 
+        "cite_url": "www.academia.edu/.../Parallel_Direct_Solution_of_Linear...", 
+        "cite_name": "Academia.edu", 
+        "title": "Parallel Direct Solution of Linear Equations on FPGA-Based ..."
+    }
+]

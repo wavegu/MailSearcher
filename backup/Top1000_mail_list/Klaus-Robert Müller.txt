@@ -1,3 +1,20 @@
-klaus-robert.mueller@tu-berlin.de	[24]
-email at tu-berlin.de	[3]
-gernot.mueller@tugraz.at	[3]
+[
+    {
+        "content": "klaus-robert müller. professor for machine learning, ... verified email at tu-berlin.de. scholar. get my own ... kr muller, s mika, g ratsch, k tsuda, b scholkopf.", 
+        "email_addr_list": [
+            "email@tu-berlin.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jplQac8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Klaus-Robert Müller - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: gernot.mueller@tugraz.at tel: +43 316 ... gernot müller-putz, robert leeb, michael tangermann, johannes höhne, andrea kübler, febo cincotti, donatella mattia, rüdiger rupp, klaus-robert müller, josé del r. millán. january 2015", 
+        "email_addr_list": [
+            "gernot.mueller@tugraz.at"
+        ], 
+        "cite_url": "https://bci.tugraz.at/people/people/gernot-mueller-putz", 
+        "cite_name": "", 
+        "title": "Gernot Mueller-Putz - Brain-Computer Interaction"
+    }
+]

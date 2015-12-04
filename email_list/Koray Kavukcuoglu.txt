@@ -1,0 +1,20 @@
+[
+    {
+        "content": "koray kavukcuoglu. researcher ... verified email at kavukcuoglu.org - homepage ... k kavukcuoglu, p sermanet, yl boureau, k gregor, m mathieu, yl cun.", 
+        "email_list": [
+            "email@kavukcuoglu.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sGFyDIUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "koray kavukcuoglu - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: vmnih at cs dot toronto dot edu ... volodymyr mnih, koray kavukcuoglu, david silver, andrei a. rusu, joel veness, marc g. bellemare, alex graves,...", 
+        "email_list": [
+            "vmnih@cs.toronto.edu"
+        ], 
+        "cite_url": "https://www.cs.toronto.edu/~vmnih/", 
+        "cite_name": "", 
+        "title": "Vlad Mnih"
+    }
+]

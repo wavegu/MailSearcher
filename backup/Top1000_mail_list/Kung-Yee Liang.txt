@@ -1,2 +1,20 @@
-kyliang@nhri.org.tw	[13]
-president@ym.edu.tw	[1]
+[
+    {
+        "content": "president, dr.kung-yee liang. president pic. contact. tel. +886-02-28267001. fax. +886-02-28250936. e-mail. president@ym.edu.tw. add. president office...", 
+        "email_addr_list": [
+            "president@ym.edu.tw"
+        ], 
+        "cite_url": "nymu-e.web.ym.edu.tw/.../ptdetail.phtml...", 
+        "cite_name": "National Yang‑Ming University", 
+        "title": "Kung-Yee Liang - National Yang-Ming University"
+    }, 
+    {
+        "content": "name, kung-yee liang ... e-mail, kyliang@nhri.org.tw. course info ..... beaty th, self sg, liang ky, connolly ma, chase ga, kwiterovich p0 (1985). use of...", 
+        "email_addr_list": [
+            "kyliang@nhri.org.tw"
+        ], 
+        "cite_url": "www.stat.nthu.edu.tw/EngWeb/Teachers/liang_e.htm", 
+        "cite_name": "", 
+        "title": "KUNG-YEE LIANG PROFESSOR"
+    }
+]

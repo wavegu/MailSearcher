@@ -1,5 +1,29 @@
-lorenzomoretta@ospedalegaslini.ge.it	[29]
-moretta at ermes.cba.unige.it	[15]
-milan@fondazione-menarini.it	[3]
-claudio.schneider@lncib.it	[2]
-angela.volpe@avec-eventi.com	[2]
+[
+    {
+        "content": "email: lorenzomoretta@ospedalegaslini.ge.it. laboratory: how many students and postdocs: 1215. a word with the speakers: lorenzo moretta. question: what...", 
+        "email_addr_list": [
+            "lorenzomoretta@ospedalegaslini.ge.it"
+        ], 
+        "cite_url": "www.enii.org/upload/doc/doc46ea9b008fa36.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Profile Lorenzo Moretta - enii.org"
+    }, 
+    {
+        "content": "email: claudio.schneider@lncib.it. segreteria ... dimenticato? home  consorzio (sedi e unità operative)  genova moretta lorenzo. moretta lorenzo, stampa...", 
+        "email_addr_list": [
+            "claudio.schneider@lncib.it"
+        ], 
+        "cite_url": "www.cibiotech.it  ...  GENOVA", 
+        "cite_name": "", 
+        "title": "Moretta Lorenzo"
+    }, 
+    {
+        "content": "email: moretta at ermes.cba.unige.it. membership number: 993. main country of residence: italy. section: cell biology. username: lmoretta...", 
+        "email_addr_list": [
+            "moretta@ermes.cba.unige.it"
+        ], 
+        "cite_url": "www.ae-info.org  Home  User", 
+        "cite_name": "", 
+        "title": "Academy of Europe: Moretta Lorenzo"
+    }
+]

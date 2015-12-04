@@ -1,9 +1,57 @@
-weihong36@hotmail.com	[15]
-weihong36@hotmail.comeditorial	[15]
-whtan@unimap.edu.my	[8]
-tan@chem.ufl.edu	[7]
-webmaster@chem.ufl.edu	[3]
-email at chem.ufl.edu	[2]
-ccxzb@hnu.edu.cn	[1]
-ccxzb@hnu.edu.cnchemistry	[1]
-eic@anchem.acs.org	[1]
+[
+    {
+        "content": "weihong tan. university of florida or hunan ... verified email at chem.ufl.edu - homepage  scholar ... s santra, p zhang, k wang, r tapec, w tan. analytical...", 
+        "email_addr_list": [
+            "email@chem.ufl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YbFm7zcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Weihong Tan - Google Scholar Citations"
+    }, 
+    {
+        "content": "for questions or comments about this website, e-mail the webmaster@chem.ufl.edu. for questions regarding admissions requirements or status, please visit our...", 
+        "email_addr_list": [
+            "webmaster@chem.ufl.edu"
+        ], 
+        "cite_url": "www.chem.ufl.edu/research/facultypage.shtml", 
+        "cite_name": "University of Florida", 
+        "title": "Chemistry Department - University of Florida - Department of ..."
+    }, 
+    {
+        "content": "... chaoling du, emir yasun, weihong tan,* using silver nanowire antennas to ... kwame sefah, zhi zhu and weihong tan*, engineering polymeric aptamers for ... university,changsha,china fax:+86-731-88713642 email:ccxzb@hnu.edu.cn", 
+        "email_addr_list": [
+            "ccxzb@hnu.edu.cn"
+        ], 
+        "cite_url": "cc.hnu.cn/index.php?id=121option=com...", 
+        "cite_name": "", 
+        "title": "湖南大学化学化工学院- 谭蔚泓"
+    }, 
+    {
+        "content": "tan weihong, college of chemistry and chemical engineering, analytical ... analysis and molecular biology, tel: 0731－88821566 e-mail: tan@chem.ufl.edu.", 
+        "email_addr_list": [
+            "tan@chem.ufl.edu"
+        ], 
+        "cite_url": "www-en.hnu.edu.cn  ...  Doctoral Supervisors", 
+        "cite_name": "Hunan University", 
+        "title": "Chemistry-HNU - Hunan University"
+    }, 
+    {
+        "content": "dr. tan wei hong is a senior lecturer under the programme of mechanical engineering, school of ... email : whtan@unimap.edu.my / weihong36@hotmail.com", 
+        "email_addr_list": [
+            "whtan@unimap.edu.my", 
+            "weihong36@hotmail.com"
+        ], 
+        "cite_url": "tanweihong.unimap.edu.my/", 
+        "cite_name": "", 
+        "title": "Dr. Tan Wei Hong | Universiti Malaysia Perlis (UniMAP)"
+    }, 
+    {
+        "content": "email eic@anchem.acs.org. eric bakker. university of geneva. hong-yuan chen. nanjing ... weihong tan. university of florida and. hunan university (china).", 
+        "email_addr_list": [
+            "eic@anchem.acs.org"
+        ], 
+        "cite_url": "pubs.acs.org/userimages/.../ancham-eab.pdfwww.google.com/email", 
+        "cite_name": "American Chemical Society", 
+        "title": "Editorial Advisory BoardGoogle Business Email - Custom email for your company‎"
+    }
+]

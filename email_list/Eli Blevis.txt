@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at indiana.edu - homepage  scholar. get my own ... jc mankoff, e blevis, a borning, b friedman, sr fussell, j hasbrouck, ... chi07 extended...", 
+        "email_list": [
+            "email@indiana.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2BK-UYQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Eli Blevis - Google Scholar Citations"
+    }
+]

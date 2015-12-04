@@ -1,9 +1,38 @@
-younan.xia@bme.gatech.edu	[19]
-mayanyun@suda.edu.cnzeng	[2]
-mayanyun@suda.edu.cn	[2]
-zengj@ustc.edu.cn	[1]
-chemdept@chem.wisc.edu.mfr	[1]
-inano@tongji.edu.cnyounan	[1]
-inano@tongji.edu.cn	[1]
-email at bme.gatech.edu	[1]
-chemdept@chem.wisc.edu	[1]
+[
+    {
+        "content": "younan xia. professor. education: b.s. university of science and ... email address. younan.xia@bme.gatech.edu. website: nanocages.com. research areas:.", 
+        "email_addr_list": [
+            "younan.xia@bme.gatech.edu"
+        ], 
+        "cite_url": "www.chemistry.gatech.edu/faculty/xia/", 
+        "cite_name": "Georgia Institute of Technology", 
+        "title": "Younan Xia - School of Chemistry  Biochemistry - Georgia ..."
+    }, 
+    {
+        "content": "younan xia. brock family ... verified email at bme.gatech.edu - homepage  scholar ... y xia, p yang, y sun, y wu, b mayers, b gates, y yin, f kim, h yan.", 
+        "email_addr_list": [
+            "email@bme.gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com.hk/citations?user=3gDWh4gAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Younan Xia - Google Scholar Citations"
+    }, 
+    {
+        "content": "inano hosts professor younan xia at tongji university. professor younan xia, the internationally renowned nanomaterials scientist from department of biomedical engineering, ... tel: +86-021-65988029 email: inano@tongji.edu.cn", 
+        "email_addr_list": [
+            "inano@tongji.edu.cn"
+        ], 
+        "cite_url": "inano.tongji.edu.cn/html/news/09-08-2010.html", 
+        "cite_name": "", 
+        "title": "The Institute for Advanced Materials  Nano ... - iNANO"
+    }, 
+    {
+        "content": "younan xia of washington university, st. louis. wed, 09/15/2010 - 1:28pm — martinze. date: ... phone: 608.262.1483. email: chemdept@chem.wisc.edu", 
+        "email_addr_list": [
+            "chemdept@chem.wisc.edu"
+        ], 
+        "cite_url": "https://www.chem.wisc.edu/.../material...", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Materials Chemistry Seminar presented by Prof. Younan Xia ...Searches related to Younan Xia email"
+    }
+]

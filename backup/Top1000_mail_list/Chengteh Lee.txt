@@ -1,1 +1,11 @@
-c2000lee@aol.com	[8]
+[
+    {
+        "content": "see information and reports about c2000lee@aol.com (chengteh lees e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "c2000lee@aol.com"
+        ], 
+        "cite_url": "spam-report.email/c2000lee/aol.comwww.google.com/email", 
+        "cite_name": "", 
+        "title": "c2000lee@aol.com (Chengteh Lees e-mail) - Spam-Report ...Google Business Email - Custom email for your company‎"
+    }
+]

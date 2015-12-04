@@ -1,0 +1,29 @@
+[
+    {
+        "content": "if you make sure to get a place, it is better to apply sooner. if in doubt, please contact me.,. contact: professor werner dubitzky. - email: w.dubitzky@ulster.ac.uk", 
+        "email_list": [
+            "w.dubitzky@ulster.ac.uk"
+        ], 
+        "cite_url": "biomed.science.ulster.ac.uk/.../Professor-Werner-Dubitz...", 
+        "cite_name": "Ulster University", 
+        "title": "Professor Werner Dubitzky - Nano Systems Biology"
+    }, 
+    {
+        "content": "werner dubitzky. professor of bioinformatics ... verified email at dubitzky.com. scholar ... kd cashman, tr hill, aa cotter, ca boreham, w dubitzky, l murray, .", 
+        "email_list": [
+            "email@dubitzky.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RZ-ncLQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Werner Dubitzky - Google Scholar Citations"
+    }, 
+    {
+        "content": "faculty office: telephone: +44 (0)28 7012 3278. email: science@ulster.ac.uk. course director: prof. werner dubitzky. telephone: +44 (0)28 7012 4478. mobile:.", 
+        "email_list": [
+            "science@ulster.ac.uk"
+        ], 
+        "cite_url": "bioinfo.cipf.es/sites/bioinfo.cipf.es/files/.../2013/.../brochure_93094.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Brochure"
+    }
+]

@@ -1,5 +1,38 @@
-kfaust@uci.edu	[12]
-cflack@cambridge.org	[3]
-cflack@cambridge.org.social	[3]
-academicmarketing@cambridge.edu.au	[2]
-lifenews@life.edu	[2]
+[
+    {
+        "content": "katherine faust department of sociology university of california, irvine irvine, california 92697-5100 kfaust@uci.edu. home  research  classes  other things.", 
+        "email_addr_list": [
+            "kfaust@uci.edu"
+        ], 
+        "cite_url": "www.socsci.uci.edu/~kfaust/faust/", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Katherine Faust"
+    }, 
+    {
+        "content": "faust dr. catherine faust faculty spotlight dept. chair of sport health science  head coach of womens cross country  track ... dr. catherine faust is a faculty member, serves as the department chair of .... e-mail lifenews@life.edu.", 
+        "email_addr_list": [
+            "lifenews@life.edu"
+        ], 
+        "cite_url": "www.life.edu/faces-of-life-dr-catherine-faust/", 
+        "cite_name": "Life University", 
+        "title": "Faces of LIFE: Dr. Catherine Faust - Life University"
+    }, 
+    {
+        "content": "katherine faust, university of south carolina ... in to request access. if you are having problems accessing these resources please email cflack@cambridge.org.", 
+        "email_addr_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../social-network-analys...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Social Network Analysis Methods and Applications"
+    }, 
+    {
+        "content": "please email academicmarketing@cambridge.edu.au to enquire about an inspection copy of this book. ×. × ... katherine faust, university of south carolina...", 
+        "email_addr_list": [
+            "academicmarketing@cambridge.edu.au"
+        ], 
+        "cite_url": "www.cambridge.org/.../social-network-analys...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Social Network Analysis Methods and Applications"
+    }
+]

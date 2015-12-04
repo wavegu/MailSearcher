@@ -1,3 +1,1 @@
-journals.permissions@oup.com.prostate	[3]
-journals.permissions@oup.com	[3]
-ian.haines@monash.edu	[1]
+[]

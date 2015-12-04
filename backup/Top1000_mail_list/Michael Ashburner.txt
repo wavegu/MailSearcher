@@ -1,6 +1,30 @@
-m.ashburner@gen.cam.ac.uk	[20]
-ashburner@ebi.ac.uk	[19]
-ma11 at cam.ac.uk	[3]
-ma11@gen.cam.ac.uk	[3]
-genetics-gsa@thegsajournals.org.michael	[2]
-genetics-gsa@thegsajournals.org	[2]
+[
+    {
+        "content": "please note that professor ashburner does not accept phd applications ... telephone: please contact reception on 01223 333999. email: ma11@gen.cam.ac.uk...", 
+        "email_addr_list": [
+            "ma11@gen.cam.ac.uk"
+        ], 
+        "cite_url": "www.gen.cam.ac.uk/research-groups/ashburner", 
+        "cite_name": "University of Cambridge", 
+        "title": "Michael Ashburner [Emeritus Professor] — Department of ..."
+    }, 
+    {
+        "content": "michael ashburner frs. professor of biology ... fax 44-1223-494468; e-mail ashburner@ebi.ac.uk. ... e-mail m.ashburner@gen.cam.ac.uk. born: may 23rd...", 
+        "email_addr_list": [
+            "ashburner@ebi.ac.uk", 
+            "m.ashburner@gen.cam.ac.uk"
+        ], 
+        "cite_url": "www2.biology.uoc.gr/activities/.../CV_Michael.pdf", 
+        "cite_name": "University of Crete", 
+        "title": "[PDF]Michael Ashburner (pdf) - Department of Biology - University ..."
+    }, 
+    {
+        "content": "consequently, it is fitting that michael ashburner has received the 2008 thomas ... not only has ashburner truly made “a lifetime of contributions” to almost .... phone: 412-226-5930 fax: 412-226-5931 email:genetics-gsa@thegsajournals.org.", 
+        "email_addr_list": [
+            "genetics-gsa@thegsajournals.org"
+        ], 
+        "cite_url": "www.genetics.org/content/178/3/1123.full", 
+        "cite_name": "Genetics", 
+        "title": "The 2008 Thomas Hunt Morgan Medal"
+    }
+]

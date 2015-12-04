@@ -1,3 +1,38 @@
-r.duin at ieee dot org	[10]
-porromunoz@fbk.eu	[3]
-email at tudelft.nl	[2]
+[
+    {
+        "content": "robert p.w. duin ... 2628 cd delft the netherlands. phone: +31 15 2786143 / 86052. fax: +31 15 2781843. email: r.duin at ieee dot org. room: hb 13.310.", 
+        "email_addr_list": [
+            "r.duin@ieee.org"
+        ], 
+        "cite_url": "homepage.tudelft.nl/a9p19/", 
+        "cite_name": "Delft University of Technology", 
+        "title": "External Home Page Robert P.W. Duin - TU Delft"
+    }, 
+    {
+        "content": "robert p.w. duin. delft university of technology ... verified email at tudelft.nl - homepage  scholar ... j kittler, m hatef, rpw duin, j matas. pattern analysis ... rpw duin, p juszczak, p paclik, e pekalska, d de ridder, dmj tax, ... prtools...", 
+        "email_addr_list": [
+            "email@tudelft.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Robert P.W. Duin - Google Scholar Citations"
+    }, 
+    {
+        "content": "i dont read university email any longer. if you have a message ... ela.pekalska [at] gmail.com. some old ... duins book. elżbieta pękalska and robert p.w. duin", 
+        "email_addr_list": [
+            "ela.pekalska@gmail.com"
+        ], 
+        "cite_url": "www.cs.man.ac.u...", 
+        "cite_name": "School of Computer Science, University of Manchester", 
+        "title": "Elzbieta Pekalska"
+    }, 
+    {
+        "content": "email: porromunoz@fbk.eu ... 1-diana porro-muñoz, robert p. w. duin, isneri talavera-bustamante, mauricio orozco-alzate: classification of three-way data...", 
+        "email_addr_list": [
+            "porromunoz@fbk.eu"
+        ], 
+        "cite_url": "https://nilab.fbk.eu/people/profile/porromunoz", 
+        "cite_name": "", 
+        "title": "Diana Porro Munoz | NILAB"
+    }
+]

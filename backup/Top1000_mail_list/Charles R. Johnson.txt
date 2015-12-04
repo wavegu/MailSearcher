@@ -1,2 +1,20 @@
-crjohnso@math.wm.edu	[4]
-chasjohn@uw.edu	[3]
+[
+    {
+        "content": "charles johnson. photo. emeritus email: chasjohn@uw.edu ... students are encouraged to submit work to the charles johnson fiction award at southern...", 
+        "email_addr_list": [
+            "chasjohn@uw.edu"
+        ], 
+        "cite_url": "https://depts.washington.edu/engl/.../profile.ph...", 
+        "cite_name": "University of Washington", 
+        "title": "Charles Johnson"
+    }, 
+    {
+        "content": "charles johnson. class of 1961 professor. office: hugh jones hall 102c email: crjohnso@math.wm.edu. office phone: +1 757 221 2014. webpage:...", 
+        "email_addr_list": [
+            "crjohnso@math.wm.edu"
+        ], 
+        "cite_url": "https://www.wm.edu/as/.../johnson_c.php", 
+        "cite_name": "College of William  Mary", 
+        "title": "William  Mary - Charles Johnson"
+    }
+]

@@ -1,2 +1,38 @@
-abass.alavi@uphs.upenn.edu	[21]
-email at uphs.upenn.edu	[3]
+[
+    {
+        "content": "abass. alavi. phone number: 215-662-3069. email: abass.alavi@uphs.upenn.edu. urls: abass alavi. address. 4th floor blockley hall. school. primary school:.", 
+        "email_addr_list": [
+            "abass.alavi@uphs.upenn.edu"
+        ], 
+        "cite_url": "www.upenn.edu/curf/.../abass-alavi-radiology", 
+        "cite_name": "University of Pennsylvania", 
+        "title": "Abass Alavi - Radiology | Center for Undergraduate Research"
+    }, 
+    {
+        "content": "cancel. abass alavi. upenn  pet. verified email at uphs.upenn.edu. scholar ... f fazekas, jb chawluk, a alavi, hi hurtig, ra zimmerman. american journal...", 
+        "email_addr_list": [
+            "email@uphs.upenn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fDaSCsgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Abass Alavi - Google Scholar Citations"
+    }, 
+    {
+        "content": "abass alavi university of pennsylvania, usa. email: abass.alavi@uphs.upenn.edu. qualifications. 1987 professor of psychiatry, university of pennsylvania,...", 
+        "email_addr_list": [
+            "abass.alavi@uphs.upenn.edu"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Abass Alavi - Journals, Conferences, Proceedings, Open ..."
+    }, 
+    {
+        "content": "email address: beikidav [at] sina.tums.ac.ir. phone: +98 21 88633333. editorial board. abass alavi, md. professor of radiology and director of research...", 
+        "email_addr_list": [
+            "beikidav@sina.tums.ac.ir"
+        ], 
+        "cite_url": "irjnm.tums.ac.ir/journal/editorial.board", 
+        "cite_name": "", 
+        "title": "Iranian Journal of Nuclear Medicine - Editorial Board"
+    }
+]

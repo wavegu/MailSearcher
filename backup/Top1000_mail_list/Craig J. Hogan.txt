@@ -1,4 +1,29 @@
-craig.a.williams@maryland.gov.lawrence	[11]
-craig.a.williams@maryland.gov	[11]
-prisca@physics.umn.edu	[2]
-info@hoganforgovernor.com	[1]
+[
+    {
+        "content": "lawrence j. hogan, jr., governor (elected by voters to 4-year term), 2018 ... craig a. williams, ph.d., chief of staff ... e-mail: craig.a.williams@maryland.gov.", 
+        "email_addr_list": [
+            "craig.a.williams@maryland.gov"
+        ], 
+        "cite_url": "msa.maryland.gov/msa/mdmanual/08conoff/html/01gov.html", 
+        "cite_name": "Maryland", 
+        "title": "Maryland Governor - Maryland State Archives"
+    }, 
+    {
+        "content": "transition office of governor-elect lawrence j. hogan, jr. 580 taylor ave., annapolis, md 21401 (410) 260-8025 e-mail: info@hoganforgovernor.com ... r. brinkley; elise a. butler; roger a. campos; david r. craig; a. hugo decesaris; col.", 
+        "email_addr_list": [
+            "info@hoganforgovernor.com"
+        ], 
+        "cite_url": "msa.maryland.gov/msa/mdmanual/.../gov/.../01tran2014.html", 
+        "cite_name": "Maryland", 
+        "title": "Lawrence J. Hogan, Jr., Maryland Governor-elects ..."
+    }, 
+    {
+        "content": "phone: (612) 626-8917. fax: (612) 624-4578. email: prisca@physics.umn.edu. dr. craig j. hogan. university of chicago. dept. of astronomy  astrophysics.", 
+        "email_addr_list": [
+            "prisca@physics.umn.edu"
+        ], 
+        "cite_url": "www.nsf.gov/.../aaac_membership_2013-20...", 
+        "cite_name": "National Science Foundation", 
+        "title": "[PDF]national astronomy and astrophysics - National Science ..."
+    }
+]

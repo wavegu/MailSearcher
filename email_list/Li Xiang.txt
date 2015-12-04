@@ -1,0 +1,56 @@
+[
+    {
+        "content": "xiang li. bsc, meng, phd. inorganic non-metallic materials research institute,. school of materials ... tel/fax: +86 (0)571 8827 6240 email: xiang.li@zju.edu.cn.", 
+        "email_list": [
+            "xiang.li@zju.edu.cn"
+        ], 
+        "cite_url": "mypage.zju.edu.cn/en/lixiang", 
+        "cite_name": "Zhejiang University", 
+        "title": "WELCOME TO XIANGS SPACE! - staff Homepage, ZJU"
+    }, 
+    {
+        "content": "name: li xiang, steven. email: stevenlx@hku.hk. this e-mail address is protected from spam bots, you must enable javascript in your web browser to view it.", 
+        "email_list": [
+            "stevenlx@hku.hk"
+        ], 
+        "cite_url": "nursing.hku.hk/cms/en/people/research.../267", 
+        "cite_name": "University of Hong Kong", 
+        "title": "LI Xiang, Steven - School of Nursing"
+    }, 
+    {
+        "content": "assistant professor. tel: (613) 533-6582. fax: (613) 533-6637. email: xiang.li@queensu.ca. office: dupuis hall 403. assistant professor...", 
+        "email_list": [
+            "xiang.li@queensu.ca"
+        ], 
+        "cite_url": "www.chemeng.queensu.ca/people/Faculty/XiangLi/", 
+        "cite_name": "", 
+        "title": "Xiang Li - Chemical Engineering - Queens University"
+    }, 
+    {
+        "content": "cancel. li, xiang(李翔). national university of singapore  robotics and automation. verified email at nus.edu.sg - homepage ... x li, cc cheah, s hu, d sun.", 
+        "email_list": [
+            "email@nus.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6EIX-JQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "LI, Xiang(李翔) - Google Scholar Citations"
+    }, 
+    {
+        "content": "wang lixiang. professor. director, changchun institute of applied chemistry. tel: +86-431-85262108;. fax: +86-431-85684937. e-mail: lixiang@ciac.jl.cn...", 
+        "email_list": [
+            "lixiang@ciac.jl.cn"
+        ], 
+        "cite_url": "ps-lab.ciac.jl.cn/ry/wanglixiang.htm", 
+        "cite_name": "", 
+        "title": "Prof. WANG Lixiang"
+    }, 
+    {
+        "content": "nih/csr center for scientific review, room 5112 6701 rockledge dr. bethesda, md 20892. email: lixiang@csr.nih.gov. phone number: 301-435-1744...", 
+        "email_list": [
+            "lixiang@csr.nih.gov"
+        ], 
+        "cite_url": "www.csr.nih.gov/.../finalroster.aspx?...Xiang...", 
+        "cite_name": "National Institutes of Health", 
+        "title": "Xiang-Ning Li - Display - National Institutes of Health"
+    }
+]

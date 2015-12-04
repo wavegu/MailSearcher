@@ -1,3 +1,29 @@
-wnierman@tigr.org	[3]
-jenn at microsoft.com	[3]
-email at serestherapeutics.com	[2]
+[
+    {
+        "content": "jennifer wortman. director ... verified email at serestherapeutics.com. scholar ... ra holt, gm subramanian, a halpern, gg sutton, r charlab, ... science 298...", 
+        "email_addr_list": [
+            "email@serestherapeutics.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XL4bgy4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jennifer Wortman - Google Scholar Citations"
+    }, 
+    {
+        "content": "you might remember me as jenn wortman. when i got married, i took vaughan (pronounced ... the best way to reach me is by email. i am jenn at microsoft.com.", 
+        "email_addr_list": [
+            "jenn@microsoft.com"
+        ], 
+        "cite_url": "www.jennwv.com/", 
+        "cite_name": "", 
+        "title": "Jennifer Wortman Vaughan"
+    }, 
+    {
+        "content": "william c. nierman, arnab pain, michael j. anderson, jennifer r. wortman, h. stanley .... for materials should be addressed to w.n. (email: wnierman@tigr.org).", 
+        "email_addr_list": [
+            "wnierman@tigr.org"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letterwww.google.com/emailwww.spokeo.com/Free.Email.Search", 
+        "cite_name": "Nature", 
+        "title": "Genomic sequence of the pathogenic and allergenic ...Google Business Email‎Jennifers Email Found - Lookup Jennifers Email Address‎"
+    }
+]

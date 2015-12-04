@@ -1,0 +1,30 @@
+[
+    {
+        "content": "wenqiang zhang, yonggang xu, liming yuan, jun cai, deyuan zhang. bionic and ... corresponding authors: deyuan zhang e-mail: zhangdy@buaa.edu.cn...", 
+        "email_list": [
+            "zhangdy@buaa.edu.cn"
+        ], 
+        "cite_url": "www.jmst.org/EN/abstract/abstract20853.shtml", 
+        "cite_name": "", 
+        "title": "Microwave Absorption and Shielding Property of ..."
+    }, 
+    {
+        "content": "email this article to a colleague ... corresponding authors: deyuan zhang, huawei chen. email: zhangdy@buaa.edu.cn, chenhw75@buaa.edu.cn...", 
+        "email_list": [
+            "zhangdy@buaa.edu.cn", 
+            "chenhw75@buaa.edu.cn"
+        ], 
+        "cite_url": "jbe.jlu.edu.cn/EN/abstract/abstract8931.shtml", 
+        "cite_name": "", 
+        "title": "Investigation of the Anisotropic Morphology-Induced Effects ..."
+    }, 
+    {
+        "content": "email: qzzhang@ucas.ac.cn. address: ... tao zhang, qingzhao zhang* and naixiong li(2014). ... qingzhao zhang, deyuan li* and hanshengwang(2013).", 
+        "email_list": [
+            "qzzhang@ucas.ac.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~zhangqin...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "Zhang, Qingzhao - 个人主页 - 中国科学院大学"
+    }
+]

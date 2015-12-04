@@ -1,0 +1,11 @@
+[
+    {
+        "content": "prof. zw. dr hab. inż. ryszard tadeusiewicz, dr h.c. mult., członek pan i pau ... kontakt. www.tadeusiewicz.pl. e-mail: rtad@agh.edu.pl...", 
+        "email_list": [
+            "rtad@agh.edu.pl"
+        ], 
+        "cite_url": "https://e-uczelnia.uek.krakow.pl/course/view.php?id...", 
+        "cite_name": "", 
+        "title": "Course: e-Wizytówka: Ryszard Tadeusiewicz"
+    }
+]

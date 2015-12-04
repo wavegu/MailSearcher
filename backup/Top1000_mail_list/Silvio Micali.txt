@@ -1,5 +1,23 @@
-silvio@csail.mit.edu	[13]
-silvio@tiac.net	[13]
-suwi@angelfire.com	[2]
-suzy226@aol.com	[2]
-super601@aol.com	[2]
+[
+    {
+        "content": "silvio micali. ford professor of engineering. csail, mit. room g644, 32 vassar street , cambridge , ma 02139. silvio@csail.mit.edu tel: 617 253 5949...", 
+        "email_addr_list": [
+            "silvio@csail.mit.edu"
+        ], 
+        "cite_url": "https://people.csail.mit.edu/silvio/", 
+        "cite_name": "", 
+        "title": "Silvio Micali - People.csail.mit.edu"
+    }, 
+    {
+        "content": "silvio@tiac.net:silvio-micali. suzy226@aol.com:susan-a.-kieper; suwi@angelfire.com:na; super601@aol.com:norton-edward", 
+        "email_addr_list": [
+            "silvio@tiac.net", 
+            "suzy226@aol.com", 
+            "suwi@angelfire.com", 
+            "super601@aol.com"
+        ], 
+        "cite_url": "www.richkids.me/free-email-15/?email=silvio@tiac.net:silvio-micaliid...", 
+        "cite_name": "", 
+        "title": "silvio@tiac.net:silvio-micali - Business Email List"
+    }
+]

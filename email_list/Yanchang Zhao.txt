@@ -1,0 +1,47 @@
+[
+    {
+        "content": "yanchang zhao. rdatamining. ... verified email at rdatamining.com - homepage  scholar. get my ... l cao, h zhang, y zhao, d luo, c zhang. systems, man...", 
+        "email_list": [
+            "email@rdatamining.com"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=ItySHzAAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Yanchang Zhao - Google Scholar Citations"
+    }, 
+    {
+        "content": "yanchang zhao yanchang@rdatamining.com http://www.rdatamining.com. april 26, 2013 ... below or email them to me. thanks. discussion forum: please join...", 
+        "email_list": [
+            "yanchang@rdatamining.com"
+        ], 
+        "cite_url": "cran.csiro.au/doc/contrib/Zhao_R_and_data_mining.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]R and Data Mining: Examples and Case Studies - cran.csiro ..."
+    }, 
+    {
+        "content": "yanchang zhao yanchang@rdatamining.com http://www.rdatamining.com. april 26, 2013 ... below or email them to me. thanks. discussion forum: please join...", 
+        "email_list": [
+            "yanchang@rdatamining.com"
+        ], 
+        "cite_url": "cran.stat.ucla.edu/doc/contrib/Zhao_R_and_data_mining.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]R and Data Mining: Examples and Case Studies - UCLA"
+    }, 
+    {
+        "content": "http://cran.nexr.com/doc/contrib/yanchangzhao-refcard-data-mining.pdf. r reference card for data mining by yanchang zhao yanchang@rdatamining.com...", 
+        "email_list": [
+            "yanchang@rdatamining.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-yanchang-rdatamining-com-397...", 
+        "cite_name": "", 
+        "title": "yanchang@rdatamining.com - The Email Archive"
+    }, 
+    {
+        "content": "aug 24, 2015 - r and data mining (by yanchang zhao) ... email: yanchang@rdatamining.com ... contact: yanchang zhao yanchang(at)rdatamining.com.", 
+        "email_list": [
+            "yanchang@rdatamining.com"
+        ], 
+        "cite_url": "https://rdatamining.wordpress.com/", 
+        "cite_name": "", 
+        "title": "blog.RDataMining.com | R and Data Mining"
+    }
+]

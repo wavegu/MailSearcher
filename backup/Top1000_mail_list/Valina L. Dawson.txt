@@ -1,3 +1,20 @@
-vdawson@jhmi.edu	[14]
-vdawson@jhmi.edu.botch	[14]
-email at jhmi.edu	[3]
+[
+    {
+        "content": "department affiliation, primary: neurology secondary: physiology. rank, professor. email, vdawson@jhmi.edu. mailing address, institute for cell engineering", 
+        "email_addr_list": [
+            "vdawson@jhmi.edu"
+        ], 
+        "cite_url": "physiology.bs.jhmi.edu/.../detail.as...", 
+        "cite_name": "Johns Hopkins University Physiology", 
+        "title": "Dawson, Valina - Faculty Detail"
+    }, 
+    {
+        "content": "valina l. dawson. professor of neurology ... verified email at jhmi.edu. scholar ... vl dawson, tm dawson, ed london, ds bredt, sh snyder. proceedings of...", 
+        "email_addr_list": [
+            "email@jhmi.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JS3_-uoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Valina L. Dawson - Google Scholar Citations"
+    }
+]

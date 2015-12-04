@@ -1,0 +1,11 @@
+[
+    {
+        "content": "advisor: dr. david l. olson office: hh 333. email: kkoenig@mines.edu. travis koenig thesis topic: characterizing uranium microstructure, alloy content,...", 
+        "email_list": [
+            "kkoenig@mines.edu"
+        ], 
+        "cite_url": "cwjcr.mines.edu/students.html", 
+        "cite_name": "", 
+        "title": "Students - CWJCR - Colorado School of Mines"
+    }
+]

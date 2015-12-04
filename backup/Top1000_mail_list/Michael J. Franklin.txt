@@ -1,5 +1,38 @@
-m.j.franklin@swansea.ac.uk	[22]
-umbfm@montana.edu	[3]
-umbfm@montana.edu.smashwords	[3]
-email at montana.edu	[2]
-email at cs.berkeley.edu	[2]
+[
+    {
+        "content": "email: m.j.franklin@swansea.ac.uk. print this profile ... michael j. franklin, (london: routledge, 2006); and phebe gibbes, hartly house, calcutta, ed. michael j.", 
+        "email_addr_list": [
+            "m.j.franklin@swansea.ac.uk"
+        ], 
+        "cite_url": "www.swansea.ac.uk  Staff", 
+        "cite_name": "Swansea University", 
+        "title": "Professor Michael Franklin - Swansea University"
+    }, 
+    {
+        "content": "michael j franklin. professor, montana state ... verified email at montana.edu. scholar. get my own ... de nivens, de ohman, j williams, mj franklin. journal of...", 
+        "email_addr_list": [
+            "email@montana.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=qvH-ATcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael J Franklin - Google Scholar Citations"
+    }, 
+    {
+        "content": "cancel. michael franklin ... verified email at cs.berkeley.edu - homepage  scholar ... m zaharia, m chowdhury, t das, a dave, j ma, m mccauley, m franklin, .", 
+        "email_addr_list": [
+            "email@cs.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=p0sQC6sAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael Franklin - Google Scholar Citations"
+    }, 
+    {
+        "content": "franklin, michael. fram-f-06b.jpg. office: 113c lewis hall. specialty: molecular genetics, gene expression, alginate biosynthesis. e-mail: umbfm@montana.edu.", 
+        "email_addr_list": [
+            "umbfm@montana.edu"
+        ], 
+        "cite_url": "https://www.biofilm.montana.edu/people/faculty/franklin-michael.html", 
+        "cite_name": "", 
+        "title": "Franklin, Michael | Center for Biofilm Engineering"
+    }
+]

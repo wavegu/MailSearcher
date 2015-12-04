@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: klamma@informatik.rwth-aachen.de ... ralf klamma received his habilitation degree from rwth aachen university for the subject computer science in...", 
+        "email_list": [
+            "klamma@informatik.rwth-aachen.de"
+        ], 
+        "cite_url": "", 
+        "cite_name": "RWTH Aachen University", 
+        "title": "PD Dr. Ralf Klamma, AOR — Informatik 5 (Information ..."
+    }, 
+    {
+        "content": "cancel. ralf klamma ... verified email at dbis.rwth-aachen.de - homepage  scholar ... r klamma, ma chatti, e duval, h hummel, et hvannberg, m kravcik, .", 
+        "email_list": [
+            "email@dbis.rwth-aachen.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wO5fhrsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ralf Klamma - Google Scholar Citations"
+    }, 
+    {
+        "content": "pd dr. ralf klamma. pd dr. rer. nat. ralf klamma received his habilitation degree from rwth aachen university for the ... email us at: layers@learning-layer.eu.", 
+        "email_list": [
+            "layers@learning-layer.eu"
+        ], 
+        "cite_url": "learning-layers.eu/team/rwth-aachen-university/ralf-klamma/", 
+        "cite_name": "", 
+        "title": "PD Dr. Ralf Klamma | Learning Layers"
+    }
+]

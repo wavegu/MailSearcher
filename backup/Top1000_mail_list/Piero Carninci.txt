@@ -1,4 +1,29 @@
-carninci@transsine.com	[17]
-carninci@riken.jp	[17]
-email at postman.riken.jp	[2]
-vorlando@dti.telethon.it	[1]
+[
+    {
+        "content": "life science accelerator technology group: piero carninci(ph.d.) ... genome information analysis team: piero carninci(ph.d.) ... email: carninci [at] riken.jp...", 
+        "email_addr_list": [
+            "carninci@riken.jp"
+        ], 
+        "cite_url": "www.riken.jp/en/research/labs/clst/genom_tech/", 
+        "cite_name": "", 
+        "title": "Division of Genomic Technologies | RIKEN"
+    }, 
+    {
+        "content": "carninci piero. riken center ... verified email at postman.riken.jp - homepage  scholar ... p carninci, t kasukawa, s katayama, j gough, mc frith, n maeda, .", 
+        "email_addr_list": [
+            "email@postman.riken.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=33sEewQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Carninci Piero - Google Scholar Citations"
+    }, 
+    {
+        "content": "piero carninci, ph.d. born and educated in italy he obtained his doctoral ... various scientific journals. he has an h index of 50. e-mail: carninci@transsine.com...", 
+        "email_addr_list": [
+            "carninci@transsine.com"
+        ], 
+        "cite_url": "www.transsine.com/people.htm", 
+        "cite_name": "", 
+        "title": "People - TransSINE Technologies"
+    }
+]

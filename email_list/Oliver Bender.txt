@@ -1,0 +1,20 @@
+[
+    {
+        "content": "pd dr. oliver bender, dipl.-geogr. oliverbender. phone +43 512 507 49430 email oliver.bender@oeaw.ac.at world http://landschaft.heim.at...", 
+        "email_list": [
+            "oliver.bender@oeaw.ac.at"
+        ], 
+        "cite_url": "www.mountainresearch.at/index.php/en/.../186-oliver-bender-en.html", 
+        "cite_name": "", 
+        "title": "PD Dr. Oliver Bender, Dipl.-Geogr. - Institut für ..."
+    }, 
+    {
+        "content": "pd dr. oliver bender, dipl.-geogr. oliverbender. phone +43 512 507 49430 email oliver.bender@oeaw.ac.at. world http://landschaft.heim.at...", 
+        "email_list": [
+            "oliver.bender@oeaw.ac.at"
+        ], 
+        "cite_url": "www.mountainresearch.at/.../133-oliver-bender.html", 
+        "cite_name": "", 
+        "title": "PD Dr. Oliver Bender, Dipl.-Geogr. - Institut für ..."
+    }
+]

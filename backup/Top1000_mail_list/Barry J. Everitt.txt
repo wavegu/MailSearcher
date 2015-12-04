@@ -1,4 +1,48 @@
-bje10@cam.ac.uk	[4]
-email at wjh.harvard.edu	[3]
-email at cam.ac.uk	[2]
-email at york.ac.uk	[2]
+[
+    {
+        "content": "professor barry j everitt, sc d, frs, f med sci ... email: bje10@cam.ac.uk ... belin d, belin-rauscent a, murray je, everitt bj (2013) addiction: failure of control...", 
+        "email_addr_list": [
+            "bje10@cam.ac.uk"
+        ], 
+        "cite_url": "www.psychol.cam.ac.uk/directory/barry-everitt", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Barry J Everitt, Sc D, FRS, F Med Sci - Department ..."
+    }, 
+    {
+        "content": "professor barry everitt sc.d., f.r.s., f.med.sci. barry everitt fmedsci frs ... email. bje10@cam.ac.uk ... j neurosci 34(7):2422-31 details. velázquez-sánchez...", 
+        "email_addr_list": [
+            "bje10@cam.ac.uk"
+        ], 
+        "cite_url": "www.neuroscience.cam.ac.uk/.../profile.php?bje...", 
+        "cite_name": "University of Cambridge", 
+        "title": "Barry Everitt - Cambridge Neuroscience - University of ..."
+    }, 
+    {
+        "content": "verified email at cam.ac.uk - homepage ... rn cardinal, ja parkinson, j hall, bj everitt ... rn cardinal, dr pennicott, c lakmali, tw robbins, bj everitt.", 
+        "email_addr_list": [
+            "email@cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=yBEJ__IAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Barry J Everitt - Google Scholar Citations"
+    }, 
+    {
+        "content": "barry j everitt. university of cambridge. verified email at cam.ac.uk ... james olds collegiate professor of psychology and neuroscience, university of michigan.", 
+        "email_addr_list": [
+            "email@cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Addiction - Google Scholar"
+    }, 
+    {
+        "content": "verified email at york.ac.uk. @york.ac.uk. cited by 133240 ... verified email at wjh.harvard.edu. @wjh.harvard.edu ... barry j everitt. university of cambridge.", 
+        "email_addr_list": [
+            "email@york.ac.uk", 
+            "email@wjh.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Memory - Google Scholar"
+    }
+]

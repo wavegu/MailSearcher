@@ -1,4 +1,21 @@
-chad@broadinstitute.org	[9]
-chad@broad.mit.edu	[9]
-investor.services@piedmontreit.com	[3]
-shimizu@dmb.med.keio.ac.jp	[1]
+[
+    {
+        "content": "chad nusbaum, tarjei s. mikkelsen, michael c. zody, shuichi asakawa, stefan ... (email: chad@broad.mit.edu) or n.s. (email: shimizu@dmb.med.keio.ac.jp).", 
+        "email_addr_list": [
+            "chad@broad.mit.edu", 
+            "shimizu@dmb.med.keio.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "DNA sequence and analysis of human chromosome 8 ..."
+    }, 
+    {
+        "content": "... (est), monday through friday. investors may also send e-mail to: investor.services@piedmontreit.com ... chad nusbaum 1430 enclave parkway, suite 100", 
+        "email_addr_list": [
+            "investor.services@piedmontreit.com"
+        ], 
+        "cite_url": "www.piedmontreit.com/contact/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Piedmont Office Realty Trust :: Contact PiedmontGoogle Business Email‎"
+    }
+]

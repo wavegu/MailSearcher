@@ -1,2 +1,20 @@
-pape@mpikg.mpg.de	[2]
-office.cc@mpikg.mpg.de	[1]
+[
+    {
+        "content": "antonietti, markus. profile_image. prof. dr. markus antonietti. max planck institute of colloids and interfaces, ... 331 567-9502. email:office.cc@mpikg.mpg.de...", 
+        "email_addr_list": [
+            "office.cc@mpikg.mpg.de"
+        ], 
+        "cite_url": "www.mpg.de  Homepage  Institutes", 
+        "cite_name": "Max Planck Society", 
+        "title": "Antonietti, Markus | Max Planck Society"
+    }, 
+    {
+        "content": "tel.: 03 31/5 67 95 01. fax.: 03 31/5 67 95 02. e-mail: office.cc@mpikg.mpg.de. website: http://www.mpikg.mpg.de/kc. markus antonietti...", 
+        "email_addr_list": [
+            "office.cc@mpikg.mpg.de"
+        ], 
+        "cite_url": "www.bbaw.de  Die Akademie  Mitglieder", 
+        "cite_name": "", 
+        "title": "Markus Antonietti — Berlin-Brandenburgische Akademie ..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "takuichi nishimuras homepage, 本文へジャンプ ... takuichi nishimura, ph.d. leader, real world based interaction ... email: taku[at]ni.aist.go.jp. formal site...", 
+        "email_list": [
+            "taku@ni.aist.go.jp"
+        ], 
+        "cite_url": "https://staff.aist.g...", 
+        "cite_name": "National Institute of Advanced Industrial Science and...", 
+        "title": "CV"
+    }, 
+    {
+        "content": "e-mail, oka@u-aizu.ac.jp. web site ... 5) on spotting recognition of gesture motion from time-varying image: ryuichi oka, takuichi nishimura, hiroaki yabe,...", 
+        "email_list": [
+            "oka@u-aizu.ac.jp"
+        ], 
+        "cite_url": "www.u-aizu.ac.jp/e-intro/e-faculty/e.../e-oka.html", 
+        "cite_name": "University of Aizu", 
+        "title": "Ryuichi Oka - University of Aizu"
+    }
+]

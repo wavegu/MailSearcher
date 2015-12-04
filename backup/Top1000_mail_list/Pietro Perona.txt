@@ -1,4 +1,11 @@
-perona@caltech.edu	[14]
-perona@vision.cal	[14]
-email at caltech.edu	[1]
-wuwei@caltech.edu	[1]
+[
+    {
+        "content": "create alert. cancel. pietro perona ... verified email at caltech.edu - homepage  scholar. get my own ... r fergus, p perona, a zisserman. computer vision and...", 
+        "email_addr_list": [
+            "email@caltech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=j29kMCwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Pietro Perona - Google Scholar Citations"
+    }
+]

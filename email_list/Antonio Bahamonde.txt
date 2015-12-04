@@ -1,0 +1,30 @@
+[
+    {
+        "content": "antonio bahamonde. professor universidad ... verified email at aic.uniovi.es. scholar ... a bahamonde, gf bayón, j díez, jr quevedo, o luaces, jj del coz, .", 
+        "email_list": [
+            "email@aic.uniovi.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EhI3q_8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Antonio Bahamonde - Google Scholar Citations"
+    }, 
+    {
+        "content": "antonio bahamonde. professor of computer science ... gijón, asturias. spain. telephone: +34 985 182122. +34 985 182032. email: abahamonde at uniovi.es.", 
+        "email_list": [
+            "abahamonde@uniovi.es"
+        ], 
+        "cite_url": "www.aic.uniovi.es/~antonio/", 
+        "cite_name": "University of Oviedo", 
+        "title": "Welcome home page Antonio Bahamonde"
+    }, 
+    {
+        "content": "teléfono: 91.497.43.98 | email: antonio.bahamonde@uam.es. catedrático, dpto. de ... teléfono: 91 497 31 80 | email: fernando.casani@uam.es. profesora...", 
+        "email_list": [
+            "antonio.bahamonde@uam.es", 
+            "fernando.casani@uam.es"
+        ], 
+        "cite_url": "https://www.uam.es...", 
+        "cite_name": "Autonomous University of Madrid", 
+        "title": "Personal Docente e Investigador-Facultad de Ciencias ..."
+    }
+]

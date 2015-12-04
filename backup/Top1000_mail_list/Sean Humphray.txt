@@ -1,4 +1,11 @@
-sjh@sanger.ac.uk	[3]
-sjh@sanger.ac.uk.swine	[3]
-sfkingsmore@cmh.edu	[2]
-sfkingsmore@cmh.edu.sean	[2]
+[
+    {
+        "content": "... lisa ann krivohlavek,,; joel fellis,; sean humphray,; peter saffrey,; zoya kingsbury,; jacqueline claire weir,; jason betley, ... e-mail: sfkingsmore@cmh.edu.", 
+        "email_addr_list": [
+            "sfkingsmore@cmh.edu"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/4/.../154ra13...", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Rapid Whole-Genome Sequencing for Genetic Disease ..."
+    }
+]

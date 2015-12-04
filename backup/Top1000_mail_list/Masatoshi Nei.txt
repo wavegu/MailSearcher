@@ -1,6 +1,39 @@
-email at unr.edu.ar.masatoshi	[20]
-nxm2@psu.edu	[3]
-email at unr.edu.ar	[3]
-email at bx.psu.edu	[2]
-email at psu.edu	[2]
-genetics-gsa@thegsajournals.org	[2]
+[
+    {
+        "content": "info. masatoshi nei ... email: nxm2@psu.edu  download as vcard ... tamura, k., d. peterson, n. peterson, g. stecher, m. nei, and s. kumar. 2011. mega5:...", 
+        "email_addr_list": [
+            "nxm2@psu.edu"
+        ], 
+        "cite_url": "bio.psu.edu/directory/nxm2", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Masatoshi Nei — Penn State University Department of Biology"
+    }, 
+    {
+        "content": "masatoshi nei. professor of ... verified email at psu.edu - homepage  scholar ... k tamura, d peterson, n peterson, g stecher, m nei, s kumar. molecular...", 
+        "email_addr_list": [
+            "email@psu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VxOmZDgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Masatoshi Nei - Google Scholar Citations"
+    }, 
+    {
+        "content": "masatoshi nei. professor of biology ... university, uc santa barbara, arizona. verified email at bx.psu.edu ... naturalist (1809-1882). verified email at unr.edu.ar.", 
+        "email_addr_list": [
+            "email@bx.psu.edu", 
+            "email@unr.edu.ar"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }, 
+    {
+        "content": "masatoshi nei has been a major contributor to population and ... neis work on genetic distances began with an american naturalist article in 1972. .... phone: 412-226-5930 fax: 412-226-5931 email:genetics-gsa@thegsajournals.org.", 
+        "email_addr_list": [
+            "genetics-gsa@thegsajournals.org"
+        ], 
+        "cite_url": "www.genetics.org/content/172/2/719.fullwww.google.com/email", 
+        "cite_name": "Genetics", 
+        "title": "The 2006 Thomas Hunt Morgan Medal - GeneticsGoogle Business Email - Custom email for your company‎"
+    }
+]

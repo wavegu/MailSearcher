@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dec 8, 2009 - lewis girod. [ login to edit profile ]; position: research affiliate; office: phone: +1 (617) 253-0960; email: ldgirod@csail.mit.edu; areas of study:...", 
+        "email_list": [
+            "ldgirod@csail.mit.edu"
+        ], 
+        "cite_url": "www.csail.mit.e...", 
+        "cite_name": "MIT Computer Science and Artificial Intelligence Labo...", 
+        "title": "Lewis Girod | MIT CSAIL"
+    }, 
+    {
+        "content": "lewis girod ... lewis received his ph.d. from ucla and s.b. from mit, and worked as a research scientist at mit csail on ... email: info@cmtelematics.com", 
+        "email_list": [
+            "info@cmtelematics.com"
+        ], 
+        "cite_url": "www.cmtelematics.com/company/team/", 
+        "cite_name": "", 
+        "title": "Meet the Team | Cambridge Mobile Telematics"
+    }, 
+    {
+        "content": "apr 28, 2007 - register by april 21 for attendance. register by april 14 for a demo or poster: mail lewis girod (last name at nms.csail.mit.edu) with demo in...", 
+        "email_list": [
+            "name@nms.csail.mit.edu"
+        ], 
+        "cite_url": "tinyos.stanford.edu/ttx/2007/", 
+        "cite_name": "", 
+        "title": "TinyOS Technology Exchange"
+    }, 
+    {
+        "content": "search email number information data on the internet ... artificial intelligence laboratory lewis girod (girod@lcs.mit.edu) mit laboratory for computer science...", 
+        "email_list": [
+            "girod@lcs.mit.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-benjie-lcs-mit-edu-1159600.htm", 
+        "cite_name": "", 
+        "title": "benjie@lcs.mit.edu - The Email Archive"
+    }, 
+    {
+        "content": "search email number information data on the internet ... artificial intelligence laboratory lewis girod (girod@lcs.mit.edu) mit laboratory for computer science...", 
+        "email_list": [
+            "girod@lcs.mit.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-jcma-ai-mit-edu-6959838.htm", 
+        "cite_name": "", 
+        "title": "jcma@ai.mit.edu - The Email Archive"
+    }
+]

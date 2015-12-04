@@ -1,5 +1,22 @@
-anthony.burgett@ou.edu	[4]
-vab@roe.ac.uk	[3]
-robynbiggs@ou.edu	[3]
-knicholas@ou.edu	[2]
-sbghweb@sbgh.mb.ca	[2]
+[
+    {
+        "content": "senior management team. dr. bruce roe ... manitoba | r2h 2a6 | canada phone: 204.233.8563 | email: sbghweb@sbgh.mb.ca | read our conditions of use.", 
+        "email_addr_list": [
+            "sbghweb@sbgh.mb.ca"
+        ], 
+        "cite_url": "www.sbgh.mb.ca/aboutUs/admin.html", 
+        "cite_name": "St. Boniface General Hospital", 
+        "title": "Administration - St. Boniface Hospital"
+    }, 
+    {
+        "content": "email robynbiggs@ou.edu  bourne, christina r. ... email anthony.burgett@ou.edu  cichewicz, robert .... email knicholas@ou.edu. roe, bruce a.", 
+        "email_addr_list": [
+            "robynbiggs@ou.edu", 
+            "anthony.burgett@ou.edu", 
+            "knicholas@ou.edu"
+        ], 
+        "cite_url": "chem.ou.edu/directory", 
+        "cite_name": "University of Oklahoma", 
+        "title": "directory - Department of Chemistry and Biochemistry"
+    }
+]

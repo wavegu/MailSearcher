@@ -1,2 +1,29 @@
-foster@mcs.anl.gov	[14]
-email at uchicago.edu	[3]
+[
+    {
+        "content": "ian foster is director of the computation institute, a joint institute of the ... foster was a co-founder of univa ud, inc., a company established to deliver grid and ... (630) 252-4619. e-mail. foster@mcs.anl.gov. publications. view publications...", 
+        "email_addr_list": [
+            "foster@mcs.anl.gov"
+        ], 
+        "cite_url": "www.mcs.anl.gov/person/ian-t-foster", 
+        "cite_name": "Argonne National Laboratory", 
+        "title": "Ian T. Foster | Argonne National Laboratory"
+    }, 
+    {
+        "content": "cancel. ian t. foster. university of chicago ... verified email at uchicago.edu - homepage  scholar ... i foster, c kesselman, jm nick, s tuecke. grid computing:...", 
+        "email_addr_list": [
+            "email@uchicago.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VGoSakQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ian T. Foster - Google Scholar Citations"
+    }, 
+    {
+        "content": "ian t. foster ... email: foster@mcs.anl.gov. website: http://www.mcs.anl.gov/~foster. bio. ian foster is director of the computation institute, a joint institute of the...", 
+        "email_addr_list": [
+            "foster@mcs.anl.gov"
+        ], 
+        "cite_url": "www.igsb.org/people/ian-t.-foster", 
+        "cite_name": "", 
+        "title": "Ian T. Foster - Institute for Genomics and Systems Biology"
+    }
+]

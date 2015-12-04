@@ -1,3 +1,29 @@
-tom.darden@wellsfargo.com	[19]
-darden@t-rex.niehs.nih.gov	[13]
-steenburght@darden.virginia.edu	[2]
+[
+    {
+        "content": "national institute of environmental health science research triangle park, north carolina 27709. email: darden@t-rex.niehs.nih.gov phone: 919-541-4933.", 
+        "email_addr_list": [
+            "darden@t-rex.niehs.nih.gov"
+        ], 
+        "cite_url": "www.psc.edu/science/Darden/Darden-bio.html", 
+        "cite_name": "", 
+        "title": "Tom Darden info"
+    }, 
+    {
+        "content": "professor thomas j. steenburgh is the mba first year marketing course head and an ... +1-434-982-2393. phone. steenburght@darden.virginia.edu. email.", 
+        "email_addr_list": [
+            "steenburght@darden.virginia.edu"
+        ], 
+        "cite_url": "www.darden.virginia.e...", 
+        "cite_name": "University of Virginia Darden School of Business", 
+        "title": "Thomas Steenburgh - Darden School of Business"
+    }, 
+    {
+        "content": "address: 7009 beracasa way, boca raton, fl 33433. phone: 561-417-3106 | 800-347-3827 fax: 561-338-6002. email: tom.darden@wellsfargo.com...", 
+        "email_addr_list": [
+            "tom.darden@wellsfargo.com"
+        ], 
+        "cite_url": "https://home.wellsfargoadvisors.com/Tom.Darden", 
+        "cite_name": "Wells Fargo Advisors", 
+        "title": "thomas j. darden jr, cws - Wells Fargo Advisors"
+    }
+]

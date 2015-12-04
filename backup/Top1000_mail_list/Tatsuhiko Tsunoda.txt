@@ -1,2 +1,20 @@
-email at src.riken.jp	[3]
-hmrt-tky@umin.net	[3]
+[
+    {
+        "content": "tatsuhiko tsunoda. professor ... verified email at src.riken.jp - homepage ... k ozaki, y ohnishi, a iida, a sekine, r yamada, t tsunoda, h sato, ... nature...", 
+        "email_addr_list": [
+            "email@src.riken.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=x-hrCAcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tatsuhiko Tsunoda - Google Scholar Citations"
+    }, 
+    {
+        "content": "group director: tatsuhiko tsunoda (ph.d.) ... r., shapero, m.h., jones, k.w., nakamura, y., aburatani, h., and tsunoda, t.: ... email: tsunoda [at] src.riken.jp...", 
+        "email_addr_list": [
+            "tsunoda@src.riken.jp"
+        ], 
+        "cite_url": "www.riken.jp/en/research/labs/ims/med_sci_math/", 
+        "cite_name": "", 
+        "title": "Laboratory for Medical Science Mathematics | RIKEN"
+    }
+]

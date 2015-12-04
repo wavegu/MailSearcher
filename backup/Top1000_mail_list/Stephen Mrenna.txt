@@ -1,5 +1,38 @@
-mrenna@fnal.gov	[13]
-skands@fnal.gov	[2]
-email at fnal.gov	[2]
-philten@cern.ch	[1]
-torbjorn@thep.lu.se	[1]
+[
+    {
+        "content": "stephen mrenna. scientist ii. telephone: (630) 840-2556. e-mail: mrenna@fnal.gov. office location: wh9w personal web: http://home.fnal.gov/~mrenna/...", 
+        "email_addr_list": [
+            "mrenna@fnal.gov"
+        ], 
+        "cite_url": "computing.fnal.gov  Home  About  Scientists", 
+        "cite_name": "Fermilab", 
+        "title": "Stephen Mrenna - FNAL Computing Sector - Fermilab"
+    }, 
+    {
+        "content": "cancel. stephen mrenna. fermilab computing division. particle physics, computing. verified email at fnal.gov - homepage ... t sjöstrand, s mrenna, p skands.", 
+        "email_addr_list": [
+            "email@fnal.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=aSRn1O4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen Mrenna - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: philten@cern.ch. stephen mrenna computing division, simulations group, fermi national accelerator laboratory, ms 234, batavia, il 60510, usa", 
+        "email_addr_list": [
+            "philten@cern.ch"
+        ], 
+        "cite_url": "home.thep.lu.se/~torbjorn/pythia81html/Frontpage.html", 
+        "cite_name": "", 
+        "title": "Front - Theoretical Physics - Lund University"
+    }, 
+    {
+        "content": "-mail: torbjorn@thep.lu.se stephen mrenna computing division simulations group fermi national accelerator laboratory ms 234 batavia il 60510 usa e-mail:...", 
+        "email_addr_list": [
+            "torbjorn@thep.lu.se"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-skands-fnal-gov-15302985.htm", 
+        "cite_name": "", 
+        "title": "skands@fnal.gov - The Email Archive"
+    }
+]

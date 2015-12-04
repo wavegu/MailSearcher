@@ -1,0 +1,38 @@
+[
+    {
+        "content": "verified email at pitt.edu - homepage  scholar ... yr lin, y chi, s zhu, h sundaram, bl tseng ... yr lin, j sun, p castro, r konuru, h sundaram, a kelliher.", 
+        "email_list": [
+            "email@pitt.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9EeqDSEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "yu-ru lin - Google Scholar Citations"
+    }, 
+    {
+        "content": "yu-ru lin. assistant professor. 710 is building 412-624-9470. yurulin@pitt.edu ... bagrow, j.p. and lin, y.-r. (2012) mesoscopic structure and social aspects...", 
+        "email_list": [
+            "yurulin@pitt.edu"
+        ], 
+        "cite_url": "www.ischool.pitt...", 
+        "cite_name": "University of Pittsburgh School of Information Sciences", 
+        "title": "Yu-Ru Lin | School of Information Sciences | University of ..."
+    }, 
+    {
+        "content": "yu-ru lin received her ph.d. in computer science with a concentration in arts media and engineering from ... contact information. email: yuruliny@gmail.com...", 
+        "email_list": [
+            "yuruliny@gmail.com"
+        ], 
+        "cite_url": "www.iq.harvard.edu/people/yu-ru-lin", 
+        "cite_name": "Harvard University", 
+        "title": "Yu-Ru Lin | Harvard Institute for Quantitative Social Science"
+    }, 
+    {
+        "content": "gong-ru lin (chairman), ph.d., national chiao tung univ., taiwan r.o.c., profile | publication | laboratory. e-mail, grlin@ntu.edu.tw .... yu-chieh chi and gong-ru lin*, “a q-factor enhanced optoelectronic oscillator for 40-gbit/s pulsed...", 
+        "email_list": [
+            "grlin@ntu.edu.tw"
+        ], 
+        "cite_url": "gipo.ntu.edu.tw/.../e_p6student-5-detail2.php...", 
+        "cite_name": "National Taiwan University", 
+        "title": "Gong-Ru Lin (Chairman) - 國立臺灣大學光電工程學研究所"
+    }
+]

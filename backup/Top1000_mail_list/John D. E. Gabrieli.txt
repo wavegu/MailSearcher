@@ -1,3 +1,20 @@
-gabrieli@mit.edu	[18]
-research at mitmcgovern.mit.edu	[4]
-email at mit.edu	[3]
+[
+    {
+        "content": "john d. e. gabrieli, ph.d. grover hermann professor in health sciences and ... lab: gabrieli lab email: gabrieli@mit.edu. cognitive and affective neuroscience.", 
+        "email_addr_list": [
+            "gabrieli@mit.edu"
+        ], 
+        "cite_url": "web.mit.edu/~bcs/.../gabrieli.shtml", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "John DE Gabrieli, Ph.D. - MIT"
+    }, 
+    {
+        "content": "cancel. john gabrieli. mit  cognitive neuroscience. verified email at mit.edu ... jb brewer, z zhao, je desmond, gh glover, jde gabrieli. science 281 (5380)...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MjF1h7IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John Gabrieli - Google Scholar Citations"
+    }
+]

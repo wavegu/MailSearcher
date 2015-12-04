@@ -1,2 +1,20 @@
-yoshua.bengio@umontreal.ca	[25]
-email at umontreal.ca	[1]
+[
+    {
+        "content": "yoshua bengio. professor, u. montreal ... verified email at umontreal.ca - homepage  scholar ... y bengio, p lamblin, d popovici, h larochelle. advances in...", 
+        "email_addr_list": [
+            "email@umontreal.ca"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yoshua Bengio - Google Scholar Citations"
+    }, 
+    {
+        "content": "job title: professor. organism: université de montréal informatique et recherche opérationnelle. email: yoshua.bengio@umontreal.ca...", 
+        "email_addr_list": [
+            "yoshua.bengio@umontreal.ca"
+        ], 
+        "cite_url": "reparti.gel.ulaval.ca/en/people/Id_1928/index.php", 
+        "cite_name": "", 
+        "title": "About Yoshua Bengio - REPARTI"
+    }
+]

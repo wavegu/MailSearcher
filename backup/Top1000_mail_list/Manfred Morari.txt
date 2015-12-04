@@ -1,5 +1,48 @@
-morari@control.ee.ethz.ch	[14]
-mk2678@columbia.edu	[3]
-email at control.ee.ethz.ch	[3]
-skogesta@norunit.bitnet	[1]
-870410102120.01k@xhmeia.caltech.edu	[1]
+[
+    {
+        "content": "manfred morari prof. dr., professor ... 8092 zurich switzerland phone: +41 44 632 7626. fax: +41 44 632 1211. email: morari@control.ee.ethz.ch...", 
+        "email_addr_list": [
+            "morari@control.ee.ethz.ch"
+        ], 
+        "cite_url": "control.ee.ethz.ch/~morari/", 
+        "cite_name": "", 
+        "title": "The Manfred Morari Homepage"
+    }, 
+    {
+        "content": "create alert. cancel. manfred morari ... verified email at control.ee.ethz.ch - homepage  scholar ... a bemporad, m morari, v dua, en pistikopoulos. automatica...", 
+        "email_addr_list": [
+            "email@control.ee.ethz.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JiW8z50AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Manfred Morari - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. manfred morari, professor and head of the automatic control laboratory at the ... email: morari@control.ee.ethz.ch. affiliation: automatic control laboratory...", 
+        "email_addr_list": [
+            "morari@control.ee.ethz.ch"
+        ], 
+        "cite_url": "www.ieeecss.org/contacts/manfred-morari", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Manfred Morari | IEEE Control Systems Society"
+    }, 
+    {
+        "content": "bitnet (manfred morari). message-id: 870410102120.01k@xhmeia.caltech.edu. subject: bitnet etc. to: skogesta@norunit.bitnet. sigurd,. currently i am not...", 
+        "email_addr_list": [
+            "870410102120.01k@xhmeia.caltech.edu", 
+            "skogesta@norunit.bitnet"
+        ], 
+        "cite_url": "www.nt.ntnu.no/users/skoge/.../morari-dinner-early-caltech-oct11.ppt", 
+        "cite_name": "", 
+        "title": "[PPT]Sigurd going through old emails: Some highlights"
+    }, 
+    {
+        "content": "... mary ko by sending email to mk2678@columbia.edu or by calling 2128544453. ... professor manfred morari, a chemical engineer by education and training,...", 
+        "email_addr_list": [
+            "mk2678@columbia.edu"
+        ], 
+        "cite_url": "https://calendar.columbia.edu/.../get.php?vt...www.google.com/email", 
+        "cite_name": "Columbia University", 
+        "title": "Elmer Gaden Lecture Series - Prof. Manfred Morari, ETH ...Google Business Email‎"
+    }
+]

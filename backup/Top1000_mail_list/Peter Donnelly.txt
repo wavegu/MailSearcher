@@ -1,2 +1,20 @@
-peter.donnelly@stonybrook.edu	[27]
-peter.donnelly@utoronto.ca	[27]
+[
+    {
+        "content": "professor faculty of kinesiology and physical education 55 harbord st. toronto, on m5s 2w6 416.946.5071 peter.donnelly@utoronto.ca...", 
+        "email_addr_list": [
+            "peter.donnelly@utoronto.ca"
+        ], 
+        "cite_url": "physical.utoronto.ca/.../Meet_the.../Donnelly.aspx", 
+        "cite_name": "University of Toronto", 
+        "title": "Peter Donnelly - Faculty of Kinesiology  Physical Education"
+    }, 
+    {
+        "content": "n5002 frank melville jr. memorial library, stony brook, ny 11794-3369. e-mail: peter.donnelly@stonybrook.edu. offices. vice president for research.", 
+        "email_addr_list": [
+            "peter.donnelly@stonybrook.edu"
+        ], 
+        "cite_url": "research.stonybrook.edu/contact/peter-donnelly", 
+        "cite_name": "", 
+        "title": "Peter Donnelly | Stony Brook University Research"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "content": "phone: +49 (0) 341 86 12 273; fax: +49 (0) 341 86 12 275; e-mail: info@ibai-institut.de. director: prof. dr. petra perner; contact: e-mail:pperner@ibai-institut.de", 
+        "email_list": [
+            "info@ibai-institut.de", 
+            "pperner@ibai-institut.de"
+        ], 
+        "cite_url": "www.ibai-research.de/contact.php", 
+        "cite_name": "", 
+        "title": "Contact Us - Homepage Prof. Petra Perner"
+    }
+]

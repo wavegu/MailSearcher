@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: arvindr@psu.edu ... professor rangaswamy joined penn state in 1993. ... lilien, gary l., arvind rangaswamy and arnaud de bruyn (2013), principles of...", 
+        "email_list": [
+            "arvindr@psu.edu"
+        ], 
+        "cite_url": "www.arvind.info/", 
+        "cite_name": "", 
+        "title": "Arvind Rangaswamy: Faculty Page"
+    }, 
+    {
+        "content": "aug 30, 2013 - penn state university email: arvindr@psu.edu. university park, pa 16802. web site: www.arvind.info. i. educational background.", 
+        "email_list": [
+            "arvindr@psu.edu"
+        ], 
+        "cite_url": "https://www.stern.nyu.edu...", 
+        "cite_name": "New York University Stern School of Business", 
+        "title": "[PDF]ARVIND RANGASWAMY - NYU Stern School of Business"
+    }, 
+    {
+        "content": "computer-assisted marketing analysis and planning gary l. lilien, arvind rangaswamy. order this book online at www.trafford.com/04-0080 or email...", 
+        "email_list": [
+            "online@www.trafford.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1412022525", 
+        "cite_name": "", 
+        "title": "Marketing Engineering: Computer-assisted Marketing ..."
+    }, 
+    {
+        "content": "see information and reports about arvindr@psu.edu (arvind rangaswamys e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "arvindr@psu.edu"
+        ], 
+        "cite_url": "spam-report.email/arvindr/psu.edu", 
+        "cite_name": "", 
+        "title": "arvindr@psu.edu (Arvind Rangaswamys e-mail) - Spam ..."
+    }
+]

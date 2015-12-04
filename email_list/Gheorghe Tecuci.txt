@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email: tecuci at gmu dot edu, tel: (703) 993-1722, http://lac.gmu.edu ... education: gheorghe tecuci received his m.s. degree in computer science from the...", 
+        "email_list": [
+            "tecuci@gmu.edu"
+        ], 
+        "cite_url": "lac.gmu.edu/members/tecuci.htm", 
+        "cite_name": "", 
+        "title": "Prof. Gheorghe Tecuci"
+    }, 
+    {
+        "content": "email, kdejongblah@cs.gmu.edu. web, http://cs.gmu.edu/~kdejong/ .... gheorghe tecuci. professor ... web, http://lac.gmu.edu/members/tecuci.htm...", 
+        "email_list": [
+            "kdejongblah@cs.gmu.edu"
+        ], 
+        "cite_url": "https://cs.gmu.edu/faculty/", 
+        "cite_name": "George Mason University", 
+        "title": "Computer Science Department Faculty"
+    }, 
+    {
+        "content": "gheorghe tecuci. professor of ... verified email at gmu.edu - homepage  scholar ... g tecuci, m boicu, k wright, sw lee, d marcu, m bowman. aaai/iaai...", 
+        "email_list": [
+            "email@gmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OrhUjqEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gheorghe Tecuci - Google Scholar Citations"
+    }, 
+    {
+        "content": "preşedinte. acad. florin gheorghe filip. membri titulari. nume, informaţii, email ... gheorghe tecuci, n.1954, inginer (detalii), tecuci@gmu.edu. acad. andrei...", 
+        "email_list": [
+            "tecuci@gmu.edu"
+        ], 
+        "cite_url": "www.acad.ro/sectii/sectia14_informatica/info.htm", 
+        "cite_name": "", 
+        "title": "XIV - Sectia de Stiinta si Tehnologia Informatiei"
+    }, 
+    {
+        "content": "nume, informaţii, email. acad. ... gheorghe tecuci, n.1954, inginer (detalii), tecuci@gmu.edu. acad. ... dr. ing. gheorghe Ştefan, n.1948, inginer electronist.", 
+        "email_list": [
+            "tecuci@gmu.edu"
+        ], 
+        "cite_url": "valhalla.racai.ro/sti/info.htm", 
+        "cite_name": "", 
+        "title": "XIV - Sectia de Stiinta si Tehnologia Informatiei - racai"
+    }
+]

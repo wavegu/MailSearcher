@@ -1,0 +1,29 @@
+[
+    {
+        "content": "kaisheng yao. microsoft ... verified email at microsoft.com - homepage  scholar ... l deng, j li, jt huang, k yao, d yu, f seide, m seltzer, g zweig, x he, .", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DvmAEtUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kaisheng Yao - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: first name dot last name at microsoft.com ... k. yao, b. peng, g. zweig, d. yu, x. li, and f. gao, “recurrent conditional random fields”, in deep learning...", 
+        "email_list": [
+            "name@microsoft.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/kaishengyao/publications-1", 
+        "cite_name": "", 
+        "title": "Publications - Kaisheng Yao - Google Sites"
+    }, 
+    {
+        "content": "email: first name dot last name at microsoft.com. projects. git hub. $ git init. $ git remote add sludecoder https://github.com/kaishengyao/sludecoder.git.", 
+        "email_list": [
+            "name@microsoft.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/kaishengyao/projects", 
+        "cite_name": "", 
+        "title": "Projects - Kaisheng Yao - Sites - Google"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "michael garland. ... garland, m. g., santer, m.,  morrison, j. f. adaptive vortex generator structures for the reduction ... e-mail: m.garland12@imperial.ac.uk...", 
+        "email_list": [
+            "m.garland12@imperial.ac.uk"
+        ], 
+        "cite_url": "www3.imperial.ac.uk/aeflowcontrol/mgarland", 
+        "cite_name": "Imperial College London", 
+        "title": "Michael Garland - Imperial College London"
+    }, 
+    {
+        "content": "michael garland. director of research, nvidia ... verified email at nvidia.com - homepage  scholar. get my own ... m garland, ps heckbert. proceedings of the...", 
+        "email_list": [
+            "email@nvidia.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6oB5ju0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael Garland - Google Scholar Citations"
+    }
+]

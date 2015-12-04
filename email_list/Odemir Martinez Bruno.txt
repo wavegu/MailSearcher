@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. odemir martinez bruno. associate professor ... verified email at ifsc.usp.br. scholar. get my own ... ar backes, wn gonçalves, as martinez, om bruno.", 
+        "email_list": [
+            "email@ifsc.usp.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LiQWYEIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Odemir Martinez Bruno - Google Scholar Citations"
+    }, 
+    {
+        "content": "view page foto. collaborator - previous member - professor. contact information: odemir martinez bruno (bruno at ifsc.usp.br) institute of physics at são carlos", 
+        "email_list": [
+            "bruno@ifsc.usp.br"
+        ], 
+        "cite_url": "cyvision.ifsc.usp.br/.../home.php?...odemir", 
+        "cite_name": "University of São Paulo", 
+        "title": "Odemir Martinez Bruno - Luciano Costas Group"
+    }
+]

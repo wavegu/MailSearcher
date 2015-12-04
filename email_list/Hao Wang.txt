@@ -1,0 +1,83 @@
+[
+    {
+        "content": "hao wang, m.d., ph.d., anesthesiology at wake forest baptist medical center. ... academic: 336-716-2943. email: haowang@wakehealth.edu...", 
+        "email_list": [
+            "haowang@wakehealth.edu"
+        ], 
+        "cite_url": "www.wakehealth.edu/.../Wang-Hao.h...", 
+        "cite_name": "Wake Forest Baptist Medical Center", 
+        "title": "Hao Wang, MD, Ph.D., Anesthesiology - Wake Forest Baptist ..."
+    }, 
+    {
+        "content": "hao wang, university of oregon. hello and welcome . i am an associate ... 321 fenton hall phone 1-541-346-5628. email:  haowang@uoregon.edu ", 
+        "email_list": [
+            "haowang@uoregon.edu"
+        ], 
+        "cite_url": "uoregon.edu/~haowang", 
+        "cite_name": "University of Oregon", 
+        "title": "Hao Wang - University of Oregon"
+    }, 
+    {
+        "content": "office : z2.108. location : toowoomba campus. phone : +61 7 4631 1336. extension : 1336. e-mail : hao.wang@usq.edu.au. qualifications : gcerted, phd qld...", 
+        "email_list": [
+            "hao.wang@usq.edu.au"
+        ], 
+        "cite_url": "staffsearch.usq.edu.au/default.aspx?...", 
+        "cite_name": "University of Southern Queensland", 
+        "title": "Professor Hao Wang - Professor (Materials and ..."
+    }, 
+    {
+        "content": "contact. mail:909 fee road room b601 east lansing, michigan 48824. email: haowang at msu dot edu. phone: (517) 353 8623...", 
+        "email_list": [
+            "haowang@msu.edu"
+        ], 
+        "cite_url": "https://www.msu.edu/~haowang/", 
+        "cite_name": "Michigan State University", 
+        "title": "Hao Wang - Michigan State University"
+    }, 
+    {
+        "content": "hao wang ... email: hwang.cee@rutgers.edu. office: core 608. dr. wangs general research is in the field of sustainable and resilient built environment.", 
+        "email_list": [
+            "hwang.cee@rutgers.edu"
+        ], 
+        "cite_url": "www.civeng.rutgers.edu/fac/hao-wang", 
+        "cite_name": "Rutgers University", 
+        "title": "Hao Wang | Rutgers University, Civil  Environmental ..."
+    }, 
+    {
+        "content": "a homepage for hao wang, sjtu and hkust. ... address: 10 kings college road, toronto on m5s 3g4, canada email: haowang [at] ece.toronto.edu...", 
+        "email_list": [
+            "haowang@ece.toronto.edu"
+        ], 
+        "cite_url": "www.haow.ca/", 
+        "cite_name": "", 
+        "title": "Hao Wang"
+    }, 
+    {
+        "content": "hao wang msc. junior researcher. biography. hao wang is working as a junior researcher at unesco-ihe since 1 ... email h.wang@unesco-ihe.org.", 
+        "email_list": [
+            "h.wang@unesco-ihe.org"
+        ], 
+        "cite_url": "https://www.unesco-ihe.org/hao-wang", 
+        "cite_name": "UNESCO‑IHE", 
+        "title": "Hao Wang | UNESCO-IHE"
+    }, 
+    {
+        "content": "contact. phone : (506) 453-6856. fax : (506) 453-2780. email : hao.wang@gnb.ca. mailing address. hsbc place p. o. box 5100. fredericton, nb e3b 5g8", 
+        "email_list": [
+            "hao.wang@gnb.ca"
+        ], 
+        "cite_url": "www2.gnb.ca/content/.../contacts_renderer.208239.html", 
+        "cite_name": "New Brunswick", 
+        "title": "WANG, HAO - Government of New Brunswick"
+    }, 
+    {
+        "content": "email: wanghao@nju.edu.cn ... ziyu lu, hao wang, nikos mamoulis, wenting tu, and david w. cheung, personalized location recommendation by...", 
+        "email_list": [
+            "wanghao@nju.edu.cn"
+        ], 
+        "cite_url": "cs.nju.edu.cn/RL/people/wangh/index.html", 
+        "cite_name": "", 
+        "title": "Hao Wangs Homepage"
+    }
+]

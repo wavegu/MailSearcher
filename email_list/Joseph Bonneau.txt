@@ -1,0 +1,29 @@
+[
+    {
+        "content": "joseph bonneau. email, jbonneau@cs.stanford.edu (pgp key). mobile, +1 650 804 6934 ... j. bonneau, e. bursztein, i. caron, r. jackson and m. williamson.", 
+        "email_list": [
+            "jbonneau@cs.stanford.edu"
+        ], 
+        "cite_url": "jbonneau.com/", 
+        "cite_name": "", 
+        "title": "Joseph Bonneau — index"
+    }, 
+    {
+        "content": "joseph bonneau. email, jbonneau@cs.stanford.edu (pgp key). mobile, +1 650 804 6934. office, +1 415 436 9333 x132. home · papers · talks · writing · media...", 
+        "email_list": [
+            "jbonneau@cs.stanford.edu"
+        ], 
+        "cite_url": "jbonneau.com/presentations.html", 
+        "cite_name": "", 
+        "title": "Joseph Bonneau — presentations"
+    }, 
+    {
+        "content": "joseph bonneau. postdoctoral fellow ... verified email at princeton.edu - homepage  scholar ... j bonneau, c herley, pc van oorschot, f stajano. security and...", 
+        "email_list": [
+            "email@princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ko1bXSkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Joseph Bonneau - Google Scholar Citations"
+    }
+]

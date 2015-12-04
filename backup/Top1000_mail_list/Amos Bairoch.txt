@@ -1,4 +1,39 @@
-amos.bairoch@isb-sib.ch	[23]
-bairoch@cmu.unige.ch	[16]
-elisabeth.gasteiger@isb-sib.ch	[3]
-email at isb-sib.ch	[3]
+[
+    {
+        "content": "create alert. cancel. amos bairoch ... verified email at isb-sib.ch. scholar ... a bairoch, r apweiler, ch wu, wc barker, b boeckmann, s ferro, ... nucleic acids...", 
+        "email_addr_list": [
+            "email@isb-sib.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LJNAj68AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Amos Bairoch - Google Scholar Citations"
+    }, 
+    {
+        "content": "swiss institute of bioinformatics; 1, rue michel servet, 1211 geneva 4; switzerland. email contacts: amos.bairoch@isb-sib.ch, elisabeth.gasteiger@isb-sib.ch,...", 
+        "email_addr_list": [
+            "amos.bairoch@isb-sib.ch", 
+            "elisabeth.gasteiger@isb-sib.ch"
+        ], 
+        "cite_url": "www.iop.vast.ac.vn/theor/conferences/smp/1st/kaminuma/.../expasy.rtf", 
+        "cite_name": "", 
+        "title": "[RTF]Bairoch A"
+    }, 
+    {
+        "content": "... 1993 concern: list of molecular biology email servers author : amos bairoch / dept. medical biochemistry / university of geneva bairoch@cmu.unige.ch...", 
+        "email_addr_list": [
+            "bairoch@cmu.unige.ch"
+        ], 
+        "cite_url": "iubio.bio.indiana.edu/soft/help/old/bairoch.email.list", 
+        "cite_name": "", 
+        "title": "bairoch.email.list - IUBio Archive for Biology"
+    }, 
+    {
+        "content": "... and swiss-prot ------------------------------------------------------------------------------ amos bairoch email: amos.bairoch@isb-sib.ch swiss institute of bioinformatics...", 
+        "email_addr_list": [
+            "amos.bairoch@isb-sib.ch"
+        ], 
+        "cite_url": "ftp://ftp.eimb.ru/prosite/experts.txtwww.google.com/email", 
+        "cite_name": "", 
+        "title": "SWISS-PROT Protein Sequence Database Release 39.0 ...Google Business Email‎"
+    }
+]

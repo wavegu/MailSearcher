@@ -1,2 +1,20 @@
-kuk2@psu.edu	[3]
-email at lab.u-ryukyu.ac.jp	[3]
+[
+    {
+        "content": "kazuhiko kawasaki. kazuhiko kawasaki. research associate. 409 carpenter building, university park , pa 16802. email: kuk2@psu.edu. office phone: (814)...", 
+        "email_addr_list": [
+            "kuk2@psu.edu"
+        ], 
+        "cite_url": "anth.la.psu.edu/people/kuk2", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Kazuhiko Kawasaki — Department of Anthropology"
+    }, 
+    {
+        "content": "kazuhiko sakai. professor of ... verified email at lab.u-ryukyu.ac.jp - homepage  scholar ... s muko, k kawasaki, k sakai, f takasu, n shigesada. bulletin of...", 
+        "email_addr_list": [
+            "email@lab.u-ryukyu.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=uZ75UF0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kazuhiko SAKAI - Google Scholar Citations"
+    }
+]

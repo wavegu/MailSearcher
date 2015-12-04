@@ -1,0 +1,38 @@
+[
+    {
+        "content": "mark s. handcock. professor of ... e-mail: handcock@ucla.edu curriculum vitae (pdf) ... dr. handcock moved from the university of washington in 2010.", 
+        "email_list": [
+            "handcock@ucla.edu"
+        ], 
+        "cite_url": "www.stat.ucla.edu/~handcock/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Mark S. Handcock - UCLA Statistics"
+    }, 
+    {
+        "content": "campus address. 8105c math sciences bldg. phone numbers. 206-457-1953 — fax. 310-817-6778 — office. email addresses. chair@stat.ucla.edu.", 
+        "email_list": [
+            "chair@stat.ucla.edu"
+        ], 
+        "cite_url": "directory.stat.ucla.edu/mark-s.-handcock", 
+        "cite_name": "", 
+        "title": "UCLA Statistics: Mark S. Handcock"
+    }, 
+    {
+        "content": "name: mark s. handcock. location: university of washington. e-mail: handcock@u.washington.edu. phone: (206) 221-6930. street address: university of...", 
+        "email_list": [
+            "handcock@u.washington.edu"
+        ], 
+        "cite_url": "cfpub.epa.gov/.../10436", 
+        "cite_name": "United States Environmental Protection Agency", 
+        "title": "Mark S. Handcock | Investigator Information | Research ..."
+    }, 
+    {
+        "content": "department of statistics 310 thomas building penn state university university park pa 16802 (e-mail: dhunter@stat.psu.edu) . mark s. handcock is professor...", 
+        "email_list": [
+            "dhunter@stat.psu.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-handcock-stat-was-18966342.htm", 
+        "cite_name": "", 
+        "title": "handcock@stat.was - The Email Archive"
+    }
+]

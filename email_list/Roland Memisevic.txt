@@ -1,0 +1,38 @@
+[
+    {
+        "content": "roland memisevic, universite de montreal, canada. tel: 514-343-6111 ext.47618 email: roland.memisevic@gmail.com. roland memisevic. curriculum vitae.", 
+        "email_list": [
+            "roland.memisevic@gmail.com"
+        ], 
+        "cite_url": "www.iro.umontreal.ca/.../memisevicCV.pdf", 
+        "cite_name": "Université de Montréal", 
+        "title": "[PDF]Roland Memisevic"
+    }, 
+    {
+        "content": "cancel. roland memisevic. assistant ... verified email at cs.uni-frankfurt.de - homepage  scholar ... j susskind, r memisevic, g hinton, m pollefeys. computer...", 
+        "email_list": [
+            "email@cs.uni-frankfurt.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8oJl5P0AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Roland Memisevic - Google Scholar Citations"
+    }, 
+    {
+        "content": "roland memisevic roland memisevic. votes [syn] 491 views, 1:31:59. flag convolutional .... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Deep Learning Summer School, Montreal 2015 ..."
+    }, 
+    {
+        "content": "roland@cs.toronto.edu (roland memisevic)s newsreader profile ... the matlab central newsreader allows you to define an alternative email address as your...", 
+        "email_list": [
+            "roland@cs.toronto.edu"
+        ], 
+        "cite_url": "www.mathworks.com/matlabcentral/newsreader/.../73280", 
+        "cite_name": "MathWorks", 
+        "title": "MATLAB Central - roland@cs.toronto.edu (Roland Memisevic)"
+    }
+]

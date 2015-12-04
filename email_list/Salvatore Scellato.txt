@@ -1,0 +1,39 @@
+[
+    {
+        "content": "salvatore scellato. cambridge networks network ... day  join us. info. salvatore scellato. phd student in the computer laboratory. email: ss824@cam.ac.uk...", 
+        "email_list": [
+            "ss824@cam.ac.uk"
+        ], 
+        "cite_url": "www.cnn.group.cam.ac.uk/directory/ss824@cam.ac.uk", 
+        "cite_name": "", 
+        "title": "Salvatore Scellato — Cambridge Networks Network"
+    }, 
+    {
+        "content": "cancel. salvatore scellato ... verified email at cl.cam.ac.uk - homepage  scholar ... a noulas, s scellato, r lambiotte, m pontil, c mascolo. plos one 7 (5),...", 
+        "email_list": [
+            "email@cl.cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jBnuYi4AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Salvatore Scellato - Google Scholar Citations"
+    }, 
+    {
+        "content": "the latest tweets from salvatore scellato (@thetarro). sicilian. software engineer ... #gamestop -- for support, email us at twitter@gamestop.com. unmute @...", 
+        "email_list": [
+            "twitter@gamestop.com"
+        ], 
+        "cite_url": "https://twitter.com/thetarro", 
+        "cite_name": "", 
+        "title": "Salvatore Scellato (@thetarro) | Twitter"
+    }, 
+    {
+        "content": "apr 21, 2010 - ph.d. allestero. salvatore scellato. phd student in computer science ... email:  salvatore.scellato@cl.cam.ac.uk  salvo.scellato@gmail.com.", 
+        "email_list": [
+            "salvatore.scellato@cl.cam.ac.uk", 
+            "salvo.scellato@gmail.com"
+        ], 
+        "cite_url": "alumni.ssc.unict.it/.../1387613566wpdm_orientament...", 
+        "cite_name": "", 
+        "title": "[PDF]Salvatore Scellato - Alumni Ssc"
+    }
+]

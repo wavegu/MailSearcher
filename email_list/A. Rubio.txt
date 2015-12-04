@@ -1,0 +1,20 @@
+[
+    {
+        "content": "address. marco rubio for president po box 558701. miami, fl 33255-8701. email. contact@marcorubio.com. for press inquiries, please contact our press...", 
+        "email_list": [
+            "contact@marcorubio.com"
+        ], 
+        "cite_url": "https://marcorubio.com/contact/", 
+        "cite_name": "", 
+        "title": "Join Marco Rubio"
+    }, 
+    {
+        "content": "verified email at ehu.es - homepage  scholar ... x blase, a rubio, sg louie, ml cohen ... d sánchez-portal, e artacho, jm soler, a rubio, p ordejón. physical...", 
+        "email_list": [
+            "email@ehu.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iBOgIvsAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Angel Rubio - Google Scholar Citations"
+    }
+]

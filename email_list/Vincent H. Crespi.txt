@@ -1,0 +1,38 @@
+[
+    {
+        "content": "vincent crespi. vincent crespi. main content. professor of physics; professor of ... office: 326 davey lab university park, pa 16802. email: vhc2@psu.edu", 
+        "email_list": [
+            "vhc2@psu.edu"
+        ], 
+        "cite_url": "chem.psu.edu/directory/vhc2", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Vincent Crespi - Penn State Department of Chemistry"
+    }, 
+    {
+        "content": "email: cristiano@lanl.gov. nationality ... advisor: prof. vincent h. crespi .... v. h. crespi, p. schiffer, p. lammert, jie li at penn state university. • d. abraham at...", 
+        "email_list": [
+            "cristiano@lanl.gov"
+        ], 
+        "cite_url": "cnls-www.lanl.gov/.../resume-us.pdf", 
+        "cite_name": "Los Alamos National Laboratory", 
+        "title": "[PDF]CV updated October 31st, 2010. - Center for Nonlinear Studies"
+    }, 
+    {
+        "content": "affiliation: the pennsylvania state university. email: vhc2@psu.edu ... amir nourhani, paul e. lammert, ali borhan and vincent h. crespi 2014 annual meeting.", 
+        "email_list": [
+            "vhc2@psu.edu"
+        ], 
+        "cite_url": "www3.aiche.org/.../AuthorDeta...", 
+        "cite_name": "American Institute of Chemical Engineers", 
+        "title": "AIChE - Proceedings - About - Vincent H. Crespi"
+    }, 
+    {
+        "content": "correspondence to: vincent h. crespi correspondence and requests for materials should be addressed to v.h.c. (e-mail: email: crespi@phys.psu.edu).", 
+        "email_list": [
+            "crespi@phys.psu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Computational design of direct-bandgap semiconductors ..."
+    }
+]

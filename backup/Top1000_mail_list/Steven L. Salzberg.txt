@@ -1,4 +1,30 @@
-salzberg@umd.edu	[19]
-salzberg@jhu.edu	[19]
-cole@cs.umd.edu	[2]
-email at jhu.edu	[2]
+[
+    {
+        "content": "steven l. salzberg, ph.d. ... phone: 410-614-6112 email: salzberg@jhu.edu ... http://www.forbes.com/sites/stevensalzberg and http://genome.fieldofscience.com.", 
+        "email_addr_list": [
+            "salzberg@jhu.edu"
+        ], 
+        "cite_url": "ccb.jhu.edu/people/salzberg/biosketch.html", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Salzberg biosketch - CCB - Johns Hopkins University"
+    }, 
+    {
+        "content": "steven salzberg. bloomberg distinguished ... verified email at jhu.edu - homepage  scholar ... c trapnell, l pachter, sl salzberg. bioinformatics 25 (9)...", 
+        "email_addr_list": [
+            "email@jhu.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=sUVeH...", 
+        "cite_name": "Google Scholar", 
+        "title": "Steven Salzberg - Google Scholar Citations"
+    }, 
+    {
+        "content": "cole trapnell and steven l. salzberg are at the center for bioinformatics and ... trapnellsteven l salzberg e-mail: cole@cs.umd.edu or salzberg@umd.edu...", 
+        "email_addr_list": [
+            "cole@cs.umd.edu", 
+            "salzberg@umd.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Computational Biology  Primer", 
+        "cite_name": "Nature", 
+        "title": "How to map billions of short reads onto genomes : Abstract ..."
+    }
+]

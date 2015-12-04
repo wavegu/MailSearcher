@@ -1,5 +1,29 @@
-ghahramanizoubin@eng.cam.ac	[33]
-zoubin@eng.cam.ac.uk	[13]
-zoubin@gatsby.ucl.ac.uk	[13]
-zg201@eng.cam.ac.uk	[3]
-email at eng.cam.ac.uk	[2]
+[
+    {
+        "content": "email: zg201@eng.cam.ac.uk ... zoubin ghahramani studied computer science and cognitive science at the university of pennsylvania, obtained his phd from...", 
+        "email_addr_list": [
+            "zg201@eng.cam.ac.uk"
+        ], 
+        "cite_url": "www.eng.cam.ac.u...", 
+        "cite_name": "Department of Engineering, University of Cambridge", 
+        "title": "Prof. Zoubin Ghahramani - Department of Engineering"
+    }, 
+    {
+        "content": "zoubin ghahramani. professor, university ... verified email at eng.cam.ac.uk - homepage  scholar ... mi jordan, z ghahramani, ts jaakkola, lk saul. machine...", 
+        "email_addr_list": [
+            "email@eng.cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0uTu7fYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Zoubin Ghahramani - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: zoubin@gatsby.ucl.ac.uk. www: http://www.gatsby.ucl.ac.uk/~zoubin/. date of birth: 8 february 1970. academic employment. lecturer, sep 1998–...", 
+        "email_addr_list": [
+            "zoubin@gatsby.ucl.ac.uk"
+        ], 
+        "cite_url": "www.cs.cmu.edu/afs/cs.../zoubin/.../fullcv.pd...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[PDF]Zoubin Ghahramani PERSONAL DATA ACADEMIC ..."
+    }
+]

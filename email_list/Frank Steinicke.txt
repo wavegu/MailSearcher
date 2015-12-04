@@ -1,0 +1,20 @@
+[
+    {
+        "content": "frank steinicke. professor of ... verified email at uni-hamburg.de - homepage  scholar ... f steinicke, g bruder, j jerald, h frenz, m lappe. visualization and...", 
+        "email_list": [
+            "email@uni-hamburg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=bmRsMpUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Frank Steinicke - Google Scholar Citations"
+    }, 
+    {
+        "content": "perception, technology, and applications frank steinicke, yon visell, ... frank steinicke email: frank.steinicke@uni-wuerzburg.de abstract in the previous...", 
+        "email_list": [
+            "frank.steinicke@uni-wuerzburg.de"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1441984321", 
+        "cite_name": "", 
+        "title": "Human Walking in Virtual Environments: Perception, ..."
+    }
+]

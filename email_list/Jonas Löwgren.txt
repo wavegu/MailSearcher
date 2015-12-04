@@ -1,0 +1,38 @@
+[
+    {
+        "content": "e-post: jonas.lowgren@mah.se. telefon: 040-66 57896. besöksadress: nordenskiöldsgatan 1, ni. mobil: fax: postadress: malmö högskola, kultur och samhälle...", 
+        "email_list": [
+            "jonas.lowgren@mah.se"
+        ], 
+        "cite_url": "forskning.mah.se/id/k3jolo", 
+        "cite_name": "Malmö University", 
+        "title": "Jonas Löwgren - forskning Malmö högskola"
+    }, 
+    {
+        "content": "e-mail: jonas.lowgren@mah.se. telephone: 040-66 57896. visiting address: nordenskiöldsgatan 1, ni. mobile: fax: postal address: malmö högskola, kultur och...", 
+        "email_list": [
+            "jonas.lowgren@mah.se"
+        ], 
+        "cite_url": "forskning.mah.se/en/id/k3jolo", 
+        "cite_name": "Malmö University", 
+        "title": "Jonas Löwgren - research Malmö University - Malmö högskola"
+    }, 
+    {
+        "content": "jonas löwgren. professor of interaction and ... verified email at liu.se - homepage  scholar. get my own profile ... j löwgren, e stolterman. the mit press, 2004.", 
+        "email_list": [
+            "email@liu.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wBPvZE0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jonas Löwgren - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 5, 2015 - name: jonas löwgren; title: gästprofessor; department: department of science and ... (mit); phone: +4611363654; email: jonas.lowgren@liu.se.", 
+        "email_list": [
+            "jonas.lowgren@liu.se"
+        ], 
+        "cite_url": "https://www.liu.se/personal/itn/jonlo66?l=en", 
+        "cite_name": "Linköping University", 
+        "title": "Jonas Löwgren - Linköping University"
+    }
+]

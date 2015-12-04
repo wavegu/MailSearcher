@@ -1,0 +1,56 @@
+[
+    {
+        "content": "xiu-min li, professor pediatrics, allergy and immunology, at mount sinai hospital, specializing in pediatric allergy and ... email. xiu-min.li@mssm.edu...", 
+        "email_list": [
+            "xiu-min.li@mssm.edu"
+        ], 
+        "cite_url": "www.mountsinai.org/profiles/xiu-min-li", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Xiu-Min Li - The Mount Sinai Hospital"
+    }, 
+    {
+        "content": "verified email at cn.ibm.com - homepage  scholar. get my own ... m li, z zhang, k huang, t tan ... y wang, j huang, ws dong, jc yan, ch tian, m li, wt mo.", 
+        "email_list": [
+            "email@cn.ibm.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WrTOQfcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "min li - Google Scholar Citations"
+    }, 
+    {
+        "content": "share; tweet; email; print. min li, phd. associate research scientist in pediatrics ... contact info. min li, phd. emailmin.li.ml96@yale.edu. close. image. close...", 
+        "email_list": [
+            "emailmin.li.ml96@yale.edu"
+        ], 
+        "cite_url": "medicine.yale.edu/intranet/.../min_li_ml96.profi...", 
+        "cite_name": "Yale School of Medicine", 
+        "title": "Min Li, PhD | Yale School of Medicine"
+    }, 
+    {
+        "content": "email: limin@mail.csu.edu.cn. li min. research interests. bioinformatics/systems biology: • clustering algorithms for protein-protein interaction networks", 
+        "email_list": [
+            "limin@mail.csu.edu.cn"
+        ], 
+        "cite_url": "netlab.csu.edu.cn/personal/limin/index_en.html", 
+        "cite_name": "", 
+        "title": "Li mins homepage"
+    }, 
+    {
+        "content": "email: min-li@ouhsc.edu. mailing address. the university of oklahoma health sciences center stanton l. young biomedical research center, brc1262a", 
+        "email_list": [
+            "min-li@ouhsc.edu"
+        ], 
+        "cite_url": "https://www.oumedicine.com/.../hematology-oncology---mi...", 
+        "cite_name": "OU Medicine", 
+        "title": "Min Li Ph.D. Research Lab - OU Medicine"
+    }, 
+    {
+        "content": "dr. minli liao. title: bsw department; office location: jenkins building, room 351; phone: 443-885-3194; email: minli.liao@morgan.edu. education: msw...", 
+        "email_list": [
+            "minli.liao@morgan.edu"
+        ], 
+        "cite_url": "www.morgan.edu/school_of.../minli_liao.html", 
+        "cite_name": "Morgan State University", 
+        "title": "Minli Liao - Morgan State University"
+    }
+]

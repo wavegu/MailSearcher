@@ -1,3 +1,20 @@
-feng.chen@baruch.cuny.edu	[17]
-chenfen@missouri.edu	[10]
-dfchen@vision.eri.harvard.edu	[10]
+[
+    {
+        "content": "email: chenfen@missouri.edu. feng chen is an assistant professor of accountancy. he earned his ph.d. in accounting (2008) from columbia university and an...", 
+        "email_addr_list": [
+            "chenfen@missouri.edu"
+        ], 
+        "cite_url": "business.missouri.edu/people.../feng-chen", 
+        "cite_name": "Trulaske College of Business", 
+        "title": "Feng Chen | Trulaske College of Business"
+    }, 
+    {
+        "content": "email: feng.chen@baruch.cuny.edu. phone: (646) 312-4168. last update: january 30, 2015, department of mathematics baruch college one bernard baruch...", 
+        "email_addr_list": [
+            "feng.chen@baruch.cuny.edu"
+        ], 
+        "cite_url": "www.dam.brown.edu/people/fc13/", 
+        "cite_name": "Brown University", 
+        "title": "Feng Chen, Ph.D."
+    }
+]

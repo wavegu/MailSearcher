@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email nicolai.marquardt@acm.org. web http://www.nicolaimarquardt.com. summary. ▫ research experience in ubiquitous computing, sensor-based systems,.", 
+        "email_list": [
+            "nicolai.marquardt@acm.org"
+        ], 
+        "cite_url": "www.nicolaimarquardt.com/Nicolai-Marquardt-CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Nicolai Marquardt CV.pdf"
+    }, 
+    {
+        "content": "nicolai marquardt. lecturer (assistant ... verified email at acm.org - homepage  scholar ... s greenberg, n marquardt, t ballendat, r diaz-marino, m wang.", 
+        "email_list": [
+            "email@acm.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PXeN0RsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nicolai Marquardt - Google Scholar Citations"
+    }
+]

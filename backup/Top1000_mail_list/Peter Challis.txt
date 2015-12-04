@@ -1,3 +1,21 @@
-drpchallis@mweb.co.za	[16]
-pchallis@cfa.harvard.edu	[16]
-hroodt1@gmail.com	[1]
+[
+    {
+        "content": "dr peter challis. mbchb (pret) fcs (ophth) ... special interest: general ophthalmologist drpchallis@mweb.co.za ... and refractive surgery hroodt1@gmail.com...", 
+        "email_addr_list": [
+            "drpchallis@mweb.co.za", 
+            "hroodt1@gmail.com"
+        ], 
+        "cite_url": "jhbeye.co.za/jhb-eye-hospital-eye-specialists.html", 
+        "cite_name": "", 
+        "title": "Johannesburg Eye Hospital - Our Eye Specialists"
+    }, 
+    {
+        "content": "peter challis. semester: 2006 january-june. email: pchallis@cfa.harvard.edu. coi.: robert kirshner. program title: investigations of snr 1987a. telescope:.", 
+        "email_addr_list": [
+            "pchallis@cfa.harvard.edu"
+        ], 
+        "cite_url": "https://www.cfa.harvard.ed...", 
+        "cite_name": "Harvard–Smithsonian Center for Astrophysics", 
+        "title": "[PDF]Program No.: P. I.: Peter Challis Semester: 2006 January ..."
+    }
+]

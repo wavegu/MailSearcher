@@ -1,8 +1,21 @@
-massimo.mangino@kcl.ac.uk	[29]
-email at massimo.mangino	[29]
-massimo.mangino@kcl.ac.uk.telomere	[29]
-technicianmeenakshi.arun@kcl.ac.uk.massimo	[3]
-assistantandrew.anastasiou@kcl.ac.uk.meenakshi	[1]
-a.cavadino@ucl.ac.uk	[1]
-diane.berry@bupa.com	[1]
-brent.richards@mcgill.ca	[1]
+[
+    {
+        "content": "email: massimo.mangino@kcl.ac.uk. share this page: access committee for cls cohorts  access committee for cls cohorts (accc)  oversight committee.", 
+        "email_addr_list": [
+            "massimo.mangino@kcl.ac.uk"
+        ], 
+        "cite_url": "www2.le.ac.uk  ...  Oversight Committee", 
+        "cite_name": "University of Leicester", 
+        "title": "Dr Massimo Mangino — University of Leicester"
+    }, 
+    {
+        "content": "dc.description.email, massimo.mangino@kcl.ac.uk (mangino, massimo). dc.description.email, brent.richards@mcgill.ca (richards, j brent). dc.description.email...", 
+        "email_addr_list": [
+            "massimo.mangino@kcl.ac.uk", 
+            "brent.richards@mcgill.ca"
+        ], 
+        "cite_url": "www.tara.tcd.ie/handle/2262/48681?show=full", 
+        "cite_name": "", 
+        "title": "telomere - TARA"
+    }
+]

@@ -1,1 +1,11 @@
-email at amazon.com	[2]
+[
+    {
+        "content": "paul viola. amazon prime air ... verified email at amazon.com - homepage  scholar ... wm wells, p viola, h atsumi, s nakajima, r kikinis. medical image...", 
+        "email_addr_list": [
+            "email@amazon.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=G2-nFaIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Paul Viola - Google Scholar Citations"
+    }
+]

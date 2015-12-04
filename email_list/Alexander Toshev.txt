@@ -1,0 +1,11 @@
+[
+    {
+        "content": "alexander toshev. homepage: http://www.seas.upenn.edu/~toshev/site/about_me.html ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/alexander_toshev/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Alexander Toshev - VideoLectures.NET"
+    }
+]

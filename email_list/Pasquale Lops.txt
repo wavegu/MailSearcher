@@ -1,0 +1,29 @@
+[
+    {
+        "content": "create alert. cancel. pasquale lops ... verified email at di.uniba.it. scholar. get my own ... m de gemmis, p lops, g semeraro, p basile. proceedings of the...", 
+        "email_list": [
+            "email@di.uniba.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1MHRACkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Pasquale Lops - Google Scholar Citations"
+    }, 
+    {
+        "content": "alexander felfernig graz university of technology email: alexander.felfernig@ist.tugraz.at  www.felfernig.eu. pasquale lops university of bari aldo moro, italy", 
+        "email_list": [
+            "alexander.felfernig@ist.tugraz.at"
+        ], 
+        "cite_url": "recex.ist.tugraz.at/RecSysWorkshop/?page_id=33", 
+        "cite_name": "", 
+        "title": "Contact/Committees | Decisions@RecSys"
+    }, 
+    {
+        "content": "alexander felfernig graz university of technology email: alexander.felfernig@ist.tugraz.at  www.felfernig.eu. pasquale lops university of bari aldo moro, italy", 
+        "email_list": [
+            "alexander.felfernig@ist.tugraz.at"
+        ], 
+        "cite_url": "recex.ist.tugraz.at/.../ContactCommittees.jsp", 
+        "cite_name": "", 
+        "title": "Decisions@RecSys - Graz University of Technology"
+    }
+]

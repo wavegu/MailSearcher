@@ -1,0 +1,32 @@
+[
+    {
+        "content": "jian-jiun ding, wei-lun chao, jiun-de huang, and cheng-jin kuo. graduate ... e-mail: djj@cc.ee.ntu.edu.tw, r98942073@ntu.edu.tw, r95942104@ntu.edu.tw,...", 
+        "email_list": [
+            "djj@cc.ee.ntu.edu.tw", 
+            "r98942073@ntu.edu.tw", 
+            "r95942104@ntu.edu.tw"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../05...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Jian-Jiun Ding, Wei-Lun Chao, Jiun-De Huang, and Cheng ..."
+    }, 
+    {
+        "content": "jun ding. staff scientist, laboratory of genetics, national institute on aging, nih  statistical genetics, biostatistics ... verified email at nih.gov - homepage  scholar. get my own ... p jiang, l chen, j lin, q liu, j ding, x gao, z guo. chemical...", 
+        "email_list": [
+            "email@nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PEQgkwMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jun Ding - Google Scholar Citations"
+    }, 
+    {
+        "content": "jian-jiun ding digital images and signal processing: advisers email:djj@cc.ee.ntu.edu.tw , djj1@ms63.hinet.net. prof. jing-ming guo multimedia signal...", 
+        "email_list": [
+            "djj@cc.ee.ntu.edu.tw", 
+            "djj1@ms63.hinet.net"
+        ], 
+        "cite_url": "www.apsipa.org/friendlab/Application/lablist.asp?list=2np=50...", 
+        "cite_name": "", 
+        "title": "4 - APSIPA"
+    }
+]

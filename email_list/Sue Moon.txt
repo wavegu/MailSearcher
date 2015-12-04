@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sue moon. professor (computer science) ... verified email at kaist.edu - homepage  scholar ... m cha, h kwak, p rodriguez, yy ahn, s moon. proceedings of...", 
+        "email_list": [
+            "email@kaist.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=d5u7NnAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sue Moon - Google Scholar Citations"
+    }
+]

@@ -1,3 +1,29 @@
-majid.ezzati@imperial.ac.uk	[23]
-info@acmedsci.ac.uk.majid	[1]
-info@acmedsci.ac.uk	[1]
+[
+    {
+        "content": "norfolk place london united kingdom. email: majid.ezzati@imperial.ac.uk ... majid ezzati is professor of global environmental health at imperial college...", 
+        "email_addr_list": [
+            "majid.ezzati@imperial.ac.uk"
+        ], 
+        "cite_url": "globalhealth.washington.edu/.../majid-ezzati", 
+        "cite_name": "University of Washington", 
+        "title": "Majid Ezzati | University of Washington - Department of ..."
+    }, 
+    {
+        "content": "majid ezzati is the chair in global environmental health at imperial college london and affiliate ... dr. ezzati was awarded the who global health leadership post-doctoral fellowship in 2000. at who ...... email: majid.ezzati@imperial.ac.uk...", 
+        "email_addr_list": [
+            "majid.ezzati@imperial.ac.uk"
+        ], 
+        "cite_url": "www.healthdata.org/about/majid-ezzati", 
+        "cite_name": "", 
+        "title": "Majid Ezzati | Institute for Health Metrics and Evaluation"
+    }, 
+    {
+        "content": "professor majid ezzati fmedsci. job title ... professor of global environmental health at imperial college london, majid ezzatis ... e-mail: info@acmedsci.ac.uk.", 
+        "email_addr_list": [
+            "info@acmedsci.ac.uk"
+        ], 
+        "cite_url": "www.acmedsci.ac.uk/.../...", 
+        "cite_name": "Academy of Medical Sciences, United Kingdom", 
+        "title": "Professor Majid Ezzati - Fellow | Academy of Medical Sciences"
+    }
+]

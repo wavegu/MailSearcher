@@ -1,4 +1,20 @@
-email at c.s.frenk	[16]
-c.s.frenk@durham.ac.uk	[16]
-laura.sales@ucr.edu	[2]
-rdc@aaoepp.aao.gov.au	[2]
+[
+    {
+        "content": "prof carlos frenk. professor in the department of ... (email at c.s.frenk@durham.ac.uk) .... 2288-2296. schneider, m.d., cole, s., frenk, c.s.  szapudi, i. (2011).", 
+        "email_addr_list": [
+            "email@c.s.frenk"
+        ], 
+        "cite_url": "https://www.dur.ac.uk/research/directory/staff/?...", 
+        "cite_name": "Durham University", 
+        "title": "Prof Carlos Frenk - Durham University"
+    }, 
+    {
+        "content": "frenk, professor carlos - partner investigator. evolving university of durham, uk. email: c.s.frenk@durham.ac.uk. website(s): personal website. research...", 
+        "email_addr_list": [
+            "c.s.frenk@durham.ac.uk"
+        ], 
+        "cite_url": "www.caastro.org/people/frenk-professor-carlos", 
+        "cite_name": "", 
+        "title": "Prof. Carlos Frenk - CAASTRO"
+    }
+]

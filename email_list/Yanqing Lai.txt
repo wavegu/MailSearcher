@@ -1,0 +1,47 @@
+[
+    {
+        "content": "yanqing lai. e-mail: k1250665@kingston.ac.uk; doctoral topic: employee relations in smes; area of interest: employment relationship in small and...", 
+        "email_list": [
+            "k1250665@kingston.ac.uk"
+        ], 
+        "cite_url": "business.kingston.ac.uk/research/.../yanqing-lai", 
+        "cite_name": "Kingston Business School", 
+        "title": "Yanqing Lai | Kingston Business School, London"
+    }, 
+    {
+        "content": "e-mail: yuan.li1@northwestern.edu. education. 2011-2015 phd ... 77, (2014): 675-687. yuan li, yanqing lai, liangxing jiang, xiaojun lv, jie li, yexiang liu.", 
+        "email_list": [
+            "yuan.li1@northwestern.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Northwestern University", 
+        "title": "Yuan Li, PhD - Northwestern University | VPD Group"
+    }, 
+    {
+        "content": "jiang liang-xing1, zhong shui-ping2, lai yan-qing1, lv xiao-jun1, hong bo1, ... corresponding authors: lai yan-qing email: csulightmetals@126.com", 
+        "email_list": [
+            "csulightmetals@126.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "JIANG Liang-Xing, ZHONG Shui-Ping, LAI Yan-Qing ..."
+    }, 
+    {
+        "content": "corresponding authors: lai yan-qing email: 13975808172@126.com. cite this article: li fan-qun; lai yan-qing; zhang zhi-an; gao hong-quan; yang...", 
+        "email_list": [
+            "13975808172@126.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "LAI Yan-Qing; ZHANG Zhi-An; GAO Hong-Quan - Acta ..."
+    }, 
+    {
+        "content": "↵ze-mail: laiyanqingcsu@163.com. manuscript submitted march 4, 2013. revised manuscript received may 29, 2013. published june 7, 2013. © 2013 the...", 
+        "email_list": [
+            "laiyanqingcsu@163.com"
+        ], 
+        "cite_url": "jes.ecsdl.org/content/160/9/A1353.short", 
+        "cite_name": "", 
+        "title": "Effects of Polyacrylic Acid on the Suppression of Fe ..."
+    }
+]

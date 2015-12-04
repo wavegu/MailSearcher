@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. jorge sousa pinto. haslab / inesc tec ... verified email at di.uminho.pt. scholar ... jb almeida, mj frade, js pinto, sm de sousa. springer science...", 
+        "email_list": [
+            "email@di.uminho.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=45QPIOIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jorge Sousa Pinto - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: ppinto@fch.lisboa.ucp.pt. paulo jorge de sousa pinto (n. lisboa, 1966) é mestre em história dos descobrimentos e expansão portuguesa pela unl e...", 
+        "email_list": [
+            "ppinto@fch.lisboa.ucp.pt"
+        ], 
+        "cite_url": "www.fch.lisboa.ucp.pt/...", 
+        "cite_name": "Catholic University of Portugal", 
+        "title": "Paulo Jorge Corino de Sousa Pinto - UCP - Faculdade de ..."
+    }, 
+    {
+        "content": "email: geral@a2v.pt. informações Úteis. denominação social :jorge sousa pinto unipessoal lda. npc:507 054 253. capital social: 125,000€. c.r.c lousada...", 
+        "email_list": [
+            "geral@a2v.pt"
+        ], 
+        "cite_url": "a2v.pt/contactos/", 
+        "cite_name": "", 
+        "title": "Contactos › A2V.PT ‹ A2V – APOIO A VITIVINICULTORES"
+    }
+]

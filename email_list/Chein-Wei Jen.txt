@@ -1,0 +1,39 @@
+[
+    {
+        "content": "wei-jen chens home page. ... email: wjchen.actinops[at]gmail.com ... currently, im emphasizing on marine phylogenomics (see chen and mayden 2010),...", 
+        "email_list": [
+            "wjchen.actinops@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/wjchenactinops/", 
+        "cite_name": "", 
+        "title": "Wei-Jen Chen - Sites - Google"
+    }, 
+    {
+        "content": "print. avatar. wei-jen lee. professor  director at department of electrical engineering. wlee@uta.edu. about me; research; teaching. biography. wei-jen lee...", 
+        "email_list": [
+            "wlee@uta.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Texas at Arlington", 
+        "title": "Wei-Jen Lee - View Profile - Profiles - UT Arlington"
+    }, 
+    {
+        "content": "62694. fax：. (06)-2344496. e-mail：. wujj@mail.ncku.edu.tw. web site： ... dian-wei chen, ting-chung wang, wen-pin liao, jih-jen wu, 2013, “synergistic...", 
+        "email_list": [
+            "wujj@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "", 
+        "cite_name": "National Cheng Kung University", 
+        "title": "Jih-Jen Wu - Department of Chemical Engineering, NCKU"
+    }, 
+    {
+        "content": "wei-jen chen. associate professor. tel 1： 02-33661630; tel 2：; fax：; e-mail 1： wjchen1971@ntu.edu.tw; e-mail 2： wjchen.actinops@gmail.com; website：...", 
+        "email_list": [
+            "wjchen1971@ntu.edu.tw", 
+            "wjchen.actinops@gmail.com"
+        ], 
+        "cite_url": "www.oc.ntu.edu.tw/?teacher=陳韋仁lang...", 
+        "cite_name": "National Taiwan University", 
+        "title": "Wei-Jen Chen - 國立臺灣大學海洋研究所"
+    }
+]

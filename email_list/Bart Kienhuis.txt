@@ -1,0 +1,38 @@
+[
+    {
+        "content": "fax: +31-(0)71 527 6985; email: kienhuis@liacs.nl ... bart kienhuis received a msee from delft university of technology in 1994 and he received his ph.d. from...", 
+        "email_list": [
+            "kienhuis@liacs.nl"
+        ], 
+        "cite_url": "ptolemy.eecs.berkeley.edu/~kienhuis/", 
+        "cite_name": "Ptolemy Project", 
+        "title": "Bart Kienhuis - Ptolemy Project"
+    }, 
+    {
+        "content": "bart kienhuis. assistant professor ... verified email at liacs.nl. scholar. get my own ... j davis ii, m goel, c hylands, b kienhuis, ea lee, j liu, x liu, l muliadi, .", 
+        "email_list": [
+            "email@liacs.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jTlji7kAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bart Kienhuis - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 20, 2015 - phone: +31-(0)71-5275776. fax: +31-(0)71-5276985. e-mail: a.c.j.kienhuis@liacs.leidenuniv.nl. homepage: http://www.liacs.nl/~kienhuis/...", 
+        "email_list": [
+            "a.c.j.kienhuis@liacs.leidenuniv.nl"
+        ], 
+        "cite_url": "liacs.leidenuniv.nl/organization/people/showdetails?ID=170", 
+        "cite_name": "", 
+        "title": "Bart Kienhuis - People - LIACS - Leiden Institute of ..."
+    }, 
+    {
+        "content": "claudiu zissulescu, bart kienhuis, ed deprettere. leiden embedded research center, ... email: claus@liacs.nl. abstract. at leiden university, we are...", 
+        "email_list": [
+            "claus@liacs.nl"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0151...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Communication synthesis in a multiprocessor environment"
+    }
+]

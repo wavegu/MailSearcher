@@ -1,2 +1,11 @@
-doi at ioa.s.u-tokyo.ac.jpphotometric	[8]
-doi at ioa.s.u-tokyo.ac.jp	[7]
+[
+    {
+        "content": "mamoru doi. japanese. affiliation: institute of astronomy, school of science, ... dept. of astronomy, univ. of tokyo. mamoru doi doi at ioa.s.u-tokyo.ac.jp", 
+        "email_addr_list": [
+            "doi@ioa.s.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.ioa.s.u-tokyo.ac.jp/~doi/", 
+        "cite_name": "", 
+        "title": "Mamoru Dois Home Page"
+    }
+]

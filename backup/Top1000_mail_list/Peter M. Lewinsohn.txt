@@ -1,1 +1,11 @@
-paulr@ori.org	[3]
+[
+    {
+        "content": "paul rohde1; peter m. lewinsohn1; daniel n. klein2; john r. seeley1; jeff m. ... institute, 1715 franklin blvd., eugene, or 97403-1983 e-mail: paulr@ori.org...", 
+        "email_addr_list": [
+            "paulr@ori.org"
+        ], 
+        "cite_url": "cpx.sagepub.com/content/1/1/41.abstractwww.google.com/email", 
+        "cite_name": "Sage Publications", 
+        "title": "Key Characteristics of Major Depressive Disorder Occurring ...Google Business Email - Custom email for your company‎"
+    }
+]

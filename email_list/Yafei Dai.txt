@@ -1,0 +1,21 @@
+[
+    {
+        "content": "verified email at pku.edu.cn. scholar ... j jiang, c wilson, x wang, w sha, p huang, y dai, by zhao ... q lian, z zhang, m yang, by zhao, y dai, x li.", 
+        "email_list": [
+            "email@pku.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VSvWlvkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yafei Dai - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 5, 2015 - email: min at cs dot nyu dot edu, or first_name(no space or dot)last_name at gmail.com. curriculum vitae ... yafei dai and prof. xiaoming li.", 
+        "email_list": [
+            "min@cs.nyu.edu", 
+            "last_name@gmail.com"
+        ], 
+        "cite_url": "https://cs.nyu.edu/~min/", 
+        "cite_name": "New York University", 
+        "title": "Bonan Min"
+    }
+]

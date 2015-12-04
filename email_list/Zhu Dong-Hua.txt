@@ -1,0 +1,56 @@
+[
+    {
+        "content": "mar 8, 2014 - performance of textile materials, filament deformation processing, fiber-reinforced composite materials. contact email: shyu@dhu.edu.cn. zhu...", 
+        "email_list": [
+            "shyu@dhu.edu.cn"
+        ], 
+        "cite_url": "en.study-shanghai.org/sis/tutors/2014-03-08/207.html", 
+        "cite_name": "", 
+        "title": "Donghua University - Study in Shanghai"
+    }, 
+    {
+        "content": "domain report for zhu donghua, domainadm@hichina.com, associated with 7 domains and 7 emails.", 
+        "email_list": [
+            "domainadm@hichina.com"
+        ], 
+        "cite_url": "www.domainiq.com/name?zhu_donghua", 
+        "cite_name": "", 
+        "title": "zhu donghua - domainIQ"
+    }, 
+    {
+        "content": "cancel. bo zhu. donghua university, shanghai, china. conductive biomaterials ... verified email at dhu.edu.cn. scholar ... p pan, w kai, b zhu, t dong, y inoue.", 
+        "email_list": [
+            "email@dhu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QgPmw7kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bo Zhu - Google Scholar Citations"
+    }, 
+    {
+        "content": "organization, zhu donghua, is associated with 5 domains. email, sales@gengocnc.com. address, shanghaishi songjiangqu xiaokunshan guanghua street, map.", 
+        "email_list": [
+            "sales@gengocnc.com"
+        ], 
+        "cite_url": "domainbigdata.com/jg181.com", 
+        "cite_name": "", 
+        "title": "Jg181.com - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "aug 5, 2011 - donghua zhu. release ... donghua zhu. professor ... phone no. 86-10-68915009. email. zhudh111@bit.edu.cn. address. school of...", 
+        "email_list": [
+            "zhudh111@bit.edu.cn"
+        ], 
+        "cite_url": "sme.bit.edu.cn/Home/enszdw/.../7893.ht...", 
+        "cite_name": "Beijing Institute of Technology", 
+        "title": "Donghua Zhu - Beijing Institute of Technology - School of ..."
+    }, 
+    {
+        "content": "ji zhang, zhu-gang wang, ding-liang zhu, guang nin, xiao-ying li, xiang-yin kong, xiao-dong xi, ting-xi liu, jiang zhu, jiong hu, wei-li zhao, jian-hua tong, huai-dong song, kan-kan wang, qiu-hua huang ... email: sjchen@stn.sh.cn.", 
+        "email_list": [
+            "sjchen@stn.sh.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Jiao Tong University - State Key Laboratory of Medical ..."
+    }
+]

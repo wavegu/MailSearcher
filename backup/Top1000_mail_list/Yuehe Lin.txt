@@ -1,3 +1,47 @@
-yuehe.lin@wsu.edu	[17]
-yuehe.lin@pnl.gov	[17]
-email at wsu.edu	[2]
+[
+    {
+        "content": "e-mail, yuehe.lin@wsu.edu. postal mail, yuehe lin school of mechanical and materials engineering washington state university po box 642920. pullman...", 
+        "email_addr_list": [
+            "yuehe.lin@wsu.edu"
+        ], 
+        "cite_url": "www.mme.wsu.edu/people/.../faculty.html?li...", 
+        "cite_name": "Washington State University", 
+        "title": "Yuehe Lin - Professor - Laboratory Fellow - MME at WSU"
+    }, 
+    {
+        "content": "email: yuehe.lin@wsu.edu ... zhang s, y shao, h liao, mh engelhard, g yin, and y lin. 2011. ... lu d, j wang, l wang, d du, c timchalk, rc barry, and y lin.", 
+        "email_addr_list": [
+            "yuehe.lin@wsu.edu"
+        ], 
+        "cite_url": "https://materials.wsu.edu/person/yuehe-lin/", 
+        "cite_name": "Washington State University", 
+        "title": "Yuehe Lin - Materials Science  Engineering Materials ..."
+    }, 
+    {
+        "content": "yuehe lin. washington state university ... verified email at wsu.edu - homepage  scholar ... y shao, j wang, h wu, j liu, ia aksay, y lin. electroanalysis 22...", 
+        "email_addr_list": [
+            "email@wsu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3iGcwycAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yuehe Lin - Google Scholar Citations"
+    }, 
+    {
+        "content": "... for enhanced sensitivity in electrochemical immunoassays yuehe lin*, jun ... washington, 99352, usa email: yuehe.lin@pnl.gov in this manuscript, we...", 
+        "email_addr_list": [
+            "yuehe.lin@pnl.gov"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1566776570", 
+        "cite_name": "", 
+        "title": "Chemical Sensors 8: Chemical (Gas, Ion, Bio) Sensors and ..."
+    }, 
+    {
+        "content": "co-editor(s): yuehe lin school of mechanical and materials eng., washington state university washington 564. usa email: yuehe.lin@wsu.edu...", 
+        "email_addr_list": [
+            "yuehe.lin@wsu.edu"
+        ], 
+        "cite_url": "benthamscience.com/journals/current-molecular.../editorial-board/", 
+        "cite_name": "", 
+        "title": "Editorial Board ::: Current Molecular Imaging"
+    }
+]

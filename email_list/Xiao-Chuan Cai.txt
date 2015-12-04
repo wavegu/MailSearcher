@@ -1,0 +1,47 @@
+[
+    {
+        "content": "xiao-chuan cai, professor department of computer science  college of ... email: cai at cs.colorado.edu. phone: (303) 492-3746, fax: (303) 492-2844", 
+        "email_list": [
+            "cai@cs.colorado.edu"
+        ], 
+        "cite_url": "https://www.cs.colorado.edu/~cai/", 
+        "cite_name": "", 
+        "title": "Xiao-Chuan Cai - Computer Science - University of ..."
+    }, 
+    {
+        "content": "xiaochuan cai, phd. associate professor, dept.of ... phone:(303) 735-2711 email:kenneth. ... phone:(303) 492-5092 email:qih@colorado.edu webpage:.", 
+        "email_list": [
+            "qih@colorado.edu"
+        ], 
+        "cite_url": "www.colorado.edu/.../CU-CBR%20peopl...", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "cucbr-people"
+    }, 
+    {
+        "content": "jul 13, 2009 - e-mail: cai@cs.colorado.edu. postal code: resume. xiao-chuan cai, chief scientist, professor and department chair of computer science at...", 
+        "email_list": [
+            "cai@cs.colorado.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Xiao-Chuan Cai"
+    }, 
+    {
+        "content": "edu 303-492-1622 428 ucb cai, xiao-chuan , prof, chair, cs xiao-chuan.cai@colorado.edu 303-492-3746 430 ucb felippa, carlos a , prof, aes, cas...", 
+        "email_list": [
+            "xiao-chuan.cai@colorado.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-cai-colorado-edu-4574514.htm", 
+        "cite_name": "", 
+        "title": "cai@colorado.edu - The Email Archive"
+    }, 
+    {
+        "content": "xiaochuan yang. uchc  tissue engineering, biomaterials. verified email at uchc.edu ... y liu, x cai, x zhang, q gao, x yang, z zheng, m luo, x huang.", 
+        "email_list": [
+            "email@uchc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TfgeulcAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xiaochuan Yang - Google Scholar Citations"
+    }
+]

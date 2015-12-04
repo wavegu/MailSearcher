@@ -1,6 +1,47 @@
-li.wang@harcourts.co.nz.wang	[13]
-li.wang@harcourts.co.nz	[13]
-wangli@dehenglaw.com	[13]
-liwang@umac.mo	[13]
-wangli at math dot wisc	[13]
-lilian@ntu.edu.sg	[5]
+[
+    {
+        "content": "associate professor wang li-lian ... technological university. phone: (65) 6513 7465. fax: (65) 6515 8213. email: lilian@ntu.edu.sg. office: spms-mas-05-20...", 
+        "email_addr_list": [
+            "lilian@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/home/lilian/", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Associate Professor Wang Li-Lian"
+    }, 
+    {
+        "content": "name: li wang. address, (office), e12-4024, li wang. phone, (office), 8822 4498. fax, 8822 2314. email, liwang@umac.mo...", 
+        "email_addr_list": [
+            "liwang@umac.mo"
+        ], 
+        "cite_url": "https://fhs.umac.mo/staff/academic-staff/wang-li/", 
+        "cite_name": "University of Macau", 
+        "title": "Faculty of Health Sciences (FHS) – Li WANG"
+    }, 
+    {
+        "content": "department of mathematics. university of wisconsin-madion. 480 lincoln dr. madison, wi 53705. office: vanvleck 101 - 18. email: wangli at math dot wisc dot...", 
+        "email_addr_list": [
+            "wangli@math.wisc"
+        ], 
+        "cite_url": "www.math.wisc.edu/~wangli/", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Li Wang - Department of Mathematics - University of ..."
+    }, 
+    {
+        "content": "li wang. licensed reaa 2008. albany. 227 dairy flat highway 17. albany auckland. mobile: 021 2888 ... phone: 09 4519328. email: li.wang@harcourts.co.nz.", 
+        "email_addr_list": [
+            "li.wang@harcourts.co.nz"
+        ], 
+        "cite_url": "harcourts.co.nz/People/25978/Li-Wang", 
+        "cite_name": "", 
+        "title": "Li Wang - Harcourts"
+    }, 
+    {
+        "content": "email：wangli@dehenglaw.com. practice areas：corporate  securities,merger  acquisition,international trade,foreign direct investment,dispute resolution.", 
+        "email_addr_list": [
+            "wangli@dehenglaw.com"
+        ], 
+        "cite_url": "www.dhl.com.cn  HomePage  Our Peoplewww.google.com/email", 
+        "cite_name": "", 
+        "title": "Wang, Li - DeHeng Law OfficesGoogle Business Email - Custom email for your company‎Searches related to Wang Li email"
+    }
+]

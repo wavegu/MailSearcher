@@ -1,4 +1,38 @@
-amdale@ucsd.edu	[11]
-a.m.fjell@psykologi.uio.no	[6]
-email at ucsd.edu	[4]
-hermann.hinrichs@medizin.uni-magdeburg.de	[3]
+[
+    {
+        "content": "anders m. dale, phd ... email: amdale@ucsd.edu ... dr. dale is founding co-director of the multimodal imaging laboratory, an interdisciplinary initiative of the...", 
+        "email_addr_list": [
+            "amdale@ucsd.edu"
+        ], 
+        "cite_url": "neurosciences.ucsd.edu/.../anders-dal...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Anders M. Dale, PhD - Neurosciences - UC San Diego"
+    }, 
+    {
+        "content": "photo of anders dale ... dr. dale was recruited to form the neuroimaging group within the departments of neurosciences and ... email: amdale@ucsd.edu...", 
+        "email_addr_list": [
+            "amdale@ucsd.edu"
+        ], 
+        "cite_url": "radiology.ucsd.edu/?q=about-us/people/faculty/anders-dale", 
+        "cite_name": "", 
+        "title": "Anders Dale, Ph.D. | Department of Radiology"
+    }, 
+    {
+        "content": "anders m. dale. professor of ... verified email at ucsd.edu - homepage  scholar ... ad wagner, dl schacter, m rotte, w koutstaal, a maril, am dale, ... science...", 
+        "email_addr_list": [
+            "email@ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=F4URLXYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anders M. Dale - Google Scholar Citations"
+    }, 
+    {
+        "content": "anders m. dale ... university of magdeburg, leipziger str. 44, d-39120 magdeburg, germany; e-mail: hermann.hinrichs@medizin.uni-magdeburg.de.", 
+        "email_addr_list": [
+            "hermann.hinrichs@medizin.uni-magdeburg.de"
+        ], 
+        "cite_url": "www.mitpressjournals.org  List of Issueswww.google.com/email", 
+        "cite_name": "", 
+        "title": "Deconvolution of Event-Related fMRI Responses in Fast ...Google Business Email‎"
+    }
+]

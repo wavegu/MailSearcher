@@ -1,0 +1,40 @@
+[
+    {
+        "content": "cancel. frank dehne ... verified email at scs.carleton.ca - homepage  scholar ... f dehne, mr fellows, ma langston, fa rosamond, k stevens. cocoon...", 
+        "email_list": [
+            "email@scs.carleton.ca"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=nHJDhwoAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Frank Dehne - Google Scholar Citations"
+    }, 
+    {
+        "content": "frank dehne - parallel computing  bioinformatics - carleton university email: frank@dehne.net. web: http://www.dehne.net. my research focuses on parallel...", 
+        "email_list": [
+            "frank@dehne.net"
+        ], 
+        "cite_url": "mysite.science.uottawa.ca/arolland/qbiol/people.html", 
+        "cite_name": "University of Ottawa", 
+        "title": "Ottawa Quantitative Biology - People"
+    }, 
+    {
+        "content": "... contact ulrike stege. email: stege at cs dot uvic dot ca; phone: +1 250 472 5729 ... frank dehne. email: frank at dehne dot net; phone: +1 613 520 2600 x1236.", 
+        "email_list": [
+            "stege@cs.uvic.ca", 
+            "frank@dehne.net"
+        ], 
+        "cite_url": "wads2015.cs.uvic.ca/Contact.html", 
+        "cite_name": "", 
+        "title": "Contact - WADS 2015: 14th International Symposium on ..."
+    }, 
+    {
+        "content": "verified email at umontreal.ca. @umontreal.ca ... frank dehne. chancellors professor of computer science. verified email at scs.carleton.ca. @scs.carleton.ca.", 
+        "email_list": [
+            "email@umontreal.ca", 
+            "email@scs.carleton.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

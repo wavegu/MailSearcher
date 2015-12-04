@@ -1,0 +1,38 @@
+[
+    {
+        "content": "toshiro kubota received the b.s. degree (1988) from keio university, yokohama, japan, and the ms and ph.d degrees from ... email:kubota at susqu dot edu...", 
+        "email_list": [
+            "kubota@susqu.edu"
+        ], 
+        "cite_url": "facstaff.susqu.edu/k/kubota/", 
+        "cite_name": "", 
+        "title": "Toshiro Kubotas Home Page - Susquehanna University"
+    }, 
+    {
+        "content": "bio ». photo of toshiro kubota, ph.d. toshiro kubota, ph.d. associate professor of mathematical sciences phone: 570-372-4469. email: kubota@susqu.edu", 
+        "email_list": [
+            "kubota@susqu.edu"
+        ], 
+        "cite_url": "tour.susqu.edu/academics/21009.asp", 
+        "cite_name": "", 
+        "title": "Faculty  Staff - Susquehanna University"
+    }, 
+    {
+        "content": "nov 25, 2014 - toshiro kubota, email: pj.ca.dmt@enyg.atobuk.t. go to: ... terauchi m, akiyoshi m, owa y, kato k, obayashi s, kubota t. effects of the kampo...", 
+        "email_list": [
+            "pj.ca.dmt@enyg.atobuk.t"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Subgrouping of Japanese middle-aged women attending a ..."
+    }, 
+    {
+        "content": "see information and reports about kubota@cs.sc.edu (toshiro kubotas e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "kubota@cs.sc.edu"
+        ], 
+        "cite_url": "spam-report.email/kubota/cs.sc.edu", 
+        "cite_name": "", 
+        "title": "kubota@cs.sc.edu (Toshiro Kubotas e-mail) - Spam-Report ..."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "dr. harri valpola is a machine learning researcher from zenrobotics ... in talking to him, please, let him know by replying to his email (harri.valpola at iki.fi).", 
+        "email_list": [
+            "harri.valpola@iki.fi"
+        ], 
+        "cite_url": "webmail.iro.umontreal.ca/pipermail/.../000265.ht...", 
+        "cite_name": "Université de Montréal", 
+        "title": "[Lisa_seminaires] Talk by Dr. Harri Valpola on Wednesday 11 Feb at ..."
+    }, 
+    {
+        "content": "email: harri.valpola@hut.fi, juha.karhunen@hut.fi. url: http://www.cis.hut.fi/projects/ica/bayes/. neural computation 14(11), pp. 2647–2692, (2002), mit press.", 
+        "email_list": [
+            "harri.valpola@hut.fi", 
+            "juha.karhunen@hut.fi"
+        ], 
+        "cite_url": "www.gatsby.ucl.ac.uk/.../ValpolaNC02.pdf", 
+        "cite_name": "University College London", 
+        "title": "[PDF]An Unsupervised Ensemble Learning Method for Nonlinear ..."
+    }, 
+    {
+        "content": "may 13, 2015 - harri valpola ... you can subscribe to our weekly seminar email list by sending an email to majordomo@lists.berkeley.edu that contains the...", 
+        "email_list": [
+            "majordomo@lists.berkeley.edu"
+        ], 
+        "cite_url": "redwood.berkeley.edu/seminar-info.ph...", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Harri Valpola - Redwood Center for Theoretical Neuroscience"
+    }
+]

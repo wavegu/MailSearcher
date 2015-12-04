@@ -1,1 +1,11 @@
-moranj@umich.edu	[12]
+[
+    {
+        "content": "phone: 734-615-0456. fax: 734-763-3784. email: moranj@umich.edu. staff support: sue kellogg. lab website: http://www.hhmi.org/scientists/john-v-moran.", 
+        "email_addr_list": [
+            "moranj@umich.edu"
+        ], 
+        "cite_url": "www.hg.med.umich.edu/.../john-v...", 
+        "cite_name": "University of Michigan Health System", 
+        "title": "John V. Moran, Ph.D. | Department of Human Genetics"
+    }
+]

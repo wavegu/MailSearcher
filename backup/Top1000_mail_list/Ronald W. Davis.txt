@@ -1,1 +1,11 @@
-jeanne.thompson@stanford.edu	[1]
+[
+    {
+        "content": "profile and publications of ron w. davis, stanford genome technology center. ... e-mail: jeanne.thompson@stanford.edu. phone: (650) 721-5614. fax: (650)...", 
+        "email_addr_list": [
+            "jeanne.thompson@stanford.edu"
+        ], 
+        "cite_url": "med.stanford.edu/.../RonDavis_p...", 
+        "cite_name": "Stanford University School of Medicine", 
+        "title": "Ronald W. Davis - Stanford University School of Medicine"
+    }
+]

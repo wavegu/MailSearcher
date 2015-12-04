@@ -1,2 +1,11 @@
-anna.shevchenko@mpi-cbg.de	[22]
-email at mpi-cbg.de	[2]
+[
+    {
+        "content": "cancel. andrej shevchenko ... verified email at mpi-cbg.de. scholar ... m muzio, am chinnaiyan, fc kischkel, k orourke, a shevchenko, j ni, ... cell 85 (6)...", 
+        "email_addr_list": [
+            "email@mpi-cbg.de"
+        ], 
+        "cite_url": "scholar.google.de/citations?user=Drodwp4AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Andrej Shevchenko - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "content": "shu-hsien liao (廖述賢). professor of ... verified email at mail.tku.edu.tw - homepage  scholar ... s liao, j li, w wei, l wang, y zhang, j li, c wang, s sun.", 
+        "email_list": [
+            "email@mail.tku.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xkaL9hMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shu-Hsien Liao (廖述賢) - Google Scholar Citations"
+    }, 
+    {
+        "content": "institute of information science, academia sinica. 128, sec. 2, academia road, taipei 11529, taiwan. email: nckuliao at gmail.com. phone: +886-2-2788-3799...", 
+        "email_list": [
+            "nckuliao@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/cclljj/members/shu-hsien-liao", 
+        "cite_name": "", 
+        "title": "Shu-Hsien Liao - IIS-NRL - Google Sites"
+    }, 
+    {
+        "content": "job title: professor and chairman; name: min-hung lee; email mhlee@ntnu.edu.tw ... id photo. job title: associate professor; name: shu-hsien liao; email...", 
+        "email_list": [
+            "mhlee@ntnu.edu.tw"
+        ], 
+        "cite_url": "www.ieo.ntnu.edu.tw/.../teacher.php?...", 
+        "cite_name": "National Taiwan Normal University", 
+        "title": "Full-Time Faculty - National Taiwan Normal University ..."
+    }, 
+    {
+        "content": "e-mail:ijims@staff.tku.edu.tw ijims@staff.tku.edu.tw ... dr. shu-hsien liao ... should be addressed to editor-in-chief or managing editor through e-mail...", 
+        "email_list": [
+            "ijims@staff.tku.edu.tw", 
+            "ijims@staff.tku.edu.tw"
+        ], 
+        "cite_url": "163.13.243.1/JIMS/IJIMS-Editorial%20Board.docx", 
+        "cite_name": "", 
+        "title": "[DOC]Publisher: Flora Chia-I Chang, Ed.D. President, Tamkang ..."
+    }, 
+    {
+        "content": "oct 14, 2013 - shu-hsien liao, da-chian hu, chih-chiang chen and yu-lu lin ... tel: 88 62 29472044; e-mail: michael@mail.tku.edu.tw. received 17...", 
+        "email_list": [
+            "michael@mail.tku.edu.tw"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Knowledge Management Research  Practice - Abstract of ..."
+    }
+]

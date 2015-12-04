@@ -1,2 +1,20 @@
-hanan.samet@nuim.ie	[21]
-email at cs.umd.edu	[2]
+[
+    {
+        "content": "cancel. hanan samet. university ... verified email at cs.umd.edu - homepage  scholar ... j sankaranarayanan, h samet, be teitler, md lieberman, j sperling.", 
+        "email_addr_list": [
+            "email@cs.umd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ATOfqHEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Hanan Samet - Google Scholar Citations"
+    }, 
+    {
+        "content": "hanan samet. photograph of prof. hanan samet. position: walton fellow. email: hanan.samet@nuim.ie. background: hanan samet, department of computer...", 
+        "email_addr_list": [
+            "hanan.samet@nuim.ie"
+        ], 
+        "cite_url": "ncg.nuim.ie/redir.php?action=staff/walton/hsamet", 
+        "cite_name": "Maynooth University", 
+        "title": "Prof. Hanan Samet - National Centre for Geocomputation"
+    }
+]

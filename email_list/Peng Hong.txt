@@ -1,0 +1,47 @@
+[
+    {
+        "content": "oct 1, 2015 - email address : statecourts_qsm@statecourts.gov.sg ... district judge/ group manager, ng peng hong, ppa(p), pbs, 64355844, -.", 
+        "email_list": [
+            "statecourts_qsm@statecourts.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing.asp?...", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Judiciary, State Courts - Gov.sg - Singapore Government ..."
+    }, 
+    {
+        "content": "apr 17, 2015 - name, ms chua peng hong, nancy. position, lecturer. phone, 6460-7033. email, cnp2@np.edu.sg. qualifications  professional associations", 
+        "email_list": [
+            "cnp2@np.edu.sg"
+        ], 
+        "cite_url": "www.np.edu.sg/hs/aboutus/staff/.../hs-cnp2.aspx", 
+        "cite_name": "Ngee Ann Polytechnic", 
+        "title": "Ms Chua Peng Hong, Nancy - Ngee Ann Polytechnic"
+    }, 
+    {
+        "content": "follow new articles. follow new citations. create alert. cancel. peng hong liem. nais co., inc. nuclear engineering. verified email at nais.ne.jp - homepage.", 
+        "email_list": [
+            "email@nais.ne.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=319bMDoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Peng Hong Liem - Google Scholar Citations"
+    }, 
+    {
+        "content": "assistant professor, department of mathematics at hong kong university of science and ... kou, s. g., peng, x., heyde, c. c., 2013. ... email: maxhpeng@ust.hk.", 
+        "email_list": [
+            "maxhpeng@ust.hk"
+        ], 
+        "cite_url": "https://www.math.ust....", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Xianhua Peng - Department of Mathematics - Hong Kong ..."
+    }, 
+    {
+        "content": "oct 7, 2015 - city university of hong kong staff profile. ... dr. shi, peng. bs(whu), ms(uic), m.phil. ... email: pengshi@cityu.edu.hk. web: group...", 
+        "email_list": [
+            "pengshi@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cityu.edu.hk/mbe/pengshi/", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Dr. SHI, Peng - City University of Hong Kong"
+    }
+]

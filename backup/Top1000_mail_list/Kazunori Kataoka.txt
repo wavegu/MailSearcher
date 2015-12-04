@@ -1,3 +1,29 @@
-kataoka@bmw.k	[16]
-kataoka@bmw.t.u-tokyo.ac.jp	[16]
-email at bmw.t.u-tokyo.ac.jp	[3]
+[
+    {
+        "content": "kazunori kataoka professor: biomaterials: field of study: biomaterials, drug delivery system, gene delivery system. [mail] kataoka@bmw.t.u-tokyo.ac.jp...", 
+        "email_addr_list": [
+            "kataoka@bmw.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.bioeng.t.u-tokyo.ac.jp/en/.../16_kataoka.html", 
+        "cite_name": "University of Tokyo", 
+        "title": "Professor Kazunori KATAOKA - Faculty | Department of ..."
+    }, 
+    {
+        "content": "kazunori kataoka. professor of ... verified email at bmw.t.u-tokyo.ac.jp ... k kataoka, t matsumoto, m yokoyama, t okano, y sakurai, s fukushima, ... journal of...", 
+        "email_addr_list": [
+            "email@bmw.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=oE3Th70AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kazunori Kataoka - Google Scholar Citations"
+    }, 
+    {
+        "content": "kazunori kataoka. kazunori- ... e-mail: kataoka@bmw.t.u-tokyo.ac.jp ... uchida h, miyata k, oba m, ishii t, suma t, itaka k, nishiyama n, kataoka k: odd-even...", 
+        "email_addr_list": [
+            "kataoka@bmw.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "degruyteropen.com/people/kkataoka/", 
+        "cite_name": "", 
+        "title": "Kazunori Kataoka | De Gruyter Open"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "devan rosen. associate professor and emerging media program director, media ... e-mail: drosen@ithaca.edu. office: 349 roy h park hall ithaca, ny 14850...", 
+        "email_list": [
+            "drosen@ithaca.edu"
+        ], 
+        "cite_url": "faculty.ithaca.edu/drosen", 
+        "cite_name": "Ithaca College", 
+        "title": "Devan Rosen - Ithaca College"
+    }, 
+    {
+        "content": "devan rosen. associate professor of new ... verified email at ithaca.edu. scholar. get my own ... ma stefanone, d lackaff, d rosen. journal of broadcasting...", 
+        "email_list": [
+            "email@ithaca.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TnTCMkIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Devan Rosen - Google Scholar Citations"
+    }
+]

@@ -1,7 +1,56 @@
-lanzavecchia@micro.biol.ethz.ch	[26]
-lanzavecchia@irb.unisi.ch.dc	[26]
-lanzavecchia@irb.unisi.ch	[26]
-lanzavecchia@irb.usi.ch	[26]
-email at irb.usi.ch	[3]
-info@swissvaccineresearchinstitute.ch	[1]
-info@swissvaccineresearchinstitute.ch.antonio	[1]
+[
+    {
+        "content": "contact. email. lanzavecchia@irb.usi.ch. phone. +41 91 820 0310. office. irb, office 101 (level 1) via vela 6, 6500 bellinzona. website or personal page.", 
+        "email_addr_list": [
+            "lanzavecchia@irb.usi.ch"
+        ], 
+        "cite_url": "search.usi.ch/people/.../Lanzavecchia-Antonio", 
+        "cite_name": "", 
+        "title": "Lanzavecchia, Antonio | Università della Svizzera italiana"
+    }, 
+    {
+        "content": "antonio lanzavecchia. professor of immunology ... verified email at irb.usi.ch. scholar ... f sallusto, d lenig, r förster, m lipp, a lanzavecchia. nature 401...", 
+        "email_addr_list": [
+            "email@irb.usi.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lcq610IAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Antonio Lanzavecchia - Google Scholar Citations"
+    }, 
+    {
+        "content": "antonio lanzavecchia, earned a degree in medicine at the university of pavia where ... awarded with the embo medal and cloëtta prize, dr. lanzavecchia has ... telephone : +41 (0)21-314.10.71 - email : info@swissvaccineresearchinstitute.ch.", 
+        "email_addr_list": [
+            "info@swissvaccineresearchinstitute.ch"
+        ], 
+        "cite_url": "www.swissvaccineresearchinstitute.ch/.../svri-executive-committee-antoni...", 
+        "cite_name": "", 
+        "title": "Executive Committee - Antonio Lanzavecchia - Swiss ..."
+    }, 
+    {
+        "content": "antonio lanzavecchia and federica sallusto are at the institute for research in ... correspondence to: antonio lanzavecchia email: lanzavecchia@irb.unisi.ch.", 
+        "email_addr_list": [
+            "lanzavecchia@irb.unisi.ch"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Perspectives", 
+        "cite_name": "Nature", 
+        "title": "Progressive differentiation and selection of the fittest in the ..."
+    }, 
+    {
+        "content": "dc-research knowledge portal: antonio lanzavecchia. ... show less less. persons  antonio lanzavecchia ... email, lanzavecchia@irb.unisi.ch. address, via...", 
+        "email_addr_list": [
+            "lanzavecchia@irb.unisi.ch"
+        ], 
+        "cite_url": "dc-research.eu/person/antonio-lanzavecchia", 
+        "cite_name": "", 
+        "title": "DC-Research Knowledge Portal: Antonio Lanzavecchia"
+    }, 
+    {
+        "content": "lanzavecchia, antonio, prof. dr. eth zürich prof. dr. antonio lanzavecchia institut f. ... e-mail: lanzavecchia@micro.biol.ethz.ch. wichtiger hinweis:", 
+        "email_addr_list": [
+            "lanzavecchia@micro.biol.ethz.ch"
+        ], 
+        "cite_url": "www.micro.biol.ethz.ch/people/laantoni", 
+        "cite_name": "ETH Zurich", 
+        "title": "Microbiology ETH - Lanzavecchia, Antonio, Prof. Dr."
+    }
+]

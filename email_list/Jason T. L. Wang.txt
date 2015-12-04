@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dr. jason tsong-li wang ... e-mail: wangj@njit.edu. phone: (973) 596 - 3396. fax: (973) 596 - 5777. office: gitc 4211. address: prof. jason t. l. wang.", 
+        "email_list": [
+            "wangj@njit.edu"
+        ], 
+        "cite_url": "https://web.njit.edu/~wangj/", 
+        "cite_name": "New Jersey Institute of Technology", 
+        "title": "Homepage of Dr. Jason T. L. Wang: Contact Information"
+    }, 
+    {
+        "content": "jason t. l. wang. professor of computer ... verified email at njit.edu - homepage  scholar ... jtl wang, gw chirn, tg marr, b shapiro, d shasha, k zhang.", 
+        "email_list": [
+            "email@njit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zT1g-WYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jason T. L. Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "jason tl wang,new jersey institute of technology,journal of data mining in genomics  proteomics. ... verified email at njit.edu - homepage  scholar.", 
+        "email_list": [
+            "email@njit.edu"
+        ], 
+        "cite_url": "www.omicsonline.org/editor-profile/Jason_Wang/", 
+        "cite_name": "", 
+        "title": "Jason TL Wang | OMICS International | New Jersey Instit"
+    }, 
+    {
+        "content": "feb 6, 2015 - yang song, lei hua, bruce a shapiro and jason tl wang*. * corresponding author: jason tl wang wangj@njit.edu. author affiliations.", 
+        "email_list": [
+            "wangj@njit.edu"
+        ], 
+        "cite_url": "www.biomedcentral.com/1471-2105/16/39", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Bioinformatics | Full text | Effective alignment of RNA ..."
+    }, 
+    {
+        "content": "professor. (973) 596 - 3396. wangj@njit.edu. http://web.njit.edu/~wangj/. register to view email, homepage, and external links. update. research interests...", 
+        "email_list": [
+            "wangj@njit.edu"
+        ], 
+        "cite_url": "aminer.org/profile/53f4d5b4dabfaeedcf7831c4", 
+        "cite_name": "", 
+        "title": "Jason T. L. Wang | AMiner - Open Science Platform"
+    }
+]

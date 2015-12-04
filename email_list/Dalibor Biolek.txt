@@ -1,0 +1,39 @@
+[
+    {
+        "content": "e-mail, biolek@feec.vutbr.cz. pracovní telefon, +420 54114 6176. gsm o2, +420 72681 6176. gsm t-mobile, +420 60407 6176. Č. prac. poměru, 01009523...", 
+        "email_list": [
+            "biolek@feec.vutbr.cz"
+        ], 
+        "cite_url": "https://www.vutbr.cz/...", 
+        "cite_name": "University of Technology, Brno", 
+        "title": "prof. Ing. Dalibor Biolek, CSc. (1891) - Kontakt - VUT v Brně"
+    }, 
+    {
+        "content": "dalibor biolek ... verified email at unob.cz - homepage ... d biolek. in: proceedings of the european conference on circuit theory and design 2003 ..., 2003.", 
+        "email_list": [
+            "email@unob.cz"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zBX1NvMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dalibor Biolek - Google Scholar Citations"
+    }, 
+    {
+        "content": "(+420) 5 41149190, fax (+420) 5 41149192, email: dalibor.biolek@vabo.cz brno ... (+33) 1 45535490, fax (+33) 1450593 39, email mirko@isep.fr introduction...", 
+        "email_list": [
+            "dalibor.biolek@vabo.cz", 
+            "mirko@isep.fr"
+        ], 
+        "cite_url": "www.academia.edu/.../Teaching_of_electrical_circuits_usi...", 
+        "cite_name": "Academia.edu", 
+        "title": "Teaching of electrical circuits using symbolic and ..."
+    }, 
+    {
+        "content": "dalibor biolek abstract there are three possible stages of exploring the ... brno, czech republic e-mail: dalibor.biolek@unob.cz a. adamatzky, l. chua (eds.)...", 
+        "email_list": [
+            "dalibor.biolek@unob.cz"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3319026305", 
+        "cite_name": "", 
+        "title": "Memristor Networks - Page 487 - Google Books Result"
+    }
+]

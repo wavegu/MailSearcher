@@ -1,0 +1,48 @@
+[
+    {
+        "content": "email: s.r.staab@soton.ac.uk ... steffen studied in erlangen (germany), philadelphia (usa) and freiburg (germany) computer science and computational...", 
+        "email_addr_list": [
+            "s.r.staab@soton.ac.uk"
+        ], 
+        "cite_url": "www.ecs.soton.ac...", 
+        "cite_name": "School of Electronics and Computer Science, Univers...", 
+        "title": "Professor Steffen Staab | Electronics and Computer Science ..."
+    }, 
+    {
+        "content": "steffen staab. professor of computer ... verified email at uni-koblenz.de - homepage  scholar ... y sure, m erdmann, j angele, s staab, r studer, d wenke.", 
+        "email_addr_list": [
+            "email@uni-koblenz.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QvpcUn8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Steffen Staab - Google Scholar Citations"
+    }, 
+    {
+        "content": "from : steffen staab sst@aifb.uni-karlsruhe.de ... stanford university gates hall 4a, room 425 stanford, ca 94305-9040, usa email: stefan@db.stanford.edu...", 
+        "email_addr_list": [
+            "sst@aifb.uni-karlsruhe.de", 
+            "stefan@db.stanford.edu"
+        ], 
+        "cite_url": "https://lists.w3.org/Archives/.../0001.html", 
+        "cite_name": "World Wide Web Consortium", 
+        "title": "CfP - Semantic Web 2001 Workshop at WWW10 from ..."
+    }, 
+    {
+        "content": "university home. prof steffen staab. ← this is the uri. email: s.r.staab@soton.ac.uk. phone: +442380594474. member of. electronics  computer science...", 
+        "email_addr_list": [
+            "s.r.staab@soton.ac.uk"
+        ], 
+        "cite_url": "id.southampton.ac.uk/person/EAwA", 
+        "cite_name": "University of Southampton", 
+        "title": "Prof Steffen Staab - University of Southampton"
+    }, 
+    {
+        "content": "the semantic web editor:steffen staab universityofkoblenz-landau staab@uni-koblenz.de its a streaming world! reasoning upon rapidly changing...", 
+        "email_addr_list": [
+            "staab@uni-koblenz.de"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-staab-uni-koblenz-de-3746048.h...www.google.com/email", 
+        "cite_name": "", 
+        "title": "staab@uni-koblenz.de - The Email ArchiveGoogle Business Email‎"
+    }
+]

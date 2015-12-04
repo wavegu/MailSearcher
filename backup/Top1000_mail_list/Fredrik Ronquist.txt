@@ -1,4 +1,30 @@
-fredrik.ronquist@nrm.se	[31]
-fredrik.ronquist at zoologi.uu.se	[31]
-ronquist@csit.fsu.edu	[17]
-taxacom@mailman.nhm.ku.edu	[1]
+[
+    {
+        "content": "fredrik ronquist biological ... mail code: 4120. e-mail: ronquist@csit.fsu.edu ... ronquist, f., a. p. rasnitsyn, a. roy, k. eriksson, and m. lindgren. 1999b.", 
+        "email_addr_list": [
+            "ronquist@csit.fsu.edu"
+        ], 
+        "cite_url": "www.bio.fsu.edu/faculty-ronquist.php", 
+        "cite_name": "Florida State University", 
+        "title": "Dr. Fredrik Ronquist - FSU Biological Science Faculty Member"
+    }, 
+    {
+        "content": "division: zoologiska institutionen: systematik och evolutionsforskning. phone: +46 8 519 540 94. email: fredrik.ronquist@nrm.se. fax: +46 8 519 541 84", 
+        "email_addr_list": [
+            "fredrik.ronquist@nrm.se"
+        ], 
+        "cite_url": "www.zoologi.su.se/en/about/staff/person.php?suuid...", 
+        "cite_name": "", 
+        "title": "Fredrik Ronquist - Department of Zoology"
+    }, 
+    {
+        "content": "post by fredrik.ronquist@… to the taxacom@mailman.nhm.ku.edu mailing list ... fredrik ronquist, email: fredrik.ronquist at zoologi.uu.se. if you are interested,...", 
+        "email_addr_list": [
+            "taxacom@mailman.nhm.ku.edu", 
+            "fredrik.ronquist@zoologi.uu.se"
+        ], 
+        "cite_url": "skryb.info/.../taxacom@mailman.../mailman.128.1157126600.2564.taxa...www.google.com/email", 
+        "cite_name": "", 
+        "title": "fredrik.ronquist@… to taxacom@mailman.nhm.ku.edu “PhD ...Google Business Email‎"
+    }
+]

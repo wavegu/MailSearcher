@@ -1,0 +1,11 @@
+[
+    {
+        "content": "eric bloedorn .... accuracy in a text classification task by 72% in one case [bloedorn, mani and. macmillan ..... email: bloedorn@mitre.org, phone: (703)883-5274,.", 
+        "email_list": [
+            "bloedorn@mitre.org"
+        ], 
+        "cite_url": "www.caasd.org/library/documents/afc00425.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Mining Aviation Safety Data: A Hybrid Approach Eric ..."
+    }
+]

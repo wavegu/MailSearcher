@@ -1,3 +1,20 @@
-erikb@mit.edu	[10]
-erikb@mit.edu.erik	[10]
-email at mit.edu	[2]
+[
+    {
+        "content": "erik brynjolfsson is the schussel family professor of management science, a professor of information technology, and the director of ... e-mail: erikb@mit.edu.", 
+        "email_addr_list": [
+            "erikb@mit.edu"
+        ], 
+        "cite_url": "mitsloan.mit.edu  ...  Directory", 
+        "cite_name": "MIT Sloan School of Management", 
+        "title": "Erik Brynjolfsson - MIT Sloan School of Management"
+    }, 
+    {
+        "content": "erik brynjolfsson. professor of management, mit; ... verified email at mit.edu - homepage  scholar ... tf bresnahan, e brynjolfsson, lm hitt. national bureau of...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lqyGZpQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Erik Brynjolfsson - Google Scholar Citations"
+    }
+]

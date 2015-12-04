@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jeffrey j.p. tsai. chair professor, president, ieee fellow. phd, northwestern university, usa. email: president@asia.edu.tw  personal page. distributed...", 
+        "email_list": [
+            "president@asia.edu.tw"
+        ], 
+        "cite_url": "bioinfo2.asia.edu.tw/EN/Faculty-1.htm", 
+        "cite_name": "", 
+        "title": "Welcome to Biomedical Informatics @ Asia University"
+    }, 
+    {
+        "content": "security, privacy, and reliability jeffrey j. p. tsai, philip s. yu ... yue yu, pierre poirot1, kevin kwiat2** and jeffrey j.p. tsai3 abstract trust is cast as a ... afrl, email: kwiak@gamil.com 3 jeffrey j.p. tsai, department of computer science,...", 
+        "email_list": [
+            "kwiak@gamil.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0387887350", 
+        "cite_name": "", 
+        "title": "Machine Learning in Cyber Trust: Security, Privacy, and ..."
+    }
+]

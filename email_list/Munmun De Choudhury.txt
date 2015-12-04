@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. munmun de choudhury ... verified email at gatech.edu - homepage  scholar ... m de choudhury, yr lin, h sundaram, ks candan, l xie, a kelliher.", 
+        "email_list": [
+            "email@gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Z9Pfp6UAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Munmun De Choudhury - Google Scholar Citations"
+    }, 
+    {
+        "content": "munmun dechoudhury. munmun dechoudhury. assistant professor. email: mchoudhu@cc.gatech.edu. affiliations. school of interactive computing. georgia...", 
+        "email_list": [
+            "mchoudhu@cc.gatech.edu"
+        ], 
+        "cite_url": "www.cc.gatech.ed...", 
+        "cite_name": "Georgia Institute of Technology College of Computing", 
+        "title": "Munmun DeChoudhury | Georgia Tech - College of ..."
+    }
+]

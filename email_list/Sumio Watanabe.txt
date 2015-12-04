@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sumio watanabe is a professor in the precision and intelligence laboratory at the ... problems accessing these resources please email cflack@cambridge.org.", 
+        "email_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../algebraic-geometry-a...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Algebraic Geometry and Statistical Learning Theory ..."
+    }
+]

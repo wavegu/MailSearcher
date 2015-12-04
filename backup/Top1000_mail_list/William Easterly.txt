@@ -1,4 +1,47 @@
-william.easterly@nyu.edu	[31]
-william.easterly@nyu.edu.aid	[31]
-webmaster@econlib.org	[3]
-email at nyu.edu	[2]
+[
+    {
+        "content": "professor william easterly. e-mail: william.easterly@nyu.edu. office: 19 west 4th street, room 705. new york, new york 10012. twitter: bill_easterly. facebook:...", 
+        "email_addr_list": [
+            "william.easterly@nyu.edu"
+        ], 
+        "cite_url": "williameasterly.org/contact/", 
+        "cite_name": "", 
+        "title": "Contact | william easterly"
+    }, 
+    {
+        "content": "william easterly co-director email: william.easterly@nyu.edu personal homepage william easterly is professor of economics at new york university and.", 
+        "email_addr_list": [
+            "william.easterly@nyu.edu"
+        ], 
+        "cite_url": "www.nyudri.org/about/people/william-easterly/", 
+        "cite_name": "", 
+        "title": "William Easterly | NYU Development Research Institute"
+    }, 
+    {
+        "content": "william easterly: current contact information and listing of economic research of this author provided by repec/ideas. ... email: william.easterly@nyu.edu.", 
+        "email_addr_list": [
+            "william.easterly@nyu.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pea1.html", 
+        "cite_name": "", 
+        "title": "William Easterly at IDEAS"
+    }, 
+    {
+        "content": "nyu development research institute  about  people  william easterly william easterly co-director email: william.easterly@nyu.edu personal...", 
+        "email_addr_list": [
+            "william.easterly@nyu.edu"
+        ], 
+        "cite_url": "https://nyudri.wordpress.com/about/people/william-easterly/", 
+        "cite_name": "", 
+        "title": "William Easterly | NYU Development Research Institute"
+    }, 
+    {
+        "content": "william easterly. professor of ... verified email at nyu.edu - homepage  scholar ... a alesina, a devleeschauwer, w easterly, s kurlat, r wacziarg. journal of...", 
+        "email_addr_list": [
+            "email@nyu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SNtE_MsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "William Easterly - Google Scholar Citations"
+    }
+]

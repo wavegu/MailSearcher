@@ -1,4 +1,31 @@
-email at psych.ox.ac.uk	[3]
-email at rti.org	[1]
-email at stanford.edu	[1]
-email at tgac.ac.uk	[1]
+[
+    {
+        "content": "huaqin pan. research analyst ... verified email at rti.org - homepage  scholar ... dj ebbole, y jin, m thon, h pan, e bhattarai, t thomas, r dean. molecular...", 
+        "email_addr_list": [
+            "email@rti.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jQBcrvwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Huaqin Pan - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at stanford.edu. @stanford.edu. cited by ... verified email at psych.ox.ac.uk. @psych.ox.ac.uk. cited by ... huaqin pan. research analyst, rti...", 
+        "email_addr_list": [
+            "email@stanford.edu", 
+            "email@psych.ox.ac.uk"
+        ], 
+        "cite_url": "scholar.google.hu/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Biomedical Informatics"
+    }, 
+    {
+        "content": "huaqin pan. research analyst, rti international. verified email at rti.org. @rti.org. cited by 21753 ... verified email at tgac.ac.uk. @tgac.ac.uk. cited by 5426.", 
+        "email_addr_list": [
+            "email@rti.org", 
+            "email@tgac.ac.uk"
+        ], 
+        "cite_url": "scholar.google.hu/citations?view_op=search_authorshl...", 
+        "cite_name": "Google", 
+        "title": "Phenotype"
+    }
+]

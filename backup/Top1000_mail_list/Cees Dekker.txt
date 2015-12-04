@@ -1,3 +1,29 @@
-c.dekker@tudelft.nl	[14]
-email at tudelft.nl	[2]
-info@cees-dekker.nl	[1]
+[
+    {
+        "content": "cees dekker. kavli institute of ... verified email at tudelft.nl - homepage  scholar ... sj tans, mh devoret, h dai, a thess, re smalley, lj georliga, c dekker.", 
+        "email_addr_list": [
+            "email@tudelft.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PkEB9j4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Cees Dekker - Google Scholar Citations"
+    }, 
+    {
+        "content": "indien u niet over uw inloggegevens beschikt, stuurt u ons dan een email, info@cees-dekker.nl, zodat wij u de gegevens kunnen verstrekken. u kunt ons...", 
+        "email_addr_list": [
+            "info@cees-dekker.nl"
+        ], 
+        "cite_url": "cees-dekker.nl/verzekeringen/mijn-polissen/", 
+        "cite_name": "", 
+        "title": "Mijn polissen inkijken bij Cees Dekker"
+    }, 
+    {
+        "content": "cees dekker. kavli institute of nanoscience, delft university of technology. lorentzweg 1, 2628 cj delft, the netherlands; email: c.dekker@tudelft.nl.", 
+        "email_addr_list": [
+            "c.dekker@tudelft.nl"
+        ], 
+        "cite_url": "www.flow14conference.com/index.php/keynote.../22-cees-dekkerwww.google.com/email", 
+        "cite_name": "", 
+        "title": "Cees Dekker - Flow 14 ConferenceGoogle Business Email - Custom email for your company‎Searches related to Cees Dekker email"
+    }
+]

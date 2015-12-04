@@ -1,0 +1,38 @@
+[
+    {
+        "content": "address of n.e.mastorakis. professor nikos e. mastorakis. director of the chair of computer ... email: mastor@ieee.org. visit wses (world scientific and...", 
+        "email_list": [
+            "mastor@ieee.org"
+        ], 
+        "cite_url": "www.wseas.us/e-library/conferences/florida1999/MCP.../index.html", 
+        "cite_name": "", 
+        "title": "Welcome to Professor Nikos E. Mastorakis WWW home page"
+    }, 
+    {
+        "content": "nikos mastorakis. tech univ sofia ... verified email at tu-sofia.bg - homepage  scholar ... j quartieri, ne mastorakis, g iannone, c guarnaccia, s dambrosio, .", 
+        "email_list": [
+            "email@tu-sofia.bg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ZhxzN_4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Nikos Mastorakis - Google Scholar Citations"
+    }, 
+    {
+        "content": "+36 1 666 5601 fax: +36 1 666 5620 e-mail: rudas@bmf.hu ... dear professor nikos mastorakis, i wish express my appreciation for wseas - smo, budapest...", 
+        "email_list": [
+            "rudas@bmf.hu"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Nikos-Mastorakis/206036781", 
+        "cite_name": "", 
+        "title": "Prof. Nikos E. Mastorakis - ZoomInfo"
+    }, 
+    {
+        "content": "nikos mastorakis, valeri mladenov, vassiliki t. kontargyri ... of technology, 1346 valiasr st. 19697 tehran, iran e-mail: syazdi@kntu.ac.ir n. mastorakis et al.", 
+        "email_list": [
+            "syazdi@kntu.ac.ir"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0387854371", 
+        "cite_name": "", 
+        "title": "Proceedings of the European Computing Conference"
+    }
+]

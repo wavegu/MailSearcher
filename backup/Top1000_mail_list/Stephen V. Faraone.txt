@@ -1,4 +1,20 @@
-sfaraone@childpsychresearch.org	[16]
-faraones@upstate.edu.an	[16]
-faraones@upstate.edu	[16]
-sfaraone@childpsychresearch.org.stephen	[16]
+[
+    {
+        "content": "stephen v. faraone. areas of research: ... development. website: http://www.linkedin.com/in/stephenfaraone. contact email: sfaraone@childpsychresearch.org.", 
+        "email_addr_list": [
+            "sfaraone@childpsychresearch.org"
+        ], 
+        "cite_url": "sunynetworksofexcellence.org/stephen-v-faraone", 
+        "cite_name": "", 
+        "title": "Stephen V. Faraone - SUNY Networks of Excellence"
+    }, 
+    {
+        "content": "schizophrenia research forum: researcher profile - stephen v. faraone ... first name: stephen v. last name ... email address: faraones@upstate.edu.", 
+        "email_addr_list": [
+            "faraones@upstate.edu"
+        ], 
+        "cite_url": "www.schizophreniaforum.org/com/res/detail.asp?id=%7BA64E4A13...", 
+        "cite_name": "", 
+        "title": "Schizophrenia Research Forum: Researcher Profile - Stephen V. Faraone"
+    }
+]

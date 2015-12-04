@@ -1,4 +1,38 @@
-vipin.m.kumar@sunlife.com	[21]
-vkumar@u.washington.edu	[12]
-vckumar@ucsd.edu	[12]
-email at cs.umn.edu	[1]
+[
+    {
+        "content": "vipin kumar. professor of ... verified email at cs.umn.edu - homepage  scholar ... x wu, v kumar, jr quinlan, j ghosh, q yang, h motoda, gj mclachlan, .", 
+        "email_addr_list": [
+            "email@cs.umn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=p743ChgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Vipin Kumar - Google Scholar Citations"
+    }, 
+    {
+        "content": "vipin kumar - professor contact information phone: 206-543-5535 fax: 206-685-8047 vkumar@u.washington.edu website: microcellular plastics lab degree...", 
+        "email_addr_list": [
+            "vkumar@u.washington.edu"
+        ], 
+        "cite_url": "https://www.me.washington.edu/.../vkumar/ind...", 
+        "cite_name": "University of Washington", 
+        "title": "Vipin Kumar | Mechanical Engineering"
+    }, 
+    {
+        "content": "email: vipin.m.kumar@sunlife.com. vipin kumar*. vipin kumar (70x105), address: city place 1, suite 101 1471 john counter blvd kingston, ontario k7m 8s8.", 
+        "email_addr_list": [
+            "vipin.m.kumar@sunlife.com"
+        ], 
+        "cite_url": "www.sunlife.ca/Vipin.M.Kumar", 
+        "cite_name": "Sun Life Financial", 
+        "title": "Vipin Kumar - Sun Life Financial"
+    }, 
+    {
+        "content": "professor of medicine. office phone: (858) 822-0730. email: vckumar@ucsd.edu. research interests. laboratory of immune regulation: gut-liver axis.", 
+        "email_addr_list": [
+            "vckumar@ucsd.edu"
+        ], 
+        "cite_url": "gastro.ucsd.edu  Gastroenterology  Faculty", 
+        "cite_name": "", 
+        "title": "Vipin Kumar, MS, PhD - Gastroenterology - UC San Diego"
+    }
+]

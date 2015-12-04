@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: mikko.nissi [at] uef.fi (please fix the address before mailing!) .... nieminen mt, nissi mj, mattila l and kiviranta i. evaluation of chondral repair using...", 
+        "email_list": [
+            "mikko.nissi@uef.fi"
+        ], 
+        "cite_url": "luotain.uef.fi/?n=groupg=mikko_nissi", 
+        "cite_name": "", 
+        "title": "Mikko Nissi - Biophysics of Bone and Cartilage"
+    }, 
+    {
+        "content": "verified email at pitt.edu ... jt mattila, cr diedrich, pl lin, j phuah, jal flynn ... tj kurtti, jt mattila, mj herron, rf felsheim, gd baldridge, ny burkhardt, .", 
+        "email_list": [
+            "email@pitt.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yg8akXsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Joshua T. Mattila - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 23, 2001 - e-mail: scriber@msu.edu. ... stanley-horn d e,; dively g p,; hellmich r l,; mattila h r,; sears m k, ... hellmich r l,; siegfried b d,; sears m k,; stanley-horn d e,; daniels m j,; mattila h r,; spencer t,; bidne k g,; lewis l c.", 
+        "email_list": [
+            "scriber@msu.edu"
+        ], 
+        "cite_url": "www.pnas.org/...", 
+        "cite_name": "Proceedings of the National Academy of Sciences of t...", 
+        "title": "Bt or not Bt: Is that the question?"
+    }
+]

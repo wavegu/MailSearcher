@@ -1,2 +1,20 @@
-ihw@cs.waikato.ac.nz	[4]
-email at cs.waikato.ac.nz	[3]
+[
+    {
+        "content": "ian h. witten. professor of ... verified email at cs.waikato.ac.nz - homepage  scholar ... m hall, e frank, g holmes, b pfahringer, p reutemann, ih witten.", 
+        "email_addr_list": [
+            "email@cs.waikato.ac.nz"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BSFdGw0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ian H. Witten - Google Scholar Citations"
+    }, 
+    {
+        "content": "text mining. ian h. witten. computer science, university of waikato, hamilton, new zealand email ihw@cs.waikato.ac.nz. index terms. “bag of words” model,...", 
+        "email_addr_list": [
+            "ihw@cs.waikato.ac.nz"
+        ], 
+        "cite_url": "www.cos.ufrj.br/~jano/LinkedDocuments/_.../04-IHW-Textmining.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Text mining"
+    }
+]

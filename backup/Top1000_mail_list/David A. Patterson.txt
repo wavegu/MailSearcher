@@ -1,5 +1,47 @@
-david.patterson@du.edu	[30]
-david.patterson@umb.edu	[30]
-david.patterson@utdallas.edu	[30]
-david.paterson@dpag.ox.ac.uk	[13]
-d.paterson1@uq.edu.au	[4]
+[
+    {
+        "content": "professor. david patterson. david patterson. office: sg mudd 103. office phone: (303) 871-5650. email: david.patterson@du.edu...", 
+        "email_addr_list": [
+            "david.patterson@du.edu"
+        ], 
+        "cite_url": "www.du.edu  Biological Sciences  Faculty  Staff", 
+        "cite_name": "University of Denver", 
+        "title": "David Patterson - University of Denver"
+    }, 
+    {
+        "content": "email: d.paterson1@uq.edu.au. david l. paterson is a professor of medicine at the university of queensland centre for clinical research (uqccr). he is also...", 
+        "email_addr_list": [
+            "d.paterson1@uq.edu.au"
+        ], 
+        "cite_url": "www.uqccr.uq.edu.au  Research", 
+        "cite_name": "University of Queensland", 
+        "title": "UQCCR - Professor David Paterson"
+    }, 
+    {
+        "content": "email: david.patterson@utdallas.edu. areas of specialization: holocaust, anti-semtism, jewish literature, jewish history, modern jewish thought. education:", 
+        "email_addr_list": [
+            "david.patterson@utdallas.edu"
+        ], 
+        "cite_url": "https://www.utdallas.edu/.../faculty_detail.ph...", 
+        "cite_name": "University of Texas at Dallas", 
+        "title": "David Patterson - Faculty - School of Arts and Humanities ..."
+    }, 
+    {
+        "content": "search. our team; david paterson ... email, david.paterson@dpag.ox.ac.uk ... david paterson leads a research team in the area of cardiac neurobiology.", 
+        "email_addr_list": [
+            "david.paterson@dpag.ox.ac.uk"
+        ], 
+        "cite_url": "www.dpag.ox.ac.uk/team/david-paterson", 
+        "cite_name": "University of Oxford", 
+        "title": "David Paterson — Physiology, Anatomy and Genetics"
+    }, 
+    {
+        "content": "photo of david patterson. david patterson, phd ... of liberal arts; work telephone: 617.287.6988; work email: david.patterson@umb.edu  click to view website.", 
+        "email_addr_list": [
+            "david.patterson@umb.edu"
+        ], 
+        "cite_url": "https://www.umb.edu/.../david_patters...", 
+        "cite_name": "University of Massachusetts Boston", 
+        "title": "David Patterson - University of Massachusetts Boston"
+    }
+]

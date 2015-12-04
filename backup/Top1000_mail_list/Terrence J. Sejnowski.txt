@@ -1,5 +1,31 @@
-tsejnowski@ucsd.edu	[21]
-sejnowski@salk.edu	[20]
-tsejnows@ucsd.edu	[4]
-tsejnows@ucsd.edu.terrence	[4]
-email at salk.edu	[3]
+[
+    {
+        "content": "terrence j. sejnowski, professor and head of the computational neurobiology ... terrence sejnowski. email: tsejnowski@ucsd.edu  tsejnows@ucsd.edu.", 
+        "email_addr_list": [
+            "tsejnowski@ucsd.edu", 
+            "tsejnows@ucsd.edu"
+        ], 
+        "cite_url": "jacobsschool.ucsd.edu/...bios/index.sfe?...", 
+        "cite_name": "Jacobs School of Engineering", 
+        "title": "Terrence J. Sejnowski - UCSD Jacobs School of Engineering"
+    }, 
+    {
+        "content": "verified email at salk.edu - homepage  scholar. get my own profile. google ... aj bell, tj sejnowski ... h van praag, br christie, tj sejnowski, fh gage ... s makeig, m westerfield, tp jung, s enghoff, j townsend, e courchesne, ... science...", 
+        "email_addr_list": [
+            "email@salk.edu"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=m1qAiOUAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Terrence Sejnowski - Google Scholar Citations"
+    }, 
+    {
+        "content": "hhmi webpage: hhmi.org/scientists/terrence-j-sejnowski. wikipedia entry: ... email: tsejnowski@ucsd.edu and sejnowski@salk.edu. phone: (858) 453-4100.", 
+        "email_addr_list": [
+            "tsejnowski@ucsd.edu", 
+            "sejnowski@salk.edu"
+        ], 
+        "cite_url": "brain2015.onair.cc/terrence-j-sejnowski-phd-ucsdsalk/", 
+        "cite_name": "", 
+        "title": "Terrence J. Sejnowski, PhD – UCSD/Salk | BRAIN 2015 Hub"
+    }
+]

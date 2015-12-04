@@ -1,0 +1,30 @@
+[
+    {
+        "content": "cancel. vincent buskens. professor of theoretical ... verified email at uu.nl - homepage  scholar. get my own ... v buskens, a van de rijt. american journal of...", 
+        "email_list": [
+            "email@uu.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ITE9bHMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Vincent Buskens - Google Scholar Citations"
+    }, 
+    {
+        "content": "7 days ago - vincent buskens. buskens ... e-mail: v.buskens@uu.nl. website ... miltenburg, nynke van, vincent buskens, and werner raub (2012). trust in...", 
+        "email_list": [
+            "v.buskens@uu.nl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Vincent Buskens - ICS"
+    }, 
+    {
+        "content": "email v.buskens@uu.nl. lecturers. dr. ir. vincent buskens. department of sociology / ics. utrecht university. email v.buskens@uu.nl. prof. dr. beate völker.", 
+        "email_list": [
+            "v.buskens@uu.nl", 
+            "v.buskens@uu.nl"
+        ], 
+        "cite_url": "www3.nccu.edu.tw/.../courseman_Taiwan_...", 
+        "cite_name": "National Chengchi University", 
+        "title": "[PDF]Download The Reading List"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "... 4-chome, chuo-ku. osaka 541-0048. phone: +81 6 6203 5156. fax: +81 6 6203 5195. email: psc@iss-shipping.com ... contact yoshinori yamaguchi...", 
+        "email_list": [
+            "psc@iss-shipping.com"
+        ], 
+        "cite_url": "www.iss-shipping.com/OfficeDetails.aspx?office_id=191", 
+        "cite_name": "", 
+        "title": "ISS Machinery Services Osaka office - Inchcape Shipping ..."
+    }, 
+    {
+        "content": "jul 21, 2009 - email: paul.dinwiddy@gkndriveline.com. media contacts: ... email: simon@s-pearson.com. americas ... yoshinori yamaguchi inoue public...", 
+        "email_list": [
+            "paul.dinwiddy@gkndriveline.com", 
+            "simon@s-pearson.com"
+        ], 
+        "cite_url": "media-centre.gkndriveline.com/drivelinecms/.../en/.../article_0033.html", 
+        "cite_name": "", 
+        "title": "GKN Driveline Media Centre : GKN Drivelines **Viscodrive ..."
+    }, 
+    {
+        "content": "yoshi.yamaguchi@ap.eng.osaka-u.ac.jp is owned by yoshinori yamaguchi. ... emails ... name, yoshinori yamaguchi, is associated with 41 domains.", 
+        "email_list": [
+            "yoshi.yamaguchi@ap.eng.osaka-u.ac.jp"
+        ], 
+        "cite_url": "domainbigdata.com/email/yoshi.yamaguchi@ap.eng.osaka-u.ac.jp", 
+        "cite_name": "", 
+        "title": "Yoshi.yamaguchi@ap.eng.osaka-u.ac.jp : Yoshinori ..."
+    }, 
+    {
+        "content": "sep 23, 2014 - e-mail: yoshi.yamaguchi@ap.eng.osaka-u.ac.jp cdepartment of applied physics, graduate school of engineering, osaka university,...", 
+        "email_list": [
+            "yoshi.yamaguchi@ap.eng.osaka-u.ac.jp"
+        ], 
+        "cite_url": "pubs.rsc.org/en/content/.../2014/.../c4an01649a", 
+        "cite_name": "Royal Society of Chemistry", 
+        "title": "Determination and quantification of Escherichia coli by ..."
+    }
+]

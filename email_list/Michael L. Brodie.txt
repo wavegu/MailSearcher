@@ -1,0 +1,20 @@
+[
+    {
+        "content": "michael l. brodie. research scientist ... verified email at mit.edu - homepage  scholar ... m stonebraker, la rowe, bg lindsay, j gray, mj carey, ml brodie, .", 
+        "email_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael L. Brodie - Google Scholar Citations"
+    }, 
+    {
+        "content": "seminar by dr michael l. brodie ... dr. brodie is a research scientist, mit computer science and artificial intelligence ... e-mail: elizabeth.chang@unsw.edu.au", 
+        "email_list": [
+            "elizabeth.chang@unsw.edu.au"
+        ], 
+        "cite_url": "ieee-tcii.org/research/.../252-business-seminar-by-dr-michael-l-brodie", 
+        "cite_name": "", 
+        "title": "Seminar by Dr Michael L. Brodie - IEEE TCII"
+    }
+]

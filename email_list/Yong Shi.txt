@@ -1,0 +1,56 @@
+[
+    {
+        "content": "http://mscas-en.gucas.ac.cn/sitecollectionimages/. name： shi yong. title： professor. tel： 86-13501093251. e-mail： yshi@ucas.ac.cn...", 
+        "email_list": [
+            "yshi@ucas.ac.cn"
+        ], 
+        "cite_url": "mscas-en.ucas.ac.cn/.../Perso...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "SHI Yong - Personnel"
+    }, 
+    {
+        "content": "email: yong.shi@stevens.edu .... xi chen, shiyou xu, nan yao and yong shi. ... yong shi. the development of the carbon fiber reinforced epoxy stringer...", 
+        "email_list": [
+            "yong.shi@stevens.edu"
+        ], 
+        "cite_url": "web.stevens.edu/.../faculty_profile.php?...", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "Dr. Yong Shi - Faculty Profiles - SIT"
+    }, 
+    {
+        "content": "yongyong shi profile page. yongyong shi. name: yongyong shi. title: professor/research scientist. email: shiyongyong@gmail.com. this e-mail address is...", 
+        "email_list": [
+            "shiyongyong@gmail.com"
+        ], 
+        "cite_url": "life.sjtu.edu.cn/english/index.php/component/.../Yongyong%20Shi", 
+        "cite_name": "", 
+        "title": "Yongyong Shi"
+    }, 
+    {
+        "content": "cancel. yong shi. research center on fictitious economy  data science, chinese ... verified email at ucas.ac.cn - homepage ... y peng, g kou, y shi, z chen.", 
+        "email_list": [
+            "email@ucas.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Toz5qJcAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yong Shi - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 7, 2014 - you are here: home / people / shouyong shi, professor. shouyong shi professor. shouyong shi, professor. 502 kern. email: sus67@psu.edu.", 
+        "email_list": [
+            "sus67@psu.edu"
+        ], 
+        "cite_url": "econ.la.psu.edu/.../shouyong-shi-professor", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Shouyong Shi, Professor — Department of Economics"
+    }, 
+    {
+        "content": "yong-shi wu portrait. distinguished professor, physics and astronomy, university of utah. email wu@physics.utah.edu; phone 801-581-6603; my main...", 
+        "email_list": [
+            "wu@physics.utah.edu"
+        ], 
+        "cite_url": "https://faculty.utah.edu/...YONG-SHI_WU/.../index.h...", 
+        "cite_name": "University of Utah", 
+        "title": "YONG-SHI WU - Biography - Faculty Profile - The University ..."
+    }
+]

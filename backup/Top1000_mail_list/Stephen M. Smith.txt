@@ -1,5 +1,38 @@
-ssmith@braininjurylawcenter.com	[13]
-ssmith@braininjurylawcenter.com.stephen	[13]
-smisteph@ohsu.edu	[4]
-steve@fmrib.ox.ac.uk	[3]
-email at fmrib.ox.ac.uk	[2]
+[
+    {
+        "content": "email, steve@fmrib.ox.ac.uk. tel, +44 (0) 1865 222726. fax, +44 (0) 1865 222717. stephen smith. professor of biomedical engineering. head of fmrib...", 
+        "email_addr_list": [
+            "steve@fmrib.ox.ac.uk"
+        ], 
+        "cite_url": "www.ndcn.ox.ac.uk/team/stephen-smith", 
+        "cite_name": "University of Oxford", 
+        "title": "Stephen Smith — NDCN"
+    }, 
+    {
+        "content": "stephen m. smith, m.b., b.s., ph.d. ... email: smisteph@ohsu.edu ... stephen smith completed his graduate studies and medical degree at the university of...", 
+        "email_addr_list": [
+            "smisteph@ohsu.edu"
+        ], 
+        "cite_url": "www.ohsu.edu/.../grad-studies-facult...", 
+        "cite_name": "Oregon Health  Science University", 
+        "title": "Stephen M. Smith, M.B., B.S., Ph.D. - Graduate Studies ..."
+    }, 
+    {
+        "content": "stephen m. smith. fmrib centre, oxford ... verified email at fmrib.ox.ac.uk. scholar ... sm smith, m jenkinson, mw woolrich, cf beckmann, tej behrens, .", 
+        "email_addr_list": [
+            "email@fmrib.ox.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gRptb5UAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen M. Smith - Google Scholar Citations"
+    }, 
+    {
+        "content": "mr. smith has won the largest mild traumatic brain injury verdict ever awarded in the world. founder of the brain injury law center, stephen m. smith has been litigating traumatic brain injury cases ... email: ssmith@braininjurylawcenter.com.", 
+        "email_addr_list": [
+            "ssmith@braininjurylawcenter.com"
+        ], 
+        "cite_url": "thesmithlawcenter.com/?page_id=688", 
+        "cite_name": "", 
+        "title": "Stephen M. Smith - The Smith Law Center"
+    }
+]

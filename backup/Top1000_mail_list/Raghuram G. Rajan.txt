@@ -1,1 +1,11 @@
-rbiforeignexchangeonlinedepartment@hotmail.com	[4]
+[
+    {
+        "content": "the reserve bank of india (rbi) governor, dr raghuram rajan and ban kin-moon ... reply to email: rbiforeignexchangeonlinedepartment@hotmail.com 8. ...... at the end of the meeting (rbi) governor, dr raghuram g.rajan mandated all...", 
+        "email_addr_list": [
+            "rbiforeignexchangeonlinedepartment@hotmail.com"
+        ], 
+        "cite_url": "www.complaintboard.in/complaints.../rbi-customer-care-delhi-l152428.h...", 
+        "cite_name": "", 
+        "title": "RBI Customer care, Delhi Complaints"
+    }
+]

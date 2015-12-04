@@ -1,0 +1,38 @@
+[
+    {
+        "content": "feb 26, 2014 - dr julien epps is an associate professor in signal processing with the school ... nsw, 2052, australia | email: researchgateway@unsw.edu.au.", 
+        "email_list": [
+            "researchgateway@unsw.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of New South Wales", 
+        "title": "Associate Professor Julien Epps | UNSW Research Gateway"
+    }, 
+    {
+        "content": "associate professor in signal processing director of academic studies telephone: +61 2 9385 6579 fascimile: +61 2 9385 5993 email: j.epps@unsw.edu.au...", 
+        "email_list": [
+            "j.epps@unsw.edu.au"
+        ], 
+        "cite_url": "https://www.engineering.unsw.edu.au/.../...", 
+        "cite_name": "University of New South Wales", 
+        "title": "Associate Professor Julien Epps | School of Electrical ..."
+    }, 
+    {
+        "content": "julien epps. associate professor ... verified email at unsw.edu.au - homepage  scholar. get my own ... m akhtar, j epps, e ambikairajah. selected topics in...", 
+        "email_list": [
+            "email@unsw.edu.au"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=VzA...", 
+        "cite_name": "Google Scholar", 
+        "title": "Julien Epps - Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about sppejr@hotmail.com (julien eppss e-mail) in our huge ... an unsolicited or spam email has been received from this address.", 
+        "email_list": [
+            "sppejr@hotmail.com"
+        ], 
+        "cite_url": "spam-report.email/sppejr/hotmail.com", 
+        "cite_name": "", 
+        "title": "sppejr@hotmail.com (Julien Eppss e-mail) - Spam-Report ..."
+    }
+]

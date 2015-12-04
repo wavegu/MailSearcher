@@ -1,1 +1,11 @@
-rgparr@email.unc.edu	[11]
+[
+    {
+        "content": "robert g. parr. parr. born september 22, 1921 in chicago, illinois, usa. wassily hoeffding ... email:rgparr@email.unc.edu. www: external link. d. hon.", 
+        "email_addr_list": [
+            "rgparr@email.unc.edu"
+        ], 
+        "cite_url": "www.iaqms.org/members/parr.php", 
+        "cite_name": "", 
+        "title": "Robert G. Parr - International Academy of Quantum ..."
+    }
+]

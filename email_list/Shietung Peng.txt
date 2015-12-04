@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail : editor@ijcsns.org. homepage : http://www.ijcsns.org ... dr. gihan lee dr. shietung peng dr. sanghun lee. dept of computer science, dept of computer...", 
+        "email_list": [
+            "editor@ijcsns.org"
+        ], 
+        "cite_url": "ijcsns.org/05_contact/05_contact_01.htm", 
+        "cite_name": "", 
+        "title": "IJCSNS - International Journal of Computer Science and ..."
+    }, 
+    {
+        "content": "if you have any problems, please email ica3pp11@gmail.com for help. ... frequent sets from uncertain data; [26] shietung peng, yamin li and wanming chu.", 
+        "email_list": [
+            "ica3pp11@gmail.com"
+        ], 
+        "cite_url": "anss.org.au/ica3pp11/accepted.htm", 
+        "cite_name": "", 
+        "title": "Please see accpeted papers list here. - Professor Yang Xiang"
+    }
+]

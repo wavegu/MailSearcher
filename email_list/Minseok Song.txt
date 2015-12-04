@@ -1,0 +1,21 @@
+[
+    {
+        "content": "minseok song. assistant professor ... verified email at unist.ac.kr - homepage  scholar ... rs mans, mh schonenberg, m song, wmp van der aalst, pjm bakker.", 
+        "email_list": [
+            "email@unist.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8ACzAlkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Minseok Song - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 9, 2008 - email addresses: m.s.song@tue.nl (minseok song), w.m.p.v.d.aalst@tue.nl. (wil m.p. van der aalst). preprint submitted to elsevier science.", 
+        "email_list": [
+            "m.s.song@tue.nl", 
+            "w.m.p.v.d.aalst@tue.nl"
+        ], 
+        "cite_url": "wwwis.win.tue.nl/~wvdaalst/publications/p484.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Towards Comprehensive Support for Organizational Mining"
+    }
+]

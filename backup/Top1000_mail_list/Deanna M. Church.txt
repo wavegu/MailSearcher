@@ -1,3 +1,11 @@
-deanna.church@personalis.com	[25]
-dbullock@fredcchurch.com	[3]
-schneiva@ncbi.nlm.nih.gov	[2]
+[
+    {
+        "content": "deanna m. deanna m. bullock, csrm, aic. associate ... position: commercial claims team leader. email: dbullock@fredcchurch.com. phone: 978-322-7242...", 
+        "email_addr_list": [
+            "dbullock@fredcchurch.com"
+        ], 
+        "cite_url": "www.fredcchurch.com/deanna-m", 
+        "cite_name": "", 
+        "title": "Deanna M. | Fred C Church"
+    }
+]

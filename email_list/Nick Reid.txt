@@ -1,0 +1,40 @@
+[
+    {
+        "content": "professor nick reid. professor, school of environmental  rural science. nick reid. phone: +61 2 6773 2759. email: nrei3@une.edu.au...", 
+        "email_list": [
+            "nrei3@une.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of New England", 
+        "title": "Nick Reid - University of New England (UNE)"
+    }, 
+    {
+        "content": "email: reatwood@umich.edu. jessica bene education: ... email: jebene@umich.edu. gurpreet chahal education: .... nick reid, mhi 15 nickreid@umich.edu.", 
+        "email_list": [
+            "reatwood@umich.edu", 
+            "jebene@umich.edu", 
+            "nickreid@umich.edu"
+        ], 
+        "cite_url": "healthinformatics.umich.edu/students", 
+        "cite_name": "University of Michigan", 
+        "title": "University of Michigan Health Informatics | Students"
+    }, 
+    {
+        "content": "mr nick reid. undergraduate hub administrator. email: reidn2@cardiff.ac.uk; telephone: 029 2087 4693; location: undergraduate hub (e25), aberconway...", 
+        "email_list": [
+            "reidn2@cardiff.ac.uk"
+        ], 
+        "cite_url": "business.cardiff.ac.uk/people/staff/nick-reid", 
+        "cite_name": "Cardiff University", 
+        "title": "Mr Nick Reid - Cardiff Business School - Cardiff University"
+    }, 
+    {
+        "content": "verified email at une.edu.au - homepage  scholar ... n reid, j landsberg, rj hobbs, cj yates ... n reid, ms smith, y zhaogui, md lowman, nm nadkarni.", 
+        "email_list": [
+            "email@une.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iDDenV8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nick Reid - Google Scholar Citations"
+    }
+]

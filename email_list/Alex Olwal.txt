@@ -1,0 +1,20 @@
+[
+    {
+        "content": "alex olwal. research affiliate, mit ... verified email at media.mit.edu - homepage  scholar ... e kaiser, a olwal, d mcgee, h benko, a corradini, x li, p cohen, .", 
+        "email_list": [
+            "email@media.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hQ_PhJwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alex Olwal - Google Scholar Citations"
+    }, 
+    {
+        "content": "jan 21, 2015 - alex olwal (ph.d.) is a researcher at the mit media lab. ..... this group, send email to: ugandans-at-heart+unsubscribe@googlegroups.com or...", 
+        "email_list": [
+            "unsubscribe@googlegroups.com"
+        ], 
+        "cite_url": "ugandansatheart.blogspot.com/.../uah-alex-okot-olwal-ugandas-unsung-...", 
+        "cite_name": "", 
+        "title": "{UAH} ALEX OKOT-OLWAL, UGANDAS UNSUNG HERO ..."
+    }
+]

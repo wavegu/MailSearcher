@@ -1,0 +1,39 @@
+[
+    {
+        "content": "professor stephen h. muggleton. freng, faaai, fbcs ... e-mail: secretary: +44 20 7594 8307 +44 20 7581 8024 s.muggleton@imperial.ac.uk  bridget gundry...", 
+        "email_list": [
+            "s.muggleton@imperial.ac.uk"
+        ], 
+        "cite_url": "wp.doc.ic.ac.uk/shm/", 
+        "cite_name": "", 
+        "title": "Professor Stephen H. Muggleton | Head of Computational ..."
+    }, 
+    {
+        "content": "verified email at imperial.ac.uk - homepage  scholar. get my own ... s muggleton, l de raedt. the journal of ... rd king, s muggleton, ra lewis, mj sternberg.", 
+        "email_list": [
+            "email@imperial.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WxJXT2MAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen Muggleton - Google Scholar Citations"
+    }, 
+    {
+        "content": "... college park md usa e-mail: getoor@cs.umd.edu url: http://www.cs.umd.edu/getoor s. muggleton imperial college london uk e-mail: shm@doc.ic.ac.uk url:...", 
+        "email_list": [
+            "getoor@cs.umd.edu", 
+            "shm@doc.ic.ac.uk"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-shm-doc-ic-ac-3654294.htm", 
+        "cite_name": "", 
+        "title": "shm@doc.ic.ac - The Email Archive"
+    }, 
+    {
+        "content": "may 25, 2012 - dr jennifer muggleton is a principal research fellow in ... phone: (023) 8059 7624; email: jmm@isvr.soton.ac.uk ... research project(s).", 
+        "email_list": [
+            "jmm@isvr.soton.ac.uk"
+        ], 
+        "cite_url": "www.southampton.ac.uk/.../about/.../jm9.pag...", 
+        "cite_name": "University of Southampton", 
+        "title": "Dr Jen Muggleton | Engineering and the Environment ..."
+    }
+]

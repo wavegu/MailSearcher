@@ -1,0 +1,20 @@
+[
+    {
+        "content": "andre c. p. l. f. de carvalho. universidade de sao paulo. email: andre@icmc.usp.br. abstract-enhanced authentication mechanisms are currently needed in...", 
+        "email_list": [
+            "andre@icmc.usp.br"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0728...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Adaptive Approaches for Keystroke Dynamics - IEEE Xplore"
+    }, 
+    {
+        "content": "andré c. p. l. f. de carvalho. icmc. universidade de s˜ao paulo. s˜ao carlos, brazil. email: andre@icmc.usp.br. marcilio c. p. de souto. univ. orléans.", 
+        "email_list": [
+            "andre@icmc.usp.br"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0688...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "PVis - Partitions Visualizer - IEEE Xplore"
+    }
+]

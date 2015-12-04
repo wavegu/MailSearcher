@@ -1,2 +1,20 @@
-brianl.schmidt@nyu.edu	[25]
-brian@mso.anu.edu.au	[11]
+[
+    {
+        "content": "brian p. schmidt ac faa frs. address: the research ... 61 (0)2 6125 0260 email: brian@mso.anu.edu.au. academic qualifications: 1993: ph.d. in astronomy...", 
+        "email_addr_list": [
+            "brian@mso.anu.edu.au"
+        ], 
+        "cite_url": "https://www.mso.anu.edu.au/~brian/cv.pdf", 
+        "cite_name": "Australian National University", 
+        "title": "[PDF]Curriculum Vitae - Mt Stromlo Observatory - Australian ..."
+    }, 
+    {
+        "content": "brian l. schmidt, dds, md, phd. director ... e-mail: brianl.schmidt@nyu.edu ... schmidt bl, tambeli ch, barletta j, luo l, green p, levine jd, gear rw. altered...", 
+        "email_addr_list": [
+            "brianl.schmidt@nyu.edu"
+        ], 
+        "cite_url": "dental.nyu.edu/faculty/ft/bls322.html", 
+        "cite_name": "", 
+        "title": "Schmidt, Brian L."
+    }
+]

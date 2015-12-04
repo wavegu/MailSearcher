@@ -1,4 +1,29 @@
-clieber@seas.harvard.edu	[14]
-e-mailfernando@cmliris.harvard.edu.hongkun	[3]
-e-mailfernando@cmliris.harvard.edu	[3]
-email at harvard.edu	[3]
+[
+    {
+        "content": "charles m. lieber was born in philadelphia, pennsylvania in 1959. he attended franklin and ... email: clieber@seas.harvard.edu. office phone: (617) 496-3169.", 
+        "email_addr_list": [
+            "clieber@seas.harvard.edu"
+        ], 
+        "cite_url": "www.seas.harvard...", 
+        "cite_name": "Harvard John A. Paulson School of Engineering and...", 
+        "title": "Charles M Lieber | Harvard John A. Paulson School of ..."
+    }, 
+    {
+        "content": "fernando patolsky, brian p. timko, gengfeng zheng and charles m. lieber ... tel.617-496-3169, fax 617-496-5442, and e-mailfernando@cmliris.harvard.edu.", 
+        "email_addr_list": [
+            "e-mailfernando@cmliris.harvard.edu"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S08837694...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Nanowire-Based Nanoelectronic Devices in the Life Sciences"
+    }, 
+    {
+        "content": "verified email at harvard.edu ... w liang, mp shores, m bockrath, jr long, h park ... m bockrath, w liang, d bozovic, jh hafner, cm lieber, m tinkham, .", 
+        "email_addr_list": [
+            "email@harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=f8t5S4UAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hongkun Park - Google Scholar Citations"
+    }
+]

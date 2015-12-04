@@ -1,0 +1,20 @@
+[
+    {
+        "content": "create alert. cancel. noriyuki ishii ... verified email at ni.aist.go.jp. scholar ... t fukushima, a kosaka, y ishimura, t yamamoto, t takigawa, n ishii, ... science...", 
+        "email_list": [
+            "email@ni.aist.go.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pGY...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Noriyuki Ishii - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: heyaning@mail.tsinghua.edu.cn ... shu seki, noriyuki ishii, and takuzo aida*, hexabenzocoronene graphitic nanotube appended with dithienylethene...", 
+        "email_list": [
+            "heyaning@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.chemeng.tsinghua.edu.cn/.../heyaning_e.htm", 
+        "cite_name": "Tsinghua University", 
+        "title": "Asso.Prof. HE Yanning"
+    }
+]

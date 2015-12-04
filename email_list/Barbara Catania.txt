@@ -1,0 +1,29 @@
+[
+    {
+        "content": "universita di genova via dodecaneso, 35 16146 genova - italy phone: +39 (10) 353 6728. fax: +39 (10) 3536699. email address: barbara.catania@unige.it...", 
+        "email_list": [
+            "barbara.catania@unige.it"
+        ], 
+        "cite_url": "www.disi.unige.it/person/CataniaB/", 
+        "cite_name": "University of Genoa", 
+        "title": "Barbara Catania - DISI"
+    }, 
+    {
+        "content": "barbara catania. professor of computer ... verified email at unige.it - homepage  scholar ... e bertino, b catania, ml damiani, p perlasca. proceedings of the...", 
+        "email_list": [
+            "email@unige.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Barbara Catania - Google Scholar Citations"
+    }, 
+    {
+        "content": "name of the institution: universita degli studi di catania ... dott.ssa veronica milici; telephone: +39 095 7307051; fax: +39 095 7307105 ; e-mail: uri11@unict.it", 
+        "email_list": [
+            "uri11@unict.it"
+        ], 
+        "cite_url": "www.dmi.unict.it/~barba/LLP/", 
+        "cite_name": "University of Catania", 
+        "title": "Erasmus, Dipartimento di Matematica e Informatica"
+    }
+]

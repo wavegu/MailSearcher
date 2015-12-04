@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. jeffrey bardzell ... verified email at indiana.edu ... j bardzell. proceedings of the sigchi conference on human factors in computing systems ..., 2009.", 
+        "email_list": [
+            "email@indiana.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JjKNmggAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jeffrey Bardzell - Google Scholar Citations"
+    }, 
+    {
+        "content": "personal homepage: http://jeffreybardzell.com/; employer: (); email: jbardzel@indiana.edu. jeffrey bardzell is an associate professor of hci/design and new...", 
+        "email_list": [
+            "jbardzel@indiana.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/jeffrey-bardzell", 
+        "cite_name": "", 
+        "title": "Jeffrey Bardzell - Interaction Design Foundation"
+    }
+]

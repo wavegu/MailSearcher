@@ -1,4 +1,38 @@
-rinzler@phys.ufl.edu	[15]
-haddon@ucr.edu	[2]
-dekker@qt.tn.tudelft.nl	[2]
-email at phys.ufl.edu	[2]
+[
+    {
+        "content": "andrew g. rinzler. professor of physics ... verified email at phys.ufl.edu. scholar ... jwg wilder, lc venema, ag rinzler, re smalley, c dekker. nature 391...", 
+        "email_addr_list": [
+            "email@phys.ufl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=o6gbyeQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew G. Rinzler - Google Scholar Citations"
+    }, 
+    {
+        "content": "jeroen w. g. wilder, liesbeth c. venema, andrew g. rinzler, richard e. smalley  cees ... should be addressed to c.d. (e-mail: email: dekker@qt.tn.tudelft.nl).", 
+        "email_addr_list": [
+            "dekker@qt.tn.tudelft.nl"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Electronic structure of atomically resolved carbon nanotubes ..."
+    }, 
+    {
+        "content": "andrew g. rinzler. andrew g. rinzler is at the department of physics, university of florida, gainesville, florida 32611-8440, usa. e-mail: rinzler@phys.ufl.edu...", 
+        "email_addr_list": [
+            "rinzler@phys.ufl.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  News and Views", 
+        "cite_name": "Nature", 
+        "title": "Materials processing: Sorting out carbon nanotube ... - Nature"
+    }, 
+    {
+        "content": "haddon can be reached by e-mail at haddon@ucr.edu. jennifer sippel is a ... andrew g. rinzler is an associate professor of physics at the university of florida.", 
+        "email_addr_list": [
+            "haddon@ucr.edu"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S08837694...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Purification and Separation of Carbon Nanotubes"
+    }
+]

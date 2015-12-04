@@ -1,3 +1,11 @@
-info@envisagesystems.com.dribbble	[2]
-email at desy.de	[2]
-info@envisagesystems.com	[2]
+[
+    {
+        "content": "nikola stojanovic. beamline scientist ... verified email at desy.de. scholar ... a azima, s düsterer, p radcliffe, h redlin, n stojanovic, w li, h schlarb, ... applied...", 
+        "email_addr_list": [
+            "email@desy.de"
+        ], 
+        "cite_url": "scholar.google.de/citations?user=yUIX0EUAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Nikola Stojanovic - Google Scholar Citations"
+    }
+]

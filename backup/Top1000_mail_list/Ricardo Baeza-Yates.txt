@@ -1,4 +1,29 @@
-ricardo.baeza@upf.eduricardo	[25]
-ricardo.baeza@upf.edu	[25]
-berthier@dcc.ufmg.br	[3]
-x@y.z	[1]
+[
+    {
+        "content": "ricardo baeza-yates personal web site. ricardo baeza-yates is vp of research for europe and latin america, leading the ... e-mail: ricardo.baeza@upf.edu", 
+        "email_addr_list": [
+            "ricardo.baeza@upf.edu"
+        ], 
+        "cite_url": "www.dcc.uchile.cl/~rbaeza/", 
+        "cite_name": "", 
+        "title": "Ricardo Baeza-Yates Personal Web Site"
+    }, 
+    {
+        "content": "e-mail: berthier@dcc.ufmg.br. ricardo baeza-yates received the bachelor degree in cs in 1983 from the university of chile. later, he received also the m.sc. in...", 
+        "email_addr_list": [
+            "berthier@dcc.ufmg.br"
+        ], 
+        "cite_url": "people.ischool....", 
+        "cite_name": "University of California, Berkeley School of Information", 
+        "title": "Ricardo Baeza-Yates"
+    }, 
+    {
+        "content": "all emails with sender x@y.z from april 1st-3rd, 2006 ... (page 1, baeza-yates und ribeiro-neto [1]) ... (glossary, page 444, baeza-yates  ribeiro-neto [1]).", 
+        "email_addr_list": [
+            "x@y.z"
+        ], 
+        "cite_url": "electures.informatik.uni-freiburg.de/portal/.../01_1_Introduction.pptwww.google.com/email", 
+        "cite_name": "", 
+        "title": "[PPT]Microsoft PowerPoint Presentation: 01_1_Introduction.pptGoogle Business Email‎"
+    }
+]

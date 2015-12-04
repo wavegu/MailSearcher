@@ -1,3 +1,29 @@
-burgard@informatik.uni-freiburg.de	[15]
-burgard at informatik.uni-freiburg.de	[15]
-email at informatik.uni-freiburg.de	[2]
+[
+    {
+        "content": "burgard@informatik.uni-freiburg.de. phone: +49 761 ... skype: wolfram.burgard ... if you should be interested, please send your application via email. contact...", 
+        "email_addr_list": [
+            "burgard@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "www2.informatik.uni-freiburg.de/...", 
+        "cite_name": "Albert Ludwigs University of Freiburg", 
+        "title": "Prof. Dr. Wolfram Burgard - Autonomous Intelligent Systems"
+    }, 
+    {
+        "content": "wolfram burgard. professor of computer ... verified email at informatik.uni-freiburg.de - homepage  scholar ... s thrun, d fox, w burgard, f dellaert. artificial...", 
+        "email_addr_list": [
+            "email@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zj6FavAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Wolfram Burgard - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. wolfram burgard ... e-mail burgard@informatik.uni-freiburg.de ... wolfram burgard is a professor for computer science at the university of freiburg, germany...", 
+        "email_addr_list": [
+            "burgard@informatik.uni-freiburg.de"
+        ], 
+        "cite_url": "www.ipm.fraunhofer.de  ...  Chairs  Presenters", 
+        "cite_name": "Fraunhofer Society", 
+        "title": "Wolfram Burgard - Fraunhofer IPM"
+    }
+]

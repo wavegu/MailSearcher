@@ -1,2 +1,20 @@
-blf@unc.edu	[4]
-email at unc.edu	[2]
+[
+    {
+        "content": "barbara l. fredrickson, ph.d. department ... e-mail: blf@unc.edu .... l. (2014). discrimination hurts, but mindfulness may help: trait mindfulness moderates the.", 
+        "email_addr_list": [
+            "blf@unc.edu"
+        ], 
+        "cite_url": "www.unc.edu/.../Fredrickson_...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "[PDF]Barbara L. Fredrickson, Ph.D. - The University of North ..."
+    }, 
+    {
+        "content": "create alert. cancel. barbara l. fredrickson ... verified email at unc.edu - homepage  scholar ... bl fredrickson, mm tugade, ce waugh, gr larkin. journal of...", 
+        "email_addr_list": [
+            "email@unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jwChV9IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Barbara L. Fredrickson - Google Scholar Citations"
+    }
+]

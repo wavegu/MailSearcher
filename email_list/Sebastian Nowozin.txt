@@ -1,0 +1,20 @@
+[
+    {
+        "content": "sebastian nowozin. researcher ... verified email at microsoft.com - homepage  scholar ... jh kappes, b andres, f hamprecht, c schnorr, s nowozin, d batra, .", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7-B7aQkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sebastian Nowozin - Google Scholar Citations"
+    }, 
+    {
+        "content": "sebastian nowozin. homepage: http://user.cs.tu-berlin.de/~nowozin/. search externally ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/sebastian_nowozin/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Sebastian Nowozin - VideoLectures.NET"
+    }
+]

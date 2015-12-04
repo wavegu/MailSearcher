@@ -1,2 +1,20 @@
-rdepinho@mdanderson.org	[16]
-yalanwang@mdanderson.org	[2]
+[
+    {
+        "content": "principal investigator. ronald a. depinho, m.d.. president, md anderson cancer center professor, cancer biology rdepinho@mdanderson.org  view profile...", 
+        "email_addr_list": [
+            "rdepinho@mdanderson.org"
+        ], 
+        "cite_url": "www.mdanderson.org/...", 
+        "cite_name": "University of Texas MD Anderson Cancer Center", 
+        "title": "Lab Members - DePinho Lab | MD Anderson Cancer Center"
+    }, 
+    {
+        "content": "depinho lab  research  publications  lab ... depinho laboratory. our laboratory studies the ... email: yalanwang@mdanderson.org. global navigation; about...", 
+        "email_addr_list": [
+            "yalanwang@mdanderson.org"
+        ], 
+        "cite_url": "www.mdanderson.org/...", 
+        "cite_name": "University of Texas MD Anderson Cancer Center", 
+        "title": "DePinho Laboratory | MD Anderson Cancer Center"
+    }
+]

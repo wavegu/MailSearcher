@@ -1,5 +1,29 @@
-destrin at cs.cornell.edudeborah	[27]
-destrin@cs.cornell.edu	[14]
-destrin@cs.cornell.edu.deborah	[14]
-destrin at cs.cornell.edu	[14]
-email at cs.cornell.edu	[3]
+[
+    {
+        "content": "deborah estrin, ph.d. professor, computer science  cornell nyc tech. 111 8th avenue, suite 302. new york, new york 10011. email: destrin at cs.cornell.edu", 
+        "email_addr_list": [
+            "destrin@cs.cornell.edu"
+        ], 
+        "cite_url": "www.cs.cornell.edu/~destrin/", 
+        "cite_name": "Cornell University", 
+        "title": "Deborah Estrin - Computer Science - Cornell University"
+    }, 
+    {
+        "content": "deborah estrin. professor of computer ... verified email at cs.cornell.edu. scholar ... c intanagonwiwat, r govindan, d estrin, j heidemann, f silva. ieee/acm...", 
+        "email_addr_list": [
+            "email@cs.cornell.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=3...", 
+        "cite_name": "Google Scholar", 
+        "title": "Deborah Estrin - Google Scholar Citations"
+    }, 
+    {
+        "content": "deborah estrin is professor of computer science at cornell tech nyc and professor of public ... estrins current research activities focus on mobile systems and applications, with an .... tel: (917) 675-4954; email: destrin@cs.cornell.edu.", 
+        "email_addr_list": [
+            "destrin@cs.cornell.edu"
+        ], 
+        "cite_url": "www.c4tbh.org/the-center/who-we-are/advisory.../deborah-l-estrin-phd", 
+        "cite_name": "", 
+        "title": "Deborah L. Estrin, PhD - Center for Technology and ..."
+    }
+]

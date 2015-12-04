@@ -1,6 +1,29 @@
-gunnar.heijne@dbb.su.se	[25]
-gunnar at dbb.su.se	[13]
-email at dbb.su.se	[1]
-software@cbs.dtu.dk	[1]
-software@cbs.dtu.dk.contacts	[1]
-bj@iscb.org	[1]
+[
+    {
+        "content": "gunnar von heijne. professor. phone: +46 8 16 2590. e-mail: gunnar.heijne@dbb.su.se. room: a 435. membrane protein assembly and structure. membrane...", 
+        "email_addr_list": [
+            "gunnar.heijne@dbb.su.se"
+        ], 
+        "cite_url": "www.dbb.su.se/en/?p=researchgroupid=55", 
+        "cite_name": "", 
+        "title": "Gunnar von Heijne - Department of Biochemistry and ..."
+    }, 
+    {
+        "content": "gunnar von heijne. stockholm university ... verified email at dbb.su.se - homepage  scholar ... jd bendtsen, h nielsen, g von heijne, s brunak. journal of...", 
+        "email_addr_list": [
+            "email@dbb.su.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=saY_ivoAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Gunnar von Heijne - Google Scholar Citations"
+    }, 
+    {
+        "content": "henrik nielsen, jacob engelbrecht, søren brunak and gunnar von heijne, protein ... signalp mail server ... send inquiries by e-mail to software@cbs.dtu.dk.", 
+        "email_addr_list": [
+            "software@cbs.dtu.dk"
+        ], 
+        "cite_url": "www.cbs.dtu.dk/services/SignalP-1.1/", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "SignalP server - Center for Biological Sequence Analysis"
+    }
+]

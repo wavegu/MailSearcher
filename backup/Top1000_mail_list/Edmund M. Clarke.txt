@@ -1,5 +1,39 @@
-emc@cs.cmu.edu	[4]
-guestservices@fi.edu	[3]
-yano@cs.cmu.edu	[1]
-info@videolectures.net	[1]
-vardi@ibm.com	[1]
+[
+    {
+        "content": "edmund m. clarke. univeristy ... email, executive assistant. emc@cs.cmu.edu, charlotte yano ghc 6027. phone: 412-268-7656. email: yano@cs.cmu.edu...", 
+        "email_addr_list": [
+            "emc@cs.cmu.edu", 
+            "yano@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~emc/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Edmund Clarke - School of Computer Science, Carnegie ..."
+    }, 
+    {
+        "content": "edmund m. clarke. photo of edmund m. clarke. edmund m. clarke ... call or email us at 215.448.1200 or guestservices@fi.edu. © 2015 the franklin institute.", 
+        "email_addr_list": [
+            "guestservices@fi.edu"
+        ], 
+        "cite_url": "https://www.fi.edu/laureates/edmund-m-clarke", 
+        "cite_name": "", 
+        "title": "Edmund M. Clarke | The Franklin Institute"
+    }, 
+    {
+        "content": "edmund m. clarke received a b.a. degree in mathematics from the ... dr. clarkes interests include software and hardware verification and automatic theorem proving. in 1981 ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/edmund_m_clarke/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Edmund M. Clarke - VideoLectures.NET"
+    }, 
+    {
+        "content": "proceedings edmund m. clarke, robert p. kurshan ... the verification of temporal properties c. courcoubetis* m. vardi p. wolper5 m. yannakakis inst. of comp. ... u.s.a. email: vardi@ibm.com sthe work of this author is partially supported by...", 
+        "email_addr_list": [
+            "vardi@ibm.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540544771www.google.com/email", 
+        "cite_name": "", 
+        "title": "Computer-Aided Verification: 2nd Internatonal Conference, ...Google Business Email‎Searches related to Edmund M. Clarke email"
+    }
+]

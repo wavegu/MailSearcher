@@ -1,0 +1,38 @@
+[
+    {
+        "content": "cancel. blaz zupan. university ... verified email at fri.uni-lj.si - homepage  scholar ... j könig, k zarnack, g rot, t curk, m kayikci, b zupan, dj turner, ... nature...", 
+        "email_list": [
+            "email@fri.uni-lj.si"
+        ], 
+        "cite_url": "scholar.google.si/citations?user=jpa...hl=en", 
+        "cite_name": "Google", 
+        "title": "Blaz Zupan - Google Scholar Citations"
+    }, 
+    {
+        "content": "blaž zupan. teaching and research ... verified email at ef.uni-lj.si - homepage  scholar ... f cankar, t deutsch, b zupan, s setnikar cankar. hrvatski časopis za...", 
+        "email_list": [
+            "email@ef.uni-lj.si"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=87yJmYgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Blaž Zupan - Google Scholar Citations"
+    }, 
+    {
+        "content": "blaž zupan. homepage: http://www.fri.uni-lj.si/en/blaz-zupan/default.html. search externally ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/blaz_zupan/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Blaž Zupan - VideoLectures.NET"
+    }, 
+    {
+        "content": "blaz zupan, ph.d. ... email. bzupan@gmail.com ... miranda er, zhuchenko o, toplak m, santhanam b, zupan b, kuspa a, shaulsky g. abc transporters in...", 
+        "email_list": [
+            "bzupan@gmail.com"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../b1648504-ffed-11e2...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Blaz Zupan, Ph.D. | People | Baylor College of Medicine ..."
+    }
+]

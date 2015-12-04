@@ -1,2 +1,22 @@
-anoop@dranoopgupta.com	[11]
-query@dranoopgupta.com	[1]
+[
+    {
+        "content": "new delhi 110 001, india email : query@dranoopgupta.com  anoop@dranoopgupta.com ... 9811081024. skpye id : dr.anoop.gupta (9:00 am to 9:00 pm) ist...", 
+        "email_addr_list": [
+            "query@dranoopgupta.com", 
+            "anoop@dranoopgupta.com"
+        ], 
+        "cite_url": "www.delhi-ivf.com/contact_us.html", 
+        "cite_name": "", 
+        "title": "Contact Us - Delhi Fertility Research Centre"
+    }, 
+    {
+        "content": "email : query@dranoopgupta.com , anoop@dranoopgupta.com. landline: ... convenient time for telephonic appointment with dr. anoop gupta. skype id if any.", 
+        "email_addr_list": [
+            "query@dranoopgupta.com", 
+            "anoop@dranoopgupta.com"
+        ], 
+        "cite_url": "www.dranoopgupta.com/contactUs.aspx", 
+        "cite_name": "", 
+        "title": "Dr. Anoop Gupta - IVF in India"
+    }
+]

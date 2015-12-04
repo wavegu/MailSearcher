@@ -1,0 +1,20 @@
+[
+    {
+        "content": "create alert. cancel. mohsen jamali ... verified email at linkedin.com - homepage  scholar ... y ganjisaffar, h abolhassani, m neshati, m jamali. proceedings...", 
+        "email_list": [
+            "email@linkedin.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=rfeRhO0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mohsen Jamali - Google Scholar Citations"
+    }, 
+    {
+        "content": "intranet. follow and share. home / people / graduate students / j / mohsen jamali langroodi. mohsen jamali langroodi. research area: email: jamali@sfu.ca...", 
+        "email_list": [
+            "jamali@sfu.ca"
+        ], 
+        "cite_url": "www.sfu.ca/computing/people/.../j/jamali.html", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Mohsen Jamali Langroodi - Computing Science - Simon ..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "m. (mykola) pechenizkiy - expertise. pechenizkiy, dr. m. ... room: mf 7.099; tel: +31 40-247 4977; tel (internal): 4977; email: m.pechenizkiy@remove-this.tue.nl.", 
+        "email_list": [
+            "m.pechenizkiy@remove-this.tue.nl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Eindhoven University of Technology", 
+        "title": "dr. M. (Mykola) Pechenizkiy - Expertise"
+    }, 
+    {
+        "content": "create alert. cancel. mykola pechenizkiy ... verified email at tue.nl - homepage  scholar ... a tsymbal, m pechenizkiy, p cunningham, s puuronen. information...", 
+        "email_list": [
+            "email@tue.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=F0uFT_kAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mykola Pechenizkiy - Google Scholar Citations"
+    }
+]

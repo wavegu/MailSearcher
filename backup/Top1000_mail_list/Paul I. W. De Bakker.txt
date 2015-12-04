@@ -1,7 +1,30 @@
-pdebakker@rics.bwh.harvard.edu	[18]
-pdebakker@umcutrecht.nl.imputing	[18]
-pdebakker@umcutrecht.nl	[18]
-email at umcutrecht.nl	[2]
-luo@phac-aspc.gc.ca	[1]
-mluo@cc.umanitoba.ca	[1]
-soumya@broadinstitute.org	[1]
+[
+    {
+        "content": "paul i wen de bakker. professor of ... verified email at umcutrecht.nl. scholar ... sc lovell, iw davis, wb arendall, piw de bakker, jm word, mg prisant, .", 
+        "email_addr_list": [
+            "email@umcutrecht.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NaqLqXUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Paul I Wen de Bakker - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: mluo@cc.umanitoba.ca, ma_luo@phac-aspc.gc.ca ... peter little, francis a. plummer, edmund j. d. lee, kee-seng chia, ma luo, paul i w de bakker,...", 
+        "email_addr_list": [
+            "mluo@cc.umanitoba.ca", 
+            "ma_luo@phac-aspc.gc.ca"
+        ], 
+        "cite_url": "umanitoba.ca/faculties/medicine/.../ma_lou.html", 
+        "cite_name": "University of Manitoba", 
+        "title": "Dr. Ma Luo - University of Manitoba"
+    }, 
+    {
+        "content": "corresponding author: paul iw de bakker pdebakker@rics.bwh.harvard.edu. † equal contributors. bmc genomics 2011, 12:42 doi:10.1186/1471-2164-12-42.", 
+        "email_addr_list": [
+            "pdebakker@rics.bwh.harvard.edu"
+        ], 
+        "cite_url": "https://www.biomedcentral.com/1471-2164/.../comments", 
+        "cite_name": "BioMed Central", 
+        "title": "Next-generation sequencing for HLA typing of class I loci"
+    }
+]

@@ -1,1 +1,11 @@
-sb205@cam.ac.uk	[3]
+[
+    {
+        "content": "professor simon baron-cohen. director, autism research ... email: sb205@cam.ac.uk ... professor baron-cohen is interested in taking phd students. potential...", 
+        "email_addr_list": [
+            "sb205@cam.ac.uk"
+        ], 
+        "cite_url": "www.psychol.cam.ac.uk/.../simon-baron-cohen", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Simon Baron-Cohen — Department of Psychology"
+    }
+]

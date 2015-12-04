@@ -1,2 +1,29 @@
-aebersold@imsb.biol.ethz.ch.about	[20]
-aebersold@imsb.biol.ethz.ch	[20]
+[
+    {
+        "content": "phone work +41 44 633 31 70; mail aebersold@imsb.biol.ethz.ch; vcard v-card (vcf, 1kb). prof. ruedi aebersold is one of the pioneers in the field of proteomics...", 
+        "email_addr_list": [
+            "aebersold@imsb.biol.ethz.ch"
+        ], 
+        "cite_url": "www.imsb.ethz.ch/research/aebersold/.../ruedi-aebersold.htm...", 
+        "cite_name": "ETH Zurich", 
+        "title": "Prof. Dr. Ruedi Aebersold – Institute of Molecular Systems ..."
+    }, 
+    {
+        "content": "name, room, telephone number, e-mail. aebersold, rudolf, prof. dr. hpt e 78, +41 44 633 31 70  aebersold@imsb.biol.ethz.ch  akcay, izzet mehmet, hpt d...", 
+        "email_addr_list": [
+            "aebersold@imsb.biol.ethz.ch"
+        ], 
+        "cite_url": "www.imsb.ethz.ch/people.html", 
+        "cite_name": "ETH Zurich", 
+        "title": "People – Institute of Molecular Systems Biology | ETH Zurich"
+    }, 
+    {
+        "content": "matthias gstaiger  ruedi aebersold about the authors. top of page ... correspondence to: ruedi aebersold email: aebersold@imsb.biol.ethz.ch.", 
+        "email_addr_list": [
+            "aebersold@imsb.biol.ethz.ch"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Applying mass spectrometry-based proteomics to genetics ..."
+    }
+]

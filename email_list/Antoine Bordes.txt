@@ -1,0 +1,20 @@
+[
+    {
+        "content": "antoine bordes. research ... verified email at hds.utc.fr - homepage  scholar ... a bordes, n usunier, a garcia-duran, j weston, o yakhnenko. advances in...", 
+        "email_list": [
+            "email@hds.utc.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jWWx33IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Antoine Bordes - Google Scholar Citations"
+    }, 
+    {
+        "content": "antoine bordes. cnrs - heudiasyc umr 7253. université de technologie de compi`egne, france. e-mail: antoine.bordes@utc.fr. xavier glorot. université de...", 
+        "email_list": [
+            "antoine.bordes@utc.fr"
+        ], 
+        "cite_url": "www.thespermwhale.com/jaseweston/papers/ebrm_mlj.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A Semantic Matching Energy Function for Learning with ..."
+    }
+]

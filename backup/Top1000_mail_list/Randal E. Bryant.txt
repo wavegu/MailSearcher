@@ -1,5 +1,29 @@
-randy.bryant@cs.cmu.edu	[14]
-him at 412-268-9068.randal	[13]
-here@cs.cmu.edu	[3]
-email at cs.cmu.edu	[2]
-aianton@cerias.purdue.edu	[1]
+[
+    {
+        "content": "name: randal e. bryant: university professor of computer science: with ... (fax) 412-268-5576: email: click here@cs.cmu.edu (spam blocking provided by...", 
+        "email_addr_list": [
+            "here@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~bryant/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Randy Bryants Home - School of Computer Science"
+    }, 
+    {
+        "content": "name: randal e. bryant ( randy.bryant@cs.cmu.edu ): university professor of computer science: dean, school of computer science: with ... email: cindy.", 
+        "email_addr_list": [
+            "randy.bryant@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/afs/cs/.../bryant/.../home.ht...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Bryant, Randal E. - School of Computer Science - Carnegie ..."
+    }, 
+    {
+        "content": "create alert. cancel. randal bryant ... verified email at cs.cmu.edu - homepage  scholar ... m christodorescu, s jha, s seshia, d song, re bryant. security and...", 
+        "email_addr_list": [
+            "email@cs.cmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AFgYa68AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Randal Bryant - Google Scholar Citations"
+    }
+]

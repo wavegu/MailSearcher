@@ -1,4 +1,21 @@
-sihongwang at stanford.eduzhenan	[13]
-dwfeng at stanford.edu	[1]
-email at stanford.edu	[1]
-sihongwang at stanford.edu	[1]
+[
+    {
+        "content": "the zhenan bao research group at stanford university, dept. of chemical engineering, ... e-mail: dwfeng at stanford.edu ... e-mail: sihongwang at stanford.edu", 
+        "email_addr_list": [
+            "dwfeng@stanford.edu", 
+            "sihongwang@stanford.edu"
+        ], 
+        "cite_url": "https://baogroup.stanford.edu/index.php/postdocs-current", 
+        "cite_name": "", 
+        "title": "Postdoctoral Scholars - Zhenan Bao - Stanford University"
+    }, 
+    {
+        "content": "verified email at stanford.edu. scholar. get my own .... nan liu, kwanpyo kim, hu young jeong, po-chun hsu, yi cui, zhenan bao. acs nano, 2015. 2015...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nan Liu - Google Scholar Citations"
+    }
+]

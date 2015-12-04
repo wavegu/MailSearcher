@@ -1,4 +1,29 @@
-p.froguel@imperial.ac.uk	[16]
-email at imperial.ac.uk	[2]
-info@acmedsci.ac.uk	[2]
-info@acmedsci.ac.uk.the	[2]
+[
+    {
+        "content": "philippe froguel. imperial college london ... verified email at imperial.ac.uk. scholar ... f schachter, l faure-delanef, f guénot, h rouger, p froguel, ... nature...", 
+        "email_addr_list": [
+            "email@imperial.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hYzT7KcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Philippe Froguel - Google Scholar Citations"
+    }, 
+    {
+        "content": "philippe froguel, head of section of genomic medicine, imperial college, is a clinical scientist who has made ... froguel also continues to be involved as directeur de recherche of the centre national de la ... e-mail: info@acmedsci.ac.uk.", 
+        "email_addr_list": [
+            "info@acmedsci.ac.uk"
+        ], 
+        "cite_url": "www.acmedsci.ac.uk/.../...", 
+        "cite_name": "Academy of Medical Sciences, United Kingdom", 
+        "title": "Professor Philippe Froguel - Fellow | Academy of Medical ..."
+    }, 
+    {
+        "content": "christopher g. bell, andrew j. walley  philippe froguel about the authors ... correspondence to: philippe froguel email: p.froguel@imperial.ac.uk.", 
+        "email_addr_list": [
+            "p.froguel@imperial.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review  Full textwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "The genetics of human obesityGoogle Business Email - Custom email for your company‎"
+    }
+]

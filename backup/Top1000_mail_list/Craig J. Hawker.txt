@@ -1,3 +1,47 @@
-hawker@mrl.ucsb.edu	[13]
-email at mrl.ucsb.edu	[2]
-director@mrl.ucsb.edu	[2]
+[
+    {
+        "content": "craig j. hawker is the director of the california nanosystems institute, dow materials institute and co-director of ... after graduating, craig went to the university of cambridge in the united kingdom to study the ... email: hawker@mrl.ucsb.edu.", 
+        "email_addr_list": [
+            "hawker@mrl.ucsb.edu"
+        ], 
+        "cite_url": "hawkergroup.mrl.ucsb.edu/craig-j...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Craig J. Hawker | Hawker Research Group UCSB"
+    }, 
+    {
+        "content": "craig j. hawker. professor. materials. email: hawker@mrl.ucsb.edu. website: hawker lab group website. copyright © 2015 the regents of the university of...", 
+        "email_addr_list": [
+            "hawker@mrl.ucsb.edu"
+        ], 
+        "cite_url": "https://www.cnm.ucsb.edu/people/hawker", 
+        "cite_name": "", 
+        "title": "Craig J. Hawker | Center for Nanomedicine | UC Santa ..."
+    }, 
+    {
+        "content": "... materials research lab. phone: (805) 893-7161. email: hawker@mrl.ucsb.edu. office: 3009 mrl. website: http://hawkergroup.mrl.ucsb.edu/craig-j-hawker...", 
+        "email_addr_list": [
+            "hawker@mrl.ucsb.edu"
+        ], 
+        "cite_url": "https://www.cnsi.ucsb.edu/.../haw...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Craig Hawker | California NanoSystems Institute | UC Santa ..."
+    }, 
+    {
+        "content": "verified email at mrl.ucsb.edu - homepage ... cj hawker, aw bosman, e harth ... p wu, ak feldman, ak nugent, cj hawker, a scheel, b voit, j pyun, .", 
+        "email_addr_list": [
+            "email@mrl.ucsb.edu"
+        ], 
+        "cite_url": "scholar.google.ch/citations?user=LYgV738AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Craig Hawker - Google Scholar Citations"
+    }, 
+    {
+        "content": "craig j. hawker and ram seshadri. director email: director@mrl.ucsb.edu. director tel: (805) 893-7161. education director: dotti pak. education director email:.", 
+        "email_addr_list": [
+            "director@mrl.ucsb.edu"
+        ], 
+        "cite_url": "www.mrsec.org/centers/university-california-santa-barbara", 
+        "cite_name": "", 
+        "title": "University of California at Santa Barbara | MRSEC.org"
+    }
+]

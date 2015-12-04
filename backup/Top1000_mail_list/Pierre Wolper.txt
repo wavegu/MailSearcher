@@ -1,4 +1,38 @@
-pierre.wolper@ulg.ac.be	[25]
-pierre.wolper at ulg.ac.be	[25]
-email at ulg.ac.be	[1]
-nitsche@ifi.unizh.ch	[1]
+[
+    {
+        "content": "pierre wolper. pierre wolper is professor of computer science. his research interests ... email. pierre.wolper@ulg.ac.be; pgp public key: pub-key-pwolper.pgp...", 
+        "email_addr_list": [
+            "pierre.wolper@ulg.ac.be"
+        ], 
+        "cite_url": "www.montefiore.ulg.ac.be/~pw/", 
+        "cite_name": "", 
+        "title": "Pierre Wolper"
+    }, 
+    {
+        "content": "pierre wolper. professor of computer ... verified email at ulg.ac.be - homepage  scholar. get my own ... c courcoubetis, m vardi, p wolper, m yannakakis.", 
+        "email_addr_list": [
+            "email@ulg.ac.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6pao8gkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pierre Wolper - Google Scholar Citations"
+    }, 
+    {
+        "content": "summary: computation structures. pierre wolper email: pierre.wolper@ulg.ac.be. url: http: //www.montefiore.ulg.ac.be/~pw/ http: //www.montefiore.ulg.ac.be/", 
+        "email_addr_list": [
+            "pierre.wolper@ulg.ac.be"
+        ], 
+        "cite_url": "www.osti.gov/eprints/topicpages/documents/record/192/4716313.html", 
+        "cite_name": "", 
+        "title": "Computation structures Pierre Wolper - OSTI"
+    }, 
+    {
+        "content": "190, ch-8057 zurich, switzerland email: nitsche@ifi.unizh.ch pierre wolper university of li`ege, institute montefiore, b28 b-4000 li`ege sart tilman, belgium...", 
+        "email_addr_list": [
+            "nitsche@ifi.unizh.ch"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.46.3778www.google.com/email", 
+        "cite_name": "", 
+        "title": "Relative Liveness and Behavior AbstractionGoogle Business Email - Custom email for your company‎"
+    }
+]

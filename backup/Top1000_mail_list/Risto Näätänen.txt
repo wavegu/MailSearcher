@@ -1,6 +1,38 @@
-risto.naatanen@helsinki.fihow	[12]
-risto.naatanen@ut.ee	[12]
-risto.naatanen@helsinki.ficachedsimilaraarhus	[12]
-risto.naatanen at helsinki.fi	[12]
-risto.naatanen@helsinki.fi	[12]
-email at ut.ee	[1]
+[
+    {
+        "content": "cancel. risto näätänen. institute of psychology ... verified email at ut.ee. scholar ... r näätänen, m tervaniemi, e sussman, p paavilainen, i winkler. trends in...", 
+        "email_addr_list": [
+            "email@ut.ee"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5zWLGskAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Risto Näätänen - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail, risto.naatanen@ut.ee ... 2011, risto kalervo näätänen; the main scientific prize of the finnish academy of science and letters, finland. 2010, risto...", 
+        "email_addr_list": [
+            "risto.naatanen@ut.ee"
+        ], 
+        "cite_url": "https://www.etis.ee/portaal/isikuCV.aspx?...et", 
+        "cite_name": "Estonian Research Portal", 
+        "title": "Risto Kalervo Näätänen - Eesti Teadusinfosüsteem"
+    }, 
+    {
+        "content": "telephone, e-mail and addresses. search for all employees ... danish. search. you are here: » risto näätänen ... risto.naatanen@helsinki.fi. phone: 78469939.", 
+        "email_addr_list": [
+            "risto.naatanen@helsinki.fi"
+        ], 
+        "cite_url": "au.dk/en/risto.naatanen@helsinki.fi", 
+        "cite_name": "Aarhus University", 
+        "title": "Risto Näätänen - Research - Aarhus University"
+    }, 
+    {
+        "content": "professor risto näätänen department of psychology, p.o. box 13 fin-00014 university of helsinki tel: +358 9 191 23445, email: risto.naatanen@helsinki.fi", 
+        "email_addr_list": [
+            "risto.naatanen@helsinki.fi"
+        ], 
+        "cite_url": "www.helsinki.fi/lehdet/uh/liite01x.htm", 
+        "cite_name": "Helsinki.fi", 
+        "title": "Universitas Helsingiensis - Top-level research"
+    }
+]

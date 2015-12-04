@@ -1,3 +1,20 @@
-pak@cgl.ucsf.edupeter	[4]
-pak@cgl.ucsf.edu	[4]
-sauce23@kollmanlaw.com	[2]
+[
+    {
+        "content": "peter a. kollman department of pharmaceutical chemistry university of california, san francisco san francisco, ca 94143-0446. email:pak@cgl.ucsf.edu", 
+        "email_addr_list": [
+            "pak@cgl.ucsf.edu"
+        ], 
+        "cite_url": "www.psc.edu/science/Kollman/Kollman_bio.html", 
+        "cite_name": "", 
+        "title": "Peter Kollman"
+    }, 
+    {
+        "content": "peter saucier. ive missed more than 9,000 shots in ... timonium, maryland 21093. tel: (410) 727-4300; fax: (410) 727-4391; email:sauce23@kollmanlaw.com...", 
+        "email_addr_list": [
+            "sauce23@kollmanlaw.com"
+        ], 
+        "cite_url": "www.kollmanlaw.com/attorney/peter-saucier/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Peter Saucier - Kollman  Saucier, P.A.Google Business Email - Custom email for your company‎"
+    }
+]

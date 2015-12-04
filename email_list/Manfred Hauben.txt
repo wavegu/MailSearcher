@@ -1,0 +1,30 @@
+[
+    {
+        "content": "email: manfred.hauben@nyumc.org. publications. bevacizumab-associated diverticulitis: results of disproportionality analysis. hauben, manfred; hung, eric", 
+        "email_list": [
+            "manfred.hauben@nyumc.org"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/haubem01", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Manfred Hauben | NYU School of Medicine"
+    }, 
+    {
+        "content": "jan 15, 2015 - manfred hauben (e-mail: manfred.hauben@pfizer.com), chen zou (e-mail: ... drs. hauben, zou, wang, and zhang work on safety reporting at...", 
+        "email_list": [
+            "manfred.hauben@pfizer.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "A Pilot Study on the Feasibility of Using P-Plots for Signal ..."
+    }, 
+    {
+        "content": "manfred hauben, md, mph. senior director ... email benjamin.zaitz@diahome.org. exhibits: jeff korn, phone +1-215.442.6184 email jeff.korn@diahome.org.", 
+        "email_list": [
+            "benjamin.zaitz@diahome.org", 
+            "jeff.korn@diahome.org"
+        ], 
+        "cite_url": "www.diaglobal.org/productfiles/21300/09029.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]2nd DIA Conference on Signal Detection and Data Mining:"
+    }
+]

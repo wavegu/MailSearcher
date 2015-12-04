@@ -1,4 +1,38 @@
-timothy.springer at childrens.harvard.edu	[32]
-timothy.springer@childrens.harvard.edu	[31]
-timothy.griswold@springer.com	[16]
-email at crystal.harvard.edu	[4]
+[
+    {
+        "content": "contact information: office phone: 617.713.8200: fax: 617.713.8232: email: timothy.springer at childrens.harvard.edu. research interest: we work on...", 
+        "email_addr_list": [
+            "timothy.springer@childrens.harvard.edu"
+        ], 
+        "cite_url": "www.idi.harvard.edu/investigators.../springer_lab/", 
+        "cite_name": "Harvard University", 
+        "title": "Springer Lab - Immune Disease Institute - Harvard University"
+    }, 
+    {
+        "content": "3 blackfan circle, room 3103. boston, ma 02115. phone: (617) 713-8200. fax: (617) 713-8232 e-mail: timothy.springer at childrens.harvard.edu. springer...", 
+        "email_addr_list": [
+            "timothy.springer@childrens.harvard.edu"
+        ], 
+        "cite_url": "springerlab.tch.harvard.edu/springer/pages/timothya.springer", 
+        "cite_name": "", 
+        "title": "Springer Lab: Timothy A. Springer"
+    }, 
+    {
+        "content": "timothy springer. harvard medical ... verified email at crystal.harvard.edu - homepage  scholar ... ml dustin, r rothlein, ak bhan, ca dinarello, ta springer.", 
+        "email_addr_list": [
+            "email@crystal.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=IY3nhqcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Timothy Springer - Google Scholar Citations"
+    }, 
+    {
+        "content": "vice-president trade sales  special licensing. tel.: +44 203 -1922459. fax: +44 203 - 1922011 timothy.griswold@springer.com. name. email. subject.", 
+        "email_addr_list": [
+            "timothy.griswold@springer.com"
+        ], 
+        "cite_url": "https://www.springer.com/.../timothy.../...www.google.com/email", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Timothy Griswold - SpringerGoogle Business Email - Custom email for your company‎Searches related to Timothy A. Springer email"
+    }
+]

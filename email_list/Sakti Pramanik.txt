@@ -1,0 +1,20 @@
+[
+    {
+        "content": "sakti pramanik. professor. ph.d., yale university. email: pramanik@cse.msu.edu. research  teaching  services.", 
+        "email_list": [
+            "pramanik@cse.msu.edu"
+        ], 
+        "cite_url": "www.cse.msu.edu/~pramanik/", 
+        "cite_name": "Michigan State University", 
+        "title": "Sakti Pramanik"
+    }, 
+    {
+        "content": "sakti pramanik. author details. affiliation: michigan state university, usa; email: pramanik@cse.msu.edu. edbt contributions by sakti pramanik. the c-nd...", 
+        "email_list": [
+            "pramanik@cse.msu.edu"
+        ], 
+        "cite_url": "icdt.tu-dortmund.de/.../N10CEC.html", 
+        "cite_name": "Technical University of Dortmund", 
+        "title": "EDBT/ICDT 2009 Proceedings"
+    }
+]

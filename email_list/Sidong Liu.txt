@@ -1,0 +1,38 @@
+[
+    {
+        "content": "apr 3, 2014 - sidong liu. research scholar. surgical planning lab ... email: sliu@bwh.harvard.edu. education. feb 2011 – present. university of...", 
+        "email_list": [
+            "sliu@bwh.harvard.edu"
+        ], 
+        "cite_url": "https://www.spl.harvard.edu/.../8/.../SidongLiu_CV_20140403_short.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]SIDONG LIU"
+    }, 
+    {
+        "content": "email or phone, password. keep me logged in. forgot your ... thank you. my contact details: claire 0430449261 claireyuan1111@gmail.com. 2 comments.", 
+        "email_list": [
+            "claireyuan1111@gmail.com"
+        ], 
+        "cite_url": "https://www.facebook.com/thegoatskincare/posts/997064986975070", 
+        "cite_name": "", 
+        "title": "Sidong Liu - Can I please have your contact details? This..."
+    }, 
+    {
+        "content": "sidong lei. ph.d. candidate, applied ... verified email at rice.edu. scholar ... s najmaei, z liu, w zhou, x zou, g shi, s lei, bi yakobson, jc idrobo, ... nature...", 
+        "email_list": [
+            "email@rice.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=h2Pn038AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sidong Lei - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: tom dot cai at sydney.edu.au .... fan zhang, yang song, weidong cai, sidong liu, sonia pujol, ron kikinis, yong xia, michael fulham, dagan feng,...", 
+        "email_list": [
+            "cai@sydney.edu.au"
+        ], 
+        "cite_url": "rp-www.cs.usyd.edu.au/~tomc/", 
+        "cite_name": "", 
+        "title": "Weidong (Tom) Cais Homepage - University of Sydney"
+    }
+]

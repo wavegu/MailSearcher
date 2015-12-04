@@ -1,0 +1,20 @@
+[
+    {
+        "content": "gail binkley, m.s.. project manager, sgd. database administrator. gail.binkley@stanford.edu  j. michael cherry, ph.d. professor (research). 650-723-7541.", 
+        "email_list": [
+            "gail.binkley@stanford.edu"
+        ], 
+        "cite_url": "cherrylab.stanford.edu/people/SGD-staff.html", 
+        "cite_name": "", 
+        "title": "Cherry Lab SGD Staff - Stanford University"
+    }, 
+    {
+        "content": "gail binkley, m.s.. project manager, dba. gail.binkley@stanford.edu. stacia engel, ph.d. group leader, curation. senior biocuration scientist. stacia@stanford.", 
+        "email_list": [
+            "gail.binkley@stanford.edu"
+        ], 
+        "cite_url": "www.yeastgenome.org/.../sgd-staff-me...", 
+        "cite_name": "Saccharomyces Genome Database", 
+        "title": "SGD Staff Members : Saccharomyces Genome Database"
+    }
+]

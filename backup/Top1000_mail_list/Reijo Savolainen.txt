@@ -1,2 +1,20 @@
-reijo.savolainen@uta.fi	[31]
-email at uta.fi	[1]
+[
+    {
+        "content": "create alert. cancel. reijo savolainen. unknown affiliation. verified email at uta.fi. scholar ... s talja, k tuominen, r savolainen. journal of documentation 61...", 
+        "email_addr_list": [
+            "email@uta.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sglFqoMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Reijo Savolainen - Google Scholar Citations"
+    }, 
+    {
+        "content": "reijo savolainen. professori / professor. +358 50 326 5852. reijo.savolainen@uta.fi. b2054. http://www.uta.fi/sis/reijosavolainen/index.html. olen tavattavissa:.", 
+        "email_addr_list": [
+            "reijo.savolainen@uta.fi"
+        ], 
+        "cite_url": "www.uta.fi/.../reijosavolainen.ht...", 
+        "cite_name": "University of Tampere", 
+        "title": "Reijo Savolainen - Informaatiotieteiden yksikkö"
+    }
+]

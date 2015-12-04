@@ -1,0 +1,47 @@
+[
+    {
+        "content": "feb 4, 2010 - e-mail: mikko.e.valkama@tut.fi. publications / a (books and book chapters). [1]. m. valkama, “rf impairment compensation for future radio...", 
+        "email_list": [
+            "mikko.e.valkama@tut.fi"
+        ], 
+        "cite_url": "www.cs.tut.fi/~valkama/publications....", 
+        "cite_name": "Tampere University of Technology", 
+        "title": "[PDF]Publications – Dr. Mikko Valkama"
+    }, 
+    {
+        "content": "cancel. mikko valkama. tampere university ... verified email at tut.fi. scholar. get my own profile ... m valkama, m renfors, v koivunen. signal processing, ieee...", 
+        "email_list": [
+            "email@tut.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=r6pSwLYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mikko Valkama - Google Scholar Citations"
+    }, 
+    {
+        "content": "technology (tut). fi-33101, tampere, finland email:paschalis.sofotasios@tut.fi. mikko valkama. department of electronics and. communications engineering.", 
+        "email_list": [
+            "paschalis.sofotasios@tut.fi"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Analytic Performance Evaluation of M-QAM Based Decode ..."
+    }, 
+    {
+        "content": "tampere, finland, email: mikko.e.valkama@tut.fi. abstract—device to device (d2d) underlaying cellular net- works have drawn a lot of attention recently,...", 
+        "email_list": [
+            "mikko.e.valkama@tut.fi"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Optimized Power Allocation and Spectrum Sharing in ..."
+    }, 
+    {
+        "content": "contact email: mikko.e.valkama@tut.fi. abstract. in frequency division duplex transceivers employing non- contiguous carrier aggregation (ca) transmission,...", 
+        "email_list": [
+            "mikko.e.valkama@tut.fi"
+        ], 
+        "cite_url": "www.eurasip.org/Proceedings/Eusipco/Eusipco2014/.../1569914303.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]DSP-BASED SUPPRESSION OF SPURIOUS ... - eurasip"
+    }
+]

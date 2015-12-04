@@ -1,2 +1,20 @@
-ferguson@stsci.edu	[17]
-email at stsci.edu	[2]
+[
+    {
+        "content": "refer to listserv). member info: henry c. ferguson ... email address, ferguson@stsci.edu. user id, ferguson. personal url, http://www.stsci.edu/~ferguson...", 
+        "email_addr_list": [
+            "ferguson@stsci.edu"
+        ], 
+        "cite_url": "hypernews.slac.stanford.edu/.../vi...", 
+        "cite_name": "SLAC National Accelerator Laboratory", 
+        "title": "Ferguson - SLAC HyperNews"
+    }, 
+    {
+        "content": "verified email at stsci.edu. scholar. get my own ... ag riess, lg strolger, j tonry, s casertano, hc ferguson, b mobasher, ... the astrophysical ... e daddi, a renzini, n pirzkal, a cimatti, s malhotra, m stiavelli, c xu, ... the astrophysical...", 
+        "email_addr_list": [
+            "email@stsci.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=f7yH4MMAAAAJ...www.google.com/email", 
+        "cite_name": "Google Scholar", 
+        "title": "Henry Ferguson - Google Scholar CitationsGoogle Business Email - Custom email for your company‎"
+    }
+]

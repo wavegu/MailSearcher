@@ -1,0 +1,39 @@
+[
+    {
+        "content": "nov 28, 2013 - professor eliathamby ambikairajah .... e.ambikairajah@unsw.edu.au ... sydney, nsw, 2052, australia | email: researchgateway@unsw.edu.au.", 
+        "email_list": [
+            "e.ambikairajah@unsw.edu.au", 
+            "researchgateway@unsw.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of New South Wales", 
+        "title": "Professor Eliathamby Ambikairajah | UNSW Research ..."
+    }, 
+    {
+        "content": "head of school and professor in signal processing telephone: +61 2 9385 4009 fascimile: +61 2 9385 6743 email: e.ambikairajah@unsw.edu.au room: g8,...", 
+        "email_list": [
+            "e.ambikairajah@unsw.edu.au"
+        ], 
+        "cite_url": "https://www.engineering.unsw.edu.au/.../...", 
+        "cite_name": "University of New South Wales", 
+        "title": "Professor Eliathamby Ambikairajah - Engineering"
+    }, 
+    {
+        "content": "feb 14, 2015 - the eliathamby ambikairajah humanitarian engineering award recognises a student from ... phone +61 3 9329 1166 • email info@ewb.org.au", 
+        "email_list": [
+            "info@ewb.org.au"
+        ], 
+        "cite_url": "www.ewb.org.au/announcements/2/11470", 
+        "cite_name": "", 
+        "title": "EWB UNSW 2014 President Becky Brown wins UNSW ..."
+    }, 
+    {
+        "content": "professor eliathamby ambikairajah phone: (61 2) 9385 4009 email: e.ambikairajah@unsw.edu.au position description: download position description...", 
+        "email_list": [
+            "e.ambikairajah@unsw.edu.au"
+        ], 
+        "cite_url": "www.all-acad.com/.../search_for_%22Electrical%20Engineering%22+Lo...", 
+        "cite_name": "", 
+        "title": "Electrical Engineering Jobs Kensington | All-Acad.com"
+    }
+]

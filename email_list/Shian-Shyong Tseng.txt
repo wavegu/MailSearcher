@@ -1,0 +1,20 @@
+[
+    {
+        "content": "shian-shyong tseng, ph. d. asia university, office of vice presidents. tel: 886-4-23323456 ext:1029. fax: 886-4-23316699. e-mail: sstseng@asia.edu.tw.", 
+        "email_list": [
+            "sstseng@asia.edu.tw"
+        ], 
+        "cite_url": "www.asia.edu.tw/.../About_Us_vice_pr...", 
+        "cite_name": "Asia University", 
+        "title": "Shian-Shyong Tseng, Ph. D - 亞洲大學"
+    }, 
+    {
+        "content": "co-chair: shian-shyong tseng. mailing address: department of computer and ... fax, 886-3-5721490. e-mail: sstseng@twnic.net.tw. academic qualifications:", 
+        "email_list": [
+            "sstseng@twnic.net.tw"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Shian-Shyong Tseng"
+    }
+]

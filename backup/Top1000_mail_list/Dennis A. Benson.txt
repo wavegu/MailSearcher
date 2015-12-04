@@ -1,4 +1,29 @@
-denniscovey@bensonandmangold.com	[13]
-dennis@dennisbenson.com	[13]
-jahrndt@benson.k12.mn.us	[3]
-lorilc@bensonking.com	[1]
+[
+    {
+        "content": "willmar area arts dennis benson - music. ... dennis is also listed under photographers 725 sw 4th st, willmar ... email: dennis@dennisbenson.com. website:...", 
+        "email_addr_list": [
+            "dennis@dennisbenson.com"
+        ], 
+        "cite_url": "willmarareaartscouncil.org/artist/dennis-benson.html", 
+        "cite_name": "", 
+        "title": "Dennis Benson - Music - Willmar Area Arts Council"
+    }, 
+    {
+        "content": "email: denniscovey@bensonandmangold.com. about dennis covey. dennis was born and raised in talbot county and has a vast knowledge of the area and...", 
+        "email_addr_list": [
+            "denniscovey@bensonandmangold.com"
+        ], 
+        "cite_url": "www.bensonandmangold.com/agents/dennis-covey/", 
+        "cite_name": "", 
+        "title": "Dennis Covey | Benson  Mangold Real Estate"
+    }, 
+    {
+        "content": "name, title, extension, email. abrego ... ahrndt, jon, elementary teacher, 4135, jahrndt@benson.k12.mn.us. ahrndt .... laumeyer, dennis, superintendent", 
+        "email_addr_list": [
+            "jahrndt@benson.k12.mn.us"
+        ], 
+        "cite_url": "benson.k12.mn.us/employee_directorywww.google.com/email", 
+        "cite_name": "", 
+        "title": "Employee Directory - Benson School District 777Google Business Email‎Searches related to Dennis A. Benson email"
+    }
+]

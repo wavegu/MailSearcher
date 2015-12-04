@@ -1,0 +1,29 @@
+[
+    {
+        "content": "apr 17, 2012 - michio inagaki,. corresponding author. e-mail address: im-ii@xj.commufa.jp. professor emeritus of hokkaido university, sapporo 060-8628,...", 
+        "email_list": [
+            "im-ii@xj.commufa.jp"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1002/adma.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Carbon Nanofibers Prepared via Electrospinning - Inagaki ..."
+    }, 
+    {
+        "content": "dr. michio inagaki. fellow ... address: yakusa, toyota. country / region: japan. phone: +81 565 488 121. fax: +81 565 480 076. email: ina@ac.aitech.ac.jp...", 
+        "email_list": [
+            "ina@ac.aitech.ac.jp"
+        ], 
+        "cite_url": "www.iupac.org/.../me...", 
+        "cite_name": "International Union of Pure and Applied Chemistry", 
+        "title": "Inagaki - IUPAC - International Union of Pure and Applied ..."
+    }, 
+    {
+        "content": "dec 16, 2010 - e-mail: im-ii@xj.commufa.jp ... michio inagaki is the professor emeritus of hokkaido university and toyohashi university of technology.", 
+        "email_list": [
+            "im-ii@xj.commufa.jp"
+        ], 
+        "cite_url": "pubs.rsc.org/en/content/.../2011/.../c0jm02991b", 
+        "cite_name": "Royal Society of Chemistry", 
+        "title": "Graphene : preparation and structural perfection - Journal of ..."
+    }
+]

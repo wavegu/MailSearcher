@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dr. shehab is an associate professor of software and information systems department at the university of north carolina at charlotte. he received his ... pi: mohamed shehab, $200,000, 9/1/11 – 8/31/14. ... m dot shehab at gmail dot com", 
+        "email_list": [
+            "shehab@gmail.com"
+        ], 
+        "cite_url": "liisp.uncc.edu/~mshehab/", 
+        "cite_name": "University of North Carolina at Charlotte", 
+        "title": "Mohamed Shehab | Associate Professor, UNC Charlotte"
+    }, 
+    {
+        "content": "shehab, mohamed ... email: mshehab@uncc.edu ... biography: dr. shehab is an assistant professor of software and information systems department at the...", 
+        "email_list": [
+            "mshehab@uncc.edu"
+        ], 
+        "cite_url": "cci.uncc.edu/.../shehab-mohame...", 
+        "cite_name": "University of North Carolina at Charlotte", 
+        "title": "Shehab, Mohamed | College of Computing and Informatics ..."
+    }, 
+    {
+        "content": "mohamed shehab. associate professor ... verified email at uncc.edu - homepage  scholar ... mn ko, gp cheek, m shehab, r sandhu. computer, 37-43, 2010.", 
+        "email_list": [
+            "email@uncc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=l07_FHkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mohamed Shehab - Google Scholar Citations"
+    }, 
+    {
+        "content": "mohamed shehab (uncc). assistant professor ... if you experience problems with the directory, email directory@meredith.edu. 3800 hillsborough street...", 
+        "email_list": [
+            "directory@meredith.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Meredith College", 
+        "title": "Mohamed Shehab (UNCC) | Meredith College"
+    }
+]

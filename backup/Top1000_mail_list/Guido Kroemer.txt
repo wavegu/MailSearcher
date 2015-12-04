@@ -1,4 +1,38 @@
-kroemer@orange.fr	[15]
-kroemer@igr.fr	[15]
-kroemer@igr.fr.guido	[15]
-email at inserm.fr	[1]
+[
+    {
+        "content": "the official website of guido kroemers laboratory in paris. ... e-mail: kroemer@orange.fr. postal address: umr1138 équipe 11. centre de recherche des...", 
+        "email_addr_list": [
+            "kroemer@orange.fr"
+        ], 
+        "cite_url": "kroemerlab.com/", 
+        "cite_name": "", 
+        "title": "Guido Kroemers laboratory official website"
+    }, 
+    {
+        "content": "guido kroemer. contact ... e-mail : kroemer@orange.fr. personal .... guido kroemer has been invited as a speaker to more than 350 international conferences.", 
+        "email_addr_list": [
+            "kroemer@orange.fr"
+        ], 
+        "cite_url": "www.ae-info.org/attach/.../Kroemer_Guido/kroemer_guido_cv_short.pd...", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE - Academia Europaea"
+    }, 
+    {
+        "content": "create alert. cancel. guido kroemer ... verified email at inserm.fr - homepage  scholar ... g kroemer, l galluzzi, p vandenabeele, j abrams, es alnemri, .", 
+        "email_addr_list": [
+            "email@inserm.fr"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=OU05Q_MAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Guido Kroemer - Google Scholar Citations"
+    }, 
+    {
+        "content": "laurence zitvogel, lionel apetoh, françois ghiringhelli  guido kroemer about the authors ... correspondence to: guido kroemer email: kroemer@igr.fr.", 
+        "email_addr_list": [
+            "kroemer@igr.fr"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Immunological aspects of cancer chemotherapy : Abstract ..."
+    }
+]

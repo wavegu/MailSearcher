@@ -1,0 +1,47 @@
+[
+    {
+        "content": "verified email at ceit.es - homepage  scholar ... c garcia-rosales, w eckstein, j roth. journal of ... w eckstein, w ottenberger, j roth, c garcía-rosales.", 
+        "email_list": [
+            "email@ceit.es"
+        ], 
+        "cite_url": "scholar.google.es/citations?user=FKn8Gl4AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Carmen Garcia-Rosales - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: charlotte.becquart@univ-lille1.fr ... j. boisse, a. de backer, c. domain, c. s. becquart, modeling of the self trapping of helium and .... c. domain, j. fikar, e. fortuna, c. c. fu, e. gaganidze, t. l. galán, c. garcía-rosales, b. gludovatz,...", 
+        "email_list": [
+            "charlotte.becquart@univ-lille1.fr"
+        ], 
+        "cite_url": "umet.univ-lille1.fr/detailscom...", 
+        "cite_name": "Lille University of Science and Technology", 
+        "title": "Charlotte Becquart - Université Lille 1"
+    }, 
+    {
+        "content": "doped carbon-based materials for fusion applications c. garcia-rosales ceit, e ... e-mail address. m. balden. ipp, d martin.balden@ipp.mpg.de. c. blanco.", 
+        "email_list": [
+            "martin.balden@ipp.mpg.de"
+        ], 
+        "cite_url": "ftp://ftp.nrg.eu/pub/www/nrg/2004composites/Schedule.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Workshop on C  SiC Composites for Nuclear Applications ..."
+    }, 
+    {
+        "content": "mar 25, 2013 - derrick c. jones 79 ... danny garcia-rosales, who wants to someday become a nano-engineer, thought that .... email: diversity@appstate.edu.", 
+        "email_list": [
+            "diversity@appstate.edu"
+        ], 
+        "cite_url": "diversity.appstate.edu/faces/id/danny-garcia-rosales", 
+        "cite_name": "", 
+        "title": "Danny Garcia-Rosales, senior / Diversity at Appalachian ..."
+    }, 
+    {
+        "content": "email: david.armstrong@materials.ox.ac.uk. telephone: +44 (0) 1865 273708 ... j. b.correia, a. debacker, c. domain, e. gaganidze, c. garcía-rosales,...", 
+        "email_list": [
+            "david.armstrong@materials.ox.ac.uk"
+        ], 
+        "cite_url": "mffp.materials.ox.ac.uk/staff/david-armstrong", 
+        "cite_name": "", 
+        "title": "David Armstrong | Materials for Fusion  Fission Power"
+    }
+]

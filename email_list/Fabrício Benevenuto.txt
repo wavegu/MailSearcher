@@ -1,0 +1,29 @@
+[
+    {
+        "content": "fabrício benevenuto. assistant professor of ... verified email at dcc.ufmg.br - homepage  scholar. get my ... f benevenuto, g magno, t rodrigues, v almeida.", 
+        "email_list": [
+            "email@dcc.ufmg.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iOnt0iMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Fabrício Benevenuto - Google Scholar Citations"
+    }, 
+    {
+        "content": "30+ items - professor. fabrício benevenuto (benevenuto at gmail.com)...", 
+        "email_list": [
+            "benevenuto@gmail.com"
+        ], 
+        "cite_url": "www.decom.ufop....", 
+        "cite_name": "Universidade Federal de Ouro Preto", 
+        "title": "Fabrício Benevenuto, Assistant Professor, UFOP - Decom"
+    }, 
+    {
+        "content": "home page for fabrício benevenuto, assistant professor at ufop. ... fabrício benevenuto (benevenuto at gmail.com); horário de atendimento: sob demanda...", 
+        "email_list": [
+            "benevenuto@gmail.com"
+        ], 
+        "cite_url": "www.decom.ufop....", 
+        "cite_name": "Universidade Federal de Ouro Preto", 
+        "title": "Fabrício Benevenuto, Assistant Professor, UFOP"
+    }
+]

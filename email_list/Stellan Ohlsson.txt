@@ -1,0 +1,29 @@
+[
+    {
+        "content": "stellan ohlsson is professor of psychology and adjunct professor of ... he lives in central chicago with his wife, elaine c. ohlsson. ... email: stellan@uic.edu.", 
+        "email_list": [
+            "stellan@uic.edu"
+        ], 
+        "cite_url": "psch.uic.edu/psychology/.../stellan-ohlss...", 
+        "cite_name": "University of Illinois at Chicago", 
+        "title": "Stellan Ohlsson - Psychology - University of Illinois at Chicago"
+    }, 
+    {
+        "content": "create alert. cancel. stellan ohlsson ... verified email at uic.edu - homepage  scholar. get my own ... g knoblich, s ohlsson, h haider, d rhenius. journal of...", 
+        "email_list": [
+            "email@uic.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=qdZZe9IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stellan Ohlsson - Google Scholar Citations"
+    }, 
+    {
+        "content": "selecting is not abstracting stellan ohlsson department of psychology university of illinois at chicago chicago il 60607. stellan@uic.edu abstract: barsalous...", 
+        "email_list": [
+            "stellan@uic.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-stellan-uic-edu-16016000.htm", 
+        "cite_name": "", 
+        "title": "stellan@uic.edu - The Email Archive"
+    }
+]

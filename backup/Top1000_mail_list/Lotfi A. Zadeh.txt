@@ -1,2 +1,11 @@
-zadeh@eecs.berkeley.edu	[12]
-email at eecs.berkeley.edu	[3]
+[
+    {
+        "content": "lotfi a. zadeh ... verified email at eecs.berkeley.edu - homepage ... similarity relations and fuzzy orderings. la zadeh. information sciences 3 (2), 177-200, 1971.", 
+        "email_addr_list": [
+            "email@eecs.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=S6H-0RAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Lotfi A. Zadeh - Google Scholar Citations"
+    }
+]

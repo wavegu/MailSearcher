@@ -1,2 +1,11 @@
-dkulp@cs.umass	[10]
-dkulp@cs.umass.david	[10]
+[
+    {
+        "content": "mailing address, dept. of computer science, 140 governors drive, amherst, ma. office phone, (413) 545-2032. fax, (413) 545-1249. email, dkulp@cs.umass.", 
+        "email_addr_list": [
+            "dkulp@cs.umass"
+        ], 
+        "cite_url": "www.cs.umass.edu/~dkulp", 
+        "cite_name": "University of Massachusetts Amherst", 
+        "title": "David Kulp - College of Information and Computer Sciences"
+    }
+]

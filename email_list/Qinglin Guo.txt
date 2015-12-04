@@ -1,0 +1,38 @@
+[
+    {
+        "content": "guozhang dai, yu chen, qiang wan, qinglin zhang, anlian pan, bingsuo zou, ... jinyou xu, xiujuan zhuang,pengfei guo, qinglin zhang, liang ma, xiaoxia wang, ..... 岳麓山 长沙 410082 电话: 86-0731-88820932 Ｅ-mail:anlian.pan@hnu.edu.", 
+        "email_list": [
+            "anlian.pan@hnu.edu"
+        ], 
+        "cite_url": "nanophotonics.hnu.cn/group/group_show?queryId=9", 
+        "cite_name": "", 
+        "title": "潘安练教授小组Publications - 潘安练研究小组 - 湖南大学"
+    }, 
+    {
+        "content": "email：xudongwang99@yahoo.com.cn ... papers 1 wang xudong, guo qinlin, li zuixiong et al. research ... 3 wang xudong, zhang huyuan, guo qinglin, et al.", 
+        "email_list": [
+            "xudongwang99@yahoo.com.cn"
+        ], 
+        "cite_url": "www.rockgeotech.org/board/wangxudong.asp", 
+        "cite_name": "", 
+        "title": "X.D. Wang - Journal of Rock Mechanics and Geotechnical ..."
+    }, 
+    {
+        "content": "email address: bliang@cnsi.ucla.edu .... baolai liang, qinglin guo, guangsheng fu, zhaoqi wang, fidelity holographic recording in a ce:knsbn crystal with...", 
+        "email_list": [
+            "bliang@cnsi.ucla.edu"
+        ], 
+        "cite_url": "people.cnsi.ucla.edu/institution/personnel?personnel_id=819553", 
+        "cite_name": "", 
+        "title": "Baolai Liang, Ph.D. - People - CNSI - UCLA.edu"
+    }, 
+    {
+        "content": "corresponding authors: qinglin guo qlguo@hbu.edu.cn - nian fu ... springeropen will contact you by email when the final pdf is available with details of how...", 
+        "email_list": [
+            "qlguo@hbu.edu.cn"
+        ], 
+        "cite_url": "www.nanoscalereslett.com/orderreprints/s11671-015-0973-5", 
+        "cite_name": "", 
+        "title": "Nanoscale Research Letters | Order reprints | Electronic ..."
+    }
+]

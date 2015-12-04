@@ -1,0 +1,47 @@
+[
+    {
+        "content": "cancel. petr novak. research scientist. bioinformatics. verified email at umbr.cas.cz - homepage ... tj jensen, p novak, ke eblin, aj gandolfi, bw futscher.", 
+        "email_list": [
+            "email@umbr.cas.cz"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_HfisLIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Petr Novak - Google Scholar Citations"
+    }, 
+    {
+        "content": "prof. nováks group as of january 2014 .... materials for electrodes in li-ion batteries s. sallard, e. castel, c. villevieille, p. novák ..... e-mail: petr.novak@psi.ch...", 
+        "email_list": [
+            "petr.novak@psi.ch"
+        ], 
+        "cite_url": "https://www.psi.ch/.../electrochemical-energy-stora...", 
+        "cite_name": "Paul Scherrer Institute", 
+        "title": "Electrochemical Energy Storage | Paul Scherrer Institut (PSI)"
+    }, 
+    {
+        "content": "... řidičů a správního řízení. kontakty: ulice: na valech 72. město: kolín psČ: 280 12. kancelář: 2.05. telefon: +420 321 748 112. email: petr.novak@mukolin.cz...", 
+        "email_list": [
+            "petr.novak@mukolin.cz"
+        ], 
+        "cite_url": "www.mukolin.cz/cz/.../282651-petr-novak.html", 
+        "cite_name": "", 
+        "title": "Petr Novák | mukolin.cz"
+    }, 
+    {
+        "content": "aktuálně ověřené informace, kontakty a hodnocení petr novák - insia, nýřany ... email. novak.petr@insia.com. přidat do oblíbených. nahlásit nepřesnost.", 
+        "email_list": [
+            "novak.petr@insia.com"
+        ], 
+        "cite_url": "www.firmy.cz/.../12898817-petr-novak-insia-nyrany....", 
+        "cite_name": "", 
+        "title": "Petr Novák - INSIA (Nýřany) • Firmy.cz"
+    }, 
+    {
+        "content": "aktuálně ověřené informace, kontakty a hodnocení petr novák, praha, vinohrady ... email. petr@aromaterapie.cz. přidat do oblíbených. nahlásit nepřesnost.", 
+        "email_list": [
+            "petr@aromaterapie.cz"
+        ], 
+        "cite_url": "www.firmy.cz/.../12825302-petr-novak-praha-vinohr...", 
+        "cite_name": "", 
+        "title": "Petr Novák (Praha, Vinohrady) • Firmy.cz"
+    }
+]

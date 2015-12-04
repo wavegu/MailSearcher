@@ -1,3 +1,20 @@
-idit.zehavi@case.edu.people	[21]
-idit.zehavi@case.edu	[21]
-idit.zehavi at case.edu	[21]
+[
+    {
+        "content": "e-mail: idit.zehavi at case.edu. tel: 216-368-6832. fax: 216-368-5406. department of astronomy case western reserve university 10900 euclid avenue", 
+        "email_addr_list": [
+            "idit.zehavi@case.edu"
+        ], 
+        "cite_url": "astroweb.cwru.edu/izehavi/", 
+        "cite_name": "", 
+        "title": "Idit Zehavis Home Page"
+    }, 
+    {
+        "content": "name, title, email, phone. earle luck, worcester r. and ... 216.368.6698. idit zehavi, associate professor of astronomy, idit.zehavi@case.edu, 216.368.6832...", 
+        "email_addr_list": [
+            "idit.zehavi@case.edu"
+        ], 
+        "cite_url": "astronomy.case.edu/people/", 
+        "cite_name": "", 
+        "title": "People | Department of Astronomy - CWRU Astronomy"
+    }
+]

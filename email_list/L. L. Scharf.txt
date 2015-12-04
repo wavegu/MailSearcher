@@ -1,0 +1,20 @@
+[
+    {
+        "content": "contact information. office location: engineering b116 phone: (970)491-2979. fax: (970)491-2249. email: scharf@engr.colostate.edu...", 
+        "email_list": [
+            "scharf@engr.colostate.edu"
+        ], 
+        "cite_url": "www.engr.colostate.edu/faculty.../profiles.php?...", 
+        "cite_name": "Colorado State University", 
+        "title": "Dr Louis L Scharf - Search Faculty and Staff - College of ..."
+    }, 
+    {
+        "content": "verified email at engr.colostate.edu. scholar. get my own ... js goldstein, is reed, ll scharf. information theory, ieee ... s kraut, ll scharf, lt mcwhorter.", 
+        "email_list": [
+            "email@engr.colostate.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=bAk9WFIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Louis Scharf - Google Scholar Citations"
+    }
+]

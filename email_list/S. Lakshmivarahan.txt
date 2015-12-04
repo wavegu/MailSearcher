@@ -1,0 +1,47 @@
+[
+    {
+        "content": "s. lakshmivarahan. professor. e-mail: varahan@ou.edu. phone: (405) 325-2978. office: deh 230. education phd, electrical engineering, indian institute of...", 
+        "email_list": [
+            "varahan@ou.edu"
+        ], 
+        "cite_url": "www.ou.edu/coe/cs/people/varahan.html", 
+        "cite_name": "University of Oklahoma", 
+        "title": "Dr. S. Lakshmivarahan - University of Oklahoma"
+    }, 
+    {
+        "content": "s. lakshmivarahan. professor. dr. s. lakshmivarahan. deh 230 | (405) 325-2978. email: varahan@ou.edu. learning algorithms, interconnectionnetworks...", 
+        "email_list": [
+            "varahan@ou.edu"
+        ], 
+        "cite_url": "www.ou.edu/coe/cs/people.html", 
+        "cite_name": "University of Oklahoma", 
+        "title": "People - University of Oklahoma"
+    }, 
+    {
+        "content": "dr. s. lakshmivarahan varahan@ou.edu professor, school of computer science, college of engineering, ... notify me of follow-up comments via email.", 
+        "email_list": [
+            "varahan@ou.edu"
+        ], 
+        "cite_url": "iucee.com/us-experts-in-india-for-2014/s-lakshmivarahan/", 
+        "cite_name": "", 
+        "title": "S. Lakshmivarahan |"
+    }, 
+    {
+        "content": "s. lakshmivarahan, michael e. baldwin, and tao zheng, 2006: further ... email: e-mail:varahan@ou.edu. cited by. yunheng wang, s. lakshmivarahan. (2009)...", 
+        "email_list": [
+            "varahan@ou.edu"
+        ], 
+        "cite_url": "journals.ametsoc.org/doi/.../JAS3796.1", 
+        "cite_name": "American Meteorological Society", 
+        "title": "AMS Journals Online - Further Analysis of Lorenzs ..."
+    }, 
+    {
+        "content": "s. lakshmivarahan school of computer science university of oklahoma norman, oklahoma usa 73019. email: varahan@ou.edu. phone: 405-325-2978", 
+        "email_list": [
+            "varahan@ou.edu"
+        ], 
+        "cite_url": "www.acm.org/.../sac/.../CS_CFP.ht...", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "COMPUTATIONAL SCIENCE TRACK CALL FOR PAPERS"
+    }
+]

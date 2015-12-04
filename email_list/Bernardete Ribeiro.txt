@@ -1,0 +1,20 @@
+[
+    {
+        "content": "bernardete ribeiro. university of coimbra ... verified email at dei.uc.pt - homepage  scholar ... q liu, ah sung, b ribeiro, m wei, z chen, j xu. information...", 
+        "email_list": [
+            "email@dei.uc.pt"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bernardete Ribeiro - Google Scholar Citations"
+    }, 
+    {
+        "content": "3030-290 coimbra gabinete: d.1.18 - doutora bernardete ribeiro telefone: 239790087. extensão interna: 1120. fax: 239701266. e-mail: bribeiro@dei.uc.pt", 
+        "email_list": [
+            "bribeiro@dei.uc.pt"
+        ], 
+        "cite_url": "www.dei.uc.pt/~bribeiro", 
+        "cite_name": "University of Coimbra", 
+        "title": "BERNARDETE RIBEIRO - DEI"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "content": "jun 27, 2010 - work email address: jinghuang@mednet.ucla.edu .... heng zhu and jing huang a combined force of chemical genetics and protein...", 
+        "email_list": [
+            "jinghuang@mednet.ucla.edu"
+        ], 
+        "cite_url": "faculty.pharmacology.ucla.edu/.../p...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Huang, Jing Ph.D. - Department of Molecular and Medical ..."
+    }, 
+    {
+        "content": "jing huang. jing huang email: jinghuang@mednet.ucla.edu phone: 310825-4329. address: 23-231a chs homepage research interests: tor (target of...", 
+        "email_list": [
+            "jinghuang@mednet.ucla.edu"
+        ], 
+        "cite_url": "https://www.mcip.ucla.edu/.../3149", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Jing Huang - Molecular, Cellular  Integrative Physiology ..."
+    }, 
+    {
+        "content": "jing huang is an esmt phd fellow and a student in the berlin doctoral ... phone. +49 30 212 31–1519. fax. +49 30 212 31–1280. e-mail. jing.huang@esmt.org...", 
+        "email_list": [
+            "jing.huang@esmt.org"
+        ], 
+        "cite_url": "https://www.esmt.org/j...", 
+        "cite_name": "European School of Management and Technology", 
+        "title": "Jing Huang | ESMT"
+    }, 
+    {
+        "content": "home » about us » our people » jing huang, phd ... email: jing.huang@emory.edu ... dr. jing huang received her phd in inorganic chemistry from peking...", 
+        "email_list": [
+            "jing.huang@emory.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Emory University", 
+        "title": "Jing Huang, PhD"
+    }, 
+    {
+        "content": "work email address: jinghuang@mednet.ucla.edu. telephone: (310) 825-4329. laboratory address (fedex): 23-231 chs 650 charles e. young drive south", 
+        "email_list": [
+            "jinghuang@mednet.ucla.edu"
+        ], 
+        "cite_url": "www.jinghuanglabucla.com/#!contact-/c24vq", 
+        "cite_name": "", 
+        "title": "Jing Huang Lab at UCLA | Contact"
+    }, 
+    {
+        "content": "assistant professor. jingjing huang. email: jjhuang@vt.edu ... dr. jingjing (jing) huang joined the pamplin college of business in the fall of 2014. she holds an...", 
+        "email_list": [
+            "jjhuang@vt.edu"
+        ], 
+        "cite_url": "www.acis.pamplin.vt.edu/fac/huang.html", 
+        "cite_name": "", 
+        "title": "Jingjing (Jing) Huang ACIS | Pamplin | Virginia Tech"
+    }, 
+    {
+        "content": "contact mailing address: american international group, inc. new york, ny 10005. email: jing.huang@aig.com.", 
+        "email_list": [
+            "jing.huang@aig.com"
+        ], 
+        "cite_url": "www.biomath.nyu.edu/index/people/jingh/contact.html", 
+        "cite_name": "", 
+        "title": "Jing Huangs Home Page - Schlick Group at NYU"
+    }
+]

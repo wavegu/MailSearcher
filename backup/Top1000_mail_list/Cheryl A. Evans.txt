@@ -1,5 +1,39 @@
-cherylevans@edinarealty.com.nai	[24]
-cherylevans@edinarealty.com	[24]
-cheryl.evans@montville.net	[24]
-cheryl.evans@hamptonu.edu	[24]
-cevans20@uco.edu	[13]
+[
+    {
+        "content": "attorney cheryl gray evans project manager hampton university email:cheryl.evans@hamptonu.edu. phone: 757-727-5439. main: 757-728-6030. douglas...", 
+        "email_addr_list": [
+            "cheryl.evans@hamptonu.edu"
+        ], 
+        "cite_url": "minoritymenshealthinitiative.hamptonu.edu/page/Administrative-Staff", 
+        "cite_name": "", 
+        "title": "Minority Mens Health Initiative :: Administrative Staff"
+    }, 
+    {
+        "content": "email: cevans20@uco.edu. phone: (405) 974-5663. office: lib 149. box: 193. degrees. 2004 - doctor of education, educational administration, oklahoma state...", 
+        "email_addr_list": [
+            "cevans20@uco.edu"
+        ], 
+        "cite_url": "www.uco.edu/ceps/.../evans-cheryl.asp", 
+        "cite_name": "University of Central Oklahoma", 
+        "title": "UCO: Dr. Cheryl Evans"
+    }, 
+    {
+        "content": "welcome to mrs. evans website. contact information: phone: (973) 331-7100 x 2778. email: cheryl.evans@montville.net. *email is the best way to reach me*.", 
+        "email_addr_list": [
+            "cheryl.evans@montville.net"
+        ], 
+        "cite_url": "www.montville.net/Domain/558", 
+        "cite_name": "Montville Township School District", 
+        "title": "Evans, Cheryl / Welcome - Montville Township School District"
+    }, 
+    {
+        "content": "my homepage | cheryl evans ... cheryl evans. (507) 828-2598. cherylevans@edinarealty.com. cheryl evans. (507) 337-6683. cherylevans@edinarealty.com.", 
+        "email_addr_list": [
+            "cherylevans@edinarealty.com", 
+            "cherylevans@edinarealty.com"
+        ], 
+        "cite_url": "www.edinarealty.com/cheryl-evans-realtor", 
+        "cite_name": "", 
+        "title": "My Homepage | Cheryl Evans - Edina Realty"
+    }
+]

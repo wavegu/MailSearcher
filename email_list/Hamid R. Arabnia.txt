@@ -1,0 +1,20 @@
+[
+    {
+        "content": "hamid r. arabnia. professor of computer science. ph.d.: kent at canterbury, 1987. 416 boyd graduate studies research center. (706) 542-3480. hra@cs.uga.", 
+        "email_list": [
+            "hra@cs.uga"
+        ], 
+        "cite_url": "www.cs.uga.edu/directory/hamid-r-arabnia", 
+        "cite_name": "", 
+        "title": "Hamid R. Arabnia | Computer Science"
+    }, 
+    {
+        "content": "hamid r arabnia. professor of computer ... verified email at cs.uga.edu. scholar ... ma shahin, ew tollner, rw mcclendon, hr arabnia. transactions of the...", 
+        "email_list": [
+            "email@cs.uga.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=g86VLOUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hamid R Arabnia - Google Scholar Citations"
+    }
+]

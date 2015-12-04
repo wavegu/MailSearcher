@@ -1,0 +1,21 @@
+[
+    {
+        "content": "im always open to being contacted via email about new business opportunities for novamente llc ... ive had the same address since 1995: ben@goertzel.org.", 
+        "email_list": [
+            "ben@goertzel.org"
+        ], 
+        "cite_url": "wp.goertzel.org/contact/", 
+        "cite_name": "", 
+        "title": "Contact » goertzel.org - Ben Goertzel"
+    }, 
+    {
+        "content": "we hope that you are able to join us in oxford in december. if you have any questions, please email any of the following: ben@goertzel.org. moikle@adams.edu.", 
+        "email_list": [
+            "ben@goertzel.org", 
+            "moikle@adams.edu"
+        ], 
+        "cite_url": "agi-conference.org/2012/contact/", 
+        "cite_name": "", 
+        "title": "Contact - AGI conferences"
+    }
+]

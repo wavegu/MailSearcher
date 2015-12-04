@@ -1,0 +1,58 @@
+[
+    {
+        "content": "academic profile. assoc prof bi guoan. associate professor school of electrical  electronic engineering college of engineering. email: egbi@ntu.edu.sg", 
+        "email_list": [
+            "egbi@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Assoc Prof Bi Guoan"
+    }, 
+    {
+        "content": "bi guoan principal investigator office: s1-b1a-27. phone: 6790 4823. email: egbi@ntu.edu.sg. bi guoan received the b.sc in radio communications, dalian...", 
+        "email_list": [
+            "egbi@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/.../sensor_array_det...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Team Members | Sensor Array | TL@NTU"
+    }, 
+    {
+        "content": "email:wee.er@ntu.edu.sg. supervisor: peter chong, ​ ... email:changyang@ntu.edu.sg. supervisor: tay wee .... supervisor: bi guoan. ​, ​ xu xiaoli tel: 6592...", 
+        "email_list": [
+            "wee.er@ntu.edu.sg", 
+            "changyang@ntu.edu.sg"
+        ], 
+        "cite_url": "www.infinitus.eee.ntu.edu.sg/aboutUs/People/Pages/ResearchStaff.aspx", 
+        "cite_name": "", 
+        "title": "Research Staff - eee infinitus - Nanyang Technological ..."
+    }, 
+    {
+        "content": "guoan. bi. and. k. arichandran. school of electrical and electronic engineering ... avenue, singapore 639798 email: egbi@ntu.edu. sg and ekari@ntu.edu. sg...", 
+        "email_list": [
+            "egbi@ntu.edu", 
+            "ekari@ntu.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0792386515", 
+        "cite_name": "", 
+        "title": "Multiaccess, Mobility and Teletraffic in Wireless ..."
+    }, 
+    {
+        "content": "please send application by email, only short-listed candidates would be notified. ... publications) to associate professor guoan bi via email (egbi@ntu.edu.sg).", 
+        "email_list": [
+            "egbi@ntu.edu.sg"
+        ], 
+        "cite_url": "ei.hust.edu.cn/Upload/file/NTU-3-12.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Research Positions Available – Biomedical Imaging of ..."
+    }, 
+    {
+        "content": "research interests: biomedical optics and instrumentation, computational imaging and sensing, microscopy imaging technologies. email: zheng@engr.uconn.", 
+        "email_list": [
+            "zheng@engr.uconn"
+        ], 
+        "cite_url": "https://www.bme.uconn.edu/faculty-staff/core-faculty/zheng-guoan", 
+        "cite_name": "", 
+        "title": "Zheng, Guoan - BME - University of Connecticut"
+    }
+]

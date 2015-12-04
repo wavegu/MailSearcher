@@ -1,0 +1,30 @@
+[
+    {
+        "content": "yunde jia. professor of computer science, beijing institute of technology ... verified email at bit.edu.cn - homepage ... l han, x wu, w liang, g hou, y jia.", 
+        "email_list": [
+            "email@bit.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Sl6TV7gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "yunde jia - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: jiayunde at bit.edu.cn ... jia yunde is a professor of computer science at beijing institute of technology (bit), and the team head of bit innovation on...", 
+        "email_list": [
+            "jiayunde@bit.edu.cn"
+        ], 
+        "cite_url": "iitlab.bit.edu.cn/mcislab/~jiayunde/index_en.htm", 
+        "cite_name": "", 
+        "title": "Yunde Jia"
+    }, 
+    {
+        "content": "apr 8, 2015 - email: yukong@ece.neu.edu. alexkongy@gmail.com. yu kong (孔屿) [google ... cuiwei liu, mingtao pei, xinxiao wu, yu kong, and yunde jia.", 
+        "email_list": [
+            "yukong@ece.neu.edu", 
+            "alexkongy@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/alexkongy/Home", 
+        "cite_name": "", 
+        "title": "Home - Yu Kong @ Northeastern University"
+    }
+]

@@ -1,3 +1,20 @@
-michael.graetzel@epfl.ch	[16]
-michael.graetzel@epfl.chmichael	[16]
-people@epflpersonnes.epfl.ch	[1]
+[
+    {
+        "content": "michael grätzel awarded king faisal international prize in science. 09.02.15 professor michael grätzel has won the 2015 king faisal international prize in science, recognizing his work in developing .... e-mail: michael.graetzel@epfl.ch", 
+        "email_addr_list": [
+            "michael.graetzel@epfl.ch"
+        ], 
+        "cite_url": "lpi.epfl.ch/", 
+        "cite_name": "École Polytechnique Fédérale de Lausanne", 
+        "title": "LPI | EPFL"
+    }, 
+    {
+        "content": "e-mail: michael.graetzel@epfl.ch  http://dcwww.epfl.ch/lpi/, high performance nanocrystalline photovoltaics for indoor applications: part ii- last 18 month period...", 
+        "email_addr_list": [
+            "michael.graetzel@epfl.ch"
+        ], 
+        "cite_url": "www.temas.ch/nano/nano.nsf/.../20%7C10", 
+        "cite_name": "", 
+        "title": "Cluster Nanoparticles - temas.ch"
+    }
+]

@@ -1,1 +1,11 @@
-alevine@ias.edu	[14]
+[
+    {
+        "content": "arnold j. levine. address: institute for advanced study. robert wood ... e-mail: alevine@ias.edu. education: harpur college, state university of new york.", 
+        "email_addr_list": [
+            "alevine@ias.edu"
+        ], 
+        "cite_url": "https://www.sns.ias.edu/~alevine/AJLevine_...", 
+        "cite_name": "Institute for Advanced Study", 
+        "title": "[PDF]Curriculum Vitae - School of Natural Sciences - Institute for ..."
+    }
+]

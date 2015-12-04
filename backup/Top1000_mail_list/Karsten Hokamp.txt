@@ -1,5 +1,31 @@
-email at jimmy.harvard.edu	[2]
-email at sanger.ac.uk	[2]
-email at sibs.ac.cn	[1]
-email at tcd.ie	[1]
-email at garvan.org.au	[1]
+[
+    {
+        "content": "karsten hokamp. bioinformatics ... verified email at tcd.ie. scholar ... n mookherjee, kl brown, dme bowdish, s doria, r falsafi, k hokamp, ... the journal of...", 
+        "email_addr_list": [
+            "email@tcd.ie"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=40jU1PAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Karsten Hokamp - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at jimmy.harvard.edu. @jimmy.harvard.edu ... verified email at sibs.ac.cn. @sibs.ac.cn. cited by 29478 ... karsten hokamp. bioinformatics...", 
+        "email_addr_list": [
+            "email@jimmy.harvard.edu", 
+            "email@sibs.ac.cn"
+        ], 
+        "cite_url": "scholar.google.gr/citations?view_op=search_authors...", 
+        "cite_name": "Google", 
+        "title": "Functional Genomics - Google Scholar"
+    }, 
+    {
+        "content": "verified email at garvan.org.au. @garvan.org.au ... verified email at sanger.ac.uk. @sanger.ac.uk. cited by 36488 ... karsten hokamp. bioinformatics research...", 
+        "email_addr_list": [
+            "email@garvan.org.au", 
+            "email@sanger.ac.uk"
+        ], 
+        "cite_url": "scholar.google.gr/citations?view_op=search_authorshl...www.google.com/email", 
+        "cite_name": "Google", 
+        "title": "Transcriptomics - Google ScholarGoogle Business Email - Custom email for your company‎"
+    }
+]

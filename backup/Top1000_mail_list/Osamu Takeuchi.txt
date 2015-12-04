@@ -1,5 +1,21 @@
-takeuchi@kansai-u.ac.jp.detail	[17]
-takeuchi@kansai-u.ac.jp	[17]
-mizumoto@kansai-u.ac.jp	[3]
-email at virus.kyoto-u.ac.jp	[3]
-fwhd8881@nifty.com	[1]
+[
+    {
+        "content": "... yasumasa; tajiri, goro; takahashi, hideaki; takeuchi, osamu; tsuzumi, shu ... e-mail, fwhd8881@nifty.com ... e-mail, mizumoto@kansai-u.ac.jp...", 
+        "email_addr_list": [
+            "fwhd8881@nifty.com", 
+            "mizumoto@kansai-u.ac.jp"
+        ], 
+        "cite_url": "www.kansai-u.ac.jp/fl/english/teacher/list02.html", 
+        "cite_name": "Kansai University", 
+        "title": "detail(L-T)｜Faculty Members|Kansai University Faculty of ..."
+    }, 
+    {
+        "content": "takeuchi osamu. institute for ... verified email at virus.kyoto-u.ac.jp - homepage ... h hemmi, o takeuchi, t kawai, t kaisho, s sato, h sanjo, m matsumoto, .", 
+        "email_addr_list": [
+            "email@virus.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=V8JiuA0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Takeuchi Osamu - Google Scholar Citations"
+    }
+]

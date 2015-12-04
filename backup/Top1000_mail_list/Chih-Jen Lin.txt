@@ -1,3 +1,20 @@
-chih-jen.lin@ed.ac.uk	[21]
-cjlin@csie.ntu.edu.tw	[9]
-email at csie.ntu.edu.tw	[3]
+[
+    {
+        "content": "chih-jen lin. professor of computer science, ... verified email at csie.ntu.edu.tw - homepage  scholar. get my own ... cw hsu, cc chang, cj lin. 4097, 2003.", 
+        "email_addr_list": [
+            "email@csie.ntu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SLMkts8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Chih-Jen Lin - Google Scholar Citations"
+    }, 
+    {
+        "content": "chih-jen (lance) lin web job title: principal investigator senior research fellow contact details: telephone: 0131 242 6237 email: chih-jen.lin@ed.ac.uk...", 
+        "email_addr_list": [
+            "chih-jen.lin@ed.ac.uk"
+        ], 
+        "cite_url": "www.crh.ed.ac.uk/dr-chih-jen-lance-lin/", 
+        "cite_name": "University of Edinburgh", 
+        "title": "Dr Chih-Jen (Lance) Lin | MRC University of Edinburgh ..."
+    }
+]

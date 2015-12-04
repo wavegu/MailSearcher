@@ -1,0 +1,29 @@
+[
+    {
+        "content": "jul 26, 2013 - email: hsiao@cs.nps.navy.mil. educational .... hsiao, david k., database machines are coming; database machines are coming! - the guest...", 
+        "email_list": [
+            "hsiao@cs.nps.navy.mil"
+        ], 
+        "cite_url": "calhoun.nps.edu/bitstream/handle/.../David%20K.%20Hsaio_1997.pdf?...", 
+        "cite_name": "", 
+        "title": "[PDF]Home Page for Dr. David K. Hsaio - Calhoun Home - Naval ..."
+    }, 
+    {
+        "content": "dr. chwan-deng (david) hsiao 蕭傳鐙博士. research fellow, imb. lab no: n210 ... 02-2788-2743. lab tel: 02-2789-9196. email: hsiao@gate.sinica.edu.tw.", 
+        "email_list": [
+            "hsiao@gate.sinica.edu.tw"
+        ], 
+        "cite_url": "www.imb.sinica.edu.tw/~mbhsiao/", 
+        "cite_name": "", 
+        "title": "Dr. Chwan-Deng (David) Hsiao - Institute of Molecular Biology"
+    }, 
+    {
+        "content": "dr. chwan-deng (david) hsiao 蕭傳鐙博士 ... email: hsiao@gate.sinica.edu.tw .... kuang-lei tsai, yuh-ju sun, wei-ti chen, cheng-yang huang and hsiao,...", 
+        "email_list": [
+            "hsiao@gate.sinica.edu.tw"
+        ], 
+        "cite_url": "www.imb.sinica.edu.tw/~mbhsiao/p.html", 
+        "cite_name": "", 
+        "title": "Dr. Chwan-Deng (David) Hsiao - Institute of Molecular Biology"
+    }
+]

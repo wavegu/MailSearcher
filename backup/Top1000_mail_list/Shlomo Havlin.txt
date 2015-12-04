@@ -1,2 +1,20 @@
-havlins@gmail.com	[14]
-email at ophir.ph.biu.ac.il	[2]
+[
+    {
+        "content": "shlomo havlin. professor ... verified email at ophir.ph.biu.ac.il - homepage  scholar ... ck peng, sv buldyrev, s havlin, m simons, he stanley, al goldberger.", 
+        "email_addr_list": [
+            "email@ophir.ph.biu.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=mB6GO8UAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Shlomo Havlin - Google Scholar Citations"
+    }, 
+    {
+        "content": "shlomo havlin. visitor. office: sci, room 211. 617-353-3411. email: havlins@gmail.com. directory: faculty/lecturers  research scientists  research faculty...", 
+        "email_addr_list": [
+            "havlins@gmail.com"
+        ], 
+        "cite_url": "physics.bu.edu/people/show/havlin", 
+        "cite_name": "Boston University", 
+        "title": "Shlomo Havlin | Boston University Physics"
+    }
+]

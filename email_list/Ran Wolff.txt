@@ -1,0 +1,31 @@
+[
+    {
+        "content": "create alert. cancel. ran wolff. yahoo labs. verified email at yahoo-inc.com - homepage  scholar ... s datta, k bhaduri, c giannella, r wolff, h kargupta.", 
+        "email_list": [
+            "email@yahoo-inc.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EMqzMgcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ran Wolff - Google Scholar Citations"
+    }, 
+    {
+        "content": "email : hillol at cs dot umbc dot edu. phone : 410 455 3972. web : www.cs.umbc.edu/~hillol ... dr. ran wolff. email : ranw at cs dot umbc dot edu", 
+        "email_list": [
+            "hillol@cs.umbc.edu", 
+            "ranw@cs.umbc.edu"
+        ], 
+        "cite_url": "www.csee.umbc.edu/.../Diadic...", 
+        "cite_name": "University of Maryland, Baltimore County", 
+        "title": "UMBC Dr. Hillol Kargupta"
+    }, 
+    {
+        "content": "aug 11, 2011 - email: elizabeth.norton@tufts.edu, maryanne.wolf@tufts.edu. annu. ... ran and reading fluency and how each has shaped our understanding.", 
+        "email_list": [
+            "elizabeth.norton@tufts.edu", 
+            "maryanne.wolf@tufts.edu"
+        ], 
+        "cite_url": "ase.tufts.edu/crlr/.../2012arop-rapidautomatizednaming.p...", 
+        "cite_name": "Tufts University", 
+        "title": "[PDF]Rapid Automatized Naming (RAN) and Reading Fluency ..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "shuyun zhou ... verified email at mail.tsinghua.edu.cn - homepage ... elastic scattering susceptibility of the high temperature superconductor bi 2 sr 2 cacu 2 o...", 
+        "email_list": [
+            "email@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ym995yYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shuyun Zhou - Google Scholar Citations"
+    }, 
+    {
+        "content": "registrant email: njjljd@126.com. registry admin id: admin name: shuyun bi admin organization: nanjing jiangning jidian jituan youxiangongsi", 
+        "email_list": [
+            "njjljd@126.com"
+        ], 
+        "cite_url": "www.webdataexperts.com/domain/xn--1lqq7ioqvr0egxmft2c.com", 
+        "cite_name": "", 
+        "title": "Information about xn--1lqq7ioqvr0egxmft2c.com"
+    }
+]

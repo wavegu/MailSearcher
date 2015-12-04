@@ -1,0 +1,29 @@
+[
+    {
+        "content": "xu li; wang xu; lin rui-sen ... corresponding authors: lin rui-sen email: xuli2003@263.net. cite this article: xu ... li shu-qin;sang wen-qiang;lin rui-sen.", 
+        "email_list": [
+            "xuli2003@263.net"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "LIN Rui-sen.Volumetric Properties of L-Serine in n-propanol ..."
+    }, 
+    {
+        "content": "corresponding authors: li shu-qin email: lishuqin1965@yahoo.com.cn. cite this article: li shu-qin;lin rui-sen. the dilution enthalpies of serine in aqueous...", 
+        "email_list": [
+            "lishuqin1965@yahoo.com.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "The Dilution Enthalpies of Serine in Aqueous Sucrose ..."
+    }, 
+    {
+        "content": "e-mail: liuhuaji@tju.edu.cn. 简历. 1976年2月生于山东潍坊。 ... yu chen，huaji liu*, ruisen lin, honglin zhang. the heterotactic enthalpic interaction coefficients...", 
+        "email_list": [
+            "liuhuaji@tju.edu.cn"
+        ], 
+        "cite_url": "www.tjuchemistry.org/usr/liuhj.htm", 
+        "cite_name": "", 
+        "title": "刘华姬 副教授"
+    }
+]

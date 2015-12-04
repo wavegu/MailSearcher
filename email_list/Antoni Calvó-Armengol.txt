@@ -1,0 +1,21 @@
+[
+    {
+        "content": "mar 29, 2004 - by coralio ballester, antoni calvó-armengol and yves zenou. iui, the research ... email: antoni.calvo@uab.es. http://selene.uab.es/acalvo.", 
+        "email_list": [
+            "antoni.calvo@uab.es"
+        ], 
+        "cite_url": "www.ifn.se/Wfiles/wp/WP617.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Whos Who in Crime Networks. Wanted"
+    }, 
+    {
+        "content": "ballester and antoni calvó#armengol. ... email: ballester@idea.uab.es ... email: antoni.calvo@uab.es. http://selene.uab.es/acalvo. iui, gains (université du...", 
+        "email_list": [
+            "ballester@idea.uab.es", 
+            "antoni.calvo@uab.es"
+        ], 
+        "cite_url": "www.econ.unavarra.es/seminarios/Seminarios%20antiguo/.../CBallester.p...", 
+        "cite_name": "", 
+        "title": "[PDF]Whohs Who in Networks. Wanted: The Key Player !"
+    }
+]

@@ -1,2 +1,11 @@
-email at ai.mit.edu	[2]
-media@sfn.org	[1]
+[
+    {
+        "content": "tomaso poggio. mcdermott professor in brain ... verified email at ai.mit.edu - homepage  scholar. get my own ... t poggio, f girosi. proceedings of the ieee...", 
+        "email_addr_list": [
+            "email@ai.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WgAGy7wAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "TOMASO POGGIO - Google Scholar Citations"
+    }
+]

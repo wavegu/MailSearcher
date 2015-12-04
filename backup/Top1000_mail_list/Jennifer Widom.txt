@@ -1,4 +1,29 @@
-widom@cs.stanford.edu	[11]
-widom@stanford.eduintroduction	[11]
-widom@stanford.edu	[11]
-email at cs.stanford.edu	[1]
+[
+    {
+        "content": "jennifer widom is the fletcher jones professor of computer science and electrical engineering at stanford university, and the ... email: widom@stanford.edu", 
+        "email_addr_list": [
+            "widom@stanford.edu"
+        ], 
+        "cite_url": "infolab.stanford.edu/~widom/", 
+        "cite_name": "", 
+        "title": "Jennifer Widoms Home Page"
+    }, 
+    {
+        "content": "cancel. jennifer widom. professor of computer ... verified email at cs.stanford.edu. scholar ... b babcock, s babu, m datar, r motwani, j widom. proceedings of...", 
+        "email_addr_list": [
+            "email@cs.stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zdKmnYwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jennifer Widom - Google Scholar Citations"
+    }, 
+    {
+        "content": "... let me know! -- jennifer widom, widom@cs.stanford.edu ... ive primarily listed email addresses and linked to home pages of the widoms i know personally.", 
+        "email_addr_list": [
+            "widom@cs.stanford.edu"
+        ], 
+        "cite_url": "www.widom.com/", 
+        "cite_name": "", 
+        "title": "The Widom Family Home Page"
+    }
+]

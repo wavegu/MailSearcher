@@ -1,0 +1,29 @@
+[
+    {
+        "content": "168, university road , ming-hsiung, chia-yi , taiwan , r.o.c. tel: +886-4-8328802. fax: +44 1915153461. e-mail: chih-fong.tsai@sunderland.ac.uk...", 
+        "email_list": [
+            "chih-fong.tsai@sunderland.ac.uk"
+        ], 
+        "cite_url": "ait.ccu.edu.tw/ccu_ait.../actcft.htm", 
+        "cite_name": "National Chung Cheng University", 
+        "title": "Chih-Fong Tsai"
+    }, 
+    {
+        "content": "e-mail, actcft@ccu.edu.tw. 研究領域 ... tsai, c.-f., mcgarry, k., and tait, j. claire: a modular support vector image indexing and classification system.", 
+        "email_list": [
+            "actcft@ccu.edu.tw"
+        ], 
+        "cite_url": "www.ait.ccu.edu.tw/...", 
+        "cite_name": "National Chung Cheng University", 
+        "title": "蔡志豐"
+    }, 
+    {
+        "content": "campus: office: phone: email: yendc@miamioh.edu .... 82-106. yu-hsin lu, chih-fong tsai, and david c. yen, discovering important factors of firm value by...", 
+        "email_list": [
+            "yendc@miamioh.edu"
+        ], 
+        "cite_url": "miamioh.edu/fsb/directory/bridge.php?up=/directory/...", 
+        "cite_name": "Miami University", 
+        "title": "Directory - Miami University"
+    }
+]

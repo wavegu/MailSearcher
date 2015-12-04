@@ -1,0 +1,29 @@
+[
+    {
+        "content": "photo. marek wojciechowski, ph.d., dsc. ... tel: (+48) (61) 665 29 62 fax: (+48) (61) 877 15 25 room number: 6 e-mail: marek.wojciechowski@cs.put.poznan.pl...", 
+        "email_list": [
+            "marek.wojciechowski@cs.put.poznan.pl"
+        ], 
+        "cite_url": "www.cs.put.poznan.pl/mwojciechowski/", 
+        "cite_name": "", 
+        "title": "Marek Wojciechowskis Home Page"
+    }, 
+    {
+        "content": "dr. marek wojciechowski. functie. kliniekhoofd pediatrie. specialisme: ... downsyndroom : +32 3 821 32 51. e-mail afdeling. pediatrie@uza.be. info. uza deelt...", 
+        "email_list": [
+            "pediatrie@uza.be"
+        ], 
+        "cite_url": "www.uza.be/persoon/dr-marek-wojciechowski", 
+        "cite_name": "", 
+        "title": "Dr. Marek Wojciechowski | UZA"
+    }, 
+    {
+        "content": "create alert. cancel. marek wojciechowski ... verified email at cs.put.poznan.pl - homepage  scholar ... t morzy, m wojciechowski, m zakrzewicz. advances in...", 
+        "email_list": [
+            "email@cs.put.poznan.pl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=qfzxFn5IOKMC...", 
+        "cite_name": "Google Scholar", 
+        "title": "Marek Wojciechowski - Google Scholar Citations"
+    }
+]

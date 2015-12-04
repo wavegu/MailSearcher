@@ -1,4 +1,38 @@
-james.gross@ee.kth.se	[22]
-gross@stanford.edu	[11]
-ochsner@psych.stanford.edu	[1]
-email at stanford.edu	[1]
+[
+    {
+        "content": "email: gross@stanford.edu. office location: jordan hall, building 420 room 436. office hours: thursdays 10:00am-11:00am. office phone: (650) 724-8630.", 
+        "email_addr_list": [
+            "gross@stanford.edu"
+        ], 
+        "cite_url": "psychology.stanford.edu  Faculty", 
+        "cite_name": "", 
+        "title": "James Gross | Department of Psychology"
+    }, 
+    {
+        "content": "james j. gross. professor of ... verified email at stanford.edu - homepage  scholar ... the emerging field of emotion regulation: an integrative review. jj gross.", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MlMKkPUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "James J. Gross - Google Scholar Citations"
+    }, 
+    {
+        "content": "room a.321 v se - 100 44 stockholm phone: +46 8 790 8819. fax: +46 8 790 7260. email: james.gross@ee.kth.se. | news | research | publications | research...", 
+        "email_addr_list": [
+            "james.gross@ee.kth.se"
+        ], 
+        "cite_url": "https://people.kth.se/~jamesgr/", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "KTH Homepage of James Gross"
+    }, 
+    {
+        "content": "kevin n. ochsner. james j. gross ... ca, 94305 email: ochsner@psych.stanford.edu ... an emotional response (campos  stenberg, 1981; gross, 1998). recent...", 
+        "email_addr_list": [
+            "ochsner@psych.stanford.edu"
+        ], 
+        "cite_url": "dept.psych.columbia.edu/.../Ochsner_ER-SCN_chap...www.google.com/email", 
+        "cite_name": "Columbia University", 
+        "title": "[PDF]A social cognitive neuroscience approach to ... - PsychologyGoogle Business Email - Custom email for your company‎"
+    }
+]

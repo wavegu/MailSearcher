@@ -1,3 +1,20 @@
-sandy@media.mit.alex	[2]
-sandy@media.mit	[2]
-email at mit.edu	[2]
+[
+    {
+        "content": "alex (sandy) pentland. position: professor. department: program in media arts and sciences, mit media lab. phone: (617) 253-0648. email: sandy@media.mit.", 
+        "email_addr_list": [
+            "sandy@media.mit"
+        ], 
+        "cite_url": "isquared.mit.edu/people_detail/7", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Alex (Sandy) Pentland - MIT Intelligence Initiative"
+    }, 
+    {
+        "content": "cancel. alex `sandy pentland. professor mit ... verified email at mit.edu - homepage  scholar. get my own ... cr wren, a azarbayejani, t darrell, ap pentland.", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=P4nfoKYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Alex `Sandy Pentland - Google Scholar Citations"
+    }
+]

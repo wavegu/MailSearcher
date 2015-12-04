@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. luís carriço. university of lisbon  human computer interaction. verified email at di.fc.ul.pt - homepage ... m de sá, l carriço, l duarte, t reis.", 
+        "email_list": [
+            "email@di.fc.ul.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MLg1ZJMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Luís Carriço - Google Scholar Citations"
+    }, 
+    {
+        "content": "_pageid=173,1_dad=portal_schema=portal); email: lmc@di.fc.ul.pt. luis carrico is professor at university of lisbon. he is also senior researcher at...", 
+        "email_list": [
+            "lmc@di.fc.ul.pt"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/luis-carrico", 
+        "cite_name": "", 
+        "title": "Luis Carrico - Interaction Design Foundation"
+    }
+]

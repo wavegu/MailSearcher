@@ -1,4 +1,29 @@
-towsley@cs.umass.edu.don	[15]
-towsley@cs.umass.edu	[15]
-email at cs.umass.edu	[3]
-sadoc@dcc.ufrj.br	[2]
+[
+    {
+        "content": "donald f. towsley. headshot. faculty. position: distinguished university professor. office: cs378. phone: (413) 545-0207. email: towsley@cs.umass.edu.", 
+        "email_addr_list": [
+            "towsley@cs.umass.edu"
+        ], 
+        "cite_url": "https://www.cics.umass.edu/faculty/directory/towsley_donald", 
+        "cite_name": "", 
+        "title": "Donald F. Towsley | College of Information and Computer ..."
+    }, 
+    {
+        "content": "don towsley. university of massachusetts ... verified email at cs.umass.edu. scholar. get my own ... j padhye, v firoiu, d towsley, j kurose. acm sigcomm...", 
+        "email_addr_list": [
+            "email@cs.umass.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KIFPVWoAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Don Towsley - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: sadoc@dcc.ufrj.br ... advisor: distinguished professor don towsley ... menasche, a. a. rocha, e. de souza e silva, r. m. leao, d. towsley, a.", 
+        "email_addr_list": [
+            "sadoc@dcc.ufrj.br"
+        ], 
+        "cite_url": "www.dcc.ufrj.br/~sadoc/cv-sadoc.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Daniel Sadoc Menasche - DCC - UFRJ"
+    }
+]

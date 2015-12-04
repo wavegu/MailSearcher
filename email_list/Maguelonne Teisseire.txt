@@ -1,0 +1,20 @@
+[
+    {
+        "content": "aug 18, 2015 - bâtiment : 5 r+2 nord. bureau : 03/165. téléphone : 04 67 41 86 31. fax : 04 67 41 85 00. email : maguelonne.teisseire@lirmm.fr. statut :...", 
+        "email_list": [
+            "maguelonne.teisseire@lirmm.fr"
+        ], 
+        "cite_url": "https://www.lirmm.fr/users/utilisateurs-lirmm/maguelonne-teisseire", 
+        "cite_name": "", 
+        "title": "Maguelonne Teisseire / Utilisateurs LIRMM / Users - LIRMM"
+    }, 
+    {
+        "content": "maguelonne teisseire. email: maguelonne.teisseire@lirmm.fr; registered on: 09/10/2012; last connection: 02/20/2013. projects. amadeus (developer...", 
+        "email_list": [
+            "maguelonne.teisseire@lirmm.fr"
+        ], 
+        "cite_url": "projets.lam.fr/users/84", 
+        "cite_name": "", 
+        "title": "Maguelonne Teisseire - Projects at LAM"
+    }
+]

@@ -1,3 +1,38 @@
-username@g.clemson.edu	[2]
-sez@clemson.edu	[2]
-info@thepieratclemson.com	[1]
+[
+    {
+        "content": "the pier  clemsons only waterfront cottage community  university village ... email info@thepieratclemson.com ... park place clemson sc.", 
+        "email_addr_list": [
+            "info@thepieratclemson.com"
+        ], 
+        "cite_url": "www.thepieratclemson.com/#!cottages/cvpc", 
+        "cite_name": "", 
+        "title": "The Pier at Clemson, SC | COTTAGES"
+    }, 
+    {
+        "content": "​the pier. 440 edinburgh way. seneca, sc 29678. tel: 864-654-7549. email: info@thepieratclemson.com. office hours. mon-fri: 9:00am-5:00pm. sat: please...", 
+        "email_addr_list": [
+            "info@thepieratclemson.com"
+        ], 
+        "cite_url": "www.thepieratclemson.com/#!contact/c1izt", 
+        "cite_name": "", 
+        "title": "The Pier at Clemson, SC | CONTACT"
+    }, 
+    {
+        "content": "clemson uses gmail (username@g.clemson.edu) for all official student email communication. you will start to receive important information before you come to...", 
+        "email_addr_list": [
+            "username@g.clemson.edu"
+        ], 
+        "cite_url": "www.clemson.edu/accepted-students/.../email-info.ht...", 
+        "cite_name": "Clemson University", 
+        "title": "Clemson Email Information | Clemson University, South ..."
+    }, 
+    {
+        "content": "sez atamturktur, glenn department of civil engineering, clemson university, 109 lowry hall, clemson, sc 29634, usa. email: sez@clemson.edu...", 
+        "email_addr_list": [
+            "sez@clemson.edu"
+        ], 
+        "cite_url": "shm.sagepub.com/content/12/2/114.short", 
+        "cite_name": "Sage Publications", 
+        "title": "A novel vibration-based monitoring technique for bridge pier ..."
+    }
+]

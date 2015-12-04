@@ -1,7 +1,49 @@
-massimo.negrini@unife.it	[29]
-ngm@unife.it	[3]
-microarray-facility@unife.it	[2]
-gcalin@mdanderson.org	[2]
-russo@idi.it.lab	[1]
-kkarjala@mdanderson.org	[1]
-russo@idi.it	[1]
+[
+    {
+        "content": "sezione di patologia, oncologia e biologia sperimentale via fossato di mortara 64/b 44121 - ferrara. email, massimo.negrini@unife.it. telefono...", 
+        "email_addr_list": [
+            "massimo.negrini@unife.it"
+        ], 
+        "cite_url": "docente.unife.it/massimo.negrini", 
+        "cite_name": "University of Ferrara", 
+        "title": "NEGRINI MASSIMO"
+    }, 
+    {
+        "content": "service director: dr. massimo negrini ... phone: +39 0532455 393/399/870 - fax: +39 0532455875 - email: microarray-facility@unife.it. comunità europea...", 
+        "email_addr_list": [
+            "microarray-facility@unife.it"
+        ], 
+        "cite_url": "www.ferrarafunctionalgenomics.it/index.php?pg=3", 
+        "cite_name": "", 
+        "title": "contacts - Ferrara Functional Genomics"
+    }, 
+    {
+        "content": "email. delivered material and requested services n. type of sample 1 ... dr. massimo negrini / dr. barbara zagatti ... email 2: microarray-facility@unife.it. 1- rna...", 
+        "email_addr_list": [
+            "microarray-facility@unife.it"
+        ], 
+        "cite_url": "www.ferrarafunctionalgenomics.it/files/.../1_modulodiaccompagnamento.p...", 
+        "cite_name": "", 
+        "title": "accompanying document - Ferrara Functional Genomics"
+    }, 
+    {
+        "content": "supplementary files. email this article (login required) ... correspondence to: massimo negrini, email: ngm@unife.it. giandomenico russo, email: russo@idi.it.", 
+        "email_addr_list": [
+            "ngm@unife.it", 
+            "russo@idi.it"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 6, No 23  Bresin", 
+        "cite_name": "", 
+        "title": "miR-181b as a therapeutic agent for chronic lymphocytic ..."
+    }, 
+    {
+        "content": "e-mail: gcalin@mdanderson.org ... genomics training in dr. massimo negrinis laboratory at the university of ferrara, italy, ... email: kkarjala@mdanderson.org...", 
+        "email_addr_list": [
+            "gcalin@mdanderson.org", 
+            "kkarjala@mdanderson.org"
+        ], 
+        "cite_url": "www.mdanderson.org/...www.google.com/email", 
+        "cite_name": "University of Texas MD Anderson Cancer Center", 
+        "title": "Lab Members - MD Anderson Cancer CenterGoogle Business Email‎"
+    }
+]

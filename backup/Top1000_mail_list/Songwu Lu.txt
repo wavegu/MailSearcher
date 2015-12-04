@@ -1,6 +1,49 @@
-slu@cs.ucl	[6]
-slu@cs.ucla.edu	[6]
-slu at cs.ucla.edu	[6]
-email at cs.ucla.edu	[3]
-wangtao@pku.edu.cn	[1]
-18811464390@163.com	[1]
+[
+    {
+        "content": "songwu lu. send to a friend email ... songwu lu. email: slu@cs.ucla.edu ... professor lu is overall a good professor to take for 118. his slides are very good...", 
+        "email_addr_list": [
+            "slu@cs.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Computer Science", 
+        "cite_name": "", 
+        "title": "BruinWalk : Songwu Lu"
+    }, 
+    {
+        "content": "songwu lu. professor of computer science, ... verified email at cs.ucla.edu. scholar. get my own ... f ye, h luo, j cheng, s lu, l zhang. proceedings of the 8th...", 
+        "email_addr_list": [
+            "email@cs.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PVdTviYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Songwu Lu - Google Scholar Citations"
+    }, 
+    {
+        "content": "email：wangtao@pku.edu.cn. wangtao. 吕松武：美国加州大学 ... email：slu@cs.ucla.edu. songwu lu ... email：18811464390@163.com. dby. 刘韵婷 2012级智能...", 
+        "email_addr_list": [
+            "wangtao@pku.edu.cn", 
+            "slu@cs.ucla.edu", 
+            "18811464390@163.com"
+        ], 
+        "cite_url": "cecaraw.pku.edu.cn/members.html", 
+        "cite_name": "", 
+        "title": "人员介绍 - 无线可重构系统结构课题组 - 北京大学"
+    }, 
+    {
+        "content": "songwu lu (slu@cs.ucla.edu) is currently an assistant professor in the ucla computer science department. he received both his m.s. and ph.d. degrees...", 
+        "email_addr_list": [
+            "slu@cs.ucla.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-slu-cs-ucl-3389537.htm", 
+        "cite_name": "", 
+        "title": "slu@cs.ucl - The Email Archive"
+    }, 
+    {
+        "content": "... network fundamentals r instructor: songwu lu (slu@cs.ucla.edu) m m m. ... 1:00-1:50 tue, thursday other times: appointment by email office: 4531d bh...", 
+        "email_addr_list": [
+            "slu@cs.ucla.edu"
+        ], 
+        "cite_url": "www.coursehero.com  UCLA  CS  CS 118", 
+        "cite_name": "Course Hero", 
+        "title": "Computer CS118 - Course Hero"
+    }
+]

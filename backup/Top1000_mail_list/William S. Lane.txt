@@ -1,4 +1,29 @@
-williams.lane.v@dol.gov	[27]
-williamsl@byui.edu.u.s	[17]
-williamsl@byui.edu	[17]
-email at harvard.edu	[2]
+[
+    {
+        "content": "cancel. william s. lane ... verified email at harvard.edu - homepage  scholar ... g fenteany, rf standaert, ws lane, s choi, ej corey, sl schreiber. science...", 
+        "email_addr_list": [
+            "email@harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EgIsOTUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "William S. Lane - Google Scholar Citations"
+    }, 
+    {
+        "content": "lane williams org chart. lane williams. communication. faculty. office. 243 spo. zip. 83460-0120. phone. 208-496-3714. e-mail. williamsl@byui.edu.", 
+        "email_addr_list": [
+            "williamsl@byui.edu"
+        ], 
+        "cite_url": "https://web.byui.edu/.../williamsl", 
+        "cite_name": "Brigham Young University–Idaho", 
+        "title": "BYU-Idaho - Employee Info - Lane Williams"
+    }, 
+    {
+        "content": "title, name, email, address  phone. dvet, lane v. williams, williams.lane.v@dol.gov, u.s. department of labor 4058 minnesota avenue, n.e.. suite 4007", 
+        "email_addr_list": [
+            "williams.lane.v@dol.gov"
+        ], 
+        "cite_url": "www.dol.gov/vets/.../philadelphia.htm", 
+        "cite_name": "United States Department of Labor", 
+        "title": "U.S. Department of Labor --Veterans Employment and ..."
+    }
+]

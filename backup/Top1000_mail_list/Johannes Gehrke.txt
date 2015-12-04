@@ -1,3 +1,30 @@
-johannes@cs.cornell.edu	[17]
-raghu@cs.wisc.edu	[2]
-email at cs.cornell.edu	[1]
+[
+    {
+        "content": "johannes e gehrke; dept: computer science; title: tisch university professor; address: 452 gates hall; phone: 607 821-1685; email: johannes@cs.cornell.edu...", 
+        "email_addr_list": [
+            "johannes@cs.cornell.edu"
+        ], 
+        "cite_url": "https://www.engineering.corne...", 
+        "cite_name": "Cornell University College of Engineering", 
+        "title": "Johannes E Gehrke - Cornell Engineering: Faculty Profile"
+    }, 
+    {
+        "content": "johannes gehrke. professor of ... verified email at cs.cornell.edu - homepage  scholar ... a machanavajjhala, d kifer, j gehrke, m venkitasubramaniam.", 
+        "email_addr_list": [
+            "email@cs.cornell.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=uThLo8kAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Johannes Gehrke - Google Scholar Citations"
+    }, 
+    {
+        "content": "by raghu ramakrishnan and johannes gehrke ... or typos, or want to comment on the presentation or content, please send email. raghu ramakrishnan (raghu@cs.wisc.edu) and johannes gehrke (johannes@cs.cornell.edu), august 2002.", 
+        "email_addr_list": [
+            "raghu@cs.wisc.edu", 
+            "johannes@cs.cornell.edu"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~dbbook/", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Database Management Systems (Third Edition)"
+    }
+]

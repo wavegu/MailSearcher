@@ -1,5 +1,22 @@
-paul.predki@protometrix.com	[21]
-paul.predki@protometrix.comanger	[21]
-genaro.pimienta-rosales@yale.edu	[3]
-contact@paulpredki.com	[1]
-daniel.schlingman@gmail.com	[1]
+[
+    {
+        "content": "email: daniel.schlingman@gmail.com ... yale university email: genaro.pimienta-rosales@yale.edu .... inc., guilford, ct paul.predki@protometrix.com", 
+        "email_addr_list": [
+            "daniel.schlingman@gmail.com", 
+            "genaro.pimienta-rosales@yale.edu", 
+            "paul.predki@protometrix.com"
+        ], 
+        "cite_url": "www.yale.edu/reganlab/alumni.html", 
+        "cite_name": "Yale University", 
+        "title": "Regan Lab Alumni"
+    }, 
+    {
+        "content": "to contact paul predki please write to the following email address : contact@paulpredki.com or paulpredki ...", 
+        "email_addr_list": [
+            "contact@paulpredki.com"
+        ], 
+        "cite_url": "www.dailymotion.com/.../xapz1k_anger-a...", 
+        "cite_name": "Dailymotion", 
+        "title": "ANGER / An Acting-in-English Training / Paul Predki 1998 ..."
+    }
+]

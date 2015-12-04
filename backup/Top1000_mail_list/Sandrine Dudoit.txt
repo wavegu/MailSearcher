@@ -1,2 +1,47 @@
-sandrine@stat.berkeley.edu	[18]
-email at stat.berkeley.edu	[3]
+[
+    {
+        "content": "sandrine dudoit, phd. professor, division of ... (510) 643-5163. e-mail: sandrine@stat.berkeley.edu ... d. risso, j. ngai, t. p. speed, and s. dudoit. the role of...", 
+        "email_addr_list": [
+            "sandrine@stat.berkeley.edu"
+        ], 
+        "cite_url": "www.stat.berkeley.edu/~sandrine/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Sandrine Dudoit"
+    }, 
+    {
+        "content": "e-mail: sandrine@stat.berkeley.edu. affiliations .... principal investigator: sandrine dudoit, division of biostatistics, uc berkeley; jean-philippe. vert, mines...", 
+        "email_addr_list": [
+            "sandrine@stat.berkeley.edu"
+        ], 
+        "cite_url": "www.stat.berkeley.edu/~sandrine/.../cv....", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "[PDF]Sandrine Dudoit - Department of Statistics - University of ..."
+    }, 
+    {
+        "content": "sandrine dudoit. division of ... verified email at stat.berkeley.edu - homepage  scholar ... rc gentleman, vj carey, dm bates, b bolstad, m dettling, s dudoit, .", 
+        "email_addr_list": [
+            "email@stat.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hBWARYEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Sandrine Dudoit - Google Scholar Citations"
+    }, 
+    {
+        "content": "best, sandrine cdna arrays oligonucleotide arrays/affymetrix datasets novice/basics ... sandrine dudoit, ph.d. e-mail: sandrine@stat.berkeley.edu assistant...", 
+        "email_addr_list": [
+            "sandrine@stat.berkeley.edu"
+        ], 
+        "cite_url": "https://support.bioconductor.org/p/145/", 
+        "cite_name": "", 
+        "title": "Keywords - Bioconductor"
+    }, 
+    {
+        "content": "sandrine dudoit. editor. selected works of terry speed. 123. page 4. editor. sandrine dudoit, phd. professor ...... berkeley e-mail: sandrine@stat.berkeley.edu.", 
+        "email_addr_list": [
+            "sandrine@stat.berkeley.edu"
+        ], 
+        "cite_url": "www.springer.com/.../9781461413462...www.google.com/email", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "[PDF]Selected Works in Probability and StatisticsGoogle Business Email‎"
+    }
+]

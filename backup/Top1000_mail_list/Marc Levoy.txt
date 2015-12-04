@@ -1,4 +1,38 @@
-email at cs.stanford.edu	[3]
-synthcam@gmail.com	[2]
-synthcam@gmail.com.marc	[2]
-curless@cs.washington.edu	[2]
+[
+    {
+        "content": "marc levoy. professor of computer ... verified email at cs.stanford.edu - homepage  scholar ... m levoy, k pulli, b curless, s rusinkiewicz, d koller, l pereira, .", 
+        "email_addr_list": [
+            "email@cs.stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gbVh3PEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Marc Levoy - Google Scholar Citations"
+    }, 
+    {
+        "content": "marc levoy lives in palo alto, california. when hes not writing iphone ... for email related to synthcam, please use the emailing address synthcam@gmail.com.", 
+        "email_addr_list": [
+            "synthcam@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/marclevoy", 
+        "cite_name": "", 
+        "title": "SynthCam - Sites - Google"
+    }, 
+    {
+        "content": "email: curless@cs.washington.edu ... in the winter of 1999, curless worked with marc levoy on the digital michelangelo project in florence where they captured...", 
+        "email_addr_list": [
+            "curless@cs.washington.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~seitz/.../3DPhoto-bios.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "3D Photography Speaker Bios - School of Computer Science"
+    }, 
+    {
+        "content": "email: curless@cs.washington.edu ... in the winter of 1999, curless will work with marc levoy on the digital michelangelo project in florence where they will...", 
+        "email_addr_list": [
+            "curless@cs.washington.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~seitz/.../3DPhoto-bios.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "CVPR 99 3D Photography Tutorial"
+    }
+]

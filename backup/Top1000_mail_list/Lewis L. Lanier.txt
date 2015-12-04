@@ -1,3 +1,29 @@
-lanier@itsa.ucsf.edu	[15]
-email at ucsf.edu	[4]
-infoaai@aai.org	[1]
+[
+    {
+        "content": "lewis l lanier. professor of microbiology ... verified email at ucsf.edu. scholar ... s bauer, v groh, j wu, a steinle, jh phillips, ll lanier, t spies. science 285...", 
+        "email_addr_list": [
+            "email@ucsf.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Vo2jOVYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Lewis L Lanier - Google Scholar Citations"
+    }, 
+    {
+        "content": "lewis l. lanier is professor and chair of the department of microbiology and immunology at the ... email: infoaai@aai.org | website feedback: aai webmaster.", 
+        "email_addr_list": [
+            "infoaai@aai.org"
+        ], 
+        "cite_url": "www.aai.org/.../Lanier_Lewis.ht...", 
+        "cite_name": "American Association of Immunologists", 
+        "title": "Lewis L. Lanier - The American Association of Immunologists"
+    }, 
+    {
+        "content": "melissa b. lodoen  lewis l. lanier about the authors. top of page ... correspondence to: lewis l. lanier email: lanier@itsa.ucsf.edu. top of page...", 
+        "email_addr_list": [
+            "lanier@itsa.ucsf.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Viral modulation of NK cell immunity : Abstract : Nature ..."
+    }
+]

@@ -1,3 +1,20 @@
-sarah.milne@anu.edu.au	[21]
-sarahmilne@theambassadors.com	[21]
-sarah.milne@deakin.edu.au	[21]
+[
+    {
+        "content": "e: sarah.milne@anu.edu.au. t: ... milne, s 2015, cambodias unofficial regime of extraction: illicit logging in the shadow of transnational governance and...", 
+        "email_addr_list": [
+            "sarah.milne@anu.edu.au"
+        ], 
+        "cite_url": "https://researchers.anu.edu.au/.../milne-sa", 
+        "cite_name": "Australian National University", 
+        "title": "Dr Sarah Milne - Researchers - ANU"
+    }, 
+    {
+        "content": "press officer: sarah milne direct line: 01173 02 32 28. email: sarahmilne@theambassadors.com. bromley, churchill theatre pr and marketing officer: holly...", 
+        "email_addr_list": [
+            "sarahmilne@theambassadors.com"
+        ], 
+        "cite_url": "www.atgtickets.com/regional-press-contacts/", 
+        "cite_name": "Ambassador Theatre Group", 
+        "title": "ATG Press Officers - ATG Tickets"
+    }
+]

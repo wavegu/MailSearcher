@@ -1,0 +1,11 @@
+[
+    {
+        "content": "zoran zivkovic ... verified email at ams.com - homepage ... z zivkovic. pattern recognition, 2004. icpr 2004. proceedings of the 17th international ..., 2004.", 
+        "email_list": [
+            "email@ams.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GeO26QwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Zoran Zivkovic - Google Scholar Citations"
+    }
+]

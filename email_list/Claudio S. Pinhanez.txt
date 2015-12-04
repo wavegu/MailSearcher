@@ -1,0 +1,39 @@
+[
+    {
+        "content": "cancel. claudio pinhanez ... verified email at pinhanez.com - homepage  scholar ... a bobick, j davis, s intille, f baird, l cambell, y irinov, c pinhanez, .", 
+        "email_list": [
+            "email@pinhanez.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YPq3ax4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Claudio Pinhanez - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: el@scs.leeds.ac.uk. claudio s. pinhanez: doutorando do mit media laboratory. area em ... para sistemas especialistas. e-mail: ceciliak@inf.puc-rio.br.", 
+        "email_list": [
+            "el@scs.leeds.ac.uk", 
+            "ceciliak@inf.puc-rio.br"
+        ], 
+        "cite_url": "www.inf.furb.br/ihc/pesquisa.html", 
+        "cite_name": "", 
+        "title": "Pesquisadores Brasileiros em IHC"
+    }, 
+    {
+        "content": "claudio s. pinhanez. ibm research, t. j. watson, p.o. box 218, yorktown heights, ny 10598, pinhanez@us.ibm.com. aaron f. bobick. georgia institute of...", 
+        "email_list": [
+            "pinhanez@us.ibm.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "A Theater Play Featuring an Autonomous Computer Character"
+    }, 
+    {
+        "content": "may 17, 2002 - claudio s. pinhanez, frederik c. kjeldsen, anthony levas, ... p. o. box 218, yorktown heights, ny 10598 usa (email: reports@us.ibm.com).", 
+        "email_list": [
+            "reports@us.ibm.com"
+        ], 
+        "cite_url": "pinhanez.com/claudio/publications/rc22495.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]ubiquitous graphics - Claudio Pinhanez"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "verified email at mail.ustc.edu.cn. scholar. get my own profile ... f xiao, z su, h zheng, s wang. journal of ... z hui-nan, s zhen-peng, x ming. chinese physics...", 
+        "email_list": [
+            "email@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4ntLfVgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Su Zhenpeng - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: lunjin.chen@gmail.com. tel #: (310) ... huinan zheng and fuliang xiao ... leading discussion sessions; supervising examinations; replying email inquiries.", 
+        "email_list": [
+            "lunjin.chen@gmail.com"
+        ], 
+        "cite_url": "people.atmos.ucla.edu/clj/doc/CV_clj.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CV Download - UCLA: Atmospheric and Oceanic Sciences"
+    }, 
+    {
+        "content": "may 7, 2013 - ... lena zheng, age 12, novi; amy luo, age 14, canton; huinan zheng, ... grant via email: lionel_grant@fws.gov or by phone: (989)-759-1669.", 
+        "email_list": [
+            "lionel_grant@fws.gov"
+        ], 
+        "cite_url": "www.fws.gov/.../regmap.cfm?arsk...", 
+        "cite_name": "United States Fish and Wildlife Service", 
+        "title": "Shiawassee National Wildlife Refuge Announces 2013 ..."
+    }, 
+    {
+        "content": "e-mail address: jay.albert@hanscom.af.mil ... hui zhu, fuliang xiao, huinan zheng, min zhang, y. c.-m. liu, chao shen, yuming wang, shui wang, latitudinal...", 
+        "email_list": [
+            "jay.albert@hanscom.af.mil"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1029/.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Nonlinear interaction of radiation belt electrons with ..."
+    }, 
+    {
+        "content": "jul 1, 2009 - huinan zheng,. e-mail address: hue@ustc.edu.cn. chinese academy of sciences key laboratory for basic plasma physics, school of earth...", 
+        "email_list": [
+            "hue@ustc.edu.cn"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1029/.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Abstract - Wiley Online Library"
+    }
+]

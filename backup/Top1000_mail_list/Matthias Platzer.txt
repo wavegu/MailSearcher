@@ -1,6 +1,13 @@
-matthias.platzer@fh-vie.ac.atthe	[31]
-matthias.platzer@fh-vie.ac.at	[31]
-platzer@alpinexpert.it	[15]
-ti.sns@onirellec.a	[1]
-kdo.010@bfvhb.steiermark.at	[1]
-benedikt.schuh@gmail.com	[1]
+[
+    {
+        "content": "email: kdo.010@bfvhb.steiermark.at. abi gleichweit: ... benedikt schuh email: benedikt.schuh@gmail.com. matthias platzer email: matthias.platzer@fh-vie.ac.at", 
+        "email_addr_list": [
+            "kdo.010@bfvhb.steiermark.at", 
+            "benedikt.schuh@gmail.com", 
+            "matthias.platzer@fh-vie.ac.at"
+        ], 
+        "cite_url": "www.ff-grafendorf.at/impressum.php", 
+        "cite_name": "", 
+        "title": "Impressum - Homepage der Freiwilligen Feuerwehr ..."
+    }
+]

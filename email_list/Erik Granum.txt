@@ -1,0 +1,11 @@
+[
+    {
+        "content": "see information and reports about er_cracker@hotmail.com (erik granums e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "er_cracker@hotmail.com"
+        ], 
+        "cite_url": "spam-report.email/er_cracker/hotmail.com", 
+        "cite_name": "", 
+        "title": "er_cracker@hotmail.com (Erik Granums e-mail) - Spam ..."
+    }
+]

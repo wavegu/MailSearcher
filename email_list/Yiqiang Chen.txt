@@ -1,0 +1,47 @@
+[
+    {
+        "content": "yiqiang chen. research fellow ... verified email at monash.edu. scholar. get my own ... yq chen, tja slater, ea lewis, em francis, mg burke, m preuss, .", 
+        "email_list": [
+            "email@monash.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dQSla60AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yiqiang Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: kelvin.chen@monash.edu; office: room 110 desk 26, building 82, clayton campus. updating your mds details...", 
+        "email_list": [
+            "kelvin.chen@monash.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Monash University", 
+        "title": "Yiqiang Chen - Faculty of Engineering - Monash University"
+    }, 
+    {
+        "content": "yiqiang chen. institute of computing technology. chinese academy of sciences. beijing, china 100080. email: yqchen@ict.ac.cn. abstract—cognitive radio...", 
+        "email_list": [
+            "yqchen@ict.ac.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Trust-aware Resource Allocation in a Cognitive Radio System"
+    }, 
+    {
+        "content": "contact. web: www.acii2015.org. e-mail: secretary@acii2015.org ... yiqiang chen, university of chinese academy of science, china chia-ping chen, national...", 
+        "email_list": [
+            "secretary@acii2015.org"
+        ], 
+        "cite_url": "www.acii2015.org/organizing.html", 
+        "cite_name": "", 
+        "title": "Organizing Committee - ACII2015"
+    }, 
+    {
+        "content": "tichen2010[at]gmail.com. ventana ... ting chen, yiqiang zhan, shaoting zhang, and maneesh dewan, automatic alignment of brain mr scout scans using...", 
+        "email_list": [
+            "tichen2010@gmail.com"
+        ], 
+        "cite_url": "www.cise.ufl.edu/~tichen/", 
+        "cite_name": "University of Florida", 
+        "title": "Ting Chens Homepage"
+    }
+]

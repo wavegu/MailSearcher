@@ -1,4 +1,20 @@
-jabril@ub.ed	[12]
-jabril@ub.edu	[12]
-rgonzalez@ub.edu	[2]
-esalo@ub.edu	[2]
+[
+    {
+        "content": "josep francesc abril. contact bio  research  publications ... +34 93 4031305. fax: +34 93 4034420. email: jabril@ub.ed u. web: compgen.bio.ub.es/~jabril.", 
+        "email_addr_list": [
+            "jabril@ub.ed"
+        ], 
+        "cite_url": "www.ub.edu/genetica/.../abril....", 
+        "cite_name": "University of Barcelona", 
+        "title": "Josep F. Abril - Universitat de Barcelona"
+    }, 
+    {
+        "content": "josep f. abril. foto. jabril@ub.edu. coordinator of introduction to perl and introduction to algorithmics. associate professor of the ub head of developmental...", 
+        "email_addr_list": [
+            "jabril@ub.edu"
+        ], 
+        "cite_url": "www.upf.edu/bioinformatics/.../jabril.html", 
+        "cite_name": "Pompeu Fabra University", 
+        "title": "Josep F. Abril - Universitat Pompeu Fabra"
+    }
+]

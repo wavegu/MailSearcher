@@ -1,1 +1,11 @@
-email at osu.edu	[2]
+[
+    {
+        "content": "richard e. petty. distinguished university ... verified email at osu.edu - homepage  scholar. get my own ... re petty, jt cacioppo, d schumann. journal of...", 
+        "email_addr_list": [
+            "email@osu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=y4MYDxQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard E. Petty - Google Scholar Citations"
+    }
+]

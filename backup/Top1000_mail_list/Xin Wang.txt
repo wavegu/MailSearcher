@@ -1,8 +1,65 @@
-xin.wang@imdea.org	[15]
-xin.wang@iddri.org	[15]
-xin.wang@cityu.edu.hk	[15]
-wangxin@ntu.edu.sg	[15]
-xin.wang@carleton.ca	[15]
-xin.wang@fau.edu	[15]
-wangxin@ntu.edu.sgxin	[15]
-us at feedback.xw	[3]
+[
+    {
+        "content": "for enquiries and feedback, please email us at feedback.xw@xinwang.com.sg.. alternatively, you may wish to complete the online form. your name (required).", 
+        "email_addr_list": [
+            "us@feedback.xw"
+        ], 
+        "cite_url": "xinwang.com.sg/contact/", 
+        "cite_name": "", 
+        "title": "Contact Us | Xin Wang Hong Kong Café"
+    }, 
+    {
+        "content": "division of chemical and biomolecular engineering school of chemical and biomedical engineering college of engineering. email: wangxin@ntu.edu.sg", 
+        "email_addr_list": [
+            "wangxin@ntu.edu.sg"
+        ], 
+        "cite_url": "research.ntu.edu.sg/.../StaffProfile.asp...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "NTU: Academic Profile: Assoc Prof Wang Xin"
+    }, 
+    {
+        "content": "xin wang - professor. degrees: b.sc. dalian university of technology, m.sc., ph.d., waterloo; phone: 613-520-2600 x 8308; email: xin.wang@carleton.ca...", 
+        "email_addr_list": [
+            "xin.wang@carleton.ca"
+        ], 
+        "cite_url": "https://carleton.ca/mae/people/xin-wang/", 
+        "cite_name": "Carleton University", 
+        "title": "Xin Wang - Mechanical and Aerospace Engineering"
+    }, 
+    {
+        "content": "office: 1b-210, 2/f, block 1, to yuen building. phone: +852 3442-2367. fax: +852 3442-0549. email: xin.wang@cityu.edu.hk...", 
+        "email_addr_list": [
+            "xin.wang@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cityu.edu.hk/bms/.../xinwang.htm", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Dr Xin Wang | Department of Biomedical Sciences, CityU"
+    }, 
+    {
+        "content": "xin wang. research fellow climate and energy policies - china iddri. e-mail xin.wang@iddri.org. telephone +33 (0)1 45 49 76 55. fax +33 (0)1 45 49 76 85.", 
+        "email_addr_list": [
+            "xin.wang@iddri.org"
+        ], 
+        "cite_url": "www.iddri.org/Iddri/Equipe/Xin-Wang", 
+        "cite_name": "", 
+        "title": "Xin Wang - IDDRI"
+    }, 
+    {
+        "content": "florida atlantic university 777 glades road, boca raton, fl 33431. office: ee 422. tel: (561) 297-3467. fax: (561) 297-2800. email: xin.wang@fau.edu...", 
+        "email_addr_list": [
+            "xin.wang@fau.edu"
+        ], 
+        "cite_url": "https://faculty.eng.fau.edu/xwang11/about/", 
+        "cite_name": "", 
+        "title": "Xin Wang - FAU College of Engineering - Florida Atlantic ..."
+    }, 
+    {
+        "content": "e-mail: xin.wang@imdea.org. phone: +34 91 549 34 22. fax: +34 91 550 30 47. short bio: dr xin wang studied polymer materials and engineering in anhui...", 
+        "email_addr_list": [
+            "xin.wang@imdea.org"
+        ], 
+        "cite_url": "www.materials.imdea.org/people/dr-xin-wangwww.google.com/email", 
+        "cite_name": "IMDEA", 
+        "title": "Dr. Xin Wang | IMDEA MaterialsGoogle Business Email - Custom email for your company‎Searches related to Xin Wang email"
+    }
+]

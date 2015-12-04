@@ -1,0 +1,66 @@
+[
+    {
+        "content": "verified email at us.army.mil - homepage  scholar. get my own profile ... k xu, s zhang, tr jow, w xu, ca angell ... s zhang, ms ding, k xu, j allen, tr jow.", 
+        "email_list": [
+            "email@us.army.mil"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3uytHlQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sheng S. Zhang (张升水） - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at mail.mil - homepage  scholar ... k xu, s zhang, tr jow, w xu, ca angell. electrochemical and ... s zhang, ms ding, k xu, j allen, tr jow.", 
+        "email_list": [
+            "email@mail.mil"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=S6Eii30AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kang Xu （许康） - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at mail.mil. scholar ... s zhang, ms ding, k xu, j allen, tr jow. electrochemical and ... k xu, ss zhang, u lee, jl allen, tr jow. journal of power...", 
+        "email_list": [
+            "email@mail.mil"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iHYK_UMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jan Allen - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at mail.mil. scholar. get my own profile ... j ho, tr jow, s boggs. ieee electrical ... s qin, j ho, m rabuffi, g borelli, tr jow. electrical insulation...", 
+        "email_list": [
+            "email@mail.mil"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5KsesCAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Janet Ho - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 2, 2011 - jan l. allen, t. richard jow, and jeffrey wolfenstine. electrolyte additive in ...... j.l. allen∗, t.r. jow, j. wolfenstine. u.s. army ... e-mail addresses: jan.l.allen8.civ@mail.mil, jallen@arl.army.mil (j.l. allen). charge of ∼59% of...", 
+        "email_list": [
+            "jan.l.allen8.civ@mail.mil", 
+            "jallen@arl.army.mil"
+        ], 
+        "cite_url": "www.arl.army.mil/.../Research_...", 
+        "cite_name": "United States Army Research Laboratory", 
+        "title": "[PDF]Research@ARL - US Army Research Laboratory"
+    }, 
+    {
+        "content": "mar 2, 2012 - ↵ze-mail: t.r.jow.civ@mail.mil. this was paper 488 presented at the las vegas, nevada, meeting of the society, october 10–15, 2010.", 
+        "email_list": [
+            "t.r.jow.civ@mail.mil"
+        ], 
+        "cite_url": "jes.ecsdl.org/content/159/5/A604.abstract", 
+        "cite_name": "", 
+        "title": "Abstract - Journal of The Electrochemical Society"
+    }, 
+    {
+        "content": "ξ email: t.r.jow.civ@mail.mil. abstract. pulsed power capacitors are one of the key components the pulsed power systems for applications in mobile platforms...", 
+        "email_list": [
+            "t.r.jow.civ@mail.mil"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0729...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "pulsed power capacitor development and outlook - IEEE ..."
+    }
+]

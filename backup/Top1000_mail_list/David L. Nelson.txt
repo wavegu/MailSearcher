@@ -1,5 +1,38 @@
-david.nelson3@utoledo.edu	[24]
-d-nelson@northwestern.edu	[15]
-nelson@bcm.edu	[14]
-nelson@biochem.wisc.edu	[14]
-email at bcm.edu	[3]
+[
+    {
+        "content": "photo of david l. nelson. 571b hf deluca biochemistry laboratories ... stanford medical school phone: (608) 263-6879. email: nelson@biochem.wisc.edu...", 
+        "email_addr_list": [
+            "nelson@biochem.wisc.edu"
+        ], 
+        "cite_url": "https://biochem.wisc.edu/.../nelson", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "David L. Nelson | Emeritus | Biochemistry | UW-Madison"
+    }, 
+    {
+        "content": "david l nelson, ph.d. ... email. nelson@bcm.edu ... with collaborators, dr. nelson described the first of these unstable dna sequences, a cgg trinucleotide...", 
+        "email_addr_list": [
+            "nelson@bcm.edu"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../b22602ea-ffed-11e2...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "David L Nelson, Ph.D. | People | Baylor College of Medicine ..."
+    }, 
+    {
+        "content": "create alert. cancel. david l nelson ... verified email at bcm.edu - homepage  scholar ... dl nelson, sa ledbetter, l corbo, mf victoria, r ramírez-solis, .", 
+        "email_addr_list": [
+            "email@bcm.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9QVcRycAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "David L Nelson - Google Scholar Citations"
+    }, 
+    {
+        "content": "associate professor emeritus. phone: 847-491-2087. email: d-nelson@northwestern.edu. david nelson teaches graduate courses in media management and...", 
+        "email_addr_list": [
+            "d-nelson@northwestern.edu"
+        ], 
+        "cite_url": "www.medill.northwestern.edu/.../david-nelso...", 
+        "cite_name": "Medill School of Journalism", 
+        "title": "David Nelson - Medill - Northwestern University"
+    }
+]

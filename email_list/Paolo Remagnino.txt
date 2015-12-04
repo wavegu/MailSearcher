@@ -1,0 +1,29 @@
+[
+    {
+        "content": "prof paolo remagnino (ieee and aaai member) is a professor in the school of ...... details. email: p.remagnino@kingston.ac.uk. phone: +44 (0) 208 417 2930.", 
+        "email_list": [
+            "p.remagnino@kingston.ac.uk"
+        ], 
+        "cite_url": "sec.kingston.ac.uk/about-SEC/.../view_profile.php?i...", 
+        "cite_name": "Kingston University", 
+        "title": "Prof. Paolo Remagnino - Kingston University London"
+    }, 
+    {
+        "content": "paolo remagnino. professor at ... verified email at kingston.ac.uk - homepage  scholar ... b zhan, dn monekosso, p remagnino, sa velastin, lq xu. machine...", 
+        "email_list": [
+            "email@kingston.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=P5OQ_9EAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Paolo Remagnino - Google Scholar Citations"
+    }, 
+    {
+        "content": "remagnino, paolo p.remagnino at kingston.ac.uk ... (0)20 8417 2930 fax: +44 (0)20 8417 2972 this email has been scanned for all viruses by...", 
+        "email_list": [
+            "p.remagnino@kingston.ac.uk"
+        ], 
+        "cite_url": "visionscience.com/pipermail/visionlist/2013/006767.html", 
+        "cite_name": "Vision science", 
+        "title": "[visionlist] Research associate position at Kingston University ..."
+    }
+]

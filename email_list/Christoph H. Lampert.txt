@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. christoph lampert. professor at ist austria ... verified email at ist.ac.at - homepage  scholar ... ch lampert, h nickisch, s harmeling. ieee conference...", 
+        "email_list": [
+            "email@ist.ac.at"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iCf3SwgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Christoph Lampert - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: lastname@robots.ox.ac.uk ... christoph h. lampert ... christoph lampert and i gave short course on kernel methods in computer vision at cvpr 2009.", 
+        "email_list": [
+            "lastname@robots.ox.ac.uk"
+        ], 
+        "cite_url": "www.robots.ox.ac.uk/~blaschko/", 
+        "cite_name": "University of Oxford", 
+        "title": "Personal Page of Matthew Blaschko"
+    }
+]

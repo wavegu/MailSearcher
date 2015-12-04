@@ -1,0 +1,40 @@
+[
+    {
+        "content": "toshihisa tanaka. associate ... verified email at cc.tuat.ac.jp - homepage  scholar ... a cichocki, s amari, k siwek, t tanaka, ah phan, r zdunek, s cruces, .", 
+        "email_list": [
+            "email@cc.tuat.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pBXvYnwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Toshihisa Tanaka - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: tomek@tara.tsukuba.ac.jp  prof. toshihisa tanaka tokyo university of agriculture and ... china, and bsi riken, japan. e-mail: zhang-lq@cs.sjtu.edu.cn", 
+        "email_list": [
+            "tomek@tara.tsukuba.ac.jp", 
+            "zhang-lq@cs.sjtu.edu.cn"
+        ], 
+        "cite_url": "iconip2011.sjtu.edu.cn/S5.html", 
+        "cite_name": "", 
+        "title": "Brain Signal Processing - ICONIP2011"
+    }, 
+    {
+        "content": "email: w.zheng@uws.edu.au ... email: maki@tara.tsukuba.ac.jp .... toshihisa tanaka department of electrical and electronic engineering tokyo university of...", 
+        "email_list": [
+            "w.zheng@uws.edu.au", 
+            "maki@tara.tsukuba.ac.jp"
+        ], 
+        "cite_url": "https://staff.aist.g...", 
+        "cite_name": "National Institute of Advanced Industrial Science and...", 
+        "title": "Main page"
+    }, 
+    {
+        "content": "aug 17, 2005 - toshihisa tanaka* ... tanaka, t. (2005), multiple pathogenesis of frontotemporal dementia. ... email: tanaka@psy.med.osaka-u.ac.jp...", 
+        "email_list": [
+            "tanaka@psy.med.osaka-u.ac.jp"
+        ], 
+        "cite_url": "", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Multiple pathogenesis of frontotemporal dementia - TANAKA ..."
+    }
+]

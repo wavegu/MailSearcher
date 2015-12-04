@@ -1,2 +1,20 @@
-lenzerini at dis.uniroma1.it	[20]
-email at dis.uniroma1.it	[3]
+[
+    {
+        "content": "address: diag, sapienza università di roma via ariosto 25, i-00185 roma, italy email: lenzerini [at] dis.uniroma1.it. wikipedia: entry for maurizio lenzerini.", 
+        "email_addr_list": [
+            "lenzerini@dis.uniroma1.it"
+        ], 
+        "cite_url": "www.dis.uniroma1.it/.../i...", 
+        "cite_name": "Sapienza University of Rome", 
+        "title": "| Maurizio Lenzerinis home page"
+    }, 
+    {
+        "content": "maurizio lenzerini. professor of ... verified email at dis.uniroma1.it - homepage  scholar ... d calvanese, g de giacomo, d lembo, m lenzerini, r rosati.", 
+        "email_addr_list": [
+            "email@dis.uniroma1.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EYxaICEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Maurizio Lenzerini - Google Scholar Citations"
+    }
+]

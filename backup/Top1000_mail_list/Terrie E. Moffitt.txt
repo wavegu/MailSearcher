@@ -1,6 +1,47 @@
-terrie.moffitt@duke.edu	[31]
-terrie.moffitt@kcl.ac.uk	[31]
-terrie.moffitt@duke.terrie	[31]
-email at duke.edu	[7]
-tem11 at duke dot edu	[4]
-tem11 at duke dot edu.science	[4]
+[
+    {
+        "content": "terrie e. moffitt, ph.d. professor department of psychology and neuroscience duke university. contact information: email: terrie.moffitt@duke.edu. webpage:...", 
+        "email_addr_list": [
+            "terrie.moffitt@duke.edu"
+        ], 
+        "cite_url": "cds.web.unc.edu/.../moffitt-ter...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Terrie E. Moffitt, Ph.D. | The Center for Developmental Science"
+    }, 
+    {
+        "content": "contact details: postal address: c126 inst. of psychiatry institute of psychiatry. united kingdom. telephone: +44 (0)20 7848 0936. e-mail: terrie.moffitt@kcl.ac.uk...", 
+        "email_addr_list": [
+            "terrie.moffitt@kcl.ac.uk"
+        ], 
+        "cite_url": "https://kclpure.kcl.ac.uk/portal/terrie.moffitt.html", 
+        "cite_name": "King's College London", 
+        "title": "Terrie Moffitt - Research Portal, Kings College, London"
+    }, 
+    {
+        "content": "cancel. terrie e moffitt. duke university ... verified email at duke.edu. scholar ... a caspi, k sugden, te moffitt, a taylor, iw craig, hl harrington, ... science 301...", 
+        "email_addr_list": [
+            "email@duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Terrie E Moffitt - Google Scholar Citations"
+    }, 
+    {
+        "content": "terrie e. moffitt is a professor in the departments of psychology and neuroscience, and psychiatry and behavioral science, ... email: tem11 at duke dot edu.", 
+        "email_addr_list": [
+            "tem11@duke.edu"
+        ], 
+        "cite_url": "www.americanscientist.org  AUTHORS", 
+        "cite_name": "American Scientist", 
+        "title": "Terrie Moffitt - American Scientist Online"
+    }, 
+    {
+        "content": "terrie e. moffitt, ph.d. duke university, durham department of psychology and neuroscience email: terrie.moffitt@duke.edu. terrie moffitts first contribution to...", 
+        "email_addr_list": [
+            "terrie.moffitt@duke.edu"
+        ], 
+        "cite_url": "www.klaus-grawe-stiftung.ch/what-we-are-doing/prof-terrie-moffitt/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Prof. Terrie E. Moffitt, Ph.D. - Klaus Grawe StiftungGoogle Business Email - Custom email for your company‎"
+    }
+]

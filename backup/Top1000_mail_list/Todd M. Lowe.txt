@@ -1,3 +1,20 @@
-lowe at soe.ucsc.edu	[10]
-lowe@soe.ucsc.edu	[9]
-baltrus@email.unc.edu	[3]
+[
+    {
+        "content": "office. todd m. lowe, ph.d. physical sciences bldg rm 316. tel: (831) 459-1511. fax: (831) 459-3139. email: lowe@soe.ucsc.edu. getting here...", 
+        "email_addr_list": [
+            "lowe@soe.ucsc.edu"
+        ], 
+        "cite_url": "lowelab.ucsc.edu/contact.html", 
+        "cite_name": "University of California, Santa Cruz", 
+        "title": "The Lowe Lab - Contact Us"
+    }, 
+    {
+        "content": "todd m lowe - university of california santa cruz ..... biology, university of carolina at chapel hill, chapel hill, nc 27599-3280, usa. baltrus@email.unc.edu.", 
+        "email_addr_list": [
+            "baltrus@email.unc.edu"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Todd+M+Lowewww.google.com/email", 
+        "cite_name": "", 
+        "title": "Publications Authored by Todd M Lowe - PubFactsGoogle Business Email‎"
+    }
+]

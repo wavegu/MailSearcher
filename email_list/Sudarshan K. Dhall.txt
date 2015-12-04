@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sudarshan dhall. professor. e-mail: sdhall@ou.edu. phone: (405) 325-2972. office: deh 231. education phd, computer science, university of illinois", 
+        "email_list": [
+            "sdhall@ou.edu"
+        ], 
+        "cite_url": "www.ou.edu/coe/cs/people/dhall.html", 
+        "cite_name": "University of Oklahoma", 
+        "title": "Dr. Sudarshan Dhall - University of Oklahoma"
+    }
+]

@@ -1,1 +1,11 @@
-rkirshner@cfa.harvard.edu	[18]
+[
+    {
+        "content": "professor kirshner graduated from harvard college in 1970 and received a ph.d. in ... contact information. email: rkirshner@cfa.harvard.edu. perkin lab, p-322", 
+        "email_addr_list": [
+            "rkirshner@cfa.harvard.edu"
+        ], 
+        "cite_url": "astronomy.fas.harvard.edu/people/robert-p-kirshner", 
+        "cite_name": "Harvard University", 
+        "title": "Robert P. Kirshner | Department of Astronomy"
+    }
+]

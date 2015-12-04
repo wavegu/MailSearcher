@@ -1,1 +1,11 @@
-smkosslyn@wjh.harvard.edu	[17]
+[
+    {
+        "content": "first name : stephen. last name : ... email : smkosslyn@wjh.harvard.edu ... wraga, m., shephard, j. m., church, j. a., inati, s., and kosslyn, s. m. (2005).", 
+        "email_addr_list": [
+            "smkosslyn@wjh.harvard.edu"
+        ], 
+        "cite_url": "www.isites.harvard.edu/icb/icb.do?...panel...", 
+        "cite_name": "Harvard University", 
+        "title": "People § The Department of Psychology"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "on the division of bipolar fuzzy relations. patrick bosc. irisa–enssat,. university of rennes 1. lannion, france. email: bosc@enssat.fr. olivier pivert.", 
+        "email_list": [
+            "bosc@enssat.fr"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../05...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "On the Division of Bipolar Fuzzy Relations - IEEE Xplore"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: mhouston at graphics dot stanford dot edu ... mark friedrichs, peter eastman, vishal vaidyanathan, mike houston, scott legrand, adam beberg, daniel...", 
+        "email_list": [
+            "mhouston@graphics.stanford.edu"
+        ], 
+        "cite_url": "graphics.stanford.edu/~mhouston/", 
+        "cite_name": "", 
+        "title": "Mike Houston"
+    }
+]

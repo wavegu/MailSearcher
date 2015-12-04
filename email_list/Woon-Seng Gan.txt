@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dec 7, 2012 - gan woon seng: associate professor of school of electrical and ... 0415: office: s1-b1c-74: email: ewsgan@ntu.edu.sg: personal website:...", 
+        "email_list": [
+            "ewsgan@ntu.edu.sg"
+        ], 
+        "cite_url": "www.ie.eee.ntu.edu.sg/ABOUTUS/DIRECTORY/.../GanWoonSeng.aspx", 
+        "cite_name": "", 
+        "title": "Gan Woon Seng - Nanyang Technological University"
+    }, 
+    {
+        "content": "woon-seng gan. dsp lab ... verified email at ieee.org - homepage ... ws gan. vision, image and signal processing, iee proceedings- 144 (5), 261-266, 1997.", 
+        "email_list": [
+            "email@ieee.org"
+        ], 
+        "cite_url": "scholar.google.com.sg/citations?user=typLIXwAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Woon-Seng Gan - Google Scholar Citations"
+    }, 
+    {
+        "content": "email address. ewsgan@ntu.edu.sg ... created at 27/02/2007 10:51 am by gan woon seng. last modified at 27/02/2007 10:51 am by gan woon seng...", 
+        "email_list": [
+            "ewsgan@ntu.edu.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Feedback - Gan Woon Seng - National Research Foundation"
+    }
+]

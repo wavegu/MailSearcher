@@ -1,0 +1,39 @@
+[
+    {
+        "content": "pengyi shi. assistant professor of operations management krannert school of management  purdue university email: shi178 at purdue dot edu...", 
+        "email_list": [
+            "shi178@purdue.edu"
+        ], 
+        "cite_url": "web.ics.purdue.edu/~shi178/", 
+        "cite_name": "Purdue University", 
+        "title": "Pengyi Shi - Assistant Professor, Krannert School of ..."
+    }, 
+    {
+        "content": "verified email at fau.edu. scholar ... f xiao, p yi, xr pan, bj zhang, c lee. desalination 250 ... l tang, w gu, p yi, jl bitter, jy hong, dh fairbrother, kl chen.", 
+        "email_list": [
+            "email@fau.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pfbutIwAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Peng Yi - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: dmelton@harvard.edu. ph: (617) 495-1812. fx: (617) 495-8557 ... email: stephanie_lavallee@harvard.edu. ph: (617) 495-1812. fx: (617) 495-8557.", 
+        "email_list": [
+            "dmelton@harvard.edu", 
+            "stephanie_lavallee@harvard.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harvard University", 
+        "title": "Melton Laboratory | Harvard SCRB"
+    }, 
+    {
+        "content": "dr pengyi yang. f07 - carslaw building the university of sydney. email, pengyi.yang@sydney.edu.au. curriculum vitae, curriculum vitae...", 
+        "email_list": [
+            "pengyi.yang@sydney.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Sydney", 
+        "title": "Dr Pengyi Yang - The University of Sydney"
+    }
+]

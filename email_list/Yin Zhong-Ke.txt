@@ -1,0 +1,39 @@
+[
+    {
+        "content": "zhongchao yin received b.s. (1989) from anhui university, m.s. (1992) from ... tel:(65) 6872 7000, 6872 7420 (did) or 6872 7424 (lab) email: yinzc@tll.org.sg.", 
+        "email_list": [
+            "yinzc@tll.org.sg"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Temasek Life Sciences Laboratory", 
+        "title": "Yin Zhongchao - TLL Temasek Life Sciences Laboratory"
+    }, 
+    {
+        "content": "room: 218 seo, fax: 312 996 5921 email: bioe at uic.edu ... yin zhong assistant to the head email: yzhong3 at uic.edu, office: 223 seo phone: 312 413 2423", 
+        "email_list": [
+            "bioe@uic.edu", 
+            "yzhong3@uic.edu"
+        ], 
+        "cite_url": "www.bioe.uic.edu/BIOE/BioeContact", 
+        "cite_name": "University of Illinois at Chicago", 
+        "title": "BIOE - BioeContact"
+    }, 
+    {
+        "content": "84-94 zhou rong-jun, li yong, laurence svirchev, zhang yong-jiu, he deng-fa, he yu-lin, zhao pei-lin,. wang zan-jun ... 149-162 cao yin-gui, bai zhong-ke, zhou wei, wang jing ... email: jms@imde.ac.cn tel: 028-85252044.", 
+        "email_list": [
+            "jms@imde.ac.cn"
+        ], 
+        "cite_url": "jms.imde.ac.cn/c/document_library/get_file?uuid=2b8663e7...", 
+        "cite_name": "", 
+        "title": "[PDF]Contents"
+    }, 
+    {
+        "content": "verified email at opwdd.ny.gov ... ke wisniewski, n zhong, w kaczmarski, a kaczmarski, e kida, wt brown, . ... zm tian, t chen, n zhong, zc li, f yin, s liu.", 
+        "email_list": [
+            "email@opwdd.ny.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9yL7BXEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nanbert Zhong - Google Scholar Citations"
+    }
+]

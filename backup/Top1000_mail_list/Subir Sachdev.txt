@@ -1,4 +1,29 @@
-subir.sachdev@yale.edu	[25]
-sachdevsachdev@physics.harvard.edu	[16]
-email at physics.harvard.edu	[3]
-lastname@g.harvard.edu	[3]
+[
+    {
+        "content": "fax: (617) 496-2545. email : lastname@g.harvard.edu. office: lyman 343. staff support. jennifer bastin lyman 324b 617-495-8852. jennifer bastins email:", 
+        "email_addr_list": [
+            "lastname@g.harvard.edu"
+        ], 
+        "cite_url": "sachdev.physics.harvard.edu/", 
+        "cite_name": "Harvard University", 
+        "title": "Subir SachdevFaculty: SUBIR SACHDEVExercisesBrief CVIntroduction to ResearchTeachingReview Articles"
+    }, 
+    {
+        "content": "subir sachdev. professor ... verified email at physics.harvard.edu - homepage  scholar ... t senthil, a vishwanath, l balents, s sachdev, mpa fisher. science...", 
+        "email_addr_list": [
+            "email@physics.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DMIvQbwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Subir Sachdev - Google Scholar Citations"
+    }, 
+    {
+        "content": "... theories subir sachdev department of physics, yale university p.o. box 208120, new haven, ct 06520-8120, usa email: subir.sachdev@yale.edu this...", 
+        "email_addr_list": [
+            "subir.sachdev@yale.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=9810241348www.google.com/email", 
+        "cite_name": "", 
+        "title": "Highlights in Condensed Matter Physics: Proceedings of the ...Google Business Email‎Searches related to Subir Sachdev email"
+    }
+]

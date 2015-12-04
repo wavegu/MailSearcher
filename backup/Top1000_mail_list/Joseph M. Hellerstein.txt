@@ -1,8 +1,57 @@
-joseph.hellerstein@gmail.com	[35]
-hellerstein@cs.berkeley.edu	[23]
-lastname@cs.berkeley.edu	[2]
-hilfingr@cs.berkeley.edu.amazon.com	[2]
-hilfingr@cs.berkeley.edu	[2]
-email at berkeley.edu	[2]
-harr@csail.mit.edu	[2]
-pbailis@cs.stanford.edu	[1]
+[
+    {
+        "content": "joseph m. hellerstein. jim gray professor of computer science eecs computer science division uc berkeley lastname@cs.berkeley.edu", 
+        "email_addr_list": [
+            "lastname@cs.berkeley.edu"
+        ], 
+        "cite_url": "db.cs.berkeley.edu/jmh/", 
+        "cite_name": "", 
+        "title": "Joseph M. Hellerstein - Berkeley Database Research"
+    }, 
+    {
+        "content": "joseph hellerstein. professor of computer ... verified email at berkeley.edu - homepage  scholar ... c carson, m thomas, s belongie, jm hellerstein, j malik.", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=uFJi3IUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Joseph Hellerstein - Google Scholar Citations"
+    }, 
+    {
+        "content": "joseph l. hellerstein cv. ... personal email: joseph.hellerstein@gmail.com ..... jl hellerstein, a keller, l spainhower, and m surendra, ifip symposium on...", 
+        "email_addr_list": [
+            "joseph.hellerstein@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/josephlhellerstein/", 
+        "cite_name": "", 
+        "title": "Joseph L. Hellerstein - Google Sites"
+    }, 
+    {
+        "content": "... harr chen, neil conway, heather dolan, joseph m. hellerstein, and tapan s. parikh ... tory, massachusetts institute of technology (email: harr@csail.mit.edu).", 
+        "email_addr_list": [
+            "harr@csail.mit.edu"
+        ], 
+        "cite_url": "www.neilconway.org/docs/ictd2009_demo.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Improving Data Quality With Dynamic Forms - Neil Conway"
+    }, 
+    {
+        "content": "email: pbailis@cs.stanford.edu. twitter: @pbailis ... peter bailis, aaron davidson, alan fekete, ali ghodsi, joseph m. hellerstein, ion stoica. vldb 2014.", 
+        "email_addr_list": [
+            "pbailis@cs.stanford.edu"
+        ], 
+        "cite_url": "www.bailis.org/", 
+        "cite_name": "", 
+        "title": "Peter Bailis"
+    }, 
+    {
+        "content": "id: 9. name: joseph m. hellerstein. email: hellerstein@cs.berkeley.edu. department: eecs. hilfinger: id: 10. name: paul hilfinger. email: hilfingr@cs.berkeley.edu.", 
+        "email_addr_list": [
+            "hellerstein@cs.berkeley.edu", 
+            "hilfingr@cs.berkeley.edu"
+        ], 
+        "cite_url": "https://github.com/ucberkeley/ResearchMatch/blob/.../old.../faculties.yml", 
+        "cite_name": "", 
+        "title": "ResearchMatch/faculties.yml at master · ucberkeley ... - GitHub"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: tsw@pku.edu.cn ... xu zhuoqun, yang dongqing, tang shiwei, zhang ming, data structures and algorithms, higher education press, 2004 (in chinese).", 
+        "email_list": [
+            "tsw@pku.edu.cn"
+        ], 
+        "cite_url": "www.cis.pku.edu.cn/faculty/system/TangShiWei/TangShiwei_en.htm", 
+        "cite_name": "", 
+        "title": "Tang Shiwei"
+    }, 
+    {
+        "content": "create alert. cancel. shiwei tang ... verified email at fudan.edu.cn. scholar. get my own ... s tang, dj cho, h xu, w wu, yr shen, l zhou. optics express 19...", 
+        "email_list": [
+            "email@fudan.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AquHNKUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shiwei Tang - Google Scholar Citations"
+    }, 
+    {
+        "content": "pekd.net is hosted in hong kong and is owned by shiwei tang (tang shi wei). pekd.net was ... email, 973097586@qq.com, is associated with 3 domains.", 
+        "email_list": [
+            "973097586@qq.com"
+        ], 
+        "cite_url": "domainbigdata.com/pekd.net", 
+        "cite_name": "", 
+        "title": "Pekd.net - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "may 9, 2011 - zip code. 610041. fax. 028-85243250. email. tangzhuo@cib.ac.cn ... xiao-ying xu, zhuo tang, yan-zhao wang, shi-wei luo, lin-feng cun,...", 
+        "email_list": [
+            "tangzhuo@cib.ac.cn"
+        ], 
+        "cite_url": "english.cib.cas.cn/st/gi/201105/t20110509_69508.html", 
+        "cite_name": "", 
+        "title": "Tang Zhuos team - Chengdu Institute of Biology"
+    }
+]

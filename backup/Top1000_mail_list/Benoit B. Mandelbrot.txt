@@ -1,3 +1,20 @@
-benoit.mandelbrot@yale.edu	[34]
-benoit.mandelbrot@yale.edu.beno	[34]
-itsokaytobesmart at gmail dot com	[4]
+[
+    {
+        "content": "benoit b. mandelbrot is the worlds foremost impetus for the advancement of fractal geometry. learn about his life and ... e-mail: benoit.mandelbrot@yale.edu.", 
+        "email_addr_list": [
+            "benoit.mandelbrot@yale.edu"
+        ], 
+        "cite_url": "users.math.yale.edu/mandelbrot/", 
+        "cite_name": "", 
+        "title": "Benoit B. Mandelbrot - Yale University"
+    }, 
+    {
+        "content": "what is benoit b. mandelbrots middle name? ... banner. what is benoit b. mandelbrotrsquo;s middle name? ... email: itsokaytobesmart at gmail dot com...", 
+        "email_addr_list": [
+            "itsokaytobesmart@gmail.com"
+        ], 
+        "cite_url": "www.itsokaytobesmart.com/post/.../what-is-benoit-mandelbrot-middle-na...", 
+        "cite_name": "", 
+        "title": "Its Okay To Be Smart • What is Benoit B. Mandelbrots ..."
+    }
+]

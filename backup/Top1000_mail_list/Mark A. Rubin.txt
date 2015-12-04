@@ -1,2 +1,20 @@
-rubinma@med.cornell.edu	[13]
-email at med.cornell.edu	[4]
+[
+    {
+        "content": "email: rubinma@med.cornell.edu. please visit dr. rubins lab web site. prostate cancer the focus of dr. rubin#146;s laboratory based research during the...", 
+        "email_addr_list": [
+            "rubinma@med.cornell.edu"
+        ], 
+        "cite_url": "vivo.med.cornell.edu/display/cwid-rubinma", 
+        "cite_name": "", 
+        "title": "Rubin, Mark A. - VIVO - Cornell University"
+    }, 
+    {
+        "content": "mark a rubin. professor ... verified email at med.cornell.edu - homepage  scholar ... la garraway, hr widlund, ma rubin, g getz, aj berger, s ramaswamy, .", 
+        "email_addr_list": [
+            "email@med.cornell.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=e3xidLIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mark A Rubin - Google Scholar Citations"
+    }
+]

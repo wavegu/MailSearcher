@@ -1,3 +1,38 @@
-halpern@cs.cornell.edu	[15]
-jyh13@cornell.edu	[4]
-email at cs.cornell.edu	[1]
+[
+    {
+        "content": "joseph yehuda halpern; dept: computer science; title: professor; address: 412 gates hall; phone: 607 255-9562; email: jyh13@cornell.edu  return to list ... joseph y. halpern received a b.sc. in mathematics from the university of toronto...", 
+        "email_addr_list": [
+            "jyh13@cornell.edu"
+        ], 
+        "cite_url": "https://www.engineering.corne...", 
+        "cite_name": "Cornell University College of Engineering", 
+        "title": "Joseph Yehuda Halpern - Cornell Engineering: Faculty Profile"
+    }, 
+    {
+        "content": "joseph halpern. professor of computer ... verified email at cs.cornell.edu - homepage  scholar ... r fagin, jy halpern, y moses, my vardi. mit press, 0. 4071.", 
+        "email_addr_list": [
+            "email@cs.cornell.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Joseph Halpern - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: halpern@cs.cornell.edu ... blume, lawrence  easley, david  halpern, joseph y., 2009. ... joseph y halpern  dov sammet  ella segev, 2007.", 
+        "email_addr_list": [
+            "halpern@cs.cornell.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pha9.html", 
+        "cite_name": "", 
+        "title": "Joseph Halpern at IDEAS"
+    }, 
+    {
+        "content": "email: halpern@cs.cornell.edu ... by ronald fagin  john geanakoplos  joseph y. halpern  moshe y. vardi; substantive rationality and backward induction", 
+        "email_addr_list": [
+            "halpern@cs.cornell.edu"
+        ], 
+        "cite_url": "https://authors.repec.org/pro/pha9/", 
+        "cite_name": "", 
+        "title": "RePEc: Joseph Halpern"
+    }
+]

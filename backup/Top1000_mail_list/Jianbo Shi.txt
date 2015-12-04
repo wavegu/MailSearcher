@@ -1,4 +1,29 @@
-jshi@cs.cmu.edu	[8]
-jbshi@rcees.ac.cn	[8]
-jshi@cs.cmu.edu.jianbo	[8]
-email at seas.upenn.edu	[2]
+[
+    {
+        "content": "cancel. jianbo shi. university of pennsylvania  computer vision. verified email at seas.upenn.edu. scholar ... j malik, s belongie, t leung, j shi. international...", 
+        "email_addr_list": [
+            "email@seas.upenn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Sm14jYIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jianbo Shi - Google Scholar Citations"
+    }, 
+    {
+        "content": "jianbo shi. jshi3.gif (25049 bytes). 211 smith hall. robotics institute  school of computer ... (tel) (412) 268-4706. (fax) (412) 268-5571. (email) jshi@cs.cmu.edu.", 
+        "email_addr_list": [
+            "jshi@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~jshi/jshi_address.htm", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Jianbo Shis address - School of Computer Science"
+    }, 
+    {
+        "content": "full name：, jianbo shi, gender：, male. job title：, professor, tel：, 62849334. email：, jbshi@rcees.ac.cn, postcode：, 100085...", 
+        "email_addr_list": [
+            "jbshi@rcees.ac.cn"
+        ], 
+        "cite_url": "et.rcees.ac.cn/En/index.php/Troops/215.html", 
+        "cite_name": "", 
+        "title": "Jianbo Shi--Funding Opportunity--State Key Laboratory of ..."
+    }
+]

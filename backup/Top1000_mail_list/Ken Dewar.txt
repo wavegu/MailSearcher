@@ -1,4 +1,11 @@
-ken.dewar@mcgill.ca	[17]
-paul.harrison@mcgill.ca	[1]
-paul.harrison@mcgill.ca.kenneth	[1]
-info@activehistory.ca	[1]
+[
+    {
+        "content": "affiliation : université mcgill. organization : centre dinnovation génome québec e-mail : ken.dewar@mcgill.ca  web site...", 
+        "email_addr_list": [
+            "ken.dewar@mcgill.ca"
+        ], 
+        "cite_url": "www.genomequebec.com/1034-investigator/ken-dewar.html", 
+        "cite_name": "", 
+        "title": "Ken Dewar | Researcher and Quebec scientific"
+    }
+]

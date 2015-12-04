@@ -1,0 +1,38 @@
+[
+    {
+        "content": "martin kilduff. deputy director (research). professor. email. m.kilduff@ucl.ac.uk. phone number. (0)20 7679 3258. (internal 32585). office location. engineering...", 
+        "email_list": [
+            "m.kilduff@ucl.ac.uk"
+        ], 
+        "cite_url": "https://www.mgmt.ucl.ac.uk/people/martinkilduff", 
+        "cite_name": "", 
+        "title": "Martin Kilduff | UCL School of Management"
+    }, 
+    {
+        "content": "martin kilduff. logo. search page content. search. menu. home  about. back to section home ..... email: m.kilduff@ucl.ac.uk. www: visit martins profile on the...", 
+        "email_list": [
+            "m.kilduff@ucl.ac.uk"
+        ], 
+        "cite_url": "https://www.jbs.cam.ac.uk/.../martin-ki...", 
+        "cite_name": "Cambridge Judge Business School", 
+        "title": "Martin Kilduff - Judge Business School - University of ..."
+    }, 
+    {
+        "content": "before joining ucl, martin held positions at the university of cambridge, the university of texas at austin, penn state, and insead ... email: m.kilduff@ucl.ac.uk.", 
+        "email_list": [
+            "m.kilduff@ucl.ac.uk"
+        ], 
+        "cite_url": "www.cbr.cam.ac.uk/people/research-associates/martin-kilduff/", 
+        "cite_name": "", 
+        "title": "Cambridge Judge Business School: Martin Kilduff - Centre ..."
+    }, 
+    {
+        "content": "cancel. martin kilduff. professor of management ... verified email at ucl.ac.uk. scholar. get my own profile ... a mehra, m kilduff, dj brass. administrative science...", 
+        "email_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ln55UW4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Martin Kilduff - Google Scholar Citations"
+    }
+]

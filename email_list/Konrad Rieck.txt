@@ -1,0 +1,29 @@
+[
+    {
+        "content": "konrad rieck. associate professor at ... verified email at uni-goettingen.de - homepage  scholar ... k rieck, t holz, c willems, p düssel, p laskov. detection of...", 
+        "email_list": [
+            "email@uni-goettingen.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MrYBOTEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Konrad Rieck - Google Scholar Citations"
+    }, 
+    {
+        "content": "dec 1, 2011 - e-mail: konrad.rieck@tu-berlin.de) berlin institute of technology, berlin, germany  philipp trinius  af2 university of mannheim, mannheim,...", 
+        "email_list": [
+            "konrad.rieck@tu-berlin.de"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id...", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Automatic analysis of malware behavior using machine ..."
+    }, 
+    {
+        "content": "feb 23, 2014 - daniel arp⇤, michael spreitzenbarth†, malte hübner⇤, hugo gascon⇤, and konrad rieck⇤ ... email: michael.spreitzenbarth@siemens.com.", 
+        "email_list": [
+            "michael.spreitzenbarth@siemens.com"
+        ], 
+        "cite_url": "www.internetsociety.org/sites/default/files/11_3_1.pdf", 
+        "cite_name": "Internet Society", 
+        "title": "[PDF]Download File - Internet Society"
+    }
+]

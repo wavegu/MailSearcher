@@ -1,7 +1,47 @@
-steven.scherer@uphs.upenn.edu	[28]
-sscherer@bcm.tmc.edu	[17]
-stephen.scherer@sickkids.ca	[17]
-philipp.scherer@utsouthwestern.edu	[17]
-steven.vanpetegem@psi.ch	[15]
-comments@pmc.purdue.edusteven	[4]
-comments@pmc.purdue.edu	[4]
+[
+    {
+        "content": "scherer lab. touchstone diabetes center. fatcells ... philipp.scherer@utsouthwestern.edu ... steven connell; research technician; ph: (214) 648-0406 em@il...", 
+        "email_addr_list": [
+            "philipp.scherer@utsouthwestern.edu"
+        ], 
+        "cite_url": "www4.utsouthwestern.e...", 
+        "cite_name": "University of Texas Southwestern Medical Center", 
+        "title": "Scherer Lab: Current Members"
+    }, 
+    {
+        "content": "e-mail: stephen.scherer@sickkids.ca ... more information on dr. scherers research activities, publications, appointments, and awards, can be found on the...", 
+        "email_addr_list": [
+            "stephen.scherer@sickkids.ca"
+        ], 
+        "cite_url": "www.sickkids.ca/.../Stephen-Scherer.html", 
+        "cite_name": "The Hospital for Sick Children", 
+        "title": "Stephen Scherer - The Hospital for Sick Children"
+    }, 
+    {
+        "content": "steven e. scherer, donna m. muzny, christian j. buhay, rui chen, andrew cree, ... for materials should be addressed to s.s. (email: sscherer@bcm.tmc.edu).", 
+        "email_addr_list": [
+            "sscherer@bcm.tmc.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "The finished DNA sequence of human chromosome 12 ..."
+    }, 
+    {
+        "content": "peoplevanpetegemsteven.jpg van petegem steven senior scientist. e-mail: steven.vanpetegem@psi.ch. telephone: +41 56 310 - 2537. address: wbba/111...", 
+        "email_addr_list": [
+            "steven.vanpetegem@psi.ch"
+        ], 
+        "cite_url": "https://www.psi.ch/nxmm/people", 
+        "cite_name": "Paul Scherrer Institute", 
+        "title": "Team | Paul Scherrer Institut (PSI)"
+    }, 
+    {
+        "content": "steve scherer ... steve promotes the research discoveries in purdue chemistry and teaches introductory ... (765) 494-4600, e-mail: comments@pmc.purdue.edu", 
+        "email_addr_list": [
+            "comments@pmc.purdue.edu"
+        ], 
+        "cite_url": "web.ics.purdue.edu/~scherer/", 
+        "cite_name": "Purdue University", 
+        "title": "Purdue University - Steve Scherer"
+    }
+]

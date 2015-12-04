@@ -1,0 +1,29 @@
+[
+    {
+        "content": "create alert. cancel. simeon simoff ... verified email at uws.edu.au - homepage  scholar. get my own ... s aciar, d zhang, s simoff, j debenham. intelligent...", 
+        "email_list": [
+            "email@uws.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Cq77E9EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Simeon SIMOFF - Google Scholar Citations"
+    }, 
+    {
+        "content": "position simeon simoff ... professor simeon is currently the dean of school of computing and mathematics at western ... email, s.simoff@westernsydney.edu.au.", 
+        "email_list": [
+            "s.simoff@westernsydney.edu.au"
+        ], 
+        "cite_url": "www.westernsydney.edu.au/marcs/our_team/.../professor_simeon_simoff", 
+        "cite_name": "", 
+        "title": "| Professor Simeon Simoff - University of Western Sydney"
+    }, 
+    {
+        "content": "murdoch wa 6150 australia. ph: 61-8-9360-2364 fax: 61-8-9360-2941. email: sudweeks@murdoch.edu.au. simeon j. simoff. key centre of design computing...", 
+        "email_list": [
+            "sudweeks@murdoch.edu.au"
+        ], 
+        "cite_url": "www2.iath.virginia.edu/.../metaphor-in-human-computer-interface.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Quantifying Beauty: An Information System for Evaluating ..."
+    }
+]

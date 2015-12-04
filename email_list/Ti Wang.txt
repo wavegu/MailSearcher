@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. ti wang. university of kansas. ald, 2ppe, ups, opv. verified email at whu.edu.cn ... t wang, h wu, h zheng, jb wang, z wang, c chen, y xu, c liu.", 
+        "email_list": [
+            "email@whu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DG714LkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ti Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "mailing address. 1, rue du tir ch-1204 genève, suisse. telecoms. mobile: +41-786 79 66 19; e-mail: wangti1983@cbdbd.gmail.com. language combination...", 
+        "email_list": [
+            "wangti1983@cbdbd.gmail.com"
+        ], 
+        "cite_url": "aiic.net/directories/interpreters/6404/ti-wang/lang/1", 
+        "cite_name": "", 
+        "title": "Ti WANG - Professional Conference Interpreter, Active AIIC ..."
+    }
+]

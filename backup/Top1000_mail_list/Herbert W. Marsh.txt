@@ -1,4 +1,38 @@
-herb.marsh@stx.ox.ac.uk	[12]
-h.marsh@uws.edu.au	[12]
-email at acu.edu.au	[2]
-general.enquiries@education.ox.ac.uk	[1]
+[
+    {
+        "content": "herb completed a ba (hons) psychology at indiana university in 1968. ... herb marsh is widely published with 350 articles in more than 70 different journals, ..... fax +44 (0)1865 274027 | email : general.enquiries@education.ox.ac.uk. site by...", 
+        "email_addr_list": [
+            "general.enquiries@education.ox.ac.uk"
+        ], 
+        "cite_url": "www.education.ox.ac.uk  About us ›  People ›", 
+        "cite_name": "University of Oxford", 
+        "title": "Herb Marsh – Oxford University Department of Education"
+    }, 
+    {
+        "content": "herbert w. marsh. distinguished prof of educational ... verified email at acu.edu.au - homepage ... hw marsh, jr balla, rp mcdonald. psychological bulletin...", 
+        "email_addr_list": [
+            "email@acu.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=oqYWxWwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Herbert W. Marsh - Google Scholar Citations"
+    }, 
+    {
+        "content": "view herb marshs business profile as professor at purpose inc and see work ... fellow by special election email: herb.marsh@stx.ox.ac.uk view full profile.", 
+        "email_addr_list": [
+            "herb.marsh@stx.ox.ac.uk"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Herb-Marsh/31324692", 
+        "cite_name": "", 
+        "title": "Prof. Herb W. Marsh - ZoomInfo"
+    }, 
+    {
+        "content": "andrew j. martin and herbert w. marsh ... herbert w. marsh is professor of educational psychology and director of the ... e-mail: h.marsh@uws.edu.au.", 
+        "email_addr_list": [
+            "h.marsh@uws.edu.au"
+        ], 
+        "cite_url": "aer.sagepub.com/content/38/3/583.full.pdfwww.google.com/email", 
+        "cite_name": "Sage Publications", 
+        "title": "Representation of Self-Handicapping and - American ...Google Business Email - Custom email for your company‎"
+    }
+]

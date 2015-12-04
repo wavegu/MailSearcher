@@ -1,0 +1,11 @@
+[
+    {
+        "content": "feb 12, 2014 - sanjay goil heads product management for the haven big data platform ... opportunities with oreilly conferences, email partners@oreilly.com...", 
+        "email_list": [
+            "partners@oreilly.com"
+        ], 
+        "cite_url": "conferences.oreilly.com/strata/strata2014/public/schedule/.../167263", 
+        "cite_name": "", 
+        "title": "Sanjay Goil - Conferences - OReilly Media"
+    }
+]

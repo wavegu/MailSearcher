@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: jwu@uwindsor.ca. telephone: (519) ... wang, g.h.; wu, q.m. jonathan, “guide to three dimensional structure and motion factorization”, springer, 2010.", 
+        "email_list": [
+            "jwu@uwindsor.ca"
+        ], 
+        "cite_url": "www1.uwindsor.ca/engineering/.../dr-jonathan-wu", 
+        "cite_name": "University of Windsor", 
+        "title": "Dr. Jonathan Wu - University of Windsor"
+    }, 
+    {
+        "content": "q. m. jonathan wu. professor of ... verified email at uwindsor.ca. scholar ... s chen, j bi, y zhao, l yang, c zhang, y ma, q wu, x wang, z hu. advanced...", 
+        "email_list": [
+            "email@uwindsor.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=27K5HwUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Q. M. Jonathan Wu - Google Scholar Citations"
+    }, 
+    {
+        "content": "k. stanley, q.m. jonathan wu , and w.a. gruver, implementation of vision-based grasp planning, ieee ... r. lee and q.m. jonathan wu, machine vision system for curved surface inspection, international .... email jonathan.wu@nrc.ca.", 
+        "email_list": [
+            "jonathan.wu@nrc.ca"
+        ], 
+        "cite_url": "www2.ensc.sfu.ca/people/faculty/wu.html", 
+        "cite_name": "", 
+        "title": "Jonathan Wu - Simon Fraser University"
+    }, 
+    {
+        "content": "email: subbumurala@iitrpr.ac.in ... subrahmanyam murala and q. m. jonathan wu, local mesh patterns versus local binary patterns: biomedical image...", 
+        "email_list": [
+            "subbumurala@iitrpr.ac.in"
+        ], 
+        "cite_url": "subbumurala.hpage.com/list-of-publications_24882814.html", 
+        "cite_name": "", 
+        "title": "Publications - Subrahmanyam Murala"
+    }, 
+    {
+        "content": "email: subbumurala@iitrpr.ac.in .... subrahmanyam murala and q. m. jonathan wu, local mesh patterns versus local binary patterns: biomedical image...", 
+        "email_list": [
+            "subbumurala@iitrpr.ac.in"
+        ], 
+        "cite_url": "www.iitrpr.ac.in/.../subbumurala", 
+        "cite_name": "Indian Institute of Technology Ropar", 
+        "title": "Dr. Subrahmanyam Murala | Indian Institute of Technology ..."
+    }, 
+    {
+        "content": "q.m. jonathan wu. department of electrical and computer engineering. university of windsor. windsor n9c 1m2, on, canada. email: jwu@uwindsor.ca.", 
+        "email_list": [
+            "jwu@uwindsor.ca"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../05...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Human Visual System Based Framework for Concealed ..."
+    }
+]

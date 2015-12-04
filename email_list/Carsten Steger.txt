@@ -1,0 +1,30 @@
+[
+    {
+        "content": "dec 10, 2014 - prof. dr. carsten steger teaching publications. ... fax: +49-89-289-17757. office: 02.09.044. mail: carsten.steger@in.tum.de  teaching.", 
+        "email_list": [
+            "carsten.steger@in.tum.de"
+        ], 
+        "cite_url": "iuks.informatik.tu-muenchen.de/members/steger", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Carsten Steger - Image Understanding and ..."
+    }, 
+    {
+        "content": "made by carsten steger (carsten.steger@informatik.tu-muenchen.de) # some notes on gzip for the amiga: # due to a strange implementation of the ram-disk...", 
+        "email_list": [
+            "carsten.steger@informatik.tu-muenchen.de"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-steger-informatik-tu-23653728....", 
+        "cite_name": "", 
+        "title": "steger@informatik.tu - The Email Archive"
+    }, 
+    {
+        "content": "name: alex woo email: woo@ames.arc.nasa.gov * subject: pbmplus driver and ... name: carsten steger email: stegerc@informatik.tu-muenchen.de * subject:...", 
+        "email_list": [
+            "woo@ames.arc.nasa.gov", 
+            "stegerc@informatik.tu-muenchen.de"
+        ], 
+        "cite_url": "www.mit.edu/afs.../README.3p2", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "README.3p2 - MIT"
+    }
+]

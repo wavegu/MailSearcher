@@ -1,0 +1,38 @@
+[
+    {
+        "content": "professor of forest products marketing. office: richardson hall 108. phone number: 541-737-4240. email address: eric.hansen2@oregonstate.edu. website:.", 
+        "email_list": [
+            "eric.hansen2@oregonstate.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Oregon State University", 
+        "title": "Eric Hansen | Wood Science  Engineering | Oregon State ..."
+    }, 
+    {
+        "content": "eric hansen. 0 posts. my dashboard ... the jeff samardzija trade long term. more by eric hansen .... e-mail:webmaster@sbtinfo.com. address: 225 west colfax...", 
+        "email_list": [
+            "webmaster@sbtinfo.com"
+        ], 
+        "cite_url": "www.southbendtribune.com/users/.../eric%20hansen/", 
+        "cite_name": "South Bend Tribune", 
+        "title": "Eric Hansen - South Bend Tribune"
+    }, 
+    {
+        "content": "... email: stonebraker@csail.mit.edu; areas of study: systems  networking ... michael stonebraker, eric n. hanson, chin-heng hong, â€œthe design of the...", 
+        "email_list": [
+            "stonebraker@csail.mit.edu"
+        ], 
+        "cite_url": "https://www.csa...", 
+        "cite_name": "MIT Computer Science and Artificial Intelligence Labo...", 
+        "title": "Michael Stonebraker | MIT CSAIL"
+    }, 
+    {
+        "content": "feb 1, 1998 - authors: eric n. hanson  cise department, university of florida, gainesville, fl 32611-6120, usa; e-mail: hanson@cise.ufl.edu  i.-cheng...", 
+        "email_list": [
+            "hanson@cise.ufl.edu"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=765521", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Eric N. Hanson , I. - ACM Digital Library - Association for ..."
+    }
+]

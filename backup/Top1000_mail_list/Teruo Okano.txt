@@ -1,6 +1,47 @@
-tokano@abmes.twmu.ac.jp.a	[12]
-tokano@abmes.twmu.ac.jp	[12]
-yamato.masayuki@twmu.ac.jp	[3]
-email at twmu.ac.jp	[2]
-jyang@abmes.twmu.ac.jp	[1]
-enquiry@ibn.a-star.edu.sg	[1]
+[
+    {
+        "content": "e-mail: yamato.masayuki@twmu.ac.jp; teruo okano, institute of advanced biomedical engineering and science, tokyo womens medical university, twins, 8-1...", 
+        "email_addr_list": [
+            "yamato.masayuki@twmu.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Original Articles", 
+        "cite_name": "Nature", 
+        "title": "Molecular Therapy - Abstract of article: Evidence of the ..."
+    }, 
+    {
+        "content": "cancel. okano teruo. institute of ... verified email at twmu.ac.jp - homepage  scholar ... r yoshida, k uchida, y kaneko, k sakai, a kikuchi, y sakurai, t okano.", 
+        "email_addr_list": [
+            "email@twmu.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Rj5sNTwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Okano Teruo - Google Scholar Citations"
+    }, 
+    {
+        "content": "joseph yang, masayuki yamato and teruo okano. abstract. the possibility ... yang can be reached by e-mail at jyang@abmes.twmu.ac.jp. masayuki yamato is...", 
+        "email_addr_list": [
+            "jyang@abmes.twmu.ac.jp"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S08837694...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Cell-Sheet Engineering Using Intelligent Surfaces"
+    }, 
+    {
+        "content": "reprint requests to teruo okano, phd, institute of advanced biomedical engineering and science, tokyo womens ... e-mail tokano@abmes.twmu.ac.jp...", 
+        "email_addr_list": [
+            "tokano@abmes.twmu.ac.jp"
+        ], 
+        "cite_url": "circ.ahajournals.org/content/114/1_suppl/I-87.abstract", 
+        "cite_name": "Circulation", 
+        "title": "Pulsatile Myocardial Tubes Fabricated With Cell Sheet ..."
+    }, 
+    {
+        "content": "teruo okano, tokyo womens medical university, tokyo, japan .... 7000 fax: +65 6478 9080 email: enquiry@ibn.a-star.edu.sg | view ibn privacy statement.", 
+        "email_addr_list": [
+            "enquiry@ibn.a-star.edu.sg"
+        ], 
+        "cite_url": "www.ibn.a-star.edu.sg/me...www.google.com/email", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Cell Sheet Tissue Engineering by Prof. Teruo Okano, Tokyo ...Google Business Email - Custom email for your company‎"
+    }
+]

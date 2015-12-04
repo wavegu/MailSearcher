@@ -1,0 +1,20 @@
+[
+    {
+        "content": "richard socher. metamind ... verified email at stanford.edu - homepage  scholar ... r socher, a perelygin, jy wu, j chuang, cd manning, ay ng, cp potts.", 
+        "email_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FaOcyfMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard Socher - Google Scholar Citations"
+    }, 
+    {
+        "content": "richard socher ... richard: wed 2:15-3:30pm, gates 200 ... have a personal matter, email us at the class mailing list cs224d-spr1415-staff@lists.stanford.edu.", 
+        "email_list": [
+            "cs224d-spr1415-staff@lists.stanford.edu"
+        ], 
+        "cite_url": "cs224d.stanford.edu/", 
+        "cite_name": "", 
+        "title": "Deep Learning for Natural Language Processing: Stanford ..."
+    }
+]

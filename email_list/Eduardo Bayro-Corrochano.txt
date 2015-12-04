@@ -1,0 +1,29 @@
+[
+    {
+        "content": "... 37773609 email: edb@gdl.cinvestav.mx address: centro de investigacion y de ... learning, control and action, eduardo bayro-corrochano, springer verlag,...", 
+        "email_list": [
+            "edb@gdl.cinvestav.mx"
+        ], 
+        "cite_url": "www.gdl.cinvestav.mx/edb/", 
+        "cite_name": "CINVESTAV", 
+        "title": "Eduardo Jose Bayro-Corrochano (Edu) - Cinvestav"
+    }, 
+    {
+        "content": "dr. eduardo bayro corrochano. buscar : ... eduardo bayro corrohano. tel: 00 52 (33) 37-77-36-00 - ext 1027. e-mail: edb@gdl.cinvestav.mx. ciarp2009 14th...", 
+        "email_list": [
+            "edb@gdl.cinvestav.mx"
+        ], 
+        "cite_url": "www.gdl.cinvestav.mx/bayro/", 
+        "cite_name": "CINVESTAV", 
+        "title": "Cinvestav - Dr. Eduardo Bayro - Inicio"
+    }, 
+    {
+        "content": "please submit all papers to eduardo bayro-corrochano either by (i) email: edb@fractal.cimat.mx or (ii) snail mail: please send two printed copies of your paper,...", 
+        "email_list": [
+            "edb@fractal.cimat.mx"
+        ], 
+        "cite_url": "math.tntech.edu/rafal/mexico/parallel.html", 
+        "cite_name": "", 
+        "title": "acacse99"
+    }
+]

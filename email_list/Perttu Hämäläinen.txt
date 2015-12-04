@@ -1,0 +1,29 @@
+[
+    {
+        "content": "contact information. work email: perttu.hamalainen at aalto.fi. work mobile phone: +358 50 5967 735. web site: http://perttu.info. alert.", 
+        "email_list": [
+            "perttu.hamalainen@aalto.fi"
+        ], 
+        "cite_url": "https://people.aalto.fi/en/perttu_hamalainen", 
+        "cite_name": "Aalto University", 
+        "title": "Perttu Hämäläinen - Aalto People"
+    }, 
+    {
+        "content": "perttu hämäläinen. assistant professor ... verified email at aalto.fi - homepage  scholar ... p hämäläinen, t ilmonen, j höysniemi, m lindholm, a nykänen.", 
+        "email_list": [
+            "email@aalto.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=i90uqXUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Perttu Hämäläinen - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 22, 2014 - posted by perttu hämäläinen at 9:46 am 1 comment: ... motion synthesis using physics simulation, email me at perttu.hamalainen@aalto.fi.", 
+        "email_list": [
+            "me@perttu.hamalainen"
+        ], 
+        "cite_url": "perttuh.blogspot.com/", 
+        "cite_name": "", 
+        "title": "Thoughts and code"
+    }
+]

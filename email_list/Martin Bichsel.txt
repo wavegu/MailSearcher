@@ -1,0 +1,20 @@
+[
+    {
+        "content": "notariat advokatur. gartenstrasse 6 3113 rubigen telefon 031 720 40 20. telefax 031 721 25 23. e-mail info@bichselnot.ch...", 
+        "email_list": [
+            "info@bichselnot.ch"
+        ], 
+        "cite_url": "www.bichselnot.ch/", 
+        "cite_name": "", 
+        "title": "Notariat Bichsel"
+    }, 
+    {
+        "content": "lifeplus logo. bichsel martin - independent lifeplus associate. home ... questions or comments? mail@martin-bichsel.ch. copyright © 2015 lifeplus...", 
+        "email_list": [
+            "mail@martin-bichsel.ch"
+        ], 
+        "cite_url": "www.lifeplus.com/bichsel/uk-en/user-login", 
+        "cite_name": "", 
+        "title": "Lifeplus - Bichsel Martin - Login"
+    }
+]

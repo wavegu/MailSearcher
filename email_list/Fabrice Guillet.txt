@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at univ-nantes.fr - homepage  scholar. get my own ... j blanchard, f guillet, r gras, h briand ... r gras, p kuntz, r couturier, f guillet. 55, 2001.", 
+        "email_list": [
+            "email@univ-nantes.fr"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=Psldcdc0Y5cChl=en", 
+        "cite_name": "Google", 
+        "title": "Fabrice E. Guillet - Google Scholar Citations"
+    }, 
+    {
+        "content": "feb 14, 2013 - bp 50609 44306 nantes cedex 3. email : fabrice.guillet@univ-nantes.fr; département informatique - polytech nantes: bureau : bâtiment ireste...", 
+        "email_list": [
+            "fabrice.guillet@univ-nantes.fr"
+        ], 
+        "cite_url": "www.univ-nantes.fr/guillet-f", 
+        "cite_name": "University of Nantes", 
+        "title": "Université de Nantes - GUILLET Fabrice"
+    }
+]

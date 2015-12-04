@@ -1,1 +1,11 @@
-kiesler@cs.cmu.edu	[16]
+[
+    {
+        "content": "sara kiesler: publications, bio, bibliography, etc. ... personal homepage: http://www.cs.cmu.edu/~kiesler/; employer: (); email: kiesler@cs.cmu.edu...", 
+        "email_addr_list": [
+            "kiesler@cs.cmu.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/sara-kieslerwww.google.com/email", 
+        "cite_name": "", 
+        "title": "Sara Kiesler: Publications, bio, bibliography, etc ...Google Business Email - Custom email for your company‎"
+    }
+]

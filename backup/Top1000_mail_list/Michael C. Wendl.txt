@@ -1,3 +1,29 @@
-c dot wendl at ucl dot ac dot uk	[12]
-email at wustl.edu	[3]
-lander@genome.wi.mit.edu	[1]
+[
+    {
+        "content": "e-mail: c dot wendl at ucl dot ac dot uk ... ruhr-universität bochum; paolo ghiggini, université de nantes; michael hutchings, uc berkeley; janko latschev,...", 
+        "email_addr_list": [
+            "wendl@ucl.ac.uk"
+        ], 
+        "cite_url": "www.homepages.ucl.ac.uk/~ucahcwe/", 
+        "cite_name": "University College London", 
+        "title": "Chris Wendl"
+    }, 
+    {
+        "content": "cancel. michael wendl ... verified email at wustl.edu - homepage  scholar ... es lander, lm linton, b birren, c nusbaum, mc zody, j baldwin, ... nature 409...", 
+        "email_addr_list": [
+            "email@wustl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MTQJx7IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael Wendl - Google Scholar Citations"
+    }, 
+    {
+        "content": "... warren r. gish, stephanie l. chissoe, michael c. wendl, kim d. delehaunty, .... lander (e-mail: email: lander@genome.wi.mit.edu), r. h. waterston (e-mail:...", 
+        "email_addr_list": [
+            "lander@genome.wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Human Genome  articlewww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Initial sequencing and analysis of the human genome - NatureGoogle Business Email‎"
+    }
+]

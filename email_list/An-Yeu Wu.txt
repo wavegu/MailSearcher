@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email︰andywu@ntu.edu.tw ... an-yeu (andy) wu (ieee m96-sm12-f15) received the b.s. degree from national taiwan university in 1987, and the m.s. and...", 
+        "email_list": [
+            "andywu@ntu.edu.tw"
+        ], 
+        "cite_url": "access.ee.ntu.edu.tw/", 
+        "cite_name": "", 
+        "title": "Access IC Lab (Prof. An-Yeu (Andy) Wus homepage)"
+    }, 
+    {
+        "content": "an-yeu (andy) wu. professor of national ... verified email at ntu.edu.tw - homepage  scholar. get my own ... ch chao, ky jheng, hy wang, jc wu, ay wu.", 
+        "email_list": [
+            "email@ntu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4S7wewEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "An-Yeu (Andy) Wu - Google Scholar Citations"
+    }, 
+    {
+        "content": "信箱/email:icwey@mail.cgu.edu.tw ... i-chyn wey, you-gang chen, and an-yeu (andy) wu, “design and analysis of isolated noise-tolerant (int) technique in...", 
+        "email_list": [
+            "icwey@mail.cgu.edu.tw"
+        ], 
+        "cite_url": "ee.cgu.edu.tw/files/16-1007-564.php", 
+        "cite_name": "Chang Gung University", 
+        "title": "魏一勤 副教授 - 長庚大學 電機工程學系"
+    }
+]

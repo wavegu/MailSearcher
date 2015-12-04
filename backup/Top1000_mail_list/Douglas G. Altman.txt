@@ -1,5 +1,20 @@
-doug.altman@csm.ox.ac.uk	[18]
-ku.ca.xo.msc@namtla.guod.erratum	[2]
-ku.ca.xo.msc@namtla.guod.practical	[2]
-ku.ca.xo.msc@namtla.guod	[2]
-email at csm.ox.ac.uk	[2]
+[
+    {
+        "content": "... our team  blog  methodology research. search. our team; doug altman. contact information. email, doug.altman@csm.ox.ac.uk ... doug altman. bsc; dsc...", 
+        "email_addr_list": [
+            "doug.altman@csm.ox.ac.uk"
+        ], 
+        "cite_url": "www.octru.ox.ac.uk/team/doug-altman", 
+        "cite_name": "", 
+        "title": "Doug Altman — OCTRU"
+    }, 
+    {
+        "content": "douglas g altman. centre for statistics ... verified email at csm.ox.ac.uk. scholar. get my own ... jpt higgins, sg thompson, jj deeks, dg altman. bmj: british...", 
+        "email_addr_list": [
+            "email@csm.ox.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_QnLm3kAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Douglas G Altman - Google Scholar Citations"
+    }
+]

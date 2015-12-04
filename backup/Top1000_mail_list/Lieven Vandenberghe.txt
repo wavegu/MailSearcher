@@ -1,6 +1,65 @@
-lvandenberghe@dominioncolour.co.uk	[26]
-vandenbe@ee.ucla.edu	[2]
-vandenbe@ucla.edu.lieven	[2]
-email at ucla.edu	[2]
-vandenbe@ucla.edu	[2]
-info@videolectures.net	[1]
+[
+    {
+        "content": "lieven vandenberghe. lieven vandenberghe. professor of electrical engineering and ... (310) 206 1259. fax: (310) 206 4685. e-mail: vandenbe@ucla.edu...", 
+        "email_addr_list": [
+            "vandenbe@ucla.edu"
+        ], 
+        "cite_url": "www.ee.ucla.edu/~vandenbe/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Lieven Vandenberghe - Electrical Engineering - UCLA.edu"
+    }, 
+    {
+        "content": "lieven vandenberghe professor primary area: signals  systems. office: 66-147l engineering iv phone: (310) 206-1259. e-mail: vandenbe@ucla.edu.", 
+        "email_addr_list": [
+            "vandenbe@ucla.edu"
+        ], 
+        "cite_url": "www.ee.ucla.edu/lieven-vandenber...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Lieven Vandenberghe | EE"
+    }, 
+    {
+        "content": "create alert. cancel. lieven vandenberghe ... verified email at ucla.edu - homepage  scholar ... ms lobo, l vandenberghe, s boyd, h lebret. linear algebra...", 
+        "email_addr_list": [
+            "email@ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WLptLzgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Lieven Vandenberghe - Google Scholar Citations"
+    }, 
+    {
+        "content": "lieven vandenberghe. send to a ... email: vandenbe@ee.ucla.edu. homepage: ... 10/10 would recommend taking this course with professor vandenberghe.", 
+        "email_addr_list": [
+            "vandenbe@ee.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Electrical Engineering", 
+        "cite_name": "", 
+        "title": "BruinWalk : Lieven Vandenberghe"
+    }, 
+    {
+        "content": "lieven vandenberghe. send to a ... email: vandenbe@ee.ucla.edu ... lieven vandenberghe: worst professor at ucla (actually hes in a 15-way tie for worst).", 
+        "email_addr_list": [
+            "vandenbe@ee.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Electrical Engineering", 
+        "cite_name": "", 
+        "title": "BruinWalk : Lieven Vandenberghe"
+    }, 
+    {
+        "content": "... academic organisations  eu supported  blog  about us  lieven vandenberghe ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/lieven_vandenberghe/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Lieven Vandenberghe - VideoLectures.NET"
+    }, 
+    {
+        "content": "dcc sales manager. lieven vandenberghe phone : +32470586791. fax. : +441625544853 email : lvandenberghe@dominioncolour.co.uk. distributor.", 
+        "email_addr_list": [
+            "lvandenberghe@dominioncolour.co.uk"
+        ], 
+        "cite_url": "dominioncolour.com/distributors/western-europe", 
+        "cite_name": "", 
+        "title": "Europe - Dominion Colour Corporation"
+    }
+]

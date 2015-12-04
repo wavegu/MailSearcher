@@ -1,2 +1,20 @@
-aho@cs.columbia.edu	[8]
-wnmmxy@sjtu.edu.cn	[1]
+[
+    {
+        "content": "name, email, office hours, location. prof. al aho, aho@cs.columbia.edu, mon  wed 3:00-4:00, 513 csb, picture of al .... alfred v. aho and jeffrey d. ullman", 
+        "email_addr_list": [
+            "aho@cs.columbia.edu"
+        ], 
+        "cite_url": "www.cs.columbia.edu/~aho/cs3261/", 
+        "cite_name": "Columbia University", 
+        "title": "COMS W3261 Computer Science Theory"
+    }, 
+    {
+        "content": "email: wnmmxy@sjtu.edu.cn. text book: alfred v. aho, monica s. lam, ravi sethi, and jeffrey d. ullman, compilers: principles, techniques, and tools, second...", 
+        "email_addr_list": [
+            "wnmmxy@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.cs.sjtu.edu.cn/~fwu/.../cs308.html", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "CS308 Compiler Principles"
+    }
+]

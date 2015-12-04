@@ -1,0 +1,30 @@
+[
+    {
+        "content": "name: professor john hughes; position: vice-chancellor; email: john.hughes@bangor.ac.uk. pa:b.nelson@bangor.ac.uk; phone: 01248 382001; location...", 
+        "email_list": [
+            "john.hughes@bangor.ac.uk", 
+            "b.nelson@bangor.ac.uk"
+        ], 
+        "cite_url": "www.bangor.ac.uk/.../professor_john_hughes.php.en", 
+        "cite_name": "Bangor University", 
+        "title": "Professor John Hughes - Bangor University"
+    }, 
+    {
+        "content": "to schedule an appointment please e-mail jhughes@fdu.edu. ... john g. hughes has over 25 years of domestic and international hospitality industry experience...", 
+        "email_list": [
+            "jhughes@fdu.edu"
+        ], 
+        "cite_url": "inside.fdu.edu/pt/jgh6nr.html", 
+        "cite_name": "", 
+        "title": "At FDU: John G. Hughes, Ed.D, CHE"
+    }, 
+    {
+        "content": "jul 16, 2015 - john g hughes, 83, died in the north manchester general hospital on ... email: newsdesk@salfordonline.com or call the newsdesk on 0161...", 
+        "email_list": [
+            "newsdesk@salfordonline.com"
+        ], 
+        "cite_url": "salfordonline.com/4158-police-appeal-for-next-of-kin-of-...", 
+        "cite_name": "Salford Online", 
+        "title": "Police appeal for next of kin of John Hughes - Salford Online"
+    }
+]

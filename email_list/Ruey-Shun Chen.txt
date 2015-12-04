@@ -1,0 +1,38 @@
+[
+    {
+        "content": "communication author: ruey-shun chen, email: chen1868@gmail.com. abstract. radioactive wastes management is now a much discussed public issue,...", 
+        "email_list": [
+            "chen1868@gmail.com"
+        ], 
+        "cite_url": "da.lib.cute.edu.tw:8080/.../Waste+Package+Record+Management上網.pd...", 
+        "cite_name": "", 
+        "title": "[PDF]View/Open"
+    }, 
+    {
+        "content": "email: info.dts@ntou.edu.tw ... (ei); ruey-shun chen, mengru (arthur) tu* (2010), an rfid-based enterprise application integration framework for real-time...", 
+        "email_list": [
+            "info.dts@ntou.edu.tw"
+        ], 
+        "cite_url": "tsweb.ntou.edu.tw/...", 
+        "cite_name": "National Taiwan Ocean University", 
+        "title": "杜孟儒助理教授- 國立台灣海洋大學- 運輸科學系"
+    }, 
+    {
+        "content": "dec 19, 2011 - teng-yen wu1, kun-chieh yeh2, ruey-shun chen3*, c. c. chen4 and y. c. chen5. 1institute of ... email: chen1868@gmail.com. accepted: 31...", 
+        "email_list": [
+            "chen1868@gmail.com"
+        ], 
+        "cite_url": "academicjournals.org/journal/AJAR/article-abstract/82658A238674", 
+        "cite_name": "", 
+        "title": "Radio frequency identification (RFID) with mobile-grid ..."
+    }, 
+    {
+        "content": "jan 14, 2015 - yeh-cheng chen (1); chi nung chu (2); hung-min sun (1); ruey-shun chen  chen1868@gmail.com (2); ling-chi chen (3); chia-chen chen...", 
+        "email_list": [
+            "chen1868@gmail.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs406...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Application of green collaboration operation on network ..."
+    }
+]

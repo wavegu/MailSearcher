@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dong yu (俞栋). principal researcher at microsoft research. speech recognition, machine learning and pattern recognition. verified email at microsoft.com -...", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tMY31_gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dong Yu (俞栋) - Google Scholar Citations"
+    }, 
+    {
+        "content": "submit an inquiry  email: inquiries@dongyu.com  about  management team ... links|; faq|; sitemap. copyright © 2011-2015 dongyu all rights reserved.", 
+        "email_list": [
+            "inquiries@dongyu.com"
+        ], 
+        "cite_url": "www.dongyu.com/", 
+        "cite_name": "", 
+        "title": "Learn Chinese through Online Video Lessons"
+    }, 
+    {
+        "content": "660 south euclid avenue, campus box 8230. saint louis, missouri 63110. phone: (314) 362-7367. fax: (314) 362-1232. email: dongyu [at] wusm.wustl.edu...", 
+        "email_list": [
+            "dongyu@wusm.wustl.edu"
+        ], 
+        "cite_url": "microbiology.wustl.edu/Bio_Sketches/yuCV.html", 
+        "cite_name": "", 
+        "title": "CURRICULUM VITAE Dong yu - Department of Molecular ..."
+    }
+]

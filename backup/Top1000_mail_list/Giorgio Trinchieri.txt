@@ -1,3 +1,20 @@
-trinchig@mail.nih.gov	[3]
-email at mail.nih.gov	[3]
-trinchig@mail.nih.gov.giorgio	[3]
+[
+    {
+        "content": "home » cancer and inflammation program » giorgio trinchieri, m.d. ... as cip director, dr. trinchieri oversees the operations of two intramural laboratories that constitute the major immunologic component of the nci ... trinchig@mail.nih.gov.", 
+        "email_addr_list": [
+            "trinchig@mail.nih.gov"
+        ], 
+        "cite_url": "https://ccr.cancer.gov/Cancer.../giorgio-trinchier...", 
+        "cite_name": "National Cancer Institute", 
+        "title": "Giorgio Trinchieri, M.D. | Center for Cancer Research"
+    }, 
+    {
+        "content": "giorgio trinchieri. director ... verified email at mail.nih.gov - homepage  scholar ... r manetti, p parronchi, mg giudizi, mp piccinni, e maggi, g trinchieri, .", 
+        "email_addr_list": [
+            "email@mail.nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=csSZxogAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Giorgio Trinchieri - Google Scholar Citations"
+    }
+]

@@ -1,3 +1,20 @@
-mmcclelland@skcc.org	[2]
-mclark@hgmp.mrc.ac.uk	[2]
-natalia@borcim.wustl.edu	[1]
+[
+    {
+        "content": "fax: +44 1223 494512 email:mclark@hgmp.mrc.ac.uk. clifton sandra w. clifton, ph.d. washington university school of medicine department of genetics", 
+        "email_addr_list": [
+            "mclark@hgmp.mrc.ac.uk"
+        ], 
+        "cite_url": "web.ornl.gov/.../meetings/.../addresses.ht...", 
+        "cite_name": "Oak Ridge National Laboratory", 
+        "title": "Beyond the Identification of Transcribed Sequences"
+    }, 
+    {
+        "content": "michael mcclelland, kenneth e. sanderson, john spieth, sandra w. clifton, phil ... should be addressed to m.m. (e-mail: email: mmcclelland@skcc.org).", 
+        "email_addr_list": [
+            "mmcclelland@skcc.org"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Complete genome sequence of : Salmonella enterica ..."
+    }
+]

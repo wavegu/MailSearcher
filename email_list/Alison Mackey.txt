@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: a.mackey@lancaster.ac.uk. tel: +44 ... alison mackey is interested in second language acquisition, specifically, input, interaction, corrective feedback and...", 
+        "email_list": [
+            "a.mackey@lancaster.ac.uk"
+        ], 
+        "cite_url": "www.ling.lancs.ac.uk/profiles/alison-mackey", 
+        "cite_name": "Lancaster University", 
+        "title": "Professor Alison Mackey - Linguistics and English ..."
+    }
+]

@@ -1,5 +1,38 @@
-ullman@ufplaw.com	[13]
-ullman@cs.stanford.edu	[13]
-ullman@gmail . com	[13]
-email at stanford.edu	[6]
-support@gradiance.com	[2]
+[
+    {
+        "content": "jeff ullman: book information ... please email your chosen login, with the book whose materials you want, to support@gradiance.com well ... jeffrey d. ullman", 
+        "email_addr_list": [
+            "support@gradiance.com"
+        ], 
+        "cite_url": "infolab.stanford.edu/~ullman/ullman-books.html", 
+        "cite_name": "", 
+        "title": "Jeffrey D. Ullman --- Books - The Stanford University InfoLab"
+    }, 
+    {
+        "content": "verified email at stanford.edu. scholar ... introduction to automata theory, languages, and computation. l ullman ... f bancilhon, d maier, y sagiv, jd ullman.", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jeffrey Ullman - Google Scholar Citations"
+    }, 
+    {
+        "content": "jeffrey d. ullman. email: ullman@cs.stanford.edu. jennifer widom told me that you have a unique vision of the future of education on line--- something about...", 
+        "email_addr_list": [
+            "ullman@cs.stanford.edu"
+        ], 
+        "cite_url": "www.sigmod.org/record/issues/0109/ullman2.pdf", 
+        "cite_name": "ACM SIGMOD Online", 
+        "title": "[PDF]Jeffrey D. Ullman Speaks Out on the Future of Higher ..."
+    }, 
+    {
+        "content": "jeffrey d. ullman. ullman. phone: 973.993.1744. fax: 973.993.1748. email: ullman@ufplaw.com. has more than thirty-five years of concentrated experience...", 
+        "email_addr_list": [
+            "ullman@ufplaw.com"
+        ], 
+        "cite_url": "www.ufplaw.com/biographies.htmlwww.google.com/email", 
+        "cite_name": "", 
+        "title": "jeffrey ullman - Ullman, Furhman  PlattGoogle Business Email - Custom email for your company‎"
+    }
+]

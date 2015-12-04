@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jan 10, 2013 - email: buttsc@uci.edu ... gjoka, minas; kurant, maciej; butts, carter t.; and markopoulou, ... hilgeman, christin and butts, carter t. (2009).", 
+        "email_list": [
+            "buttsc@uci.edu"
+        ], 
+        "cite_url": "www.faculty.uci.edu/profile.cfm?faculty...", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Carter Tribley Butts - UC Irvine - Faculty Profile System"
+    }, 
+    {
+        "content": "create alert. cancel. carter t. butts ... verified email at uci.edu - homepage  scholar ... dr hunter, ms handcock, ct butts, sm goodreau, m morris. journal of...", 
+        "email_list": [
+            "email@uci.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-VGAs1cAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Carter T. Butts - Google Scholar Citations"
+    }, 
+    {
+        "content": "butts—1. carter t. butts. department of sociology and. institute for mathematical behavioral sciences. university california, irvine. email: buttsc@uci.edu.", 
+        "email_list": [
+            "buttsc@uci.edu"
+        ], 
+        "cite_url": "www.spatial.ucsb.edu/.../Butts-bio.pdf", 
+        "cite_name": "UCSB Center for Spatial Studies", 
+        "title": "[PDF]Department of Sociology and Institute for Mathematical ..."
+    }, 
+    {
+        "content": "nov 22, 2002 - carter t. butts. carter butts joined the sociology department in the fall of 2002. ... anderson, brigham s., butts, carter t., and carley, kathleen m. (1999). the interaction of size ... email:buttsc@uci.edu. page 1 of 2. carter t.", 
+        "email_list": [
+            "buttsc@uci.edu"
+        ], 
+        "cite_url": "hbanaszak.mjr.uw.edu.pl/TempTxt/ButtsCarter_HomePage.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Carter T. Butts"
+    }
+]

@@ -1,4 +1,29 @@
-noam@cs.huji.ac.il	[10]
-caec13@seas.harvard.edu	[1]
-email at cs.huji.ac.il	[1]
-ppathak@mit.edu	[1]
+[
+    {
+        "content": "noam nisan. professor of computer ... verified email at cs.huji.ac.il - homepage  scholar ... n nisan, t roughgarden, e tardos, vv vazirani. cambridge...", 
+        "email_addr_list": [
+            "email@cs.huji.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zXQZPnMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Noam Nisan - Google Scholar Citations"
+    }, 
+    {
+        "content": "september 19, 2015 by noam nisan. the 25rd international world .... we cannot cover their costs. please email ppathak@mit.edu a short nominating paragraph.", 
+        "email_addr_list": [
+            "ppathak@mit.edu"
+        ], 
+        "cite_url": "https://agtb.wordpress.com/", 
+        "cite_name": "", 
+        "title": "Turings Invisible Hand | Computation, Economics, and ..."
+    }, 
+    {
+        "content": "email:noam@cs.huji.ac.il .... of applying several classic notions from mechanism design in our model appears in nisan ... computing (nisan and ronen (1999)).", 
+        "email_addr_list": [
+            "noam@cs.huji.ac.il"
+        ], 
+        "cite_url": "www.cs.yale.edu/homes/jf/nisan-ronen.pdf", 
+        "cite_name": "Yale University", 
+        "title": "[PDF]Algorithmic Mechanism Design - Yale University ..."
+    }
+]

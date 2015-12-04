@@ -1,7 +1,47 @@
-david.heeger@nyu.edu	[14]
-ajhe@physics.ucsb.edu	[4]
-email at physics.ucsb.edu	[3]
-jdegooyer@science.utah.edu.alan	[2]
-medicine at uclawww1.cnsi.ucla.edu	[2]
-jdegooyer@science.utah.edu	[2]
-xgong@uakron.edu	[1]
+[
+    {
+        "content": "cancel. alan heeger. professor of physics ... verified email at physics.ucsb.edu. scholar. get my own profile ... g yu, j gao, jc hummelen, f wudl, aj heeger.", 
+        "email_addr_list": [
+            "email@physics.ucsb.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tvQY9iIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alan Heeger - Google Scholar Citations"
+    }, 
+    {
+        "content": "lecturer: alan j. heeger, professor of physics, university of california, santa barbara date: thursday, jan. ... email address: jdegooyer@science.utah.edu.", 
+        "email_addr_list": [
+            "jdegooyer@science.utah.edu"
+        ], 
+        "cite_url": "archive.unews.utah.edu/.../frontiers-of-science-lecture-low-cost-plastic-so...", 
+        "cite_name": "", 
+        "title": "Frontiers of Science Lecture: Low-cost Plastic Solar Cells ..."
+    }, 
+    {
+        "content": "alan j. heeger. contact: email address: ajhe@physics.ucsb.edu. weve moved! come see what weve done with the place. unews.utah.edu  awards, grants ...", 
+        "email_addr_list": [
+            "ajhe@physics.ucsb.edu"
+        ], 
+        "cite_url": "archive.unews.utah.edu/author/Alan%20J.%20Heeger/", 
+        "cite_name": "", 
+        "title": "Alan J. Heeger | University of Utah News"
+    }, 
+    {
+        "content": "email: xgong@uakron.edu ... senior scientist, cbrite inc. (2004-2006); post-doc, uc santa barbara, with professor alan j. heeger, (2001-2004); alexander von...", 
+        "email_addr_list": [
+            "xgong@uakron.edu"
+        ], 
+        "cite_url": "https://www.uakron.edu/cpspe/.../profile.dot?id...", 
+        "cite_name": "University of Akron", 
+        "title": "Faculty Profile : The University of Akron"
+    }, 
+    {
+        "content": "david heeger  silver professor ... email: david.heeger@nyu.edu ... alan heeger (my dad) was awarded the nobelprize in chemistry 2000! photos from the...", 
+        "email_addr_list": [
+            "david.heeger@nyu.edu"
+        ], 
+        "cite_url": "www.cns.nyu.edu/~david/", 
+        "cite_name": "Center for Neural Science", 
+        "title": "David Heeger"
+    }
+]

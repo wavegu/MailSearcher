@@ -1,1 +1,11 @@
-gage@salk.edu	[9]
+[
+    {
+        "content": "fred gage, phd ... email: gage@salk.edu. research. fred h. gage, a professor in the laboratory of genetics, concentrates on the adult central nervous system...", 
+        "email_addr_list": [
+            "gage@salk.edu"
+        ], 
+        "cite_url": "healthsciences.ucsd.edu/.../fred-gage....", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Fred Gage - UC San Diego Health Sciences"
+    }
+]

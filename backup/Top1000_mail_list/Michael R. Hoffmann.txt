@@ -1,2 +1,20 @@
-email at caltech.edu	[3]
-communication@detaoma.com	[2]
+[
+    {
+        "content": "create alert. cancel. michael r. hoffmann ... verified email at caltech.edu - homepage  scholar ... mr hoffmann, st martin, w choi, dw bahnemann. chemical...", 
+        "email_addr_list": [
+            "email@caltech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KPeon7UAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael R. Hoffmann - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. michael r. hoffmann is a well-known environmental scientist and member ... dr. michael r. hoffmann has published over 300 refereed papers in many ..... tel：（8610）60703333 fax：（8610）80727362 email：communication@detaoma.com.", 
+        "email_addr_list": [
+            "communication@detaoma.com"
+        ], 
+        "cite_url": "www.detaoma.net/UDocument/showIntroduction/?id=16366...15277", 
+        "cite_name": "", 
+        "title": "Michael R. Hoffmann Environmental Management ... - English"
+    }
+]

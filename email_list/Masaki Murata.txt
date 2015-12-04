@@ -1,0 +1,11 @@
+[
+    {
+        "content": "create alert. cancel. masaki murata. nagoya university. verified email at nagoya-u.jp - homepage ... t ohno, m murata, s matsubara. proceedings of the joint...", 
+        "email_list": [
+            "email@nagoya-u.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "masaki murata - Google Scholar Citations"
+    }
+]

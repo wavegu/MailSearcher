@@ -1,2 +1,38 @@
-didier.raoult@medecine.univ-mrs.fr	[25]
-didier.raoult@gmail.com	[25]
+[
+    {
+        "content": "fax : (33) 4.91.83.03.90. e-mail : didier.raoult@medecine.univ-mrs.fr. didier raoult, m.d., ph.d. is a graduate of marseille medical school and performed...", 
+        "email_addr_list": [
+            "didier.raoult@medecine.univ-mrs.fr"
+        ], 
+        "cite_url": "www.antimicrobe.org/authors/didier_raoult.asp", 
+        "cite_name": "", 
+        "title": "Didier raoult - Infectious Disease and Antimicrobial Agents"
+    }, 
+    {
+        "content": "didier.raoult@gmail.com. né à dakar .... de détection de spirochètes » d. raoult, m. drancourt. 5. ... de lintroduction dun sérum humain à tester » d. raoult. 11.", 
+        "email_addr_list": [
+            "didier.raoult@gmail.com"
+        ], 
+        "cite_url": "www.infectiopolesud.com/.../C-V-_Didier_RAOULT_-_President_Infecti...", 
+        "cite_name": "", 
+        "title": "[PDF]C.V. Didier RAOULT - Président Infectiopole Sud"
+    }, 
+    {
+        "content": "email: didier.raoult@gmail.com. top of page. abstract. didier raoult cautions that the use of probiotics as growth promoters in the farming industry means that...", 
+        "email_addr_list": [
+            "didier.raoult@gmail.com"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Editorial", 
+        "cite_name": "Nature", 
+        "title": "Probiotics and obesity: a link? : Abstract : Nature Reviews ..."
+    }, 
+    {
+        "content": "mr prof didier raoult. department urmite cnrs ird, faculté de médecine timone , marseille, france. phone --/-- fax --/--. email didier.raoult@gmail.com...", 
+        "email_addr_list": [
+            "didier.raoult@gmail.com"
+        ], 
+        "cite_url": "https://www.escmid.org/profession_career/...centres.../ecc_search/?tx...", 
+        "cite_name": "", 
+        "title": "ECC - ESCMID: ECC search"
+    }
+]

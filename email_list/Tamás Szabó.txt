@@ -1,0 +1,57 @@
+[
+    {
+        "content": "e-mail: makdekani@uni-miskolc.hu ... dr. szabó tamás. szabó tamás; cím: b/1. ii. em. belső telefon: 15-36. email: polsztam@uni-miskolc.hu...", 
+        "email_list": [
+            "makdekani@uni-miskolc.hu", 
+            "polsztam@uni-miskolc.hu"
+        ], 
+        "cite_url": "www.mak.uni-miskolc.hu/szabo...", 
+        "cite_name": "University of Miskolc", 
+        "title": "Dr. Szabó Tamás - Műszaki Anyagtudományi Kar - Miskolci ..."
+    }, 
+    {
+        "content": "to: tamas szabo. e-mail: tamas@seismicinstruments.com. from: oet systems administration (batch processing) oet systems administration (batch...", 
+        "email_list": [
+            "tamas@seismicinstruments.com"
+        ], 
+        "cite_url": "https://apps.fcc.gov/.../GetAtt.html?...", 
+        "cite_name": "Federal Communications Commission", 
+        "title": "[PDF]To: Tamas Szabo E-Mail: tamas@seismicinstruments ... - FCC"
+    }, 
+    {
+        "content": "dr. tamás szabó, phd. deputy head of department, associate professor head of work group for education e-mail: szabo.tamas@mkk.szie.hu. phone: +36 28...", 
+        "email_list": [
+            "szabo.tamas@mkk.szie.hu"
+        ], 
+        "cite_url": "mkk.szie.hu/dep/.../index.php?...Tamas-Szabo...", 
+        "cite_name": "", 
+        "title": "Dr. Tamás Szabó, PhD | Staff | Department of Aquaculture"
+    }, 
+    {
+        "content": "e-mail: tamas.szabo@sz-k-t.hu ... tamás szabó is the managing partner of szabó kelemen  partners attorneys, whose origins stretch back to the firm of szabó...", 
+        "email_list": [
+            "tamas.szabo@sz-k-t.hu"
+        ], 
+        "cite_url": "sz-k-t.hu/tamas-szabo/?lang=en", 
+        "cite_name": "", 
+        "title": "Tamás Szabó – Szabó, Kelemen és Társai ügyvédi iroda"
+    }, 
+    {
+        "content": "first name: szabó. middle name: last name: tamás. suffix: repec short-id: pta624. email: tamas.szabo@mail.com. homepage: postal address: phone:...", 
+        "email_list": [
+            "tamas.szabo@mail.com"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pta624.html", 
+        "cite_name": "", 
+        "title": "Szabó Tamás at IDEAS"
+    }, 
+    {
+        "content": "tamás szabó. eötvös loránd tudományegyetem  alkalmazott matematika, modellezés. verified email at cs.elte.hu ... Á kriston, g inzelt, i faragó, t szabó.", 
+        "email_list": [
+            "email@cs.elte.hu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=mMsd2CsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tamás Szabó - Google Scholar Citations"
+    }
+]

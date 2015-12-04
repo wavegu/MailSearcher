@@ -1,0 +1,20 @@
+[
+    {
+        "content": "telephone: +44 (0)121 414 3729; email: r.beale@cs.bham.ac.uk. address: school of computer science university of birmingham edgbaston birmingham", 
+        "email_list": [
+            "r.beale@cs.bham.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Birmingham", 
+        "title": "Professor Russell Beale, Computer Science, University of ..."
+    }, 
+    {
+        "content": "russell beale. professor of ... verified email at cs.bham.ac.uk - homepage  scholar ... a syvanen, r beale, m sharples, m ahonen, p lonsdale. wireless and...", 
+        "email_list": [
+            "email@cs.bham.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=kr40Kd8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Russell Beale - Google Scholar Citations"
+    }
+]

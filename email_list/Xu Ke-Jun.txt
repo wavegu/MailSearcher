@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail address: kkj-dep@tsinghua.edu.cn ... liang li; zhiqiang chen; li zhang; kejun kang, an exact reconstruction algorithm in variable pitch ... liang li; zhiqiang chen; ronglan xu; kejun kang; li zhang; xing yuxiang, a study of the...", 
+        "email_list": [
+            "kkj-dep@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201012171532178711273...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department Of Engineering Physics"
+    }, 
+    {
+        "content": "jun 10, 2014 - lan ke, ph.d., associate professor ... email: lanwoco@scu.edu.cn ... an-qi wang, bo-ping wei, yan zhang, yu-jun wang, liang xu, ke lan*.", 
+        "email_list": [
+            "lanwoco@scu.edu.cn"
+        ], 
+        "cite_url": "www.scu.edu.cn/medical/.../1400337323100914.htm", 
+        "cite_name": "Sichuan University", 
+        "title": "Lan Ke"
+    }
+]

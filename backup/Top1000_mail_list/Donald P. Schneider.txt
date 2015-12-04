@@ -1,3 +1,11 @@
-dschneider@schneiderlaw.net	[20]
-dps7@psu.edu	[4]
-dps7@psu.edu.donald	[4]
+[
+    {
+        "content": "donald schneider. main content. department head and distinguished professor. 525 davey lab university park, pa 16802. email: dps7@psu.edu.", 
+        "email_addr_list": [
+            "dps7@psu.edu"
+        ], 
+        "cite_url": "astro.psu.edu/people/dps7", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Donald Schneider — Penn State Department of Astronomy ..."
+    }
+]

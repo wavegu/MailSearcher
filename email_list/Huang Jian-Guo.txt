@@ -1,0 +1,56 @@
+[
+    {
+        "content": "may 20, 2015 - dr. jian-guo huang ... botanical garden of the chinese academy of sciences, guangzhou, china 510650 email:jianguo.huang@ualberta.ca...", 
+        "email_list": [
+            "jianguo.huang@ualberta.ca"
+        ], 
+        "cite_url": "www.cef-cfr.ca/index.php?n=Membres.JianguoHuang", 
+        "cite_name": "", 
+        "title": "Jianguo Huang - Centre détude de la forêt"
+    }, 
+    {
+        "content": "您现在所在的位置：首页师资队伍  教职人员  教授. 黄建国 jianguo huang ... e-mail：jghuang at sjtu.edu.cn. 教育背景 education：. 博士，1992，复旦大学. ph.d.", 
+        "email_list": [
+            "jghuang@sjtu.edu.cn"
+        ], 
+        "cite_url": "math.sjtu.edu.cn/Showt...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "黄建国 - 上海交通大学数学系"
+    }, 
+    {
+        "content": "mar 21, 2014 - huang jianguo. post. n/a. highest education. phd. office ... phone. 020-37264225. zip code. 510650. fax. n/a. email. huangjg@scbg.ac.cn...", 
+        "email_list": [
+            "huangjg@scbg.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_scib_cas/yw/rck/.../t20140321_4065414.html", 
+        "cite_name": "", 
+        "title": "Huang Jianguo----Chinese Academy of Sciences ,South ..."
+    }, 
+    {
+        "content": "email jian guo [guojian at ntu dot edu dot sg] for more information. this is also ... supervisor: huaxiong wang, school of physical and mathematical sciences", 
+        "email_list": [
+            "guojian@ntu.edu.sg"
+        ], 
+        "cite_url": "www.jguo.org/", 
+        "cite_name": "", 
+        "title": "Jian Guo"
+    }, 
+    {
+        "content": "email: jianguo.huang@ualberta.ca ... after the meeting, jianguo wu, xinyuan wu, and yegang wu (the “triple wu”) worked diligently and passionately to...", 
+        "email_list": [
+            "jianguo.huang@ualberta.ca"
+        ], 
+        "cite_url": "www.sino-eco.org/about_us.html", 
+        "cite_name": "", 
+        "title": "Contacts - Welcome to Sino-Ecologists Association ..."
+    }, 
+    {
+        "content": "tel: 6790 4882. location: s1-b4c-10. email: chew.ch@ntu.edu.sg. research interest: signal processing. huangjianguo.bmp, huang jianguo tel: 6790 6534", 
+        "email_list": [
+            "chew.ch@ntu.edu.sg"
+        ], 
+        "cite_url": "www.valens.eee.ntu.edu.sg/aboutUs/People/Pages/ResearchStaff.aspx", 
+        "cite_name": "", 
+        "title": "Research Staff"
+    }
+]

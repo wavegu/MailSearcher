@@ -1,0 +1,39 @@
+[
+    {
+        "content": "mohamed medhat gaber. reader, school of ... verified email at rgu.ac.uk - homepage  scholar ... pd haghighi, s krishnaswamy, a zaslavsky, mm gaber.", 
+        "email_list": [
+            "email@rgu.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EAGIF8gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mohamed Medhat Gaber - Google Scholar Citations"
+    }, 
+    {
+        "content": "mohamed medhat gaber. homepage: http://www.geocities.com/medhatgaber/ ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/mohamed_medhat_gaber/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Mohamed Medhat Gaber - VideoLectures.NET"
+    }, 
+    {
+        "content": "may 29, 2015 - dr mohamed medhat gaber reader, school of computing science and .... dr mohamed medhat gaber e-mail: m.gaber1@rgu.ac.uk webpage:...", 
+        "email_list": [
+            "m.gaber1@rgu.ac.uk"
+        ], 
+        "cite_url": "www.slideshare.net/MohamedMedhatGaber/mobile-data-stream-mining-f...", 
+        "cite_name": "", 
+        "title": "Mobile Data Stream Mining (Foundations) Mohamed ..."
+    }, 
+    {
+        "content": "portugal email: jgama@fep.up.pt. mohamed medhat gaber. school of computing. university of portsmouth. united kingdom email:mohamed.gaber@port.ac. uk.", 
+        "email_list": [
+            "jgama@fep.up.pt", 
+            "mohamed.gaber@port.ac"
+        ], 
+        "cite_url": "eprints.port.ac.uk/7834/1/PID2335351.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Mobile Data Stream Mining - University of Portsmouth"
+    }
+]

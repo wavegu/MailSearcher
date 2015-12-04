@@ -1,0 +1,38 @@
+[
+    {
+        "content": "professor jon hindmarsh. jonbest. jon hindmarsh is professor of work and interaction. ... professor of work and interaction email jon.hindmarsh@kcl.ac.uk", 
+        "email_list": [
+            "jon.hindmarsh@kcl.ac.uk"
+        ], 
+        "cite_url": "www.kcl.ac.uk/sspp/.../people/.../hindmarsh.aspx", 
+        "cite_name": "King's College London", 
+        "title": "Kings College London - Professor Jon Hindmarsh"
+    }, 
+    {
+        "content": "postal address: g.63. ground floor franklin-wilkins building waterloo. united kingdom. telephone: +44 (0)20 7848 4194. e-mail: jon.hindmarsh@kcl.ac.uk...", 
+        "email_list": [
+            "jon.hindmarsh@kcl.ac.uk"
+        ], 
+        "cite_url": "https://kclpure.kcl.ac.uk/portal/jon.hindmarsh.html", 
+        "cite_name": "King's College London", 
+        "title": "Jonathan Hindmarsh - Research Portal, Kings College ..."
+    }, 
+    {
+        "content": "jonathan jon hindmarsh is a coldwell banker residential brokerage real estate ... email. jon.hindmarsh@nemoves.com. phone. (617) 416-4781 mobile...", 
+        "email_list": [
+            "jon.hindmarsh@nemoves.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Jon Hindmarsh - Coldwell Banker"
+    }, 
+    {
+        "content": "jon hindmarsh. professor of work and ... verified email at kcl.ac.uk. scholar. get my own ... c heath, ms svensson, j hindmarsh, p luff, d vom lehn. computer...", 
+        "email_list": [
+            "email@kcl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9yXmyY4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jon Hindmarsh - Google Scholar Citations"
+    }
+]

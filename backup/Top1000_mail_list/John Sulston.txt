@@ -1,3 +1,29 @@
-john.sulston@manchester.ac.uk	[23]
-jes at sanger.ac.uk	[3]
-hsutherland@npg.org.uk	[2]
+[
+    {
+        "content": "professor sir john sulston. role: professor and chairman of isei. email: john.sulston@manchester.ac.uk. location: faculty of life sciences,2.08 williamson...", 
+        "email_addr_list": [
+            "john.sulston@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/john.sulston/", 
+        "cite_name": "University of Manchester", 
+        "title": "Professor Sir John Sulston research profile - personal details"
+    }, 
+    {
+        "content": "summary. photograph of professor sir john sulston ... email: john.sulston@manchester.ac.uk. website(s): institute for science, ethics and innovation...", 
+        "email_addr_list": [
+            "john.sulston@manchester.ac.uk"
+        ], 
+        "cite_url": "www.ls.manchester.ac.uk/.../profile/?alias=sulst...", 
+        "cite_name": "University of Manchester", 
+        "title": "Professor Sir John Sulston - Faculty of Life Sciences"
+    }, 
+    {
+        "content": "a genomic portrait: sir john sulston by marc quinn is the result of a remarkable .... tel 020 7312 2452 fax 020 7306 0058 email hsutherland@npg.org.uk.", 
+        "email_addr_list": [
+            "hsutherland@npg.org.uk"
+        ], 
+        "cite_url": "www.npg.org.uk  About uswww.google.com/email", 
+        "cite_name": "National Portrait Gallery, London", 
+        "title": "Sir John Sulston: A Genomic Portrait - National Portrait GalleryGoogle Business Email - Custom email for your company‎Searches related to John Sulston email"
+    }
+]

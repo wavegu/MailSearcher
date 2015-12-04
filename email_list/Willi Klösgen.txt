@@ -1,0 +1,20 @@
+[
+    {
+        "content": "willi klosgen: publications, bio, bibliography, etc. ... send us an email at hello@interaction-design.org or through our online contact form. or find us on:...", 
+        "email_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/willi-klosgen", 
+        "cite_name": "", 
+        "title": "Willi Klosgen - Interaction Design Foundation"
+    }, 
+    {
+        "content": "erinnerungen des zeitzeugen willi klösgen ... v.l.:willi u. maria berbuir, mathias u. eva klösgen, einquartierungssoldat .... email guenter@hgv-vettweiss.de.", 
+        "email_list": [
+            "guenter@hgv-vettweiss.de"
+        ], 
+        "cite_url": "https://www.hgv-vettweiss.de/.../willi_koesgen_infern...", 
+        "cite_name": "", 
+        "title": "Zeitzeuge Willi Klösgen und das flammende Inferno"
+    }
+]

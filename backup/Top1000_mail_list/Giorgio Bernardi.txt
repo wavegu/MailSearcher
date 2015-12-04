@@ -1,6 +1,39 @@
-gbernardi@uniroma3.it	[18]
-gbernardi at uniroma3.it	[18]
-bernardi@med.uniroma2.it	[17]
-contact@digitalfix.fr.giorgio	[1]
-contact@digitalfix.fr	[1]
-email at uniroma3.it	[1]
+[
+    {
+        "content": "giorgio bernardi. roma 3 ... verified email at uniroma3.it - homepage  scholar ... g bernardi, b olofsson, j filipski, m zerial, j salinas, g cuny, ... science 228...", 
+        "email_addr_list": [
+            "email@uniroma3.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=py2ns28AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Giorgio Bernardi - Google Scholar Citations"
+    }, 
+    {
+        "content": "phone : +39 335 405892 (mobile) +39 06 57336409 (office) email : gbernardi@uniroma3.it (office). technical director : digital fix email : contact@digitalfix.fr.", 
+        "email_addr_list": [
+            "gbernardi@uniroma3.it", 
+            "contact@digitalfix.fr"
+        ], 
+        "cite_url": "www.giorgiobernardi.eu/contact-2/", 
+        "cite_name": "", 
+        "title": "Contact Me | Giorgio Bernardis Website"
+    }, 
+    {
+        "content": "e-mail : gbernardi@uniroma3.it. present position/function : visiting professor, laboratory of theoretical biology and bioinformatics, dept. of biology, rome 3...", 
+        "email_addr_list": [
+            "gbernardi@uniroma3.it"
+        ], 
+        "cite_url": "www.giorgiobernardi.it/curriculum-vitae", 
+        "cite_name": "", 
+        "title": "Giorgio Bernardi : Curriculum Vitae"
+    }, 
+    {
+        "content": "nome. giorgio bernardi. indirizzo. telefono. 06 20903117. fax. 06 20903118. e-mail bernardi@med.uniroma2.it. nazionalità italiana. data di nascita.", 
+        "email_addr_list": [
+            "bernardi@med.uniroma2.it"
+        ], 
+        "cite_url": "www.ptvonline.it/file_allegati/.../bernardi_cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]GIORGIO BERNARDI 06 20903117 06 20903118 bernardi ..."
+    }
+]

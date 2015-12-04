@@ -1,3 +1,21 @@
-mjensen@hbs.edu	[2]
-duncan.moore@rochester.edu	[2]
-ronald.goettler@simon.rochester.edu	[1]
+[
+    {
+        "content": "email: duncan.moore@rochester.edu ... 585-275-8920. email: ronald.goettler@simon.rochester.edu ... william h. meckling professor of business administration", 
+        "email_addr_list": [
+            "duncan.moore@rochester.edu", 
+            "ronald.goettler@simon.rochester.edu"
+        ], 
+        "cite_url": "www.rochester.edu/team/community/faculty/", 
+        "cite_name": "University of Rochester", 
+        "title": "Faculty - University of Rochester"
+    }, 
+    {
+        "content": "email: mjensen@hbs.edu .... michael c. jensen  william h. meckling, 1999. .... jensen, michael c.  meckling, william h.  holderness, clifford g., 1986.", 
+        "email_addr_list": [
+            "mjensen@hbs.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pje57.html", 
+        "cite_name": "", 
+        "title": "Michael C. Jensen at IDEAS"
+    }
+]

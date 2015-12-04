@@ -1,0 +1,40 @@
+[
+    {
+        "content": "dr. guohua chen ... tel: (852)2358-7138 fax: (852)2358-0054 email: kechengh@ust.hk .... chen xueming (97-98) non-polluting restaurants in hong kong.", 
+        "email_list": [
+            "kechengh@ust.hk"
+        ], 
+        "cite_url": "ihome.ust.hk/~kechen...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Dr. Guohua Chen"
+    }, 
+    {
+        "content": "phone: (852) 2358 7122. fax: (852) 2358 0054. e-mail: kechengh@ust.hk ... wang, qiang., huang, li-ping., yu, hong-tao., quan, xie., chen, guo-hua.,...", 
+        "email_list": [
+            "kechengh@ust.hk"
+        ], 
+        "cite_url": "www.cbme.ust.hk/kec...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Guohua CHEN - Department of Chemical and Biomolecular ..."
+    }, 
+    {
+        "content": "guohua chen. the hong kong university of ... verified email at ust.hk. scholar. get my own profile ... h zhang, g chen, dw bahnemann. journal of materials...", 
+        "email_list": [
+            "email@ust.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ve0RR28AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Guohua Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "jan 13, 2009 - department email: cbme@ust.hk ... keung 2358-7124 keckchan@ust.hk chan, chi-ming 2358-7125 kecmchan@ust.hk chen, guohua...", 
+        "email_list": [
+            "cbme@ust.hk", 
+            "keckchan@ust.hk", 
+            "kecmchan@ust.hk"
+        ], 
+        "cite_url": "www.che.utexas.edu/...China/Hong-Kong-...", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "Hong Kong University of Science and Technology"
+    }
+]

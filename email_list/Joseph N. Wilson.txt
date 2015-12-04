@@ -1,0 +1,11 @@
+[
+    {
+        "content": "joseph n. wilson. professor of computer ... verified email at cise.ufl.edu. scholar. get my own ... jn wilson, p gader, wh lee, h frigui, kc ho. geoscience and...", 
+        "email_list": [
+            "email@cise.ufl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BJAXIbQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Joseph N. Wilson - Google Scholar Citations"
+    }
+]

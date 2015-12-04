@@ -1,0 +1,29 @@
+[
+    {
+        "content": "verified email at spin.cnr.it - homepage  scholar ... s picozzi, a continenza, aj freeman. physical ... a stroppa, p barone, p jain, jm perez‐mato, s picozzi.", 
+        "email_list": [
+            "email@spin.cnr.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=kxn6j1EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Silvia Picozzi - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at humanitas.it. scholar ... nv todd, p picozzi, ha crockard, rr russell ... m losa, l gioia, p picozzi, a franzin, m valle, m giovanelli, p mortini.", 
+        "email_list": [
+            "email@humanitas.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3nYlSdkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Piero Picozzi - Google Scholar Citations"
+    }, 
+    {
+        "content": "... corvi, director of public works84 upland road, barrington, ri 02806(p) 247-3788 (f) ... (p) 466-3203 (f) 466-2621 .... david picozzi, director of public works ... these listed towns and would like corrections made please email erin@ripwa.org.", 
+        "email_list": [
+            "erin@ripwa.org"
+        ], 
+        "cite_url": "www.ripwa.org/directory/public_works_officials", 
+        "cite_name": "", 
+        "title": "Rhode Island Public Works Association - Public Works ..."
+    }
+]

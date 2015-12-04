@@ -1,0 +1,4 @@
+rubin@stat.harvard.edu	[12]
+email at stat.harvard.edu	[3]
+fli@stat.duke.edu.a	[1]
+fli@stat.duke.edu	[1]

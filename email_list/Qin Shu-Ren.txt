@@ -1,0 +1,41 @@
+[
+    {
+        "content": "... agency (pmda) email: tominaga-toshiyoshi@pmda.go.jp ... email: wanglm@sfda.gov.cn; qin xiaoling ... email: jeff.shuren@fda.hhs.gov; kimberly trautman", 
+        "email_list": [
+            "tominaga-toshiyoshi@pmda.go.jp", 
+            "wanglm@sfda.gov.cn", 
+            "jeff.shuren@fda.hhs.gov"
+        ], 
+        "cite_url": "www.imdrf.org/about/mcma.asp", 
+        "cite_name": "", 
+        "title": "Management Committee members and alternates"
+    }, 
+    {
+        "content": "verified email at dsi.a-star.edu.sg - homepage  scholar. get my own profile ... kmma roy lao sahagun, shu qin ren, ho seng beng. international journal of...", 
+        "email_list": [
+            "email@dsi.a-star.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com.sg/citations?user=IC-dVmAAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Shuqin Ren - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: tmq@tmq.com.au. website: www.tmq.com.au. china. contact: shuren qin company: link ocean ... tel: +36 1 212 0707. email: info@ldeepresearch.hu", 
+        "email_list": [
+            "tmq@tmq.com.au", 
+            "info@ldeepresearch.hu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Sonavision, General Distributors"
+    }, 
+    {
+        "content": "jul 1, 2014 - email, : ren_shuqin@dsi.a-star.edu.sg ... shu qin ren, shu hao zhang , yong zhen chen , miguel rodel felipe , ya jun ha , khin mi mi...", 
+        "email_list": [
+            "ren_shuqin@dsi.a-star.edu.sg"
+        ], 
+        "cite_url": "https://researchers.a-star.e...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "Dr Ren, Shuqin - User Profile - A Star"
+    }
+]

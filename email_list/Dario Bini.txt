@@ -1,0 +1,11 @@
+[
+    {
+        "content": "d.a. bini dario andrea bini professor of numerical analysis. phone: +39 050 2213 279. fax: +39 050 2213 224. e-mail: bini [at] dm.unipi.it. research  teaching...", 
+        "email_list": [
+            "bini@dm.unipi.it"
+        ], 
+        "cite_url": "www.dm.unipi.it/~bini/", 
+        "cite_name": "University of Pisa", 
+        "title": "Dario A. Binis home page - Dipartimento di Matematica"
+    }
+]

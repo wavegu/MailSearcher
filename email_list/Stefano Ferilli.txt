@@ -1,0 +1,74 @@
+[
+    {
+        "content": "stefano ferillis homepage. research interests: logic and ... eng. stefano ferilli, phd. associate professor ... fax: +39 80 5442031 email: ferilli@di.uniba.it...", 
+        "email_list": [
+            "ferilli@di.uniba.it"
+        ], 
+        "cite_url": "lacam.di.uniba.it/~ferilli/.../ferilli...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Stefano Ferillis Home Page - LACAM"
+    }, 
+    {
+        "content": "dipartimento di informatica  universita di bari via e. orabona, 4 70126 bari - italy. phone: +39 80 5442293 fax: +39 80 5443196 email: stefano.ferilli@uniba.it...", 
+        "email_list": [
+            "stefano.ferilli@uniba.it"
+        ], 
+        "cite_url": "lacam.di.unib...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Stefano Ferilli - Courses - LACAM"
+    }, 
+    {
+        "content": "ing. stefano ferilli, phd ... email: stefano.ferilli@uniba.it ... s. ferilli - realizzare un gioco davventura con esercitazioni di algoritmi e strutture dati - the boopen...", 
+        "email_list": [
+            "stefano.ferilli@uniba.it"
+        ], 
+        "cite_url": "lacam.di.unib...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Stefano Ferilli - Corso di Algoritmi e Strutture Dati - LACAM"
+    }, 
+    {
+        "content": "ing. stefano ferilli, phd ... email: stefano.ferilli@uniba.it ... s. ferilli - realizzare un gioco davventura con esercitazioni di algoritmi e strutture dati - the boopen", 
+        "email_list": [
+            "stefano.ferilli@uniba.it"
+        ], 
+        "cite_url": "lacam.di.unib...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Stefano Ferilli - Corso di Linguaggi di Programmazione"
+    }, 
+    {
+        "content": "ing. stefano ferilli, phd. professore associato. dipartimento di ... phone: +39 080 5442293 fax: +39 080 5442031 email: stefano.ferilli@uniba.it. stefano ferilli...", 
+        "email_list": [
+            "stefano.ferilli@uniba.it"
+        ], 
+        "cite_url": "lacam.di.unib...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Stefano Ferilli - Corso di Informatica (CdL in Scienze ..."
+    }, 
+    {
+        "content": "eng. stefano ferilli, phd ... email: ferilli@di.uniba.it  english version. curriculum vitae. curriculum completo (pdf). stefano ferilli, nato il 12.10.1972. position:.", 
+        "email_list": [
+            "ferilli@di.uniba.it"
+        ], 
+        "cite_url": "lacam.di.unib...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Home Page di Stefano Ferilli - LACAM"
+    }, 
+    {
+        "content": "stefano ferilli phd in computer science. dipartimento di informatica ... phone: +39 80 5442293 fax: +39 80 5443196 email: ferilli@di.uniba.it. stefano ferilli...", 
+        "email_list": [
+            "ferilli@di.uniba.it"
+        ], 
+        "cite_url": "lacam.di.unib...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Stefano Ferilli - Courses - LACAM"
+    }, 
+    {
+        "content": "stefano ferilli. professor of computer ... verified email at di.uniba.it. scholar ... f esposito, d malerba, g semeraro, s ferilli, o altamura, t basile, ... document...", 
+        "email_list": [
+            "email@di.uniba.it"
+        ], 
+        "cite_url": "scholar.google.it/citations?user...hl=en", 
+        "cite_name": "Google", 
+        "title": "Stefano Ferilli - Google Scholar Citations"
+    }
+]

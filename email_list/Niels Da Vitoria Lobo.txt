@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: niels@cs.ucf.edu. publications. book chapters kocak d., da vitoria lobo n., and widder e., ``computer vision techniques for analyzing bioluminescent...", 
+        "email_list": [
+            "niels@cs.ucf.edu"
+        ], 
+        "cite_url": "crcv.ucf.edu/people/faculty/nielslobo.html", 
+        "cite_name": "University of Central Florida", 
+        "title": "Niels da Vitoria Lobo - CRCV - University of Central Florida"
+    }, 
+    {
+        "content": "niels da vitoria lobo. eecs – computer science. 407-823-2873. niels@cs.ucf.edu. harris engineering center (bldg. 116) 252. download cv  download high...", 
+        "email_list": [
+            "niels@cs.ucf.edu"
+        ], 
+        "cite_url": "www.cecs.ucf.ed...", 
+        "cite_name": "University of Central Florida College of Engineering a...", 
+        "title": "Niels Da Vitoria Lobo « CECS"
+    }, 
+    {
+        "content": "niels haering. director of visioneering ... verified email at sensorson.com. scholar. get my own profile ... n haering, n da vitoria lobo. computer vision and...", 
+        "email_list": [
+            "email@sensorson.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=APbMsXQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Niels Haering - Google Scholar Citations"
+    }
+]

@@ -1,3 +1,29 @@
-frieman@fnal.gov	[16]
-frieman at fnal.gov	[16]
-huterer@umich.edu	[1]
+[
+    {
+        "content": "josh frieman is a senior staff member (scientist iii) in the theoretical astrophysics ... contact information: e-mail address: frieman at fnal.gov; telephone: (630)...", 
+        "email_addr_list": [
+            "frieman@fnal.gov"
+        ], 
+        "cite_url": "home.fnal.gov/~frieman/", 
+        "cite_name": "Fermilab", 
+        "title": "Josh Frieman - Fermilab"
+    }, 
+    {
+        "content": "frieman, joshua a. particle physics division, astrophysics department, astro-theory. email: frieman@fnal.gov. mail station: 209 (wh 6w).", 
+        "email_addr_list": [
+            "frieman@fnal.gov"
+        ], 
+        "cite_url": "www-tele.fnal.gov/cgi-bin/telephone.script?...JOSHUA", 
+        "cite_name": "Fermilab", 
+        "title": "joshua - Fermilab Telephone Directory"
+    }, 
+    {
+        "content": "joshua a. frieman ... kavli institute for cosmological physics, the university of chicago, 5640 s. ellis ave., chicago, il 60637; email: frieman@fnal.gov...", 
+        "email_addr_list": [
+            "frieman@fnal.gov"
+        ], 
+        "cite_url": "https://ned.ipac.caltech.edu/.../Frieman/...", 
+        "cite_name": "California Institute of Technology", 
+        "title": "Dark Energy and the Accelerating Universe - J.A. Frieman et ..."
+    }
+]

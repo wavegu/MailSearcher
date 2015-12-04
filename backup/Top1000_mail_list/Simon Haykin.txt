@@ -1,4 +1,29 @@
-haykin@mcmaster.ca	[13]
-haykin@mcmaster.ca.simon	[13]
-email at mcmaster.ca	[2]
-dbatovski@au.edu	[2]
+[
+    {
+        "content": "dr. simon haykin, b.sc., ph.d., d.sc. f.r.s.c., f.i.e.e.e.. distinguished university professor director of cognitive systems laboratory haykin@mcmaster.ca.", 
+        "email_addr_list": [
+            "haykin@mcmaster.ca"
+        ], 
+        "cite_url": "soma.mcmaster.ca/haykin.php", 
+        "cite_name": "McMaster University", 
+        "title": "Dr. Simon Haykin - Cognitive Systems Laboratory ..."
+    }, 
+    {
+        "content": "verified email at mcmaster.ca - homepage  scholar ... neural networks: a comprehensive foundation. s haykin. neural networks, 1998 ... mm simon haykin.", 
+        "email_addr_list": [
+            "email@mcmaster.ca"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=3O8pxfQAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Prof. Simon Haykin - Google Scholar Citations"
+    }, 
+    {
+        "content": "... thailand e-mail: dbatovski@au.edu the book entitled “digital communication systems”, first edition, by simon haykin (2014) was published by john wiley...", 
+        "email_addr_list": [
+            "dbatovski@au.edu"
+        ], 
+        "cite_url": "www.academia.edu/.../A_Conceptual_Review_of_Digital_...", 
+        "cite_name": "Academia.edu", 
+        "title": "Digital Communication Systems (Author: Simon Haykin ..."
+    }
+]

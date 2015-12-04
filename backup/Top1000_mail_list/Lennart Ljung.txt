@@ -1,3 +1,29 @@
-ljung@isy.liu.se	[12]
-email at isy.liu.se	[3]
-support@ieeecss.org	[1]
+[
+    {
+        "content": "create alert. cancel. lennart ljung ... verified email at isy.liu.se - homepage  scholar ... j sjöberg, q zhang, l ljung, a benveniste, b delyon, py glorennec, .", 
+        "email_addr_list": [
+            "email@isy.liu.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2lo28DgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Lennart Ljung - Google Scholar Citations"
+    }, 
+    {
+        "content": "lennart ljung, professor of electrical engineering at the linköping university in ... email: support@ieeecss.org. affiliation: linkopings universitets. position:.", 
+        "email_addr_list": [
+            "support@ieeecss.org"
+        ], 
+        "cite_url": "www.ieeecss.org/contacts/lennart-ljung", 
+        "cite_name": "IEEE Control Systems Society", 
+        "title": "Lennart Ljung | IEEE Control Systems Society"
+    }, 
+    {
+        "content": "lennart ljung. department of electrical engineering, link oping university. link oping, sweden. email: ljung@isy.liu.se. 1. introduction. to write a \\history...", 
+        "email_addr_list": [
+            "ljung@isy.liu.se"
+        ], 
+        "cite_url": "liu.diva-portal.org/smash/get/diva2:316008/FULLTEXT01.ps", 
+        "cite_name": "", 
+        "title": "[PS]DEVELOPMENT OF SYSTEM IDENTIFICATION Lennart ..."
+    }
+]

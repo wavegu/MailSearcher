@@ -1,0 +1,42 @@
+[
+    {
+        "content": "andreas l. symeonidis. assistant professor of ... verified email at eng.auth.gr - homepage  scholar ... pa mitkas, d kehagias, al symeonidis, in athanasiadis.", 
+        "email_list": [
+            "email@eng.auth.gr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=339uVZQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andreas L. Symeonidis - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. eng. andreas l. symeonidis assistant professor electrical and computer ... e-mail. asymeon@eng.auth.gr asymeon@iti.gr asymeon@issel.ee.auth.gr.", 
+        "email_list": [
+            "asymeon@eng.auth.gr", 
+            "asymeon@iti.gr", 
+            "asymeon@issel.ee.auth.gr"
+        ], 
+        "cite_url": "www.scasefp7.eu/contact/", 
+        "cite_name": "", 
+        "title": "Contact | SCASE"
+    }, 
+    {
+        "content": "andreas l. symeonidis, aristotle university of thessaloniki, greece ... email: admi13@agentmining.orgadmi13@agentmining.orgthis email address is being...", 
+        "email_list": [
+            "admi13@agentmining.orgadmi", 
+            "13@agentmining.orgthis"
+        ], 
+        "cite_url": "datamining.it.uts.edu.au/conferences/admi13/callfor.html", 
+        "cite_name": "", 
+        "title": "Call for Papers - Data Sciences and Knowledge Discovery ..."
+    }, 
+    {
+        "content": "apr 10, 2013 - email: ronenf@gmail.com ... email: dumitru roman (dumitru.roman@deri.org) ... andreas l. symeonidis and pericles a. mitkas. aristotle...", 
+        "email_list": [
+            "ronenf@gmail.com", 
+            "dumitru.roman@deri.org"
+        ], 
+        "cite_url": "www.comp.hkbu.edu.hk/iwi06/iat/?index=tutorial", 
+        "cite_name": "", 
+        "title": "The 2006 IEEE / WIC / ACM International Conference on ..."
+    }
+]

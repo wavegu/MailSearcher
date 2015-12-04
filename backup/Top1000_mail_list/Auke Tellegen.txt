@@ -1,5 +1,47 @@
-cpatrick@psy.fsu.edu	[3]
-telle001@umn.edu	[2]
-carmel@univ.haifa.ac.il	[2]
-reise@psych.ucla.edu	[1]
-fspin@uni-bielefeld.de	[1]
+[
+    {
+        "content": "... better results. you may also search by internet id—the part before the @ of an email address. auke tellegen ... email address: telle001@umn.edu. web page...", 
+        "email_addr_list": [
+            "telle001@umn.edu"
+        ], 
+        "cite_url": "www.umn.edu/lookup?UID=telle001", 
+        "cite_name": "University of Minnesota", 
+        "title": "Auke Tellegen - University of Minnesota Twin Cities"
+    }, 
+    {
+        "content": "e-mail: reise@psych.ucla.edu ... of the early pioneers of irt-based computerized adaptive testing, and the renowned personality researcher, auke tellegen.", 
+        "email_addr_list": [
+            "reise@psych.ucla.edu"
+        ], 
+        "cite_url": "https://www.psych.ucla.edu/.../sreis...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Steven Paul Reise - Faculty Page | UCLA Psychology ..."
+    }, 
+    {
+        "content": "2003 rc scales test monograph: auke tellegen, ph.d.,yossef s. ben-porath, ph.d., ... yossef s. ben-porath, ph.d., john r. graham, ph.d., auke tellegen, ph.d. ... tel: 972-4-8288500 | fax: 972-4-8288499 | e-mail: carmel@univ.haifa.ac.il", 
+        "email_addr_list": [
+            "carmel@univ.haifa.ac.il"
+        ], 
+        "cite_url": "carmel-ltd.haifa.ac.il/index.php?option...", 
+        "cite_name": "University of Haifa", 
+        "title": "MMPI - Carmel Ltd"
+    }, 
+    {
+        "content": "email: cpatrick@psy.fsu.edu; auke tellegen, department of psychology, university of minnesota, elliott hall, 75 east river road, minneapolis, mn 55455, usa.", 
+        "email_addr_list": [
+            "cpatrick@psy.fsu.edu"
+        ], 
+        "cite_url": "asm.sagepub.com/content/20/4/405?patientinform...", 
+        "cite_name": "Sage Publications", 
+        "title": "Development and Preliminary Validation of a Simplified ..."
+    }, 
+    {
+        "content": "tellegen, a. (1978/1982) brief manual of the multidimensional personality. questionnaire. ... dr. auke tellegen, university of minnesota, department of psychology, n218 elt. h., 75 e. river rd., ... email: fspin@uni-bielefeld.de. telefon: (0521)...", 
+        "email_addr_list": [
+            "fspin@uni-bielefeld.de"
+        ], 
+        "cite_url": "https://www.dgps.de/.../diff_psy/.../Persoenlichkeit.pdfwww.google.com/email", 
+        "cite_name": "", 
+        "title": "[PDF]Persönlichkeit - MPQ - Dgps.deGoogle Business Email - Custom email for your company‎"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "madison, wi 53706 u. s. a.. 2413 engineering hall phone number: 1+(608) 262 1073 fax number: 1+(608) 262 1267 email: hu@engr.wisc.edu...", 
+        "email_list": [
+            "hu@engr.wisc.edu"
+        ], 
+        "cite_url": "www.ece.wisc.edu/~hu/", 
+        "cite_name": "", 
+        "title": "Yu Hen Hu - Electrical and Computer Engineering (ECE)"
+    }, 
+    {
+        "content": "yu hen hu. professor of electrical and ... verified email at engr.wisc.edu - homepage  scholar. get my own ... yh hu, s palreddy, wj tompkins. biomedical...", 
+        "email_list": [
+            "email@engr.wisc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5CAjat0AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yu Hen Hu - Google Scholar Citations"
+    }, 
+    {
+        "content": "... http://eivind.imm.dtu.dk/nnsp99 exceptionally, in case of mail submission, ... chair yu hen hu university of wisonsin-madison email: hu@ece.wisc.edu...", 
+        "email_list": [
+            "hu@ece.wisc.edu"
+        ], 
+        "cite_url": "cogsys.imm.dtu.dk/nnsp99/cfp.txt", 
+        "cite_name": "", 
+        "title": "Download - DTU Compute"
+    }
+]

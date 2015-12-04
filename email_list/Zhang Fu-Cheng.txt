@@ -1,0 +1,57 @@
+[
+    {
+        "content": "aug 11, 2009 - 010-88369220. zip code. 100044. fax. 010-68337001. email. fc@ivpp.ac.cn ... zhang fucheng, zhou zhonghe, hou lianhai, gu gang, 2001.", 
+        "email_list": [
+            "fc@ivpp.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "ZHANG Fucheng"
+    }, 
+    {
+        "content": "... 86-27-87280408. email: chengguofu@mail.hzau.edu.cn or mybingli1@gmail.com ... zhang wanpo，gu changqin，bi dingren，song nianhua，cheng guofu.", 
+        "email_list": [
+            "chengguofu@mail.hzau.edu.cn", 
+            "mybingli1@gmail.com"
+        ], 
+        "cite_url": "my.hzau.edu.cn/Article/.../The%20resume%20of%20Guofu%20Cheng.d...", 
+        "cite_name": "", 
+        "title": "[DOC]Guo-fu Cheng, M"
+    }, 
+    {
+        "content": "m.s. in biochemistry, miami university, ohio. email: sowmya at caltech dot edu. fu-cheng george liang ... xin zhang. rumana rashid. vinh lam. peera jaru-...", 
+        "email_list": [
+            "sowmya@caltech.edu"
+        ], 
+        "cite_url": "shangroup.caltech.edu/People.html", 
+        "cite_name": "California Institute of Technology", 
+        "title": "People - Shan Research Group"
+    }, 
+    {
+        "content": "domain report for fucheng zhang, 404994180@qq.com, associated with 4 domains and 4 emails.", 
+        "email_list": [
+            "404994180@qq.com"
+        ], 
+        "cite_url": "www.domainiq.com/name?fucheng_zhang", 
+        "cite_name": "", 
+        "title": "fucheng zhang - domainIQ"
+    }, 
+    {
+        "content": "nov 12, 2010 - zhi-lin yuan, chu-long zhang, fu-cheng lin*, role of diverse ..... tang road hangzhou zhejiang china email:nxyyb@zju.edu.cn telfax:...", 
+        "email_list": [
+            "nxyyb@zju.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Fucheng Lin - Professor - COLLEGE OF AGRICULTURE ..."
+    }, 
+    {
+        "content": "jan 27, 2010 - fucheng zhang, stuart l. kearns, patrick j. orr, michael j. benton, ... be addressed to m.j.b. (email: mike.benton@bristol.ac.uk) and z.z....", 
+        "email_list": [
+            "mike.benton@bristol.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Fossilized melanosomes and the colour of Cretaceous ..."
+    }
+]

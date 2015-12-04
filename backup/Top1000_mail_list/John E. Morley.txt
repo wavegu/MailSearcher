@@ -1,7 +1,57 @@
-morley@slu.edu.john	[14]
-morley@slu.edu	[14]
-email at slu.edu	[3]
-agingsuccess@slu.edu	[2]
-agingsuccess@slu.edusarcopenia	[2]
-agingsuccess@slu.edujohn	[2]
-elspcs@elsevier.com	[2]
+[
+    {
+        "content": "john e. morley md, bch. saint louis university medical ... fax: (314) 771-8575. e-mail: morley@slu.edu ... fax: 314-447-8077. e-mail: elspcs@elsevier.com...", 
+        "email_addr_list": [
+            "morley@slu.edu", 
+            "elspcs@elsevier.com"
+        ], 
+        "cite_url": "www.jamda.com/...", 
+        "cite_name": "Journal of the American Medical Directors Association", 
+        "title": "Contact Information - Journal of the American Medical ..."
+    }, 
+    {
+        "content": "john e. morley, md, bch, st. louis university medical center, div. of geriatric medicine, 1402 s. grand boulevard, room m238, ... email: morley@slu.edu...", 
+        "email_addr_list": [
+            "morley@slu.edu"
+        ], 
+        "cite_url": "www.jamda.com/...", 
+        "cite_name": "Journal of the American Medical Directors Association", 
+        "title": "Editorial Board - Journal of the American Medical Directors ..."
+    }, 
+    {
+        "content": "enter search... : you are here: geriatrics home » faculty » john e. morley, m.b. b.ch ... john e. morley, m.b. b.ch ... email: agingsuccess@slu.edu", 
+        "email_addr_list": [
+            "agingsuccess@slu.edu"
+        ], 
+        "cite_url": "internalmed.slu.edu/.../index.php?...john-e-morley...", 
+        "cite_name": "Saint Louis University", 
+        "title": "John E. Morley, M.B. B.Ch - Department of Internal Medicine"
+    }, 
+    {
+        "content": "dr. john e. morley, known internationally as a gerontological researcher, clinician, and educator, ... in addition to extensive personal scientific achievements, dr. morley has directed the clinical training .... email: agingsuccess@slu.edu", 
+        "email_addr_list": [
+            "agingsuccess@slu.edu"
+        ], 
+        "cite_url": "internalmed.slu.edu/geriatrics/", 
+        "cite_name": "Saint Louis University", 
+        "title": "Division of Geriatrics - Department of Internal Medicine"
+    }, 
+    {
+        "content": "↵*correspondence to john e morley, division of geriatric medicine, saint louis ... grand boulevard, m238, st louis, mo 63104, usa; e-mail: morley@slu.edu.", 
+        "email_addr_list": [
+            "morley@slu.edu"
+        ], 
+        "cite_url": "fampra.oxfordjournals.org/content/29/suppl_1/i44.abstract", 
+        "cite_name": "", 
+        "title": "Sarcopenia in the elderly - Family Practice - Oxford Journals"
+    }, 
+    {
+        "content": "john morley. professor of geriatrics, st ... verified email at slu.edu. scholar ... je morley, e charlton, p patrick, fe kaiser, p cadeau, d mccready, ... metabolism...", 
+        "email_addr_list": [
+            "email@slu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wC_k2-4AAAAJ...www.google.com/emailwww.spokeo.com/John.Email.Search.Free", 
+        "cite_name": "Google Scholar", 
+        "title": "John Morley - Google Scholar CitationsGoogle Business Email‎Found: Johns Email - Lookup Johns Email Address‎"
+    }
+]

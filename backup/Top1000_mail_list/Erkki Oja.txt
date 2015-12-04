@@ -1,6 +1,31 @@
-erkki.oja@hut.fi	[17]
-erkki.oja at aalto.fi	[17]
-email at aalto.fi	[3]
-xavier@idsia.ch	[2]
-juha.karhunen@hut.fi	[2]
-kimmo.kiviluoto@hut.fi	[2]
+[
+    {
+        "content": "email: erkki.oja@hut.fi. march 17, 2010. references. a. textbooks: [1] oja, e.: subspace methods of pattern recog-. nition. letchworth, england: research stud...", 
+        "email_addr_list": [
+            "erkki.oja@hut.fi"
+        ], 
+        "cite_url": "https://users.ics.aalto.fi/oja/julk.ps", 
+        "cite_name": "Aalto University", 
+        "title": "[PS]Prof. Erkki Oja, Aalto University Email: erkki.oja@hut.fi ..."
+    }, 
+    {
+        "content": "cancel. erkki oja. professor of computer science and engineering, aalto university ... verified email at aalto.fi. scholar ... a hyvärinen, j karhunen, e oja.", 
+        "email_addr_list": [
+            "email@aalto.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5m2QIMQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Erkki Oja - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: xavier@idsia.ch, juha.karhunen@hut.fi, erkki.oja@hut.fi. abstract. in this paper, we compare the performance of ve prominent neural or semi-neural...", 
+        "email_addr_list": [
+            "xavier@idsia.ch", 
+            "juha.karhunen@hut.fi", 
+            "erkki.oja@hut.fi"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.8535...", 
+        "cite_name": "", 
+        "title": "[PDF]Email: xavier@idsia.ch, Juha.Karhunen@hut.fi, Erkki.Oja ..."
+    }
+]

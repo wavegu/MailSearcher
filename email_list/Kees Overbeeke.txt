@@ -1,0 +1,11 @@
+[
+    {
+        "content": "gerda smets, chairman, tu delft; astrid kappers, universiteit utrecht; kees overbeeke, tu delft; pieter jan stappers, tu delft ... email: ewep4@io.tudelft.nl.", 
+        "email_list": [
+            "ewep4@io.tudelft.nl"
+        ], 
+        "cite_url": "www.trincoll.edu/depts/ecopsyc/ewep4.html", 
+        "cite_name": "Trinity College", 
+        "title": "EWEP4"
+    }
+]

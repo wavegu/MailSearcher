@@ -1,2 +1,20 @@
-mstein@ucsd.edu	[12]
-email at ucsd.edu	[3]
+[
+    {
+        "content": "email: mstein@ucsd.edu. murray b stein md, mph, frcpc is professor of psychiatry and family  preventive medicine at the university of california san...", 
+        "email_addr_list": [
+            "mstein@ucsd.edu"
+        ], 
+        "cite_url": "www.veryshy.org/about/", 
+        "cite_name": "", 
+        "title": "About Murray B Stein MD, MPH, FRCPC - Very Shy UC San ..."
+    }, 
+    {
+        "content": "cancel. murray b. stein. university of california ... verified email at ucsd.edu. scholar ... mb stein, c koverola, c hanna, mg torchia, b mcclarty. psychological...", 
+        "email_addr_list": [
+            "email@ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HJRhHOkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Murray B. Stein - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at yahoo-inc.com - homepage  scholar ... d carmel, n zwerdling, i guy, s ofek-koifman, n harel, i ronen, e uziel, ... proceedings of the 18th...", 
+        "email_list": [
+            "email@yahoo-inc.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iiXF7KkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ido Guy - Google Scholar Citations"
+    }, 
+    {
+        "content": "organization. ido guy. ibm haifa research lab. haifa university, mt carmel ido@il.ibm.com ... data sources, such as email, im, and phone calls, to information...", 
+        "email_list": [
+            "ido@il.ibm.com"
+        ], 
+        "cite_url": "research.ihost.com/cscw08.../papers/guy-soroka_cscw08_workshop.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Mining and Utilizing Social Networks within the Organization"
+    }
+]

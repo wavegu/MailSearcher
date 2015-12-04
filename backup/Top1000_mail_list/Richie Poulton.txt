@@ -1,4 +1,47 @@
-richie.poulton@dmhdru.otago.ac.nz	[27]
-richie.poulton@otago.ac.nz	[27]
-moana.theodore@otago.ac.nz	[2]
-dmhdru@otago.ac.nz	[2]
+[
+    {
+        "content": "email richie.poulton@otago.ac.nz ... for more detailed information about the research that richie has lead in the dunedin longitudinal study, you can visit the...", 
+        "email_addr_list": [
+            "richie.poulton@otago.ac.nz"
+        ], 
+        "cite_url": "www.otago.ac.nz/psychology/research/richiepoulton", 
+        "cite_name": "University of Otago", 
+        "title": "Professor Richie Poulton Research Interests, Research ..."
+    }, 
+    {
+        "content": "email: richie.poulton@otago.ac.nz. tel: +64 3 479 8507. professor richie poulton is the director of the dunedin multidisciplinary health and development...", 
+        "email_addr_list": [
+            "richie.poulton@otago.ac.nz"
+        ], 
+        "cite_url": "www.nclr.org.nz/our-people", 
+        "cite_name": "", 
+        "title": "Our People | National Centre For Lifecourse Research"
+    }, 
+    {
+        "content": "author id, 148. name: poulton, richie. email: richie.poulton@dmhdru.otago.ac.nz. web page: http://hs3.otago.ac.nz/hs_staff/dmhdru/fmpro?", 
+        "email_addr_list": [
+            "richie.poulton@dmhdru.otago.ac.nz"
+        ], 
+        "cite_url": "papers.ccpr.ucla.edu/abstractauthor....", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Author Information - CCPR Working Paper Series"
+    }, 
+    {
+        "content": "dunedin study director, professor richie poulton, says “encouraging lifestyle changes beginning early in life ... email moana.theodore@otago.ac.nz. professor...", 
+        "email_addr_list": [
+            "moana.theodore@otago.ac.nz"
+        ], 
+        "cite_url": "www.moffittcaspi.com/.../Press%20release%20-%20Systolic%20blood%...", 
+        "cite_name": "", 
+        "title": "[PDF]Press release"
+    }, 
+    {
+        "content": "richie poultons picture. pic: professor richie poulton. affiliation: university of otago ... contact email: dmhdru@otago.ac.nz. telephone: 03 479 8507. about:.", 
+        "email_addr_list": [
+            "dmhdru@otago.ac.nz"
+        ], 
+        "cite_url": "www.scientists.org.nz/member/richie-poulton", 
+        "cite_name": "", 
+        "title": "Professor Richie Poulton - www.scientists.org.nz"
+    }
+]

@@ -1,1 +1,11 @@
-eugene.fama@gsb.uchicago.edu	[22]
+[
+    {
+        "content": "first name: eugene. middle name: f. last name: fama. suffix: sr. repec short-id: pfa110. email: eugene.fama@gsb.uchicago.edu. homepage:.", 
+        "email_addr_list": [
+            "eugene.fama@gsb.uchicago.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pfa110.html", 
+        "cite_name": "", 
+        "title": "Eugene F. Fama Sr. at IDEAS"
+    }
+]

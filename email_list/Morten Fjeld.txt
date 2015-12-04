@@ -1,0 +1,11 @@
+[
+    {
+        "content": "25, ch-8092 zurich, switzerland e-mail: morten@fjeld.ch *corresponding author martin morf university of windsor, windsor, canada, n9b 3p4 e-mail:...", 
+        "email_list": [
+            "morten@fjeld.ch"
+        ], 
+        "cite_url": "www.pdffiller.com/13886323-ijhrdmpdf-Activity-theory-and-the-practic...", 
+        "cite_name": "", 
+        "title": "Fillable Online Activity theory and the practice of design ..."
+    }
+]

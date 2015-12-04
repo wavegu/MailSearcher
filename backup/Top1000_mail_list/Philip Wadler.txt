@@ -1,1 +1,11 @@
-email at inf.ed.ac.uk	[1]
+[
+    {
+        "content": "create alert. cancel. philip wadler ... verified email at inf.ed.ac.uk - homepage  scholar ... p hudak, s peyton jones, p wadler, b boutel, j fairbairn, j fasel, .", 
+        "email_addr_list": [
+            "email@inf.ed.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Iz-3VFQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Philip Wadler - Google Scholar Citations"
+    }
+]

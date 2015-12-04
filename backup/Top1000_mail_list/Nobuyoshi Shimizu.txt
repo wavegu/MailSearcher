@@ -1,3 +1,21 @@
-shimizu@dmb.med.keio.ac.jp	[15]
-shimizu@dmb.med.kei	[15]
-kawamura@dmb.med.keio.ac.jp	[1]
+[
+    {
+        "content": "correspondence to: nobuyoshi shimizu correspondence and requests for materials should be addressed to n.s. (e-mail: email: shimizu@dmb.med.keio.ac.jp).", 
+        "email_addr_list": [
+            "shimizu@dmb.med.keio.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Mutations in the : parkin: gene cause autosomal recessive ..."
+    }, 
+    {
+        "content": "search email number information data on the internet ... takashi kawamura nobuyoshi shimizu kawamura@dmb.med.keio.ac.jp shimizu@dmb.med.keio.ac.jp...", 
+        "email_addr_list": [
+            "kawamura@dmb.med.keio.ac.jp", 
+            "shimizu@dmb.med.keio.ac.jp"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-shimizu-dmb-med-kei-1620299...www.google.com/email", 
+        "cite_name": "", 
+        "title": "shimizu@dmb.med.kei - The Email ArchiveGoogle Business Email‎"
+    }
+]

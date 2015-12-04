@@ -1,0 +1,31 @@
+[
+    {
+        "content": "dilek z. hakkani-tür. home. short bio. cv  personal. microsoft research mountain view, ca 94043, united states 510-303-0135 (phone) dilek@ieee.org.", 
+        "email_list": [
+            "dilek@ieee.org"
+        ], 
+        "cite_url": "www.icsi.berkeley.edu/~dilek/", 
+        "cite_name": "", 
+        "title": "Dilek Z. Hakkani-Tur"
+    }, 
+    {
+        "content": "verified email at ieee.org - homepage ... e shriberg, a stolcke, d hakkani-tür, g tür ... n gupta, g tur, d hakkani-tur, s bangalore, g riccardi, m gilbert.", 
+        "email_list": [
+            "email@ieee.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GMcL_9kAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Dilek Hakkani-Tur - Google Scholar Citations"
+    }, 
+    {
+        "content": "dilek z. hakkani-tür  dtur@research.att.com (1); kemal oflazer  oflazer@sabanciuniv.edu (2); gökhan tür  gtur@research.att.com) (1). author affiliations. 1.", 
+        "email_list": [
+            "dtur@research.att.com", 
+            "oflazer@sabanciuniv.edu", 
+            "gtur@research.att.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1023%2FA%3...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Statistical Morphological Disambiguation for Agglutinative ..."
+    }
+]

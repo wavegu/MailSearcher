@@ -1,6 +1,58 @@
-klausmosbach@gmail.klaus	[25]
-klausmosbach@gmail.com	[25]
-klaus.mosbach@tbiokem.lth.se	[25]
-klaus.mosbach@tbiokem.lth	[25]
-klausmosbach@compuserve.com	[25]
-email at tbiokem.lth.se	[3]
+[
+    {
+        "content": "email klaus.mosbach@tbiokem.lth. follow me. address. center for molecular imprinting ... klausmosbach@gmail.com. klaus.mosbach@tbiokem.lth.se. follow me.", 
+        "email_addr_list": [
+            "klaus.mosbach@tbiokem.lth", 
+            "klausmosbach@gmail.com", 
+            "klaus.mosbach@tbiokem.lth"
+        ], 
+        "cite_url": "www.klausmosbach.com/#!contact/c1d94", 
+        "cite_name": "", 
+        "title": "Klaus Mosbach Homepage | CONTACT"
+    }, 
+    {
+        "content": "klaus mosbach. e-mail: klaus.mosbach@tbiokem.lth.se. professor emeritus at pure and applied biochemistry. telephone number: +46 46 222 82 60.", 
+        "email_addr_list": [
+            "klaus.mosbach@tbiokem.lth.se"
+        ], 
+        "cite_url": "www.lunduniversity.lu.se/.../b5bcdbd32208c92fa8a659...", 
+        "cite_name": "Lund University", 
+        "title": "Klaus Mosbach | Lund University"
+    }, 
+    {
+        "content": "klaus mosbach. professor, lund university ... verified email at tbiokem.lth.se. scholar ... g vlatakis, li andersson, r müller, k mosbach. nature publishing...", 
+        "email_addr_list": [
+            "email@tbiokem.lth.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=B4FVtawAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Klaus Mosbach - Google Scholar Citations"
+    }, 
+    {
+        "content": "karsten haupt (compiègne university of technology, france), e-mail: ... klaus mosbach (lund university, sweden), e-mail: klausmosbach@gmail.com", 
+        "email_addr_list": [
+            "klausmosbach@gmail.com"
+        ], 
+        "cite_url": "mipsoc.org/SMI/board.php", 
+        "cite_name": "", 
+        "title": "SMI Board Members"
+    }, 
+    {
+        "content": "email: klausmosbach@compuserve.com. abstract. this brief overview summarizes some recent developments from our center for. molecular imprinting...", 
+        "email_addr_list": [
+            "klausmosbach@compuserve.com"
+        ], 
+        "cite_url": "journals.cambridge.org/article_S194642740012...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Molecularly Imprinted Materials: Towards the Next ..."
+    }, 
+    {
+        "content": "... box 124, 221 00 lund, sweden email: klausmosbach@compuserve.com ... lei ye, klaus mosbach, david a. spivak and martha sibrian-vazquez (2002).", 
+        "email_addr_list": [
+            "klausmosbach@compuserve.com"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S1946427400...www.google.com/email", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Molecularly Imprinted Materials: Towards the Next GenerationGoogle Business Email - Custom email for your company‎"
+    }
+]

@@ -1,2 +1,20 @@
-bgillespie@wlu.ca	[20]
-gillespi@zoology.ubc.ca	[2]
+[
+    {
+        "content": "laurier home  laurier brantford  faculty/staff listing  bruce gillespie ... email: bgillespie@wlu.ca ... bruce gillespie is an award-winning writer and editor.", 
+        "email_addr_list": [
+            "bgillespie@wlu.ca"
+        ], 
+        "cite_url": "https://www.wlu.ca/homepage.php?grp...", 
+        "cite_name": "Wilfrid Laurier University", 
+        "title": "Bruce Gillespie - Wilfrid Laurier University"
+    }, 
+    {
+        "content": "bruce gillespie. mechanical workshop. email: gillespi@zoology.ubc.ca. gillespi_at_zoology.ubc.ca. office phone: 604-822-3387. last updated 10 april 2007.", 
+        "email_addr_list": [
+            "gillespi@zoology.ubc.ca"
+        ], 
+        "cite_url": "www.zoology.ubc.ca/person/gillespi", 
+        "cite_name": "University of British Columbia", 
+        "title": "Bruce Gillespie :: The Department of Zoology at the ..."
+    }
+]

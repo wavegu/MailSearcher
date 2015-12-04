@@ -1,0 +1,48 @@
+[
+    {
+        "content": "email: gadia@iastate.edu. department fax: (515) 294-0258 .... sugam sharma, johnny wong, u sunday tim, shashi k gadia. bidirectional migration between...", 
+        "email_list": [
+            "gadia@iastate.edu"
+        ], 
+        "cite_url": "www.cs.iastate.edu/~gadia/homepage.html", 
+        "cite_name": "", 
+        "title": "Shashi Gadia - Department of Computer Science"
+    }, 
+    {
+        "content": "email: gadia@cs.iastate.edu. homepage: http://www.cs.iastate.edu/~gadia/homepage.html .... seo-young noh, shashi k. gadia, and shihe ma. an xml-based...", 
+        "email_list": [
+            "gadia@cs.iastate.edu"
+        ], 
+        "cite_url": "https://web.cs.iastate.edu/people/facultyview.jsp?fname=Shashi+K.", 
+        "cite_name": "", 
+        "title": "Shashi K. Gadia"
+    }, 
+    {
+        "content": "sep 15, 2015 - shashi k gadia. computer science department iowa state university ames, usa email: gadia@cs.iastate.edu. prof anil maheshwari.", 
+        "email_list": [
+            "gadia@cs.iastate.edu"
+        ], 
+        "cite_url": "universe.bits-pilani.ac.in/pilani/goel/RecentCollaborators", 
+        "cite_name": "", 
+        "title": "Recent Collaborators - BITS Pilani"
+    }, 
+    {
+        "content": "web: http://mcsp.wartburg.edu/iucsc05 email: josef.breutzmann@wartburg.edu. the sigcse ... 6, gadia, shashi k. iowa state university, gadia@cs.iastate.edu.", 
+        "email_list": [
+            "josef.breutzmann@wartburg.edu", 
+            "gadia@cs.iastate.edu"
+        ], 
+        "cite_url": "csit.graceland.edu/cs/iucsc04_minutes.html", 
+        "cite_name": "", 
+        "title": "Fall04 IUCSC Minutes - Graceland CSIT"
+    }, 
+    {
+        "content": "shashi gadia. computer science. associate professor. gadia@cs.iastate.edu. http://www.cs.iastate.edu/faculty/gadia.html. register to view email, homepage,...", 
+        "email_list": [
+            "gadia@cs.iastate.edu"
+        ], 
+        "cite_url": "https://aminer.org/profile/shashi-gadia/53f39a04dabfae4b34a8c7fe", 
+        "cite_name": "", 
+        "title": "Shashi Gadia | AMiner - Open Science Platform"
+    }
+]

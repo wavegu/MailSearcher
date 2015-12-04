@@ -1,0 +1,39 @@
+[
+    {
+        "content": "professor wu shunjun ... office add: room 1703, new sci-tech building, north campus tel: (029) 88201025 fax: 029-88236159. e-mail: sjwu@xidian.edu.cn...", 
+        "email_list": [
+            "sjwu@xidian.edu.cn"
+        ], 
+        "cite_url": "en.xidian.edu.cn/info/1030/1158.htm", 
+        "cite_name": "", 
+        "title": "Professor Wu Shunjun-http://www.xidian.edu.cn/English/"
+    }, 
+    {
+        "content": "email: lhuang@ee.cuhk.edu.hk, lhuang8sasp@hotmail.com .... [5] lei huang, shunjun wu and xia li, “reduced-rank mdl method for source. enumeration in...", 
+        "email_list": [
+            "lhuang@ee.cuhk.edu.hk", 
+            "lhuang8sasp@hotmail.com"
+        ], 
+        "cite_url": "www.ee.cuhk.edu.hk/.../CV.pdf", 
+        "cite_name": "The Chinese University of Hong Kong", 
+        "title": "[PDF]Curriculum vitae - Electronic Engineering - The Chinese ..."
+    }, 
+    {
+        "content": "email: shunjun@suda.edu.cn .... bin wu, jian chen, mei-qiu li, jin-xin zhang, xiao-ping xu, shun-jun ji,* and xing-wang wang*, highly enantioselective...", 
+        "email_list": [
+            "shunjun@suda.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "JI Shunjun-College of Chemistry, Chemical Engineering ..."
+    }, 
+    {
+        "content": "wu hong research scientist. tel: 6824 7123. email: wuhong@ibn.a-star.edu.sg. view cv. research associate, singapore eye research institute, singapore,...", 
+        "email_list": [
+            "wuhong@ibn.a-star.edu.sg"
+        ], 
+        "cite_url": "www.ibn.a-star.edu.sg/res...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "WU Hong - Institute of Bioengineering and Nanotechnology ..."
+    }
+]

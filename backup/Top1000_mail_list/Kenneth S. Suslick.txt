@@ -1,3 +1,38 @@
-ksuslick@uiuc.edu	[17]
-chemistry at illinoiswww.chemistry.illinois.edu	[6]
-email at uiuc.edu	[1]
+[
+    {
+        "content": "fax: (217) 244-3186. 600 s. mathews av. email: ksuslick@uiuc.edu. urbana, illinois 61801 .... suslick, k. s. sonochemistry” science 1990, 247, 1439-1445.", 
+        "email_addr_list": [
+            "ksuslick@uiuc.edu"
+        ], 
+        "cite_url": "www.scs.illinois.edu/suslick/...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "[PDF]Kenneth S. Suslick - School of Chemical Sciences"
+    }, 
+    {
+        "content": "kenneth s. suslick. schmidt research ... verified email at uiuc.edu - homepage  scholar ... ks suslick, sb choe, aa cichowlas, mw grinstaff. nature 353...", 
+        "email_addr_list": [
+            "email@uiuc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=i4giqlkAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kenneth S. Suslick - Google Scholar Citations"
+    }, 
+    {
+        "content": "kenneth s. suslickschool of chemical sciences office: (217) 333-2794university of ... 【university of illinois at urbana-champaign】kenneth s. suslick-chemistry ,☆麦兜. ... 600 s. mathews av. email: ksuslick@uiuc.edu", 
+        "email_addr_list": [
+            "ksuslick@uiuc.edu"
+        ], 
+        "cite_url": "www.chem8.org/thread-10812-1-1.html", 
+        "cite_name": "", 
+        "title": "【University of Illinois at Urbana-Champaign】Kenneth S. Suslick ..."
+    }, 
+    {
+        "content": "pi name: kenneth s. suslick ... email: ksuslick@uiuc.edu ... suslick, k. s.; crum, l. a. sonochemistry and sonoluminescence, in encyclopedia of acoustics;.", 
+        "email_addr_list": [
+            "ksuslick@uiuc.edu"
+        ], 
+        "cite_url": "www.iaea.org/.../31003348.pdfwww.google.com/email", 
+        "cite_name": "International Atomic Energy Agency", 
+        "title": "[PDF]ANNUAL DOE GRANT PROGRESS REPORT Kenneth S ...Google Business Email‎"
+    }
+]

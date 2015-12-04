@@ -1,0 +1,20 @@
+[
+    {
+        "content": "nov 30, 2014 - e-mail: rkalia@usc.edu .... p. vashishta-pi, r. k. kalia, a. nakano, k. christie (usc); s. stewart (uiuc); ... rajiv k. kalia-pi and aiichiro nakano.", 
+        "email_list": [
+            "rkalia@usc.edu"
+        ], 
+        "cite_url": "viterbi.usc.edu/.../2b7e0_Kalia%20C...", 
+        "cite_name": "USC Viterbi School of Engineering", 
+        "title": "[PDF]Rajiv K. Kalia - USC - Viterbi School of Engineering"
+    }, 
+    {
+        "content": "jul 25, 2011 - email: wuzq10@ustc.edu.cn. phd. ... 2）wu zq, rajiv k. kalia, aiichiro nakano, and priya vashishta (2011) “vibrational and thermodynamic...", 
+        "email_list": [
+            "wuzq10@ustc.edu.cn"
+        ], 
+        "cite_url": "en.ess.ustc.edu.cn/.../t201...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Wu Zhongqing (吴忠庆) - University of Science and ..."
+    }
+]

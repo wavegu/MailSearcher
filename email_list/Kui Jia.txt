@@ -1,0 +1,29 @@
+[
+    {
+        "content": "verified email at adsc.com.sg. scholar. get my own profile ... s yu, t tan, k huang, k jia, x wu ... th chan, k jia, s gao, j lu, z zeng, y ma. arxiv preprint...", 
+        "email_list": [
+            "email@adsc.com.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Mf9VHRcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kui Jia - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: chris.jia@adsc.com.sg. i am a research scientist at advanced digital sciences center (adsc). before joining adsc, i ever worked at the chinese...", 
+        "email_list": [
+            "chris.jia@adsc.com.sg"
+        ], 
+        "cite_url": "https://sites.google.com/site/kuijia/", 
+        "cite_name": "", 
+        "title": "Kui Jia - Google Sites"
+    }, 
+    {
+        "content": "email: yima@uiuc.edu  kui (chris) jia. research scientist at advanced digital sciences center, with interests in computer vision, machine learning, image...", 
+        "email_list": [
+            "yima@uiuc.edu"
+        ], 
+        "cite_url": "web.adsc.com.sg/perception/people.html", 
+        "cite_name": "", 
+        "title": "People - A Holistic Approach to Robust and Scalable Object ..."
+    }
+]

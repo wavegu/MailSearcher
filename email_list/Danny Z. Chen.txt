@@ -1,0 +1,38 @@
+[
+    {
+        "content": "info. danny chen ... email: chen@cse.nd.edu ... danny z. chen, professor of computer science and engineering and concurrent professor of applied and...", 
+        "email_list": [
+            "chen@cse.nd.edu"
+        ], 
+        "cite_url": "https://engineering.nd.edu/profiles/dchen", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Danny Chen — College of Engineering"
+    }, 
+    {
+        "content": "danny z. chen. department of ... (574) 631-9260. e-mail: dchen@nd.edu ..... f.y.l. chin, and c.a. wang, journal of combinatorial optimization, vol. 11, no. 4,.", 
+        "email_list": [
+            "dchen@nd.edu"
+        ], 
+        "cite_url": "https://www3.nd.edu/~dchen/web.pdf", 
+        "cite_name": "University of Notre Dame", 
+        "title": "[PDF]CURRICULUM VITAE Danny Z. Chen Current Position ..."
+    }, 
+    {
+        "content": "danny chen. professor of computer ... verified email at nd.edu. scholar ... z xu, j lioi, j mu, mm kamocka, x liu, dz chen, ed rosen, m alber. biophysical...", 
+        "email_list": [
+            "email@nd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tRerdSIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Danny Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "email address: dshapiro@sfu.ca. curriculum ... jing li; aloysius newenham-kahindi; daniel shapiro; victor z. chen ... jing li; dong chen; daniel shapiro.", 
+        "email_list": [
+            "dshapiro@sfu.ca"
+        ], 
+        "cite_url": "beedie.sfu.ca/profiles/DanielShapiro", 
+        "cite_name": "Beedie School of Business", 
+        "title": "Daniel Shapiro - Beedie School of Business, SFU, Canada"
+    }
+]

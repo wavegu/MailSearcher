@@ -1,6 +1,38 @@
-lstaudt@box-l.nih.staudt	[14]
-lstaudt@box-l.nih	[14]
-lstaudt@mail.nih.gov.distinct	[14]
-lstaudt@mail.nih.gov	[14]
-lstaudt@box-l.nih.gov	[14]
-r@mail . nih . gov	[1]
+[
+    {
+        "content": "home » lymphoid malignancies branch » louis m. staudt, m.d., ph.d. louis m. staudt, m.d., ph.d. ... ph: 301-402-1892 lstaudt@mail.nih.gov  permalink.", 
+        "email_addr_list": [
+            "lstaudt@mail.nih.gov"
+        ], 
+        "cite_url": "https://ccr.cancer.gov/Lymphoid.../louis-m-stau...", 
+        "cite_name": "National Cancer Institute", 
+        "title": "Louis M. Staudt, M.D., Ph.D. | Center for Cancer Research"
+    }, 
+    {
+        "content": "louis m. staudt, m.d., ph.d. louis m. staudt. senior investigator building 10. room 4n114 phone 301-402-1892. fax 301-496-9956. e-mail lstaudt@box-l.nih.", 
+        "email_addr_list": [
+            "lstaudt@box-l.nih"
+        ], 
+        "cite_url": "lymphochip.nih.gov/staudtl.html", 
+        "cite_name": "", 
+        "title": "Louis M. Staudt, M.D., Ph.D. - The Staudt Lab Web Site"
+    }, 
+    {
+        "content": "a. l. shaffer, andreas rosenwald  louis m. staudt about the authors. top of page ... correspondence to: louis m. staudt email: lstaudt@mail.nih.gov.", 
+        "email_addr_list": [
+            "lstaudt@mail.nih.gov"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Lymphoid Malignancies: the dark side of B-cell ... - Nature"
+    }, 
+    {
+        "content": "correspondence to: louis m. staudt correspondence and requests for materials should be addressed to l.m.s. (email: lstaudt@box-l.nih.gov) or p.o.b. (email:...", 
+        "email_addr_list": [
+            "lstaudt@box-l.nih.gov"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Distinct types of diffuse large B-cell lymphoma identified by ..."
+    }
+]

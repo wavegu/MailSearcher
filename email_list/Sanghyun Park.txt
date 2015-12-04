@@ -1,0 +1,20 @@
+[
+    {
+        "content": "sanghyun park. professor of computer ... verified email at cs.yonsei.ac.kr - homepage  scholar ... k amiri, s park, r tewari, s padmanabhan. null, 821, 2003.", 
+        "email_list": [
+            "email@cs.yonsei.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wVcle04AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sanghyun Park - Google Scholar Citations"
+    }, 
+    {
+        "content": "create alert. cancel. sang hyun park ... verified email at med.unc.edu. scholar. get my own ... s lee, sh park, h shim, id yun, su lee. computer vision and...", 
+        "email_list": [
+            "email@med.unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PHLTD4sAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sang Hyun Park - Google Scholar Citations"
+    }
+]

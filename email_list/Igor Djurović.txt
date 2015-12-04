@@ -1,0 +1,20 @@
+[
+    {
+        "content": "igor djurovic. university of montenegro ... verified email at ac.me. scholar. get my own profile ... l stankovic, i djurovic, t thayaparan. aerospace and electronic...", 
+        "email_list": [
+            "email@ac.me"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wc0A8u4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Igor Djurovic - Google Scholar Citations"
+    }, 
+    {
+        "content": "prof. dr igor Đurović. email: igordj@ac.me. web site: www.tfsa.ac.me. courses: programming i and ii, theory of information and codes, digital image processing.", 
+        "email_list": [
+            "igordj@ac.me"
+        ], 
+        "cite_url": "www.etf.ucg.ac.me/eng/stranaen.php?id=5en", 
+        "cite_name": "", 
+        "title": "Faculty of Electrical Engineering - Podgorica"
+    }
+]

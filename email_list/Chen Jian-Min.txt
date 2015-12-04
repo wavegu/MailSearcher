@@ -1,0 +1,57 @@
+[
+    {
+        "content": "phone, (314) 935-8896. fax, (314) 935-7448. email, jcui@wustl.edu. other appt. cell biology  physiology, energy, environmental  chemical engineering...", 
+        "email_list": [
+            "jcui@wustl.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "Jianmin Cui - Department of Biomedical Engineering"
+    }, 
+    {
+        "content": "jun 7, 2014 - chen jianmin, ph.d., professor. tel: 021-65642298. fax: 021-65642080. email: jmchen@fudan.edu.cn. education. ph.d. in physical...", 
+        "email_list": [
+            "jmchen@fudan.edu.cn"
+        ], 
+        "cite_url": "environment.fudan.edu.cn/en/Show.aspx?info_lb=264flag...", 
+        "cite_name": "", 
+        "title": "CHEN Jianmin - Department of Environmental Science ..."
+    }, 
+    {
+        "content": "e-mail. chen, jian-shiuh, professor, 63147, 4522, jishchen@mail.ncku.edu.tw  shiau, jih-min, associate professor, 63122, 47740, jshiau@mail.ncku.edu.tw.", 
+        "email_list": [
+            "jishchen@mail.ncku.edu.tw", 
+            "jshiau@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "www.civil.ncku.edu.tw/index.php?...", 
+        "cite_name": "National Cheng Kung University", 
+        "title": "Department of Civil Engineering, NCKU"
+    }, 
+    {
+        "content": "... mems research team. email – prad0005@ntu.edu.sg ... publications. 1. pradeep dixit, xiaofeng chen, jianmin miao and sheeja divakaran, surf. coat.", 
+        "email_list": [
+            "prad0005@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/home/.../members.h...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Professor Miao Jianmins MEMS Research Team - Nanyang ..."
+    }, 
+    {
+        "content": "coordonnees. nom : chen. prénom : jian-min. statut : directeur de recherche. hdr : oui ... email : jian-min.chen@univ-brest.fr bureau : efs tél : 02 98 44...", 
+        "email_list": [
+            "jian-min.chen@univ-brest.fr"
+        ], 
+        "cite_url": "https://www.univ-brest....", 
+        "cite_name": "University of Western Brittany", 
+        "title": "[PDF]COORDONNEES Nom : Chen Prénom : Jian-Min Statut ..."
+    }, 
+    {
+        "content": "email：dinggg@tsinghua.edu.cn ... guiguang ding,ning zhu,jianmin wang, free-viewpoint video watermarking based on ... xiaodong shen; guiguang ding; yizheng chen; jianmin wang; adaptive-push peer-to-peer video streaming...", 
+        "email_list": [
+            "dinggg@tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.thss.tsinghua.edu.cn/.../201012191754459614...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Guiguang Ding - School of Software, Tsinghua University"
+    }
+]

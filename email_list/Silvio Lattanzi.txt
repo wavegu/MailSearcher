@@ -1,0 +1,20 @@
+[
+    {
+        "content": "silvio lattanzi. research scientist ... verified email at google.com. scholar ... f chierichetti, r kumar, s lattanzi, m mitzenmacher, a panconesi, ... proceedings...", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vxUZ4AUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Silvio Lattanzi - Google Scholar Citations"
+    }, 
+    {
+        "content": "silvio lattanzi. computer science department. sapienza, university of rome. via salaria 113, 00198 rome, italy e-mail: lattanzi@di.uniroma1.it.", 
+        "email_list": [
+            "lattanzi@di.uniroma1.it"
+        ], 
+        "cite_url": "phd.di.uniroma1.it/thesis/lattanzi.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Algorithms and models for social networks - Sapienza"
+    }
+]

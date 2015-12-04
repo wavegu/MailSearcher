@@ -1,1 +1,11 @@
-ashleifer@harvard.edu	[18]
+[
+    {
+        "content": "address: littauer center m-9. e-mail: ashleifer@harvard.edu. tel: 617-495-5046. office hours: by appointment. please e-mail ashley robinson grant for an...", 
+        "email_addr_list": [
+            "ashleifer@harvard.edu"
+        ], 
+        "cite_url": "scholar.harvard.edu/shleifer/home", 
+        "cite_name": "Harvard University", 
+        "title": "Andrei Shleifer"
+    }
+]

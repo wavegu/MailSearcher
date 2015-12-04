@@ -1,0 +1,11 @@
+[
+    {
+        "content": "may 14, 2012 - speaker: dr. yoshifumi kitamura, tohoku university. ... tel: 204-474-8313; fax: 204-474-7609; email: queries@cs.umanitoba.ca. hours.", 
+        "email_list": [
+            "queries@cs.umanitoba.ca"
+        ], 
+        "cite_url": "www.cs.umanitoba.ca/.../event.php?...yoshifumi-...", 
+        "cite_name": "University of Manitoba", 
+        "title": "Dr. Yoshifumi Kitamura - | University of Manitoba ..."
+    }
+]

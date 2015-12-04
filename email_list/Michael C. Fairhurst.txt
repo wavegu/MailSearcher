@@ -1,0 +1,29 @@
+[
+    {
+        "content": "prof mike fairhurst. professor of computer vision. m.c.fairhurst@kent.ac.uk; +44 (0) 1227 823389. location: jennison building - room 1.43. research group:...", 
+        "email_list": [
+            "m.c.fairhurst@kent.ac.uk"
+        ], 
+        "cite_url": "https://www.eda.kent.ac.uk/school/staff_detail.aspx?id...", 
+        "cite_name": "University of Kent", 
+        "title": "Prof Mike Fairhurst - School of Engineering and Digital Arts"
+    }, 
+    {
+        "content": "fan j, crooks c, creissen g, hill l, fairhurst s, doerner p, lamb c pseudomonas sax ... 2009 11 4552-5. luo j, fuell c, parr a, hill l, bailey p, elliott k, fairhurst sa, martin c, michael aj ... email: shirley.fairhurst@jic.ac.uk. page maintained...", 
+        "email_list": [
+            "shirley.fairhurst@jic.ac.uk"
+        ], 
+        "cite_url": "https://www.jic.ac.uk/staff/Shirley-Fairhurst/pubs.htm", 
+        "cite_name": "John Innes Centre", 
+        "title": "Shirley Fairhurst - John Innes Centre"
+    }, 
+    {
+        "content": "po9 2su. phone: (023) 9247 1550. mobile: 07533 204377. email: mike.fairhurst@havant.gov.uk  download councillor mike fairhurst contact details as vcard...", 
+        "email_list": [
+            "mike.fairhurst@havant.gov.uk"
+        ], 
+        "cite_url": "havant.moderngov.co.uk/mgUserInfo.aspx?UID=21", 
+        "cite_name": "", 
+        "title": "Councillor Mike Fairhurst - Havant Borough Council"
+    }
+]

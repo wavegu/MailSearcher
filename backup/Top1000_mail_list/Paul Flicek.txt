@@ -1,2 +1,11 @@
-flicek@ebi.ac.uk	[13]
-email at ebi.ac.uk	[1]
+[
+    {
+        "content": "paul flicek. european molecular ... verified email at ebi.ac.uk. scholar ... p flicek, mr amode, d barrell, k beal, s brent, d carvalho-silva, ... nucleic acids...", 
+        "email_addr_list": [
+            "email@ebi.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=we_vFfEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Paul Flicek - Google Scholar Citations"
+    }
+]

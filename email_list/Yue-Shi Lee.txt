@@ -1,0 +1,40 @@
+[
+    {
+        "content": "sep 29, 2014 - yue-shi lee, professor ... e-mail: leeys@mail.mcu.edu.tw ... taiwan shin kong commercial bank, hsinchu international bank, anishin card...", 
+        "email_list": [
+            "leeys@mail.mcu.edu.tw"
+        ], 
+        "cite_url": "www.sj.mcu.edu.tw/", 
+        "cite_name": "", 
+        "title": "Yue-Shi Lee"
+    }, 
+    {
+        "content": "cancel. yue-shi lee. ming chuan university  data mining. verified email at mail.mcu.edu.tw ... rk nam, r saskin, y lee, y liu, c law, lh klotz, da loblaw, .", 
+        "email_list": [
+            "email@mail.mcu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tiClE2YAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yue-Shi Lee - Google Scholar Citations"
+    }, 
+    {
+        "content": "yue-shi lee and show-jane yen abstract mining frequent patterns is an ... taiwan e-mail: sjyen@mail.mcu.edu.tw y.-s. lee e-mail: leeys@mail.mcu.edu.tw w.", 
+        "email_list": [
+            "sjyen@mail.mcu.edu.tw", 
+            "leeys@mail.mcu.edu.tw"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=331908254X", 
+        "cite_name": "", 
+        "title": "Information Granularity, Big Data, and Computational ..."
+    }, 
+    {
+        "content": "li@monash.edu; office: room 223 desk 16, building 82, clayton campus; supervisors: john forsythe .... ms yue shi .... email: yu.zhang@monash.edu; office: room 111, building 69, clayton campus; supervisors: nick birbilis, jian nie...", 
+        "email_list": [
+            "li@monash.edu", 
+            "yu.zhang@monash.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Monash University", 
+        "title": "Profiles, Monash University"
+    }
+]

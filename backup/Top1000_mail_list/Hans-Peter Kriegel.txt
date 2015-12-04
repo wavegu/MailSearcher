@@ -1,1 +1,11 @@
-info@videolectures.net	[1]
+[
+    {
+        "content": "homepage: http://www.dbs.informatik.uni-muenchen.de/mitarbeiter/kriegel.html ... hans-peter kriegel is a full professor for database systems and data mining in the department ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/hans_peter_kriegel/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Hans-Peter Kriegel - VideoLectures.NET"
+    }
+]

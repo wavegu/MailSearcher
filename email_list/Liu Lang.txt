@@ -1,0 +1,11 @@
+[
+    {
+        "content": "people. director. photo. name. title. email ... liukun[at]cis.pku.edu.cn. tba, beijing, china. xiao zhongmin ... baidu co., beijing, china. liu lang 刘浪. master of...", 
+        "email_list": [
+            "liukun@cis.pku.edu.cn"
+        ], 
+        "cite_url": "www.cil.pku.edu.cn/people/", 
+        "cite_name": "", 
+        "title": "People - Computational Intelligence Laboratory, Peking ..."
+    }
+]

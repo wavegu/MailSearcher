@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ester zumpano. associate professor of computer engineering. address: ... email: zumpano@deis.unical.it. tel: +39 0984 494755. fax: +39 0984 494713...", 
+        "email_list": [
+            "zumpano@deis.unical.it"
+        ], 
+        "cite_url": "wwwinfo.deis.unical.it/zumpano/", 
+        "cite_name": "University of Calabria", 
+        "title": "Ester Zumpano - Home page - Dimes"
+    }
+]

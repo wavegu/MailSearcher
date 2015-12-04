@@ -1,0 +1,38 @@
+[
+    {
+        "content": "nov 22, 2014 - dejan marković ... markovic teaches core undergraduate and graduate courses in digital circuit and system ... e-mail:ddejan@ee.ucla.eduuu...", 
+        "email_list": [
+            "ddejan@ee.ucla.eduuu"
+        ], 
+        "cite_url": "www.ee.ucla.edu/~dejan", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Faculty: Dejan Markovic - DejanWiki - Electrical Engineering"
+    }, 
+    {
+        "content": "email: dejan@ee.ucla.edu. homepage: http://icslwebs.ee.ucla.edu/dejan/resear... office: rm ... professor markovic assumes you know everything. i personally...", 
+        "email_list": [
+            "dejan@ee.ucla.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "BruinWalk : DEJAN MARKOVIC"
+    }, 
+    {
+        "content": "dejan markovic. professor of electrical ... verified email at ee.ucla.edu. scholar ... d marković, cc wang, lp alarcon, tt liu, jm rabaey. proceedings of the...", 
+        "email_list": [
+            "email@ee.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VRb24i8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dejan Markovic - Google Scholar Citations"
+    }, 
+    {
+        "content": "markovic dejan zeughausstrasse 43 3902 brig-glis switzerland m +41 79 375 44 96. e-mail: markodejan@yahoo.com. markovic dejan zeughausstrasse 43", 
+        "email_list": [
+            "markodejan@yahoo.com"
+        ], 
+        "cite_url": "www.markovic-dejan.com/contact.html", 
+        "cite_name": "", 
+        "title": "Contact - Dejan Markovic, official website"
+    }
+]

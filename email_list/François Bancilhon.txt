@@ -1,0 +1,11 @@
+[
+    {
+        "content": "o2 technology 3600 west bayshore road, suite 106. palo alto, ca 94303. tel.: (415)842-7008. fax: (415)842-7001. email: francois@o2tech.com.", 
+        "email_list": [
+            "francois@o2tech.com"
+        ], 
+        "cite_url": "infolab.stanford.edu/infoseminar/archive/SpringY96/francois.html", 
+        "cite_name": "", 
+        "title": "Francois Bancilhon"
+    }
+]

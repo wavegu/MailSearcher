@@ -1,8 +1,39 @@
-daniel.huson at uni-tuebingen.de	[24]
-huson@informatik.uni	[12]
-huson@informatik.uni-tuebingen.de	[12]
-email at jhu.edu	[4]
-xiechao at bic.nus.edu.sg	[4]
-email at som.umaryland.edu	[2]
-email at uni-tuebingen.de	[2]
-cflack@cambridge.org	[1]
+[
+    {
+        "content": "verified email at uni-tuebingen.de - homepage ... dh huson, af auch, j qi, sc schuster ... dh huson, s mitra, hj ruscheweyh, n weber, sc schuster.", 
+        "email_addr_list": [
+            "email@uni-tuebingen.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hLTZTG4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Daniel H. Huson - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at jhu.edu. @jhu.edu. cited by 99517 ... verified email at som.umaryland.edu. @som.umaryland.edu ... daniel h. huson. professor of algorithms...", 
+        "email_addr_list": [
+            "email@jhu.edu", 
+            "email@som.umaryland.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }, 
+    {
+        "content": "authors: daniel h. huson, eberhard-karls-universität tübingen, germany; regula .... problems accessing these resources please email cflack@cambridge.org...", 
+        "email_addr_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../phylogenetic-networ...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Phylogenetic Networks - Cambridge University Press"
+    }, 
+    {
+        "content": "dr. daniel h. huson zentrum fr bioinformatik (zbit) universitt tbingen 72076 tbingen germany email: huson@informatik.uni-tuebingen.de prof. dr. oliver...", 
+        "email_addr_list": [
+            "huson@informatik.uni-tuebingen.de"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-huson-informatik-uni-20239505...", 
+        "cite_name": "", 
+        "title": "huson@informatik.uni - The Email Archive"
+    }
+]

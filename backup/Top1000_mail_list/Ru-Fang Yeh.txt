@@ -1,6 +1,22 @@
-yeh.rufang@gene.com	[19]
-yeh.rufang@gene.com.rufang	[19]
-rufang@biostat.ucsf.edu	[13]
-pbabcock at psg-ucsf.org	[3]
-wgf3@mit.edu	[2]
-geneyeo@mit.edu	[2]
+[
+    {
+        "content": "gravatar for ru-fang yeh ... box 0560, san francisco, ca 94143-0560 or via email to pbabcock at psg-ucsf.org. ... written 7.4 years ago by ru-fang yeh • 20.", 
+        "email_addr_list": [
+            "pbabcock@psg-ucsf.org"
+        ], 
+        "cite_url": "https://support.bioconductor.org/p/22490/", 
+        "cite_name": "", 
+        "title": "Bioinformatics Faculty Position available at UCSF Cancer ..."
+    }, 
+    {
+        "content": "please address comments/questions/suggestions to: will fairbrother (wgf3@mit.edu) , gene yeo (geneyeo@mit.edu) , ru-fang yeh (rufang@biostat.ucsf.edu)...", 
+        "email_addr_list": [
+            "wgf3@mit.edu", 
+            "geneyeo@mit.edu", 
+            "rufang@biostat.ucsf.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-rufang-biostat-ucs-6692159.htm", 
+        "cite_name": "", 
+        "title": "rufang@biostat.ucs - The Email Archive"
+    }
+]

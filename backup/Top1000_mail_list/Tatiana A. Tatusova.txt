@@ -1,1 +1,11 @@
-tatiana@ncbi.nlm.nih.gov	[17]
+[
+    {
+        "content": "email updates. keep up to date with the latest news and ... corresponding author: tatiana a tatusova tatiana@ncbi.nlm.nih.gov. bmc microbiology 2009, 9:65...", 
+        "email_addr_list": [
+            "tatiana@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "www.biomedcentral.com/1471-2180/9/65/comments", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Microbiology | User comments | Virus variation ..."
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "tel: 0731-88821441, 88822564, 13508473192 e-mail: zhous@hnu.net.cn ... shang shouping, college of civil engineering, new-type material and its...", 
+        "email_list": [
+            "zhous@hnu.net.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Hunan University", 
+        "title": "Civil Engineering-HNU - Hunan University"
+    }, 
+    {
+        "content": "... ecosse lamoureux; dr lee mei chin; dr liu yu-chi; dr liu shou ping; dr baskaran mani; a/prof jodhbir mehta ... email: aung.tin@singhealth.com.sg.", 
+        "email_list": [
+            "aung.tin@singhealth.com.sg"
+        ], 
+        "cite_url": "https://www.seri.com.sg/people/key-researchers/", 
+        "cite_name": "", 
+        "title": "Key Researchers | SERI"
+    }, 
+    {
+        "content": "mar 24, 2014 - professor of shanghai ocean university ... email: mjiang@shou.edu.cn ... ping ying was appointed the head of the college of economics and...", 
+        "email_list": [
+            "mjiang@shou.edu.cn"
+        ], 
+        "cite_url": "en.study-shanghai.org/sis/tutors/2014-03-18/454.html", 
+        "cite_name": "", 
+        "title": "Shanghai Ocean University - Study in Shanghai"
+    }, 
+    {
+        "content": "cancel. ping sheng ... verified email at ust.hk - homepage ... z liu, x zhang, y mao, yy zhu, z yang, ct chan, p sheng ... j li, l zhou, ct chan, p sheng.", 
+        "email_list": [
+            "email@ust.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tBnVrjEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ping Sheng - Google Scholar Citations"
+    }, 
+    {
+        "content": "phone:+86-15802508377. email: jjyy1017@163.com. education ... refereed journal publications. 1) yu jun, shang shou-ping, li zhong, etc.", 
+        "email_list": [
+            "jjyy1017@163.com"
+        ], 
+        "cite_url": "civil.csu.edu.cn/En_bk/?id=Yu%20jun", 
+        "cite_name": "", 
+        "title": "Yu jun - 个人主页"
+    }, 
+    {
+        "content": "xin tang shan hai 1, 229, 32.26, 14.5, 81,870. wen de, 229, 32.26 ... cui ping feng, 225, 32.26, 14.2, 75,486. fu rong ... shou chen shan, 189.99, 32.26, 12.8, 56,625. ci yun ... fax: 86-20-84102919 e-mail: csbulk@csbulk.com...", 
+        "email_list": [
+            "csbulk@csbulk.com"
+        ], 
+        "cite_url": "www.csbulk.com/en/category.asp?id=2cid=32", 
+        "cite_name": "", 
+        "title": "Services - 中海散货运输有限公司"
+    }
+]

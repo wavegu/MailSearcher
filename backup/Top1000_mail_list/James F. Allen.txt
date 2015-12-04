@@ -1,1 +1,11 @@
-email at cs.rochester.edu	[2]
+[
+    {
+        "content": "james allen. professor, university ... verified email at cs.rochester.edu. scholar ... an interval-based representation of temporal knowledge. jf allen. ijcai 81...", 
+        "email_addr_list": [
+            "email@cs.rochester.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=juSb6wYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "James Allen - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: mann@eecg.toronto.edu ... steve mann has been recognized as “the father of wearable computing” (ieee isscc 2000) and “the father of augmented...", 
+        "email_list": [
+            "mann@eecg.toronto.edu"
+        ], 
+        "cite_url": "www.ece.utoronto.ca/people/mann-s/", 
+        "cite_name": "University of Toronto", 
+        "title": "Mann S - Electrical  Computer Engineering - University of ..."
+    }, 
+    {
+        "content": "steve mann; personal web page. this page is kind ... mann@eecg.toronto.edu. © were ... my snail mail (canada post) is also on that same page. this page is...", 
+        "email_list": [
+            "mann@eecg.toronto.edu"
+        ], 
+        "cite_url": "wearcam.org/steve.html", 
+        "cite_name": "", 
+        "title": "Steve Mann; Personal Web Page"
+    }, 
+    {
+        "content": "jan 25, 2013 - centre for applied linguistics room 1.77, university of warwick coventry cv4 7al, tel: 44(0)2476528439. email: steve.mann@warwick.ac.uk...", 
+        "email_list": [
+            "steve.mann@warwick.ac.uk"
+        ], 
+        "cite_url": "https://www2.warwick.ac.uk/fac/soc/al/.../mann/", 
+        "cite_name": "University of Warwick", 
+        "title": "Dr Steve Mann - University of Warwick"
+    }
+]

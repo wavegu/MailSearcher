@@ -1,0 +1,38 @@
+[
+    {
+        "content": "sung-ho yoon. research scientist. civil engineering. phone: 646.997.3509; email: syoon@poly.edu; office: rh402, six metrotech center, brooklyn, ny 11021.", 
+        "email_list": [
+            "syoon@poly.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/people/sung-ho-yoon", 
+        "cite_name": "New York University", 
+        "title": "Sung-ho Yoon | NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "seong-ho sheen, is professor of international security and east asia, and associate dean for office of international affairs in snu. he also works ... (in korean) with young kwan yoon (seoul: hannul, 2008) ... contact e-mail : gsis@snu.ac.kr.", 
+        "email_list": [
+            "gsis@snu.ac.kr"
+        ], 
+        "cite_url": "gsis.snu.ac.kr/faculty/full-time-professors?...", 
+        "cite_name": "Seoul National University", 
+        "title": "Sheen, Seong-Ho - Full Time Professors - Faculty - Seoul ..."
+    }, 
+    {
+        "content": "linkedin에 있는 seongho yoon 님(대한민국)의 프로필을 확인해 보세요. linkedin은 seongho yoon ... email: seonghoyoon@empal.com phone: +82 (0)10 2363...", 
+        "email_list": [
+            "seonghoyoon@empal.com"
+        ], 
+        "cite_url": "https://kr.linkedin.com/pub/seongho-yoon/84/952/833", 
+        "cite_name": "", 
+        "title": "Seongho Yoon | LinkedIn"
+    }, 
+    {
+        "content": "view the profiles of professionals named seongho yoon on linkedin. ... university; summary: email: seonghoyoon@empal.com phone: +82 (0)10 2363 9271.", 
+        "email_list": [
+            "seonghoyoon@empal.com"
+        ], 
+        "cite_url": "https://www.linkedin.com/pub/dir/Seongho/Yoon", 
+        "cite_name": "", 
+        "title": "Seongho Yoon profiles | LinkedIn"
+    }
+]

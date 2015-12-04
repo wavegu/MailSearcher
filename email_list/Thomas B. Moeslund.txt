@@ -1,0 +1,11 @@
+[
+    {
+        "content": "t. b. moeslund (b). aalborg university, aalborg, denmark e-mail: tbm@create.aau.dk. o. javed. sri international, princeton, nj, usa e-mail: omar.javed@sri.", 
+        "email_list": [
+            "tbm@create.aau.dk"
+        ], 
+        "cite_url": "bigvid.fudan.edu.cn/people/yugangjiang/MVA-SI-13-editorial.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Special issue on Multimedia Event Detection"
+    }
+]

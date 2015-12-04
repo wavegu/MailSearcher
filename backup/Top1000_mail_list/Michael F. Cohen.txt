@@ -1,5 +1,47 @@
-mcohen at microsoft dot com	[13]
-cohenm@sonoma.edumichael	[12]
-cohenm@sonoma.edu	[12]
-mcohen@cohenandwarren.com	[12]
-email at microsoft.com	[4]
+[
+    {
+        "content": "michael f. cohen. email. address. phone. fax. mcohen at microsoft dot com. microsoft research one microsoft way redmond wa 98052. (425) 703-0134.", 
+        "email_addr_list": [
+            "mcohen@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/um/people/cohen/", 
+        "cite_name": "Microsoft Research", 
+        "title": "Michael F Cohen - Microsoft Research"
+    }, 
+    {
+        "content": "michael f. cohen. email. address . . phone. fax. mcohen at microsoft dot com ... interests: michael f. cohens research interests range from constraint based ... michael f. cohen was awarded the computer graphics achievement award at in...", 
+        "email_addr_list": [
+            "mcohen@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/.../cohen/old_index.htm", 
+        "cite_name": "Microsoft Research", 
+        "title": "Michael F - Microsoft Research"
+    }, 
+    {
+        "content": "michael cohen. microsoft research ... verified email at microsoft.com - homepage  scholar. get my own ... mf cohen, se chen, jr wallace, dp greenberg.", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YAtwLpwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael Cohen - Google Scholar Citations"
+    }, 
+    {
+        "content": "cohen cv page 1. michael f. cohen. assistant professor. tel. 707-664-3413. sonoma state university. email: cohenm@sonoma.edu. department of biology...", 
+        "email_addr_list": [
+            "cohenm@sonoma.edu"
+        ], 
+        "cite_url": "www.bashanfoundation.org/michael/michaelcv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Michael F. Cohen - Bashan Foundation"
+    }, 
+    {
+        "content": "cohen  warren, p.c.. contact: michael f. cohen, esq. phone: (631) 265-0010. fax: (631) 265-0853. email: mcohen@cohenandwarren.com...", 
+        "email_addr_list": [
+            "mcohen@cohenandwarren.com"
+        ], 
+        "cite_url": "www.cai-li.org/item_list.asp?subcat=16subtitle=ATTORNEYSwww.google.com/email", 
+        "cite_name": "", 
+        "title": "CAI Long Island Chapter - - ATTORNEYSGoogle Business Email - Custom email for your company‎"
+    }
+]

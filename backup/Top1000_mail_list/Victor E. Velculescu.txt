@@ -1,3 +1,29 @@
-velculescu@jhmi.edu	[23]
-velculescu@jhmi.edu.contact	[23]
-email at jhmi.edu	[2]
+[
+    {
+        "content": "victor velculescu. professor of ... verified email at jhmi.edu. scholar ... bs croix, c rago, v velculescu, g traverso, ke romans, e montgomery, ... science 289...", 
+        "email_addr_list": [
+            "email@jhmi.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Victor Velculescu - Google Scholar Citations"
+    }, 
+    {
+        "content": "... derek murphy,; theresa zhang,; lisa kann,; mark sausen,; samuel v. angiuoli,; luis a. diaz jr. and; victor e. velculescu,* ... e-mail: velculescu@jhmi.edu.", 
+        "email_addr_list": [
+            "velculescu@jhmi.edu"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/7/283/283ra53", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Personalized genomic analyses for cancer mutation ..."
+    }, 
+    {
+        "content": "victor e. velculescu, sidney kimmel comprehensive cancer center, johns ... e-mail: velculescu@jhmi.edu; and daniel a. haber, massachusetts general...", 
+        "email_addr_list": [
+            "velculescu@jhmi.edu"
+        ], 
+        "cite_url": "cancerdiscovery.aacrjournals.org/content/4/6/650.figures-only", 
+        "cite_name": "", 
+        "title": "Figures Only - Cancer Discovery"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. roberto vezzani. university of modena ... verified email at unimore.it - homepage  scholar ... r cucchiara, c grana, a prati, r vezzani. systems, man...", 
+        "email_list": [
+            "email@unimore.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vzemvIgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Roberto Vezzani - Google Scholar Citations"
+    }, 
+    {
+        "content": "roberto vezzanis rackham - student at the university of michigan profile at university of michigan. ... email: vezzani@umich.edu. uniquename: vezzani", 
+        "email_list": [
+            "vezzani@umich.edu"
+        ], 
+        "cite_url": "https://thestudentdirectory.org/umich/Vezzani/Roberto/vezzani", 
+        "cite_name": "", 
+        "title": "Vezzani, Roberto - The Student Directory Logo"
+    }
+]

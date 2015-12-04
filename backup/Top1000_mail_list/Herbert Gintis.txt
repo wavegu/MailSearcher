@@ -1,2 +1,38 @@
-hgintis@comcast.net	[14]
-email at ceu.hu	[2]
+[
+    {
+        "content": "email address: hgintis@comcast.net. i devote myself to the society of true searchers, which has very few living members at any time. albert einstein.", 
+        "email_addr_list": [
+            "hgintis@comcast.net"
+        ], 
+        "cite_url": "people.umass.edu/gintis/", 
+        "cite_name": "University of Massachusetts Amherst", 
+        "title": "Herbert Gintis Web Site"
+    }, 
+    {
+        "content": "herbert gintis: current contact information and listing of economic research of this author provided by repec/ideas. ... email: hgintis@comcast.net. homepage...", 
+        "email_addr_list": [
+            "hgintis@comcast.net"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pgi6.html", 
+        "cite_name": "", 
+        "title": "Herbert Gintis at IDEAS"
+    }, 
+    {
+        "content": "herbert gintis. external professor, santa ... verified email at ceu.hu. scholar ... j henrich, r boyd, s bowles, c camerer, e fehr, h gintis, r mcelreath. american...", 
+        "email_addr_list": [
+            "email@ceu.hu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VFL4iHkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Herbert Gintis - Google Scholar Citations"
+    }, 
+    {
+        "content": "selectedworks of herbert gintis  author home  browse subjects  browse ... contact information. hgintis@comcast.net http://www-unix.oit.umass.edu/~gintis...", 
+        "email_addr_list": [
+            "hgintis@comcast.net"
+        ], 
+        "cite_url": "works.bepress.com/hgintis/contact.html", 
+        "cite_name": "", 
+        "title": "Herbert Gintis | Email, Telephone, and Contact Information ..."
+    }
+]

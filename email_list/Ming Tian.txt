@@ -1,0 +1,49 @@
+[
+    {
+        "content": "ming tien. main content. professor of biochemistry. 305 south frear laboratory university park, pa 16802. email: mxt3@psu.edu. phone: (814) 863-1165.", 
+        "email_list": [
+            "mxt3@psu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Ming Tien - Department of Biochemistry and Molecular Biology"
+    }, 
+    {
+        "content": "email: mtian1@gmu.edu. office: 241 ... ming tian does research in laser atomic spectroscopy, nonlinear and quantum optics, and quantum information physics.", 
+        "email_list": [
+            "mtian1@gmu.edu"
+        ], 
+        "cite_url": "spacs.gmu.edu/profile/ming-tian/", 
+        "cite_name": "George Mason University", 
+        "title": "Ming Tian | Department of Physics and Astronomy"
+    }, 
+    {
+        "content": "adam is the director of ming tain real property pty ltd. adam graduated from macquarie ... where he worked as an actuary. email: adam.dai@mingtian.com.au...", 
+        "email_list": [
+            "adam.dai@mingtian.com.au"
+        ], 
+        "cite_url": "mingtian.com.au/team/", 
+        "cite_name": "", 
+        "title": "Team ‹ Ming Tian Real Property Pty Ltd | 澳洲明天地产"
+    }, 
+    {
+        "content": "create alert. cancel. mingtian zhao ... verified email at google.com - homepage  scholar. get my own profile ... m meng, m zhao, sc zhu. proceedings of the...", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=C3VrF0gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mingtian Zhao - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: jingkong@mit.edu. phone: (617) 324-4068 ... email: mtavila@mit.edu ... tian ming. email: tming@mit.edu. phone: (617) 452-4052. mit room 13-3094.", 
+        "email_list": [
+            "jingkong@mit.edu", 
+            "mtavila@mit.edu", 
+            "tming@mit.edu"
+        ], 
+        "cite_url": "www.rle.mit.edu/nmeg/people/", 
+        "cite_name": "Research Laboratory of Electronics at MIT", 
+        "title": "People | Nanomaterials and Electronics Group"
+    }
+]

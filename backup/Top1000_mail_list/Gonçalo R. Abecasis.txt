@@ -1,7 +1,11 @@
-bingshan.li@vanderbilt.edu	[3]
-goncalo@umich.edu	[3]
-goncalo at umich.edu	[3]
-sfengsph@umich.edu	[2]
-email at umich.edu	[2]
-yunli@bios.unc.edu	[1]
-yunli@med.unc.edu	[1]
+[
+    {
+        "content": "cancel. goncalo abecasis ... verified email at umich.edu - homepage  scholar ... e birney, ja stamatoyannopoulos, a dutta, r guigó, tr gingeras, ... nature...", 
+        "email_addr_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=t53jWtYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Goncalo Abecasis - Google Scholar Citations"
+    }
+]

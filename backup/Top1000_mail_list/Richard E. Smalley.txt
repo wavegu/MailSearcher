@@ -1,2 +1,11 @@
-nano@rice.edu	[1]
-nano@rice.eduthe	[1]
+[
+    {
+        "content": "about our founder – richard e. smalley. richard smalley richard errett smalley was a university professor and the gene and norman hackerman chair of chemistry at rice ... phone: 713-348-6008 | 713-348-5320 | email: nano@rice.edu", 
+        "email_addr_list": [
+            "nano@rice.edu"
+        ], 
+        "cite_url": "cnst.rice.edu/founder/", 
+        "cite_name": "Rice University", 
+        "title": "About Our Founder : Smalley Institute"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "philip f. mclauchlan and allan jaenicke1,. school of ee, it and mathematics,. university of surrey,. guildford gu2 5xh. email p.mclauchlan@eim.surrey.ac.uk...", 
+        "email_list": [
+            "p.mclauchlan@eim.surrey.ac.uk"
+        ], 
+        "cite_url": "www.comp.leeds.ac.uk/bmvc2008/.../2000/.../p62.pd...", 
+        "cite_name": "University of Leeds", 
+        "title": "[PDF]Image Mosaicing using Sequential Bundle Adjustment"
+    }, 
+    {
+        "content": "... kevin j. bradshaw, philip f. mclauchlan, paul m. sharkey, stuart m. fairley, .... problems accessing these resources please email cflack@cambridge.org.", 
+        "email_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../real-time-computer-v...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Real-Time Computer Vision - Cambridge University Press"
+    }
+]

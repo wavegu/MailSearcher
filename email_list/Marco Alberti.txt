@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: marco.alberti@unibs.it. settore scientifico-disciplinare di appartenenza: ing-ind/17 (impianti industriali meccanici). presidente del consiglio di corso di...", 
+        "email_list": [
+            "marco.alberti@unibs.it"
+        ], 
+        "cite_url": "www.unibs.it/.../prof-alberti-marc...", 
+        "cite_name": "University of Brescia", 
+        "title": "Prof. Alberti Marco | Portale di Ateneo - Unibs.it"
+    }, 
+    {
+        "content": "marco alberti. researcher, centria ... artificial intelligence. verified email at fct.unl.pt ... m alberti, f chesani, m gavanelli, e lamma, p mello, p torroni.", 
+        "email_list": [
+            "email@fct.unl.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tdeoCWkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Marco Alberti - Google Scholar Citations"
+    }, 
+    {
+        "content": "marco alberti, docente incaricato d ... email, marco.alberti@unife.it. telefono, 0532 974806 0532 974806 chiama telefono dellufficio. orario di...", 
+        "email_list": [
+            "marco.alberti@unife.it"
+        ], 
+        "cite_url": "docente.unife.it/marco.alberti", 
+        "cite_name": "University of Ferrara", 
+        "title": "ALBERTI MARCO"
+    }
+]

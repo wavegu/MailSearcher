@@ -1,0 +1,47 @@
+[
+    {
+        "content": "membersabc | faces. nada6 nada lavrač, phd. ... e-mail: nada.lavrac@ijs.si. publications: 2014, 2015 ... contact: nada lavrač areas: data mining and...", 
+        "email_list": [
+            "nada.lavrac@ijs.si"
+        ], 
+        "cite_url": "...", 
+        "cite_name": "Jozef Stefan Institute, Department of Knowledge Tech...", 
+        "title": "Nada Lavrač - Department of Knowledge Technologies ..."
+    }, 
+    {
+        "content": "contact; prof. nada lavrač jožef stefan institute jamova cesta 39 1000 ljubljana slovenia. nada.lavrac@ijs.si phone:+386 1 4773272 fax: +386 1 4773315.", 
+        "email_list": [
+            "nada.lavrac@ijs.si"
+        ], 
+        "cite_url": "www-ai.ijs.si/NadaLavrac/", 
+        "cite_name": "", 
+        "title": "Nada Lavrač - IJS"
+    }, 
+    {
+        "content": "create alert. cancel. nada lavrac. jozef stefan institute  data mining. verified email at ijs.si ... rs michalski, i mozetic, j hong, n lavrac. proc. aaai 1986...", 
+        "email_list": [
+            "email@ijs.si"
+        ], 
+        "cite_url": "scholar.google.si/citations?user=vAZ1t84AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Nada Lavrac - Google Scholar Citations"
+    }, 
+    {
+        "content": "nada lavra joef stefan institute jamova cesta 39 1000 ljubljana slovenia nada.lavrac@ijs.si phone:+386 1 4773272 fax: +386 1 4773315 secretary...", 
+        "email_list": [
+            "nada.lavrac@ijs.si"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-lavrac-ijs-si-3669808.htm", 
+        "cite_name": "", 
+        "title": "lavrac@ijs.si - The Email Archive"
+    }, 
+    {
+        "content": "email: robin.milner@cl.cam.ac.uk. invited speakers. nada lavrac. nada lavrac is a research associate at the j. stefan institute, ljubljana, slovenia. her main...", 
+        "email_list": [
+            "robin.milner@cl.cam.ac.uk"
+        ], 
+        "cite_url": "www.cs.man.ac.u...", 
+        "cite_name": "School of Computer Science, University of Manchester", 
+        "title": "JICSLP98 Keynote and Invited Speakers"
+    }
+]

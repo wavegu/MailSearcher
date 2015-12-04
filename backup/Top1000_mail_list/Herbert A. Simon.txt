@@ -1,2 +1,20 @@
-simonsociety@ymail.com	[11]
-subrata@louisiana.edu	[3]
+[
+    {
+        "content": "forcefully than herbert alexander simon (1916–2001). his working life spanned ... e-mail address: subrata@louisiana.edu (s. dasgupta). 0364-0213/$ – see...", 
+        "email_addr_list": [
+            "subrata@louisiana.edu"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1207/...1/pdf", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Multidisciplinary creativity: the case of Herbert A. Simon"
+    }, 
+    {
+        "content": "contact us. international herbert a. simon society. secretariat. corso giulio cesare 4 bis/b, 10152 torino email: simonsociety@ymail.com. fill in this form to...", 
+        "email_addr_list": [
+            "simonsociety@ymail.com"
+        ], 
+        "cite_url": "herbertsimonsociety.org/contact/", 
+        "cite_name": "", 
+        "title": "Contact us | Herbert Simon Society"
+    }
+]

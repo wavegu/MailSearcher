@@ -1,3 +1,21 @@
-aravinda@jhmi.aravinda	[17]
-aravinda@jhmi.edu	[17]
-tcitrin@sph.umich.edu	[2]
+[
+    {
+        "content": "principal investigator. email: aravinda@jhmi.edu. my current research is aimed towards understanding the genetic biology of sudden cardiac death (scd) and...", 
+        "email_addr_list": [
+            "aravinda@jhmi.edu"
+        ], 
+        "cite_url": "https://aravindachakravartilab.org/pro/Members.html", 
+        "cite_name": "", 
+        "title": "Members - Aravinda Chakravarti Lab"
+    }, 
+    {
+        "content": "aravinda chakravarti, ph.d. institute of genetic ... email: aravinda@jhmi.edu, gary gibbons, m.d. ... email: tcitrin@sph.umich.edu, joseph graves, jr., ph.d.*", 
+        "email_addr_list": [
+            "aravinda@jhmi.edu", 
+            "tcitrin@sph.umich.edu"
+        ], 
+        "cite_url": "www.genomecenter.howard.edu/advisory_panel.htm", 
+        "cite_name": "Howard University", 
+        "title": "NHGC External Advisory Panel - Howard University ..."
+    }
+]

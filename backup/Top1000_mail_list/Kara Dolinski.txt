@@ -1,6 +1,29 @@
-dolinski@princeton.edu	[18]
-sod@cs.wayne.edu	[2]
-email at princeton.edu	[2]
-biogridadmin@gmail.com	[2]
-sod@cs.wayne.edu.implications	[2]
-info@biomedcentral.com	[1]
+[
+    {
+        "content": "kara dolinski. department/program(s): position(s): director, genome ... email: dolinski@princeton.edu. kara dolinski. © 2015 the trustees of princeton...", 
+        "email_addr_list": [
+            "dolinski@princeton.edu"
+        ], 
+        "cite_url": "https://www.princeton.edu/.../display_person.xml?...", 
+        "cite_name": "Princeton University", 
+        "title": "Kara Dolinski"
+    }, 
+    {
+        "content": "kara dolinski. princeton university. verified email at princeton.edu - homepage ... ss dwight, ma harris, k dolinski, ca ball, g binkley, kr christie, dg fisk, .", 
+        "email_addr_list": [
+            "email@princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TJO0VOwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Kara Dolinski - Google Scholar Citations"
+    }, 
+    {
+        "content": "kara dolinski*, andrew chatr-aryamontri and mike tyers* ... if you would like to participate and need an invitation, please email info@biomedcentral.com, giving...", 
+        "email_addr_list": [
+            "info@biomedcentral.com"
+        ], 
+        "cite_url": "www.biomedcentral.com/1741-7007/11/43/commentswww.google.com/email", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Biology | User comments | Systematic curation of ...Google Business Email‎"
+    }
+]

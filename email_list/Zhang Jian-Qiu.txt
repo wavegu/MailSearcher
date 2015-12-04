@@ -1,0 +1,50 @@
+[
+    {
+        "content": "email: jian.zhang@tm-alumni.eu; zj0702@gmail.com. website: http://jianzhang.wp.mines-telecom.fr. linkedin: zj0702@gmail. ... supervisor: prof. jianqiu zeng.", 
+        "email_list": [
+            "jian.zhang@tm-alumni.eu", 
+            "zj0702@gmail.com"
+        ], 
+        "cite_url": "https://jianzhang.wp.mines-telecom.fr/", 
+        "cite_name": "", 
+        "title": "Dr.Jian ZHANG"
+    }, 
+    {
+        "content": "department: coe electrical engineering electrical  computr engineerng. building: bse 1.328. email: michelle.zhang@utsa.edu.", 
+        "email_list": [
+            "michelle.zhang@utsa.edu"
+        ], 
+        "cite_url": "www.utsa.edu/.../findPeopleSearchDe...", 
+        "cite_name": "University of Texas at San Antonio", 
+        "title": "Zhang, Jianqiu - The University of Texas at San Antonio ..."
+    }, 
+    {
+        "content": "contact. phone: (210) 458-6856. fax: (210) 458-5947. email: michelle.zhang@utsa.edu. bio-sketch. dr. jianqiu (michelle) zhang received her ph.d. in...", 
+        "email_list": [
+            "michelle.zhang@utsa.edu"
+        ], 
+        "cite_url": "compgenomics.utsa.edu/jzhang/indexroot.htm", 
+        "cite_name": "", 
+        "title": "Jianqiu (Michelle) Zhang - The University of Texas at San ..."
+    }, 
+    {
+        "content": "email: zhang.3570@osu.edu or jian.zhang@osumc.edu ... dr. jian zhang studies molecular mechanisms of t cell activation and differentiation, and innate...", 
+        "email_list": [
+            "zhang.3570@osu.edu", 
+            "jian.zhang@osumc.edu"
+        ], 
+        "cite_url": "medicine.osu.edu/.../jianzhang...", 
+        "cite_name": "Ohio State University College of Medicine", 
+        "title": "Jian Zhang, MD"
+    }, 
+    {
+        "content": "email: 610508360@qq.com ... email: wnshaohua@163.com .... wei song, ying wang, ru-ping liang, li zhang, jian-ding qiu*, label-free fluorescence...", 
+        "email_list": [
+            "610508360@qq.com", 
+            "wnshaohua@163.com"
+        ], 
+        "cite_url": "bioinfo.ncu.edu.cn/Team.aspx?aid=35", 
+        "cite_name": "", 
+        "title": "Qius Lab | Team"
+    }
+]

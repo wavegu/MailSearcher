@@ -1,3 +1,20 @@
-carrieo@globalgenes.org.personal	[3]
-carrieo@globalgenes.org	[3]
-sethmikcal@yahoo.com	[2]
+[
+    {
+        "content": "david r. cox, md, phd was an extraordinary physician scientist, becoming ... please email carrie ostrea, advocacy manager, at carrieo@globalgenes.org.", 
+        "email_addr_list": [
+            "carrieo@globalgenes.org"
+        ], 
+        "cite_url": "https://globalgenes.org/coxprizeabout/", 
+        "cite_name": "", 
+        "title": "David R. Cox Prize for Rare Compassion – About"
+    }, 
+    {
+        "content": "email of our home church: sethmikcal@yahoo.com. updated: november 14, 2013. david r. cox apartado postal 83-026 cp 13011 df mexico mexico. note!", 
+        "email_addr_list": [
+            "sethmikcal@yahoo.com"
+        ], 
+        "cite_url": "www.davidcox.com.mx/personal_information.htm", 
+        "cite_name": "", 
+        "title": "Personal Information for Missionary David Cox"
+    }
+]

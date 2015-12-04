@@ -1,5 +1,40 @@
-padmanab@microsoft.com	[3]
-padhye@microsoft.com	[2]
-varghese@cs.ucsd.edu	[2]
-kamalj@microsoft.com	[1]
-email at microsoft.com	[1]
+[
+    {
+        "content": "share on facebook tweet on twitter share on linkedin share by email ... venkat padmanabhan ... e-mail: padmanab@microsoft.com ... and implicit coordination through cellular load sensing (loadsense/peek-n-sneak --- mobicom 2013).", 
+        "email_addr_list": [
+            "padmanab@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en-us/people/padmanab/", 
+        "cite_name": "Microsoft Research", 
+        "title": "Venkat Padmanabhan - Microsoft Research"
+    }, 
+    {
+        "content": "cancel. venkata n. padmanabhan. microsoft ... verified email at microsoft.com - homepage  scholar ... h balakrishnan, vn padmanabhan, s seshan, rh katz.", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ae1ve-EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Venkata N. Padmanabhan - Google Scholar Citations"
+    }, 
+    {
+        "content": "kamal jain email: kamalj@microsoft.com. jitendra padhye email: padhye@microsoft.com. venkata n. padmanabhan email: padmanab@microsoft.com.", 
+        "email_addr_list": [
+            "kamalj@microsoft.com", 
+            "padhye@microsoft.com", 
+            "padmanab@microsoft.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs112...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Impact of Interference on Multi-Hop Wireless Network ..."
+    }, 
+    {
+        "content": "microsoft research, summer 1999 mentor: venkata n. padmanabhan. ... ca 92040-0114 tel: 619-822-0424 email: varghese@cs.ucsd.edu * dr. robbert van...", 
+        "email_addr_list": [
+            "varghese@cs.ucsd.edu"
+        ], 
+        "cite_url": "www.cs.cornell.edu/lqiu/resume/resume.txtwww.google.com/email", 
+        "cite_name": "Cornell University", 
+        "title": "Lili Qiu One Microsoft Way Bldg. 112, Rm. 2138 Redmond ...Google Business Email - Custom email for your company‎"
+    }
+]

@@ -1,2 +1,29 @@
-p.m.stratton@ntlworld.com	[19]
-mrs@sanger.ac.uk	[4]
+[
+    {
+        "content": "... institute of cancer research, 15 cotswold rd, sutton, surrey sm2 5ng, uk. correspondence to: michael r. stratton email: mrs@sanger.ac.uk. top of page...", 
+        "email_addr_list": [
+            "mrs@sanger.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "A census of human cancer genes : Abstract : Nature ..."
+    }, 
+    {
+        "content": "... experience placements  dtp intranet  news  pips proposal. info. professor sir michael stratton. wellcome trust sanger institute. email: mrs@sanger.ac.uk...", 
+        "email_addr_list": [
+            "mrs@sanger.ac.uk"
+        ], 
+        "cite_url": "bbsrcdtp.lifesci.cam.ac.uk/.../stratton-michael", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Sir Michael Stratton — BBSRC DTP Programme"
+    }, 
+    {
+        "content": "peter michael stratton ... email: p.m.stratton@ntlworld.com ..... stratton, p.,  siviter, r. (1993) new technology, new paradigms, and the attributional...", 
+        "email_addr_list": [
+            "p.m.stratton@ntlworld.com"
+        ], 
+        "cite_url": "www.europeanfamilytherapy.eu/wp-content/.../10/cv-peter-stratton.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE 2013 PETER MICHAEL STRATTON ..."
+    }
+]

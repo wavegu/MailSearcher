@@ -1,2 +1,20 @@
-djw24@columbia.edu	[4]
-email at microsoft.com	[1]
+[
+    {
+        "content": "duncan j watts. principal researcher ... verified email at microsoft.com - homepage  scholar ... ds callaway, mej newman, sh strogatz, dj watts. physical...", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LhOAiXMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Duncan J Watts - Google Scholar Citations"
+    }, 
+    {
+        "content": "duncan j. watts, phd ... duncan watts is the author of six degrees: the science of a connected age (norton 2003) and small ... email : djw24@columbia.edu.", 
+        "email_addr_list": [
+            "djw24@columbia.edu"
+        ], 
+        "cite_url": "asp.cumc.columbia.edu/facdb/profile_list.asp?...", 
+        "cite_name": "Columbia University", 
+        "title": "The Robert Wood Johnson Health  Society Scholars ..."
+    }
+]

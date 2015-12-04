@@ -1,2 +1,20 @@
-dubois@irit.fr	[14]
-email at irit.fr	[1]
+[
+    {
+        "content": "didier dubois. chercheur au cnrs ... verified email at irit.fr. scholar. get my own ... j browne, d dubois, k rathmill, sp sethi, ke stecke. the fms magazine 2...", 
+        "email_addr_list": [
+            "email@irit.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Zj5gDOYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Didier Dubois - Google Scholar Citations"
+    }, 
+    {
+        "content": "didier dubois. dades personals. cognoms: dubois. email: dubois@irit.fr. plana web: http://www.irit.fr/recherches/rpdmp/persos/didier.html.", 
+        "email_addr_list": [
+            "dubois@irit.fr"
+        ], 
+        "cite_url": "www.iiia.csic.es/.../...", 
+        "cite_name": "Spanish National Research Council", 
+        "title": "Didier Dubois | IIIA"
+    }
+]

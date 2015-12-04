@@ -1,0 +1,30 @@
+[
+    {
+        "content": "cancel. ramon doallo ... verified email at udc.es - homepage  scholar ... w blume, r doallo, l rauchwerger, p tu, r eigenmann, j grout, ... computer, 78-82...", 
+        "email_list": [
+            "email@udc.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xO3xcX8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ramon Doallo - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 22, 2014 - ramÓn doallo biempica. + professional ... ramon.doallo@udc.es. telf. (+34) 881 011 220 ... spain. email gac: gac-udc@udc.es.", 
+        "email_list": [
+            "ramon.doallo@udc.es", 
+            "gac-udc@udc.es"
+        ], 
+        "cite_url": "gac.udc.es/~doallo/", 
+        "cite_name": "", 
+        "title": "ramón doallo biempica - GAC - GRUPO DE ..."
+    }, 
+    {
+        "content": "jul 28, 2011 - (klaus.schliep@gmail.com) ... diego darriba: phd student shared with ramon doallo (udc). ... ramon fallon: scientific programmer.", 
+        "email_list": [
+            "klaus.schliep@gmail.com"
+        ], 
+        "cite_url": "darwin.uvigo.es/oldsite/people/people.html", 
+        "cite_name": "University of Vigo", 
+        "title": "David Posadas Lab - Phylogenomics Lab"
+    }
+]

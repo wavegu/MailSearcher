@@ -1,1 +1,20 @@
-eggan@mcb.harvard.edu	[1]
+[
+    {
+        "content": "rudolf jaenisch. professor of biology; member, whitehead ... email: jaenisch [at] wi.mit.edu. jaenisch whitehead page ... rudolf jaenisch. overview; research...", 
+        "email_addr_list": [
+            "jaenisch@wi.mit.edu"
+        ], 
+        "cite_url": "https://biology.mit.edu/.../rudolf_ja...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Rudolf Jaenisch | MIT Biology"
+    }, 
+    {
+        "content": "... reprogramming after nuclear transfer under the guidance of genetics pioneer, dr. rudolf jaenisch. ... contact information. email: eggan@mcb.harvard.edu...", 
+        "email_addr_list": [
+            "eggan@mcb.harvard.edu"
+        ], 
+        "cite_url": "hsci.harvard.edu/people/kevin-c-eggan-phdwww.google.com/email", 
+        "cite_name": "Harvard University", 
+        "title": "Kevin C. Eggan, PhD | Harvard Stem Cell Institute (HSCI)Google Business Email‎Searches related to Rudolf Jaenisch email"
+    }
+]

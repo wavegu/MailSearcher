@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dragan gamberger. dr. email: dragan.gamberger@irb.hr. telephone: +385 1 456 1142. internal phone numbers: 1342. position: senior scientist. division:", 
+        "email_list": [
+            "dragan.gamberger@irb.hr"
+        ], 
+        "cite_url": "www.irb.hr/en/home/gamber/", 
+        "cite_name": "Ruđer Bošković Institute", 
+        "title": "Dragan Gamberger / Laboratory for information systems ..."
+    }, 
+    {
+        "content": "dragan gamberger. dr. sc. email: dragan.gamberger@irb.hr. telefon: +385 1 456 1142. interni brojevi telefona: 1342. zvanje: znanstveni savjetnik. zavod:", 
+        "email_list": [
+            "dragan.gamberger@irb.hr"
+        ], 
+        "cite_url": "www.irb.hr/.../Dragan-Gambe...", 
+        "cite_name": "Ruđer Bošković Institute", 
+        "title": "Dragan Gamberger / Ljudi / Institut Ruđer Bošković"
+    }, 
+    {
+        "content": "dr. dragan gamberger ( new home page). rudjer boskovic institute  division of ... 4561 142, fax: (+385)(1) 4680 114. e-mail: r dragan.gamberger@irb.hr...", 
+        "email_list": [
+            "dragan.gamberger@irb.hr"
+        ], 
+        "cite_url": "www.irb.hr/users/gamber/", 
+        "cite_name": "Ruđer Bošković Institute", 
+        "title": "Dragan Gamberger"
+    }, 
+    {
+        "content": "dragan.gamberger@irb.hr. +385 1 456 1142. moira Španović. first wing, room 103. phone and fax +385 1 4680114. maric and ivek, paper 2011. maric and ivek...", 
+        "email_list": [
+            "dragan.gamberger@irb.hr"
+        ], 
+        "cite_url": "www.irb.hr/.../Laboratory-for...", 
+        "cite_name": "Ruđer Bošković Institute", 
+        "title": "Laboratory for information systems - Institut Ruđer Bošković"
+    }, 
+    {
+        "content": "dragan. gamberger2. and. nada. lavraˇc3,4. table 2. results of different noise filtering algorithms on ... 1 jožef stefan international postgraduate school, ljubljana, slovenia, email: borut.sluban@ijs.si 2 rudjer boškovic dragan.gamberger...", 
+        "email_list": [
+            "borut.sluban@ijs.si"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=160750605X", 
+        "cite_name": "", 
+        "title": "ECAI 2010: 19th European Conference on Artificial ..."
+    }
+]

@@ -1,4 +1,21 @@
-yanghm@genomics.org.cn	[10]
-yanghm@genomics.cn	[10]
-achen@mindspring.com	[2]
-media@genomics.cn	[1]
+[
+    {
+        "content": "andrew t. l chen (email: achen@mindspring.com);. huanming yang (email: yanghm@genomics.cn). (university of california at los angeles), professor jin-.", 
+        "email_addr_list": [
+            "achen@mindspring.com", 
+            "yanghm@genomics.cn"
+        ], 
+        "cite_url": "najms.net/wp-content/uploads/v06i04p171.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]History of the Association of Chinese Geneticists in America ..."
+    }, 
+    {
+        "content": "huanming yang***. mr. huanming yang ... email: yanghm@genomics.org.cn. the authors would like to ... rice genome data (yang 2011). inheriting the hgp...", 
+        "email_addr_list": [
+            "yanghm@genomics.org.cn"
+        ], 
+        "cite_url": "www.ris.org.in/images/RIS_images/pdf/perspective-march2012.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A New Culture of International Genomics Community - RIS"
+    }
+]

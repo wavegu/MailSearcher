@@ -1,3 +1,11 @@
-rastogi@amazon.com	[16]
-rshreeka@amazon.com	[3]
-email at yahoo-inc.com	[1]
+[
+    {
+        "content": "create alert. cancel. rajeev rastogi. unknown affiliation. verified email at yahoo-inc.com. scholar ... s guha, r rastogi, k shim. acm sigmod record 27 (2),...", 
+        "email_addr_list": [
+            "email@yahoo-inc.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=3ggE9SkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Rajeev Rastogi - Google Scholar Citations"
+    }
+]

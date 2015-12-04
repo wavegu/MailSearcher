@@ -1,0 +1,56 @@
+[
+    {
+        "content": "huang ke-long; liu ren-sheng; yang you-ping; liu su-qin; wang li-ping ... corresponding authors: huang ke-long email: klhuang@mail.csu.edu.cn", 
+        "email_list": [
+            "klhuang@mail.csu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Shape-controlled Synthesis and Formation Mechanism of Co"
+    }, 
+    {
+        "content": "corresponding authors: huang ke-long email: klhuang@mail.csu.edu.cn. cite this article: huang ke-long;yang sai;liu su-qin;wang hai-bo. kinetics of...", 
+        "email_list": [
+            "klhuang@mail.csu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "YANG Sai;LIU Su-Qin - Acta Physico-Chimica Sinica"
+    }, 
+    {
+        "content": "yu jin-gang, huang ke-long*, hong yong and huang du-shu. institute of ... corresponding authors: huang ke-long email: klhuang@mail.csu.edu.cn...", 
+        "email_list": [
+            "klhuang@mail.csu.edu.cn"
+        ], 
+        "cite_url": "www.cjcu.jlu.edu.cn/hxyj/EN/abstract/abstract11476.shtml", 
+        "cite_name": "", 
+        "title": "Preparation and Characterization of Dichlorocarbene ... - 2"
+    }, 
+    {
+        "content": "yu jin-gang, huang ke-long*, hong yong and huang du-shu. institute of ... corresponding authors: huang ke-long email: klhuang@mail.csu.edu.cn...", 
+        "email_list": [
+            "klhuang@mail.csu.edu.cn"
+        ], 
+        "cite_url": "59.72.0.32/hxyj/CN/abstract/abstract11476.shtml", 
+        "cite_name": "", 
+        "title": "Preparation and Characterization of Dichlorocarbene ..."
+    }, 
+    {
+        "content": "kelong wang. postdoctoral research ... verified email at email.unc.edu. scholar ... ck hashi, y zhu, gy yang, wl young, bs hsiao, k wang, b chu, s li.", 
+        "email_list": [
+            "email@email.unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=G5KRXgUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kelong Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "authors. xiao-gang li 李晓刚 (1); ke-long huang 黄可龙  klhuang@mail.csu.edu.cn (1); su-qin liu 刘素琴 (1); li-quan chen 陈立泉 (1) (2). author affiliations. 1.", 
+        "email_list": [
+            "klhuang@mail.csu.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs11771-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Electrochemical behavior of diverse vanadium ions at ..."
+    }
+]

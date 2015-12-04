@@ -1,0 +1,20 @@
+[
+    {
+        "content": "this is the personal website of dr. erik postma, an evolutionary biologist working at the department of ... send me an email at postma.erik@gmail.com.", 
+        "email_list": [
+            "email@postma.erik"
+        ], 
+        "cite_url": "www.erikpostma.net/", 
+        "cite_name": "", 
+        "title": "Erik Postma - Home"
+    }, 
+    {
+        "content": "eric postma. professor artificial ... artificial intelligence. verified email at uvt.nl - homepage ... ljp van der maaten, eo postma, hj van den herik. journal of...", 
+        "email_list": [
+            "email@uvt.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EpsyWjIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Eric Postma - Google Scholar Citations"
+    }
+]

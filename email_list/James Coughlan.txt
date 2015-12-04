@@ -1,0 +1,38 @@
+[
+    {
+        "content": "james g. coughlan office location. psra licence no: ... email: general enquiries: info@jamesgcoughlan.com. website enquiries: ... staff: jim coughlan", 
+        "email_list": [
+            "info@jamesgcoughlan.com"
+        ], 
+        "cite_url": "www.jamesgcoughlan.com/contact.php", 
+        "cite_name": "", 
+        "title": "Contact Us - James G. Coughlan  Associates :: Specialists ..."
+    }, 
+    {
+        "content": "james g. coughlan and associates are long established specialists with ... please call 021-4251500, fax 021-4276981, or email info@jamesgcoughlan.com...", 
+        "email_list": [
+            "info@jamesgcoughlan.com"
+        ], 
+        "cite_url": "www.jamesgcoughlan.com/about.php", 
+        "cite_name": "", 
+        "title": "About Us - James G. Coughlan  Associates :: Specialists in ..."
+    }, 
+    {
+        "content": "james coughlan. senior scientist, the ... verified email at ski.org. scholar. get my own ... s konishi, al yuille, jm coughlan, sc zhu. pattern analysis and...", 
+        "email_list": [
+            "email@ski.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ujPwwwsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "James Coughlan - Google Scholar Citations"
+    }, 
+    {
+        "content": "james coughlan is the workers party candidate in cork city north west. he is 38 ... him on (085) 834-3497 or email him on james-coughlan2011@gmail.com.", 
+        "email_list": [
+            "james-coughlan2011@gmail.com"
+        ], 
+        "cite_url": "workersparty.ie/james-coughlan-cork-city-north-west/", 
+        "cite_name": "", 
+        "title": "James Coughlan – Cork City North West | Workers Party"
+    }
+]

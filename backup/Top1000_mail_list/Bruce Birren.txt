@@ -1,3 +1,11 @@
-cbell@genomecanada.ca	[3]
-bwb@genome.wi.mit.edu	[3]
-bwb@genome.wi.mit.edu.bruce	[3]
+[
+    {
+        "content": "bruce birren. bruce birren. dna sequencing and automation home page. e-mail: bwb@genome.wi.mit.edu.", 
+        "email_addr_list": [
+            "bwb@genome.wi.mit.edu"
+        ], 
+        "cite_url": "www.broadinstitute.org/personal/bwb/birren.html", 
+        "cite_name": "Broad Institute", 
+        "title": "Bruce Birren - Broad Institute"
+    }
+]

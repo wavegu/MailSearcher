@@ -1,5 +1,29 @@
-serge.abiteboul@inria.fr	[29]
-serge.abiteboul@inria.frbiographie	[29]
-serge.abiteboul at inria.fr	[29]
-fname.lname@inria.fr	[2]
-j@inria.fr	[1]
+[
+    {
+        "content": "email: fname.lname@inria.fr. web: abiteboul.com. web perso: serge.abiteboul.com. blog: abiteboul.blogspot.fr. blog: binaire.blog.lemonde.fr. tweets: suivre @...", 
+        "email_addr_list": [
+            "fname.lname@inria.fr"
+        ], 
+        "cite_url": "abiteboul.com/", 
+        "cite_name": "", 
+        "title": "Serge Abiteboul, INRIA  ENS Cachan"
+    }, 
+    {
+        "content": "tel: (1-415) 725 48 02 (changed 04/17/96) office: gates 486. inria-rocquencourt, 78153 le chesnay cedex, france email: serge.abiteboul@inria.fr", 
+        "email_addr_list": [
+            "serge.abiteboul@inria.fr"
+        ], 
+        "cite_url": "abiteboul.com/SergeAbiteboul1997.html", 
+        "cite_name": "", 
+        "title": "Serge Abiteboul s home page, INRIA, 1997"
+    }, 
+    {
+        "content": "serge abiteboul. author details. affiliation: inria saclay and university paris sud, france; email: serge.abiteboul@inria.fr...", 
+        "email_addr_list": [
+            "serge.abiteboul@inria.fr"
+        ], 
+        "cite_url": "icdt.tu-dortmund.de/.../N116DE.html", 
+        "cite_name": "Technical University of Dortmund", 
+        "title": "Serge Abiteboul - ICDT"
+    }
+]

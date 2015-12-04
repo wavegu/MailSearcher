@@ -1,8 +1,47 @@
-erik.sonnhammer at scilifelab.se	[31]
-erik.sonnhammer@sbc.su.se	[29]
-erik.sonnhammer@cgb.ki.se	[29]
-erik.sonnhammer at sbc.su.se	[29]
-erik.sonnhammer@scilifelab.se	[29]
-journals.permissions@oup.com	[5]
-email at scilifelab.se	[5]
-abhiman.saraswathi@cgb.ki.se	[2]
+[
+    {
+        "content": "e-mail: erik.sonnhammer@scilifelab.se. room: a 2421 sll ... gabriel Östlund, mats lindskog, and erik l.l. sonnhammer molecular and cellular proteomics,...", 
+        "email_addr_list": [
+            "erik.sonnhammer@scilifelab.se"
+        ], 
+        "cite_url": "www.dbb.su.se/en/?p=researchgroupid=137", 
+        "cite_name": "", 
+        "title": "Erik Sonnhammer - Department of Biochemistry and ..."
+    }, 
+    {
+        "content": "dbb, stockholm university science for life laboratory box 1031, se-17121 solna, sweden tel: +46-(0)70-5586395. email: erik.sonnhammer at scilifelab.se...", 
+        "email_addr_list": [
+            "erik.sonnhammer@scilifelab.se"
+        ], 
+        "cite_url": "sonnhammer.sbc.su.se/", 
+        "cite_name": "", 
+        "title": "Sonnhammer Bioinformatics Group"
+    }, 
+    {
+        "content": "abhiman saraswathi and erik l.l. sonnhammer. center for genomics and ... e-mail: abhiman.saraswathi@cgb.ki.se. evolution conserves function, but also...", 
+        "email_addr_list": [
+            "abhiman.saraswathi@cgb.ki.se"
+        ], 
+        "cite_url": "funshift.sbc.su.se/ismb_poster.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Abhiman Saraswathi and Erik L.L. Sonnhammer ... - FunShift"
+    }, 
+    {
+        "content": "create alert. cancel. erik sonnhammer. stockholm bioinformatics centre, dbb, stockholm university, science for life laboratory ... verified email at scilifelab.se - homepage  scholar ... a krogh, bÈ larsson, g von heijne, ell sonnhammer.", 
+        "email_addr_list": [
+            "email@scilifelab.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LCzY3bsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Erik Sonnhammer - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: erik.sonnhammer@cgb.ki.se ... this tutorial is will explain the original, evolutionary definition of these and ... christian storm and erik l.l. sonnhammer.", 
+        "email_addr_list": [
+            "erik.sonnhammer@cgb.ki.se"
+        ], 
+        "cite_url": "www.iscb.org/cms_addon/conferences/.../pdfs/pm3-sonnhammer.PDF", 
+        "cite_name": "", 
+        "title": "[PDF]ISMB 2003 tutorial: Orthology Analysis Prof. Erik ..."
+    }
+]

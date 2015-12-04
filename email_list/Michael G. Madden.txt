@@ -1,0 +1,31 @@
+[
+    {
+        "content": "cancel. michael g madden. national university ... verified email at nuigalway.ie. scholar. get my own profile ... t howley, mg madden, ml oconnell, ag ryder.", 
+        "email_list": [
+            "email@nuigalway.ie"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=M2_AkRIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael G Madden - Google Scholar Citations"
+    }, 
+    {
+        "content": "michael g. madden. yan liu. school of engineering ... email: mei.chen.web@gmail.com. email: michael.madden@nuigalway.ie. email: yanliu.sse@tongji.edu.", 
+        "email_list": [
+            "mei.chen.web@gmail.com", 
+            "michael.madden@nuigalway.ie", 
+            "yanliu.sse@tongji.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../05...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Refined Learning of Hidden Markov Models with a Modified ..."
+    }, 
+    {
+        "content": "1 dr michael g. madden college of engineering  informatics, national university of ireland, galway, ireland. email: michael.madden@nuigalway.ie 2 dr tom...", 
+        "email_list": [
+            "michael.madden@nuigalway.ie"
+        ], 
+        "cite_url": "www.academia.edu/.../A_machine_learning_application_f...", 
+        "cite_name": "Academia.edu", 
+        "title": "A machine learning application for classification of chemical ..."
+    }
+]

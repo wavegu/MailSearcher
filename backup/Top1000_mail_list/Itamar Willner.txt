@@ -1,2 +1,20 @@
-willnea@vms.huji.ac.il	[3]
-email at vms.huji.ac.il	[2]
+[
+    {
+        "content": "cancel. itamar willner. the hebrew university of jerusalem. verified email at vms.huji.ac.il ... y xiao, f patolsky, e katz, jf hainfeld, i willner. science 299...", 
+        "email_addr_list": [
+            "email@vms.huji.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7DZ_0BoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Itamar Willner - Google Scholar Citations"
+    }, 
+    {
+        "content": "institute of chemistry - itamar willner. biojerusalem is a one-stop ... email, willnea@vms.huji.ac.il. address, faculty of science, philadelphia 210. phone...", 
+        "email_addr_list": [
+            "willnea@vms.huji.ac.il"
+        ], 
+        "cite_url": "www.biojerusalem.org.il  ...  Institute of Chemistry", 
+        "cite_name": "", 
+        "title": "Itamar Willner - BioJerusalem"
+    }
+]

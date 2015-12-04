@@ -1,4 +1,29 @@
-john.m.wallace@dartmouth.edu	[27]
-jwallace@cottonshires.com	[16]
-johnw@pitt.edu	[10]
-email at atmos.uw.edu	[3]
+[
+    {
+        "content": "john m wallace. professor of ... verified email at atmos.uw.edu - homepage  scholar ... nj mantua, sr hare, y zhang, jm wallace, rc francis. bulletin of the...", 
+        "email_addr_list": [
+            "email@atmos.uw.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4KH6Ve8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John M Wallace - Google Scholar Citations"
+    }, 
+    {
+        "content": "john.m.wallace@dartmouth.edu. 646-1412. 37 dewey field road, 420. 6219. its department: academic  campus technology services. academic  campus...", 
+        "email_addr_list": [
+            "john.m.wallace@dartmouth.edu"
+        ], 
+        "cite_url": "tech.dartmouth.edu/its/people/john-m-wallace", 
+        "cite_name": "", 
+        "title": "John M. Wallace | Information Technology Services"
+    }, 
+    {
+        "content": "john m. wallace - curriculum vitae ... email: jwallace@cottonshires.com ... mr. wallace has over 24 years of experience in the fields of geology and...", 
+        "email_addr_list": [
+            "jwallace@cottonshires.com"
+        ], 
+        "cite_url": "www.cottonshires.com/wp-content/uploads/.../John_Wallace_CV.pdfwww.google.com/email", 
+        "cite_name": "", 
+        "title": "[PDF]JOHN M. WALLACE - CURRICULUM VITAE Principal ...Google Business Email - Custom email for your company‎"
+    }
+]

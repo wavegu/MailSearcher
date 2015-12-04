@@ -1,3 +1,38 @@
-danny.reinberg@nyumc.org.danny	[27]
-danny.reinberg@nyumc.org	[27]
-email at nyumc.org	[2]
+[
+    {
+        "content": "smilow research center, room 213 552 first avenue, new york, ny 10016. office:212-263-9036. lab: 212-263-9033. email: danny.reinberg@nyumc.org.", 
+        "email_addr_list": [
+            "danny.reinberg@nyumc.org"
+        ], 
+        "cite_url": "https://www.med.nyu.edu/.../danny-reinbe...", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Danny Reinberg | Biochemistry and Molecular Pharmacology"
+    }, 
+    {
+        "content": "email: danny.reinberg@nyumc.org. publications. usp7 cooperates with scml2 to regulate the activity of prc1 lecona, emilio; narendra...", 
+        "email_addr_list": [
+            "danny.reinberg@nyumc.org"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/reinbd01", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Danny Reinberg | NYU School of Medicine"
+    }, 
+    {
+        "content": "lab tel: (212) 263-9033. fax: (212) 263-9040. e-mail: danny.reinberg@nyumc.org. lab website: http://www.med.nyu.edu/biochem/reinberglab/index.html", 
+        "email_addr_list": [
+            "danny.reinberg@nyumc.org"
+        ], 
+        "cite_url": "kimmelstem.med.nyu.edu/danny-reinberg", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Danny Reinberg, Ph.D. | The Helen L. and Martin S. Kimmel ..."
+    }, 
+    {
+        "content": "danny reinberg. professor of ... verified email at nyumc.org - homepage  scholar ... y zhang, hh ng, h erdjument-bromage, p tempst, a bird, d reinberg.", 
+        "email_addr_list": [
+            "email@nyumc.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nFuH4MMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Danny Reinberg - Google Scholar Citations"
+    }
+]

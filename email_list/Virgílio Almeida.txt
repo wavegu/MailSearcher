@@ -1,0 +1,48 @@
+[
+    {
+        "content": "nome científico, almeida, v. e-mail, virgilio@dcc.ufmg.br. profissão, cientista , pesquisador , professor titular. Área de especialização, ciências da engenharia.", 
+        "email_list": [
+            "virgilio@dcc.ufmg.br"
+        ], 
+        "cite_url": "www.abc.org.br/~virgilio", 
+        "cite_name": "", 
+        "title": "Virgílio Augusto Fernandes Almeida - Academia Brasileira ..."
+    }, 
+    {
+        "content": "virgilio almeida. professor of computer ... verified email at dcc.ufmg.br. scholar. get my own ... f benevenuto, g magno, t rodrigues, v almeida. collaboration...", 
+        "email_list": [
+            "email@dcc.ufmg.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Wbi6RfAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Virgilio Almeida - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 29, 2011 - virgilioalmeidaportrait.jpg  virgilioalmeidacaricature.jpg. country: brazil. email: gab.sepin [at] mct.gov.br. website: virgilio almeida. twitter...", 
+        "email_list": [
+            "gab.sepin@mct.gov.br"
+        ], 
+        "cite_url": "icannwiki.com/Virgilio_Augusto_Fernandes_Almeida", 
+        "cite_name": "", 
+        "title": "Virgilio Augusto Fernandes Almeida - ICANNWiki"
+    }, 
+    {
+        "content": "telefone: (61) 2033-7822 (61) 2033-7909. fax (61) 2033-7855. email:virgilio.almeida@mct.gov.br/ gab.sepin@mct.gov.br. esplanada dos ministérios, bloco e...", 
+        "email_list": [
+            "virgilio.almeida@mct.gov.br", 
+            "gab.sepin@mct.gov.br"
+        ], 
+        "cite_url": "www.dicasdepoliticaspublicas.com.br/.../InternaOrgao...", 
+        "cite_name": "", 
+        "title": "Secretaria de Política de Informática - Dicas de Políticas ..."
+    }, 
+    {
+        "content": "virgílio silva almeida. virgílio silva almeida. dvm, msc, phd, associate prof. ... infectious diseases and food safety (epidemiology unit). e-mail: vsa@ulisboa.pt", 
+        "email_list": [
+            "vsa@ulisboa.pt"
+        ], 
+        "cite_url": "ciisa.fmv.ulisboa.pt/en/.../197-virgilio-silva-almeida", 
+        "cite_name": "", 
+        "title": "Virgílio Silva Almeida - CIISA FMV ULisboa"
+    }
+]

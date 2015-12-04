@@ -1,0 +1,29 @@
+[
+    {
+        "content": "masahiro hamasaki. national institute ... verified email at aist.go.jp - homepage  scholar ... y matsuo, j mori, m hamasaki, t nishimura, h takeda, k hasida, .", 
+        "email_list": [
+            "email@aist.go.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Masahiro Hamasaki - Google Scholar Citations"
+    }, 
+    {
+        "content": "hamasaki, masahiro. [japanese|english]. the san francisco bay @2006-11-12. 濱崎 雅弘 (hamasaki, masahiro) ... mail: masahiro.hamasaki [at] aist.go.jp", 
+        "email_list": [
+            "masahiro.hamasaki@aist.go.jp"
+        ], 
+        "cite_url": "...", 
+        "cite_name": "National Institute of Advanced Industrial Science and...", 
+        "title": "濱崎雅弘"
+    }, 
+    {
+        "content": "i.u-tokyo.ac.jp hamasaki@ni.aist.go.jp (www2006) finding social network for ... nico douga @:j 2m90 masahiro hamasaki ;:6h5;=qam9g85f=j advanced...", 
+        "email_list": [
+            "hamasaki@ni.aist.go.jp"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-hamasaki-ni-ais-23896761.htm", 
+        "cite_name": "", 
+        "title": "hamasaki@ni.ais - The Email Archive"
+    }
+]

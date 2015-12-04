@@ -1,3 +1,29 @@
-jst@cs.ucl.ac.uk	[4]
-email at cs.ucl.ac.uk	[3]
-info@videolectures.net	[1]
+[
+    {
+        "content": "john shawe-taylor. professor of computational statistics and machine ... email address: jst@cs.ucl.ac.uk. disclaimer  freedom of information  accessibility...", 
+        "email_addr_list": [
+            "jst@cs.ucl.ac.uk"
+        ], 
+        "cite_url": "https://www.ucl.ac.uk/secret/.../JShawe-Taylor", 
+        "cite_name": "University College London", 
+        "title": "Prof. John Shawe-Taylor"
+    }, 
+    {
+        "content": "cancel. john shawe-taylor. ucl  machine learning. verified email at cs.ucl.ac.uk. scholar ... b schölkopf, jc platt, j shawe-taylor, aj smola, rc williamson.", 
+        "email_addr_list": [
+            "email@cs.ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1iE2ykkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "John Shawe-Taylor - Google Scholar Citations"
+    }, 
+    {
+        "content": "john s shawe-taylor is a professor at university college london (uk) ... john shawe-taylor obtained a phd in mathematics at royal holloway, university of london in 1986. .... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/john_shawe_taylor/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "John Shawe-Taylor - VideoLectures.NET"
+    }
+]

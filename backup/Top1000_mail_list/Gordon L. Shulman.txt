@@ -1,2 +1,39 @@
-gordon@npg.wustl.edu	[13]
-mau@npg.wustl.edu	[1]
+[
+    {
+        "content": "gordon l. shulman, phd. gordon shulman is a research associate professor of neurology . dr. shulman ... e-mail: gordon@npg.wustl.edu. phone: (314) 362-...", 
+        "email_addr_list": [
+            "gordon@npg.wustl.edu"
+        ], 
+        "cite_url": "neuro.wustl.edu  ...  Research Labs", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "Shulman Laboratory :: Washington University in St. Louis ..."
+    }, 
+    {
+        "content": "maurizio corbetta  gordon l. shulman about the authors. top of page ... correspondence to: maurizio corbetta email: mau@npg.wustl.edu. top of page...", 
+        "email_addr_list": [
+            "mau@npg.wustl.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Control of goal-directed and stimulus-driven attention in the ..."
+    }, 
+    {
+        "content": "maurizio corbetta1,2,3 and gordon l. shulman1 ... school of medicine, st. louis, missouri 63110; email: mau@npg.wustl.edu, gordon@npg.wustl.edu.", 
+        "email_addr_list": [
+            "mau@npg.wustl.edu", 
+            "gordon@npg.wustl.edu"
+        ], 
+        "cite_url": "www.annualreviews.org  ...  Volume 34, 2011", 
+        "cite_name": "Annual Reviews", 
+        "title": "Spatial Neglect and Attention Networks - Annual Reviews"
+    }, 
+    {
+        "content": "... university, st louis, mo 63110, usa. gordon shulman, department of neurology, box 8111, 660 s. euclid, mo 63110, usa. email: gordon@npg.wustl.edu.", 
+        "email_addr_list": [
+            "gordon@npg.wustl.edu"
+        ], 
+        "cite_url": "cercor.oxfordjournals.org/content/12/6/590.abstract", 
+        "cite_name": "Cerebral Cortex", 
+        "title": "Reactivation of Networks Involved in Preparatory States"
+    }
+]

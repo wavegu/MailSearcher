@@ -1,0 +1,5 @@
+singer@cs.huj	[13]
+yoramz@bgu.ac.il	[11]
+yoramz@bgu.ac.il.yoram	[11]
+datascience@columbia.edu	[2]
+manning@stanford.edu	[1]

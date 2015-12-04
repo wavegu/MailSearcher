@@ -1,0 +1,29 @@
+[
+    {
+        "content": "franco turini was born in 1949 in italy. he graduated in computer science ... room. 335. phone. +39 050 221 2753. email. turini@di.unipi.it. homepage.", 
+        "email_list": [
+            "turini@di.unipi.it"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Turini Franco | Knowledge Discovery and Data Mining ..."
+    }, 
+    {
+        "content": "cognome, turini. nome, franco. email, turini@di.unipi.it. ricevimento, su appuntamento dipartimento di informatica via buonarroti, 2. cerca altre informazioni...", 
+        "email_list": [
+            "turini@di.unipi.it"
+        ], 
+        "cite_url": "omero.humnet.unipi.it/3/p_vediDocente.asp?...430", 
+        "cite_name": "", 
+        "title": "Franco Turini - Omero - Il database della didattica ..."
+    }, 
+    {
+        "content": "jul 3, 2012 - direttore del dipartimento di informatica. franco turini professore ordinario di informatica e-mail: turini@di.unipi.it...", 
+        "email_list": [
+            "turini@di.unipi.it"
+        ], 
+        "cite_url": "https://www.unipi.it/.../turini.htm_cv...", 
+        "cite_name": "University of Pisa", 
+        "title": "Franco Turini - Università di Pisa"
+    }
+]

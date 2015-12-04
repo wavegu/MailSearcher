@@ -1,1 +1,11 @@
-mrm10@cornell.edu	[3]
+[
+    {
+        "content": "mark mccarthy. senior lecturer. information systems 344 statler hall phone: 607.255.1152. email: mrm10@cornell.edu  download vita...", 
+        "email_addr_list": [
+            "mrm10@cornell.edu"
+        ], 
+        "cite_url": "https://sha.cornell.edu/about/directory/instructors/mrm10", 
+        "cite_name": "", 
+        "title": "Mark McCarthy - Cornell School of Hotel Administration"
+    }
+]

@@ -1,2 +1,20 @@
-dharel at weizmann.ac.il	[12]
-email at weizmann.ac.il	[1]
+[
+    {
+        "content": "david harel the william sussman professorial chair dept. of ... email: dharel at weizmann.ac.il. my research interests are in several areas of computer...", 
+        "email_addr_list": [
+            "dharel@weizmann.ac.il"
+        ], 
+        "cite_url": "www.wisdom.weizmann.ac.il/~harel/", 
+        "cite_name": "Weizmann Institute of Science", 
+        "title": "Prof. David Harel"
+    }, 
+    {
+        "content": "david harel. professor of ... verified email at weizmann.ac.il - homepage  scholar ... d harel, h lachover, a naamad, a pnueli, m politi, r sherman, ... software...", 
+        "email_addr_list": [
+            "email@weizmann.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=E20Gzu0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David Harel - Google Scholar Citations"
+    }
+]

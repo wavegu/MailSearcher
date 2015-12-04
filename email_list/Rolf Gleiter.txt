@@ -1,0 +1,29 @@
+[
+    {
+        "content": "nov 1, 2012 - dr. rolf gleiter organisch-chemisches institut universität heidelberg institute of organic chemistry ... e-mail: rolf.gleiter@oci.uni-heidelberg.de...", 
+        "email_list": [
+            "rolf.gleiter@oci.uni-heidelberg.de"
+        ], 
+        "cite_url": "www.uni-heidelberg.de/.../akgleiter/home_ger.htm...", 
+        "cite_name": "Heidelberg University", 
+        "title": "Prof. Dr. R. Gleiter - OCI - Universität Heidelberg"
+    }, 
+    {
+        "content": "nov 1, 2012 - dr. rolf gleiter organisch-chemisches institut universität heidelberg institute of organic chemistry ... e-mail: rolf.gleiter@oci.uni-heidelberg.de...", 
+        "email_list": [
+            "rolf.gleiter@oci.uni-heidelberg.de"
+        ], 
+        "cite_url": "www.uni-heidelberg.de/.../akgleiter/home_eng.htm...", 
+        "cite_name": "Heidelberg University", 
+        "title": "Prof. Dr. R. Gleiter - Institute of Organic Chemistry ..."
+    }, 
+    {
+        "content": "fax: +49-6221-54-8404. e-mail: uwe.bunz@oci.uni-heidelberg.de. web address: http://www.uni-heidelberg.de/institute/fak12/oc/bunz/. prof. dr. rolf gleiter.", 
+        "email_list": [
+            "uwe.bunz@oci.uni-heidelberg.de"
+        ], 
+        "cite_url": "https://www.da...", 
+        "cite_name": "DAAD New York ‑ German Academic Exchange Servi...", 
+        "title": "[PDF]Heidelberg University"
+    }
+]

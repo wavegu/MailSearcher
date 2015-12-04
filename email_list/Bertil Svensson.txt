@@ -1,0 +1,20 @@
+[
+    {
+        "content": "bertil svensson. professor of computer systems ... verified email at hh.se - homepage  scholar ... m jonsson, a Åhlander, m taveniku, b svensson. massively...", 
+        "email_list": [
+            "email@hh.se"
+        ], 
+        "cite_url": "scholar.google.se/citations?user...hl=en", 
+        "cite_name": "Google", 
+        "title": "Bertil Svensson - Google Scholar Citations"
+    }, 
+    {
+        "content": "bertil svensson. service technician. phone: +46 (0)36-290 76 82. mobile +46 (0)705-11 23 25. e-mail: bertil.svensson@npb.se...", 
+        "email_list": [
+            "bertil.svensson@npb.se"
+        ], 
+        "cite_url": "www.npb.se/contact_npb/service-assembly", 
+        "cite_name": "", 
+        "title": "Service / Assembly - NPB"
+    }
+]

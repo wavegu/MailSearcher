@@ -1,1 +1,20 @@
-lon.cardon@well.ox.ac.uk	[20]
+[
+    {
+        "content": "krina t. zondervan  lon r. cardon about the authors. top of page ... correspondence to: lon r. cardon email: lon.cardon@well.ox.ac.uk. top of page...", 
+        "email_addr_list": [
+            "lon.cardon@well.ox.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "The complex interplay among factors that influence allelic ..."
+    }, 
+    {
+        "content": "... association. krina t. zondervan  lon r. cardon about the authors ... correspondence to: lon r. cardon email: lon.cardon@well.ox.ac.uk. top of page...", 
+        "email_addr_list": [
+            "lon.cardon@well.ox.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review  Full text", 
+        "cite_name": "Nature", 
+        "title": "The complex interplay among factors that influence allelic ..."
+    }
+]

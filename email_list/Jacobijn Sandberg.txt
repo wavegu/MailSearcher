@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jacobijn sandberg. unknown affiliation ... verified email at uva.nl. scholar. get my own profile ... mw van someren, yf barnard, jac sandberg. academic press...", 
+        "email_list": [
+            "email@uva.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Daw2Fw0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "jacobijn sandberg - Google Scholar Citations"
+    }, 
+    {
+        "content": "jacobijn sandberg (university of amsterdam, human computer studies, amsterdam, the netherlands email: sandberg@science.uva.nl). citation: manon...", 
+        "email_list": [
+            "sandberg@science.uva.nl"
+        ], 
+        "cite_url": "www.emeraldinsight.com/.../174156507800003...", 
+        "cite_name": "Emerald Group Publishing", 
+        "title": "DOI - Emerald"
+    }
+]

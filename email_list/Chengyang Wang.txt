@@ -1,0 +1,39 @@
+[
+    {
+        "content": "tel: 215-895-5810; fax: 215-895-2094; e-mail: sunwei@drexel.edu;. homepage: ... chengyang wang is pursuing his ph.d. degree in mechanical engineering.", 
+        "email_list": [
+            "sunwei@drexel.edu"
+        ], 
+        "cite_url": "www.mem.drexel.edu/BFLab/members/index.html", 
+        "cite_name": "", 
+        "title": "Members - Mechanical Engineering and Mechanics - Drexel ..."
+    }, 
+    {
+        "content": "yigong liu ph: 215 895 6688. email: yl525@drexel.edu. network and computer resources chengyang wang ph: 215 895 6688. email: cw@drexel.edu...", 
+        "email_list": [
+            "yl525@drexel.edu", 
+            "cw@drexel.edu"
+        ], 
+        "cite_url": "www.mem.drexel.edu/BFLab/contact.html", 
+        "cite_name": "", 
+        "title": "Contact Us - Mechanical Engineering and Mechanics"
+    }, 
+    {
+        "content": "chengyang zhang. teradata ... verified email at teradata.com - homepage  scholar ... y lou, c zhang, y zheng, x xie, w wang, y huang. proceedings of the...", 
+        "email_list": [
+            "email@teradata.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=d34ihNkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Chengyang Zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "see information and reports about swang101212@yahoo.com (chengyang wangs e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "swang101212@yahoo.com"
+        ], 
+        "cite_url": "spam-report.email/swang101212/yahoo.com", 
+        "cite_name": "", 
+        "title": "swang101212@yahoo.com (Chengyang Wangs e-mail ..."
+    }
+]

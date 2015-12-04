@@ -1,3 +1,29 @@
-giacomo.rizzolatti@unipr.it	[35]
-giacomo.rizzolatti at unipr.it	[35]
-email at unipr.it	[2]
+[
+    {
+        "content": "prof. giacomo rizzolatti. cultore della materia. ssd: bio/09 - fisiologia. tel: 0521-903879, email: giacomo.rizzolatti@unipr.it. fax: 0521-903900, skype: presso:.", 
+        "email_addr_list": [
+            "giacomo.rizzolatti@unipr.it"
+        ], 
+        "cite_url": "medicina.unipr.it/cgi-bin/...pl/Show?_id=rizzolatti", 
+        "cite_name": "", 
+        "title": "Docenti: Prof. Giacomo Rizzolatti"
+    }, 
+    {
+        "content": "cancel. giacomo rizzolatti. university of parma  neuroscience. verified email at unipr.it. scholar ... g di pellegrino, l fadiga, l fogassi, v gallese, g rizzolatti.", 
+        "email_addr_list": [
+            "email@unipr.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ft9Dm4kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Giacomo Rizzolatti - Google Scholar Citations"
+    }, 
+    {
+        "content": "giacomo rizzolatti*, maddalena fabbri-destro and luigi cattaneo about the authors. correspondence ... 43100 parma, italy email giacomo.rizzolatti@unipr.it...", 
+        "email_addr_list": [
+            "giacomo.rizzolatti@unipr.it"
+        ], 
+        "cite_url": "www.nature.com  Home  Archive  Vol 5 No 1  Review", 
+        "cite_name": "Nature", 
+        "title": "Mirror neurons and their clinical relevance - NatureSearches related to Giacomo Rizzolatti email"
+    }
+]

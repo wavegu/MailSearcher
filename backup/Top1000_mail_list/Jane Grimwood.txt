@@ -1,2 +1,20 @@
-jane@grimwoodassociates.co.uk	[9]
-email at hudsonalpha.com	[1]
+[
+    {
+        "content": "jane grimwood. faculty investigator ... verified email at hudsonalpha.com. scholar ... ah paterson, je bowers, r bruggmann, i dubchak, j grimwood, ... nature...", 
+        "email_addr_list": [
+            "email@hudsonalpha.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hTPZmRcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jane Grimwood - Google Scholar Citations"
+    }, 
+    {
+        "content": "grimwood associates - marketing, pr and research for brand development, advertising and communications. ... email: jane@grimwoodassociates.co.uk. website...", 
+        "email_addr_list": [
+            "jane@grimwoodassociates.co.uk"
+        ], 
+        "cite_url": "www.grimwoodassociates.co.uk/marketingpr.htm", 
+        "cite_name": "", 
+        "title": "Marketing  PR - Grimwood Associates: Marketing ..."
+    }
+]

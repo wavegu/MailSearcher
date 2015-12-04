@@ -1,8 +1,65 @@
-locutus at mit dot edu.charles	[17]
-locutus at mit dot edu	[4]
-cel@mit.edu	[4]
-email at mit.edu	[3]
-angelee@wustl.edu	[3]
-jfineman@csail.mit.edu	[2]
-cbruins@csail.mit.edu	[2]
-info@videolectures.net	[1]
+[
+    {
+        "content": "contact information for charles e. leiserson ... for my son ricky (charles e. leiserson, jr.), who is also at mit, please send email to locutus at mit dot edu.", 
+        "email_addr_list": [
+            "locutus@mit.edu"
+        ], 
+        "cite_url": "people.csail.mit.edu/cel/contact.html", 
+        "cite_name": "", 
+        "title": "Charles E. Leiserson : Contact"
+    }, 
+    {
+        "content": "create alert. cancel. charles e. leiserson. mit ... verified email at mit.edu - homepage  scholar ... th cormen, ce leiserson, rl rivest, c stein. mit press...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gWBoNCsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Charles E. Leiserson - Google Scholar Citations"
+    }, 
+    {
+        "content": "charles e leiserson s mit homepage people mit csail. professor of computer science and engineering at ... charles e. leiserson: email cel@mit.edu: home page...", 
+        "email_addr_list": [
+            "cel@mit.edu"
+        ], 
+        "cite_url": "ragilcell.com/tag/charles-e-leisersons-mit-homepage-people-mit-csail", 
+        "cite_name": "", 
+        "title": "Charles E Leisersons Mit Homepage People Mit Csail ..."
+    }, 
+    {
+        "content": "... institute of technology, 32 vassar street, 02139 cambridge, ma, usa jeremy t. fineman email: jfineman@csail.mit.edu charles e. leiserson email:...", 
+        "email_addr_list": [
+            "jfineman@csail.mit.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=038709766X", 
+        "cite_name": "", 
+        "title": "Laser Spectroscopy IV: Proceedings of the Fourth ..."
+    }, 
+    {
+        "content": "... academic organisations  eu supported  blog  about us  charles e. leiserson ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/charles_e_leiserson/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Charles E. Leiserson - VideoLectures.NET"
+    }, 
+    {
+        "content": "i-ting angelina lee, charles e. leiserson, tao b. schardl, jim sukha, and zhunping zhang spaa 13: proceedings of ... email, angelee@wustl.edu. other appt.", 
+        "email_addr_list": [
+            "angelee@wustl.edu"
+        ], 
+        "cite_url": "cse.wustl.edu  Department of Computer Science  Engineering  People", 
+        "cite_name": "", 
+        "title": "Faculty Bio - Department of Computer Science  Engineering"
+    }, 
+    {
+        "content": "eventbrite - bradley c. kuszmaul presents charles e. leisersons ... please email cree bruins (cbruins@csail.mit.edu) or call her at 617-253-2629. how should i...", 
+        "email_addr_list": [
+            "cbruins@csail.mit.edu"
+        ], 
+        "cite_url": "www.eventbrite.com  ...  Networking  Family  Education", 
+        "cite_name": "Eventbrite", 
+        "title": "Charles E. Leisersons 60th-Birthday Symposium and Party ..."
+    }
+]

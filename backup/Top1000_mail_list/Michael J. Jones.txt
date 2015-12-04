@@ -1,1 +1,11 @@
-cllr.michael.john.jones@powys.gov.uk	[26]
+[
+    {
+        "content": "sy15 6tb. phone: 01588620339. bus. email: cllr.michael.john.jones@powys.gov.uk  download county councillor michael j jones contact details as vcard...", 
+        "email_addr_list": [
+            "cllr.michael.john.jones@powys.gov.uk"
+        ], 
+        "cite_url": "https://powys.moderngov.co.uk/mgUserInfo.aspx?UID=153www.google.com/emailwww.peoplefinders.com/", 
+        "cite_name": "", 
+        "title": "Councillor details - County Councillor Michael J JonesGoogle Business Email - Custom email for your company‎We Found Michael J Jones‎"
+    }
+]

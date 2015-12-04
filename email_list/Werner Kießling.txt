@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: kiessling@informatik.uni-augsburg.de. telefon: +49 821 598 - 2134. fax: +49 821 598 - 2274. raum: 2051 (gebäude n). sprechzeiten: dienstag, 11:45...", 
+        "email_list": [
+            "kiessling@informatik.uni-augsburg.de"
+        ], 
+        "cite_url": "https://www.informatik.uni-augsburg.de/de/lehrstuehle/dbis/.../kiessling/", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Werner Kießling"
+    }, 
+    {
+        "content": "e-mail: kiessling@informatik.uni-augsburg.de. tel.: +49 821 598 - 2134. fax: +49 821 598 - 2274. room: 2051 (building n). office hours: thursday, 2:30 pm...", 
+        "email_list": [
+            "kiessling@informatik.uni-augsburg.de"
+        ], 
+        "cite_url": "https://www.informatik.uni-augsburg.de/en/chairs/dbis/db/.../kiessling/", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Werner Kießling (project leader and speaker)"
+    }, 
+    {
+        "content": "e-mail: christiane.eilders@phil.uni-augsburg.de, prof. dr. werner kießling institut für informatik universität augsburg d-86159 augsburg, germany e-mail:...", 
+        "email_list": [
+            "christiane.eilders@phil.uni-augsburg.de"
+        ], 
+        "cite_url": "https://www.uni-augsburg.de/institute/I3/News/", 
+        "cite_name": "", 
+        "title": "Neuigkeiten - Universität Augsburg"
+    }
+]

@@ -1,6 +1,47 @@
-james.buckley@europarl.europa.eu	[25]
-james.buckley@glasgow.ac.uk	[25]
-james.buckley@gcd.ie	[25]
-jbuckleybl@gmail.comjames	[16]
-jbuckleybl@gmail.com	[16]
-jub@slatervecchio.com	[3]
+[
+    {
+        "content": "james buckley. lecturer part-time. law. location: dublin. email: james.buckley@gcd.ie  apply online →  contact us →. back to top...", 
+        "email_addr_list": [
+            "james.buckley@gcd.ie"
+        ], 
+        "cite_url": "https://www.griffith.ie/people/james-buckley", 
+        "cite_name": "", 
+        "title": "James Buckley | Griffith College"
+    }, 
+    {
+        "content": "mr james buckley. qualifications: b.a. (t.c.d), mfi accredited ... dx: 816405; telephone numbers: 01-817 6756; email addresses: jbuckleybl@gmail.com", 
+        "email_addr_list": [
+            "jbuckleybl@gmail.com"
+        ], 
+        "cite_url": "www.lawlibrary.ie/members/James-Buckley/4364.aspx", 
+        "cite_name": "", 
+        "title": "Mr James Buckley - Law Library of Ireland - The Bar Council ..."
+    }, 
+    {
+        "content": "learn more about james u. buckley, one of our personal injury lawyers. ... james buckley was called to the bar in 1996. james ... email: jub@slatervecchio.com...", 
+        "email_addr_list": [
+            "jub@slatervecchio.com"
+        ], 
+        "cite_url": "www.slatervecchio.com/meet-your-team/james-buckley.htm", 
+        "cite_name": "", 
+        "title": "Slater Vecchio Team | James U. Buckley"
+    }, 
+    {
+        "content": "affiliate researcher (institute of biodiversity animal health and comparative medicine). email: james.buckley@glasgow.ac.uk...", 
+        "email_addr_list": [
+            "james.buckley@glasgow.ac.uk"
+        ], 
+        "cite_url": "www.gla.ac.uk  ...  Our staff", 
+        "cite_name": "University of Glasgow", 
+        "title": "Dr James Buckley"
+    }, 
+    {
+        "content": "policy advisor. mep peter skinner (uk – sd). email: james.buckley@europarl.europa.eu. james buckley is assistant and policy adviser to a british centre-left...", 
+        "email_addr_list": [
+            "james.buckley@europarl.europa.eu"
+        ], 
+        "cite_url": "www.bfna.org/person/james-buckleywww.google.com/email", 
+        "cite_name": "", 
+        "title": "James Buckley | Bertelsmann FoundationGoogle Business Email - Custom email for your company‎Searches related to James Buckley email"
+    }
+]

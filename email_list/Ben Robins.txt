@@ -1,0 +1,56 @@
+[
+    {
+        "content": "home page of dr. ben robins, including detailed cv, research and publications. ... (0) 1707 281150. fax: +44 (0) 1707 284185. email: b.robins@herts.ac.uk...", 
+        "email_list": [
+            "b.robins@herts.ac.uk"
+        ], 
+        "cite_url": "homepages.stca.herts.ac.uk/~comqbr/", 
+        "cite_name": "", 
+        "title": "Dr. Ben Robins - Department of Computer Science"
+    }, 
+    {
+        "content": "dr ben robins. ben robins. dr ben robins. postal address: university of hertfordshire, hatfield, hertfordshire. united kingdom. b.robins@herts.ac.uk.", 
+        "email_list": [
+            "b.robins@herts.ac.uk"
+        ], 
+        "cite_url": "vuh-la-risprt.herts.ac.uk/.../ben-robins(c1cf7752-6563-445a-9ee1-39829...", 
+        "cite_name": "", 
+        "title": "Dr Ben Robins - Research Database - University of ..."
+    }, 
+    {
+        "content": "site: dr ben robins- osteopath. suburb: cranbourne, 3977. click here, to ... email: centralosteo@bigpond.com. website: http://www.centralosteopathy.com.", 
+        "email_list": [
+            "centralosteo@bigpond.com"
+        ], 
+        "cite_url": "humanservicesdirectory.vic.gov.au/SiteDetails.aspx?SiteID=49849", 
+        "cite_name": "", 
+        "title": "Dr Ben Robins- Osteopath - HSD - Site Details"
+    }, 
+    {
+        "content": "email: natalie.wilmot@kcl.ac.uk. ben robins. mst project manager. po51 institute of psychiatry. 16 de crespigny park. london. se5 8af. telephone: 020...", 
+        "email_list": [
+            "natalie.wilmot@kcl.ac.uk"
+        ], 
+        "cite_url": "www.mstuk.org/mst-uk/contact-us", 
+        "cite_name": "", 
+        "title": "Contact us | MST"
+    }, 
+    {
+        "content": "ben robins is a partner at mourant ozannes in jersey with extensive experience in investment ... ben has been a frequent participant in local industry working groups looking at key regulatory ... tel: 020 7269 4677; email: info@aref.org.uk...", 
+        "email_list": [
+            "info@aref.org.uk"
+        ], 
+        "cite_url": "www.aref.org.uk/bio/ben-robins", 
+        "cite_name": "", 
+        "title": "Ben Robins | The Association of Real Estate Funds"
+    }, 
+    {
+        "content": "ben robins. ben-robins ben robins grew up in the kingston unitarian fellowship, and is currently at emmanuel college in toronto ... email: info@cuc.ca", 
+        "email_list": [
+            "info@cuc.ca"
+        ], 
+        "cite_url": "cuc.ca/people/ben-robins", 
+        "cite_name": "", 
+        "title": "Ben Robins - Canadian Unitarian Council"
+    }
+]

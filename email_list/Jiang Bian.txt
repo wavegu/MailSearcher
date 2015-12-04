@@ -1,0 +1,56 @@
+[
+    {
+        "content": "drop me an email at bianjiang@ufl.edu ... yuan j, malin b, modave f, hogan w, shenkman e, bian j. towards a cohesive privacy preserving cohort discovery...", 
+        "email_list": [
+            "bianjiang@ufl.edu"
+        ], 
+        "cite_url": "jiangbian.me/", 
+        "cite_name": "", 
+        "title": "Jiang Bian"
+    }, 
+    {
+        "content": "create alert. cancel. jiang bian ... verified email at ufl.edu - homepage  scholar ... j bian, m xie, u topaloglu, t hudson, h eswaran, w hogan. journal of...", 
+        "email_list": [
+            "email@ufl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ysr--voAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jiang Bian - Google Scholar Citations"
+    }, 
+    {
+        "content": "cancel. jiang bian. microsoft research ... verified email at microsoft.com - homepage  scholar ... j bian, y liu, d zhou, e agichtein, h zha. proceedings of the...", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pZBEnY8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jiang Bian - Google Scholar Citations"
+    }, 
+    {
+        "content": "jiang bian. bba in finance, fox school of business, temple university. email: bian.jiang@temple.edu. biography. thanks for looking at my eportfolio!", 
+        "email_list": [
+            "bian.jiang@temple.edu"
+        ], 
+        "cite_url": "eportfolios.fox.temple.edu/jbian/", 
+        "cite_name": "", 
+        "title": "Jiang Bian - FOX EPORTFOLIOS - Temple University"
+    }, 
+    {
+        "content": "bianjiang@ufl.edu ... here at the university of florida, bian will focus on various aspects of biomedical informatics research, particularly in: 1) ... send email ».", 
+        "email_list": [
+            "bianjiang@ufl.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Florida", 
+        "title": "Bian, Jiang - Health Outcomes  Policy - University of Florida"
+    }, 
+    {
+        "content": "dr jing bian llb (hebei) llm (london) phd (london) financial ... name: dr jing bian; email address: jb72@soas.ac.uk; building: 21/22 russell square...", 
+        "email_list": [
+            "jb72@soas.ac.uk"
+        ], 
+        "cite_url": "https://www.soas.ac.uk/staff/staff73748.php", 
+        "cite_name": "SOAS, University of London", 
+        "title": "Dr Jing Bian | Staff | SOAS, University of London"
+    }
+]

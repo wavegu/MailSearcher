@@ -1,0 +1,38 @@
+[
+    {
+        "content": "rutao cui, m.d., ph.d. ... lu c, chen j, xu h, zhou x, he q, li y, jiang g, shan y, xue b, zhao r, wang y, werle kd, cui r, liang j, ... email: rutaocui@bu.edu.", 
+        "email_list": [
+            "rutaocui@bu.edu"
+        ], 
+        "cite_url": "www.bumc.bu.edu/.../rutao-cui-m-d-...", 
+        "cite_name": "Boston University Medical Campus", 
+        "title": "Rutao Cui, MD, Ph.D. - Boston University Medical Campus"
+    }, 
+    {
+        "content": "yihong liu, jiying fan, rutao liu*, “the interaction of bovine serum albumin with doxorubicin-loaded ... 电话：010-62943110 email：admin@chinafoodj.com", 
+        "email_list": [
+            "admin@chinafoodj.com"
+        ], 
+        "cite_url": "www.chinafoodj.com/ch/reader/view_news.aspx?id...", 
+        "cite_name": "", 
+        "title": "LIU Ru-Tao - 欢迎访问《食品安全质量检测学报》网站！"
+    }, 
+    {
+        "content": "by rutao liu in fluorescence spectroscopy and transmission electron microscopy. ... evaluation on the toxicity of nanoag to bovine serum albumin rutao liu a, ⁎, feng sun a,1 , lijun zhang a ... e-mail address: rutaoliu@sdu.edu.cn (r. liu).", 
+        "email_list": [
+            "rutaoliu@sdu.edu.cn"
+        ], 
+        "cite_url": "www.academia.edu/.../Evaluation_on_the_toxicity_of_nan...", 
+        "cite_name": "Academia.edu", 
+        "title": "bovine serum albumin BSA - Academia.edu"
+    }, 
+    {
+        "content": "dec 13, 2010 - ... 86-531-88364868. e-mail: rutaoliu@sdu.edu.cn. ... hao zhang , yang liu , rui zhang , rutao liu , and yadong chen. the journal of...", 
+        "email_list": [
+            "rutaoliu@sdu.edu.cn"
+        ], 
+        "cite_url": "pubs.acs.org/doi/abs/10.1021/bm1011568", 
+        "cite_name": "American Chemical Society", 
+        "title": "Phenotypic Characterization of the Binding of Tetracycline to ..."
+    }
+]

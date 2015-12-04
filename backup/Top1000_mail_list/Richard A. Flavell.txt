@@ -1,3 +1,20 @@
-richard.flavell@yale.edu	[30]
-emailrichard.flavell@yale.edu	[30]
-email at yale.edu	[2]
+[
+    {
+        "content": "contact info. richard a flavell, phd, frs. office203.737.2216; fax203.737.2958; emailrichard.flavell@yale.edu. lab location. the anlyan center 300 cedar...", 
+        "email_addr_list": [
+            "emailrichard.flavell@yale.edu"
+        ], 
+        "cite_url": "immunobiology.yale.edu/people/richard_flavell-3.profile", 
+        "cite_name": "Yale University", 
+        "title": "Richard A Flavell, PhD, FRS - Immunobiology - Yale University"
+    }, 
+    {
+        "content": "richard a flavell. professor and ... hughes medical. verified email at yale.edu ... srm bennett, fr carbone, f karamalis, ra flavell, jfap miller, ... nature 393...", 
+        "email_addr_list": [
+            "email@yale.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8mUdjzAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "richard a flavell - Google Scholar Citations"
+    }
+]

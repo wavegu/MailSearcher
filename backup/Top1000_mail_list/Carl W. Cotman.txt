@@ -1,2 +1,11 @@
-cwcotman@uci.edu	[15]
-julie.parsons@cdph.ca.gov	[1]
+[
+    {
+        "content": "carl w. cotman, phd, the founding director of the uc irvine institute for memory impairments and neurological ... dr. cotmans research is focused on understanding the mechanisms causing neuronal. ... email. julie.parsons@cdph.ca.gov...", 
+        "email_addr_list": [
+            "julie.parsons@cdph.ca.gov"
+        ], 
+        "cite_url": "cadc.cdph.ca.gov/centers/leadership/ccotman.html", 
+        "cite_name": "", 
+        "title": "Carl W. Cotman, PhD | California Alzheimers Disease Centers"
+    }
+]

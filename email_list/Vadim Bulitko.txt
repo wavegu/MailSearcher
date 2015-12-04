@@ -1,0 +1,38 @@
+[
+    {
+        "content": "vadim bulitko. associate ... verified email at ualberta.ca - homepage  scholar ... v bulitko, m lustrek, j schaeffer, y bjornsson, s sigmundarson. journal of...", 
+        "email_list": [
+            "email@ualberta.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=a93MQNQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Vadim Bulitko - Google Scholar Citations"
+    }, 
+    {
+        "content": "vadim bulitko. associate professor/industrial internship program director. office:athabasca hall 338. phone:1-780-492-2285. email:bulitko@cs.ualberta.ca...", 
+        "email_list": [
+            "bulitko@cs.ualberta.ca"
+        ], 
+        "cite_url": "https://webapps.cs.ualberta.ca/.../directory.php?grou...", 
+        "cite_name": "University of Alberta", 
+        "title": "Professors - All Directory - Log in to CS Webapps"
+    }, 
+    {
+        "content": "vadim bulitkos art portfolio. ... vadim bulitko. vadim bulitko. linkedin: bulitko; website: www.cs.ualberta.ca/~bulitko; email: bulitko@gmail.com. i grew up with...", 
+        "email_list": [
+            "bulitko@gmail.com"
+        ], 
+        "cite_url": "bulitko.500px.com/about", 
+        "cite_name": "500px", 
+        "title": "Biography"
+    }, 
+    {
+        "content": "vadim bulitkos art portfolio. ... vadim bulitko. linkedin bulitko; website www.cs.ualberta.ca/~bulitko; email bulitko@gmail.com. name: email: message: are you...", 
+        "email_list": [
+            "bulitko@gmail.com"
+        ], 
+        "cite_url": "bulitko.500px.com/contact", 
+        "cite_name": "", 
+        "title": "Vadim Bulitko"
+    }
+]

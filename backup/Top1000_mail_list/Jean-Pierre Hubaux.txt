@@ -1,4 +1,29 @@
-jean-pierre.hubaux@epfl.ch	[33]
-emailhubaux@epfl.ch	[13]
-jean.raisaro@epfl.ch	[9]
-email at epfl.ch	[3]
+[
+    {
+        "content": "verified email at epfl.ch - homepage  scholar ... s Čapkun, m hamdi, jp hubaux ... l blažević, l buttyan, s capkun, s giordano, jp hubaux, jy le boudec.", 
+        "email_addr_list": [
+            "email@epfl.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W7YBLlEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jean-Pierre Hubaux - Google Scholar Citations"
+    }, 
+    {
+        "content": "jean louis raisaro. school of comp. and comm. sciences. epfl, lausanne, switzerland. email: jean.raisaro@epfl.ch. jean-pierre hubaux. school of comp.", 
+        "email_addr_list": [
+            "jean.raisaro@epfl.ch"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Personal Use of the Genomic Data - IEEE Xplore"
+    }, 
+    {
+        "content": "email: jean-pierre.hubaux@epfl.ch; xiaofeng wang (indiana univ. ... university, usa); satoru miyano (university of tokyo, jp); haixu tang (indiana university,...", 
+        "email_addr_list": [
+            "jean-pierre.hubaux@epfl.ch"
+        ], 
+        "cite_url": "seclab.soic.indiana.edu/GenomePrivacy/www.google.com/email", 
+        "cite_name": "", 
+        "title": "PETS Genome Privacy - Indiana UniversityGoogle Business Email - Custom email for your company‎"
+    }
+]

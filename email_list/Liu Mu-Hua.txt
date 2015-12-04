@@ -1,0 +1,29 @@
+[
+    {
+        "content": "nov 9, 2012 - e-mail: junliu@im.ac.cn ... [9] wan-hong cao*, jun liu*, xin-jian he, rui-ling mu, hua-lin zhou, shou-yi chen and jin- song zhang.", 
+        "email_list": [
+            "junliu@im.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "LIU Jun - Faculty and Staff----INSTITUTE OF ..."
+    }, 
+    {
+        "content": "tel/fax：010-64806081. e-mail: liuzhp@im.ac.cn .... guang-dong sun, yang xu, jing-hua jin, zhi-ping zhong, ying liu, mu luo, zhi-pei liu*. pilot scale ex-situ...", 
+        "email_list": [
+            "liuzhp@im.ac.cn"
+        ], 
+        "cite_url": "www.im.ac.cn/sklmr/EN%20version/LiuZP.html", 
+        "cite_name": "", 
+        "title": "Zhipei Liu - 中国科学院微生物研究所"
+    }, 
+    {
+        "content": "verified email at research.att.com - homepage  scholar ... y mu, s yan, y liu, t huang, b zhou ... l cao, y mu, a natsev, sf chang, g hua, jr smith.", 
+        "email_list": [
+            "email@research.att.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Fqqx4HsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yadong Mu - Google Scholar Citations"
+    }
+]

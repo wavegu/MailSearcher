@@ -1,4 +1,11 @@
-journals.permissions@oup.com.eugene	[2]
-journals.permissions@oup.com	[2]
-ruth.williams@absw.org.uk.eugene	[1]
-ruth.williams@absw.org.uk	[1]
+[
+    {
+        "content": "writing a preamble to the profile of dr. eugene braunwald is a daunting task, for it is impossible to convey the enormity of ..... e-mail ruth.williams@absw.org.uk.", 
+        "email_addr_list": [
+            "ruth.williams@absw.org.uk"
+        ], 
+        "cite_url": "circres.ahajournals.org/content/106/11/1668.full", 
+        "cite_name": "Circulation Research", 
+        "title": "Eugene Braunwald - Circulation Research"
+    }
+]

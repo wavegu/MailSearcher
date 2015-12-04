@@ -1,0 +1,65 @@
+[
+    {
+        "content": "giordana attilio, telephone: +39 0131 360186. fax: +39 0131 360198. email: attilio.giordana@mfn.unipmn.it. web page: giordano laura, telephone: +39 0131...", 
+        "email_list": [
+            "attilio.giordana@mfn.unipmn.it"
+        ], 
+        "cite_url": "www.di.unipmn.it/en/people-en/professors-en.html", 
+        "cite_name": "", 
+        "title": "Computer Science Institute - Professors"
+    }, 
+    {
+        "content": "giordana attilio, telefono: +39 0131 360186. fax: +39 0131 360198. email: attilio.giordana@mfn.unipmn.it. pagina web: giordano laura, telefono: +39 0131...", 
+        "email_list": [
+            "attilio.giordana@mfn.unipmn.it"
+        ], 
+        "cite_url": "www.di.unipmn.it/it/people-it/professors-it.html", 
+        "cite_name": "", 
+        "title": "Istituto di Informatica - Personale Docente"
+    }, 
+    {
+        "content": "docente: giordana attilio (email: attilio.giordana@mfn.unipmn.it). facoltà di scienze matematiche fisiche e naturali - a.a. 2010/2011 - 1° periodo...", 
+        "email_list": [
+            "attilio.giordana@mfn.unipmn.it"
+        ], 
+        "cite_url": "orari.disit.unipmn.it/.../...", 
+        "cite_name": "University of Eastern Piedmont", 
+        "title": "Docente: Giordana Attilio"
+    }, 
+    {
+        "content": "attilio giordana. full professor of computer science at the university of torino, campus of alessandria, component of the ... e-mail address: attilio@di.unito.it...", 
+        "email_list": [
+            "attilio@di.unito.it"
+        ], 
+        "cite_url": "www.di.unito.it/~attilio/", 
+        "cite_name": "University of Turin", 
+        "title": "Attilio Giordana"
+    }, 
+    {
+        "content": "4 2003 431-463 5/01 8/03 marco botta, attilio giordana, lorenza saitta and ... italy \\and lorenza saitta \\email saitta@mfn.unipmn.it\\\\ \\addr dipartimento di...", 
+        "email_list": [
+            "saitta@mfn.unipmn.it"
+        ], 
+        "cite_url": "www.ai.mit.edu/.../botta03a.tex", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "[TeX]Relational Learning as Search in a Critical Region"
+    }, 
+    {
+        "content": "attilio giordana. computer science department. universita del piemonte orientale. via teresea michel 11, 15121 - alessandria. email: attilio@mfn.unipmn.it.", 
+        "email_list": [
+            "attilio@mfn.unipmn.it"
+        ], 
+        "cite_url": "ceur-ws.org/Vol-892/paper6.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]HORUS: an Agent System for Home Automation - CEUR ..."
+    }, 
+    {
+        "content": "attilio giordana is full professor of computer science at the university of piemonte ... problems accessing these resources please email cflack@cambridge.org.", 
+        "email_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../phase-transitions-mac...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Phase Transitions in Machine Learning | Pattern ..."
+    }
+]

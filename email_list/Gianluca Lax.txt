@@ -1,0 +1,11 @@
+[
+    {
+        "content": "fortifying tripadvisor against. reputation-system attacks. francesco buccafurri. diies dept. univ. of reggio calabria. italy email: bucca@unirc.it. gianluca lax.", 
+        "email_list": [
+            "bucca@unirc.it"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0702...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Fortifying TripAdvisor against Reputation-System Attacks"
+    }
+]

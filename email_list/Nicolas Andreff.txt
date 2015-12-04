@@ -1,0 +1,38 @@
+[
+    {
+        "content": "03 81 40 29 61; fax : 33 (0)3 81 40 28 09; email : nicolas.andreff@femto-st.fr; address ... nicolas andreff received the engineer degree (~m.sc.) in 1994 from the...", 
+        "email_list": [
+            "nicolas.andreff@femto-st.fr"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Annuaire du département AS2M - femto-st"
+    }, 
+    {
+        "content": "address: nicolas andreff. département as2m, institut femto-st, 24 rue alain savary, 25000 besançon. email: nicolas.andreff@femto-st.fr. phone: +33 (0)3 81...", 
+        "email_list": [
+            "nicolas.andreff@femto-st.fr"
+        ], 
+        "cite_url": "maccs.univ-bpclermont.fr/index.php/Profiles/AndreffN", 
+        "cite_name": "", 
+        "title": "MACCS research team - Nicolas Andreff"
+    }, 
+    {
+        "content": "period: 2000-2009. address: nicolas andreff. département as2m, institut femto-st, 24 rue alain savary, 25000 besançon. email: nicolas.andreff@femto-st.fr.", 
+        "email_list": [
+            "nicolas.andreff@femto-st.fr"
+        ], 
+        "cite_url": "quintonj.free.fr/hosts/maccs/index.php/Profiles/AndreffN", 
+        "cite_name": "", 
+        "title": "Nicolas Andreff - Jean-Charles Quinton"
+    }, 
+    {
+        "content": "homecontactsscientific contactsnicolas andreff ... contact. nicolas.andreff@femto-st.fr; +33 381 40 29 61; http://www.femto-st.fr/ ... send an email. all fields with...", 
+        "email_list": [
+            "nicolas.andreff@femto-st.fr"
+        ], 
+        "cite_url": "www.microralp.eu/contacts/2-nicolas-andreff.html", 
+        "cite_name": "", 
+        "title": "MicroRALP - Nicolas Andreff"
+    }
+]

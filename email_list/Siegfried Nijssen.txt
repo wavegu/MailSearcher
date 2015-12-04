@@ -1,0 +1,48 @@
+[
+    {
+        "content": "siegfried nijssen. contact. liacs, leiden university niels bohrweg 1, 2333 ca, leiden, the netherlands email: snijssen at liacs.nl. ku leuven, department of...", 
+        "email_list": [
+            "snijssen@liacs.nl"
+        ], 
+        "cite_url": "liacs.leidenuniv.nl/~nijssensgr/", 
+        "cite_name": "", 
+        "title": "Siegfried Nijssen - LIACS"
+    }, 
+    {
+        "content": "full name: dr. s.g.r. (siegfried) nijssen. office: 110. phone: +31-(0)71-5278919. fax: +31-(0)71-5276985. e-mail: s.g.r.nijssen@liacs.leidenuniv.nl. homepage...", 
+        "email_list": [
+            "s.g.r.nijssen@liacs.leidenuniv.nl"
+        ], 
+        "cite_url": "liacs.leidenuniv.nl/organization/people/showdetails?ID=180", 
+        "cite_name": "", 
+        "title": "Siegfried Nijssen - People - LIACS - Leiden Institute of ..."
+    }, 
+    {
+        "content": "siegfried gerardus remius nijssen was born april 29, 1978 in the hague, the ... email: siegfried.nijssen@cs.kuleuven.be  snijssen@liacs.nl. homepage:.", 
+        "email_list": [
+            "siegfried.nijssen@cs.kuleuven.be", 
+            "snijssen@liacs.nl"
+        ], 
+        "cite_url": "liacs.leidenuniv.nl/~nijssensgr/CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae Siegfried Nijssen - LIACS - Universiteit ..."
+    }, 
+    {
+        "content": "siegfried nijssen. leiden university; katholieke ... verified email at cs.kuleuven.be. scholar. get my own ... y chi, rr muntz, s nijssen, jn kok. fundamenta...", 
+        "email_list": [
+            "email@cs.kuleuven.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EVQkdvAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Siegfried Nijssen - Google Scholar Citations"
+    }, 
+    {
+        "content": "... conferences  academic organisations  eu supported  blog  about us  siegfried nijssen ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/siegfried_nijssen/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Siegfried Nijssen - VideoLectures.NET"
+    }
+]

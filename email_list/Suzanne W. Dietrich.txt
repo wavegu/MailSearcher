@@ -1,0 +1,40 @@
+[
+    {
+        "content": "... po1 2dt; telephone: 023 9284; email: susanne.dietrich@port.ac.uk; department: school of pharmacy and biomedical sciences; faculty: faculty of science...", 
+        "email_list": [
+            "susanne.dietrich@port.ac.uk"
+        ], 
+        "cite_url": "www.port.ac.uk/.../dr-susanne-dietrich.html", 
+        "cite_name": "University of Portsmouth", 
+        "title": "Staff: Dr Susanne Dietrich - University of Portsmouth"
+    }, 
+    {
+        "content": "suzanne w. dietrich. susan d. urban ... s.dietrich@asu.edu. s.urban@asu.edu ..... would forget to send an email and when they did (more often than not), the...", 
+        "email_list": [
+            "s.dietrich@asu.edu", 
+            "s.urban@asu.edu"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.2987...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }, 
+    {
+        "content": "email: mailto:s.urban@asu.edu ... email: mailto:dietrich@asu.edu .... susan d. urban, suzanne w. dietrich, amy sundermier, ying jin, yinghui na, the use of...", 
+        "email_list": [
+            "s.urban@asu.edu", 
+            "dietrich@asu.edu"
+        ], 
+        "cite_url": "art.cwru.edu/idm/PIReports/25.html", 
+        "cite_name": "", 
+        "title": "Active, Declarative Integration Rules for Developing ..."
+    }, 
+    {
+        "content": "email: mahesh.chaudhari@asu.edu. phone: (602) 543-6936 ... jennifer ortiz, suzanne w. dietrich and mahesh chaudhari accepted in the 5th annual...", 
+        "email_list": [
+            "mahesh.chaudhari@asu.edu"
+        ], 
+        "cite_url": "maheshchaudhari.com/publications.html", 
+        "cite_name": "", 
+        "title": "Mahesh Publications - Mahesh Home"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email, shuichi.sakai@adelaide.edu.au. fax, +61 8 8313 4400. mobile, +61 4 ... please use the following url: http://www.adelaide.edu.au/directory/shuichi.sakai...", 
+        "email_list": [
+            "shuichi.sakai@adelaide.edu.au"
+        ], 
+        "cite_url": "www.adelaide.edu.au/directory/shuichi.sakai", 
+        "cite_name": "University of Adelaide", 
+        "title": "Mr Shuichi Sakai | The University of Adelaide Staff Directory"
+    }, 
+    {
+        "content": "tel: 042-443-5636，fax:042-443-5681, email: yosinaga@is.uec.ac.jp. special section editorial ... shuichi sakai (university of tokyo),. masahiro sasabe (osaka...", 
+        "email_list": [
+            "yosinaga@is.uec.ac.jp"
+        ], 
+        "cite_url": "is-candar.org/icnc11/_media/2012_12_cfp_e.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]― Special Section on Parallel and Distributed Computing ..."
+    }
+]

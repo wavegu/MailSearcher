@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email：export@yong-gang.com ... jiangsu yonggang group co., ltd. located in zhangjiagang city, jiangsu province, covering an area of 3500 mu and with a...", 
+        "email_list": [
+            "export@yong-gang.com"
+        ], 
+        "cite_url": "www.yong-gang.com/EnglishWeb/Overview/1.asp", 
+        "cite_name": "", 
+        "title": "WELCOME TO JIANGSU YONGGANG GROUP CO.,LTD."
+    }, 
+    {
+        "content": "create alert. cancel. yong-gang cao （曹勇刚） ... verified email at amazon.com - homepage  scholar ... sz he, sy an, hm jiang, r yang, yf cao. chinese...", 
+        "email_list": [
+            "email@amazon.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jyqSoHkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yong-gang Cao （曹勇刚） - Google Scholar Citations"
+    }, 
+    {
+        "content": "yonggang ke. assistant ... verified email at emory.edu - homepage  scholar ... r chhabra, j sharma, y ke, y liu, s rinker, s lindsay, h yan. journal of the...", 
+        "email_list": [
+            "email@emory.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jNXJdQ4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yonggang Ke - Google Scholar Citations"
+    }, 
+    {
+        "content": "sep 23, 2015 - contact tga: info@tga.gov.au (link sends e-mail) | 1800 020 653 | more .... yong gang tablets have not been assessed by the tga for quality,...", 
+        "email_list": [
+            "info@tga.gov.au"
+        ], 
+        "cite_url": "https://www.tga.gov.au/.../yong-gang-...", 
+        "cite_name": "Therapeutic Goods Administration", 
+        "title": "Yong Gang tablets | Therapeutic Goods Administration (TGA)"
+    }, 
+    {
+        "content": "yonggang yang. tel: +86 0351 7011045. email: ygyang@sxu.edu.cn  [link to personal ... lett.111, 153004, (2013); x. liu, y. yang, j. zhao, l. xiao, and s. jia", 
+        "email_list": [
+            "ygyang@sxu.edu.cn"
+        ], 
+        "cite_url": "laserspec.sxu.edu.cn/English/Person.aspx?id=15", 
+        "cite_name": "", 
+        "title": "Yonggang Yang - 山西大学激光光谱研究所"
+    }, 
+    {
+        "content": "q. p. chen, j. j. yang, y. g. zhao, s. zhang, j. w. wang, m. h. zhu, y. yu, x. z. zhang, zhu wang, bin ... dan xie, xueguang han, rui li, tianling ren, litian liu, and yonggang zhao characteristics of ..... email：ygzhao@tsinghua.edu.cn", 
+        "email_list": [
+            "ygzhao@tsinghua.edu.cn"
+        ], 
+        "cite_url": "info.phys.tsinghua.edu.cn:8080/english/personnel/profile.php?lang...", 
+        "cite_name": "", 
+        "title": "FacultyStaff--Zhao,YongGang"
+    }
+]

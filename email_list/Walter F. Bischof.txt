@@ -1,0 +1,20 @@
+[
+    {
+        "content": "walter f. bischof. ... department of computing science  university of alberta edmonton, alberta canada t6g 2e8 email: wfb@ualberta.ca...", 
+        "email_list": [
+            "wfb@ualberta.ca"
+        ], 
+        "cite_url": "https://webdocs.cs.ualberta.ca/~wfb/", 
+        "cite_name": "", 
+        "title": "Walter F. Bischof - University of Alberta"
+    }, 
+    {
+        "content": "email: barry.giesbrecht@psych.ucsb.edu. office: building 251, room 2831 ... canada) under the supervision of drs. alan kingstone and walter f. bischof and...", 
+        "email_list": [
+            "barry.giesbrecht@psych.ucsb.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Barry Giesbrecht | Psychological  Brain Sciences | UC ..."
+    }
+]

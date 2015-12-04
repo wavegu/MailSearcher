@@ -1,0 +1,38 @@
+[
+    {
+        "content": "contato, email: abraposo (at) inf (dot) puc-rio (dot) br telefone: (21) ... contato, email: furtado@inf.puc-rio.br telefone: (21) .... foto de marco antonio casanova.", 
+        "email_list": [
+            "furtado@inf.puc-rio.br"
+        ], 
+        "cite_url": "www.i...", 
+        "cite_name": "Pontifical Catholic University of Rio de Janeiro", 
+        "title": "Professores – Quadro Principal - Departamento de Informática"
+    }, 
+    {
+        "content": "funktion, lehrbeauftragter und forschungspartner. telefonnummer, +41 (0) 31 631 80 31 (sekretariat). email, marco.casanova@imu.unibe.ch", 
+        "email_list": [
+            "marco.casanova@imu.unibe.ch"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Bern", 
+        "title": "Universität Bern - IMU - Marketing - Marco Casanova"
+    }, 
+    {
+        "content": "marco antonio casanova. associate ... verified email at inf.puc-rio.br - homepage  scholar ... ma casanova, ch fagin, ronald, papadimitriou. journal of...", 
+        "email_list": [
+            "email@inf.puc-rio.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zWh25xcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Marco Antonio Casanova - Google Scholar Citations"
+    }, 
+    {
+        "content": "hotel casanova - san marco, 1284 - 30124 venezia - tel +39 041 5206855 – email info@hotelcasanova.it. comme rejoindre lhotel casanova.", 
+        "email_list": [
+            "info@hotelcasanova.it"
+        ], 
+        "cite_url": "www.hotelcasanova.it/fra/map.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Hotel Casanova - San Marco, 1284 - 30124 Venezia - Tel + ..."
+    }
+]

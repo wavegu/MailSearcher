@@ -1,0 +1,38 @@
+[
+    {
+        "content": "david v. anderson. professor. email: anderson@gmail.com. office: tsrb 406. research interest: efficient signal processing systems (hardware and software).", 
+        "email_list": [
+            "anderson@gmail.com"
+        ], 
+        "cite_url": "csip.ece.gatech.edu/?q=faculty/david-v-anderson", 
+        "cite_name": "", 
+        "title": "David V. Anderson | Center for Signal and Information ..."
+    }, 
+    {
+        "content": "dr. david v. anderson received the prestigious presidential early career award for scientists and ... atlanta, ga 30308, e-mail: phasler [at] ece.gatech.edu", 
+        "email_list": [
+            "phasler@ece.gatech.edu"
+        ], 
+        "cite_url": "cadsp.ece.gatech.edu/", 
+        "cite_name": "", 
+        "title": "CADSP :: about us"
+    }, 
+    {
+        "content": "create alert. cancel. david v. anderson. georgia tech. verified email at gatech.edu ... dj allred, h yoo, v krishnan, w huang, dv anderson. circuits and...", 
+        "email_list": [
+            "email@gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=b9_uwfcAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David V. Anderson - Google Scholar Citations"
+    }, 
+    {
+        "content": "aug 18, 2015 - david v. anderson is a heartland senior fellow specializing in ... by email at david.anderson@asoraeudcation.com or at 508/409-8597.", 
+        "email_list": [
+            "email@david.anderson"
+        ], 
+        "cite_url": "https://www.heartland.org/david-v-anderson", 
+        "cite_name": "The Heartland Institute", 
+        "title": "David V. Anderson | Heartland Institute"
+    }
+]

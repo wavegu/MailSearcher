@@ -1,0 +1,48 @@
+[
+    {
+        "content": "yücel saygin faculty of engineering and natural sciences sabanci university orhanli, 34956, tuzla, istanbul, turkey. e-mail: ysaygin [at] sabanciuniv.edu.", 
+        "email_list": [
+            "ysaygin@sabanciuniv.edu"
+        ], 
+        "cite_url": "people.sabanciuniv.edu/ysaygin/", 
+        "cite_name": "", 
+        "title": "YÜCEL SAYGIN // Welcome"
+    }, 
+    {
+        "content": "instructor: yucel saygin. office: fens 2081. e-mail: ysaygin@sabanciuniv.edu. tel: 9576. web: http://people.sabanciuniv.edu/ysaygin/. office hours: you can...", 
+        "email_list": [
+            "ysaygin@sabanciuniv.edu"
+        ], 
+        "cite_url": "people.sabanciuniv.edu/ysaygin/go.php?page=CS_306_Database...", 
+        "cite_name": "", 
+        "title": "YÜCEL SAYGIN // CS 306 Database Systems"
+    }, 
+    {
+        "content": "instructor: yücel saygin. office: fens 2081. e-mail: ysaygin [at] sabanciuniv.edu. tel: 9576. web: http://people.sabanciuniv.edu/ysaygin/. assistants: grad: mert...", 
+        "email_list": [
+            "ysaygin@sabanciuniv.edu"
+        ], 
+        "cite_url": "people.sabanciuniv.edu/ysaygin/go.php?page=CS_307_Operating...", 
+        "cite_name": "", 
+        "title": "YÜCEL SAYGIN // CS 307 Operating Systems"
+    }, 
+    {
+        "content": "e-mail: ysaygin [at] sabanciuniv.edu ... yucel saygin, yuntong wang, arnolg reisman. a game theoretic ... yucel saygin, arnold reisman, yuntong wang.", 
+        "email_list": [
+            "ysaygin@sabanciuniv.edu"
+        ], 
+        "cite_url": "people.sabanciuniv.edu/ysaygin/go.php?page=Curriculum_Vitae", 
+        "cite_name": "", 
+        "title": "YÜCEL SAYGIN // Curriculum Vitae"
+    }, 
+    {
+        "content": "phone +970 599 769876 • e-mail bilala@hebron.edu ... prof yucel saygin, sabanci university, istanbul turkey , email: ysaygin@sabanciuniv.edu. , phd...", 
+        "email_list": [
+            "bilala@hebron.edu", 
+            "ysaygin@sabanciuniv.edu"
+        ], 
+        "cite_url": "elearning.hebron.edu/EPortfolio/artefact/file/download.php?file...38", 
+        "cite_name": "", 
+        "title": "[DOC]C_V_BelalAmro.doc"
+    }
+]

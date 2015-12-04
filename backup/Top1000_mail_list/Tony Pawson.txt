@@ -1,1 +1,11 @@
-sarahl@keystonesymposia.org	[1]
+[
+    {
+        "content": "the biological code of cell signaling: a tribute to tony pawson (f1) ... this keystone symposia meeting has been designed to honor the memory of tony pawson. ..... assistant director of development, email: sarahl@keystonesymposia.org,", 
+        "email_addr_list": [
+            "sarahl@keystonesymposia.org"
+        ], 
+        "cite_url": "www.keystonesymposia.org/1...www.google.com/email", 
+        "cite_name": "Keystone Symposia Scientific Conferences", 
+        "title": "A Tribute to Tony Pawson - Keystone Symposia | Scientific ...Google Business Email‎Searches related to Tony Pawson email"
+    }
+]

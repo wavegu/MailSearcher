@@ -1,3 +1,11 @@
-kanehisa@kuicr.kyoto-u.ac.jp	[17]
-kanehisa.kanehisa@kuicr.kyo	[17]
-email at kuicr.kyoto-u.ac.jp	[3]
+[
+    {
+        "content": "minoru kanehisa. professor ... verified email at kuicr.kyoto-u.ac.jp - homepage ... m kanehisa, s goto, m hattori, kf aoki-kinoshita, m itoh, s kawashima, .", 
+        "email_addr_list": [
+            "email@kuicr.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HIoc184AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Minoru Kanehisa - Google Scholar Citations"
+    }
+]

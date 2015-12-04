@@ -1,0 +1,38 @@
+[
+    {
+        "content": "thomas_serre@brown.edu email icon. thomas r. serre manning assistant professor of cognitive, linguistic, and psychological sciences. dr serre is manning...", 
+        "email_list": [
+            "thomas_serre@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/display/tserre", 
+        "cite_name": "", 
+        "title": "Serre, Thomas - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "email: thomas_serre@brown.edu. web: http://serre-‐lab.clps.brown.edu/. academic positions. 2010 – present assistant professor. brown university, department...", 
+        "email_list": [
+            "thomas_serre@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/docs/drrb/1263325447.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Thomas Serre - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "thomas serre. assistant professor of ... verified email at brown.edu - homepage  scholar. get my own ... t serre, l wolf, s bileschi, m riesenhuber, t poggio.", 
+        "email_list": [
+            "email@brown.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=s7t7VxMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Thomas Serre - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 22, 2009 - thomas serre ... you can subscribe to our weekly seminar email list by sending an email to majordomo@lists.berkeley.edu that contains the...", 
+        "email_list": [
+            "majordomo@lists.berkeley.edu"
+        ], 
+        "cite_url": "redwood.berkeley.edu/seminar-info.php?...", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Thomas Serre - Redwood Center for Theoretical ..."
+    }
+]

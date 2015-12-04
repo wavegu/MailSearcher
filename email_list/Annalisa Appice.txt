@@ -1,0 +1,47 @@
+[
+    {
+        "content": "may 29, 2015 - annalisa appice home page. research interests: ... email: appice@di.uniba.it .... for more information, please do not hesitate to email me.", 
+        "email_list": [
+            "appice@di.uniba.it"
+        ], 
+        "cite_url": "www.di.uniba.it/~appice/", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Appice - Dipartimento di Informatica - Università degli Studi ..."
+    }, 
+    {
+        "content": "annalisa appice phd student ... fax: +39 080 5443196 email: appice@di.uniba.it ... d. malerba, f. esposito, a. lanza, f.a. lisi,  a. appice. empowering a gis...", 
+        "email_list": [
+            "appice@di.uniba.it"
+        ], 
+        "cite_url": "lacam.di.uniba.it:8000/.../appice....", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Annalisa Appice Home Page"
+    }, 
+    {
+        "content": "telefono: +390805443262. fax: +390805443269. dipartimento: dipartimento di informatica email: annalisa.appice@uniba.it. settore disciplinare: n/d...", 
+        "email_list": [
+            "annalisa.appice@uniba.it"
+        ], 
+        "cite_url": "www.uniba.it/...", 
+        "cite_name": "Università degli studi di Bari Aldo Moro", 
+        "title": "Annalisa Appice — Università degli Studi di Bari Aldo Moro"
+    }, 
+    {
+        "content": "annalisa appice. researcher of computer ... verified email at di.uniba.it - homepage  scholar ... a appice, m ceci, a lanza, fa lisi, d malerba. intelligent data...", 
+        "email_list": [
+            "email@di.uniba.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wkeu9oZX8-EC...", 
+        "cite_name": "Google Scholar", 
+        "title": "Annalisa Appice - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 6, 2015 - appice, a. ; annalisa appice is with the dipartimento di informatica, universita degli studi ... (email: annalisa.appice@uniba.it) ; malerba, d.", 
+        "email_list": [
+            "annalisa.appice@uniba.it"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../article...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "IEEE Xplore Abstract - A Co-training Strategy for Multiple ..."
+    }
+]

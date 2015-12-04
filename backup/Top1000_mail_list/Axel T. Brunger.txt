@@ -1,1 +1,20 @@
-brunger@laplace.csb.yale.edu	[15]
+[
+    {
+        "content": "r. bryan sutton, dirk fasshauer, reinhard jahn  axel t. brunger ... for materials should be addressed to a.t.b. (e-mail: email: brunger@laplace.csb.yale.edu).", 
+        "email_addr_list": [
+            "brunger@laplace.csb.yale.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Crystal structure of a SNARE complex involved in synaptic ..."
+    }, 
+    {
+        "content": "correspondence to: axel t. brunger correspondence and requests for materials should be addressed to a.t.b. (e-mail: email: brunger@laplace.csb.yale.edu).", 
+        "email_addr_list": [
+            "brunger@laplace.csb.yale.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Article - Nature"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email : bellatreche@ensma.fr ... ladjel bellatreche is a professor at national engineering school for mechanics and aerotechnics (ensma), poitiers, where he...", 
+        "email_list": [
+            "bellatreche@ensma.fr"
+        ], 
+        "cite_url": "www.lias-lab.fr/members/bellatreche", 
+        "cite_name": "", 
+        "title": "Page Professionnelle de Ladjel BELLATRECHE | LIAS Web ..."
+    }, 
+    {
+        "content": "may 16, 2014 - department of informatics engineering. university of coimbra, portugal. email: pnf@dei.uc.pt. ladjel bellatreche. national engineering school...", 
+        "email_list": [
+            "pnf@dei.uc.pt"
+        ], 
+        "cite_url": "www.ieeebigdata.org/2014/satellite/coimbra/Advanced-Program.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]here"
+    }
+]

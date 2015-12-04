@@ -1,2 +1,20 @@
-boehm@sunset.usc.edu	[12]
-boehm@usc.edu	[12]
+[
+    {
+        "content": "e-mail: boehm@usc.edu. phone: (213) 740-8163. fax: (213) 740-4927. biography. barry w. boehm, trw professor of software engineering and director...", 
+        "email_addr_list": [
+            "boehm@usc.edu"
+        ], 
+        "cite_url": "csse.usc.edu/csse/about/people/faculties/BarryBoehm.html", 
+        "cite_name": "", 
+        "title": "Barry Boehm - Center for Software Engineering - University ..."
+    }, 
+    {
+        "content": "personal homepage: http://sunset.usc.edu/people/barry.html; employer: (); email: boehm@sunset.usc.edu. barry w. boehm (1935) is an american software...", 
+        "email_addr_list": [
+            "boehm@sunset.usc.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/barry-w-boehm", 
+        "cite_name": "", 
+        "title": "Barry W. Boehm - Interaction Design Foundation"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "... 市集美区集美大道668号，材料学院；邮编：361021 email：lisi202001@tom.com ... sizhong li, yongming tian, yajuan zhong, xi yan, yan song, quangui guo,...", 
+        "email_list": [
+            "lisi202001@tom.com"
+        ], 
+        "cite_url": "clxy.hqu.edu.cn/main/teachershow.asp?ArticleID=71", 
+        "cite_name": "", 
+        "title": "李四中--华侨大学材料科学与工程学院"
+    }, 
+    {
+        "content": "jul 4, 2009 - 0351-4084106. fax: e-mail: qgguo@sxicc.ac.cn. personal website: ... jianguo zhao, lang liu, quangui guo, jingli shi, gengtai zhai, jinren...", 
+        "email_list": [
+            "qgguo@sxicc.ac.cn"
+        ], 
+        "cite_url": "sourcedb.sxicc.cas.cn/yw/zjrc/200907/t20090704_1930377.html", 
+        "cite_name": "", 
+        "title": "guoquangui"
+    }, 
+    {
+        "content": "apr 2, 2011 - xiaoling zhai, yan song, linjie zhi, jingli shi, quangui guo, “preparation and electrochemical ... wei lv, min guo, ming-hui liang, feng-min jin, lan cui, linjie zhi and quan-hong yang*, .... email：webmaster@nanoctr.cn.", 
+        "email_list": [
+            "webmaster@nanoctr.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "论文发表----国家纳米科学中心"
+    }
+]

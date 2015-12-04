@@ -1,3 +1,29 @@
-eliy@ee.ucla.edu.eli	[8]
-eliy@ee.ucla.edu	[8]
-email at eecs.berkeley.edu	[3]
+[
+    {
+        "content": "eli yablonovitch adjunct professor primary area: physical and wave electronics. office: 66-147k engr. iv phone: (310) 206-2240. e-mail: eliy@ee.ucla.edu.", 
+        "email_addr_list": [
+            "eliy@ee.ucla.edu"
+        ], 
+        "cite_url": "www.ee.ucla.edu/eli-yablonovitch/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Eli Yablonovitch | EE"
+    }, 
+    {
+        "content": "eli yablonovitch. unknown affiliation. verified email at eecs.berkeley.edu - homepage ... e yablonovitch, tj gmitter, rd meade, am rappe, kd brommer, .", 
+        "email_addr_list": [
+            "email@eecs.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4wqIUjMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Eli Yablonovitch - Google Scholar Citations"
+    }, 
+    {
+        "content": "eli yablonovitch. send to a friend ... eli yablonovitch. email: eliy@ee.ucla.edu .... professor yablonovitch knows exactly what hes talking about. hes interesting...", 
+        "email_addr_list": [
+            "eliy@ee.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Electrical Engineering", 
+        "cite_name": "", 
+        "title": "BruinWalk : Eli Yablonovitch"
+    }
+]

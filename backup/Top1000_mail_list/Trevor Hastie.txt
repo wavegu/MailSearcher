@@ -1,2 +1,20 @@
-trevor@stat.stanford.edu	[13]
-email at stanford.edu	[2]
+[
+    {
+        "content": "trevor hastie. professor of ... verified email at stanford.edu - homepage  scholar ... t sorlie, cm perou, r tibshirani, t aas, s geisler, h johnsen, t hastie, .", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tQVe-fAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Trevor Hastie - Google Scholar Citations"
+    }, 
+    {
+        "content": "... o fax to prof. t. hastie at (415) 326-0854, or o email to trevor@stat.stanford.edu ... t. hastie. mail it, together with this completed registration form to: prof.", 
+        "email_addr_list": [
+            "trevor@stat.stanford.edu"
+        ], 
+        "cite_url": "vlado.fmf.uni-lj.si/ifcs/calls/callfp04.txtwww.google.com/email", 
+        "cite_name": "University of Ljubljana", 
+        "title": "Modern Regression and ClassificationGoogle Business Email‎Searches related to Trevor Hastie email"
+    }
+]

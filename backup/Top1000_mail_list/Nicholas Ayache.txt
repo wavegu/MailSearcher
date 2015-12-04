@@ -1,7 +1,39 @@
-nicholas.ayache@inria.fr	[29]
-nicholas.ayache@sophia.inria.fr	[29]
-com.ayache@sophia.inr	[13]
-constantine.butakoff@upf.edu.nicholas	[3]
-email at inria.fr	[3]
-christian.buerger@philips.com	[3]
-constantine.butakoff@upf.edu	[3]
+[
+    {
+        "content": "nicholas ayache. research director at inria  medical image analysis and simulation. verified email at inria.fr - homepage ... s cotin, h delingette, n ayache.", 
+        "email_addr_list": [
+            "email@inria.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=29XL16UAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Nicholas Ayache - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: nicholas.ayache@inria.fr. j.s. duncan, dept. of diagnostic radiology, yale university school of medicine, 333 cedar street-bml 332, new haven, ct...", 
+        "email_addr_list": [
+            "nicholas.ayache@inria.fr"
+        ], 
+        "cite_url": "www.medicalimageanalysisjournal.com/content/edboard", 
+        "cite_name": "", 
+        "title": "Editorial Board - Medical Image Analysis"
+    }, 
+    {
+        "content": "site: http://www-sop.inria.fr/members/nicholas.ayache/. bart bijnens. email: ... email: christian.buerger@philips.com ... email: constantine.butakoff@upf.edu.", 
+        "email_addr_list": [
+            "christian.buerger@philips.com", 
+            "constantine.butakoff@upf.edu"
+        ], 
+        "cite_url": "vp2hf.physense.upf.edu/people", 
+        "cite_name": "", 
+        "title": "People | VP2HF"
+    }, 
+    {
+        "content": "n. ayache is with the asclepios group inria 06902 sophia antipolis france (e-mail: nicholas.ayache@sophia.inria.fr) . b. fischl is also with the department of...", 
+        "email_addr_list": [
+            "nicholas.ayache@sophia.inria.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-ayache-sophia-inr-4289201.htm", 
+        "cite_name": "", 
+        "title": "ayache@sophia.inr - The Email Archive"
+    }
+]

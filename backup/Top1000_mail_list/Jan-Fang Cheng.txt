@@ -1,5 +1,40 @@
-info@biomedcentral.com	[2]
-email at cheme.caltech.edu	[2]
-email at chemistry.harvard.edu	[2]
-email at radiantgenomics.com	[2]
-email at lbl.gov	[1]
+[
+    {
+        "content": "jan-fang cheng. staff scientist, lawrence ... verified email at lbl.gov. scholar ... s horike, s cai, m miyano, jf cheng, t kohwi-shigematsu. nature genetics 37...", 
+        "email_addr_list": [
+            "email@lbl.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lhw-EFMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jan-Fang Cheng - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at chemistry.harvard.edu ... jan-fang cheng. staff scientist, lawrence berkeley national laboratory. verified email at lbl.gov. @lbl.gov. cited by...", 
+        "email_addr_list": [
+            "email@chemistry.harvard.edu", 
+            "email@lbl.gov"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?view_op=search...hl...", 
+        "cite_name": "Google", 
+        "title": "Single cell genomics - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at radiantgenomics.com. @radiantgenomics.com ... verified email at cheme.caltech.edu. @cheme.caltech.edu ... jan-fang cheng. staff scientist...", 
+        "email_addr_list": [
+            "email@radiantgenomics.com", 
+            "email@cheme.caltech.edu"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?view_op=search...hl=en...", 
+        "cite_name": "Google", 
+        "title": "Synthetic Biology - Google Scholar Citations"
+    }, 
+    {
+        "content": "supratim mukherjee, alla lapidus, nicole shapiro, jan-fang cheng, james han, ... to participate and need an invitation, please email info@biomedcentral.com,...", 
+        "email_addr_list": [
+            "info@biomedcentral.com"
+        ], 
+        "cite_url": "www.standardsingenomics.com/content/10/1/8/comments", 
+        "cite_name": "", 
+        "title": "Readers comments - Standards in Genomic Sciences"
+    }
+]

@@ -1,3 +1,20 @@
-suematsu@chiba-u.jp	[16]
-miyaura@cc.tuat.ac.jp	[2]
-george777@yahoo.co.in	[1]
+[
+    {
+        "content": "i will send few titles later. please send your email id, is not available in your profile. ... author: satoshi uematsu. my email id: nik_george777@yahoo.co.in. feb 3...", 
+        "email_addr_list": [
+            "nik_george777@yahoo.co.in"
+        ], 
+        "cite_url": "www.researchgate.net/post/Science_Direct1", 
+        "cite_name": "ResearchGate", 
+        "title": "Science Direct - ResearchGate"
+    }, 
+    {
+        "content": "... chuou-ku, chiba, 260-8670, japan. tel: +81-43-226-2182. fax: +81-43-226-2183. e-mail: suematsu@chiba-u.jp ... satoshi uematsu. education history...", 
+        "email_addr_list": [
+            "suematsu@chiba-u.jp"
+        ], 
+        "cite_url": "www.m.chiba-u.ac.jp/class/mucosa/message-e.htmlwww.google.com/email", 
+        "cite_name": "Chiba University", 
+        "title": "Message | Department of Mucosal Immunology, School of ...Google Business Email‎"
+    }
+]

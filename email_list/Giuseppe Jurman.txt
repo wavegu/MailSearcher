@@ -1,0 +1,20 @@
+[
+    {
+        "content": "fbk - mpba. via sommarive 18, i-38123 povo (trento), italy. ph: +39 0461 314 523. fax: +39 0461 314 591. skype: giubeppetn. email: jurman at fbk dot eu.", 
+        "email_list": [
+            "jurman@fbk.eu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Giuseppe Jurman - FBK | Predictive Models for Biomedicine ..."
+    }, 
+    {
+        "content": "cancel. giuseppe jurman ... verified email at fbk.eu - homepage  scholar ... a barla, g jurman, s riccadonna, s merler, m chierici, c furlanello. briefings in...", 
+        "email_list": [
+            "email@fbk.eu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ovoyC-kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Giuseppe Jurman - Google Scholar Citations"
+    }
+]

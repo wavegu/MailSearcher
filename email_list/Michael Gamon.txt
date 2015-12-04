@@ -1,0 +1,11 @@
+[
+    {
+        "content": "michael gamon. 30, st peters grove, laceby, grimsby, n.e. lincs. dn37 7hd. telephone: 01472 872684. (email: michael@gamon.plus.com). please do not...", 
+        "email_list": [
+            "michael@gamon.plus.com"
+        ], 
+        "cite_url": "nlhsc.org.uk/documents/Application_For_Membership_2013.doc", 
+        "cite_name": "", 
+        "title": "[DOC]North Lincolnshire and Humberside Sailing Club"
+    }
+]

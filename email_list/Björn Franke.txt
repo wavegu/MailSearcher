@@ -1,0 +1,65 @@
+[
+    {
+        "content": "dr. björn franke. reader. school of informatics. university of edinburgh. email: bfranke@inf.ed.ac.uk. phone: +44 (0) 131 651 7175. fax: +44 (0) 131 667 7209.", 
+        "email_list": [
+            "bfranke@inf.ed.ac.uk"
+        ], 
+        "cite_url": "homepages.inf.ed.ac.uk/bfranke/", 
+        "cite_name": "University of Edinburgh", 
+        "title": "Björn Franke - Informatics Homepages Server - University of ..."
+    }, 
+    {
+        "content": "•igor böhm, tobias edler von koch, björn franke and nigel topham. generalized ... •georgios tournavitis and björn franke. ... email: bfranke@inf.ed.ac.uk.", 
+        "email_list": [
+            "bfranke@inf.ed.ac.uk"
+        ], 
+        "cite_url": "homepages.inf.ed.ac.uk/bfranke/About_Me.html", 
+        "cite_name": "University of Edinburgh", 
+        "title": "Björn Franke - Informatics Homepages Server - University of ..."
+    }, 
+    {
+        "content": "björn franke. mail@bjornfranke.com. news / objects / research / teaching / biography ... holon, israel, 4 march – 22 may 2010. © 2004–2015 björn franke.", 
+        "email_list": [
+            "mail@bjornfranke.com"
+        ], 
+        "cite_url": "www.bjornfranke.com/", 
+        "cite_name": "", 
+        "title": "Björn Franke"
+    }, 
+    {
+        "content": "björn franke. mail@bjornfranke.com ... (images: pioneer plaque, designed by carl sagan and frank drake, 1972) more … designing the self, 2007 (ongoing)", 
+        "email_list": [
+            "mail@bjornfranke.com"
+        ], 
+        "cite_url": "www.bjornfranke.com/research.htm", 
+        "cite_name": "", 
+        "title": "Björn Franke / Research"
+    }, 
+    {
+        "content": "mail@bjornfranke.com ... björn franke is senior lecturer in design history and theory at the university of .... franke, björn. “design as ethical and moral inquiry.", 
+        "email_list": [
+            "mail@bjornfranke.com"
+        ], 
+        "cite_url": "www.bjornfranke.com/biography.htm", 
+        "cite_name": "", 
+        "title": "Björn Franke / Biography"
+    }, 
+    {
+        "content": "björn franke diplom-wirtschaftsingenieur. partner ... e bjoern.franke@mazars.de. service. vcard herunterladen  email per e-mail weiterleiten  drucken...", 
+        "email_list": [
+            "bjoern.franke@mazars.de"
+        ], 
+        "cite_url": "www.rbs-partner.de/unternehmen/.../bjoern-franke.ht...", 
+        "cite_name": "", 
+        "title": "Herr Björn Franke - Roever Broenner Susat Mazars"
+    }, 
+    {
+        "content": "business card. björn franke diplom-wirtschaftsingenieur ... 208 88-1176. e bjoern.franke@mazars.de. service. vcard download vcard  email share via e-mail.", 
+        "email_list": [
+            "bjoern.franke@mazars.de"
+        ], 
+        "cite_url": "www.rbs-partner.de/en/our-company/contacts/bjoern-franke.html", 
+        "cite_name": "", 
+        "title": "Björn Franke - Roever Broenner Susat Mazars"
+    }
+]

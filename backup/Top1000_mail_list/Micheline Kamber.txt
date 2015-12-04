@@ -1,4 +1,21 @@
-clong at cse.ust.hk	[2]
-cmpt-459 at simon-fraser-university . canada	[2]
-presidentfellow@ustc.edu.cn	[1]
-president-fellowship@ucas.ac.cn	[1]
+[
+    {
+        "content": "email: clong at cse.ust.hk ... jiawei han, micheline kamber and jian pei : morgan kaufmann publishers (3rd edition); introduction to data mining. pang-ning...", 
+        "email_addr_list": [
+            "clong@cse.ust.hk"
+        ], 
+        "cite_url": "www.cse.ust.hk/.../co...", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "COMP5331: Knowledge Discovery in Databases"
+    }, 
+    {
+        "content": "... 10 82672900. email: president-fellowship@ucas.ac.cn ... email: presidentfellow@ustc.edu.cn ... jiawei han and micheline kamber, morgan kaufmann, 2006.", 
+        "email_addr_list": [
+            "president-fellowship@ucas.ac.cn", 
+            "presidentfellow@ustc.edu.cn"
+        ], 
+        "cite_url": "www.fellowship.cas.cn/dms/%20Courses%20.../1880.jhtml", 
+        "cite_name": "", 
+        "title": "Data Mining-UCAS - CAS-TWAS Fellowship"
+    }
+]

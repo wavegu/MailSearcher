@@ -1,2 +1,20 @@
-john.mitchell@uea.ac.uk	[26]
-mitchelj@ohsu.edu	[4]
+[
+    {
+        "content": "faculty profile for john c. mitchell. ... name: john mitchell, phd. title: associate professor. office: rm 502. phone: (503) 494-8223. email: mitchelj@ohsu.edu...", 
+        "email_addr_list": [
+            "mitchelj@ohsu.edu"
+        ], 
+        "cite_url": "https://www.ohsu.edu/.../mitchell.cf...", 
+        "cite_name": "Oregon Health  Science University", 
+        "title": "John C. Mitchell, Ph.D. | Restorative Dentistry | OHSU"
+    }, 
+    {
+        "content": "e-mail: john.mitchell@uea.ac.uk ... john mitchell is an art historian with focuses of research have been in a series of major archaeological projects in italy and...", 
+        "email_addr_list": [
+            "john.mitchell@uea.ac.uk"
+        ], 
+        "cite_url": "https://www.uea.ac.uk/art-history/.../john-mitch...www.google.com/email", 
+        "cite_name": "University of East Anglia", 
+        "title": "Professor John Mitchell - UEAGoogle Business Email - Custom email for your company‎"
+    }
+]

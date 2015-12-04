@@ -1,0 +1,29 @@
+[
+    {
+        "content": "mr zhou hongming project officer in the division of control  instrumentation phone: 6790 4796. location: machines learning email:hmzhou@ntu.edu.sg.", 
+        "email_list": [
+            "hmzhou@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/eee/.../new_member...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Welcome New Staff - Nanyang Technological University"
+    }, 
+    {
+        "content": "cancel. hongming he. professor of earth ... verified email at ms.iswc.ac.cn - homepage  scholar. get my own ... h he, j zhou, y wu, w zhang, x xie. journal of...", 
+        "email_list": [
+            "email@ms.iswc.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=O5bRE_QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hongming He - Google Scholar Citations"
+    }, 
+    {
+        "content": "hongming he (ph.d., professor) institute of ... email: hongming.he@yahoo.com ... hongming he, zhou jie, an zhisheng, wang suming, and yang ping. 2003.", 
+        "email_list": [
+            "hongming.he@yahoo.com"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~hongmin...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "个人主页 - 中国科学院大学"
+    }
+]

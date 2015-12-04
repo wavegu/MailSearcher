@@ -1,5 +1,38 @@
-luca.benini at unibo.it	[21]
-lucabeniniphotography@gmail.com	[21]
-lbenini@email.it . si	[14]
-email at unibo.it	[3]
-melinda.mischler@epfl.ch	[2]
+[
+    {
+        "content": "luca benini. ethz, università di bologna ... verified email at unibo.it. scholar. get my own profile ... l benini, a bogliolo, g de micheli. very large scale...", 
+        "email_addr_list": [
+            "email@unibo.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8riq3sYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Luca Benini - Google Scholar Citations"
+    }, 
+    {
+        "content": "luca benini is full professor at the department of electrical engineering and computer ... dr. beninis research interests are in energy-efficient system design and ... mischler by fax (+41 21 693 69 59) or e-mail (melinda.mischler@epfl.ch).", 
+        "email_addr_list": [
+            "melinda.mischler@epfl.ch"
+        ], 
+        "cite_url": "si.epfl.ch  ...  Centre SI  Events  Design Technologies for a New Era", 
+        "cite_name": "", 
+        "title": "Luca Benini | SI"
+    }, 
+    {
+        "content": "il pagamento puo essere effettuato tramite paypal a lbenini@email.it . si prega di inviare il pagamento come pagamento ad un amico, non un servizio.", 
+        "email_addr_list": [
+            "lbenini@email.it"
+        ], 
+        "cite_url": "www.lucabeniniphotography.com/tutorial.html", 
+        "cite_name": "", 
+        "title": "Photoshop Tutorial - Luca Benini Photography"
+    }, 
+    {
+        "content": "after printing, your photograph is hand signed by luca benini. its then covered ... please email me to ... luca benini mail: lucabeniniphotography@gmail.com", 
+        "email_addr_list": [
+            "lucabeniniphotography@gmail.com"
+        ], 
+        "cite_url": "www.lucabeniniphotography.com/store/c1/Featured_Products.htmlwww.google.com/email", 
+        "cite_name": "", 
+        "title": "Featured Products - Luca Benini PhotographyGoogle Business Email‎"
+    }
+]

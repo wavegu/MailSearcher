@@ -1,2 +1,20 @@
-julie@igbmc.u-strasbg.fr	[11]
-crg@childrensresourcegroup.com	[1]
+[
+    {
+        "content": "e-mail: julie@igbmc.u-strasbg.fr. education. 1984 b.sc. university of ... creevey cj, muller j, doerks t, thompson jd, arendt d, et al. identifying single copy...", 
+        "email_addr_list": [
+            "julie@igbmc.u-strasbg.fr"
+        ], 
+        "cite_url": "lbgi.fr/~julie/", 
+        "cite_name": "", 
+        "title": "Julie Dawn Thompson"
+    }, 
+    {
+        "content": "dr. julie steck is a psychologist at crg. ... julie thompson steck, ph.d., hspp. julie thompson steck .... email: crg@childrensresourcegroup.com. directions +...", 
+        "email_addr_list": [
+            "crg@childrensresourcegroup.com"
+        ], 
+        "cite_url": "www.childrensresourcegroup.com  Our Team  Psychologistswww.google.com/emailwww.peoplefinders.com/", 
+        "cite_name": "", 
+        "title": "Julie Thompson Steck, Ph.D., HSPP - Childrens Resource ...Google Business Email - Custom email for your company‎We Found Julie D Thompson‎"
+    }
+]

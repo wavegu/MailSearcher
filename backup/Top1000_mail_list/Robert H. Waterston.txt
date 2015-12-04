@@ -1,2 +1,11 @@
-waterston@gs.washington.edu	[20]
-kersli@genome.wi.mit.edu	[2]
+[
+    {
+        "content": "... brian schultz, johanna thompson, evanne trevaskis, robert h. waterston, ..... k.l.t. (e-mail: email: kersli@genome.wi.mit.edu) or e.s.l. (e-mail: email:...", 
+        "email_addr_list": [
+            "kersli@genome.wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  the mouse genome  articlewww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Initial sequencing and comparative analysis of the mouse ...Google Business Email‎"
+    }
+]

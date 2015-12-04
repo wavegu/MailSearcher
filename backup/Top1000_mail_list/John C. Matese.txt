@@ -1,6 +1,31 @@
-jcmatese@genomics.princeton.edu	[15]
-email at princeton.edu	[3]
-sherlock@genome.stanford.bmc	[2]
-brazma@ebi.ac.uk	[2]
-sherlock@genome.stanford	[2]
-botstein@princeton.edu	[1]
+[
+    {
+        "content": "create alert. cancel. john matese ... verified email at princeton.edu. scholar ... mj brauer, c huttenhower, em airoldi, r rosenstein, jc matese, ... molecular...", 
+        "email_addr_list": [
+            "email@princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=O_-tZGMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John Matese - Google Scholar Citations"
+    }, 
+    {
+        "content": "(2); john c matese  jcmatese@genomics.princeton.edu (1) (3); david botstein  botstein@princeton.edu (1) (3); gavin sherlock  sherlock@genome.stanford.", 
+        "email_addr_list": [
+            "jcmatese@genomics.princeton.edu", 
+            "botstein@princeton.edu", 
+            "sherlock@genome.stanford"
+        ], 
+        "cite_url": "link.springer.com/.../10.1186%2F1471-2...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "GeneXplorer: an interactive web application for microarray ..."
+    }, 
+    {
+        "content": "*to whom correspondence should be addressed. e-mail: brazma@ebi.ac.uk. ⨯. helen causton,; steve chervitz,; ron edgar,; pascal hingamp,; john c matese,...", 
+        "email_addr_list": [
+            "brazma@ebi.ac.uk"
+        ], 
+        "cite_url": "journals.plos.org/plosbiology/article?id=10.1371/journal.pbio...", 
+        "cite_name": "", 
+        "title": "Submission of Microarray Data to Public Repositories - PLoS"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "content": "professor of automation engineering, qingdao university (email: fabing.duan@gmail.com). stochastic resonance and nonlinear signal processing. verified...", 
+        "email_list": [
+            "fabing.duan@gmail.com"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=gloy3o0AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Fabing DUAN - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 14, 2014 - stochastic resonance with colored noise for neural signal detection. fabing duan ,. * e-mail: fabing.duan@gmail.com. affiliation: institute of...", 
+        "email_list": [
+            "fabing.duan@gmail.com"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0091345", 
+        "cite_name": "", 
+        "title": "PLOS ONE: Stochastic Resonance with Colored Noise for ..."
+    }, 
+    {
+        "content": "apr 6, 2012 - fisher information as a metric of locally optimal processing and stochastic resonance. fabing duan ,. * e-mail: fabing.duan@gmail.com.", 
+        "email_list": [
+            "fabing.duan@gmail.com"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0034282", 
+        "cite_name": "", 
+        "title": "PLOS ONE: Fisher Information as a Metric of Locally Optimal ..."
+    }, 
+    {
+        "content": "apr 6, 2012 - e-mail: fabing.duan@gmail.com. introduction. fisher information is foremost a measure of the minimum error in estimating an unknown...", 
+        "email_list": [
+            "fabing.duan@gmail.com"
+        ], 
+        "cite_url": "https://digital.library.adelaide.edu.au/dspace/bitstream/.../hdl_73114.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]PUBLISHED VERSION Duan, Fabing; Chapeau-Blondeau ..."
+    }, 
+    {
+        "content": "aug 26, 2014 - fabing duan, françois chapeau-blondeau, and derek abbott. phys. rev. e 90 ... *fabing.duan@gmail.com; †chapeau@univ-angers.fr...", 
+        "email_list": [
+            "fabing.duan@gmail.com", 
+            "chapeau@univ-angers.fr"
+        ], 
+        "cite_url": "link.aps.org/doi/10.../PhysRevE.90.022134", 
+        "cite_name": "American Physical Society", 
+        "title": "Phys. Rev. E 90, 022134 (2014) - Double-maximum ..."
+    }, 
+    {
+        "content": "email: fabing.duan@gmail.com. abstract—the shannon mutual information between the input stimuli and array responses is explicitly a weighted average.", 
+        "email_list": [
+            "fabing.duan@gmail.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0728...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "An informative view of suprathreshold stochastic resonance ..."
+    }
+]

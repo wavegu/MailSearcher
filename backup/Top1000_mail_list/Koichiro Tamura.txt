@@ -1,5 +1,39 @@
-ktamura@tmu.ac.jp	[14]
-email at tmu.ac.jp	[2]
-s.kumar@temple.edu	[2]
-ayat@tmu.ac.jp	[2]
-journals.permissions@oup.com	[1]
+[
+    {
+        "content": "koichiro tamura. professor of ... verified email at tmu.ac.jp - homepage  scholar ... k tamura, d peterson, n peterson, g stecher, m nei, s kumar. molecular...", 
+        "email_addr_list": [
+            "email@tmu.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=o5f46UgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Koichiro Tamura - Google Scholar Citations"
+    }, 
+    {
+        "content": "koichiro tamura ... tel: 0426-77-1111(ext. 3725). email: ktamura@tmu.ac.jp .... kumar s, stecher g, peterson d, tamura k. mega-cc: computing core of...", 
+        "email_addr_list": [
+            "ktamura@tmu.ac.jp"
+        ], 
+        "cite_url": "www.biol.se.tmu.ac.jp/solo_tamura_e.html", 
+        "cite_name": "", 
+        "title": "Biological Science Department | Koichiro Tamura"
+    }, 
+    {
+        "content": "prof, koichiro tamura, e-mail, ktamura@tmu.ac.jp. asc prof, aya takahashi, e-mail, ayat@tmu.ac.jp. molecular basis of adaptive evolution in drosophila. image.", 
+        "email_addr_list": [
+            "ktamura@tmu.ac.jp", 
+            "ayat@tmu.ac.jp"
+        ], 
+        "cite_url": "www.biol.se.tmu.ac.jp/en-labo.asp?ID=en-evogen", 
+        "cite_name": "", 
+        "title": "Department of Biological Sciences | Evolutionary Genetics ..."
+    }, 
+    {
+        "content": "authors: koichiro tamura, glen stecher, daniel peterson, and sudhir kumar ... mega in any other form, please contact the authors by e-mail (s.kumar@temple.edu). ... tamura k, stecher g, peterson d, filipski a, and kumar s (2013) mega6:...", 
+        "email_addr_list": [
+            "s.kumar@temple.edu"
+        ], 
+        "cite_url": "www.megasoftware.ne...", 
+        "cite_name": "MEGA, Molecular Evolutionary Genetics Analysis", 
+        "title": "FAQ - MEGA"
+    }
+]

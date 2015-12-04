@@ -1,0 +1,47 @@
+[
+    {
+        "content": "view the profiles of professionals named james fung on linkedin. ... for opportunity, please call 416-903-6622 or e-mail: jfung98@yahoo.com. james fung.", 
+        "email_list": [
+            "jfung98@yahoo.com"
+        ], 
+        "cite_url": "https://ca.linkedin.com/pub/dir/James/Fung", 
+        "cite_name": "", 
+        "title": "James Fung profiles - Canada | LinkedIn"
+    }, 
+    {
+        "content": "dr. james fung. chiropractor complete balance. dr. james fung. phone: +1 (416) 769-1163. fax: 416-769-9331. email: jfung@completebalancehealth.com", 
+        "email_list": [
+            "jfung@completebalancehealth.com"
+        ], 
+        "cite_url": "bnihighpark.com/one-spine-at-the-time/", 
+        "cite_name": "", 
+        "title": "Dr. James Fung -BNI High Park"
+    }, 
+    {
+        "content": "fung, jyy. collaborations. tabulated ... dr fung, james yan yue 馮恩裕. title: consultant. honorary ..... contact us. tel: 3921 2913 email: hub@lib.hku.hk.", 
+        "email_list": [
+            "hub@lib.hku.hk"
+        ], 
+        "cite_url": "hub.hku.hk/cris/rp/rp00518", 
+        "cite_name": "", 
+        "title": "Fung, JYY - HKU Scholars Hub: Researcher Page - The ..."
+    }, 
+    {
+        "content": "dr. james fung received his undergraduate degree in medical genetics and molecular biology from the university ... email: jfung@completebalancehealth.com.", 
+        "email_list": [
+            "jfung@completebalancehealth.com"
+        ], 
+        "cite_url": "completebalancehealth.com/index.php?mact=CompanyDirectory...", 
+        "cite_name": "", 
+        "title": "Dr. James Fung , Doctor of Chiropractic - Complete Balance ..."
+    }, 
+    {
+        "content": "name, position, group, phone, email ... james h fung-a-fat, technical support, electronics shop, 3034924008, fungafat@jila.colorado.edu...", 
+        "email_list": [
+            "fungafat@jila.colorado.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "JILA", 
+        "title": "JILA Directory | JILA Science"
+    }
+]

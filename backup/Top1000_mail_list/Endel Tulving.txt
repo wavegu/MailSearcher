@@ -1,3 +1,20 @@
-tulving at psych.toronto.edu	[16]
-tulving@psych.utoronto.ca	[15]
-email at psych.utoronto.ca	[3]
+[
+    {
+        "content": "endel tulving. university ... verified email at psych.utoronto.ca ... how many memory systems are there? e tulving. american psychologist 40 (4), 385, 1985.", 
+        "email_addr_list": [
+            "email@psych.utoronto.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OxmLLMEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Endel Tulving - Google Scholar Citations"
+    }, 
+    {
+        "content": "endel tulving. rotman research institute of baycrest centre, toronto, canada, m6a 2e1; e-mail: tulving@psych.utoronto.ca  full-text| pdf (258 kb)|...", 
+        "email_addr_list": [
+            "tulving@psych.utoronto.ca"
+        ], 
+        "cite_url": "www.annualreviews.org  ...  Volume 53, 2002", 
+        "cite_name": "Annual Reviews", 
+        "title": "Episodic Memory: From Mind to Brain - Annual Reviews"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "aik choon tan. university ... verified email at ucdenver.edu - homepage  scholar ... dr camidge, sa kono, a flacco, ac tan, rc doebele, q zhou, l crino, .", 
+        "email_list": [
+            "email@ucdenver.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KkNaW_oAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Aik Choon Tan - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 19, 2015 - aik choon tan, e-mail: aikchoon.tan@ucdenver.edu. received february 17 ... for permissions, please email: journals.permissions@oup.com...", 
+        "email_list": [
+            "aikchoon.tan@ucdenver.edu", 
+            "journals.permissions@oup.com"
+        ], 
+        "cite_url": "bioinformatics.oxfordjournals.org/.../bioinformatics.btv313", 
+        "cite_name": "Bioinformatics", 
+        "title": "DSigDB: Drug Signatures Database for Gene Set Analysis"
+    }, 
+    {
+        "content": "jul 23, 2015 - aik choon tan, e-mail: aikchoon.tan@ucdenver.edu. received may 20, 2015. revision received june 26, 2015. accepted july 16, 2015.", 
+        "email_list": [
+            "aikchoon.tan@ucdenver.edu"
+        ], 
+        "cite_url": "bioinformatics.oxfordjournals.org/.../bioinformatics.btv427....", 
+        "cite_name": "Bioinformatics", 
+        "title": "Identifying kinase dependency in cancer cells by integrating ..."
+    }
+]

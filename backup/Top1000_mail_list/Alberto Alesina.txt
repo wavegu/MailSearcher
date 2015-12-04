@@ -1,1 +1,20 @@
-aalesina@harvard.edu	[16]
+[
+    {
+        "content": "office address: littauer center 210. email address: aalesina@harvard.edu. telephone: 617-495-8388. mailing address: department of economics harvard...", 
+        "email_addr_list": [
+            "aalesina@harvard.edu"
+        ], 
+        "cite_url": "scholar.harvard.edu/alesina/home", 
+        "cite_name": "Harvard University", 
+        "title": "Alberto Alesina - Harvard University"
+    }, 
+    {
+        "content": "first name: alberto. middle name: last name: alesina. suffix: repec short-id: pal207. email: aalesina@harvard.edu. homepage...", 
+        "email_addr_list": [
+            "aalesina@harvard.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pal207.html", 
+        "cite_name": "", 
+        "title": "Alberto Alesina at IDEAS"
+    }
+]

@@ -1,2 +1,11 @@
-krs@mcadvokat.no	[3]
-email at fu-berlin.de	[2]
+[
+    {
+        "content": "create alert. cancel. knut reinert. fu berlin ... verified email at fu-berlin.de. scholar ... o kohlbacher, k reinert, c gröpl, e lange, n pfeifer, o schulz-trieglaff, .", 
+        "email_addr_list": [
+            "email@fu-berlin.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XwG4wAcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Knut Reinert - Google Scholar Citations"
+    }
+]

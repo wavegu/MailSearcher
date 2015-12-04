@@ -1,4 +1,47 @@
-matthias.wilm@ucd.iematthias	[25]
-matthias.wilm@ucd.ie	[25]
-email at biochem.mpg.de	[2]
-ei.dcu@mliw.saihttam	[1]
+[
+    {
+        "content": "professor matthias wilm phd md. ▽. ◁. ▷. home [x]. research [x] ... address, conway institute conway institute belfield dublin 4. email: ei.dcu@mliw.saihttam...", 
+        "email_addr_list": [
+            "ei.dcu@mliw.saihttam"
+        ], 
+        "cite_url": "www.ucd.ie/conway/.../professormatthiaswilm/", 
+        "cite_name": "University College Dublin", 
+        "title": "Professor Matthias Wilm - University College Dublin"
+    }, 
+    {
+        "content": "professor matthias wilm phd md. home; research  publications ... address, conway institute conway institute belfield dublin 4. email: ei.dcu@mliw.saihttam...", 
+        "email_addr_list": [
+            "ei.dcu@mliw.saihttam"
+        ], 
+        "cite_url": "www.ucd.ie  ...  Conway Fellows (A-Z)", 
+        "cite_name": "University College Dublin", 
+        "title": "Professor Matthias Wilm | UCD Conway - University College ..."
+    }, 
+    {
+        "content": "email: web: prof. matthias wilm. +353 1 716 6952 matthias.wilm@ucd.ie www.ucd.ie/conway/research/researchers/conwayfellowsa-z/professormatthiaswilm/.", 
+        "email_addr_list": [
+            "matthias.wilm@ucd.ie"
+        ], 
+        "cite_url": "www.sfi.ie/assets/files/.../wilm_matthias.pdf", 
+        "cite_name": "Science Foundation Ireland", 
+        "title": "[PDF]Principal Investigator Professor Matthias Wilm"
+    }, 
+    {
+        "content": "edman award (together with dr. matthias mann and dr. john yates) presented in. greece at the ... matthias wilm, md phd prof. ... e-mail: matthias.wilm@ucd.ie", 
+        "email_addr_list": [
+            "matthias.wilm@ucd.ie"
+        ], 
+        "cite_url": "www.mwilm-conway-ucd.de/Bioanalytical.../Curriculum_Vitae.html", 
+        "cite_name": "", 
+        "title": "Curriculum Vitae - Bioanalytical Research Group"
+    }, 
+    {
+        "content": "matthias mann. director at the max ... verified email at biochem.mpg.de. scholar. get my own ... a shevchenko, m wilm, o vorm, m mann. analytical chemistry...", 
+        "email_addr_list": [
+            "email@biochem.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MYe4hG8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Matthias Mann - Google Scholar Citations"
+    }
+]

@@ -1,7 +1,56 @@
-kasif@bu.simon	[12]
-kasif@bu.edu.simon	[12]
-kasif@bu.edu	[12]
-sechi@nih.gov	[2]
-email at bu.edu	[1]
-delcher@cs.loyola.edu.drug	[1]
-delcher@cs.loyola.edu	[1]
+[
+    {
+        "content": "simon kasifs home page ... for information see http://genomics10.bu.edu/bioinformatics/kasif/, http://bioinformatics.bu.edu or send email to kasif@bu.edu.", 
+        "email_addr_list": [
+            "kasif@bu.edu"
+        ], 
+        "cite_url": "www.cs.jhu.edu/~kasif/", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Simon Kasifs home page - Department of Computer Science"
+    }, 
+    {
+        "content": "simon kasifs home page ... for information see http://sullivan.bu.edu/kasif/welcome.html, http://bioinformatics.bu.edu or send email to kasif@bu.edu.", 
+        "email_addr_list": [
+            "kasif@bu.edu"
+        ], 
+        "cite_url": "www.cs.jhu.edu/~kasif/home.html", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Simon Kasifs home page - Department of Computer Science"
+    }, 
+    {
+        "content": "simon kasifs home page ... for information see http://sullivan.bu.edu/kasif/welcome.html, http://bioinformatics.bu.edu or send email to kasif@bu.edu.", 
+        "email_addr_list": [
+            "kasif@bu.edu"
+        ], 
+        "cite_url": "www.cs.uic.edu/~kasif/", 
+        "cite_name": "University of Illinois at Chicago", 
+        "title": "Simon Kasifs home page - UIC - Computer Science"
+    }, 
+    {
+        "content": "simon kasif. professor of biomedical ... verified email at bu.edu - homepage  scholar ... al delcher, d harmon, s kasif, o white, sl salzberg. nucleic acids...", 
+        "email_addr_list": [
+            "email@bu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SBNZBMUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Simon Kasif - Google Scholar Citations"
+    }, 
+    {
+        "content": "arthur l. delcher1,2,*,; douglas harmon1,; simon kasif3,; owen white4 and ... tel: +1 410 617 2740; fax: +1 410 617 2157; email: delcher@cs.loyola.edu.", 
+        "email_addr_list": [
+            "delcher@cs.loyola.edu"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/27/23/4636.full", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "Improved microbial gene identification with GLIMMER"
+    }, 
+    {
+        "content": "bethesda, md 20892-5460. telephone: (301) 594-8814. fax: (301) 480-3503. email: sechi@nih.gov. for logistical information, contact: denise hoffman, cmp", 
+        "email_addr_list": [
+            "sechi@nih.gov"
+        ], 
+        "cite_url": "www.niddk.nih.gov/.../drug-response-a-tool-...www.google.com/email", 
+        "cite_name": "National Institutes of Health", 
+        "title": "Drug Response - A Tool for Understanding the Systems ...Google Business Email - Custom email for your company‎"
+    }
+]

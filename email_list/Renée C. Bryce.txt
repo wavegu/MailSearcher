@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email renee.bryce@unt.edu  renee bryce. keywords software testing, combinatorial testing, ... lisa reynolds, quentin mayo, david adamo, renee bryce", 
+        "email_list": [
+            "renee.bryce@unt.edu"
+        ], 
+        "cite_url": "https://faculty.unt.edu/editprofile.php?pid=4027onlyview=1", 
+        "cite_name": "", 
+        "title": "Dr. Bryce, Renee (Faculty Profile) - Faculty Profile System"
+    }, 
+    {
+        "content": "renee bryce. university of north texas ... verified email at unt.edu - homepage  scholar ... l ran, c dyreson, a andrews, r bryce, c mallery. information and...", 
+        "email_list": [
+            "email@unt.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=b2ews4oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Renee Bryce - Google Scholar Citations"
+    }
+]

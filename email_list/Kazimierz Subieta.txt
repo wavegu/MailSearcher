@@ -1,0 +1,30 @@
+[
+    {
+        "content": "jul 9, 2011 - email: subieta@pjwstk.edu.pl. office address: polish-japanese institute of information technology. koszykowa 86, 02-008 warsaw, poland.", 
+        "email_list": [
+            "subieta@pjwstk.edu.pl"
+        ], 
+        "cite_url": "www.ipipan.waw.pl/~subieta/", 
+        "cite_name": "", 
+        "title": "Kazimierz Subieta Home Page"
+    }, 
+    {
+        "content": "prodziekani: prof. dr hab. kazimierz subieta, dr inż. paweł lenkiewicz, dr hab. ... 22 58 44 500 fax: +48 22 58 44 501. email: pjatk@pja.edu.pl skype: pjwstk_info.", 
+        "email_list": [
+            "pjatk@pja.edu.pl"
+        ], 
+        "cite_url": "www.pja.edu.pl/wladze", 
+        "cite_name": "", 
+        "title": "Władze - Polsko-Japońska Akademia Technik ..."
+    }, 
+    {
+        "content": "kazimierz subieta; e-mail: subieta@pjwstk.edu.plten adres pocztowy jest chroniony przed spamowaniem. aby go zobaczyć ... email: pjatk@pja.edu.pl", 
+        "email_list": [
+            "subieta@pjwstk.edu.plten", 
+            "pjatk@pja.edu.pl"
+        ], 
+        "cite_url": "www.pja.edu.pl/studia...kursy/.../technologie-internetu", 
+        "cite_name": "", 
+        "title": "Technologie Internetu - Polsko-Japońska Akademia Technik ..."
+    }
+]

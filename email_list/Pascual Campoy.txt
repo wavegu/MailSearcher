@@ -1,0 +1,20 @@
+[
+    {
+        "content": "pascual campoy is full professor on automatics at the universidad politécnica madrid .... http://www.disam.upm.es/~campoy. email: pascual.campoy[at]upm.es...", 
+        "email_list": [
+            "pascual.campoy@upm.es"
+        ], 
+        "cite_url": "138.100.76.11/visionguided2/?q=node/74", 
+        "cite_name": "", 
+        "title": "Pascual Campoy - VisionGuided"
+    }, 
+    {
+        "content": "prof. p. campoy (pascual)open or close. category: visiting scientists. location: c-2-340. email: p.campoy@tudelft.nl. homepage: http://www.vision4uav.eu/?q=...", 
+        "email_list": [
+            "p.campoy@tudelft.nl"
+        ], 
+        "cite_url": "www.dcsc.tudelft.nl/people.html", 
+        "cite_name": "Delft University of Technology", 
+        "title": "People - Delft Center for Systems and Control - TU Delft"
+    }
+]

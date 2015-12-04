@@ -1,0 +1,38 @@
+[
+    {
+        "content": "see information and reports about tgandhi1@yahoo.com (tarak gandhis e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "tgandhi1@yahoo.com"
+        ], 
+        "cite_url": "spam-report.email/tgandhi1/yahoo.com", 
+        "cite_name": "", 
+        "title": "tgandhi1@yahoo.com (Tarak Gandhis e-mail) - Spam ..."
+    }, 
+    {
+        "content": "the list below contains all domains related to the email address tarakgandhi@gmail.com. the listed domains are showing the mentioned email address in their...", 
+        "email_list": [
+            "tarakgandhi@gmail.com"
+        ], 
+        "cite_url": "website.informer.com/email/tarakgandhi@gmail.com", 
+        "cite_name": "", 
+        "title": "Tarakgandhi@gmail.com at Website Informer"
+    }, 
+    {
+        "content": "owner: tarak gandhi brain infotech; surveybackoffice.com ... phone ext: registrant fax: registrant fax ext: registrant email: tarakgandhi@gmail.com registry...", 
+        "email_list": [
+            "tarakgandhi@gmail.com"
+        ], 
+        "cite_url": "who.pho.to/tarak_gandhi_brain_infotech/", 
+        "cite_name": "", 
+        "title": "Tarak Gandhi Brain Infotech Domains - Who Pho.to"
+    }, 
+    {
+        "content": "tarak gandhi. email address : tarakgandhi@rediffmail.com ... address email website contact number of auto express of mount pleasant, inc  address...", 
+        "email_list": [
+            "tarakgandhi@rediffmail.com"
+        ], 
+        "cite_url": "addresscustomerservicecenternumber.com/Address-Email-Website-Conta...", 
+        "cite_name": "", 
+        "title": "Address Email Website Contact Number of PLEASANT INC."
+    }
+]

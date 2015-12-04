@@ -1,2 +1,29 @@
-meg@hms.harvard.edu	[4]
-email at hms.harvard.edu	[3]
+[
+    {
+        "content": "email: meg@hms.harvard.edu. url: michael greenberg, phds web site ... overview: dr. greenbergs research concerns a genetic program that is activated by...", 
+        "email_addr_list": [
+            "meg@hms.harvard.edu"
+        ], 
+        "cite_url": "www.iddrc.org/childrens-hospital-boston/.../michael_greenberg_phd", 
+        "cite_name": "", 
+        "title": "Michael Greenberg, PhD - Childrens Hospital Intellectual ..."
+    }, 
+    {
+        "content": "cancel. michael e greenberg. unknown affiliation. verified email at hms.harvard.edu ... sr datta, h dudek, x tao, s masters, h fu, y gotoh, me greenberg.", 
+        "email_addr_list": [
+            "email@hms.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Tewpw98AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael E Greenberg - Google Scholar Citations"
+    }, 
+    {
+        "content": "longwood ave, boston ma 02115. email: meg@hms.harvard.edu. phone: 617-432-2510. mike greenberg grew up in brooklyn, new york, attended wesleyan...", 
+        "email_addr_list": [
+            "meg@hms.harvard.edu"
+        ], 
+        "cite_url": "https://picower.mit.edu/.../michael-...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "The Picower Institute – Michael Greenberg"
+    }
+]

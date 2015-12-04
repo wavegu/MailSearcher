@@ -1,0 +1,38 @@
+[
+    {
+        "content": "denis laurendeau ... phone: (418) 656-2131, ext. 2979. fax: (418) 656-3594. email: laurend@gel.ulaval.ca. personal web: http://vision.gel.ulaval.ca/~laurend...", 
+        "email_list": [
+            "laurend@gel.ulaval.ca"
+        ], 
+        "cite_url": "vision.gel.ulaval.ca/en/people/Id_3/index.php", 
+        "cite_name": "", 
+        "title": "About Denis Laurendeau - Université Laval"
+    }, 
+    {
+        "content": "denis laurendeau. version française. personal information. denis laurendeau, full professor. address: ... e-mail: laurend@gel.ulaval.ca. web site of the...", 
+        "email_list": [
+            "laurend@gel.ulaval.ca"
+        ], 
+        "cite_url": "vision.gel.ulaval.ca/~laurend/englishintro.html", 
+        "cite_name": "", 
+        "title": "Denis Laurendeau - Université Laval"
+    }, 
+    {
+        "content": "denis laurendeau. dept. of elec. and ... verified email at gel.ulaval.ca - homepage  scholar. get my own ... r bergevin, m soucy, h gagnon, d laurendeau.", 
+        "email_list": [
+            "email@gel.ulaval.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_dnTDcQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Denis Laurendeau - Google Scholar Citations"
+    }, 
+    {
+        "content": "denis laurendeau. department of electrical engineering and ... email: denis.laurendeau@gel.ulaval.ca. website: this link will take you to another web site...", 
+        "email_list": [
+            "denis.laurendeau@gel.ulaval.ca"
+        ], 
+        "cite_url": "www.nserc-crsng.gc....", 
+        "cite_name": "Natural Sciences and Engineering Research Council", 
+        "title": "Denis Laurendeau - NSERC - Chairholder Profile"
+    }
+]

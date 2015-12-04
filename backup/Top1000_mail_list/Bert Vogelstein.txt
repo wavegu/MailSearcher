@@ -1,4 +1,11 @@
-vogelbe@welch.jhu.edubert	[3]
-vogelbe@welch.jhu.edu	[3]
-vogelbe@jhmi.edu	[3]
-velculescu@jhmi.edu	[2]
+[
+    {
+        "content": "rank: clayton professor of oncology and pathology telephone number: 410-955-8878. fax number: 410-955-0548. e-mail address: vogelbe@welch.jhu.edu", 
+        "email_addr_list": [
+            "vogelbe@welch.jhu.edu"
+        ], 
+        "cite_url": "www.hopkinsmedicine.org/.../vogelst...", 
+        "cite_name": "Johns Hopkins School of Medicine", 
+        "title": "Bert Vogelstein - Johns Hopkins Medicine"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "wen-gui weng. wen-gui ... w. g. weng, z. li, a. m. jamieson*, s. j. rowan*, effect of monomer structure on the gelation of ... e-mail: wgweng@xmu.edu.cn.", 
+        "email_list": [
+            "wgweng@xmu.edu.cn"
+        ], 
+        "cite_url": "chem.xmu.edu.cn/faculty/others/weng_wg.html", 
+        "cite_name": "Xiamen University", 
+        "title": "Wen-Gui WENG"
+    }, 
+    {
+        "content": "aug 15, 2013 - *e-mail: wgweng@xmu.edu.cn. ... huan zhang , yinjun chen , yangju lin , xiuli fang , yuanze xu , yonghong ruan , and wengui weng.", 
+        "email_list": [
+            "wgweng@xmu.edu.cn"
+        ], 
+        "cite_url": "pubs.acs.org/doi/abs/10.1021/ma4014862", 
+        "cite_name": "American Chemical Society", 
+        "title": "Biomimetic Modular Polymer with Tough and Stress ..."
+    }, 
+    {
+        "content": "wen-gui weng, guo-hua chen. ∗. , da-jun wu, zhi-yong lin, wen-li yan. college of materials ... e-mail address: hdcgh@hqu.edu.cn (g.-h. chen). solids of...", 
+        "email_list": [
+            "hdcgh@hqu.edu.cn"
+        ], 
+        "cite_url": "www.nt.ntnu.no/users/fengliu/.../1-s2.0-S0379677903001243-main.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Preparation and characterizations of nanoparticles from ..."
+    }, 
+    {
+        "content": "phone: (302) 831-6194 fax: (302) 831-4545 email: mem@udel.edu .... padmanabhan (2009–present), eric weisser (1996-8), wengui weng (2009). graduate...", 
+        "email_list": [
+            "mem@udel.edu"
+        ], 
+        "cite_url": "www.cbe.udel.edu/pdf/facultycv/11523cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Full CV - Chemical and Biomolecular Engineering at the ..."
+    }
+]

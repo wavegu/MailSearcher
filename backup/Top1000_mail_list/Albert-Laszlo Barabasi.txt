@@ -1,3 +1,29 @@
-a.barabasi@neu.edu	[18]
-alb@nd.edu	[4]
-email at neu.edu	[3]
+[
+    {
+        "content": "email: alb@nd.edu ... albert-lászló barabási is a distinguished university professor at northeastern university, where he directs the center for complex...", 
+        "email_addr_list": [
+            "alb@nd.edu"
+        ], 
+        "cite_url": "engineering.nd.edu  Profiles", 
+        "cite_name": "University of Notre Dame", 
+        "title": "Albert-Laszlo Barabasi — College of Engineering"
+    }, 
+    {
+        "content": "email: a.barabasi@neu.edu ... albert-lászló barabási is the robert gray dodge professor of network science and a distinguished university professor at...", 
+        "email_addr_list": [
+            "a.barabasi@neu.edu"
+        ], 
+        "cite_url": "www.ccs.neu.ed...", 
+        "cite_name": "Northeastern University College of Computer and Info...", 
+        "title": "Barabási - Northeastern University"
+    }, 
+    {
+        "content": "cancel. albert-lászló barabási ... verified email at neu.edu - homepage  scholar ... h jeong, b tombor, r albert, zn oltvai, al barabási. nature 407 (6804)...", 
+        "email_addr_list": [
+            "email@neu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vsj2slIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Albert-László Barabási - Google Scholar Citations"
+    }
+]

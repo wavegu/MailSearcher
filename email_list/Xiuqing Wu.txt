@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sep 11, 2013 - xiuqin wu. wuxq(photo). email: wuxq@ufl.edu. associate professor, the college of soil and water conservation, beijing forestry university,...", 
+        "email_list": [
+            "wuxq@ufl.edu"
+        ], 
+        "cite_url": "geog.ufl.edu/xiuqin-wu/", 
+        "cite_name": "", 
+        "title": "Xiuqin Wu » Geography » University of Florida"
+    }, 
+    {
+        "content": "6868108.com is hosted in hong kong and is owned by xiuqin wu (wuxiuqin). 6868108.com ... registrar abuse contact email: abuse@bizcn.com. registrar...", 
+        "email_list": [
+            "abuse@bizcn.com"
+        ], 
+        "cite_url": "domainbigdata.com/6868108.com", 
+        "cite_name": "", 
+        "title": "6868108.com - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "jan 20, 2013 - email：xiuqin_wang@sina.com ... [3] wang xiu-qin, foreign exchange risk management of goods purchase ... [8] wang xiuqin, wu qiuchen.", 
+        "email_list": [
+            "xiuqin_wang@sina.com"
+        ], 
+        "cite_url": "come.tju.edu.cn/English/FR/Faculty/W/.../t20130120_169929.htm", 
+        "cite_name": "", 
+        "title": "WANG Xiuqin - 天津大学管理与经济学部"
+    }
+]

@@ -1,2 +1,11 @@
-eegchen at cityu.edu.hk	[10]
-support@ieeeaess.org	[1]
+[
+    {
+        "content": "guanrong chen. you are here. home. first name: guanrong. last name: chen. position: contact information. email: support@ieeeaess.org. award information.", 
+        "email_addr_list": [
+            "support@ieeeaess.org"
+        ], 
+        "cite_url": "ieee-aess.org/contact/guanrong-chen", 
+        "cite_name": "", 
+        "title": "Guanrong Chen | Aerospace  Electronic Systems Society"
+    }
+]

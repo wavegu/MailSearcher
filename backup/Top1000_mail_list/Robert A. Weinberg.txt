@@ -1,3 +1,38 @@
-weinberg@wi.mit.edu	[18]
-rweinberg@law.gwu.edu	[18]
-email at wi.mit.edu	[3]
+[
+    {
+        "content": "weinberg laboratory. welcome to the home page of dr. robert a. weinberg. ... to contact dr. weinberg directly by addressing an email to weinberg@wi.mit.edu.", 
+        "email_addr_list": [
+            "weinberg@wi.mit.edu"
+        ], 
+        "cite_url": "weinberglab.wi.mit.edu/", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Weinberg Lab at WIBR"
+    }, 
+    {
+        "content": "email: weinberg [at] wi.mit.edu. weinberg lab ... robert a. weinberg. overview ... (credit: matthew saelzler, graduate student, weinberg laboratory). acquisition...", 
+        "email_addr_list": [
+            "weinberg@wi.mit.edu"
+        ], 
+        "cite_url": "https://biology.mit.edu/.../robert_w...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Robert A. Weinberg | MIT Biology"
+    }, 
+    {
+        "content": "robert l. weinberg. title: professorial lecturer in law. address: 2000 h street, n.w, washington, dc 20052. email: rweinberg@law.gwu.edu. education", 
+        "email_addr_list": [
+            "rweinberg@law.gwu.edu"
+        ], 
+        "cite_url": "www.law.gwu.edu/.../profile....", 
+        "cite_name": "George Washington University Law School", 
+        "title": "Robert L. Weinberg - GW Law -- Faculty Directory"
+    }, 
+    {
+        "content": "cancel. robert a. weinberg ... verified email at wi.mit.edu - homepage  scholar ... sh friend, ra bernards, s rogelj, ra weinberg, jm rapaport, dm albert, .", 
+        "email_addr_list": [
+            "email@wi.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1wq5H9oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Robert A. Weinberg - Google Scholar Citations"
+    }
+]

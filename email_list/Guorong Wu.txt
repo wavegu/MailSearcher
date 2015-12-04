@@ -1,0 +1,39 @@
+[
+    {
+        "content": "about me (email: grwu@med.unc.edu). i have been working on medical image registration since i started my phd study in 2003, and i have developed more...", 
+        "email_list": [
+            "grwu@med.unc.edu"
+        ], 
+        "cite_url": "www.unc.edu/~grwu/", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Guorong Wu @ UNC-Chapel Hill"
+    }, 
+    {
+        "content": "guorong wu. assistant professor ... verified email at med.unc.edu - homepage  scholar ... f shi, pt yap, g wu, h jia, jh gilmore, w lin, d shen. plos one 6...", 
+        "email_list": [
+            "email@med.unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XVsMB2kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Guorong Wu - Google Scholar Citations"
+    }, 
+    {
+        "content": "name:guorong wu title:ph. d.；faculty of psychology,southwest university, chongqing, china email:guorongwu@swu.edu.cn. research interests:data mining...", 
+        "email_list": [
+            "guorongwu@swu.edu.cn"
+        ], 
+        "cite_url": "www.qiujlab.com/member/detail?id=4", 
+        "cite_name": "", 
+        "title": "Guorong Wu - Qiu Lab"
+    }, 
+    {
+        "content": "guorong wu (吴国榕) email: gronwu@gmail.com or guorongwu@swu.edu.cn. more information: https://sites.google.com/site/gronwu/...", 
+        "email_list": [
+            "gronwu@gmail.com", 
+            "guorongwu@swu.edu.cn"
+        ], 
+        "cite_url": "guorongwu.weebly.com/", 
+        "cite_name": "", 
+        "title": "Guo-Rong WU - Contact"
+    }
+]

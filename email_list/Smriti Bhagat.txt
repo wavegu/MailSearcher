@@ -1,0 +1,11 @@
+[
+    {
+        "content": "smriti bhagat data scientist, facebook ... s. bhagat, a. kim, s. muthukrishnan and u. weinsberg. ... email: firstnamelastnameasoneword@gmail.com", 
+        "email_list": [
+            "firstnamelastnameasoneword@gmail.com"
+        ], 
+        "cite_url": "www.smritibhagat.com/", 
+        "cite_name": "", 
+        "title": "Smriti Bhagat"
+    }
+]

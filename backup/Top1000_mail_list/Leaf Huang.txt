@@ -1,2 +1,38 @@
-leafh@email.unc.edu	[10]
-email at email.unc.edu	[2]
+[
+    {
+        "content": "leaf huang, phd. fred eshelman ... leaf huang received his ph.d. in biophysics at michigan state university. he was ... e-mail. leafh@email.unc.edu...", 
+        "email_addr_list": [
+            "leafh@email.unc.edu"
+        ], 
+        "cite_url": "https://pharmacy.unc.edu/.../leafh/", 
+        "cite_name": "UNC Eshelman School of Pharmacy", 
+        "title": "Leaf Huang - UNC Eshelman School of Pharmacy"
+    }, 
+    {
+        "content": "leaf huang ... email: leafh@email.unc.edu ... li, s-d, huang, l. nanoparticles evading the reticuloendothelial system: role of the supported bilayer. biochim.", 
+        "email_addr_list": [
+            "leafh@email.unc.edu"
+        ], 
+        "cite_url": "https://www.bme.unc.edu/.../l...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Leaf Huang - Joint Department of Biomedical Engineering"
+    }, 
+    {
+        "content": "create alert. cancel. leaf huang ... verified email at email.unc.edu. scholar ... gj nabel, eg nabel, zy yang, ba fox, ge plautz, x gao, l huang, s shu, .", 
+        "email_addr_list": [
+            "email@email.unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7ElY3V4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Leaf Huang - Google Scholar Citations"
+    }, 
+    {
+        "content": "correspondence: leaf huang, 1315 kerr hall cb# 7571, chapel hill, nc 27599-7571, usa. e-mail: leafh@email.unc.edu. received 11 march 2013; accepted...", 
+        "email_addr_list": [
+            "leafh@email.unc.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Original Articleswww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Molecular Therapy - Abstract of article: Codelivery of VEGF ...Google Business Email‎Searches related to Leaf Huang email"
+    }
+]

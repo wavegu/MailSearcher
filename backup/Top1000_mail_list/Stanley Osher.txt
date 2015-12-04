@@ -1,3 +1,38 @@
-sjo@math.ucla.edu.bruinwalk	[3]
-sjo@math.ucla.edu	[3]
-email at math.ucla.edu	[1]
+[
+    {
+        "content": "email: sjo@math.ucla.edu ... special issue in honor of the 60th birthday of stanley osher, journal of scientific computing, december 2003, volume 19, issue...", 
+        "email_addr_list": [
+            "sjo@math.ucla.edu"
+        ], 
+        "cite_url": "www.math.ucla.edu/~sjo/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Stanley Oshers Homepage"
+    }, 
+    {
+        "content": "stanley osher. stanley osher professor primary area: signals  systems. office: 7617f math sciences phone: (310) 825-7158. e-mail: sjo@math.ucla.edu.", 
+        "email_addr_list": [
+            "sjo@math.ucla.edu"
+        ], 
+        "cite_url": "www.ee.ucla.edu/stanley-osher/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Stanley Osher | EE"
+    }, 
+    {
+        "content": "stanley osher. email: sjo@math.ucla.edu. homepage: http://www.math.ucla.edu/~sjo/. office: math sciences, room 7619f. phone: 3108251758.", 
+        "email_addr_list": [
+            "sjo@math.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Mathematics", 
+        "cite_name": "", 
+        "title": "BruinWalk : Stanley Osher"
+    }, 
+    {
+        "content": "s osher. unknown affiliation. verified email at math.ucla.edu - homepage ... li rudin, s osher, e fatemi ... a harten, b engquist, s osher, sr chakravarthy.", 
+        "email_addr_list": [
+            "email@math.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=d3UtiX8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "S osher - Google Scholar Citations"
+    }
+]

@@ -1,4 +1,38 @@
-becks@physik.uni-wuppertal.de	[12]
-kbeck1@umd.edu	[3]
-tbeck@city.ac.uk	[3]
-email at ku.ac.ke	[2]
+[
+    {
+        "content": "prof. ir. dr. k.-h. becks. tel.: +49 202 439-2604. raum: d.09.18 email: becks@physik.uni-wuppertal.de. arbeitsgebiet: hochenergiephysik. prof. em.", 
+        "email_addr_list": [
+            "becks@physik.uni-wuppertal.de"
+        ], 
+        "cite_url": "www.physik.uni-wuppertal.de/en/.../emeritierte.html", 
+        "cite_name": "", 
+        "title": "Emeritierte - - UNIVERSITY OF WUPPERTAL"
+    }, 
+    {
+        "content": "phone: (301) 405-2527 | email: kbeck1@umd.edu (link sends e-mail). office hours: ... publications: ali, b., ryan, j.s., beck, k.h.,  daughters, s.b. (2013).", 
+        "email_addr_list": [
+            "kbeck1@umd.edu"
+        ], 
+        "cite_url": "https://sph.umd.edu/.../kenneth-h-b...", 
+        "cite_name": "University of Maryland, College Park", 
+        "title": "Kenneth H. Beck | UMD School of Public Health"
+    }, 
+    {
+        "content": "surgery, orthorpaedics. verified email at ku.ac.ke ... t flick, kh becks, p gerlach, s kersten, p mättig, sn kirichu, k reeves, ... nuclear instruments and...", 
+        "email_addr_list": [
+            "email@ku.ac.ke"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dlmLAi0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dr. Simon Nderitu - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: tbeck@city.ac.uk. homepage: ... beck, t.h.l.  pamuk, h.  ramrattan, r.  uras, r.b., 2015. mobile money, trade deficit .... beck thorsten  büyükkarabacak berrak  rioja felix k.  valev neven t., 2012. who gets the credit?", 
+        "email_addr_list": [
+            "tbeck@city.ac.uk"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pbe266.htmlwww.google.com/email", 
+        "cite_name": "", 
+        "title": "Thorsten Beck at IDEASGoogle Business Email - Custom email for your company‎"
+    }
+]

@@ -1,5 +1,47 @@
-thorsten.joachims@cs.cmu.edu	[33]
-thorsten@joachims.org	[17]
-joachims@ls8.cs.uni-dortmund.de	[17]
-tj@cs.cornell.edu	[3]
-email at cs.cornell.edu	[2]
+[
+    {
+        "content": "home page of thorsten joachims. picture of thorsten joachims. email: tj@cs.cornell.edu. phone: (607)255-1372. fax: (607)255-4428. address: 418 gates hall,...", 
+        "email_addr_list": [
+            "tj@cs.cornell.edu"
+        ], 
+        "cite_url": "www.cs.cornell.edu/people/tj/", 
+        "cite_name": "Cornell University", 
+        "title": "Home Page of Thorsten Joachims - Cornell University"
+    }, 
+    {
+        "content": "create alert. cancel. thorsten joachims ... verified email at cs.cornell.edu - homepage  scholar ... i tsochantaridis, t joachims, t hofmann, y altun. journal of...", 
+        "email_addr_list": [
+            "email@cs.cornell.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5tk1PV8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Thorsten Joachims - Google Scholar Citations"
+    }, 
+    {
+        "content": "author: thorsten joachims thorsten@joachims.org cornell university .... please send me email and let me know that you got svm-light. i will put you on my...", 
+        "email_addr_list": [
+            "thorsten@joachims.org"
+        ], 
+        "cite_url": "svmlight.joachims.org/", 
+        "cite_name": "", 
+        "title": "SVM-Light Support Vector Machine - Thorsten Joachims"
+    }, 
+    {
+        "content": "thorsten joachims. universitiat dortmund, ls ... joachims@ls8.cs.uni-dortmund.de. abstract. this paper ... databases, filter spam from peoples email, or learn.", 
+        "email_addr_list": [
+            "joachims@ls8.cs.uni-dortmund.de"
+        ], 
+        "cite_url": "www.cs.columbia.edu/.../joachims99transductive.pd...", 
+        "cite_name": "Columbia University", 
+        "title": "[PDF]Transductive Inference for Text Classification using Support ..."
+    }, 
+    {
+        "content": "home page of thorsten joachims ... email: thorsten.joachims@cs.cmu.edu (plan file) office: weh3601b #6 (8x8016) lab: weh5310 (8x3837) (take a look into...", 
+        "email_addr_list": [
+            "thorsten.joachims@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/afs/cs...1/.../e446.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Home Page of Thorsten Joachims"
+    }
+]

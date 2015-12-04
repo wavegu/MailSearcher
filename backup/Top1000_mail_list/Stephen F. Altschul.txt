@@ -1,3 +1,29 @@
-altschul@ncbi.nlm.nih.gov	[18]
-email at nih.gov	[2]
-r91054@csie.ntu.edu.tw	[1]
+[
+    {
+        "content": "cancel. stephen altschul. ncbi, nlm, nih  bioinformatics. verified email at nih.gov. scholar ... sf altschul, w gish, w miller, ew myers, dj lipman. journal of...", 
+        "email_addr_list": [
+            "email@nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VRccPlQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen Altschul - Google Scholar Citations"
+    }, 
+    {
+        "content": "tel: +1 301 496 2475; fax: +1 301 480 9241; email: altschul@ncbi.nlm.nih.gov. received ..... in speaking of a columns observed residue frequencies fi, we shall...", 
+        "email_addr_list": [
+            "altschul@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/25/17/3389.full", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "Gapped BLAST and PSI-BLAST: a new generation of protein"
+    }, 
+    {
+        "content": "teaching assistant: rung-ren lin (林容任) email: r91054@csie.ntu.edu.tw .... sense from sequences: stephen f. altschul on bettering blast , july/august...", 
+        "email_addr_list": [
+            "r91054@csie.ntu.edu.tw"
+        ], 
+        "cite_url": "www.csie.ntu.edu.tw/~kmchao/seq04spr/", 
+        "cite_name": "National Taiwan University", 
+        "title": "Course: Algorithms for biological sequence analysis"
+    }
+]

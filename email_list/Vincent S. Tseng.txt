@@ -1,0 +1,29 @@
+[
+    {
+        "content": "vincent s. tseng (vincent shin-mu tseng) 曾新穆 ... fax: 06-2747076. e-mail: tsengsm@mail.ncku.edu.tw. webpage: http://idb.csie.ncku.edu.tw/tsengsm...", 
+        "email_list": [
+            "tsengsm@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "idb.csie.ncku.edu.tw/tsengsm/", 
+        "cite_name": "", 
+        "title": "Vincent S. Tseng"
+    }, 
+    {
+        "content": "vincent s. tseng. professor, dept. computer ... verified email at cs.nctu.edu.tw - homepage  scholar ... vs tseng, cw wu, be shie, ps yu. proceedings of the...", 
+        "email_list": [
+            "email@cs.nctu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DFjmS6AAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Vincent S. Tseng - Google Scholar Citations"
+    }, 
+    {
+        "content": "a biographical sketch of the presenter(s). • audio/visual ... please submit your proposals via email to ... vincent s. tseng (email: tsengsm@mail.ncku.edu.tw ).", 
+        "email_list": [
+            "tsengsm@mail.ncku.edu.tw"
+        ], 
+        "cite_url": "pakdd.org/archive/pakdd2009/downloads/.../PAKDD09_Tutorial_Call.p...", 
+        "cite_name": "", 
+        "title": "[PDF]Call for Tutorial Proposals - PAKDD"
+    }
+]

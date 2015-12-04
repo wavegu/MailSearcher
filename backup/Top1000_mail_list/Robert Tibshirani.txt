@@ -1,2 +1,20 @@
-email at stanford.edu	[3]
-tibs@stanford.edu	[2]
+[
+    {
+        "content": "robert tibshirani. office: sequoia hall 106; phone: 725-5989; email: tibs@stanford.edu; ... required book: hastie, tibshirani, friedman (2009) the elements...", 
+        "email_addr_list": [
+            "tibs@stanford.edu"
+        ], 
+        "cite_url": "statweb.stanford.edu/~tibs/sta306b.html", 
+        "cite_name": "", 
+        "title": "Stats 306B"
+    }, 
+    {
+        "content": "robert tibshirani. professor of ... verified email at stanford.edu. scholar ... t sorlie, cm perou, r tibshirani, t aas, s geisler, h johnsen, t hastie, ... proc natl...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=ZpG_cJwAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Robert Tibshirani - Google Scholar Citations"
+    }
+]

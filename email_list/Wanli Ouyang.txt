@@ -1,0 +1,29 @@
+[
+    {
+        "content": "wang, xiaogang. his research interests include computer vision and pattern recognition, image and video processing. email: wanli dot ouyang at gmail dot com", 
+        "email_list": [
+            "ouyang@gmail.com"
+        ], 
+        "cite_url": "mmlab.ie.cuhk.edu.hk/html_people/director_Wanli_OUYANG.html", 
+        "cite_name": "", 
+        "title": "Wanli OUYANG - Multimedia Laboratory"
+    }, 
+    {
+        "content": "create alert. cancel. wanli ouyang ... verified email at ee.cuhk.edu.hk - homepage  scholar. get my own ... r zhao, w ouyang, x wang. computer vision and...", 
+        "email_list": [
+            "email@ee.cuhk.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pw_0Z...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Wanli Ouyang - Google Scholar Citations"
+    }, 
+    {
+        "content": "... pattern recognition, machine learning. verified email at ee.cuhk.edu.hk - homepage ... r zhao, w ouyang, x wang. ieee conference on computer vision...", 
+        "email_list": [
+            "email@ee.cuhk.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1c9oQNMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Rui Zhao - Google Scholar Citations"
+    }
+]

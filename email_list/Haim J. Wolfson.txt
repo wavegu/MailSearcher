@@ -1,0 +1,31 @@
+[
+    {
+        "content": "haim j. wolfson. professor ... verified email at tau.ac.il ... i halperin, b ma, h wolfson, r nussinov ... d schneidman-duhovny, y inbar, r nussinov, hj wolfson.", 
+        "email_list": [
+            "email@tau.ac.il"
+        ], 
+        "cite_url": "scholar.google.co.il/citations?user=GmgiCj0AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Haim J. Wolfson - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 22, 2015 - maintainer, haim j. wolfson. email, wolfson at tau.ac.il. article, (amir et al., 2015) dockstar: a novel ilp-based integrative method for...", 
+        "email_list": [
+            "wolfson@tau.ac.il"
+        ], 
+        "cite_url": "omictools.com/dockstar-s9590.html", 
+        "cite_name": "", 
+        "title": "DockStar - OMICtools"
+    }, 
+    {
+        "content": "aug 31, 2011 - elad donsky, haim j. wolfson, e-mail: eladdons@tau.ac.il, wolfson@tau.ac.il ... for permissions, please email: journals.permissions@oup.com...", 
+        "email_list": [
+            "eladdons@tau.ac.il", 
+            "wolfson@tau.ac.il", 
+            "journals.permissions@oup.com"
+        ], 
+        "cite_url": "bioinformatics.oxfordjournals.org/.../bioinformatics.btr498", 
+        "cite_name": "Bioinformatics", 
+        "title": "PepCrawler: A Fast RRT-based Algorithm for High ..."
+    }
+]

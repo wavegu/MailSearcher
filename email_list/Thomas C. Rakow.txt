@@ -1,0 +1,38 @@
+[
+    {
+        "content": "dr. tom c. rakow. founder  executive president christian deer hunters association ® phone: 320-327-2266 tom@rockdove.com. additional bio information...", 
+        "email_list": [
+            "tom@rockdove.com"
+        ], 
+        "cite_url": "www.rockdove.com/page4.html", 
+        "cite_name": "", 
+        "title": "About Tom Rakow - Rock Dove Publications"
+    }, 
+    {
+        "content": "contact us at silverlakechurch@gmail.com. pastor. worship ... dr. tom c. rakow tom c. rakow became pastor of grace bible church in 1989. prior to...", 
+        "email_list": [
+            "silverlakechurch@gmail.com"
+        ], 
+        "cite_url": "www.silverlakechurch.org/", 
+        "cite_name": "", 
+        "title": "Grace Bible Church"
+    }, 
+    {
+        "content": "more than four decades ago (at the ripe-old-age of eleven) tom c. rakow poached his first ... dr. rakow is in demand as a keynote speaker for wild game feeds, and outdoor-related banquets around the country. ... email: tom@rockdove.com", 
+        "email_list": [
+            "tom@rockdove.com"
+        ], 
+        "cite_url": "www.ggoutdoors.org/_speakers/speak_drtrakow.html", 
+        "cite_name": "", 
+        "title": "Dr. Tom Rakow, Author, Speaker, and Executive President"
+    }, 
+    {
+        "content": "fachhochschule giessen. fachbereich mnd. wilhelm-leuschnerstr. 13. w6360 friedberg, germany e-mail: turau@prfhfb.fh-friedberg.de. thomas c. rakow.", 
+        "email_list": [
+            "turau@prfhfb.fh-friedberg.de"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.7706...", 
+        "cite_name": "", 
+        "title": "[PDF]Volker Turau, Thomas C. Rakow A Schema ... - CiteSeer"
+    }
+]

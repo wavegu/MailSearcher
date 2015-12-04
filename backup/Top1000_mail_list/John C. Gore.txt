@@ -1,1 +1,11 @@
-email at magresimaging.com	[3]
+[
+    {
+        "content": "john c. gore. vanderbilt university ... verified email at magresimaging.com - homepage  scholar ... i gauthier, mj tarr, aw anderson, p skudlarski, jc gore.", 
+        "email_addr_list": [
+            "email@magresimaging.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WNeWRd4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John C. Gore - Google Scholar Citations"
+    }
+]

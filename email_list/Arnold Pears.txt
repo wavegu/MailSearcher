@@ -1,0 +1,11 @@
+[
+    {
+        "content": "arnold pears. associate professor, head ... verified email at it.uu.se - homepage  scholar ... a pears, s seidman, l malmi, l mannila, e adams, j bennedsen, .", 
+        "email_list": [
+            "email@it.uu.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iA8v4lAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Arnold Pears - Google Scholar Citations"
+    }
+]

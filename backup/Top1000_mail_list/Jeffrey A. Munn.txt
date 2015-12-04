@@ -1,1 +1,11 @@
-jmunn@pascobas.com	[10]
+[
+    {
+        "content": "business partner directory - mr. jeffrey munn ... city. syracuse. website. http://www.pascobas.com ( work ). email. jmunn@pascobas.com. categories.", 
+        "email_addr_list": [
+            "jmunn@pascobas.com"
+        ], 
+        "cite_url": "www.sbga.org/component/civicrm/?task=civicrm/profile/view...", 
+        "cite_name": "", 
+        "title": "Business Partner Directory - Mr. Jeffrey Munn - SBGA"
+    }
+]

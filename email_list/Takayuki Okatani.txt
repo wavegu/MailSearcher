@@ -1,0 +1,11 @@
+[
+    {
+        "content": "okatani takayuki. professor, graduate ... computer vision. verified email at vision.is.tohoku.ac.jp ... k deguchi, o kawanaka, t okatani. pattern recognition...", 
+        "email_list": [
+            "email@vision.is.tohoku.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gn780jcAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Okatani Takayuki - Google Scholar Citations"
+    }
+]

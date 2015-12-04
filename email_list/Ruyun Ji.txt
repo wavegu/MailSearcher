@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jun 22, 2009 - e-mail: ysyang@mail.shcnc.ac.cn. personal website: postal code: ... sai hong jiang, peng lu, xiao zhong fu, yushe yang*，ruyun ji.", 
+        "email_list": [
+            "ysyang@mail.shcnc.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Yang Yushe----Shanghai Institute of Materia Medica ..."
+    }, 
+    {
+        "content": "office: 301i web phone: 979.862.1553. email: begovic@ece.tamu.edu ... j.w. runyon, jr. 35 professor ii. office: 212f web phone: 979.845. ... image of jim ji...", 
+        "email_list": [
+            "begovic@ece.tamu.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../peo...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Faculty | People | Electrical  Computer Engineering ..."
+    }, 
+    {
+        "content": "email: hxue@ust.hk ..... huang, xiaoqin, tong liu, jiande gu, xiaomin luo, ruyun ji, yang cao, hong xue, j. tze-fei wong, bing l. wong, gang pei, hualiang...", 
+        "email_list": [
+            "hxue@ust.hk"
+        ], 
+        "cite_url": "life-sci.ust.hk/.../Prof....", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Hong XUE - Division of Life Science"
+    }, 
+    {
+        "content": "e-mail: tliu@mail.shcnc.ac.cn ... xiao-jian tan, wei-liang zhu, xiao-min luo, hua-liang jiang, ru-yun ji, kai-xian chen, israel silman, joel l sussman.", 
+        "email_list": [
+            "tliu@mail.shcnc.ac.cn"
+        ], 
+        "cite_url": "www.dddc.ac.cn/group/tong_liu.htm", 
+        "cite_name": "", 
+        "title": "Drug Discovery and Design Center - DDDC"
+    }
+]

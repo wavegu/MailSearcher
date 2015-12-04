@@ -1,4 +1,38 @@
-bertino@dico.unimi.it	[16]
-bertino@cerias.purdue.edu	[16]
-bertino@purdue.edu	[16]
-email at cs.purdue.edu	[2]
+[
+    {
+        "content": "elisa bertino - our people - purdue engineering. ... elisa bertino. prof/dir res cerias/dir cyber cntr ... phone: (765) 496-2399. email: bertino@purdue.edu...", 
+        "email_addr_list": [
+            "bertino@purdue.edu"
+        ], 
+        "cite_url": "https://engineering.purdue.edu/Engr/.../ptProfile?...id...", 
+        "cite_name": "Purdue University", 
+        "title": "Elisa Bertino - Our People - Purdue Engineering"
+    }, 
+    {
+        "content": "email. bertino@cerias.purdue.edu ... elisa bertino is professor of computer sciences at the cs department of purdue university and serves as research...", 
+        "email_addr_list": [
+            "bertino@cerias.purdue.edu"
+        ], 
+        "cite_url": "https://www.cerias.purdue.edu/site/people/faculty/.../73...", 
+        "cite_name": "Purdue University", 
+        "title": "Elisa Bertino - CERIAS - Center for Education and Research ..."
+    }, 
+    {
+        "content": "elisa bertino. professor of ... verified email at cs.purdue.edu - homepage  scholar ... m atallah, e bertino, a elmagarmid, m ibrahim, v verykios. knowledge and...", 
+        "email_addr_list": [
+            "email@cs.purdue.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EfuT9RoAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Elisa Bertino - Google Scholar Citations"
+    }, 
+    {
+        "content": "elisa bertino. full professor. email: bertino@dico.unimi.it. room: p128. telephone: +39-02503.16227. fax: +39-02503.16253. office hours: martedì 15.00-...", 
+        "email_addr_list": [
+            "bertino@dico.unimi.it"
+        ], 
+        "cite_url": "homes.di.unimi.it/.../people_1.htm", 
+        "cite_name": "University of Milan", 
+        "title": "DBandSEC_people - Università degli Studi di Milano"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "agnès desolneux directrice de recherche cnrs au cmla (umr cnrs 8536) agnes.desolneux at cmla.ens-cachan.fr...", 
+        "email_list": [
+            "agnes.desolneux@cmla.ens-cachan.fr"
+        ], 
+        "cite_url": "desolneux.perso.math.cnrs.fr/", 
+        "cite_name": "", 
+        "title": "Agnes Desolneux"
+    }
+]

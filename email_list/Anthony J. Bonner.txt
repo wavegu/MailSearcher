@@ -1,0 +1,29 @@
+[
+    {
+        "content": "bonner, dr. anthony j. associate ... contact information. email: bonner@cs.utoronto.ca. phone: 905-828-3813. website: ... room: dh-3090. anthony j. bonner.", 
+        "email_list": [
+            "bonner@cs.utoronto.ca"
+        ], 
+        "cite_url": "https://www.utm.utoronto.ca/.../bonner...", 
+        "cite_name": "University of Toronto Mississauga", 
+        "title": "Bonner, Dr. Anthony J. - University of Toronto Mississauga"
+    }, 
+    {
+        "content": "verified email at ed.ac.uk ... sj aton, cs colwell, aj harmar, j waschek, ed herzog ... sm foord, ti bonner, rr neubig, em rosser, jp pin, ap davenport, .", 
+        "email_list": [
+            "email@ed.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zf-_3Q0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anthony J Harmar - Google Scholar Citations"
+    }, 
+    {
+        "content": "nl-7500 ae enschede the netherlands email: balsters@cs.utwente.nl tel.: +31-53-4893-772 fax.: +31-53-4892-927. anthony j. bonner university of toronto", 
+        "email_list": [
+            "balsters@cs.utwente.nl"
+        ], 
+        "cite_url": "dbis.informatik.uni-rostock.de/lehrstuhl/workshops/dagstuhl_96/", 
+        "cite_name": "", 
+        "title": "Datenbank- und Informationssysteme: Dagstuhl 96"
+    }
+]

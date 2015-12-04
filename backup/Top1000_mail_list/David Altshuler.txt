@@ -1,1 +1,20 @@
-email at molbio.mgh.harvard.edu	[3]
+[
+    {
+        "content": "email: altshuler [at] molbio.mgh.harvard.edu ... david altshuler ... the altshuler laboratory is focused on discovering and understanding the genetic causes of...", 
+        "email_addr_list": [
+            "altshuler@molbio.mgh.harvard.edu"
+        ], 
+        "cite_url": "https://biology.mit.edu/.../david_alt...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "David Altshuler | MIT Biology"
+    }, 
+    {
+        "content": "david altshuler. professor of ... verified email at molbio.mgh.harvard.edu. scholar ... piw de bakker, r yelensky, i peer, sb gabriel, mj daly, d altshuler.", 
+        "email_addr_list": [
+            "email@molbio.mgh.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1cj5HwkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "David Altshuler - Google Scholar Citations"
+    }
+]

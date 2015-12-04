@@ -1,7 +1,56 @@
-shu@dam.brown.edu	[7]
-shu@brown.edu	[7]
-sjo@math.ucla.edu	[2]
-email at brown.edu	[2]
-mathem@tiker.net	[1]
-email@polyu.edu.hk	[1]
-olivier.verdier@math.ntnu.no	[1]
+[
+    {
+        "content": "chi-wang_shu@brown.edu email icon. chi-wang shu stowell university professor of applied mathematics. professor shu received his b.s. degree in...", 
+        "email_addr_list": [
+            "chi-wang_shu@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/display/cshu", 
+        "cite_name": "", 
+        "title": "Shu, Chi-Wang - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "chi-wang shu. brown university. verified email at brown.edu - homepage ... cw shu. siam journal on scientific and statistical computing 9 (6), 1073-1084,...", 
+        "email_addr_list": [
+            "email@brown.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Vp7sSw4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chi-Wang Shu - Google Scholar Citations"
+    }, 
+    {
+        "content": "... people; academic advisors, honorary / adjunct professors; professor shu chi-wang. academic advisors, honorary / adjunct professors. email@polyu.edu.hk...", 
+        "email_addr_list": [
+            "email@polyu.edu.hk"
+        ], 
+        "cite_url": "www.polyu.edu.hk/ama/people/.../15...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Professor Shu Chi-wang - Department of Applied Mathematics"
+    }, 
+    {
+        "content": "phone: 51758. email: sjo@math.ucla.edu ... in honor of stan oshers 60th birthday, edited by s.y. cheng, chi-wang shu, and t. tang, ams. international...", 
+        "email_addr_list": [
+            "sjo@math.ucla.edu"
+        ], 
+        "cite_url": "www.math.ucla.edu/~sjo/", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Stanley Oshers Homepage"
+    }, 
+    {
+        "content": "email: olivier.verdier@math.ntnu.no. chi-wang shu. managing editor, mathematics of. computation. 2012-05-22. review mcom 110527. dear prof. shu,.", 
+        "email_addr_list": [
+            "olivier.verdier@math.ntnu.no"
+        ], 
+        "cite_url": "www.ams.org/.../110527-Verdier-c2.pdf", 
+        "cite_name": "American Mathematical Society", 
+        "title": "Olivier Verdier Email: olivier.verdier@math.ntnu.no Chi ..."
+    }, 
+    {
+        "content": "chi-wang shu, brown, fall 2007, english) course aggregator  prelim study notes some ... the easiest way might be to send me an email at mathem@tiker.net.", 
+        "email_addr_list": [
+            "mathem@tiker.net"
+        ], 
+        "cite_url": "mathema.tician.de/academic/notes/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Lecture notes - Andreas Klöckners web pageGoogle Business Email‎Searches related to Chi-Wang Shu email"
+    }
+]

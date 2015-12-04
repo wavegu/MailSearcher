@@ -1,0 +1,11 @@
+[
+    {
+        "content": "sep 14, 2010 - luo wanbo. shi hongwei. tang changjie, cjtang@scu.edu..cn http://cs.scu.edu.cn/~tangchangjie. tang ningjiu ... mail to president. college of...", 
+        "email_list": [
+            "cjtang@scu.edu"
+        ], 
+        "cite_url": "www.scu.edu.cn/computer/.../H670301index_1.htm", 
+        "cite_name": "Sichuan University", 
+        "title": "Professors"
+    }
+]

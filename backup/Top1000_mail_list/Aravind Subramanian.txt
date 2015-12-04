@@ -1,2 +1,11 @@
-asubramanian@piie.com	[24]
-cea@nic.in	[2]
+[
+    {
+        "content": "arvind subramanian. arvind- ... arvind subramanian is chief economic adviser, ministry of finance, government of india. ... email: asubramanian@piie.com...", 
+        "email_addr_list": [
+            "asubramanian@piie.com"
+        ], 
+        "cite_url": "www.theigc.org/person/arvind-subramanian/", 
+        "cite_name": "", 
+        "title": "Arvind Subramanian | IGC"
+    }
+]

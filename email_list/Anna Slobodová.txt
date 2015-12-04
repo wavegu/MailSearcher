@@ -1,0 +1,20 @@
+[
+    {
+        "content": "ing. anna slobodová. identification number: 30390. university e-mail: 30390 [at] is.uniag.sk. 6218t04 management of development of rural country and rural...", 
+        "email_list": [
+            "30390@is.uniag.sk"
+        ], 
+        "cite_url": "is.uniag.sk/lide/clovek.pl?id=30390", 
+        "cite_name": "Slovak University of Agriculture", 
+        "title": "Persons at SUA - Ing. Anna Slobodová"
+    }, 
+    {
+        "content": "english; 简体中文. anna slobodová. upload. follow0 unfollow following0. anna slobodová ... 30-32, d–54 202 trier, germany. e-mail: anna@itwm-trier.fhg.de.", 
+        "email_list": [
+            "anna@itwm-trier.fhg.de"
+        ], 
+        "cite_url": "https://aminer.org/profile/anna-slobodová/54894ceddabfae8a11fb44a9", 
+        "cite_name": "", 
+        "title": "Anna Slobodová | AMiner - Open Science Platform"
+    }
+]

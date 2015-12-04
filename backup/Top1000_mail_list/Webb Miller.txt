@@ -1,5 +1,29 @@
-wcm2@psu.edu	[3]
-mwmcasting@yahoo.com	[3]
-webmaster@sbtinfo.com	[3]
-webmaster@sbtinfo.commimi	[3]
-email at bx.psu.edu	[2]
+[
+    {
+        "content": "news and events. info. webb miller ... email: wcm2@psu.edu  download as ... 17: 1227-1242. ratan, a., y. zhang, v. m. hayes, s. c. schuster, and w. miller.", 
+        "email_addr_list": [
+            "wcm2@psu.edu"
+        ], 
+        "cite_url": "bio.psu.edu/directory/wcm2", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Webb Miller — Penn State University Department of Biology"
+    }, 
+    {
+        "content": "webb miller. penn state university, uc ... verified email at bx.psu.edu. scholar. get my own ... sf altschul, w gish, w miller, ew myers, dj lipman. journal of...", 
+        "email_addr_list": [
+            "email@bx.psu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=k9T3V7EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Webb Miller - Google Scholar Citations"
+    }, 
+    {
+        "content": "email. mwmcasting@yahoo.com. address usa-west: 114 paloma ave. venice, ca ... casting director: mimi webb miller, casting assistant: naomi jones", 
+        "email_addr_list": [
+            "mwmcasting@yahoo.com"
+        ], 
+        "cite_url": "stagebuddy.com/whoswho/mimi-webb-miller-casting", 
+        "cite_name": "", 
+        "title": "Mimi Webb Miller Casting - StageBuddy.com"
+    }
+]

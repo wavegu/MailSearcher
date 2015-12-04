@@ -1,0 +1,39 @@
+[
+    {
+        "content": "email address: karen.devine@dcu.ie .... 11-apr-08 - 16-apr-08, institut detudes politiques de rennes, france; devine, karen., irish political parties attitudes...", 
+        "email_list": [
+            "karen.devine@dcu.ie"
+        ], 
+        "cite_url": "https://www.dcu.ie/law_and.../karen-devine.shtml", 
+        "cite_name": "Dublin City University", 
+        "title": "Karen Devine | Staff Profile | DCU"
+    }, 
+    {
+        "content": "karen devine. lecturer in law. kent law school. k.devine@kent.ac.uk; +44 (1227) 827231. about; publications; teaching and supervision; other academic...", 
+        "email_list": [
+            "k.devine@kent.ac.uk"
+        ], 
+        "cite_url": "https://www.kent.ac.uk/law/.../Devine,_Karen.html", 
+        "cite_name": "University of Kent", 
+        "title": "Karen Devine - Kent Law School - University of Kent"
+    }, 
+    {
+        "content": "name, email. term ends. lynn bennethum, lynn. ... karen d. devine, kddevin@sandia.gov. 2015. kirk jordan (chair), kjordan@us.ibm.com. 2016. ming-chih...", 
+        "email_list": [
+            "kddevin@sandia.gov", 
+            "kjordan@us.ibm.com"
+        ], 
+        "cite_url": "https://www.siam.org/.../c...", 
+        "cite_name": "Society for Industrial and Applied Mathematics", 
+        "title": "SIAM: Committees of SIAM"
+    }, 
+    {
+        "content": "may 18, 2012 - ... cc: karen d devine kddevin at sandia.gov, michael a heroux .... it is not clear from your email what order is used by tribits.", 
+        "email_list": [
+            "kddevin@sandia.gov"
+        ], 
+        "cite_url": "https://trilinos.org/pipermail/trilinos-users/2012-May/003114.html", 
+        "cite_name": "", 
+        "title": "[Trilinos-Users] [EXTERNAL] question about using ParMETIS with ..."
+    }
+]

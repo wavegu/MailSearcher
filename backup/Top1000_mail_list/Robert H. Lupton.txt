@@ -1,3 +1,29 @@
-luptonr@cwu.edu	[14]
-rhl@astro.princeton.edu	[4]
-email at tamu.edu	[2]
+[
+    {
+        "content": "feel free to send me email, my address is rhl@astro.princeton.edu. if youd prefer to talk come to my office (134 peyton hall), or if that isnt practical my phone...", 
+        "email_addr_list": [
+            "rhl@astro.princeton.edu"
+        ], 
+        "cite_url": "www.astro.princeton.edu/~rhl/", 
+        "cite_name": "Princeton University", 
+        "title": "Robert Lupton"
+    }, 
+    {
+        "content": "information technology and administrative management robert lupton, professor and department chair. ... email: luptonr@cwu.edu. one evening ... salahi yekta, a., lupton, r. a., takei, h., mabudi, k., and jahanfar, m. (2014). attitudes of...", 
+        "email_addr_list": [
+            "luptonr@cwu.edu"
+        ], 
+        "cite_url": "https://www.cwu.edu/it.../robert-lupton-1", 
+        "cite_name": "Central Washington University", 
+        "title": "Robert Lupton, Professor and Department Chair - Central ..."
+    }, 
+    {
+        "content": "verified email at tamu.edu. scholar. get my own profile ... h-index, 57, 37. i10-index, 187, 118 ... rs chapkin, w kim, jr lupton, dn mcmurray. prostaglandins...", 
+        "email_addr_list": [
+            "email@tamu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8niY6IMAAAAJwww.google.com/emailwww.spokeo.com/Free.Email.Search", 
+        "cite_name": "Google Scholar", 
+        "title": "Robert Chapkin - Google Scholar CitationsGoogle Business Email‎Roberts Email Found - Lookup Roberts Email Address‎"
+    }
+]

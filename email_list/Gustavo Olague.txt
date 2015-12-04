@@ -1,0 +1,48 @@
+[
+    {
+        "content": "gustavo olague. professor of ... verified email at cicese.mx - homepage  scholar ... b hernández, g olague, r hammoud, l trujillo, e romero. computer...", 
+        "email_list": [
+            "email@cicese.mx"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1_fzuc4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gustavo Olague - Google Scholar Citations"
+    }, 
+    {
+        "content": "computer science deparment. personal information. name: gustavo olague caballero email: olague@cicese.mx  gustavo.olague@gmail.com.", 
+        "email_list": [
+            "olague@cicese.mx", 
+            "gustavo.olague@gmail.com"
+        ], 
+        "cite_url": "cudd.uach.mx/.../GustavoOlague/GustavoOlague.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Gustavo Olague Caballero PROFESIONAL ... - CUDD"
+    }, 
+    {
+        "content": "name: olague caballero , gustavo ... email: olague@cicese.mx .... en: stefano cagnoni, evelyne lutton, gustavo olague., editores, genetic and evolutionary...", 
+        "email_list": [
+            "olague@cicese.mx"
+        ], 
+        "cite_url": "eng.cicese.edu.mx/int/index.php?mod...dep...", 
+        "cite_name": "", 
+        "title": "Olague Caballero, Gustavo - cicese"
+    }, 
+    {
+        "content": "gustavo olague ... carretera ensenada-tijuana 3918 zona playitas ensenada baja california 22860 mexico. email: olague@cicese.mx. phone: +52 (6) 1...", 
+        "email_list": [
+            "olague@cicese.mx"
+        ], 
+        "cite_url": "www.tree-lab.org/index.php/people-2/collaborators/38-gustavo-olague", 
+        "cite_name": "", 
+        "title": "Gustavo Olague"
+    }, 
+    {
+        "content": "may 18, 2006 - yours sincerely gustavo -- dr. gustavo olague cicese research ... e-mail: olague@cicese.mx web: http://cienciascomp.cicese.mx/evovision...", 
+        "email_list": [
+            "olague@cicese.mx"
+        ], 
+        "cite_url": "www.genetic-programming.org/hc2006/Olague-Email-2006-5-18.txt", 
+        "cite_name": "", 
+        "title": "From: Gustavo Olague [olague@cicese.mx] Sent: Thursday ..."
+    }
+]

@@ -1,6 +1,39 @@
-brusilovskyp@acm.orgthis	[24]
-peterb@mail.sis.pitt.edu	[12]
-peterb@pitt.edu	[12]
-plb@cogpsy.uni-trier.de	[3]
-email at pitt.edu	[2]
-leo@cs.msu.su	[1]
+[
+    {
+        "content": "create alert. cancel. peter brusilovsky ... verified email at pitt.edu - homepage  scholar. get my own ... p brusilovsky, e schwarz, g weber. intelligent tutoring...", 
+        "email_addr_list": [
+            "email@pitt.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=s6RpNfAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Peter Brusilovsky - Google Scholar Citations"
+    }, 
+    {
+        "content": "peter brusilovsky: publications, bio, bibliography, etc. ... personal homepage: http://www.sis.pitt.edu/~peterb/; employer: (); email: peterb@pitt.edu...", 
+        "email_addr_list": [
+            "peterb@pitt.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/peter-brusilovsky", 
+        "cite_name": "", 
+        "title": "Peter Brusilovsky: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "peter brusilovsky. sigweb executive committee ... email: brusilovskyp@acm.orgthis e-mail address is being protected from spambots. you need javascript...", 
+        "email_addr_list": [
+            "brusilovskyp@acm.orgthis"
+        ], 
+        "cite_url": "www.sigweb.org/.../190-...", 
+        "cite_name": "SIGWEB: Hypertext, Hypermedia and the Web", 
+        "title": "Peter Brusilovsky - Sigweb"
+    }, 
+    {
+        "content": "isis-tutor: an intelligent learning environment for cds/isis users peter brusilovsky, leonid pesin email: plb@cogpsy.uni-trier.de, leo@cs.msu.su...", 
+        "email_addr_list": [
+            "plb@cogpsy.uni-trier.de", 
+            "leo@cs.msu.su"
+        ], 
+        "cite_url": "cs.joensuu.fi/~mtuki/www_clce.270296/Further_info.html", 
+        "cite_name": "", 
+        "title": "Further information page (CLCE94)"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "cancel. vassilis moustakis. professor of operations ... verified email at isc.tuc.gr. scholar ... e grigoroudis, c litos, va moustakis, y politis, l tsironis. european...", 
+        "email_list": [
+            "email@isc.tuc.gr"
+        ], 
+        "cite_url": "scholar.google.gr/citations?user=ndZjkvQAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Vassilis Moustakis - Google Scholar Citations"
+    }, 
+    {
+        "content": "full cv available from: https://dl.dropboxusercontent.com/u/4746237/vassilismoustakis-nov2014.pdf. contact: vmoustakis@isc.tuc.gr  vmoustakis@gmail.com.", 
+        "email_list": [
+            "vmoustakis@isc.tuc.gr", 
+            "vmoustakis@gmail.com"
+        ], 
+        "cite_url": "ibm.fon.bg.ac.rs/wp-content/uploads/VassilisMoustakis-text.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Professor Vassilis S. Moustakis - International Business and ..."
+    }, 
+    {
+        "content": "verified email at dpem.tuc.gr - homepage ... la zampetakis, p beldekos, vs moustakis ... la zampetakis, k kafetsios, n bouranta, t dewett, vs moustakis.", 
+        "email_list": [
+            "email@dpem.tuc.gr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xJCH_qwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Leonidas A. Zampetakis - Google Scholar Citations"
+    }
+]

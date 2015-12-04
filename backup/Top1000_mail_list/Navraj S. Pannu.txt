@@ -1,2 +1,21 @@
-axel.brunger@yale.edu	[2]
-raj@chem.leidenuniv.nl	[1]
+[
+    {
+        "content": "navraj pannu, dr. navraj pannu ... 527 4357; e-mail address: raj@chem.leidenuniv.nl; faculty/unit: faculty of science, leiden institute ... meulenbroek, e.m., cane, c.p., jala, i, iwai, s., moolenaar, g.f., goosen, n., pannu, n.s. , uv damage...", 
+        "email_addr_list": [
+            "raj@chem.leidenuniv.nl"
+        ], 
+        "cite_url": "bsc.lic.leidenuniv.nl/people/pannu", 
+        "cite_name": "", 
+        "title": "Navraj Pannu | Biophysical Structural Chemistry"
+    }, 
+    {
+        "content": "... axel.brunger@yale.edu, //author,email http://cns.csb.yale.edu/v1.1/, //location ? ..... *date, *type, navraj s. pannu, raj@chem.leidenuniv.nl, //author,email...", 
+        "email_addr_list": [
+            "axel.brunger@yale.edu", 
+            "raj@chem.leidenuniv.nl"
+        ], 
+        "cite_url": "www.iucr.org/__.../software.h", 
+        "cite_name": "International Union of Crystallography", 
+        "title": "software.h"
+    }
+]

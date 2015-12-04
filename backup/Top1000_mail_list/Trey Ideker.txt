@@ -1,5 +1,38 @@
-tideker@ucsd.edu.integrating	[14]
-tideker@ucsd.edu	[14]
-trey@bioeng.ucsd.edu.fillable	[9]
-trey@bioeng.ucsd.edu	[9]
-email at ucsd.edu	[3]
+[
+    {
+        "content": "trey ideker, ph.d. ... website: http://chianti.ucsd.edu/idekerlab/ email: tideker@ucsd.edu. pathways/processes: dna response, transcriptional regulation", 
+        "email_addr_list": [
+            "tideker@ucsd.edu"
+        ], 
+        "cite_url": "igm.ucsd.edu/faculty/.../ideker.shtml", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Trey Ideker, Ph.D. - Institute for Genomic Medicine - UC San ..."
+    }, 
+    {
+        "content": "cancel. trey ideker. university ... verified email at ucsd.edu - homepage  scholar ... t ideker, v thorsson, ja ranish, r christmas, j buhler, jk eng, ... science...", 
+        "email_addr_list": [
+            "email@ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KnAit3cAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Trey Ideker - Google Scholar Citations"
+    }, 
+    {
+        "content": "email this article (login required) ... chu ping qiu1, haico van attikum7, robert w. sobol4,5,9 and trey ideker1,2,3 ... trey ideker, email: tideker@ucsd.edu.", 
+        "email_addr_list": [
+            "tideker@ucsd.edu"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 6, No 34  Shen", 
+        "cite_name": "", 
+        "title": "Chemogenetic profiling identifies RAD17 as synthetically ..."
+    }, 
+    {
+        "content": "andreas beyer, sourav bandyopadhyay  trey ideker about the authors. top of page ... correspondence to: trey ideker email: trey@bioeng.ucsd.edu.", 
+        "email_addr_list": [
+            "trey@bioeng.ucsd.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Integrating physical and genetic maps: from genomes to ..."
+    }
+]

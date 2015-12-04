@@ -1,0 +1,11 @@
+[
+    {
+        "content": "unità di ricerca: università di reggio calabria. francesco buccafurri bucca@unirc.it. page 2. people. —   francesco buccafurri (po). —   domenico ursino...", 
+        "email_list": [
+            "bucca@unirc.it"
+        ], 
+        "cite_url": "www.dis.uniroma1.it/.../UNIRC-UNICAL.p...", 
+        "cite_name": "Sapienza University of Rome", 
+        "title": "[PDF]Unità di Ricerca: Università di Reggio Calabria Francesco ..."
+    }
+]

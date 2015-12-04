@@ -1,0 +1,47 @@
+[
+    {
+        "content": "assistant clinical professor of medicine, school of medicine. jessica lin phone: 919-843-4385. fax: 919-966-6714. email: jessica_lin@med.unc.edu. division...", 
+        "email_list": [
+            "jessica_lin@med.unc.edu"
+        ], 
+        "cite_url": "https://www.med.unc.edu/infdis/.../jessica-lin-m...", 
+        "cite_name": "UNC School of Medicine", 
+        "title": "Jessica Lin, MD — Faculty"
+    }, 
+    {
+        "content": "jessica lin assistant professor of economics. economics and decision sciences stipes hall 424 (309) 298-1638. jl-lin@wiu.edu. ph.d., binghamton...", 
+        "email_list": [
+            "jl-lin@wiu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Western Illinois University", 
+        "title": "Jessica Lin - Economics and Decision Sciences - Western ..."
+    }, 
+    {
+        "content": "you are here. home » contributors » jessica lin. jessica lin ... questions about the site? email webmaster[at]dailytexanonline.com. comments about articles or...", 
+        "email_list": [
+            "webmaster@dailytexanonline.com"
+        ], 
+        "cite_url": "https://www.dailytexanonline.com/author/jessica-lin", 
+        "cite_name": "The Daily Texan", 
+        "title": "Jessica Lin | The Daily Texan"
+    }, 
+    {
+        "content": "my name is jessica lin. im a fourth-year undergraduate at uc berkeley, ... for any purpose at all. email: jessica.lin@berkeley.edu. phone: (781) 325-5318...", 
+        "email_list": [
+            "jessica.lin@berkeley.edu"
+        ], 
+        "cite_url": "jaytlin.github.io/", 
+        "cite_name": "", 
+        "title": "Jessica Lin"
+    }, 
+    {
+        "content": "create alert. cancel. jessica lin ... verified email at gmu.edu. scholar. get my own ... j lin, e keogh, s lonardi, jp lankford, dm nystrom. proceedings of the...", 
+        "email_list": [
+            "email@gmu.edu"
+        ], 
+        "cite_url": "scholar.google.fr/citations?user=tRHOWkcAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Jessica Lin - Google Scholar Citations"
+    }
+]

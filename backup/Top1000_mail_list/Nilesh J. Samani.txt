@@ -1,3 +1,21 @@
-njs@le.ac.uk	[4]
-jd292@medschl.cam.ac.uk	[2]
-rroberts@ottawaheart.ca	[2]
+[
+    {
+        "content": "email: njs@le.ac.uk. address: department of cardiovascular sciences, university of leicester, cardiovascular research centre, glenfield general hospital,...", 
+        "email_addr_list": [
+            "njs@le.ac.uk"
+        ], 
+        "cite_url": "www2.le.ac.uk  ...  People", 
+        "cite_name": "University of Leicester", 
+        "title": "Professor Sir Nilesh J Samani — University of Leicester"
+    }, 
+    {
+        "content": "email: jd292@medschl.cam.ac.uk; panos deloukas william harvey research institute, ... email: rroberts@ottawaheart.ca; nilesh j samani (chair) department of...", 
+        "email_addr_list": [
+            "jd292@medschl.cam.ac.uk", 
+            "rroberts@ottawaheart.ca"
+        ], 
+        "cite_url": "www.cardiogramplusc4d.org/committee/", 
+        "cite_name": "", 
+        "title": "CARDIoGRAMplusC4D Consortium - Steering Committee"
+    }
+]

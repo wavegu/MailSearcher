@@ -1,0 +1,38 @@
+[
+    {
+        "content": "susumu horiguchi, graduate school of ... email:hori@jaist.ac.jp. fax:0761-51- ... professor horiguchi joined with school of information science, jaist in 1992.", 
+        "email_list": [
+            "hori@jaist.ac.jp"
+        ], 
+        "cite_url": "www.jaist.ac.jp/~hori/", 
+        "cite_name": "Japan Advanced Institute of Science and Technology", 
+        "title": "Professor Susumu Horiguchi"
+    }, 
+    {
+        "content": "oct 26, 2005 - susumu horiguchi, tohoku univ., japan. email: susumu@ecei.tohoku.ac.jp. local arrangement chair. yingwei jin, dalian univ. of tech.,...", 
+        "email_list": [
+            "susumu@ecei.tohoku.ac.jp"
+        ], 
+        "cite_url": "www.jaist.ac.jp/.../c...", 
+        "cite_name": "Japan Advanced Institute of Science and Technology", 
+        "title": "PDCAT2005 Committee"
+    }, 
+    {
+        "content": "email: yuchen@hust.edu.cn ... chen yu, yasushi inoguchi and susumu horiguchi, a new dimension analysis on blocking behavior in banyan-based optical...", 
+        "email_list": [
+            "yuchen@hust.edu.cn"
+        ], 
+        "cite_url": "grid.hust.edu.cn/yuchen/Personal.htm", 
+        "cite_name": "", 
+        "title": "此处输入主标题"
+    }, 
+    {
+        "content": "email: jiang@ecei.tohoku.ac.jp ... kaikai chi, xiaohong jiang, susumu horiguchi and minyi guo, topology design of network coding-based multicast...", 
+        "email_list": [
+            "jiang@ecei.tohoku.ac.jp"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Xiaohong Jiang - Journals, Conferences, Proceedings ..."
+    }
+]

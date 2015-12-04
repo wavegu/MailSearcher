@@ -1,0 +1,48 @@
+[
+    {
+        "content": "fax: (716) 645-3464. email: president@buffalo.edu ... computer science professor satish tripathi confirmed as ubs 15th president. computer science...", 
+        "email_list": [
+            "president@buffalo.edu"
+        ], 
+        "cite_url": "www.cse.buffalo.edu/people/?u=tripathi", 
+        "cite_name": "University at Buffalo", 
+        "title": "Satish K. Tripathi - UB Computer Science and Engineering"
+    }, 
+    {
+        "content": "e-mail: president@buffalo.edu ... email: bethdel@buffalo.edu ... about satish k. tripathi  our universitys vision  from the president  in the news  presidential...", 
+        "email_list": [
+            "president@buffalo.edu", 
+            "bethdel@buffalo.edu"
+        ], 
+        "cite_url": "https://www.buffalo.edu/president/contact.html", 
+        "cite_name": "University at Buffalo", 
+        "title": "Contact the Office of the President - UB Office of the President"
+    }, 
+    {
+        "content": "email: jjobin@gmail.com ... advisor: dr. satish k. tripathi. .... j. jobin, michalis faloutsos, satish k. tripathi: the case for a systematic approach to wireless...", 
+        "email_list": [
+            "jjobin@gmail.com"
+        ], 
+        "cite_url": "www.cs.ucr.edu/~jobin/CV/CV.pdf", 
+        "cite_name": "University of California, Riverside", 
+        "title": "[PDF]Education Research Interests Skills Professional Experience"
+    }, 
+    {
+        "content": "jul 17, 2012 - satish k. tripathi elected board member of the council for higher education accreditation. ... (202) 955-6126. email: willard@chea.org...", 
+        "email_list": [
+            "willard@chea.org"
+        ], 
+        "cite_url": "www.chea.org/.../NR_2012.0...", 
+        "cite_name": "Council for Higher Education Accreditation", 
+        "title": "CHEA - News Release July 17, 2012"
+    }, 
+    {
+        "content": "may 18, 2014 - ubs satish tripathi had the highest suny salary in 2012-13. ... university at buffalo president satish k. tripathi was the highest-paid president in the state university of new york system in ... email: jtokasz@buffnews.com...", 
+        "email_list": [
+            "jtokasz@buffnews.com"
+        ], 
+        "cite_url": "www.buffalonews.com/.../ubs-tripathi-was-highest-pai...", 
+        "cite_name": "The Buffalo News", 
+        "title": "UBs Tripathi was highest-paid president in SUNY in 2012-13"
+    }
+]

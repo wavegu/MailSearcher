@@ -1,0 +1,29 @@
+[
+    {
+        "content": "ernest pascarella. petersen chair in higher ... verified email at uiowa.edu. scholar ... pt terenzini, l springer, pm yaeger, et pascarella, a nora. research in...", 
+        "email_list": [
+            "email@uiowa.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2SrL_sMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "ernest pascarella - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: tricia.seifert@utoronto.ca. research ... supervisors: ernest t. pascarella and paul d. umbach ... co-authored with ashley asel and ernest pascarella.", 
+        "email_list": [
+            "tricia.seifert@utoronto.ca"
+        ], 
+        "cite_url": "www.montana.edu/.../Seifert.Tricia.cv.pdf", 
+        "cite_name": "Montana State University", 
+        "title": "[PDF]CURRICULUM VITAE - Montana State University"
+    }, 
+    {
+        "content": "fax 201-748-6008, e-mail: permcoordinator@wiley.com. ... how college affects students : a third decade of research / ernest t. pascarella,. patrick t. terenzini.", 
+        "email_list": [
+            "permcoordinator@wiley.com"
+        ], 
+        "cite_url": "https://edocs.uis.edu/.../How_college_effects_students_534-545.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]How College Affects Students: A Third Decade of ... - eDocs"
+    }
+]

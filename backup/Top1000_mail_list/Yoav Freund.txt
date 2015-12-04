@@ -1,2 +1,20 @@
-yfreund@ucsd.edu	[14]
-email at eng.ucsd.edu	[1]
+[
+    {
+        "content": "yoav freund works on applications of machine learning algorithms in ... yoav freund. web page. email: yfreund@ucsd.edu. office phone: 858-534-1668.", 
+        "email_addr_list": [
+            "yfreund@ucsd.edu"
+        ], 
+        "cite_url": "jacobsschool.ucsd.edu/...bios/index.sfe?...", 
+        "cite_name": "Jacobs School of Engineering", 
+        "title": "Yoav S. Freund - UCSD Jacobs School of Engineering"
+    }, 
+    {
+        "content": "create alert. cancel. yoav freund ... verified email at eng.ucsd.edu. scholar. get my own ... re schapire, y freund, p bartlett, ws lee. annals of statistics...", 
+        "email_addr_list": [
+            "email@eng.ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NFdG-GMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Yoav Freund - Google Scholar Citations"
+    }
+]

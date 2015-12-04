@@ -1,0 +1,20 @@
+[
+    {
+        "content": "zengyou he*, xiaofei xu, shengchun deng. department of computer science ... 86a451a6414906 (ext. 8512). email address: zengyouhe@yahoo.com (z. he).", 
+        "email_list": [
+            "zengyouhe@yahoo.com"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.4242...", 
+        "cite_name": "", 
+        "title": "[PDF]See it at CiteSeerX"
+    }, 
+    {
+        "content": "feb 18, 2011 - 604-822-8019 fax: 604-822-7756 email: weihong@exchange.ubc.ca ... chia-hsiung chen, weihui zhou, shengchun liu, yu deng, fang cai,...", 
+        "email_list": [
+            "weihong@exchange.ubc.ca"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S1461145711...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "The International Journal of Neuropsychopharmacology ..."
+    }
+]

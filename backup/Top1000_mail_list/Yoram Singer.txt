@@ -1,5 +1,20 @@
-singer@cs.huj	[13]
-yoramz@bgu.ac.il	[11]
-yoramz@bgu.ac.il.yoram	[11]
-datascience@columbia.edu	[2]
-manning@stanford.edu	[1]
+[
+    {
+        "content": "department : community health family medicine (north branch). room : 408 בנין משרדי רפואה עש אליה - m7. phone : 972-8-6477436. email : yoramz@bgu.ac.il.", 
+        "email_addr_list": [
+            "yoramz@bgu.ac.il"
+        ], 
+        "cite_url": "fohs.bgu.ac.il/research/profile.aspx?...", 
+        "cite_name": "Ben‑Gurion University of the Negev", 
+        "title": "Dr. Yoram Singer Profile"
+    }, 
+    {
+        "content": "stanford university stanford ca 94305-9040 manning@stanford.edu yoram singer school of computer science the hebrew university jerusalem 91904 israel...", 
+        "email_addr_list": [
+            "manning@stanford.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-singer-cs-huj-18966082.htm", 
+        "cite_name": "", 
+        "title": "singer@cs.huj - The Email Archive"
+    }
+]

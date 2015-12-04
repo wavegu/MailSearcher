@@ -1,0 +1,29 @@
+[
+    {
+        "content": "name: dr mark roantree. department: computing. role: sr lecturer. phone number: ext. 5636. email address: mark.roantree@computing.dcu.ie. room: l2.", 
+        "email_list": [
+            "mark.roantree@computing.dcu.ie"
+        ], 
+        "cite_url": "www.dcu.ie/computing/.../mark-roantree.shtml", 
+        "cite_name": "Dublin City University", 
+        "title": "Mark Roantree | Staff Profile | DCU"
+    }, 
+    {
+        "content": "mark roantrees picture. funded investigator. view expert profile. insight affiliation: dublin city university (dcu). email: mark.roantree@computing.dcu.ie.", 
+        "email_list": [
+            "mark.roantree@computing.dcu.ie"
+        ], 
+        "cite_url": "https://www.insight-centre.org/users/mark-roantree", 
+        "cite_name": "", 
+        "title": "Mark Roantree | The Insight Centre for Data Analytics"
+    }, 
+    {
+        "content": "mark roantree. school of ... verified email at computing.dcu.ie - homepage  scholar ... k crowley, j frisby, s murphy, m roantree, d diamond. sensors and...", 
+        "email_list": [
+            "email@computing.dcu.ie"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MI_tlpIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mark Roantree - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "content": "harry b greenberg is on cap network. cap network is a ... print profile  email profile. profile tabs ... academic harry.greenberg@stanford.edu. tel: (650) 725-...", 
+        "email_list": [
+            "harry.greenberg@stanford.edu"
+        ], 
+        "cite_url": "https://med.stanford.edu/.../harry...", 
+        "cite_name": "Stanford University School of Medicine", 
+        "title": "Harry B Greenberg | Stanford Medicine Profiles"
+    }, 
+    {
+        "content": "jan 17, 2009 - e-mail: desmond_acca@hotmail.com. terry law  co. 0959 ... e-mail: brian.kt.wong@gmail.com. sarawak ... sarawak. harry wong  co.", 
+        "email_list": [
+            "desmond_acca@hotmail.com", 
+            "brian.kt.wong@gmail.com"
+        ], 
+        "cite_url": "www.mia.org.my/at/at/2009/.../17.pdf", 
+        "cite_name": "Malaysian Institute of Accountants", 
+        "title": "[PDF]Audit Firms New Registration - Malaysian Institute of ..."
+    }, 
+    {
+        "content": "email: office@macleans.school.nz. office hours: ... mrs a dorey dy@macleans.school.nz; hillary house - mrs c wong ... mr r kelly ky@macleans.school.nz...", 
+        "email_list": [
+            "office@macleans.school.nz", 
+            "dy@macleans.school.nz", 
+            "ky@macleans.school.nz"
+        ], 
+        "cite_url": "www.macleans.school.nz/contacts.htm", 
+        "cite_name": "Macleans College", 
+        "title": "Macleans College | Contacts"
+    }, 
+    {
+        "content": "ms ivy w.c. wong, administrative assistant ii, email: iwcwong@hku.hk. ms mandy w.m. ... ms. grace k.y. lee, email: gracelky@hku.hk ... mr. harry c. c. chiu.", 
+        "email_list": [
+            "iwcwong@hku.hk", 
+            "gracelky@hku.hk"
+        ], 
+        "cite_url": "www.pharma.hku.hk/web2/staff.php", 
+        "cite_name": "University of Hong Kong", 
+        "title": "HKU, Pharmacology  Pharmacy | 香港大學藥理及藥劑學系"
+    }
+]

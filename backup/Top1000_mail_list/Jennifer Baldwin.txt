@@ -1,3 +1,29 @@
-jenniferbaldwin@altaplanning.com	[31]
-jennifer.baldwin@carefirst.com	[31]
-jbaldwin1@albany.edu	[16]
+[
+    {
+        "content": "phone: 410/605-2510. fax: 410/505-2474. e-mail: jennifer.baldwin@carefirst.com. jennifer baldwin, rn, mpa, joined carefirst bluecross blueshield in 2012.", 
+        "email_addr_list": [
+            "jennifer.baldwin@carefirst.com"
+        ], 
+        "cite_url": "www.nhpf.org  Resources", 
+        "cite_name": "", 
+        "title": "National Health Policy Forum | Jennifer Baldwin, RN, MPA"
+    }, 
+    {
+        "content": "serving since 2010. inspector jennifer l baldwin. email: jbaldwin1@albany.edu. no biographical information is available for this member...", 
+        "email_addr_list": [
+            "jbaldwin1@albany.edu"
+        ], 
+        "cite_url": "police.albany.edu/Member2.asp?...Baldwin...", 
+        "cite_name": "University at Albany, SUNY", 
+        "title": "Jennifer L Baldwin"
+    }, 
+    {
+        "content": "jennifer baldwin is a senior planner in durham, north carolina. ... based in baltimore; phone (443) 218-8165; email jenniferbaldwin@altaplanning.com...", 
+        "email_addr_list": [
+            "jenniferbaldwin@altaplanning.com"
+        ], 
+        "cite_url": "altaplanning.com/people/jennifer-baldwin/", 
+        "cite_name": "", 
+        "title": "Jennifer Baldwin — Alta Planning + Design"
+    }
+]

@@ -1,2 +1,20 @@
-david.blei@columbia.edu	[19]
-email at columbia.edu	[4]
+[
+    {
+        "content": "david m. blei. columbia university david.blei@columbia.edu ... please email me if you would like permission to take the course. my previous courses are here.", 
+        "email_addr_list": [
+            "david.blei@columbia.edu"
+        ], 
+        "cite_url": "www.cs.columbia.edu/~blei/", 
+        "cite_name": "Columbia University", 
+        "title": "David Blei - Columbia University"
+    }, 
+    {
+        "content": "verified email at columbia.edu - homepage  scholar ... k barnard, p duygulu, d forsyth, n de freitas, dm blei, mi jordan ... m hoffman, fr bach, dm blei.", 
+        "email_addr_list": [
+            "email@columbia.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "David Blei - Google Scholar Citations"
+    }
+]

@@ -1,2 +1,38 @@
-jamesrobinson@uchicago.edu	[28]
-jrobinson@gov.harvard.edu	[18]
+[
+    {
+        "content": "james robinson. james robinson. visiting professor comparative. his research interests lie in political economy ... email address. jrobinson@gov.harvard.edu...", 
+        "email_addr_list": [
+            "jrobinson@gov.harvard.edu"
+        ], 
+        "cite_url": "www.gov.harvard.edu/people/faculty/james-robinson", 
+        "cite_name": "Harvard University", 
+        "title": "James Robinson | Harvard University - Department of ..."
+    }, 
+    {
+        "content": "university professor, university of chicago. currently: 1737 cambridge street, office k309, cambridge, ma 02138 jamesrobinson@uchicago.edu (email).", 
+        "email_addr_list": [
+            "jamesrobinson@uchicago.edu"
+        ], 
+        "cite_url": "scholar.harvard.edu/jrobinson/home", 
+        "cite_name": "Harvard University", 
+        "title": "James Robinson - Harvard University"
+    }, 
+    {
+        "content": "e-mail: jrobinson@gov.harvard.edu. nationality: .... economía colombiana del siglo xx: un análisis cuantitativo edited by james a. robinson and miguel...", 
+        "email_addr_list": [
+            "jrobinson@gov.harvard.edu"
+        ], 
+        "cite_url": "www.erf.org.eg/CMS/getFile.php?id=1381", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE Dr. James A. Robinson Harvard ..."
+    }, 
+    {
+        "content": "first name: james. middle name: alan. last name: robinson. suffix: repec short-id: pro179. email: jamesrobinson@uchicago.edu. homepage...", 
+        "email_addr_list": [
+            "jamesrobinson@uchicago.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pro179.html", 
+        "cite_name": "", 
+        "title": "James Alan Robinson at IDEAS"
+    }
+]

@@ -1,4 +1,38 @@
-fan@as.arizona	[7]
-fan@as.arizona.xiaohui	[7]
-pharma@zju.edu.cn	[1]
-email at zju.edu.cn	[1]
+[
+    {
+        "content": "xiaohui fan. regents professor of astronomy. ph.d. ,. 2000. ,. princeton university. phone: (520) 626-7558. office: steward room 340. email: fan@as.arizona.", 
+        "email_addr_list": [
+            "fan@as.arizona"
+        ], 
+        "cite_url": "https://www.as.arizona.edu/people/.../xiaohui-fan", 
+        "cite_name": "Steward Observatory", 
+        "title": "Xiaohui Fan - Department of Astronomy and Steward ..."
+    }, 
+    {
+        "content": "xiaohui fan. regents professor of astronomy. steward observatory  university of arizona. tel: (520) 626-7558. fax: (520) 621-1532. email: fan@as.arizona.", 
+        "email_addr_list": [
+            "fan@as.arizona"
+        ], 
+        "cite_url": "sancerre.as.arizona.edu/~fan/", 
+        "cite_name": "Steward Observatory", 
+        "title": "Xiaohui Fan - University of Arizona"
+    }, 
+    {
+        "content": "xiaohui fan (范骁辉). professor ... verified email at zju.edu.cn - homepage  scholar ... w tong, ab lucas, r shippy, x fan, h fang, h hong, ms orr, tm chu, .", 
+        "email_addr_list": [
+            "email@zju.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tIRBRNMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xiaohui Fan (范骁辉) - Google Scholar Citations"
+    }, 
+    {
+        "content": "zhenhao li, shun xiao, ni ai, kedi luo, xiaohui fan*, yiyu cheng. derivative multiple ... tel  fax : (86-571)88208444 email: pharma@zju.edu.cn. address：...", 
+        "email_addr_list": [
+            "pharma@zju.edu.cn"
+        ], 
+        "cite_url": "www.cps.zju.edu.cn/index.php?c=indexa=jzyg_detailid...", 
+        "cite_name": "", 
+        "title": "Xiaohui Fan"
+    }
+]

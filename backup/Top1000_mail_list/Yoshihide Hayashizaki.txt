@@ -1,2 +1,20 @@
-yosihide@gsc.riken.go.jp	[3]
-yosihide@gsc.riken.go.jp.yoshihide	[3]
+[
+    {
+        "content": "yoshihide hayashizaki m.d., ph.d. 1-7-22 suehiro-cho, tsurumi-ku, yokohama,. kanagawa, 230-0045 ... e-mail: yosihide@gsc.riken.go.jp. 10 december 2007.", 
+        "email_addr_list": [
+            "yosihide@gsc.riken.go.jp"
+        ], 
+        "cite_url": "www.hugo-international.org/.../profile15.p...", 
+        "cite_name": "Human Genome Organisation", 
+        "title": "[PDF]Yoshihide Hayashizaki M.D., Ph.D. - HUGO"
+    }, 
+    {
+        "content": "yoshihide hayashizaki  jun kawai ... yoshihide hayashizaki and jun kawai are members of the genome exploration ... email: yosihide@gsc.riken.go.jp.", 
+        "email_addr_list": [
+            "yosihide@gsc.riken.go.jp"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Innovation", 
+        "cite_name": "Nature", 
+        "title": "A new approach to the distribution and storage of genetic ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "takeshi abe nishikyo-ku, kyoto 615-8510, japan deptartment of ... telephone: +81-75-383-2483 fax: +81-75-383-2488. email: abe@elech.kuic.kyoto-u.ac.jp...", 
+        "email_list": [
+            "abe@elech.kuic.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "elech.kuic.kyoto-u.ac.jp/~abe/index_e.html", 
+        "cite_name": "Kyoto University", 
+        "title": "Home Page of Takeshi ABE"
+    }, 
+    {
+        "content": "takashi abe. national institute of fitness ... verified email at nifs-k.ac.jp. scholar ... k kumagai, t abe, wf brechue, t ryushi, s takano, m mizuno. journal of...", 
+        "email_list": [
+            "email@nifs-k.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7CMd3asAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Takashi Abe - Google Scholar Citations"
+    }, 
+    {
+        "content": "takeshi abe. 1/20/11. active project. development of a simulator for mathematical models of multilevel physiological functions. email: takeshi.abe at oist.jp.", 
+        "email_list": [
+            "takeshi.abe@oist.jp"
+        ], 
+        "cite_url": "openbiology.unit.oist.jp/Members/Entries/2011/1/20_Takeshi_Abe.html", 
+        "cite_name": "", 
+        "title": "Takeshi Abe - Open Biology Unit, OIST"
+    }
+]

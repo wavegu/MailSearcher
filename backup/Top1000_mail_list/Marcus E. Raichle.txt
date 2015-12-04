@@ -1,3 +1,47 @@
-email at npg.wustl.edu	[3]
-marc@npg.wustl.edu	[3]
-foxm@npg.wustl.edu	[2]
+[
+    {
+        "content": "east building, room 2116 ... email: marc@npg.wustl.edu. marcus e. raichle, a neurologist, is a professor of radiology, neurology, neurobiology and...", 
+        "email_addr_list": [
+            "marc@npg.wustl.edu"
+        ], 
+        "cite_url": "www.nil.wustl.edu/labs/raichle/", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "Marcus E. Raichle, M.D. - Washington University in St. Louis"
+    }, 
+    {
+        "content": "email: marc@npg.wustl.edu. lab phone: (314) 362- ... website: raichle lab. lab location: east building 2116 ... marcus raichles news  select publications...", 
+        "email_addr_list": [
+            "marc@npg.wustl.edu"
+        ], 
+        "cite_url": "https://hopecenter.wustl.edu/?...marcu...", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "Marcus Raichle, MD | The Hope Center"
+    }, 
+    {
+        "content": "curriculum vitae - marcus e. raichle. date: february 20, 2012. address and telephone ... e-mail: marc@npg.wustl.edu. present position: professor of...", 
+        "email_addr_list": [
+            "marc@npg.wustl.edu"
+        ], 
+        "cite_url": "www.nil.wustl.edu/.../raichle/MER_C...", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "[PDF]CURRICULUM VITAE - Marcus E - Neuroimaging Laboratory"
+    }, 
+    {
+        "content": "marcus e. raichle. professor of radiology ... verified email at npg.wustl.edu. scholar ... da gusnard, e akbudak, gl shulman, me raichle. proceedings of the...", 
+        "email_addr_list": [
+            "email@npg.wustl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=IyXCbX0AAAAJ...en", 
+        "cite_name": "Google Scholar", 
+        "title": "Marcus E. Raichle - Google Scholar Citations"
+    }, 
+    {
+        "content": "michael d. fox  marcus e. raichle about the authors ... email: foxm@npg.wustl.edu; departments of neurology, anatomy and neurobiology and biomedical...", 
+        "email_addr_list": [
+            "foxm@npg.wustl.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Reviewwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Spontaneous fluctuations in brain activity observed with ...Google Business Email‎"
+    }
+]

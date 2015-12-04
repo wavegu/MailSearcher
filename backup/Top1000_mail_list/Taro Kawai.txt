@@ -1,3 +1,11 @@
-tarokawai@bs.naist.jp	[19]
-taro@antennagrp.com	[9]
-emailtaro@antennagrp.com	[9]
+[
+    {
+        "content": "see information and reports about taro@antennagrp.com (taro kawais e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "taro@antennagrp.com"
+        ], 
+        "cite_url": "spam-report.email/taro/antennagrp.com", 
+        "cite_name": "", 
+        "title": "taro@antennagrp.com (Taro Kawais e-mail) - Spam-Report ..."
+    }
+]

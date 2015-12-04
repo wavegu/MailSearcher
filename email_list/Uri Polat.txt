@@ -1,0 +1,29 @@
+[
+    {
+        "content": "polat uri department: eye institute (goldschleger) faculty of ... fax: (972)-3-5351577. email: urip@post.tau.ac.il. personal website: www.tau.ac.il/~urip", 
+        "email_list": [
+            "urip@post.tau.ac.il"
+        ], 
+        "cite_url": "www2.tau.ac.il/Person/medicine/researcher.asp?id...", 
+        "cite_name": "Tel Aviv University", 
+        "title": "Polat Uri, EYE INSTITUTE (GOLDSCHLEGER), FACULTY ..."
+    }, 
+    {
+        "content": "nov 28, 2014 - polat uri. home » polat uri. dr. uri polat. behavioral neuroscience ... tel:03-5354481 email: urip@post.tau.ac.il lab web site: www.tau.ac.il/~...", 
+        "email_list": [
+            "urip@post.tau.ac.il"
+        ], 
+        "cite_url": "neuroscience-web.tau.ac.il/en/?post_type...p...", 
+        "cite_name": "Tel Aviv University", 
+        "title": "Polat Uri | Sagol School of Neuroscience | Tel Aviv University"
+    }, 
+    {
+        "content": "oct 28, 2013 - author(s). 5d. project number. dr. uri polat; dr. anna sterkin email: urip@post.tau.ac.il. 5e. task number. 5f. work unit number.", 
+        "email_list": [
+            "urip@post.tau.ac.il"
+        ], 
+        "cite_url": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA606198", 
+        "cite_name": "", 
+        "title": "A Behavioral Treatment for Traumatic Brain Injury ..."
+    }
+]

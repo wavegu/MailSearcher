@@ -1,2 +1,11 @@
-jpo@astro.princeton.edu	[4]
-jpo@astro.princeton.edujeremiah	[4]
+[
+    {
+        "content": "jeremiah p. ostriker department of astrophysical sciences princeton university peyton hall ivy lane princeton, nj 08540. email:jpo@astro.princeton.edu", 
+        "email_addr_list": [
+            "jpo@astro.princeton.edu"
+        ], 
+        "cite_url": "www.psc.edu/science/Ostriker/ostriker_bio.html", 
+        "cite_name": "", 
+        "title": "Jeremiah P. Ostriker Bio - Pittsburgh Supercomputing Center"
+    }
+]

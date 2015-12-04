@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dr. young-rae cho. dr. young-rae cho. email. young-rae_cho@baylor.edu. office. ecs 220.19 ... waco, tx 76798-7356; 254.710.3871; email. copyright...", 
+        "email_list": [
+            "young-rae_cho@baylor.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Baylor University", 
+        "title": "Dr. Young-Rae Cho - School of Engineering and Computer ..."
+    }, 
+    {
+        "content": "instructor: dr. young-rae cho office: rogers ... email: young-rae_cho@baylor.edu. ta: matthew ... course web page: web.ecs.baylor.edu/faculty/cho/4352/...", 
+        "email_list": [
+            "young-rae_cho@baylor.edu"
+        ], 
+        "cite_url": "web.ecs.baylor.edu/faculty/cho/4352/", 
+        "cite_name": "Baylor University", 
+        "title": "Fall 2015"
+    }, 
+    {
+        "content": "instructor: dr. young-rae cho office: rogers 220.19 ... email: young-rae_cho@baylor.edu. course web page: web.ecs.baylor.edu/faculty/cho/3350/...", 
+        "email_list": [
+            "young-rae_cho@baylor.edu"
+        ], 
+        "cite_url": "web.ecs.baylor.edu/faculty/cho/3350/", 
+        "cite_name": "Baylor University", 
+        "title": "Fall 2015"
+    }
+]

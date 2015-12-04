@@ -1,0 +1,29 @@
+[
+    {
+        "content": "paul holleis, embedded interaction, homepage. ... 2012; j. seifert, a. simeone, d. schmidt, p. holleis, et al. ..... just send an email to mail@paul-holleis.de...", 
+        "email_list": [
+            "mail@paul-holleis.de"
+        ], 
+        "cite_url": "www.paul-holleis.de/", 
+        "cite_name": "", 
+        "title": "Paul Holleis, Embedded Interaction, Homepage"
+    }, 
+    {
+        "content": "cancel. paul holleis ... verified email at docomolab-euro.com - homepage  scholar ... e rukzio, k leichtenstern, v callaghan, p holleis, a schmidt, j chin.", 
+        "email_list": [
+            "email@docomolab-euro.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=rsvi2iwAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Paul Holleis - Google Scholar Citations"
+    }, 
+    {
+        "content": "mail, paul.holleis@ifi.lmu.de. telefon, 089/2180-4657. fax, 089/2180-99-4657. adresse, paul holleis universität münchen, lfe medieninformatik amalienstr. 17", 
+        "email_list": [
+            "paul.holleis@ifi.lmu.de"
+        ], 
+        "cite_url": "www.medien.ifi.lmu.de/team/paul.holleis/", 
+        "cite_name": "", 
+        "title": "Paul Holleis - Medieninformatik"
+    }
+]

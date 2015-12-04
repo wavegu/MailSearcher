@@ -1,5 +1,29 @@
-hari@csail.mit.edu	[9]
-hari@lcs.mit.edu	[9]
-yonch at mit . edu	[2]
-raluca at eecs dot berkeley dot edu	[2]
-email at csail.mit.edu	[1]
+[
+    {
+        "content": "create alert. cancel. hari balakrishnan. mit ... verified email at csail.mit.edu - homepage  scholar ... wr heinzelman, a chandrakasan, h balakrishnan.", 
+        "email_addr_list": [
+            "email@csail.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Qf4bw4UAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Hari Balakrishnan - Google Scholar Citations"
+    }, 
+    {
+        "content": "hari balakrishnan (hari@lcs.mit.edu) is an associate professor in the department ... hari balakrishnan laboratory for computer science 545 technology square...", 
+        "email_addr_list": [
+            "hari@lcs.mit.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-hari-lcs-mit-edu-5450692.htm", 
+        "cite_name": "", 
+        "title": "hari@lcs.mit.edu - The Email Archive"
+    }, 
+    {
+        "content": "email: raluca at eecs dot berkeley dot edu ... with: professor hari balakrishnan (in systems), professor shafi goldwasser, dr. yael kalai, and professor vinod...", 
+        "email_addr_list": [
+            "raluca@eecs.berkeley.edu"
+        ], 
+        "cite_url": "www.eecs.berkeley.edu/~raluca/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Raluca Ada Popas Homepage"
+    }
+]

@@ -1,5 +1,38 @@
-weikum at mpi-inf.mpg.de	[14]
-weikum@mpi-inf.mpg.de	[13]
-email at mpi-inf.mpg.de	[2]
-peter@ceid.upa	[1]
-elbass@mpi-inf.mpg.de	[1]
+[
+    {
+        "content": "prof. dr. gerhard weikum. max planck institute for informatics, saarbrücken. phone:+49 681 9325-5000fax:+49 681 9325-5099. email:weikum@mpi-inf.mpg.de...", 
+        "email_addr_list": [
+            "weikum@mpi-inf.mpg.de"
+        ], 
+        "cite_url": "www.mpg.de  Homepage  Institutes", 
+        "cite_name": "Max Planck Society", 
+        "title": "Weikum, Gerhard | Max Planck Society"
+    }, 
+    {
+        "content": "gerhard weikum. professor of computer ... verified email at mpi-inf.mpg.de. scholar. get my own ... fm suchanek, g kasneci, g weikum. proceedings of the...", 
+        "email_addr_list": [
+            "email@mpi-inf.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vNAD0mAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Gerhard Weikum - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: elbass@mpi-inf.mpg.de. research interests ... advisor: gerhard weikum. • m.s. in ... grade: a (1.1). advisors: gerhard weikum, julia luxenburger.", 
+        "email_addr_list": [
+            "elbass@mpi-inf.mpg.de"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.230.2704...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }, 
+    {
+        "content": "gerhard weikum: publications, bio, bibliography, etc. ... personal homepage: http://www.mpi-inf.mpg.de/~weikum/; employer: (); email: weikum@mpi-inf.mpg.de...", 
+        "email_addr_list": [
+            "weikum@mpi-inf.mpg.de"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/gerhard-weikum", 
+        "cite_name": "", 
+        "title": "Gerhard Weikum: Publications, bio, bibliography, etc ..."
+    }
+]

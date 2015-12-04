@@ -1,3 +1,11 @@
-stefano.ceri at polimi.it	[23]
-sec@ofai.at	[3]
-email at polimi.it	[1]
+[
+    {
+        "content": "stefano ceri. professor, politecnico ... verified email at polimi.it. scholar. get my own ... s ceri, a bongio, p fraternali, m brambilla, s comai, m matera. morgan...", 
+        "email_addr_list": [
+            "email@polimi.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=aiulJmIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Stefano Ceri - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "content": "phone: 435-586-5473. email: balasa@suu.edu, fbalasa@cs.uic.edu. status: us citizen. fax: 435-865-8444. url: www.suu.edu/faculty/balasa/welcome.html.", 
+        "email_list": [
+            "balasa@suu.edu", 
+            "fbalasa@cs.uic.edu"
+        ], 
+        "cite_url": "pdf.aminer.org/.../solving_large_scale_assignment_problems_in_high_leve...", 
+        "cite_name": "", 
+        "title": "FLORIN BALASA - AMiner"
+    }
+]

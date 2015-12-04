@@ -1,2 +1,11 @@
-naylor@uthscsa.edu	[14]
-naylor@uthscsa.hsc	[14]
+[
+    {
+        "content": "name: susan l. naylor (ph.d.) telephone: 210-567-3842. fax: 210-567-6781. email: mailto:naylor@uthscsa.edu. edrn title: specialty: edrn account name:.", 
+        "email_addr_list": [
+            "naylor@uthscsa.edu"
+        ], 
+        "cite_url": "edrn.nci.nih.gov  Sites  University of Texas at San Antonio", 
+        "cite_name": "", 
+        "title": "Naylor, Susan L. — EDRN Public Portal"
+    }
+]

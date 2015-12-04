@@ -1,0 +1,20 @@
+[
+    {
+        "content": "isao mochida. fellow. affiliation: kyushu university. address: kasugo koen, kasuga, fukuoka. country / region: japan. email: mochida@cm.kyushu-u.ac.jp...", 
+        "email_list": [
+            "mochida@cm.kyushu-u.ac.jp"
+        ], 
+        "cite_url": "www.iupac.org/.../me...", 
+        "cite_name": "International Union of Pure and Applied Chemistry", 
+        "title": "Mochida - IUPAC - International Union of Pure and Applied ..."
+    }, 
+    {
+        "content": "oct 19, 2015 - 首页  国际交流动态. 日本九州大学特聘教授isao mochida访问山西煤化所 ... 地址：北京市三里河路52号邮编：100864 email：cas_en@cas.cn", 
+        "email_list": [
+            "cas_en@cas.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "日本九州大学特聘教授Isao Mochida访问山西煤化所----中国 ..."
+    }
+]

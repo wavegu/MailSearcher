@@ -1,0 +1,29 @@
+[
+    {
+        "content": "verified email at math.upatras.gr - homepage  scholar ... sb kotsiantis, id zaharakis, pe pintelas. artificial ... sb kotsiantis, d kanellopoulos, pe pintelas.", 
+        "email_list": [
+            "email@math.upatras.gr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=h6zwXYMAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Sotiris Kotsiantis - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: sotos@math.upatras.gr ... george e. tsekouras, dimitris papageorgiou, sotiris b. kotsiantis, christos kalloniatis, panagiotis e. pintelas, fuzzy clustering...", 
+        "email_list": [
+            "sotos@math.upatras.gr"
+        ], 
+        "cite_url": "edu.eap.gr/pli/pli10/info/.../Kotsiantis_CV.htm", 
+        "cite_name": "Hellenic Open University", 
+        "title": "ΒΙΟΓΡΑΦΙΚΟ ΣΗΜΕΙΩΜΑ - Ελληνικό Ανοιχτό Πανεπιστήμιο"
+    }, 
+    {
+        "content": "aug 23, 2013 - sotiris b. kotsiantis ... software development laboratory, university of patras, patras 26504, greece; e-mail: sotos@math.upatras.gr. abstract.", 
+        "email_list": [
+            "sotos@math.upatras.gr"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0269888913...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "The Knowledge Engineering Review - Bagging and ..."
+    }
+]

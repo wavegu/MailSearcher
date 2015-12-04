@@ -1,5 +1,38 @@
-dongsj@ns.ciac.jl.cn	[10]
-alexander.eychmueller@chemie.tu-dresden.de	[2]
-scastenq@polyu.edu.hk	[2]
-guobaoxu@ciac.jl.cn	[1]
-jbjia@ciac.ac.cn	[1]
+[
+    {
+        "content": "email: dongsj@ns.ciac.jl.cn. professor shaojun dong was born in qingdao in china. she received her b.s. degree in 1952 from furen university(1, history, 2),...", 
+        "email_addr_list": [
+            "dongsj@ns.ciac.jl.cn"
+        ], 
+        "cite_url": "skleac.ciac.jl.cn/english/supervisors2.htm", 
+        "cite_name": "", 
+        "title": "Prof.Shaojun Dong"
+    }, 
+    {
+        "content": "chengzhou zhu, shaojun dong*, functional graphene-based nanomaterials: ..... email: alexander.eychmueller@chemie.tu-dresden.de. tel: +49 351463-37597.", 
+        "email_addr_list": [
+            "alexander.eychmueller@chemie.tu-dresden.de"
+        ], 
+        "cite_url": "www.mme.wsu.edu/people/faculty/.../CV.pd...", 
+        "cite_name": "Washington State University", 
+        "title": "[PDF]Curriculum Vitae - MME at WSU - Washington State University"
+    }, 
+    {
+        "content": "fax: +86-431-85262747. email: guobaoxu@ciac.jl.cn ..... 2006, 74(2), 135-137. (92) guobao xu, hei-leung pang, bo xu, shaojun dong, and kwok-yin wong*.", 
+        "email_addr_list": [
+            "guobaoxu@ciac.jl.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~guobaoxu...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "个人主页 - 中国科学院大学"
+    }, 
+    {
+        "content": "email: jbjia@ciac.ac.cn ... the first prize of science and technology advancement award in jilin province in 2007 (shaojun dong, erkang wang, xiurong yang,...", 
+        "email_addr_list": [
+            "jbjia@ciac.ac.cn"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~jianbojia?...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "English - 个人主页"
+    }
+]

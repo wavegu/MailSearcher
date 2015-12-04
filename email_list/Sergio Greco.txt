@@ -1,0 +1,11 @@
+[
+    {
+        "content": "immagine di prof. sergio greco, direttore. direttore: prof. sergio greco tel. 0984/494718. fax 0984/494713. email dipartimento.dimes@pec.unical.it.", 
+        "email_list": [
+            "dipartimento.dimes@pec.unical.it"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Calabria", 
+        "title": "Dipartimento di Ingegneria Informatica, Modellistica ..."
+    }
+]

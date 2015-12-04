@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email. robert.moskovitch@columbia.edu ... moskovitch r, shahar y. classification of multivariate time series via temporal abstraction and time intervals mining.", 
+        "email_list": [
+            "robert.moskovitch@columbia.edu"
+        ], 
+        "cite_url": "https://systemsbiology.columbia.edu/.../robert-mosk...", 
+        "cite_name": "Columbia University", 
+        "title": "Robert Moskovitch | Columbia University Department of ..."
+    }, 
+    {
+        "content": "cancel. robert moskovitch ... verified email at columbia.edu - homepage  scholar ... y shahar, o young, e shalom, m galperin, a mayaffit, r moskovitch, .", 
+        "email_list": [
+            "email@columbia.edu"
+        ], 
+        "cite_url": "scholar.google.co.il/citations?user=aYEVCBwAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Robert Moskovitch - Google Scholar Citations"
+    }, 
+    {
+        "content": "mr. robert moskovitch,מר רוברט מושקוביץ,department of information systems engineering,המחלקה להנדסת מערכות מידע,personal web ... email, robertmo@bgu.ac.il.", 
+        "email_list": [
+            "robertmo@bgu.ac.il"
+        ], 
+        "cite_url": "www.ise.bgu.ac.il/engineering/PersonalWebsite1Publications.aspx?id...", 
+        "cite_name": "", 
+        "title": "Mr. Robert Moskovitch Web Site"
+    }
+]

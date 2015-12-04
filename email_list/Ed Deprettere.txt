@@ -1,0 +1,11 @@
+[
+    {
+        "content": "jul 5, 2003 - ed deprettere. leiden embedded research center leiden institute of ... phone: +31-71-5275776. fax: +31-71-5276985. email: edd@liacs.nl...", 
+        "email_list": [
+            "edd@liacs.nl"
+        ], 
+        "cite_url": "www.wi.leidenuniv.nl/~edd/home.html", 
+        "cite_name": "", 
+        "title": "Ed Deprettere Home Page"
+    }
+]

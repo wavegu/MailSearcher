@@ -1,0 +1,29 @@
+[
+    {
+        "content": "kontakt-email, besenhard@tugraz.at. schlagwörter ... name, titel, funktion, e-mail. besenhard jürgen, dipl.-chem. ... s. voß, j.o. besenhard, j.h. albering :", 
+        "email_list": [
+            "besenhard@tugraz.at"
+        ], 
+        "cite_url": "https://online.tugraz.at/tug_online/fdb_detail.ansicht?cvfanr...37...", 
+        "cite_name": "", 
+        "title": "Detailansicht - TUGRAZonline - Technische Universität Graz"
+    }, 
+    {
+        "content": "... chemistry, batteries, materials science. verified email at basch.at - homepage ... a basch, r horn, jo besenhard. colloids and surfaces a: physicochemical...", 
+        "email_list": [
+            "email@basch.at"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GhpHPt0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Angelika Basch - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at fkkt.uni-lj.si. scholar. get my own profile .... m bele, a kodre, i arčon, j grdadolnik, s pejovnik, jo besenhard. carbon 36 (7), 1207-1212, 1998.", 
+        "email_list": [
+            "email@fkkt.uni-lj.si"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=bZi2R6gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stane Pejovnik - Google Scholar Citations"
+    }
+]

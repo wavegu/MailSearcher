@@ -1,1 +1,11 @@
-email at tcd.ie	[3]
+[
+    {
+        "content": "aoife mclysaght. professor, genetics ... verified email at tcd.ie. scholar ... e pessia, t makino, m bailly-bechet, a mclysaght, gab marais. proceedings of the...", 
+        "email_addr_list": [
+            "email@tcd.ie"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=q_tyC3sAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Aoife McLysaght - Google Scholar Citations"
+    }
+]

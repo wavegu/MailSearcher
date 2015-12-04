@@ -1,4 +1,20 @@
-jane.gitschier@ucsf.edu	[2]
-email at soe.ucsc.edu	[2]
-events@biomedcentral.comdavid	[1]
-events@biomedcentral.com	[1]
+[
+    {
+        "content": "david haussler investigator, howard hughes medical institute distinguished professor, biomolecular engineering, ... email: events@biomedcentral.com", 
+        "email_addr_list": [
+            "events@biomedcentral.com"
+        ], 
+        "cite_url": "www.beyond-the-genome.com/conference-speakers/david-haussler/", 
+        "cite_name": "", 
+        "title": "David Haussler - Beyond the Genome 2014"
+    }, 
+    {
+        "content": "david haussler. professor of biomolecular ... verified email at soe.ucsc.edu. scholar ... ts furey, n cristianini, n duffy, dw bednarski, m schummer, d haussler.", 
+        "email_addr_list": [
+            "email@soe.ucsc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=S2OjOvYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David Haussler - Google Scholar Citations"
+    }
+]

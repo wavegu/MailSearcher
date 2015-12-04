@@ -1,2 +1,20 @@
-iandunham@gmail.com	[19]
-email at ebi.ac.uk	[2]
+[
+    {
+        "content": "ian dunham. doctoral student. contact info. email: iandunham@gmail.com. academic adviser: aram sinnreich. education. m.m. - ethnomusicology, university...", 
+        "email_addr_list": [
+            "iandunham@gmail.com"
+        ], 
+        "cite_url": "https://comminfo.rutgers.edu/.../ian-dunham/index.ht...", 
+        "cite_name": "Rutgers University", 
+        "title": "Ian Dunham - School of Communication and Information ..."
+    }, 
+    {
+        "content": "create alert. cancel. ian dunham ... verified email at ebi.ac.uk. scholar ... i dunham, ar hunt, je collins, r bruskiewich, dm beare, m clamp, ... nature 402...", 
+        "email_addr_list": [
+            "email@ebi.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=4Q9xIP0AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Ian Dunham - Google Scholar Citations"
+    }
+]

@@ -1,4 +1,56 @@
-luc.anselin@asu.edu	[21]
-anselin@brown.edu	[16]
-anselin@uiuc.edu	[16]
-email at asu.edu	[3]
+[
+    {
+        "content": "luc anselin: current contact information and listing of economic research of this ... email: luc.anselin@asu.edu ... lee mobley  h. e. frech  luc anselin, 2009.", 
+        "email_addr_list": [
+            "luc.anselin@asu.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pan162.html", 
+        "cite_name": "", 
+        "title": "Luc Anselin at IDEAS"
+    }, 
+    {
+        "content": "email: luc.anselin@asu.edu. [email address hidden, enable ... by anselin, luc; properties of tests for spatial error components by luc anselin  rosina moreno...", 
+        "email_addr_list": [
+            "luc.anselin@asu.edu"
+        ], 
+        "cite_url": "https://authors.repec.org/pro/pan162/", 
+        "cite_name": "", 
+        "title": "RePEc: Luc Anselin"
+    }, 
+    {
+        "content": "luc anselin. regents professor and walter ... verified email at asu.edu. scholar. get my own ... l anselin, ak bera, r florax, mj yoon. regional science and...", 
+        "email_addr_list": [
+            "email@asu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NqRdooQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Luc Anselin - Google Scholar Citations"
+    }, 
+    {
+        "content": "+1.(480) 965-7533; luc.anselin@asu.edu  website  curriculum vitae  edit my page; last edited on 10/01/2015. department of geography  geographic...", 
+        "email_addr_list": [
+            "luc.anselin@asu.edu"
+        ], 
+        "cite_url": "https://www.geog.illinois.edu...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "Anselin, Luc - Department of Geography and Geographic ..."
+    }, 
+    {
+        "content": "email: anselin@uiuc.edu. url: http://geog55.gis.uiuc.edu/~luc/ luc anselin is currently senior research professor@the regional economics applications...", 
+        "email_addr_list": [
+            "anselin@uiuc.edu"
+        ], 
+        "cite_url": "www.csiss.org/aboutus/personnel/executive.htm", 
+        "cite_name": "", 
+        "title": "CSISS - Personnel: Executive Committee"
+    }, 
+    {
+        "content": "luc anselin. spring 2016 ... instructor information. directory: luc anselin - directory link; phone: (401) 863-2369; email: luc_anselin@brown.edu.", 
+        "email_addr_list": [
+            "luc_anselin@brown.edu"
+        ], 
+        "cite_url": "https://courses.brown.edu/instructors/luc-anselinwww.google.com/email", 
+        "cite_name": "Brown University", 
+        "title": "Luc Anselin | CoursesGoogle Business Email - Custom email for your company‎"
+    }
+]

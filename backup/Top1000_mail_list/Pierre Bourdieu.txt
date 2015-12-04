@@ -1,2 +1,20 @@
-permissions@dukeupress.edu	[2]
-loic@berkeley.edu	[1]
+[
+    {
+        "content": "email: loic@berkeley.edu. abstract. pierre bourdieus recasting of the question of class exemplifies the major features of his sociology and the way he extends,...", 
+        "email_addr_list": [
+            "loic@berkeley.edu"
+        ], 
+        "cite_url": "jcs.sagepub.com/content/13/2/274.short?rss=1...", 
+        "cite_name": "Sage Publications", 
+        "title": "Symbolic power and group-making: On Pierre Bourdieus ..."
+    }, 
+    {
+        "content": "pierre bourdieu and literary history, duke university press. ... contact information. email: permissions@dukeupress.edu: email contact for coursepacks:...", 
+        "email_addr_list": [
+            "permissions@dukeupress.edu"
+        ], 
+        "cite_url": "https://www.dukeupress.edu/Pierre-Bourdieu-and-...", 
+        "cite_name": "Duke University Press", 
+        "title": "Pierre Bourdieu and Literary History | Duke University Press"
+    }
+]

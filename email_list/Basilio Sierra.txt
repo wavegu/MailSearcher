@@ -1,0 +1,30 @@
+[
+    {
+        "content": "san sebasti an, spain, e-mail: ccpsiarb@si.ehu.es (basilio sierra) web site: ... e-mail: nserrano@epicure.org (nicol as serrano) web site: http://www.epicure.org.", 
+        "email_list": [
+            "ccpsiarb@si.ehu.es", 
+            "nserrano@epicure.org"
+        ], 
+        "cite_url": "www.ifs.tuwien.ac.at/.../caic99-06.pdf", 
+        "cite_name": "Vienna University of Technology", 
+        "title": "[PDF]Bayesian networks as consensed voting system in the ..."
+    }, 
+    {
+        "content": "información sobre el e-mail basilio.sierra.1@facebook.com. busca al dueño de e-mail. rápido, gratis, sin registrarte.", 
+        "email_list": [
+            "basilio.sierra.1@facebook.com"
+        ], 
+        "cite_url": "telcontacto.es/numero...email/basilio-sierra-1-362563", 
+        "cite_name": "", 
+        "title": "basilio.sierra.1@facebook.com e-mail"
+    }, 
+    {
+        "content": "oct 25, 2014 - anyone know the email address and contact person at sierra mar? we like to ... hotel san basilio 3.0 of 5 ... try eestiu@gmail.com for emir.", 
+        "email_list": [
+            "eestiu@gmail.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "TripAdvisor", 
+        "title": "Email address for Sierra Mar? - Santiago de Cuba Forum - TripAdvisor"
+    }
+]

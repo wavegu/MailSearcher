@@ -1,0 +1,38 @@
+[
+    {
+        "content": "create alert. cancel. mattavelli marco ... verified email at epfl.ch. scholar ... ss bhattacharyya, j eker, jw janneck, c lucarz, m mattavelli, m raulet. journal of...", 
+        "email_list": [
+            "email@epfl.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5FRRF-MAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mattavelli Marco - Google Scholar Citations"
+    }, 
+    {
+        "content": "first name: marco. last name: mattavelli. type of editor: ae. affiliation: epfl. email address: marco.mattavelli@epfl.ch. webpage url:", 
+        "email_list": [
+            "marco.mattavelli@epfl.ch"
+        ], 
+        "cite_url": "www.signalprocessingsociety.org/index.p...", 
+        "cite_name": "IEEE Signal Processing Society", 
+        "title": "IEEE Signal Processing Society - SPL Editorial Board"
+    }, 
+    {
+        "content": "author, j. le feuvre, m. raulet, m. mattavelli, e. thomas, ali c. begen, p. gendron, ... please send an email to marco mattavelli (marco.mattavelli@epfl.ch).", 
+        "email_list": [
+            "marco.mattavelli@epfl.ch"
+        ], 
+        "cite_url": "mpeg.chiariglione.org/.../w14645%20-%2...", 
+        "cite_name": "Moving Picture Experts Group", 
+        "title": "[DOC]international organisation for standardisation - MPEG"
+    }, 
+    {
+        "content": "authors. c. alberti, m. mattavelli ... to register (only for logistic purposes), please send an email to marco mattavelli (marco.mattavelli@epfl.ch). date:.", 
+        "email_list": [
+            "marco.mattavelli@epfl.ch"
+        ], 
+        "cite_url": "mpeg.chiariglione.org/.../N15347_Semina...", 
+        "cite_name": "Moving Picture Experts Group", 
+        "title": "[DOC]international organisation for standardisation - MPEG"
+    }
+]

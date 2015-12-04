@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: jordi.vitria@ub.edu. web: http://bcnpcl.wordpress.com. blog: http://jordivitria.wordpress.com (in catalan). in 2007, i joined the applied mathematics and...", 
+        "email_list": [
+            "jordi.vitria@ub.edu"
+        ], 
+        "cite_url": "www.cvc.uab.es/~jordi/", 
+        "cite_name": "", 
+        "title": "Jordi Vitrià Senior Researcher, Computer Vision Center Full ..."
+    }, 
+    {
+        "content": "jordi vitrià. professor of computer ... verified email at ub.edu - homepage  scholar. get my own ... x baró, s escalera, j vitrià, o pujol, p radeva. intelligent...", 
+        "email_list": [
+            "email@ub.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BZfj2c8AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jordi Vitrià - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: jordi.vitria@ub.edu. biosketch. dr. jordi vitrià is a senior researcher and full professor at ub. he received his ph.d. degree from the universitat autònoma...", 
+        "email_list": [
+            "jordi.vitria@ub.edu"
+        ], 
+        "cite_url": "www.bgsmath.cat/fitxa-jordi-vitria/", 
+        "cite_name": "", 
+        "title": "Jordi Vitrià | BGSM"
+    }, 
+    {
+        "content": "jordi vitriÀ marca, 93 402 08 52, 2n pis, jordiv at maia.ub.es. professors no permanents. pablo almajano francoy, 93 403 13 44, altell, almajano at ub.", 
+        "email_list": [
+            "jordiv@maia.ub.es"
+        ], 
+        "cite_url": "www.maia.ub.es/personal.html", 
+        "cite_name": "", 
+        "title": "UB - Departament de Matematica Aplicada i Analisi - MAiA"
+    }, 
+    {
+        "content": "email: victoria.ferragut@uab.cat. pàgina web personal: grup de recerca: • unitat de tecnologia daliments. uab-certa. formació acadèmica: • llicenciat en...", 
+        "email_list": [
+            "victoria.ferragut@uab.cat"
+        ], 
+        "cite_url": "www.uab.cat/.../...", 
+        "cite_name": "Autonomous University of Barcelona", 
+        "title": "[PDF]Ferragut Pérez, Victoria Fca."
+    }, 
+    {
+        "content": "26/03/2015 in uncategorized | by jordivitria | leave a comment. our work on using deep ... jordi vitrià: zero-shot learning of food; oriol pujol: tba; petia radeva: lifelogging: a problem to solve. xevi baró: tba ... e-mail: bcnpcl@gmail.com...", 
+        "email_list": [
+            "bcnpcl@gmail.com"
+        ], 
+        "cite_url": "https://bcnpcl.wordpress.com/", 
+        "cite_name": "", 
+        "title": "BCN Perceptual Computing Lab"
+    }
+]

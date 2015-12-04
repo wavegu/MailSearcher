@@ -1,0 +1,75 @@
+[
+    {
+        "content": "z.z.liang, l. song, et al, numerical simulation of patterns of seismic activities in rock failure ... z.z.liang, c. a. tang, and y. b. zhang 3d modeling of brittle fracture in heterogeneous rocks. ... email: z.z.liang@163.com.", 
+        "email_list": [
+            "z.z.liang@163.com"
+        ], 
+        "cite_url": "https://www.isrm.net/.../119262...", 
+        "cite_name": "International Society for Rock Mechanics", 
+        "title": "[PDF]Dr. LIANG Zhengzhao - International Society for Rock ..."
+    }, 
+    {
+        "content": "email: hzhang@ucas.ac.cn; huaizhang@gmail.com .... [5] liang zheng, huai zhang, taras gerya, matthew knepley, david a. yuen,yaolin shi (2013), implementation of .... [23] yaolin shi shi, yuanze zhou, huai zhang,hongcai wang (2011),...", 
+        "email_list": [
+            "hzhang@ucas.ac.cn", 
+            "huaizhang@gmail.com"
+        ], 
+        "cite_url": "people.ucas.ac.cn/~hzhang?...", 
+        "cite_name": "University of Chinese Academy of Sciences", 
+        "title": "个人主页 - 中国科学院大学"
+    }, 
+    {
+        "content": "liang zhao. professor of institute of ... verified email at mail.iggcas.ac.cn. scholar. get my own ... t zheng, l chen, l zhao, w xu, r zhu. physics of the earth...", 
+        "email_list": [
+            "email@mail.iggcas.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AIDOTUgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Liang Zhao - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: zhaozy@zju.edu.cn .... zou chaochun, liang li, wang chunlin, fu junfen, zhao zhengyan ... zou chaochun, huang ke, liang li, zhao zhengyan", 
+        "email_list": [
+            "zhaozy@zju.edu.cn"
+        ], 
+        "cite_url": "www.cmm.zju.edu.cn/english/scholar.php?uid=36", 
+        "cite_name": "", 
+        "title": "Zhao Zhengyan - Zhejiang University School of Medicine"
+    }, 
+    {
+        "content": "email: ericlyun [at] pku.edu.cn ... of racetrack memory, chao zhang, guangyu sun, xian zhang, weiqi zhang, weisheng zhao, tao wang, yun liang, yongpan...", 
+        "email_list": [
+            "ericlyun@pku.edu.cn"
+        ], 
+        "cite_url": "ceca.pku.edu.cn/en/team.php?action=showmember_id=14", 
+        "cite_name": "", 
+        "title": "Yun (Eric) Liang - Center for Energy-Efficient Computing ..."
+    }, 
+    {
+        "content": "tel:138408995585, email: catang@mechsoft.cn ..... liang zz, tang ca, zhao ds, zhang yb, xu t, zhang hq，3-d micromechanics model for progressive...", 
+        "email_list": [
+            "catang@mechsoft.cn"
+        ], 
+        "cite_url": "www.rockgeotech.org/board/tangchunan.asp", 
+        "cite_name": "", 
+        "title": "Chunan Tang - Journal of Rock Mechanics and ..."
+    }, 
+    {
+        "content": "dec 28, 2014 - email：ylzheng@sicau.edu.cn, fax：86-835-2883153 ... zhen-xiang lu, shan zhao, quan-zhi zhao and you-liang zheng*, 2012. novel variants...", 
+        "email_list": [
+            "ylzheng@sicau.edu.cn"
+        ], 
+        "cite_url": "xms.sicau.edu.cn/en/index.php?p=8a=viewr=33", 
+        "cite_name": "", 
+        "title": "You-Liang Zheng - detailed - Wheat Research Institute"
+    }, 
+    {
+        "content": "associate professor, dr. liang zhao. email: zhaolchem@mail.tsinghua.edu.cn. tel (fax): 86-10-62797527. mailing address: room 404, chemistry building,.", 
+        "email_list": [
+            "zhaolchem@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104091742185421593...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Chemistry,Tsinghua University"
+    }
+]

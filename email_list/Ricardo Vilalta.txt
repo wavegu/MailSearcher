@@ -1,0 +1,38 @@
+[
+    {
+        "content": "ricardo vilalta. welcome to my webpage! i am an associate professor ... houston tx 77204-3010. email: r dot vilalta dot us at ieee dot org. phone: 713-743-3614.", 
+        "email_list": [
+            "us@ieee.org"
+        ], 
+        "cite_url": "cosc.uh.edu/~vilalta/", 
+        "cite_name": "", 
+        "title": "Ricardo Vilalta - University of Houston"
+    }, 
+    {
+        "content": "create alert. cancel. ricardo vilalta ... verified email at cs.uh.edu - homepage  scholar ... rk sahoo, aj oliner, i rish, m gupta, je moreira, s ma, r vilalta, .", 
+        "email_list": [
+            "email@cs.uh.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ECsuY1cAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ricardo Vilalta - Google Scholar Citations"
+    }, 
+    {
+        "content": "4800 calhoun rd., houston tx 77204-3010 phone: (713) 743-3614, fax: (713) 743-3335 email:vilalta@cs.uh.edu home page: http://www.cs.uh.edu/˜vilalta.", 
+        "email_list": [
+            "vilalta@cs.uh.edu"
+        ], 
+        "cite_url": "https://sacs.lamar.edu/opa/.../download_resume_LU.php?uid=RVILALT...", 
+        "cite_name": "", 
+        "title": "[PDF]Ricardo Vilalta"
+    }, 
+    {
+        "content": "ricardo vilalta, gunnar blix, and larry rendell beckman institute and ... usa phone: (217) 244-1620 fax: (217) 244-8371 email: vilalta@cs.uiuc.edu abstract.", 
+        "email_list": [
+            "vilalta@cs.uiuc.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540628584", 
+        "cite_name": "", 
+        "title": "Machine Learning: ECML'97: 9th European Conference on ..."
+    }
+]

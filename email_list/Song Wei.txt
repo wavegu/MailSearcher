@@ -1,0 +1,47 @@
+[
+    {
+        "content": "qut staff profile for wei song: personal details; biography; awards; teaching; ... email: w1.song@qut.edu.au; location: view location details (qut staff and...", 
+        "email_list": [
+            "w1.song@qut.edu.au"
+        ], 
+        "cite_url": "staff.qut.edu.au/staff/songw2/", 
+        "cite_name": "Queensland University of Technology", 
+        "title": "QUT | Staff Profiles | Wei Song"
+    }, 
+    {
+        "content": "7 days ago - welcome to wei songs homepage! wei songs homepage. skip to the content of the web site. ... email: wsong at unb dot ca. homepage:...", 
+        "email_list": [
+            "wsong@unb.ca"
+        ], 
+        "cite_url": "www.cs.unb.ca/~wsong/", 
+        "cite_name": "University of New Brunswick", 
+        "title": "Wei Songs Homepage - Faculty of Computer Science"
+    }, 
+    {
+        "content": "name : shelly song email: shellysongwei@gmail.com ctc:0103698536 address: 15, jln tk 2/8, tmn kinrara, puchong, 47100 selangor.", 
+        "email_list": [
+            "shellysongwei@gmail.com"
+        ], 
+        "cite_url": "https://www.facebook.com/nutrachoiceMY/posts/836515073064693", 
+        "cite_name": "", 
+        "title": "Song Wei Wei - Name : Shelly song Email:... - Facebook"
+    }, 
+    {
+        "content": "director of finance mr desmond tay did: 6431 8307 email: df@sicc.org.sg  director of internal audit mr david song wei kit did: 6431 8389 email:...", 
+        "email_list": [
+            "df@sicc.org.sg"
+        ], 
+        "cite_url": "https://www.sicc.org.sg/.../TheClubManag...", 
+        "cite_name": "Singapore Island Country Club", 
+        "title": "MANAGEMENT - Singapore Island Country Club"
+    }, 
+    {
+        "content": "computer information systems. email: cwei@bmcc.cuny.edu. office: f-0930i. office hours: monday, wedsday 4:00pm-5:00 pm. phone: ext. 8385. home page...", 
+        "email_list": [
+            "cwei@bmcc.cuny.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Ching-Song Wei | Computer Information Systems - Cuny"
+    }
+]

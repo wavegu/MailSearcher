@@ -1,0 +1,47 @@
+[
+    {
+        "content": "xiaolong wangs homepage at udel. ... email:visionxiaolong@gmail.com ... xiaolong wang is a ph.d. candidate in the dept. of cis at the university of...", 
+        "email_list": [
+            "visionxiaolong@gmail.com"
+        ], 
+        "cite_url": "https://www.eecis.udel.edu/~xiaolong/", 
+        "cite_name": "", 
+        "title": "Xiaolong Wangs Homepage - University of Delaware"
+    }, 
+    {
+        "content": "cancel. xiaolong wang. carnegie mellon university  computer vision, machine learning. verified email at cmu.edu - homepage ... l lin, x wang, w yang, j lai.", 
+        "email_list": [
+            "email@cmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Y8O9N_0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xiaolong Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "xiaolong wang. west virginia university ... verified email at mix.wvu.edu - homepage  scholar. get my own ... x wang, r guo, c kambhamettu. applications of...", 
+        "email_list": [
+            "email@mix.wvu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=O5owaKwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xiaolong Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "xiaolong wang (王晓龙). professor of ... verified email at licp.cas.cn - homepage  scholar ... s zhang, y li, d yin, x wang, x zhao, y shao, s yang. european...", 
+        "email_list": [
+            "email@licp.cas.cn"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=bx-OU2gAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Xiaolong Wang (王晓龙) - Google Scholar Citations"
+    }, 
+    {
+        "content": "xiaolong wang. xiaolong wang. email, danielwang@ksu.edu. webpage, http://people.cis.ksu.edu/~danielwang. main menu. home  about us  dept heads...", 
+        "email_list": [
+            "danielwang@ksu.edu"
+        ], 
+        "cite_url": "https://www.cis.ksu.edu/user/550", 
+        "cite_name": "", 
+        "title": "Xiaolong Wang | Computing and Information Sciences"
+    }
+]

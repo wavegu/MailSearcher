@@ -1,2 +1,20 @@
-taylors@psych.ucla.edu	[14]
-email at psych.ucla.edu	[4]
+[
+    {
+        "content": "taylorss picture. shelley e. taylor. distinguished research professor. primary area: ... e-mail: taylors@psych.ucla.edu. research and teaching interests:.", 
+        "email_addr_list": [
+            "taylors@psych.ucla.edu"
+        ], 
+        "cite_url": "https://www.psych.ucla.edu/.../taylo...", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Shelley E. Taylor - Faculty Page | UCLA Psychology ..."
+    }, 
+    {
+        "content": "shelley e. taylor. distinguished ... verified email at psych.ucla.edu. scholar ... adjustment to threatening events: a theory of cognitive adaptation. se taylor.", 
+        "email_addr_list": [
+            "email@psych.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Shelley E. Taylor - Google Scholar Citations"
+    }
+]

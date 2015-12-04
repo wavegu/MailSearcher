@@ -1,0 +1,30 @@
+[
+    {
+        "content": "bingru yang. university of science and technology beijing, china. email: bryang_kd@yahoo.com.cn. qualifications. b.s., tianjin normal university.", 
+        "email_list": [
+            "bryang_kd@yahoo.com.cn"
+        ], 
+        "cite_url": "www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID...", 
+        "cite_name": "", 
+        "title": "Bingru Yang - Journals, Conferences, Proceedings, Open ..."
+    }, 
+    {
+        "content": "e-mail: suntb@bc.edu. yue ... name: juemei (jamie) yang / 杨珏梅. position: ... major:accounting. email: buxi@bc.edu. bingru. name:bingru wang/ 王冰如.", 
+        "email_list": [
+            "suntb@bc.edu", 
+            "buxi@bc.edu"
+        ], 
+        "cite_url": "www.bc.edu/bc_org/svp/st_org/cssa/aboutus.htm", 
+        "cite_name": "Boston College", 
+        "title": "BCCSSA -- About Us"
+    }, 
+    {
+        "content": "e-mail: huang@aesop.rutgers.edu ..... yang, z., j. yu, e. merewitz, and b. huang. ... liu, y. hongmei dua, xiaoxia hea, bingru huang and zhaolong wang.", 
+        "email_list": [
+            "huang@aesop.rutgers.edu"
+        ], 
+        "cite_url": "plantbiopath.rutgers.edu/faculty/huang/huang.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE Bingru Huang Education ..."
+    }
+]

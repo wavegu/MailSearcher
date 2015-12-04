@@ -1,0 +1,38 @@
+[
+    {
+        "content": "gerhard ritter. email address: ritter@cise.ufl.edu; office: e364 cse; phone: 352/392-1536. im professor at the university of florida in the department of...", 
+        "email_list": [
+            "ritter@cise.ufl.edu"
+        ], 
+        "cite_url": "www.cise.ufl.edu/~ritter/", 
+        "cite_name": "University of Florida", 
+        "title": "Gerhard X. Ritter"
+    }, 
+    {
+        "content": "gerhard x. ritter. cise department. university of florida. gainesville, fl 32611–6120, usa. email: email:ritter@cise.ufl.edu. gonzalo urcid. optics department.", 
+        "email_list": [
+            "ritter@cise.ufl.edu"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Perfect Recall from Noisy Input Patterns with a Dendritic ..."
+    }, 
+    {
+        "content": "email: shi@ece.missouri.edu. gerhard x. ritter and joseph n. wilson. department of computer and information sciences. university of florida. gainesville, fl...", 
+        "email_list": [
+            "shi@ece.missouri.edu"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.9646...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }, 
+    {
+        "content": "telephone: (352)514-4912. e-mail: amendez-@cise.ufl.edu. url: http://www.cise.ufl.edu/~amendez-. education .... gerhard x. ritter, ph.d. professor emeritus.", 
+        "email_list": [
+            "amendez-@cise.ufl.edu"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download;jsessionid...?doi=10.1...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }
+]

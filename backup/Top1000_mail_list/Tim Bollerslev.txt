@@ -1,5 +1,47 @@
-boller@duke.edu	[2]
-boller@econ.duke.edu	[2]
-boller@econ.duke.edu.volatility	[2]
-boller@econ.duke.edu.tim	[2]
-email at duke.edu	[2]
+[
+    {
+        "content": "tim bollerslev. professor of economics  duke university ... durham nc 27708-0097. usa. email: boller@duke.edu. phone: +1 919 660 1846. fax: +1 919 684...", 
+        "email_addr_list": [
+            "boller@duke.edu"
+        ], 
+        "cite_url": "econ.duke.edu/~boller", 
+        "cite_name": "Duke University", 
+        "title": "Tim Bollerslevs home page. - Duke University"
+    }, 
+    {
+        "content": "tim bollerslev: current contact information and listing of economic research of this author provided by repec/ideas. ... email: boller@duke.edu. homepage...", 
+        "email_addr_list": [
+            "boller@duke.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pbo66.html", 
+        "cite_name": "", 
+        "title": "Tim Bollerslev at IDEAS"
+    }, 
+    {
+        "content": "create alert. cancel. tim bollerslev ... verified email at duke.edu - homepage  scholar. get my own ... t bollerslev, rf engle, jm wooldridge. the journal of...", 
+        "email_addr_list": [
+            "email@duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XKIMx0EAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Tim Bollerslev - Google Scholar Citations"
+    }, 
+    {
+        "content": "tim bollerslev is juanita and clifton kreps professor of economics at duke university. he acquired the phd ... duke university. email: boller@econ.duke.edu.", 
+        "email_addr_list": [
+            "boller@econ.duke.edu"
+        ], 
+        "cite_url": "creates.au.dk  ...  People  International fellows", 
+        "cite_name": "Aarhus University", 
+        "title": "Tim Bollerslev - Creates - Aarhus Universitet"
+    }, 
+    {
+        "content": "tim bollerslev. tim bollerslev is juanita and clifton kreps professor of economics at duke university. he acquired the phd ... email: boller@econ.duke.edu.", 
+        "email_addr_list": [
+            "boller@econ.duke.edu"
+        ], 
+        "cite_url": "creates.au.dk  ...  Creates  People  Advisory board", 
+        "cite_name": "Aarhus University", 
+        "title": "Tim Bollerslev - Creates - Aarhus Universitet"
+    }
+]

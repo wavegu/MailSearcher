@@ -1,0 +1,38 @@
+[
+    {
+        "content": "ms priya sharma. org. unit: malaysia school of business, monash university sunway malaysia email: priya.sharma@monash.edu. no telephone details...", 
+        "email_list": [
+            "priya.sharma@monash.edu"
+        ], 
+        "cite_url": "directory.monash.edu.au/.../staffsearch?...Priya%20Sh...", 
+        "cite_name": "Monash University", 
+        "title": "Ms Priya Sharma - Search the Monash staff directory"
+    }, 
+    {
+        "content": "withers 2015. priya sharma. associate. offices: london. tel: +44 (0)20 7597 6516. email: priya.sharma@withersworldwide.com. education: university of...", 
+        "email_list": [
+            "priya.sharma@withersworldwide.com"
+        ], 
+        "cite_url": "www.withersworldwide.com/people/priya-sharma--2.pdf", 
+        "cite_name": "Withers LLP", 
+        "title": "[PDF]Priya Sharma - Withers"
+    }, 
+    {
+        "content": "dr. priya sharma ... email: pus3@psu.edu ... dr. sharmas interests mostly relate to the use of technologies to support learning in higher education; specifically...", 
+        "email_list": [
+            "pus3@psu.edu"
+        ], 
+        "cite_url": "ed.psu.edu/directory/pus3", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Dr. Priya Sharma — Penn State College of Education"
+    }, 
+    {
+        "content": "priya sharma is a current student at the ms in management science and engineering program. she holds a bachelor ... email: ps2826@columbia.edu. website:...", 
+        "email_list": [
+            "ps2826@columbia.edu"
+        ], 
+        "cite_url": "mse.ieor.columbia.edu/priya-sharma-0", 
+        "cite_name": "Columbia University", 
+        "title": "Priya Sharma | Management Science  Engineering"
+    }
+]

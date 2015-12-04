@@ -1,2 +1,11 @@
-investorservices@aspiritynotes.com.david	[1]
-investorservices@aspiritynotes.com	[1]
+[
+    {
+        "content": "david b. johnson was elected as a governor of the company in december 2011. ... nicolaus  company beginning in december 2006 when stifel purchased miller johnson steichen kinnard, ... or email investorservices@aspiritynotes.com.", 
+        "email_addr_list": [
+            "investorservices@aspiritynotes.com"
+        ], 
+        "cite_url": "www.aspirityholdings.com/david-b-johnson", 
+        "cite_name": "", 
+        "title": "David B. Johnson | Aspirity"
+    }
+]

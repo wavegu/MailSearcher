@@ -1,0 +1,38 @@
+[
+    {
+        "content": "arnaud céol. post-doctoral fellow ... verified email at iit.it - homepage  scholar ... a ceol, ac aryamontri, l licata, d peluso, l briganti, l perfetto, ... nucleic...", 
+        "email_list": [
+            "email@iit.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2WsOlS4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Arnaud Céol - Google Scholar Citations"
+    }, 
+    {
+        "content": "arnaud ceol. 31 ter, avenue voltaire. 02200 soissons. france tel:+39 3293482166 email: arnaud.ceol@uniroma2.it. french. 28, single. education. universty...", 
+        "email_list": [
+            "arnaud.ceol@uniroma2.it"
+        ], 
+        "cite_url": "arnaud.ceol.free.fr/cv-eng-2006.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Arnaud CEOL email: arnaud.ceol@uniroma2.it http ... - Free"
+    }, 
+    {
+        "content": "jul 25, 2015 - ↵*to whom correspondence should be addressed. arnaud céol, e-mail: arnaud.ceol@iit.it. received march 31, 2015. revision received june...", 
+        "email_list": [
+            "arnaud.ceol@iit.it"
+        ], 
+        "cite_url": "bioinformatics.oxfordjournals.org/.../bioinformatics.btv431", 
+        "cite_name": "Bioinformatics", 
+        "title": "The MI Bundle: Enabling Network and Structural Biology in ..."
+    }, 
+    {
+        "content": "nov 20, 2011 - arnaud céol1, patrick aloy1,2 ... arnaud céol is supported by a juan de la cierva fellowship ... inferred email : arnaud.ceol@irbbarcelona.org.", 
+        "email_list": [
+            "arnaud.ceol@irbbarcelona.org"
+        ], 
+        "cite_url": "bioinf.uab.cat/xavier/antipathogn/20111120_poster.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Arnaud Céol1, Patrick Aloy1,2 - Xavier Daura - Universitat ..."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "meeting frequency. monthly. president name. xiong zhang. president email. xzhang12@wpi.edu. advisor or coach name. dalin tang. advisor or coach email.", 
+        "email_list": [
+            "xzhang12@wpi.edu"
+        ], 
+        "cite_url": "https://orgsync.com/42727/chapter", 
+        "cite_name": "OrgSync", 
+        "title": "CSSA Home - OrgSync"
+    }
+]

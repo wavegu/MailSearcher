@@ -1,0 +1,29 @@
+[
+    {
+        "content": "undergraduate students. yiyu zhou email: zhouyiyu@email.tamu.edu. update. click to modify your profile. (password required). webmail contact site map...", 
+        "email_list": [
+            "zhouyiyu@email.tamu.edu"
+        ], 
+        "cite_url": "https://physics.tamu.edu/.../showpeople.php?...Yi...", 
+        "cite_name": "Texas AM University", 
+        "title": "Yiyu Zhou - Physics and Astronomy at TAMU"
+    }, 
+    {
+        "content": "zhou yi yu subscribed to a channel 3 months ago ... mail: faptvgroup@gmail.com. Đặt áo fap tv ... 7,310,629. zhou yi yu uploaded a video 4 months ago. 3:13.", 
+        "email_list": [
+            "faptvgroup@gmail.com"
+        ], 
+        "cite_url": "https://www.youtube.com/.../UCm2UeYxwjDXG97I8s...", 
+        "cite_name": "", 
+        "title": "Zhou Yi Yu - YouTube"
+    }, 
+    {
+        "content": "e-mail: mxy091000@utdallas.edu ... r. vinluan iii, j. liu, c. zhou, m. yu, s. yang, a. kumar, s. sun, a. dean, x. sun, j. zheng. .... m.x. yu, q. zhao, l.x. shi, f.y. li, z.g. zhou, h. yang, t. yi, c.h. huang, “cationic iridium(iii) complexes for...", 
+        "email_list": [
+            "mxy091000@utdallas.edu"
+        ], 
+        "cite_url": "https://www.utdallas.edu/.../Mengxiao.html", 
+        "cite_name": "University of Texas at Dallas", 
+        "title": "Dr. Mengxiao Yu - The University of Texas at Dallas"
+    }
+]

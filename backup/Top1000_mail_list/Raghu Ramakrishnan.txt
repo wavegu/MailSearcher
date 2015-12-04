@@ -1,4 +1,47 @@
-email at microsoft.com	[3]
-first-name at microsoft dot com	[3]
-todd@geekwire.com.by	[1]
-todd@geekwire.com	[1]
+[
+    {
+        "content": "the best way to reach me is to send email to first-name at microsoft dot com ... raghu ramakrishnan got his b.tech. from iit madras in 1983 and his ph.d.", 
+        "email_addr_list": [
+            "first-name@microsoft.com"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~raghu/", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Raghu Ramakrishnans UW-Madison Home Page"
+    }, 
+    {
+        "content": "~raghu  contact info. biography ... raghu ramakrishnan. professor ... the best way to reach me is to send email to first-name at microsoft dot com. picture of...", 
+        "email_addr_list": [
+            "first-name@microsoft.com"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~raghu/raghu.contac...", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Prof. Raghu Ramakrishnan -- Contact Information"
+    }, 
+    {
+        "content": "raghu ramakrishnan. professor of computer ... the best way to reach me is to send email to first-name at microsoft dot com. picture of raghu ramakrishnan...", 
+        "email_addr_list": [
+            "first-name@microsoft.com"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~raghu/raghu.studen...", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Prof. Raghu Ramakrishnan -- Students"
+    }, 
+    {
+        "content": "~raghu  students. biography ... raghu ramakrishnan. professor of ... the best way to reach me is to send email to first-name at microsoft dot com. picture of...", 
+        "email_addr_list": [
+            "first-name@microsoft.com"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~raghu/raghu.teachi...", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Prof. Raghu Ramakrishnan -- Students - Home Page"
+    }, 
+    {
+        "content": "cancel. raghu ramakrishnan. microsoft ... verified email at microsoft.com. scholar ... bf cooper, a silberstein, e tam, r ramakrishnan, r sears. proceedings...", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=udZSrkYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Raghu Ramakrishnan - Google Scholar Citations"
+    }
+]

@@ -1,6 +1,32 @@
-marco.marra@gglonline.it	[22]
-mmarra@bcgsc.ca	[13]
-carol.cass@albertahealthservices.camarco	[2]
-carol.cass@albertahealthservices.ca	[2]
-krobey@tfri.ca	[1]
-irene.roessel@generali.at	[1]
+[
+    {
+        "content": "dr. marco marra, obc, phd, frs(c), fcahs ... email, mmarra@bcgsc.ca ... i was also featured in the july 4th, 2014 issue of globe and mail as the 2nd most...", 
+        "email_addr_list": [
+            "mmarra@bcgsc.ca"
+        ], 
+        "cite_url": "www.bcgsc.ca  Faculty", 
+        "cite_name": "", 
+        "title": "Dr. Marco Marra, OBC, PhD, FRS(C), FCAHS — Canadas ..."
+    }, 
+    {
+        "content": "email: krobey@tfri.ca ... dr. marco marra. email: mmarra@bcgsc.ca. phone: 604-877-6082. alberta. dr. carol cass. email: carol.cass@albertahealthservices.ca", 
+        "email_addr_list": [
+            "krobey@tfri.ca", 
+            "mmarra@bcgsc.ca", 
+            "carol.cass@albertahealthservices.ca"
+        ], 
+        "cite_url": "www.tfri.ca/en/aboutus/contact-us.aspx", 
+        "cite_name": "", 
+        "title": "Contact Us - Terry Fox Research Institute"
+    }, 
+    {
+        "content": "telephone. +43.1.534 01 1428. email. irene.roessel@generali.at. box of 4th md claims ..... +39.041.549 32 45 – email: marco.marra@gglonline.it). for fata...", 
+        "email_addr_list": [
+            "irene.roessel@generali.at", 
+            "marco.marra@gglonline.it"
+        ], 
+        "cite_url": "https://www.generali.hu/.../Generali%20Group_fontos_cimek_elerhetose...", 
+        "cite_name": "", 
+        "title": "[DOC]For F (Generali) claims"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "siddharth suri. microsoft research, new ... verified email at microsoft.com - homepage  scholar ... d crandall, d cosley, d huttenlocher, j kleinberg, s suri.", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=UK-VpDoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Siddharth Suri - Google Scholar Citations"
+    }, 
+    {
+        "content": "siddharth suri. graduate student, master of integrated innovation for products  services advanced study. email: sksuri@andrew.cmu.edu...", 
+        "email_list": [
+            "sksuri@andrew.cmu.edu"
+        ], 
+        "cite_url": "www.cmu.edu/.../pitt.../suri-siddharth.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Siddharth Suri-Integrated Innovation - Carnegie Mellon ..."
+    }
+]

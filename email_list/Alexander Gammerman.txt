@@ -1,0 +1,38 @@
+[
+    {
+        "content": "jun 17, 2009 - professor alex gammerman ... email, a.gammerman@cs.rhul.ac.uk ... professor gammerman studied in leningrad (now st petersburg), was...", 
+        "email_list": [
+            "a.gammerman@cs.rhul.ac.uk"
+        ], 
+        "cite_url": "www.clrc.rhul.ac.uk/people/alex/", 
+        "cite_name": "", 
+        "title": "Professor Alex Gammerman - Computational Learning ..."
+    }, 
+    {
+        "content": "e-mail: a.gammerman@rhul.ac.uk. home address. 9 greenacre ..... alex gammerman, ilia nouretdinov, brian burford alexey chervonenkis,. vladimir vovk and...", 
+        "email_list": [
+            "a.gammerman@rhul.ac.uk"
+        ], 
+        "cite_url": "www.clrc.rhul.ac.uk/people/alex/CV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Curriculum Vitae Alexander Gammerman - Computational ..."
+    }, 
+    {
+        "content": "professor alex gammerman. profile  publications  projects  students ... centre  bioinformatics  a.gammerman@rhul.ac.uk. direct phone: +44 1784 443434...", 
+        "email_list": [
+            "a.gammerman@rhul.ac.uk"
+        ], 
+        "cite_url": "https://pure.royalholloway.ac.uk/.../alex-gammerman_66fed543-6231-4...", 
+        "cite_name": "", 
+        "title": "Professor Alex Gammerman - Research - Royal Holloway ..."
+    }, 
+    {
+        "content": "... http://www.clrc.rhul.ac.uk/slds2015/index.html. organiser name alexander gammerman. email address a.gammerman@rhul.ac.uk. organising group(s) -...", 
+        "email_list": [
+            "a.gammerman@rhul.ac.uk"
+        ], 
+        "cite_url": "www.statslife.org.uk/events/eventdetail/345/-/-?tmpl=component", 
+        "cite_name": "", 
+        "title": "The Third International Symposium on Learning and Data ..."
+    }
+]

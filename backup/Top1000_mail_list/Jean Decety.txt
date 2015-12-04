@@ -1,1 +1,20 @@
-email at uchicago.edu	[2]
+[
+    {
+        "content": "jean decety (ph.d. in neurobiology, university claude bernard, france) is professor of psychology and psychiatry at the ... e-mail: decety [at] uchicago.edu...", 
+        "email_addr_list": [
+            "decety@uchicago.edu"
+        ], 
+        "cite_url": "www.scnl.org/p30.php", 
+        "cite_name": "", 
+        "title": "People - SCNL"
+    }, 
+    {
+        "content": "jean decety. professor of ... verified email at uchicago.edu - homepage  scholar ... j decety, j grezes, n costes, d perani, m jeannerod, e procyk, f grassi, .", 
+        "email_addr_list": [
+            "email@uchicago.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fbNxH6UAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jean Decety - Google Scholar Citations"
+    }
+]

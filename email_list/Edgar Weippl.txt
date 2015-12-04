@@ -1,0 +1,38 @@
+[
+    {
+        "content": "edgar weippl. research director, sba ... verified email at sba-research.org. scholar ... m mulazzani, s schrittwieser, m leithner, m huber, e weippl. usenix...", 
+        "email_list": [
+            "email@sba-research.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YU1wAV0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Edgar Weippl - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. edgar weippl email: weippl@securityresearch.at homepage: http://research.securityresearch.org/team/management/edgar-weippl/...", 
+        "email_list": [
+            "weippl@securityresearch.at"
+        ], 
+        "cite_url": "www.sersc.org/directors/weippl.htm", 
+        "cite_name": "", 
+        "title": "Dr. Edgar Weippl - SERSC"
+    }, 
+    {
+        "content": "e-mail: weippl [at] ifs.tuwien.ac.at. website: http://www.ifs.tuwien.ac.at/~weippl/. phone: +43 (1) 588 01 - 18888. office: room hb 02 06. favoritenstrasse 9-11/...", 
+        "email_list": [
+            "weippl@ifs.tuwien.ac.at"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Vienna University of Technology", 
+        "title": "Privatdoz. Dipl.-Ing. Mag.rer.soc.oec. Dr.techn. Edgar ..."
+    }, 
+    {
+        "content": "view edgar weippls business profile as board member at science  engineering research support ... dr. edgar weippl email: weippl@securityresearch.at.", 
+        "email_list": [
+            "weippl@securityresearch.at"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Edgar-Weippl/177320881", 
+        "cite_name": "", 
+        "title": "Dr. Edgar R. Weippl - ZoomInfo"
+    }
+]

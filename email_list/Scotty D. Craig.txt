@@ -1,0 +1,38 @@
+[
+    {
+        "content": "scotty d. craig. assistant professor, arizona ... verified email at asu.edu - homepage  scholar ... sk dmello, sd craig, a witherspoon, b mcdaniel, a graesser.", 
+        "email_list": [
+            "email@asu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=aAIeW7gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Scotty D. Craig - Google Scholar Citations"
+    }, 
+    {
+        "content": "jan 1, 2006 - e-mail: sdmello@memphis.edu  scotty d. craig  learning research and development center, 3939 ... view colleagues of scotty d. craig...", 
+        "email_list": [
+            "sdmello@memphis.edu"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=1434942", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Predicting Affective States expressed through an Emote ..."
+    }, 
+    {
+        "content": "barry gholson  scotty d. craig. this article explores ... feedback and suggestions please email info@editlib.org or use our online feedback form. facebook...", 
+        "email_list": [
+            "info@editlib.org"
+        ], 
+        "cite_url": "www.editlib.org/j/ISSN-1040-726X/v/18/n/2/", 
+        "cite_name": "", 
+        "title": "EPR 18:2 Contents - EdITLib Digital Library"
+    }, 
+    {
+        "content": "scotty d. craig, arizona state university, 7271 e sonoran arroyo mall, santa catalina hall, ste. 150, mesa, az 85212, usa. email: scotty.craig@asu.edu...", 
+        "email_list": [
+            "scotty.craig@asu.edu"
+        ], 
+        "cite_url": "jec.sagepub.com/content/53/1/3.abstract", 
+        "cite_name": "", 
+        "title": "Abstract - Journal of Educational Computing Research"
+    }
+]

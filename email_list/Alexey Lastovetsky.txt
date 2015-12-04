@@ -1,0 +1,38 @@
+[
+    {
+        "content": "senior lecturer. school of computer science computer science building belfield dublin 4. tel: +353 1 7162916. email: alexey.lastovetsky@ucd.ie.", 
+        "email_list": [
+            "alexey.lastovetsky@ucd.ie"
+        ], 
+        "cite_url": "https://www.cs.ucd.ie/AcademicProfile/AlexeyLastovetsky/", 
+        "cite_name": "", 
+        "title": "Alexey Lastovetsky - UCD School of Computer Science"
+    }, 
+    {
+        "content": "alexey lastovetsky. school of computer ... verified email at ucd.ie - homepage  scholar ... a lastovetsky, d arapov, a kalinov, i ledovskih. concurrency...", 
+        "email_list": [
+            "email@ucd.ie"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=28VrkNcAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Alexey Lastovetsky - Google Scholar Citations"
+    }, 
+    {
+        "content": "email : alexey.lastovetsky@ucd.ie. web : http://hcl.ucd.ie/user/alexey-lastovetsky. alexey lastovetsky holds a phd degree from the moscow aviation institute and...", 
+        "email_list": [
+            "alexey.lastovetsky@ucd.ie"
+        ], 
+        "cite_url": "www.nesus.eu/alexey-lastovetsky-wg-2-leader", 
+        "cite_name": "", 
+        "title": "Alexey Lastovetsky. WG 2 Leader - NESUS: Network for ..."
+    }, 
+    {
+        "content": "zuo@ucd.ie alexey lastovetsky , school of computer science and informatics, university college dublin, belfield, dublin 4, republic of ireland. alexey.", 
+        "email_list": [
+            "zuo@ucd.ie"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-lastovetsky-ucd-ie-3017698.htm", 
+        "cite_name": "", 
+        "title": "lastovetsky@ucd.ie - The Email Archive"
+    }
+]

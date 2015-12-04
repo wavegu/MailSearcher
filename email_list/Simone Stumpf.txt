@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dr simone stumpf; +44 (0)20 7040 8168; simone.stumpf.1@city.ac.uk ... to understand and control email filters, text classifiers and music recommender systems.", 
+        "email_list": [
+            "simone.stumpf.1@city.ac.uk"
+        ], 
+        "cite_url": "https://www.city.ac.uk/people/.../simone-stumpf", 
+        "cite_name": "City University London", 
+        "title": "Dr Simone Stumpf | City University London"
+    }, 
+    {
+        "content": "cancel. simone stumpf ... verified email at city.ac.uk - homepage  scholar ... t kulesza, wk wong, s stumpf, s perona, r white, mm burnett, i oberst, .", 
+        "email_list": [
+            "email@city.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NESjxsAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Simone Stumpf - Google Scholar Citations"
+    }, 
+    {
+        "content": "pflegedienst lebenswert simone stumpf. verweise ... anschrift. simone stumpf kanzleistraße 26 96328 küps- ... e-mail: simone.stumpf@gmx.net. internet:...", 
+        "email_list": [
+            "simone.stumpf@gmx.net"
+        ], 
+        "cite_url": "www.landkreis-kronach.de/.../SozialeAngelegenheiten...", 
+        "cite_name": "", 
+        "title": "Lebenswert Simone Stumpf - Landkreis Kronach"
+    }
+]

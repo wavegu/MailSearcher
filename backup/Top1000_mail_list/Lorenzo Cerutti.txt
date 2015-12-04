@@ -1,7 +1,59 @@
-lorenzo.cerutti@ao.lodi.it	[29]
-cerutti.sede@ceruttilorenzo.com	[15]
-mail@cerutti.i	[2]
-ti@isrec.unil.ch	[1]
-xxxx@astro.princeton.edu	[1]
-f@uibk.ac.at	[1]
-xxxx@princeton.edu	[1]
+[
+    {
+        "content": "contatti. cerutti lorenzo s.r.l. email: cerutti.sede@ceruttilorenzo.com. tel.: +39 0322 865811. fax: +39 0322 844529. www.ceruttilorenzo.com. continua...", 
+        "email_addr_list": [
+            "cerutti.sede@ceruttilorenzo.com"
+        ], 
+        "cite_url": "www.ceruttilorenzo.com/it/contattaci", 
+        "cite_name": "", 
+        "title": "Contatti - Cerutti Lorenzo Srl"
+    }, 
+    {
+        "content": "... bischof/email=reinhard.bischo f@uibk.ac.at authorizeduser: /c=ch/o=sib/ou=lausanne/cn=lorenzo cerutti/email=lorenzo.cerut ti@isrec.unil.ch", 
+        "email_addr_list": [
+            "f@uibk.ac.at", 
+            "ti@isrec.unil.ch"
+        ], 
+        "cite_url": "www.hep.manchester.ac.uk/.../manhep-mds.ht...", 
+        "cite_name": "University of Manchester", 
+        "title": "MDS information - University of Manchester - HEP"
+    }, 
+    {
+        "content": "... bischof/email=reinhard.bischo f@uibk.ac.at authorizeduser: /c=ch/o=sib/ou=lausanne/cn=lorenzo cerutti/email=lorenzo.cerut ti@isrec.unil.ch...", 
+        "email_addr_list": [
+            "f@uibk.ac.at", 
+            "ti@isrec.unil.ch"
+        ], 
+        "cite_url": "www.hep.ph.ic.ac.uk/~dguser/OLD/ldap.../grid001.pd.infn.it:2135", 
+        "cite_name": "", 
+        "title": "grid001.pd.infn.it:2135"
+    }, 
+    {
+        "content": "postdocs. for all email addresses marked with xxxx@p please use: xxxx@princeton.edu. for those unmarked with an @, please use: xxxx@astro.princeton.edu...", 
+        "email_addr_list": [
+            "xxxx@princeton.edu", 
+            "xxxx@astro.princeton.edu"
+        ], 
+        "cite_url": "www.princeton.edu  Home page  People", 
+        "cite_name": "Princeton University", 
+        "title": "Postdocs - Postdocs - Department of Astrophysical Sciences"
+    }, 
+    {
+        "content": "registrant email:mail@cerutti.i nfo. admin id:8ab84c3b1a3. admin name:lorenzo cerutti admin organization:- admin street: bergstr. 35. admin city:staefa", 
+        "email_addr_list": [
+            "mail@cerutti.i"
+        ], 
+        "cite_url": "whoadmin.com/cerutti.info.html", 
+        "cite_name": "", 
+        "title": "Who is the admin of cerutti.info"
+    }, 
+    {
+        "content": "qualifica, dir. med. rapp. escl.- pat. clin.(lab. an.chim.clin. micr.) telefono, 0371 372380. fax. email, lorenzo.cerutti@ao.lodi.it.", 
+        "email_addr_list": [
+            "lorenzo.cerutti@ao.lodi.it"
+        ], 
+        "cite_url": "www.ao.lodi.it/.../Scheda_Personale?id=5363www.google.com/emailwww.beenverified.com/www.spokeo.com/Free.Email.Search", 
+        "cite_name": "", 
+        "title": "cerutti lorenzo - Azienda Ospedaliera della Provincia di LodiGoogle Business Email - Custom email for your company‎We Found Lorenzo Cerutti‎Lorenzos Email Found‎Searches related to Lorenzo Cerutti email"
+    }
+]

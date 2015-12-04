@@ -1,0 +1,56 @@
+[
+    {
+        "content": "tel: 215-895-5810; fax: 215-895-2094; e-mail: sunwei@drexel.edu;. homepage: ... chengyang wang is pursuing his ph.d. degree in mechanical engineering.", 
+        "email_list": [
+            "sunwei@drexel.edu"
+        ], 
+        "cite_url": "www.mem.drexel.edu/BFLab/members/index.html", 
+        "cite_name": "", 
+        "title": "Drexel University Biofabrication Lab"
+    }, 
+    {
+        "content": "home  consultant  dr. wong cheng yang | 黄建洋医生. print. text size: icon-size-minus ... 381 7700 fax: +607 3887666. email: info@regencyspecialist.com", 
+        "email_list": [
+            "info@regencyspecialist.com"
+        ], 
+        "cite_url": "www.regencyspecialist.com/Consultant/dr-wong-cheng-yang-黄建洋医生/", 
+        "cite_name": "", 
+        "title": "Dr. Wong Cheng Yang | 黄建洋医生 « Regency Specialist ..."
+    }, 
+    {
+        "content": "peggy wang. 1st student activity center ... kuo-cheng yang. 1st student activity center ... tel: +886-2-33663248. email: yangkuocheng@ntu.edu.tw...", 
+        "email_list": [
+            "yangkuocheng@ntu.edu.tw"
+        ], 
+        "cite_url": "", 
+        "cite_name": "National Taiwan University", 
+        "title": "About us_NTUSAC"
+    }, 
+    {
+        "content": "shen, chen-yangs picture ... 02-27823047. e-mail: bmcys@ibms.sinica.edu.tw ... cheng cw, yu jc, huang cs, shieh jc, fu yp, wang hw, wu pe, shen cy.", 
+        "email_list": [
+            "bmcys@ibms.sinica.edu.tw"
+        ], 
+        "cite_url": "www.ibms.sinica.edu.tw/pages/pi/index.php?id=6", 
+        "cite_name": "", 
+        "title": "Dr. Shen, Chen-Yang - Research Divisions"
+    }, 
+    {
+        "content": "sep 27, 2013 - email: karl.cheng@benqmedicalcenter.com. education. 1986-1991, ... cheng yang, wang you, liu shengli, et al. expression of skp2 in...", 
+        "email_list": [
+            "karl.cheng@benqmedicalcenter.com"
+        ], 
+        "cite_url": "english.njmu.edu.cn/s/97/t/255/7f/27/info32551.htm", 
+        "cite_name": "", 
+        "title": "Cheng Yang - Nanjing Medical University"
+    }, 
+    {
+        "content": "zhi-cheng yang（杨志成）. graduate student in ... verified email at bu.edu. scholar. get my own ... z yang, q zhao, y ou, w wang, h li, d yu. applied physics...", 
+        "email_list": [
+            "email@bu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CuXgwfYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Zhi-Cheng Yang（杨志成） - Google Scholar Citations"
+    }
+]

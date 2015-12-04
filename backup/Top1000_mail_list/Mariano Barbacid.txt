@@ -1,4 +1,29 @@
-mariano.barbacid@cnio.es	[31]
-barbacid@cnio.es	[17]
-barbacid at cnio.es	[17]
-email at cnio.es	[2]
+[
+    {
+        "content": "e-mail: barbacid@cnio.es. education and training. 1966-1971. graduated in chemical sciences (biochemistry),. universidad complutense, madrid.", 
+        "email_addr_list": [
+            "barbacid@cnio.es"
+        ], 
+        "cite_url": "www.biochem2.com/pdf/perspectives_Lectures/.../barbacid/barbacid.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE MARIANO BARBACID PERSONAL ..."
+    }, 
+    {
+        "content": "create alert. cancel. mariano barbacid. cnio  molecular oncology. verified email at cnio.es ... r klein, s jing, v nanduri, e orourke, m barbacid. cell 65 (1)...", 
+        "email_addr_list": [
+            "email@cnio.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MnhC3zUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mariano Barbacid - Google Scholar Citations"
+    }, 
+    {
+        "content": "marcos malumbres  mariano barbacid about the authors. top of page ... correspondence to: mariano barbacid email: mariano.barbacid@cnio.es. top of page...", 
+        "email_addr_list": [
+            "mariano.barbacid@cnio.es"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Timeline", 
+        "cite_name": "Nature", 
+        "title": "RAS: oncogenes: the first 30 years : Abstract : Nature ..."
+    }
+]

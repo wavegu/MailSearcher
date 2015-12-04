@@ -1,3 +1,29 @@
-mlivny@morgridge.org	[12]
-miron@cs.wisc.edu	[11]
-email at cs.wisc.edu	[3]
+[
+    {
+        "content": "email: miron@cs.wisc.edu ... to harness the cycles of workstation clusters, (j. pruyne and m. livny) , journal on future generations of computer systems, vol.", 
+        "email_addr_list": [
+            "miron@cs.wisc.edu"
+        ], 
+        "cite_url": "pages.cs.wisc.edu/~miron/", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "Home Page of Miron Livny - Computer Sciences User Pages"
+    }, 
+    {
+        "content": "create alert. cancel. miron livny ... verified email at cs.wisc.edu. scholar. get my own ... j frey, t tannenbaum, m livny, i foster, s tuecke. cluster computing...", 
+        "email_addr_list": [
+            "email@cs.wisc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nFdbcvsAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Miron Livny - Google Scholar Citations"
+    }, 
+    {
+        "content": "miron livny. https://morgridge.org/wp-content/uploads/2014/. director, core computation. 608-316-4336. mlivny@morgridge.org. as a uw-madison professor of...", 
+        "email_addr_list": [
+            "mlivny@morgridge.org"
+        ], 
+        "cite_url": "https://morgridge.org/profile/miron-livny/", 
+        "cite_name": "", 
+        "title": "Miron Livny - Morgridge Institute for Research"
+    }
+]

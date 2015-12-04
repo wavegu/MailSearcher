@@ -1,4 +1,29 @@
-druschel at mpi-sws.org	[18]
-druschel@rice.edu	[17]
-druschel@mpi-sws.mpg.de	[17]
-email at mpi-sws.org	[2]
+[
+    {
+        "content": "cancel. peter druschel. mpi-sws  distributed systems. verified email at mpi-sws.org. scholar ... m castro, p druschel, am kermarrec, ait rowstron. selected...", 
+        "email_addr_list": [
+            "email@mpi-sws.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=z6ME4e8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Peter Druschel - Google Scholar Citations"
+    }, 
+    {
+        "content": "druschel, peter. profile_image. prof. peter druschel, ph.d. max planck institute for software systems, ... 681 9303-6029. email:druschel@mpi-sws.mpg.de...", 
+        "email_addr_list": [
+            "druschel@mpi-sws.mpg.de"
+        ], 
+        "cite_url": "www.mpg.de  Homepage  Institutes", 
+        "cite_name": "Max Planck Society", 
+        "title": "Druschel, Peter | Max Planck Society"
+    }, 
+    {
+        "content": "email: druschel@rice.edu ... peter druschel. research ... professor druschels research interests are in operating systems, networks, and computer architecture.", 
+        "email_addr_list": [
+            "druschel@rice.edu"
+        ], 
+        "cite_url": "cohesion.rice.edu/engineering/computerscience/Facultydetail.cfm?riceid...", 
+        "cite_name": "", 
+        "title": "Department of Computer Science Faculty: Peter Druschel"
+    }
+]

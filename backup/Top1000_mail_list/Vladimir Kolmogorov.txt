@@ -1,2 +1,20 @@
-vnk@ist.ac.at	[3]
-email at ist.ac.at	[1]
+[
+    {
+        "content": "vladimir kolmogorov. email: vnk@ist.ac.at. am campus 1. phone: +43 (0) 2243 9000 4801. ist austria. fax: +43 (0) 2243 9000 2000. 3400 klosterneuburg.", 
+        "email_addr_list": [
+            "vnk@ist.ac.at"
+        ], 
+        "cite_url": "pub.ist.ac.at/~vnk/CV.pdf", 
+        "cite_name": "Institute of Science and Technology Austria", 
+        "title": "[PDF]Vladimir Kolmogorov - IST Austria"
+    }, 
+    {
+        "content": "cancel. vladimir kolmogorov. unknown affiliation. verified email at ist.ac.at ... r szeliski, r zabih, d scharstein, o veksler, v kolmogorov, a agarwala, .", 
+        "email_addr_list": [
+            "email@ist.ac.at"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BBGlIGQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Vladimir Kolmogorov - Google Scholar Citations"
+    }
+]

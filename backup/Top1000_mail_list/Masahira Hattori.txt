@@ -1,4 +1,29 @@
-hattori@k.u-tokyo.ac.jp.koji	[15]
-hattori@k.u-tokyo.ac.jp	[15]
-koji.yahara at gmail.com	[3]
-oishi@kazusa.or.jp	[2]
+[
+    {
+        "content": "2-6-7 kazusa-kamatari, kisarazu,. chiba 292-0818, japan. tel: +81-438-52-3944. fax: +81-438-52-3911. e-mail: oishi@kazusa.or.jp. editors. masahira hattori.", 
+        "email_addr_list": [
+            "oishi@kazusa.or.jp"
+        ], 
+        "cite_url": "dnaresearch.oxfordjournals.org/content/14/.../front-matter.p...", 
+        "cite_name": "DNA Research", 
+        "title": "Front Matter (PDF) - DNA Research"
+    }, 
+    {
+        "content": "the current core members (pis) are masahira hattori. (genomics at ... 2008; hattori and taylor 2009; sharma et al. 2010; song ... *email: hattori@k.u-tokyo.ac.jp.", 
+        "email_addr_list": [
+            "hattori@k.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2F978-1-4...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "HMGJ (Japan) - Springer"
+    }, 
+    {
+        "content": "masahira hattori, ikuo uchiyama, ichizo kobayashi. birth and death of genes linked ... and technology. contact by e-mail is welcome: koji.yahara at gmail.com...", 
+        "email_addr_list": [
+            "koji.yahara@gmail.com"
+        ], 
+        "cite_url": "https://sites.google.com/site/kojiyahara", 
+        "cite_name": "", 
+        "title": "Koji Yahara - Google Sites"
+    }
+]

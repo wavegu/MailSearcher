@@ -1,0 +1,58 @@
+[
+    {
+        "content": "email: hedeh@mail.tsinghua.edu.cn ... yuming li, huimin liu, lan ma, dehua he*, glycerol hydrogenolysis to propanediols over supported pd-re, catalysts,...", 
+        "email_list": [
+            "hedeh@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/.../201104032124506889272...", 
+        "cite_name": "Tsinghua University", 
+        "title": "Department of Chemistry,Tsinghua University"
+    }, 
+    {
+        "content": "professor chun-zhu li. john curtin distinguished ... dr dehua dong. postdoctoral ... location: 610. campus: technology park email: li.dong@curtin.edu.au...", 
+        "email_list": [
+            "li.dong@curtin.edu.au"
+        ], 
+        "cite_url": "energy.curtin.edu.au/people/", 
+        "cite_name": "Curtin University", 
+        "title": "Fuels and Energy Technology Institute - People"
+    }, 
+    {
+        "content": "e-mail: jackie.han@dehua.ca. walter buckley ... e-mail: dh2004hrcr@dehua.ca ... tel: 902-574-5640. e-mail: leblancv@gov.ns.ca. vincent li p.eng. p. geo.", 
+        "email_list": [
+            "jackie.han@dehua.ca", 
+            "dh2004hrcr@dehua.ca", 
+            "leblancv@gov.ns.ca"
+        ], 
+        "cite_url": "web.cim.org/.../c...", 
+        "cite_name": "Canadian Institute of Mining, Metallurgy and Petroleum", 
+        "title": "UGCOAL"
+    }, 
+    {
+        "content": "professor de-hua wang, ph.d. ... e-mail: wangdh@ioz.ac.cn .... wu su-hui, li-na zhang, john r. speakman and de-hua wang 2009 limits to sustained...", 
+        "email_list": [
+            "wangdh@ioz.ac.cn"
+        ], 
+        "cite_url": "www.ipm.ioz.ac.cn/wangdehua/faculty/WangDH.asp", 
+        "cite_name": "", 
+        "title": "Prof. Wang De-Hua"
+    }, 
+    {
+        "content": "lai, de-hua. associate professor of ... verified email at mail.sysu.edu.cn. scholar ... zr lun, rb gasser, dh lai, ax li, xq zhu, xb yu, yy fang. the lancet...", 
+        "email_list": [
+            "email@mail.sysu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1zs4m-EAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "LAI, De-Hua - Google Scholar Citations"
+    }, 
+    {
+        "content": "dehua shen: current contact information and listing of economic research of this author provided by repec/ideas. ... email: dhs@tju.edu.cn. homepage: postal address: ... wei zhang  xiao li  dehua shen  andrea teglio, 2015. r2 and...", 
+        "email_list": [
+            "dhs@tju.edu.cn"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/psh718.html", 
+        "cite_name": "", 
+        "title": "Dehua Shen at IDEAS"
+    }
+]

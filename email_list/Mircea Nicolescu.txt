@@ -1,0 +1,38 @@
+[
+    {
+        "content": "contact information. email: mircea@cse.unr.edu; phone: (775) 784-4356; fax: (775) 784-1877; office: scrugham engineering and mines 232; mail stop: 0171...", 
+        "email_list": [
+            "mircea@cse.unr.edu"
+        ], 
+        "cite_url": "www.unr.edu/cse/people/faculty/mircea", 
+        "cite_name": "University of Nevada, Reno", 
+        "title": "Mircea Nicolescu - University of Nevada, Reno"
+    }, 
+    {
+        "content": "mircea nicolescu professor department of computer science and engineering university of nevada, reno reno, nv 89557. e-mail: mircea@cse.unr.edu", 
+        "email_list": [
+            "mircea@cse.unr.edu"
+        ], 
+        "cite_url": "www.cse.unr.edu/~mircea/", 
+        "cite_name": "", 
+        "title": "Mircea Nicolescu - Computer Science  Engineering"
+    }, 
+    {
+        "content": "mircea nicolescu. associate professor of ... verified email at cse.unr.edu - homepage  scholar ... a erol, g bebis, m nicolescu, rd boyle, x twombly. computer...", 
+        "email_list": [
+            "email@cse.unr.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RENxVvAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mircea Nicolescu - Google Scholar Citations"
+    }, 
+    {
+        "content": "current information: at stmicroelectronics; qian chen,; yang chen, email: ... bbn technologies,; mircea nicolescu, email: mircea@cs.unr.edu current home...", 
+        "email_list": [
+            "mircea@cs.unr.edu"
+        ], 
+        "cite_url": "iris.usc.edu/Vision-Users/Alumni.html", 
+        "cite_name": "University of Southern California", 
+        "title": "Users of USC Iris and General information"
+    }
+]

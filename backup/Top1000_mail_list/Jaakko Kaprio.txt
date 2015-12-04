@@ -1,4 +1,39 @@
-jaakko.kaprio@helsinki.fi	[25]
-email at helsinki.fi	[2]
-john.witton@kcl.ac.uk	[2]
-gill@addictionjournal.org	[1]
+[
+    {
+        "content": "jaakko kaprio. university of helsinki ... verified email at helsinki.fi. scholar ... p lichtenstein, nv holm, pk verkasalo, a iliadou, j kaprio, m koskenvuo, .", 
+        "email_addr_list": [
+            "email@helsinki.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_Rj-jHQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jaakko Kaprio - Google Scholar Citations"
+    }, 
+    {
+        "content": "jaakko kaprio (university of helsinki). email: jaakko.kaprio@helsinki.fi. telephone: +358 9 19127595. institution name: university of helsinki. city: helsinki.", 
+        "email_addr_list": [
+            "jaakko.kaprio@helsinki.fi"
+        ], 
+        "cite_url": "www.worldwidetwins.net/?q=content/jaakko-kaprio-university-helsinki", 
+        "cite_name": "", 
+        "title": "Jaakko Kaprio (University of Helsinki) | worldwidetwins"
+    }, 
+    {
+        "content": "email: john.witton@kcl.ac.uk ... email: gill@addictionjournal.org .... jaakko kaprio (finland); mitchell karno (usa); david kavanagh (australia); sharlene kaye...", 
+        "email_addr_list": [
+            "john.witton@kcl.ac.uk", 
+            "gill@addictionjournal.org"
+        ], 
+        "cite_url": "www.addictionjournal.org/pages/contacts", 
+        "cite_name": "Addiction", 
+        "title": "Addiction Journal - Contacts"
+    }, 
+    {
+        "content": "keywords. genetic epidemiology, twins, substance use and abuse, complex disease. websites. university of helsinki. email. jaakko.kaprio@helsinki.fi. other ids.", 
+        "email_addr_list": [
+            "jaakko.kaprio@helsinki.fi"
+        ], 
+        "cite_url": "orcid.org/0000-0002-3716-2455www.google.com/email", 
+        "cite_name": "", 
+        "title": "Jaakko Kaprio (0000-0002-3716-2455) - ORCID ...Google Business Email - Custom email for your company‎"
+    }
+]

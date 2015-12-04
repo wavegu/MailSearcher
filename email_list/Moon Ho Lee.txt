@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: zchen2@stevens.edu ... zhu chen, moon ho lee, and guihua zeng, fast cocyclic jacket transform, ieee transactions on signal processing, vol.56,...", 
+        "email_list": [
+            "zchen2@stevens.edu"
+        ], 
+        "cite_url": "personal.stevens.edu/~zchen2/", 
+        "cite_name": "Stevens Institute of Technology", 
+        "title": "Zhu Chen - personal.stevens.edu - Stevens Institute of ..."
+    }, 
+    {
+        "content": "moon ho lee. institute of information and. communication. chonbuk national university. jeonju 561-756 r.korea. email: moonho@chonbuk.ac.kr.", 
+        "email_list": [
+            "moonho@chonbuk.ac.kr"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../04...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Orthogonal Space-Time Block Codes Design using Jacket ..."
+    }
+]

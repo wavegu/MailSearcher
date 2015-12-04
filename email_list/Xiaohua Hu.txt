@@ -1,0 +1,20 @@
+[
+    {
+        "content": "xiaohua tony hu. professor. dr. hus major research interests include data/web mining, bioinformatics, information retrieval and ... email: xh29@drexel.edu.", 
+        "email_list": [
+            "xh29@drexel.edu"
+        ], 
+        "cite_url": "drexel.edu/cci/contact/Faculty/Hu-Xiaohua-Tony/", 
+        "cite_name": "Drexel University", 
+        "title": "Xiaohua Tony Hu - Drexel University"
+    }, 
+    {
+        "content": "xiaohua hu. pacific northwest national ... verified email at pnnl.gov. scholar ... x hu, p van houtte, m liebeherr, a walentek, m seefeldt, ... acta materialia 54...", 
+        "email_list": [
+            "email@pnnl.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nqTiJ_YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xiaohua Hu - Google Scholar Citations"
+    }
+]

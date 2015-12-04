@@ -1,0 +1,30 @@
+[
+    {
+        "content": "1210 amsterdam avenue, mail code: 8904 ... email: laine@columbia.edu ..... [37] andrew f. laine, “in the spotlight: biomedical imaging,” ieee reviews in...", 
+        "email_list": [
+            "laine@columbia.edu"
+        ], 
+        "cite_url": "bme.columbia.edu/andrew-laine", 
+        "cite_name": "Columbia University", 
+        "title": "Andrew Laine | Biomedical Engineering"
+    }, 
+    {
+        "content": "l432@columbia.edu chair, department of biomedical engineering andrew f. laine percy k. and vida l. w. hudson professor professor of biomedical...", 
+        "email_list": [
+            "l432@columbia.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-laine-columbia-edu-20447280.h...", 
+        "cite_name": "", 
+        "title": "laine@columbia.edu - The Email Archive"
+    }, 
+    {
+        "content": "corresponding author: andrew f laine al418@columbia.edu ... if you would like to participate and need an invitation, please email info@biomedcentral.com,...", 
+        "email_list": [
+            "al418@columbia.edu", 
+            "info@biomedcentral.com"
+        ], 
+        "cite_url": "www.biomedcentral.com/1752-0509/2/74/comments", 
+        "cite_name": "BioMed Central", 
+        "title": "A review of imaging techniques for systems biology"
+    }
+]

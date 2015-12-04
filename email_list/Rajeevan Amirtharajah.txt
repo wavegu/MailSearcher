@@ -1,0 +1,47 @@
+[
+    {
+        "content": "professor rajeevan amirtharajah department of electrical and computer ... of california davis, ca 95616 email: ramirtha at ece.ucdavis.edu phone: (530)...", 
+        "email_list": [
+            "ramirtha@ece.ucdavis.edu"
+        ], 
+        "cite_url": "faculty.engineering.ucdavis.edu/amirth...", 
+        "cite_name": "UC Davis College of Engineering", 
+        "title": "Rajeevan Amirtharajah - Faculty - the University of ..."
+    }, 
+    {
+        "content": "rajeevan amirtharajah received the s.b. and m.eng. degrees in 1994, and the ... email: ramirtha at ece.ucdavis.edu; phone: (530) 341-2522; fax: (530) 752-...", 
+        "email_list": [
+            "ramirtha@ece.ucdavis.edu"
+        ], 
+        "cite_url": "faculty.engineering.ucdavis.edu/amirth...", 
+        "cite_name": "UC Davis College of Engineering", 
+        "title": "Biography - Faculty - University of California, Davis"
+    }, 
+    {
+        "content": "rajeevan amirtharajah  amirtharajah. professor and vice chair for graduate studies. phone: (530) 754-6562; email: ramirtha@ece.ucdavis.edu; website:...", 
+        "email_list": [
+            "ramirtha@ece.ucdavis.edu"
+        ], 
+        "cite_url": "www.ece.ucdavis.edu/people/administration/", 
+        "cite_name": "", 
+        "title": "ECE Administration - Electrical and Computer Engineering"
+    }, 
+    {
+        "content": "rajeevan amirtharajah. home | people | publications | research | sponsors | related sites  mit, comments about this site? email icsystems@mit.edu", 
+        "email_list": [
+            "icsystems@mit.edu"
+        ], 
+        "cite_url": "www-mtl.mit.edu/researchgroups/icsystems/uamps/people/", 
+        "cite_name": "", 
+        "title": "µAMPS People - MIT"
+    }, 
+    {
+        "content": "email:ecezhang at ucdavis dot edu ... microprocessors, by huan zhang, rajeevan amirtharajah, christopher nitta, matthew farrens and venkatesh akella,...", 
+        "email_list": [
+            "ecezhang@ucdavis.edu"
+        ], 
+        "cite_url": "www.huan-zhang.com/", 
+        "cite_name": "", 
+        "title": "Huan Zhangs Home Page -- University of California Davis ..."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "stephen p. borgatti. dept. of management ... verified email at uky.edu - homepage  scholar. get my own ... sp borgatti, mg everett, lc freeman. analytic...", 
+        "email_list": [
+            "email@uky.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hlk4a4gAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Stephen P. Borgatti - Google Scholar Citations"
+    }, 
+    {
+        "content": "stephen peter borgatti. dept. of ... email: steve.borgatti@gmail.com. ... jeffrey c. johnson, joseph j. luczkovich, stephen p. borgatti, tom a.b. snijders. 2009.", 
+        "email_list": [
+            "steve.borgatti@gmail.com"
+        ], 
+        "cite_url": "steveborgatti.com/vita.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Vita - Steve Borgatti"
+    }, 
+    {
+        "content": "context. stephen p. borgatti ... email address for steve borgatti: sborgatti@uky.edu. email .... that the number of emails between two actors serves as a.", 
+        "email_list": [
+            "sborgatti@uky.edu"
+        ], 
+        "cite_url": "steveborgatti.com/papers/supplychain.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]on social network analysis in a supply chain context - Steve ..."
+    }, 
+    {
+        "content": "email: sborgatti@uky.edu. web: www.steveborgatti.com .... jeffrey c. johnson, joseph j. luczkovich, stephen p. borgatti, tom a.b. snijders. 2009. using social...", 
+        "email_list": [
+            "sborgatti@uky.edu"
+        ], 
+        "cite_url": "https://gatton.uky.edu/vitas/BorgattiS.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Stephen Peter Borgatti - Gatton College of Business and ..."
+    }
+]

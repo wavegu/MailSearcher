@@ -1,1 +1,11 @@
-emrubin@lbl.gov	[13]
+[
+    {
+        "content": "susannah green tringe  edward m. rubin about the authors ... 94598, usa. correspondence to: edward m. rubin email: emrubin@lbl.gov. top of page...", 
+        "email_addr_list": [
+            "emrubin@lbl.gov"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review  Full text", 
+        "cite_name": "Nature", 
+        "title": "Metagenomics: DNA sequencing of environmental samples"
+    }
+]

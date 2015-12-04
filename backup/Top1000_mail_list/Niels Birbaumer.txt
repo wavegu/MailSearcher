@@ -1,1 +1,11 @@
-niels.birbaumer@uni-tuebingen.de	[29]
+[
+    {
+        "content": "e-mail: niels.birbaumer@uni-tuebingen.de. position: full professor of behavioral neurobiology and medical. psychology (c4 ordinarius). languages:.", 
+        "email_addr_list": [
+            "niels.birbaumer@uni-tuebingen.de"
+        ], 
+        "cite_url": "mind.ulusofona.pt/cv%20Birbaumer.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Niels Birbaumer - The Future of Mind and Behaviour Sciences"
+    }
+]

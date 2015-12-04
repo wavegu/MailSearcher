@@ -1,0 +1,48 @@
+[
+    {
+        "content": "home  university staff profiles  college of science  computer science; setzer, a.g. ... email: a.g.setzer@swansea.ac.uk  personal homepage. print this profile.", 
+        "email_list": [
+            "a.g.setzer@swansea.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Swansea University", 
+        "title": "Dr Anton Setzer - Swansea University"
+    }, 
+    {
+        "content": "setzer properties  our team. brett t. setzer; banks hudson; rob sangdahl; keith fryman; sara arnold; nick hadley ... email: bsetzer@setzerproperties.com.", 
+        "email_list": [
+            "bsetzer@setzerproperties.com"
+        ], 
+        "cite_url": "setzerproperties.com/who-we-are/", 
+        "cite_name": "", 
+        "title": "Our Team | Setzer Properties"
+    }, 
+    {
+        "content": "email: carmen.scholz@uah.edu. mary setzer, ms lecturer chemistry education, office: msb 211. phone: 256.824.3259. email: mary.setzer@uah.edu. setzer w...", 
+        "email_list": [
+            "carmen.scholz@uah.edu", 
+            "mary.setzer@uah.edu"
+        ], 
+        "cite_url": "www.uah.edu/.../chemistry-faculty-st...", 
+        "cite_name": "University of Alabama in Huntsville", 
+        "title": "UAH - College of Science - Chemistry - Chemistry Faculty ..."
+    }, 
+    {
+        "content": "interdisciplinary artist, gary setzer, provides gallery audiences with an experience that the huffington post called “a phenomenal ... gsetzer@email.arizona.edu.", 
+        "email_list": [
+            "gsetzer@email.arizona.edu"
+        ], 
+        "cite_url": "art.arizona.edu/directory/profile?netid=gsetzer", 
+        "cite_name": "University of Arizona", 
+        "title": "School of Art | Gary Setzer"
+    }, 
+    {
+        "content": "claudia setzer. professor. department : religious studies. email : claudia.setzer@manhattan.edu. phone : 718-862-7347. office : mgl 434...", 
+        "email_list": [
+            "claudia.setzer@manhattan.edu"
+        ], 
+        "cite_url": "https://manhattan.edu/faculty/claudiasetzer", 
+        "cite_name": "Manhattan College", 
+        "title": "claudia.setzer | Manhattan College"
+    }
+]

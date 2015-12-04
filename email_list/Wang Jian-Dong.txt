@@ -1,0 +1,47 @@
+[
+    {
+        "content": "jiandong wang ... hua teng technology building; office tel: (86)-13691377059; lab add: room 2406, zi yuan west building; email: jiandong@coe.pku.edu.", 
+        "email_list": [
+            "jiandong@coe.pku.edu"
+        ], 
+        "cite_url": "en.coe.pku.edu.cn/Faculty-A-Z/90.htm", 
+        "cite_name": "Peking University", 
+        "title": "Jiandong Wang | College of Engineering - Peking University"
+    }, 
+    {
+        "content": "jul 9, 2015 - professor huang, jiandong 黃建東 ... office: l3-72, laboratory block, 21 sassoon road, hong kong; email: jdhuang@hku.hk; tel: +852 3917 6810 ... zai wang, ju cui, jing wang, xin-mei zhang, wai man wong, neal g.", 
+        "email_list": [
+            "jdhuang@hku.hk"
+        ], 
+        "cite_url": "www.hku.hk/biochem/research/jdhuang/", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Professor HUANG, Jiandong - The University of Hong Kong"
+    }, 
+    {
+        "content": "ju, jiandong. professor, department of economics curriculum vitae. phone (86) (10) 62792879. email jujd@sem.tsinghua.edu.cn. office 386h weilun building", 
+        "email_list": [
+            "jujd@sem.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.sem.tsingh...", 
+        "cite_name": "Tsinghua University School of Economics and Manag...", 
+        "title": "Ju,Jiandong"
+    }, 
+    {
+        "content": "email: jnwangir at gmail.com. jiannan wang ... database syst. (tods) 39(1):7 (2014). yu jiang, dong deng, jiannan wang, guoliang li, jianhua feng.", 
+        "email_list": [
+            "jnwangir@gmail.com"
+        ], 
+        "cite_url": "www.cs.berkeley.edu/~jnwang/", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Jiannan Wangs Homepage - Computer Science Division"
+    }, 
+    {
+        "content": "email: jdding1@fudan.edu.cn ... 34, 930-939 (2013); xuan wang, ce yan, kai ye, yao he, zhenhua li, and jiandong ding*, biomaterials, 34, 2865-2874 (2013)...", 
+        "email_list": [
+            "jdding1@fudan.edu.cn"
+        ], 
+        "cite_url": "www.polymer.fudan.edu.cn/EN/show.aspx?...", 
+        "cite_name": "Fudan University", 
+        "title": "Jiandong Ding - Fudan University Polymer Science"
+    }
+]

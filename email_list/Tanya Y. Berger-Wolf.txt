@@ -1,0 +1,29 @@
+[
+    {
+        "content": "verified email at uic.edu - homepage  scholar ... c tantipathananandh, t berger-wolf, d kempe. proceedings of ... y yu, ty berger-wolf, j saia. advances in...", 
+        "email_list": [
+            "email@uic.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Hq28JM0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tanya Berger-Wolf - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: hhabib3@uic.edu. room 1120 seo. cell: (312) 315-4084 ... chayant tantipathananandh, and tanya y. berger-wolf. • at the siam workshop on network...", 
+        "email_list": [
+            "hhabib3@uic.edu"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.362.2374...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }, 
+    {
+        "content": "oct 21, 2015 - tanya y. berger-wolf. * e-mail: tanyabw@uic.edu. affiliation: computer science, university of illinois at chicago, chicago, il, united states of...", 
+        "email_list": [
+            "tanyabw@uic.edu"
+        ], 
+        "cite_url": "journals.plos.org/plosone/article?id=10.1371/journal.pone.0138645", 
+        "cite_name": "", 
+        "title": "PLOS ONE: Similar but Different: Dynamic Social Network ..."
+    }
+]

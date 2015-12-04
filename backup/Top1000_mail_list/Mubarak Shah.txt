@@ -1,7 +1,39 @@
-shah@cs.ucf.edu	[9]
-saada@cs.cmu.edu	[2]
-yilmaz.15@osu.edu	[2]
-email at crcv.ucf.edu	[2]
-kbl@yahoo.com	[1]
-cherry@eecs.ucf.edu.cap	[1]
-cherry@eecs.ucf.edu	[1]
+[
+    {
+        "content": "mubarak shah. trustee chair professor ... computer vision. verified email at crcv.ucf.edu - homepage ... r zhang, ps tsai, je cryer, m shah. pattern analysis...", 
+        "email_addr_list": [
+            "email@crcv.ucf.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=p8gsO3gAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mubarak Shah - Google Scholar Citations"
+    }, 
+    {
+        "content": "i finished my phd in may 2008 under the supervision of dr.mubarak shah. i did my bachelors in 2003 from ... room: nsh-4130. email: saada@cs.cmu.edu...", 
+        "email_addr_list": [
+            "saada@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~saada/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Saad Ali"
+    }, 
+    {
+        "content": "contact: mr mubarak shah phone: 93.799.300.541 email: esc_kbl@yahoo.com web site: from ilric 4360 at cornell.", 
+        "email_addr_list": [
+            "esc_kbl@yahoo.com"
+        ], 
+        "cite_url": "www.coursehero.com  Cornell  ILRIC  ILRIC 4360", 
+        "cite_name": "Course Hero", 
+        "title": "Contact: Mr Mubarak Shah Phone: 93.799.300.541 Email ..."
+    }, 
+    {
+        "content": "mubarak shah ... a. yilmaz, department of ceegs, ohio state university; email: yilmaz.15@osu.edu; ... university of central florida; email: shah@cs.ucf.edu.", 
+        "email_addr_list": [
+            "yilmaz.15@osu.edu", 
+            "shah@cs.ucf.edu"
+        ], 
+        "cite_url": "www.ppgia.pucpr.br/.../Yilma...www.google.com/email", 
+        "cite_name": "Pontifícia Universidade Católica do Paraná", 
+        "title": "[PDF]Object Tracking: A Survey, ACM Computing SurveysGoogle Business Email‎Searches related to Mubarak Shah email"
+    }
+]

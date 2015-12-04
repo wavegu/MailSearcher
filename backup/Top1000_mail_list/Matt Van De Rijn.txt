@@ -1,5 +1,49 @@
-mrijn@stanford.edu	[10]
-email at stanford.edu	[4]
-rbwest@stanford.edu	[2]
-lab@phenopath.com.leiomyosarcoma	[1]
-lab@phenopath.com	[1]
+[
+    {
+        "content": "research in the van de rijn  west lab. translocation of ... matt van de rijn, m.d.ph.d. dr. west. matt van de ... (650) 725-6902. email: rbwest@stanford.edu...", 
+        "email_addr_list": [
+            "rbwest@stanford.edu"
+        ], 
+        "cite_url": "med.stanford.edu  ...  Research", 
+        "cite_name": "Stanford University School of Medicine", 
+        "title": "The van de Rijn  West lab - Pathology - Stanford University ..."
+    }, 
+    {
+        "content": "phone no. email address. location. p.i.. van de rijn, matt, 650-498-7154, mrijn@stanford.edu, l225. west, rob, 650-736-2664, rbwest@stanford.edu, l229a.", 
+        "email_addr_list": [
+            "mrijn@stanford.edu", 
+            "rbwest@stanford.edu"
+        ], 
+        "cite_url": "med.stanford.edu/.../vanderijn.../...", 
+        "cite_name": "Stanford University School of Medicine", 
+        "title": "van de Rijn  West lab - Stanford University School of ..."
+    }, 
+    {
+        "content": "the van de rijn  west lab – in the department of pathology. search ... matt van de rijn, m.d.phd. ... email: mrijn@stanford.edu email: rbwest@stanford.edu...", 
+        "email_addr_list": [
+            "mrijn@stanford.edu", 
+            "rbwest@stanford.edu"
+        ], 
+        "cite_url": "med.stanford.edu/.../vanderijn.../...", 
+        "cite_name": "Stanford University School of Medicine", 
+        "title": "Contacts - The van de Rijn  West lab - Pathology - Stanford ..."
+    }, 
+    {
+        "content": "verified email at stanford.edu. scholar. get my own profile ... cm perou, t sørlie, mb eisen, m van de rijn, ss jeffrey, ca rees, ... nature 406 (6797), 747-752,...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5mSpljoAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Matt van de Rijn - Google Scholar Citations"
+    }, 
+    {
+        "content": "matt van de rijn, department of pathology, stanford university school of medicine, ... phone: 650-498-7154; fax: 650-723-1950; e-mail: mrijn@stanford.edu...", 
+        "email_addr_list": [
+            "mrijn@stanford.edu"
+        ], 
+        "cite_url": "clincancerres.aacrjournals.org/.../1078-0432.CCR-...", 
+        "cite_name": "Clinical Cancer Research", 
+        "title": "Clinically Relevant Molecular Subtypes in Leiomyosarcoma"
+    }
+]

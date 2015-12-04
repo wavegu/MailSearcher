@@ -1,0 +1,11 @@
+[
+    {
+        "content": "author details: firstname, wolfgang. lastname, küchlin. email, kuechlin@informatik.uni-tuebingen.de.", 
+        "email_list": [
+            "kuechlin@informatik.uni-tuebingen.de"
+        ], 
+        "cite_url": "www.risc.jku.at/Groebner.../author.php?...", 
+        "cite_name": "Johannes Kepler University Linz", 
+        "title": "Author Details - Gröbner Bases Bibliography"
+    }
+]

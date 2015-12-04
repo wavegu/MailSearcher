@@ -1,0 +1,11 @@
+[
+    {
+        "content": "dec 2, 2014 - for further information, contact susan binford at 512-415-4820. to contact thomas odonnell, e-mail todonnell@austin.utexas.edu.", 
+        "email_list": [
+            "todonnell@austin.utexas.edu"
+        ], 
+        "cite_url": "www.utexas.edu/.../thomas-o-donnell-appoi...", 
+        "cite_name": "University of Texas at Austin", 
+        "title": "Thomas ODonnell Appointed Inaugural Director of the LBJ ..."
+    }
+]

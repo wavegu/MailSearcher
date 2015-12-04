@@ -1,2 +1,20 @@
-skaletsk@bcm.edu	[2]
-admin@wi.mit.edu	[1]
+[
+    {
+        "content": "helen skaletsky, tomoko kuroda-kawaguchi, patrick j. minx, holland s. ... for materials should be addressed to d.c.p. (email: page_admin@wi.mit.edu).", 
+        "email_addr_list": [
+            "page_admin@wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Abstract - Nature"
+    }, 
+    {
+        "content": "helen skaletsky ... email. skaletsk@bcm.edu. is this you?log in to edit your profile. ... e-mail access: human genome sequencing center: baylor college of...", 
+        "email_addr_list": [
+            "skaletsk@bcm.edu"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../b25b4d74-ffed-11e2...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Helen Skaletsky | People | Baylor College of Medicine ..."
+    }
+]

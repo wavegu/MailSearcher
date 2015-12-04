@@ -1,0 +1,29 @@
+[
+    {
+        "content": "please email to k.dautenhahn at herts.ac.uk if you cannot access a paper or if the ... dag sverre syrdal, kerstin dautenhahn, wan ching ho, kheng lee koay...", 
+        "email_list": [
+            "k.dautenhahn@herts.ac.uk"
+        ], 
+        "cite_url": "homepages.herts.ac.uk/~comqkd/papers.html", 
+        "cite_name": "", 
+        "title": "Kerstin Dautenhahns Publications"
+    }, 
+    {
+        "content": "sep 11, 2015 - sunflower has been designed by dr. kheng lee koay based on our experience with the first ..... e-mail: k dot dautenhahn at herts.ac.uk.", 
+        "email_list": [
+            "dautenhahn@herts.ac.uk"
+        ], 
+        "cite_url": "homepages.herts.ac.uk/~comqkd/", 
+        "cite_name": "", 
+        "title": "Homepage Kerstin Dautenhahn"
+    }, 
+    {
+        "content": "personal homepage: employer: (); email ... 5. kheng lee koay. 8 .... send us an email at hello@interaction-design.org or through our online contact form.", 
+        "email_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/michael-l-walters", 
+        "cite_name": "", 
+        "title": "Michael L. Walters: Publications, bio, bibliography, etc ..."
+    }
+]

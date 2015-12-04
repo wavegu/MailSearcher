@@ -1,0 +1,38 @@
+[
+    {
+        "content": "... physics, especially various algebras appearing in quantum theory. noriyuki fujimoto. high performance computing. email: fujimoto [at] mi.s.osakafu-u.ac.jp.", 
+        "email_list": [
+            "fujimoto@mi.s.osakafu-u.ac.jp"
+        ], 
+        "cite_url": "www.mi.s.osakafu-u.ac.jp/e/staff/intro.html", 
+        "cite_name": "", 
+        "title": "無題ドキュメント"
+    }, 
+    {
+        "content": "information sciences, hannan university. matsubara, osaka 580-8502, japan. email: tsutsui@hannan-u.ac.jp. noriyuki fujimoto. graduate school of science.", 
+        "email_list": [
+            "tsutsui@hannan-u.ac.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Implementation of Histogram Based Sampling Algorithm ..."
+    }, 
+    {
+        "content": "noriyuki fujimoto. osaka prefecture university. 1-1 gakuen-cho, naka-ku, sakai-shi. osaka, 599-8531, japan. email: fujimoto@mi.s.osakafu-u.ac.jp.", 
+        "email_list": [
+            "fujimoto@mi.s.osakafu-u.ac.jp"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Parallelizing a Genetic Operator for GPUs - IEEE Xplore"
+    }, 
+    {
+        "content": "japan (phone: +81 72 332 1224; email: tsutsui@hannan-u.ac.jp). noriyuki fujimoto is with graduate school of science, osaka prefec- ture university, 1-1...", 
+        "email_list": [
+            "tsutsui@hannan-u.ac.jp"
+        ], 
+        "cite_url": "www0.cs.ucl.ac.uk/staff/ucacbbl/.../c-7887.pd...", 
+        "cite_name": "University College London", 
+        "title": "[PDF]www.cs.ucl.ac.uk - UCL Computer Science"
+    }
+]

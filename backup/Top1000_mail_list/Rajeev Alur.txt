@@ -1,5 +1,38 @@
-alur@saul.cis.upenn.edu.principles	[10]
-alur@cis.upenn.edu	[10]
-alur@saul.cis.upenn.edu	[10]
-first.lastname@colorado.edu	[3]
-email at cis.upenn.edu	[2]
+[
+    {
+        "content": "rajeev alur. zisman family ... verified email at cis.upenn.edu - homepage  scholar ... r alur, c courcoubetis, n halbwachs, ta henzinger, ph ho, x nicollin, .", 
+        "email_addr_list": [
+            "email@cis.upenn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=kWnv_YkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Rajeev Alur - Google Scholar Citations"
+    }, 
+    {
+        "content": "rajeev alur. rajeev alur obtained his bachelors degree in computer science from indian institute of technology at ... email address: alur@saul.cis.upenn.edu.", 
+        "email_addr_list": [
+            "alur@saul.cis.upenn.edu"
+        ], 
+        "cite_url": "embedded.eecs.berkeley.edu/esd-seminar/fall00/biodata/alur.html", 
+        "cite_name": "", 
+        "title": "Rajeev Alur: Brief Bio"
+    }, 
+    {
+        "content": "e-mail: first.lastname@colorado.edu ... please send me an email if you are interested in research on program ... rajeev alur, pavol cerny, arjun radhakrishna", 
+        "email_addr_list": [
+            "first.lastname@colorado.edu"
+        ], 
+        "cite_url": "ecee.colorado.edu/pavol/", 
+        "cite_name": "", 
+        "title": "Pavol Cernys homepage"
+    }, 
+    {
+        "content": "deciding global partial-order properties rajeev alur* ken mcmillan** doron ... of pennsylvania and bell laboratories, email: alur@cis.upenn.edu ** cadence...", 
+        "email_addr_list": [
+            "alur@cis.upenn.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540647813www.google.com/email", 
+        "cite_name": "", 
+        "title": "Automata, Languages and Programming: 25th International ...Google Business Email - Custom email for your company‎Searches related to Rajeev Alur email"
+    }
+]

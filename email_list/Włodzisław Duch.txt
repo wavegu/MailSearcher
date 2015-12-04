@@ -1,0 +1,29 @@
+[
+    {
+        "content": "włodzisław duch tel.: +(48 22) 629 36 17fax.: +(48 22) 52 92 629e-mail: sekretariat.mwd@nauka.gov.pl professor włodzisław duch was born in 1954 in kw...", 
+        "email_list": [
+            "sekretariat.mwd@nauka.gov.pl"
+        ], 
+        "cite_url": "www.nauka.gov.pl/en/people/wlodzislaw-duch.html", 
+        "cite_name": "", 
+        "title": "Włodzisław Duch - Ministry of Science and Higher Education"
+    }, 
+    {
+        "content": "(22) 629 36 17e-mail: sekretariat.mwd@nauka.gov.pl prof. włodzisław duch urodził się w 1954 roku w kwidzynie. ukończył stu - serwis główny ministerstwa...", 
+        "email_list": [
+            "sekretariat.mwd@nauka.gov.pl"
+        ], 
+        "cite_url": "www.nauka.gov.pl/sylwetki/prof-wlodzislaw-duch.html", 
+        "cite_name": "", 
+        "title": "Prof. Włodzisław Duch - Ministerstwo Nauki i Szkolnictwa ..."
+    }, 
+    {
+        "content": "cancel. włodzisław duch ... verified email at is.umk.pl - homepage  scholar. get my own ... w duch, j korbicz, l rutkowski, r tadeusiewicz. akademicka...", 
+        "email_list": [
+            "email@is.umk.pl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=NZ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Włodzisław Duch - Google Scholar Citations"
+    }
+]

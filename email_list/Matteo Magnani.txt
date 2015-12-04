@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: matteo.magnani@it.uu.se; telephone: +4618-471 4021; visiting address: room pol itc19119 itc, lägerhyddsv. 2, hus 1; postal address: box 337", 
+        "email_list": [
+            "matteo.magnani@it.uu.se"
+        ], 
+        "cite_url": "katalog.uu.se/empinfo/?languageId=1id=N13...", 
+        "cite_name": "Uppsala University", 
+        "title": "Matteo Magnani - Uppsala University, Sweden"
+    }, 
+    {
+        "content": "matteo magnani – senior lecturer. deputy member of the board (teachers) ... phone: +46 18 - 471 4021. fax: +46 18 511925. email: matteo.magnani@it.uu.se...", 
+        "email_list": [
+            "matteo.magnani@it.uu.se"
+        ], 
+        "cite_url": "www.it.uu.se/katalog/matma505", 
+        "cite_name": "Uppsala University", 
+        "title": "UU/IT/Matteo Magnani"
+    }, 
+    {
+        "content": "matteo magnani. associate professor ... verified email at cs.au.dk. scholar. get my own ... f celli, fml di lascio, m magnani, b pacelli, l rossi. advances in...", 
+        "email_list": [
+            "email@cs.au.dk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=41i7uf4AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Matteo Magnani - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "aaron courville. université de montréal ... verified email at umontreal.ca - homepage  scholar ... g desjardins, ac courville, y bengio, p vincent, o delalleau.", 
+        "email_list": [
+            "email@umontreal.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=km6CP8cAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Aaron Courville - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: courvila@iro.umontreal.ca website: http://aaroncourville.wordpress.com. machine learning, deep learning, probabilistic models and inference,. research.", 
+        "email_list": [
+            "courvila@iro.umontreal.ca"
+        ], 
+        "cite_url": "https://aaroncourville.files.wordpress.com/2013/04/courville_cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Aaron C. Courville - Aaron Courville - WordPress.com"
+    }, 
+    {
+        "content": "sep 18, 2015 - aaron c. courville département d?informatique et de recherche opérationnelle université de montréal email:aaron.courville at gmail.com from aaron.courville...", 
+        "email_list": [
+            "aaron.courville@gmail.com"
+        ], 
+        "cite_url": "webmail.iro.umontreal.ca/pipermail/.../2012-June....", 
+        "cite_name": "Université de Montréal", 
+        "title": "From guillaume.desjardins at gmail.com Wed Jun 6 10:11 ..."
+    }, 
+    {
+        "content": "jan 8, 2010 - email addresses: sjgershm@princeton.edu (samuel j. gershman), ..... [13] aaron c. courville, nathaniel d. daw, and david s. touretzky.", 
+        "email_list": [
+            "sjgershm@princeton.edu"
+        ], 
+        "cite_url": "www.princeton.edu/~nivlab/.../GershmanNiv2010", 
+        "cite_name": "Princeton University", 
+        "title": "[PDF]Elsevier Editorial System(tm) - Princeton University"
+    }, 
+    {
+        "content": "aaron c. courville. carnegie mellon university, robotics institute and center for the neural basis of cognition, pittsburgh, pa 15213, u.s.a. aaronc@cs.cmu.", 
+        "email_list": [
+            "aaronc@cs.cmu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Representation and Timing in Theories of the Dopamine ..."
+    }
+]

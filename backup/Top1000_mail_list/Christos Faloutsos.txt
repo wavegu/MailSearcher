@@ -1,6 +1,39 @@
-christos@cs.cmu.edu	[17]
-pfal@cs.toronto.edu	[2]
-michalis@cs.ucr.edu	[2]
-email at cs.cmu.edu	[2]
-dkoutra@umich.edu	[1]
-abeutel@cs.cmu.edu	[1]
+[
+    {
+        "content": "email, christos@cs.cmu.edu. website ... professor faloutsos focuses on two major research areas: query by content in multi-media databases and data mining.", 
+        "email_addr_list": [
+            "christos@cs.cmu.edu"
+        ], 
+        "cite_url": "https://www.ece.cmu.edu/.../Christos_Falouts...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Christos Faloutsos - Electrical and Computer Engineering"
+    }, 
+    {
+        "content": "email: abeutel@cs.cmu.edu / dblp listing ... in the machine learning department at carnegie mellon university, advised by professor christos faloutsos.", 
+        "email_addr_list": [
+            "abeutel@cs.cmu.edu"
+        ], 
+        "cite_url": "db.cs.cmu.edu/division/students/", 
+        "cite_name": "", 
+        "title": "Students - Carnegie Mellon Database Group"
+    }, 
+    {
+        "content": "cancel. christos faloutsos. cmu ... verified email at cs.cmu.edu - homepage  scholar ... c faloutsos, r barber, m flickner, j hafner, w niblack, d petkovic, .", 
+        "email_addr_list": [
+            "email@cs.cmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nd8lQQIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Christos Faloutsos - Google Scholar Citations"
+    }, 
+    {
+        "content": "science michalis@cs.ucr.edu petros faloutsos u. of toronto dept. of comp. science pfal@cs.toronto.edu christos faloutsos carnegie mellon univ. dept. of...", 
+        "email_addr_list": [
+            "michalis@cs.ucr.edu", 
+            "pfal@cs.toronto.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-michalis-cs-ucr-edu-5883653.htm", 
+        "cite_name": "", 
+        "title": "michalis@cs.ucr.edu - The Email Archive"
+    }
+]

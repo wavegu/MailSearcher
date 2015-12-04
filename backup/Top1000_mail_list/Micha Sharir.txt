@@ -1,3 +1,13 @@
-sharir@math.tau.ac.il	[13]
-saugata@cs.nyu.edu	[2]
-senechal@minkowski.smith.edu	[2]
+[
+    {
+        "content": "... senechal@minkowski.smith.edu, micha sharir sharir@math.tau.ac.il, ... 251 mercer street new york, ny 1001 email: saugata@cs.nyu.edu margaret m.", 
+        "email_addr_list": [
+            "senechal@minkowski.smith.edu", 
+            "sharir@math.tau.ac.il", 
+            "saugata@cs.nyu.edu"
+        ], 
+        "cite_url": "jeffe.cs.illinois.edu/compgeom/files/jsrc-peoplewww.google.com/email", 
+        "cite_name": "", 
+        "title": "plain text - Jeff EricksonGoogle Business Email - Custom email for your company‎"
+    }
+]

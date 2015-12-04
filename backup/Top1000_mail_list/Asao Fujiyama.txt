@@ -1,3 +1,20 @@
-afujiyam@nii.ac.jp	[3]
-htakeda@biol.notes	[2]
-yosikawa@imcb.osaka-u.ac.jp	[2]
+[
+    {
+        "content": "1, saci. distributor type, contact. creator individual, asao fujiyama email: afujiyam@nii.ac.jp. you are here: ncbi  clone  individual genomic library record.", 
+        "email_addr_list": [
+            "afujiyam@nii.ac.jp"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Individual Genomic Library Record"
+    }, 
+    {
+        "content": "... fax: 81-6-877-1922 email: yosikawa@imcb.osaka-u.ac.jp (hirohide yoshikawa) or asao fujiyama, national institute of genetics, 1,111 yata, mishima-city,...", 
+        "email_addr_list": [
+            "yosikawa@imcb.osaka-u.ac.jp"
+        ], 
+        "cite_url": "ftp://ftp.hgc.jp/pub/mirror/genomenet/db/D2/original/GENOMICS.text", 
+        "cite_name": "", 
+        "title": "NOTES: This file contains portion of the text published in ..."
+    }
+]

@@ -1,3 +1,38 @@
-judea@cs.ucla.edu	[11]
-bulletin@imstat.org	[1]
-email at cs.ucla.edu	[1]
+[
+    {
+        "content": "ucla computer science department cognitive systems lab 4532 boelter hall tel: (310) 825-3243 fax: (310) 825-2273 judea@cs.ucla.edu...", 
+        "email_addr_list": [
+            "judea@cs.ucla.edu"
+        ], 
+        "cite_url": "bayes.cs.ucla.edu/jp_home.html", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Judea Pearl - UCLA Cognitive Systems Laboratory"
+    }, 
+    {
+        "content": "campus addresses. 4532 boelter hall. 4515 boelter hall. phone number. 310-825-3243 — campus. email address. judea@cs.ucla.edu. link.", 
+        "email_addr_list": [
+            "judea@cs.ucla.edu"
+        ], 
+        "cite_url": "directory.stat.ucla.edu/judea-pearl", 
+        "cite_name": "", 
+        "title": "UCLA Statistics: Judea Pearl"
+    }, 
+    {
+        "content": "judea pearl. professor of ... verified email at cs.ucla.edu - homepage  scholar ... heuristics: intelligent search strategies for computer problem solving. j pearl.", 
+        "email_addr_list": [
+            "email@cs.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=bAipNH8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Judea Pearl - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: judea@cs.ucla.edu ... professor pearls thought is extremely original, deep and lucid. ... take this class as long as professor pearl is still teaching.", 
+        "email_addr_list": [
+            "judea@cs.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Computer Science", 
+        "cite_name": "", 
+        "title": "BruinWalk : Judea Pearl"
+    }
+]

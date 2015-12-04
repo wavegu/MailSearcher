@@ -1,4 +1,20 @@
-genetics-gsa@thegsajournals.org	[2]
-genetics-gsa@thegsajournals.org.joanne	[2]
-email at salk.edu	[1]
-webrequest@salk.edu	[1]
+[
+    {
+        "content": "cancel. joanne chory. the salk institute and hhmi. plant growth. verified email at salk.edu ... jw reed, p nagpal, ds poole, m furuya, j chory. the plant cell...", 
+        "email_addr_list": [
+            "email@salk.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=EeEtku8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Joanne Chory - Google Scholar Citations"
+    }, 
+    {
+        "content": "joanne chory, source: bmc plant biology ... joanne chory, source: the plant journal : for cell and molecular biology ... email: webrequest@salk.edu. phone...", 
+        "email_addr_list": [
+            "webrequest@salk.edu"
+        ], 
+        "cite_url": "salkinnovations.flintbox.com/public/profile/15938/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Joanne Chory | FlintboxGoogle Business Email - Custom email for your company‎"
+    }
+]

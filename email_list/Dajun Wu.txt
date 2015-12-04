@@ -1,0 +1,41 @@
+[
+    {
+        "content": "feel free to call, send us an email, tweet us or simply complete the ... (0086) 1591 4056 491; inquiry@dajunwuntravels.com; contact@dajunwuntravels.com...", 
+        "email_list": [
+            "inquiry@dajunwuntravels.com", 
+            "contact@dajunwuntravels.com"
+        ], 
+        "cite_url": "www.dajunwutravels.com/contact-us.html", 
+        "cite_name": "", 
+        "title": "Contact Us| Dajuwun Travels"
+    }, 
+    {
+        "content": "weiwei zhang, dajun wu, yiping zhu*, shaohui xu and lianwei wang* ... corresponding authors email: ypzhu@ee.ecnu.edu.cn.lwwang@ee.ecnu.edu.cn.", 
+        "email_list": [
+            "ypzhu@ee.ecnu.edu.cn.lwwang"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../07...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "ETHANOL SENSORS BASED ON GRAPHENE/TIN OXIDE ..."
+    }, 
+    {
+        "content": "prof. yang shie. email: yangshie@hrbeu.edu.cn ... sun dajun. email: ... email: xiukun_li@yahoo.com.cn. prof. wu yingzi. email: wuyingzi@hrbeu.edu.cn. prof.", 
+        "email_list": [
+            "yangshie@hrbeu.edu.cn", 
+            "xiukun_li@yahoo.com.cn", 
+            "wuyingzi@hrbeu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Engineering University", 
+        "title": "College of Underwater Acoustic Engineering - Harbin ..."
+    }, 
+    {
+        "content": "email: dingwu@andrew.cmu.edu ... jinchao liu, zhenghui li, chaoxiong he, ruowen fu, dingcai wu*, shuqin song*. wormholelike mesoporous .... guohua chen, wengui weng, dajun wu, dingcai wu, jingjing chen, lihui ye, wenli yan.", 
+        "email_list": [
+            "dingwu@andrew.cmu.edu"
+        ], 
+        "cite_url": "https://www.cmu.edu/maty/past.../Dingcai.ht...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Dr. Dingcai Wu - Carnegie Mellon University"
+    }
+]

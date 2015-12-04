@@ -1,0 +1,20 @@
+[
+    {
+        "content": "anastasios noulas. cambridge networks network ... info. anastasios noulas. phd student at the computer laboratory. email: anastasios.noulas@cl.cam.ac.uk...", 
+        "email_list": [
+            "anastasios.noulas@cl.cam.ac.uk"
+        ], 
+        "cite_url": "www.cnn.group.cam.ac.uk/directory/an346@cl.cam.ac.uk", 
+        "cite_name": "", 
+        "title": "Anastasios Noulas — Cambridge Networks Network"
+    }, 
+    {
+        "content": "anastasios noulas. lancaster ... verified email at cl.cam.ac.uk - homepage  scholar ... a noulas, s scellato, r lambiotte, m pontil, c mascolo. plos one 7 (5),...", 
+        "email_list": [
+            "email@cl.cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tnkMDBsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anastasios Noulas - Google Scholar Citations"
+    }
+]

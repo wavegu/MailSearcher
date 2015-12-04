@@ -1,3 +1,20 @@
-nancy.lynch@gnb.ca	[22]
-lynch@csail.mit.edu	[12]
-email at csail.mit.edu	[3]
+[
+    {
+        "content": "cancel. nancy lynch. professor of eecs, mit ... verified email at csail.mit.edu. scholar. get my own ... mj fischer, na lynch, ms paterson. journal of the acm...", 
+        "email_addr_list": [
+            "email@csail.mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LPTkkxUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Nancy Lynch - Google Scholar Citations"
+    }, 
+    {
+        "content": "nancy lynch p. eng. location. get directions ... contact. phone : (506) 453-3939. fax : (506) 453-3701. email : nancy.lynch@gnb.ca. mailing address.", 
+        "email_addr_list": [
+            "nancy.lynch@gnb.ca"
+        ], 
+        "cite_url": "www2.gnb.ca/content/gnb/.../contacts_renderer.6642.ht...", 
+        "cite_name": "New Brunswick", 
+        "title": "LYNCH, NANCY - Government of New Brunswick"
+    }
+]

@@ -1,1 +1,11 @@
-antzelevitch@limr.org	[26]
+[
+    {
+        "content": "photo of charles antzelevitch. email: antzelevitch@limr.org. phone: 484-476-8134. fax: 484.476.2205. office: g36. department: faculty. association: resident...", 
+        "email_addr_list": [
+            "antzelevitch@limr.org"
+        ], 
+        "cite_url": "www.limr.org/.../Page.asp?...", 
+        "cite_name": "Lankenau Institute for Medical Research", 
+        "title": "Charles Antzelevitch, PhD, FACC, FAHA, FHR - LIMR ..."
+    }
+]

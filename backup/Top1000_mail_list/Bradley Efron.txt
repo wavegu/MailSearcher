@@ -1,4 +1,38 @@
-email at stat.stanford.edu	[2]
-brad@stat.stanford.edu	[2]
-brad@stat.stanfxxx.edu	[2]
-susan@stat.stanford.edu	[1]
+[
+    {
+        "content": "rss journal webinar with brad efron announced. *** video of recorded ... email: brad@stat.stanfxxx.edu. joint appointment: health research and policy.", 
+        "email_addr_list": [
+            "brad@stat.stanfxxx.edu"
+        ], 
+        "cite_url": "https://statistics.stanford.edu/people/bradley-efron", 
+        "cite_name": "", 
+        "title": "Bradley Efron | Department of Statistics"
+    }, 
+    {
+        "content": "stanford university. stanford, ca 94305-4065. citizenship: u.s. citizen. phone: (650) 723-2206. fax: (650) 725-8977. email: brad@stat.stanford.edu. education.", 
+        "email_addr_list": [
+            "brad@stat.stanford.edu"
+        ], 
+        "cite_url": "statweb.stanford.edu/~ckirby/brad/EfronCV.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]bradley efron - Department of Statistics - Stanford University"
+    }, 
+    {
+        "content": "verified email at stat.stanford.edu. scholar. get my own ... b efron, rj tibshirani. crc press, 1994 ... b efron, t hastie, i johnstone, r tibshirani. the annals of...", 
+        "email_addr_list": [
+            "email@stat.stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=duBlF_YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "B Efron - Google Scholar Citations"
+    }, 
+    {
+        "content": "abstract. bradley efron is professor of statistics and biostatistics at ... 94305 (e-mail: susan@stat.stanford.edu). ... a conversation with bradley efron.", 
+        "email_addr_list": [
+            "susan@stat.stanford.edu"
+        ], 
+        "cite_url": "https://projecteuclid.org/download/pdf_1/.../1063994981", 
+        "cite_name": "Project Euclid", 
+        "title": "Bradley Efron - Project Euclid"
+    }
+]

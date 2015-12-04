@@ -1,3 +1,39 @@
-gremuzzi@marionegri.it	[16]
-gremuzzi@marionegri.it.prevention	[16]
-gremuzzi@ospedaliriuniti.bergamo.it	[16]
+[
+    {
+        "content": "remuzzi giuseppe. indirizzo. 4, via fontana ... 035 269296. fax. 035 266692. e-mail. gremuzzi@ospedaliriuniti.bergamo.it, gremuzzi@marionegri.it.", 
+        "email_addr_list": [
+            "gremuzzi@ospedaliriuniti.bergamo.it", 
+            "gremuzzi@marionegri.it"
+        ], 
+        "cite_url": "fad.saepe.it/docs/cv_remuzzi_eu.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]REMUZZI GIUSEPPE 4, VIA FONTANA, 24100 ... - saepe"
+    }, 
+    {
+        "content": "dr. giuseppe remuzzi, “mario negri” institute for pharmacological research, via ... +39-035-319-888; fax: +39-035-319-331; e-mail: gremuzzi@marionegri.it...", 
+        "email_addr_list": [
+            "gremuzzi@marionegri.it"
+        ], 
+        "cite_url": "jasn.asnjournals.org/content/17/4_suppl_2/S90.abstract", 
+        "cite_name": "", 
+        "title": "Prevention and Treatment of Diabetic Renal Disease in ..."
+    }, 
+    {
+        "content": "giuseppe remuzzi, norberto perico  ariela benigni about the authors. top of page ... correspondence to: giuseppe remuzzi email: gremuzzi@marionegri.it.", 
+        "email_addr_list": [
+            "gremuzzi@marionegri.it"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "New therapeutics that antagonize endothelin: promises and ..."
+    }, 
+    {
+        "content": "035-269296/fax: 035-266692/ e-mail:gremuzzi@ospedaliriuniti.bergamo.it. il prof. giuseppe remuzzi si è laureato in medicina e chirurgia a pavia nel 1974.", 
+        "email_addr_list": [
+            "gremuzzi@ospedaliriuniti.bergamo.it"
+        ], 
+        "cite_url": "www.medicina.unict.it/Public/.../CV%20breve2.it.docwww.google.com/email", 
+        "cite_name": "", 
+        "title": "[DOC]CV prof. Remuzzi - MedicinaGoogle Business Email‎Searches related to Giuseppe Remuzzi email"
+    }
+]

@@ -1,3 +1,20 @@
-wanda@mit.edu.wanda	[11]
-wanda@mit.edu	[11]
-email at mit.edu	[1]
+[
+    {
+        "content": "wanda orlikowski is the alfred p. sloan professor of management and a professor of information technologies and organization ... e-mail: wanda@mit.edu.", 
+        "email_addr_list": [
+            "wanda@mit.edu"
+        ], 
+        "cite_url": "mitsloan.mit.edu  ...  Directory", 
+        "cite_name": "MIT Sloan School of Management", 
+        "title": "Wanda Orlikowski - MIT Sloan Faculty Directory - MIT Sloan"
+    }, 
+    {
+        "content": "cancel. wanda orlikowski. professor of information ... verified email at mit.edu. scholar. get my own profile ... wj orlikowski, jj baroudi. information systems...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Mt9Mhm4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Wanda Orlikowski - Google Scholar Citations"
+    }
+]

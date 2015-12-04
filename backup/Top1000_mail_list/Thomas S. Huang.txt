@@ -1,2 +1,20 @@
-t-huang1@illinois.edu	[12]
-sxie@nmu.edu	[2]
+[
+    {
+        "content": "email. room. huang, thomas s. research professor; (217) 244-1638  t-huang1@illinois.edu; 2039. please contact us with any questions or changes you have...", 
+        "email_addr_list": [
+            "t-huang1@illinois.edu"
+        ], 
+        "cite_url": "beckman.illinois....", 
+        "cite_name": "Beckman Institute for Advanced Science and Technol...", 
+        "title": "Thomas S. Huang - Beckman Institute"
+    }, 
+    {
+        "content": "shuang xie. assistant professor - electronic media and global communication 211 thomas fine arts phone: 906-227-1644. e-mail: sxie@nmu.edu.", 
+        "email_addr_list": [
+            "sxie@nmu.edu"
+        ], 
+        "cite_url": "https://www.nmu.edu/caps/faculty-directory", 
+        "cite_name": "Northern Michigan University", 
+        "title": "Faculty Directory | NMU Communication and Performance ..."
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "content": "vice-president zheng is responsible for the teaching and social education of ... born in january 1969, dr. zheng qinghua, winner of the national funds for ... 2014 email: ic@mail.xjtu.edu.cn no.28, xianning west road, xian, shaanxi,...", 
+        "email_list": [
+            "ic@mail.xjtu.edu.cn"
+        ], 
+        "cite_url": "en.xjtu.edu.cn/info/1013/1529.htm", 
+        "cite_name": "", 
+        "title": "Zheng Qinghua-Xian Jiaotong University"
+    }, 
+    {
+        "content": "zheng qinghua. lecturer. department: department of accounting. email: zhengqhua@sina.com. office phone: +86-21-65982279. education...", 
+        "email_list": [
+            "zhengqhua@sina.com"
+        ], 
+        "cite_url": "sem.tongji.edu.cn/semen_data/attachments/month.../20153311530.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]ZHENG Qinghua Lecturer Department: Department of ..."
+    }, 
+    {
+        "content": "organization, zheng qinghua, is associated with 100+ domains ... registrar abuse contact email: abuse@nawang.cn ... admin email: dt0598@outlook.com", 
+        "email_list": [
+            "abuse@nawang.cn", 
+            "dt0598@outlook.com"
+        ], 
+        "cite_url": "domainbigdata.com/sxaiyue.net", 
+        "cite_name": "", 
+        "title": "Sxaiyue.net - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "phone (86) (10) 62789819. email zhengjie@sem.tsinghua.edu.cn. webpage http://www.sem.tsinghua.edu.cn/en/zhengjie  http://jzheng.weebly.com. office 561...", 
+        "email_list": [
+            "zhengjie@sem.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.sem.tsingh...", 
+        "cite_name": "Tsinghua University School of Economics and Manag...", 
+        "title": "Zheng,Jie"
+    }, 
+    {
+        "content": "jul 27, 2011 - email: qshi@ustc.edu.cn ... shi qinghua, professor and ph.d. supervisor, is selected into ... jiang x, ma t, zhang y, zhang h, yin s, zheng w, wang l, wang z, khan m, sheikh sw, bukhari i, iqbal f, cooke hj, shi q*.", 
+        "email_list": [
+            "qshi@ustc.edu.cn"
+        ], 
+        "cite_url": "en.biox.ustc.edu.cn/.../t2...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "SHI Qinghua - University of Science and Technology of China"
+    }
+]

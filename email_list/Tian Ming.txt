@@ -1,0 +1,49 @@
+[
+    {
+        "content": "ming tien. main content. professor of biochemistry. 305 south frear laboratory university park, pa 16802. email: mxt3@psu.edu. phone: (814) 863-1165.", 
+        "email_list": [
+            "mxt3@psu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Ming Tien - Department of Biochemistry and Molecular Biology"
+    }, 
+    {
+        "content": "verified email at mit.edu - homepage  scholar. get my own profile ... f wang, c li, ld sun, h wu, t ming, j wang, jc yu, ch yan. journal of the american...", 
+        "email_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1owxCEQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tian Ming - Google Scholar Citations"
+    }, 
+    {
+        "content": "tianming lilecturerchinese language604-822-6245tianming@mail.ubc.caauditorium annex b 212.", 
+        "email_list": [
+            "language604-822-6245tianming@mail.ubc.caauditorium"
+        ], 
+        "cite_url": "asia.ubc.ca/persons/tianming-li/", 
+        "cite_name": "University of British Columbia", 
+        "title": "Tianming Li | Department of Asian Studies"
+    }, 
+    {
+        "content": "tian-ming fu. graduate student, chemistry. tian-ming fu. contact information. email: tianmingfu@fas.harvard.edu. websites. lieber research group. category.", 
+        "email_list": [
+            "tianmingfu@fas.harvard.edu"
+        ], 
+        "cite_url": "chemistry.harvard.edu/people/tian-ming-fu", 
+        "cite_name": "Harvard University", 
+        "title": "Tian-Ming Fu | Department of Chemistry  Chemical Biology"
+    }, 
+    {
+        "content": "email: jingkong@mit.edu. phone: (617) 324-4068 ... email: mtavila@mit.edu ... tian ming. email: tming@mit.edu. phone: (617) 452-4052. mit room 13-3094.", 
+        "email_list": [
+            "jingkong@mit.edu", 
+            "mtavila@mit.edu", 
+            "tming@mit.edu"
+        ], 
+        "cite_url": "www.rle.mit.edu/nmeg/people/", 
+        "cite_name": "Research Laboratory of Electronics at MIT", 
+        "title": "People | Nanomaterials and Electronics Group"
+    }
+]

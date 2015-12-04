@@ -1,4 +1,20 @@
-ewan.birney@sanger.ac.uk	[21]
-birney@ebi.ac.uk	[14]
-email at ebi.ac.uk	[3]
-bioinformatician at largegenomeinformatician.blogspot.com	[3]
+[
+    {
+        "content": "cancel. ewan birney. director, embl-ebi ... verified email at ebi.ac.uk. scholar ... a bateman, e birney, l cerruti, r durbin, l etwiller, sr eddy, ... nucleic acids...", 
+        "email_addr_list": [
+            "email@ebi.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ftd3UB0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ewan Birney - Google Scholar Citations"
+    }, 
+    {
+        "content": "ewan birney. name: ewan birney. email: birney@ebi.ac.uk. organisation: ebi  login to post comments. coordinated by embl-ebi  eu flag. enfin stands for...", 
+        "email_addr_list": [
+            "birney@ebi.ac.uk"
+        ], 
+        "cite_url": "www.enfin.org/ewan-birney", 
+        "cite_name": "", 
+        "title": "Ewan Birney | ENFIN"
+    }
+]

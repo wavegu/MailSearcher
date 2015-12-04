@@ -1,1 +1,11 @@
-email at stanford.edu	[2]
+[
+    {
+        "content": "verified email at stanford.edu. scholar ... wj dally, b towles ... wj dally. parallel and distributed systems, ieee transactions on 3 (2), 194-205, 1992.", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YZHj-Y4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "William Dally - Google Scholar Citations"
+    }
+]

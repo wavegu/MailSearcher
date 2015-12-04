@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email: b.theodoulidis@manchester.ac.uk ... dr babis theodoulidis is a director of the centre for service research at the university of manchester and holds the...", 
+        "email_list": [
+            "b.theodoulidis@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/b.theodoulidis/", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr Charalampos Theodoulidis (Babis) research profile ..."
+    }, 
+    {
+        "content": "babis theodoulidis. manchester business ... verified email at manchester.ac.uk - homepage  scholar ... n pelekis, b theodoulidis, i kopanakis, y theodoridis.", 
+        "email_list": [
+            "email@manchester.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=8vopo8MAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Babis Theodoulidis - Google Scholar Citations"
+    }
+]

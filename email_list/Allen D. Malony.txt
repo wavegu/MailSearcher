@@ -1,0 +1,39 @@
+[
+    {
+        "content": "e-mail, malony@cs.uoregon.edu ... dr. allen d. malony is a professor in the department of computer and information science at the unversity of oregon.", 
+        "email_list": [
+            "malony@cs.uoregon.edu"
+        ], 
+        "cite_url": "https://www.cs.uoregon.edu/.../Allen_Malony.php", 
+        "cite_name": "University of Oregon", 
+        "title": "Allen Malony - Computer and Information Science"
+    }, 
+    {
+        "content": "[tel] (503) 346-4407: [fax] (503) 346-5373: [email] malony@cs.uoregon.edu: [mail] department of computer and information science: university of oregon,...", 
+        "email_list": [
+            "malony@cs.uoregon.edu"
+        ], 
+        "cite_url": "ix.cs.uoregon.edu/~malony/", 
+        "cite_name": "University of Oregon", 
+        "title": "Allen D. Malony - University of Oregon"
+    }, 
+    {
+        "content": "allen d. malony. ∗ ... eugene, or 97403-1202 email: khuck,malony@cs.uoregon.edu. †. department ... argonne, il 60439 email: curfman,norris@mcs.anl.gov.", 
+        "email_list": [
+            "malony@cs.uoregon.edu", 
+            "norris@mcs.anl.gov"
+        ], 
+        "cite_url": "dl.acm.org/ft_gateway.cfm?id...", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Capturing Performance Knowledge for Automated Analysis"
+    }, 
+    {
+        "content": "prof. allen d. malony. department of computer and. information science. university of oregon, usa. email: malony@cs.uoregon.edu. prof. jesús labarta.", 
+        "email_list": [
+            "malony@cs.uoregon.edu"
+        ], 
+        "cite_url": "europar-itec.uni-klu.ac.at/topics/topic02.htm", 
+        "cite_name": "", 
+        "title": "Topic 02: Performance Evaluation and Prediction"
+    }
+]

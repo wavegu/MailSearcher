@@ -1,0 +1,38 @@
+[
+    {
+        "content": "david j. collins. postdoctoral ... verified email at sutd.edu.sg - homepage  scholar ... n sivanantha, c ma, dj collins, m sesen, j brenker, rl coppel, a neild, .", 
+        "email_list": [
+            "email@sutd.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=d8KNmO4AAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "David J. Collins - Google Scholar Citations"
+    }, 
+    {
+        "content": "view david j collins professional profile on linkedin. linkedin is ... phone: +61 467 444 021☐ email: dcollins@sovereignmerchant.com ☐ skype: davidjcollins", 
+        "email_list": [
+            "dcollins@sovereignmerchant.com"
+        ], 
+        "cite_url": "https://www.linkedin.com/in/davidjcollins", 
+        "cite_name": "", 
+        "title": "David J Collins | LinkedIn"
+    }, 
+    {
+        "content": "david j. collins executive secretary tel: 410-767-8067 david.collins@maryland.gov. public utility law judges terry j. romine chief public utility law judge", 
+        "email_list": [
+            "david.collins@maryland.gov"
+        ], 
+        "cite_url": "www.naruc.org/C...", 
+        "cite_name": "National Association of Regulatory Utility Commissio...", 
+        "title": "National Association of Regulatory Utility Commissioners"
+    }, 
+    {
+        "content": "sep 3, 2015 - steven.talson@maryland.gov. writers direct dial no. 410 260 7089. september 3, 2015. by e-file and overnight mail. david j. collins.", 
+        "email_list": [
+            "steven.talson@maryland.gov"
+        ], 
+        "cite_url": "webapp.psc.state.md.us/newIntranet/.../NewIndex3_VOpenFile.cfm?...C...", 
+        "cite_name": "", 
+        "title": "[PDF]September 3, 2015 By e-file and overnight mail David J ..."
+    }
+]

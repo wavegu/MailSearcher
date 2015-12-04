@@ -1,5 +1,31 @@
-rajinder.kaul@sharikaindia.com	[25]
-rkkaul@uw.edu	[10]
-elettromeccanicaindia@gmail.com	[2]
-info@elettroindia.com	[1]
-email at ttuhsc.edu	[1]
+[
+    {
+        "content": "rajinder kaul, ph.d. ... e-mail: rkkaul@uw.edu. research program: dr. kauls research interests span protein chemistry and enzymology, characterization of...", 
+        "email_addr_list": [
+            "rkkaul@uw.edu"
+        ], 
+        "cite_url": "depts.washington.edu/.../Rajinder_Kaul.shtml", 
+        "cite_name": "University of Washington", 
+        "title": "Rajinder Kaul - Medical Genetics at University of Washington"
+    }, 
+    {
+        "content": "rajinder koul. texas tech university hsc ... verified email at ttuhsc.edu. scholar. get my own ... rk koul, rw schlosser, s sancibrian. focus on autism and...", 
+        "email_addr_list": [
+            "email@ttuhsc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pfdww0oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rajinder Koul - Google Scholar Citations"
+    }, 
+    {
+        "content": "contact : mr. rajinder kaul (managing director) email : rajinder.kaul@sharikaindia.com ... email : elettromeccanicaindia@gmail.com , info@elettroindia.com", 
+        "email_addr_list": [
+            "rajinder.kaul@sharikaindia.com", 
+            "elettromeccanicaindia@gmail.com", 
+            "info@elettroindia.com"
+        ], 
+        "cite_url": "www.projectstoday.com/Directory/.../Elettromeccanica-India-Pvt-Lt", 
+        "cite_name": "", 
+        "title": "Elettromeccanica India Pvt. Ltd. - ProjectsToday"
+    }
+]

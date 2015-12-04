@@ -1,8 +1,41 @@
-kinzlke@jhmi.edu	[3]
-tche@surgery.bsd.uchicago.edu	[1]
-npapado1@jhmi.edu.bert	[1]
-cbetteg1@jhmi.edu	[1]
-vogelbe@jhmi.edu	[1]
-velculescu@jhmi.edu	[1]
-npapado1@jhmi.edu	[1]
-tche@uchicago.edu	[1]
+[
+    {
+        "content": "kenneth w. kinzler. kenneth w. ... e-mail: kinzlke@jhmi.edu. school of ... dr. kinzlers laboratory has focused on the genetics of human cancer. they have...", 
+        "email_addr_list": [
+            "kinzlke@jhmi.edu"
+        ], 
+        "cite_url": "www.hopkinsmedicine.org/.../kinzler....", 
+        "cite_name": "Johns Hopkins School of Medicine", 
+        "title": "Kenneth W. Kinzler - Johns Hopkins Medicine"
+    }, 
+    {
+        "content": "kenneth w. kinzler, phd. kinzler ... email, kinzlke@jhmi.edu ... yan, h., yuan, w., velculescu, v.e., vogelstein, b. and kinzler, k.w. allelic variation in human...", 
+        "email_addr_list": [
+            "kinzlke@jhmi.edu"
+        ], 
+        "cite_url": "cmm.jhmi.edu/index.php/cmm-faculty/kenneth-w-kinzler-phd/", 
+        "cite_name": "", 
+        "title": "Kenneth W. Kinzler, PhD"
+    }, 
+    {
+        "content": "chetan bettegowda , email: cbetteg1@jhmi.edu. kenneth w. kinzler , email: kinzlke@jhmi.edu. nickolas papadopoulos , email: npapado1@jhmi.edu.", 
+        "email_addr_list": [
+            "cbetteg1@jhmi.edu", 
+            "kinzlke@jhmi.edu", 
+            "npapado1@jhmi.edu"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 4, No 4  Bettegowda", 
+        "cite_name": "", 
+        "title": "Exomic Sequencing of Four Rare Central Nervous System ..."
+    }, 
+    {
+        "content": "email: tche@surgery.bsd.uchicago.edu. alternate email: tche@uchicago.edu .... tong-chuan he, timothy a. chan, bert vogelstein, and kenneth w. kinzler:...", 
+        "email_addr_list": [
+            "tche@surgery.bsd.uchicago.edu", 
+            "tche@uchicago.edu"
+        ], 
+        "cite_url": "cmp.bsd.uchicago.edu/.../tong-chuan_he_profile.s...", 
+        "cite_name": "University of Chicago", 
+        "title": "Tong-Chuan He - Committee on Cell Physiology | University ..."
+    }
+]

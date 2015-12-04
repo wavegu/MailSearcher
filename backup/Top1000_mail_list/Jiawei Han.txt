@@ -1,3 +1,39 @@
-hanj@cs.uiuc.edu	[8]
-email at cs.uiuc.edu	[1]
-email at stanford.edu	[1]
+[
+    {
+        "content": "jiawei han. abel bliss professor ... verified email at cs.uiuc.edu - homepage  scholar ... j pei, j han, b mortazavi-asl, h pinto, q chen, u dayal, mc hsu. icccn...", 
+        "email_addr_list": [
+            "email@cs.uiuc.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jiawei Han - Google Scholar Citations"
+    }, 
+    {
+        "content": "jiawei han. database systems, data mining and data warehousing. email: _han_@cs.sfu.ca. professor, computing science , simon fraser university", 
+        "email_addr_list": [
+            "_han_@cs.sfu.ca"
+        ], 
+        "cite_url": "www.cs.sfu.ca/people/Faculty/Han/han.html", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Jiawei Han (Adjunct Professor at SFU) - Computing Science"
+    }, 
+    {
+        "content": "email address: hanj@cs.uiuc.edu. website: http://web.engr.illinois.edu/~hanj/ research interests and area of expertise: jiawei han is abel bliss professor in the...", 
+        "email_addr_list": [
+            "hanj@cs.uiuc.edu"
+        ], 
+        "cite_url": "acl2015.org/tutorials-t1.html", 
+        "cite_name": "", 
+        "title": "Successful Data Mining Methods for NLP - ACL 2015 | Beijing"
+    }, 
+    {
+        "content": "verified email at stanford.edu. @stanford. ... jiawei han. abel bliss professor of computer science, university of illinois. verified email at cs.uiuc.edu. @cs.uiuc.", 
+        "email_addr_list": [
+            "email@stanford.edu", 
+            "email@cs.uiuc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?view_op=search...", 
+        "cite_name": "Google Scholar", 
+        "title": "Google Scholar Citations"
+    }
+]

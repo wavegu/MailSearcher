@@ -1,3 +1,11 @@
-deanna.church@personalis.com	[25]
-feel at ease.church	[13]
-lynn.duncan@ucsf.edu	[3]
+[
+    {
+        "content": "deanna church, phd • personalis, inc. ... organizer. lynn duncan; phone: 415.476.2470; email: lynn.duncan@ucsf.edu...", 
+        "email_addr_list": [
+            "lynn.duncan@ucsf.edu"
+        ], 
+        "cite_url": "humangenetics.ucsf.edu/.../deanna...", 
+        "cite_name": "University of California, San Francisco", 
+        "title": "Deanna Church, PhD • Personalis, Inc. - Institute for Human ..."
+    }
+]

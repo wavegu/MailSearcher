@@ -1,0 +1,57 @@
+[
+    {
+        "content": "create alert. cancel. jitao sang, 桑基韬 ... verified email at nlpr.ia.ac.cn - homepage  scholar. get my own ... j sang, c liang, c xu, j cheng. multimedia and...", 
+        "email_list": [
+            "email@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=u6ivSjgAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jitao Sang, 桑基韬 - Google Scholar Citations"
+    }, 
+    {
+        "content": "jitao,sangs homepage. ... email: jtsang@nlpr.ia.ac.cn. phone: + (86) 10-82611857 ... jitao sang user-centric social multimedia computing. springer, isbn...", 
+        "email_list": [
+            "jtsang@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "www.nlpr.ia.ac.cn/mmc/homepage/jtsang.html", 
+        "cite_name": "", 
+        "title": "Jitao Sang"
+    }, 
+    {
+        "content": "jitao,sangs homepage. ... jitao sang (桑基韬) ... beijing, china 100190. email: jtsang@nlpr.ia.ac.cn. phone: + (86) 10-82611857 linkedin: jitao sang", 
+        "email_list": [
+            "jtsang@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "www.nlpr.ia.ac.cn/mmc/homepage/jtsang/awards.html", 
+        "cite_name": "", 
+        "title": "Talks  Services"
+    }, 
+    {
+        "content": "jan 26, 2015 - email: jtsang@nlpr.ia.ac.cn. personal website: .... jitao sang, tao mei, ying-qing xu, chen zhao, changsheng xu and shipeng li. “interactive...", 
+        "email_list": [
+            "jtsang@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "www.nlpr.ia.ac.cn/mmc/.../jtsang/ata/Jitao_CV-20150126-website.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Jitao Sang (桑基韬)"
+    }, 
+    {
+        "content": "sep 6, 2012 - email: jtsang@nlpr.ia.ac.cn or cheney8023@gmail.com ... jitao sang, tao mei, changsheng xu, shipeng li. contextual and personalized...", 
+        "email_list": [
+            "jtsang@nlpr.ia.ac.cn", 
+            "cheney8023@gmail.com"
+        ], 
+        "cite_url": "nlpr-web.ia.ac.cn/mmc/homepage/jtsang%20-%20副本.html", 
+        "cite_name": "", 
+        "title": "Welcome to Jitao Sangs homepage"
+    }, 
+    {
+        "content": "jitao,sangs homepage. ... jitao sang (桑基韬) ... 13-11, intelligent building no.95, zhongguancun east rd. beijing, china 100190. email: jtsang@nlpr.ia.ac.cn", 
+        "email_list": [
+            "jtsang@nlpr.ia.ac.cn"
+        ], 
+        "cite_url": "nlpr-web.ia.ac.cn/mmc/homepage/jtsang/services.html", 
+        "cite_name": "", 
+        "title": "Jitao Sang"
+    }
+]

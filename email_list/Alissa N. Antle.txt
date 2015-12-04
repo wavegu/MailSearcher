@@ -1,0 +1,38 @@
+[
+    {
+        "content": "alissa n. antles academic and professional portfolio, including her latest research. ... email: aantle@sfu.ca; phone: 778.782.7438; fax: 778.782.9422; office...", 
+        "email_list": [
+            "aantle@sfu.ca"
+        ], 
+        "cite_url": "www.antle.iat.sfu.ca/", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Dr. Alissa N. Antle | Research"
+    }, 
+    {
+        "content": "alissa n. antles academic and professional portfolio, including her latest research. ... antle, a.n. embodied child computer interaction -- why embodiment matters, acm ... email: aantle@sfu.ca; phone: 778.782.7438; fax: 778.782.9422; office...", 
+        "email_list": [
+            "aantle@sfu.ca"
+        ], 
+        "cite_url": "www.antle.iat.sfu.ca/EmbodiedMetaphor/", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Dr. Alissa N. Antle | Research - Simon Fraser University"
+    }, 
+    {
+        "content": "alissa n. antles academic and professional portfolio, including her latest research. ... email: aantle@sfu.ca; phone: 778.782.7438; fax: 778.782.9422; office...", 
+        "email_list": [
+            "aantle@sfu.ca"
+        ], 
+        "cite_url": "www.antle.iat.sfu.ca/lab.php", 
+        "cite_name": "Simon Fraser University", 
+        "title": "Dr. Alissa N. Antle | Lab - Simon Fraser University"
+    }, 
+    {
+        "content": "verified email at sfu.ca - homepage ... l xie, an antle, n motamedi ... an antle. proceedings of the 1st international conference on tangible and embedded ...,...", 
+        "email_list": [
+            "email@sfu.ca"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=x0DUIdsAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Alissa N Antle - Google Scholar Citations"
+    }
+]

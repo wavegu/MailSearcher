@@ -1,0 +1,11 @@
+[
+    {
+        "content": "srikumar ramalingam. researcher at mitsubishi ... verified email at merl.com. scholar ... g rogez, j rihan, s ramalingam, c orrite, phs torr. computer vision...", 
+        "email_list": [
+            "email@merl.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6m1ptOgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Srikumar Ramalingam - Google Scholar Citations"
+    }
+]

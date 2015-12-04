@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: hamdi@cse.ust.hk ... mounir hamdi is a chair professor at the hong kong university of science and technology, and the head of the department of...", 
+        "email_list": [
+            "hamdi@cse.ust.hk"
+        ], 
+        "cite_url": "www.cs.ust.hk/~hamdi/", 
+        "cite_name": "Hong Kong University of Science and Technology", 
+        "title": "Mounir Hamdi - Department of Computer Science and ..."
+    }, 
+    {
+        "content": "mounir hamdi. dean: college of science ... verified email at qf.org.qa. scholar. get my own profile ... qos over obs networks. y chen, m hamdi, dhk tsang.", 
+        "email_list": [
+            "email@qf.org.qa"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QBietV4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mounir Hamdi - Google Scholar Citations"
+    }, 
+    {
+        "content": "feb 1, 2014 - ... engineering, and technology, dr. mounir hamdi, spoke at the event. ... send us an email at marketinguk@prnewswire.co.uk or call us at...", 
+        "email_list": [
+            "marketinguk@prnewswire.co.uk"
+        ], 
+        "cite_url": "www.prnewswire.co.uk/.../hamad-bin-khalifa-university-welcomes-the-fi...", 
+        "cite_name": "", 
+        "title": "Hamad bin Khalifa University Welcomes the First Admitted ..."
+    }, 
+    {
+        "content": "mar 4, 2015 - dr. mounir hamdi, dean of hbkus college of science and .... to apply, please visit www.hbku.edu.qa/cse or email hbku.cse@qf.org.qa or call...", 
+        "email_list": [
+            "hbku.cse@qf.org.qa"
+        ], 
+        "cite_url": "www.prnewswire.com/.../hbku-launches-pioneering-postgraduate-progra...", 
+        "cite_name": "", 
+        "title": "HBKU Launches Pioneering Postgraduate Programs in ..."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "content": "kai hwang. kai hwang, ph.d. - professor of electrical engineering and computer science .... (213) 740-4470. fax: (213) 740-4418. email: kaihwang@usc.edu...", 
+        "email_list": [
+            "kaihwang@usc.edu"
+        ], 
+        "cite_url": "ee.usc.edu/faculty_staff/.../hwang.htm", 
+        "cite_name": "University of Southern California", 
+        "title": "Kai Hwang - USC Ming Hsieh Department of Electrical ..."
+    }, 
+    {
+        "content": "kai hwang is a professor of electrical engineering and computer science at the .... to contact dr. hwang, the best way is through email:kaihwang@usc.edu...", 
+        "email_list": [
+            "kaihwang@usc.edu"
+        ], 
+        "cite_url": "gridsec.usc.edu/Hwang.html", 
+        "cite_name": "", 
+        "title": "Homepage of Kai Hwang - GridSec"
+    }, 
+    {
+        "content": "kai hwang. professor of computer ... verified email at usc.edu. scholar ... 1730, 1993. computer arithmetic principles, architecture, and design. k hwang.", 
+        "email_list": [
+            "email@usc.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kai Hwang - Google Scholar Citations"
+    }, 
+    {
+        "content": "in this talk, dr. hwang presents the ubiquity, mobility, scalability and energy efficiency of internet ... kai hwang is a professor of ee/cs at the university of southern california. he is also a visiting ... can be reached via. email: kaihwang@usc.edu.", 
+        "email_list": [
+            "kaihwang@usc.edu"
+        ], 
+        "cite_url": "www.sist.tsinghua.edu.cn/download.jsp?attachSeq...", 
+        "cite_name": "Tsinghua University", 
+        "title": "[PDF]Professor Kai Hwang University of Southern California, USA"
+    }, 
+    {
+        "content": "cancel. kai hwang. uc berkeley  cognitive neuroscience. verified email at berkeley.edu. scholar ... k hwang, as ghuman, ds manoach, sr jones, b luna.", 
+        "email_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=q0EnzFEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kai Hwang - Google Scholar Citations"
+    }, 
+    {
+        "content": "he can be reached by email at: kaihwang@usc.edu. abstract. internet security and cluster architecture for federated e-commerce kai hwang professor and...", 
+        "email_list": [
+            "kaihwang@usc.edu"
+        ], 
+        "cite_url": "https://www.tu-chemnitz.de/.../Hwan...", 
+        "cite_name": "Chemnitz University of Technology", 
+        "title": "Cluster2000 - Keynote Speaker: Kai Hwang"
+    }, 
+    {
+        "content": "jul 11, 2015 - kai.hwang@aol.com. you searched for a(n) email. not what you had in mind? try our advanced search. this query has been searched 1 time.", 
+        "email_list": [
+            "kai.hwang@aol.com"
+        ], 
+        "cite_url": "thatsthem.com/search/Kai.hwang/61e6c9d6", 
+        "cite_name": "", 
+        "title": "kai.hwang@aol.com Email Lookup - ThatsThem.com"
+    }
+]

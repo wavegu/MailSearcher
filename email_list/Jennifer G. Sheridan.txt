@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jennifer sheridan ... email: jasheridan@yale-nus.edu.sg ... dr sheridan graduated from the university of chicago, where a teaching assistant first introduced her...", 
+        "email_list": [
+            "jasheridan@yale-nus.edu.sg"
+        ], 
+        "cite_url": "https://www.yale-nus.edu.sg/about/.../jennifer-a-sherid...", 
+        "cite_name": "Yale‑NUS College", 
+        "title": "Jennifer A Sheridan - Yale-NUS College"
+    }, 
+    {
+        "content": "jennifer g. sheridan*. bigdog interactive,. infolab21, south road,. lancaster la1 4wa, uk. e-mail: jennifer@bigdoginteractive.com. *corresponding author.", 
+        "email_list": [
+            "jennifer@bigdoginteractive.com"
+        ], 
+        "cite_url": "www.eecs.qmul.ac.uk/.../sheridan_bry...", 
+        "cite_name": "Queen Mary University of London", 
+        "title": "[PDF]Designing for performative tangible interaction Jennifer G ..."
+    }
+]

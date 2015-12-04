@@ -1,0 +1,11 @@
+[
+    {
+        "content": "david beymer. research staff member ... verified email at us.ibm.com - homepage  scholar ... d beymer, p mclauchlan, b coifman, j malik. computer vision...", 
+        "email_list": [
+            "email@us.ibm.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=n5vSK6YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "David Beymer - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: sonia@dsi.uminho.pt. saudações académicas, manuel filipe santos, director da ltsi isabel ramos, directora megsi/msi leonel santos, director do...", 
+        "email_list": [
+            "sonia@dsi.uminho.pt"
+        ], 
+        "cite_url": "www.dsi.uminho.pt/Default.aspx?...", 
+        "cite_name": "University of Minho", 
+        "title": "Departamento de Sistemas de Informação - Universidade ..."
+    }
+]

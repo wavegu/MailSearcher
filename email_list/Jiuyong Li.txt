@@ -1,0 +1,20 @@
+[
+    {
+        "content": "create alert. cancel. jiuyong li ... verified email at unisa.edu.au - homepage  scholar ... j li, aw fu, h he, j chen, h jin, d mcaullay, g williams, r sparks, .", 
+        "email_list": [
+            "email@unisa.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WYeM3yYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jiuyong Li - Google Scholar Citations"
+    }, 
+    {
+        "content": "apr 7, 2008 - email: jiuyong.li@unisa.edu.au. school of computer and information science. university of south australia, mawson lakes. gpo box 2471...", 
+        "email_list": [
+            "jiuyong.li@unisa.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "澳大利亚南澳大学招收访问学者需求（计算机科学） - 国家留学 ..."
+    }
+]

@@ -1,1 +1,11 @@
-avi@ias.edu	[7]
+[
+    {
+        "content": "professional references avi wigderson. professor school of mathematics institute for advanced study. avi@ias.edu scott aaronson. associate professor eecs...", 
+        "email_addr_list": [
+            "avi@ias.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-avi-ias-edu-5046025.htmwww.google.com/email", 
+        "cite_name": "", 
+        "title": "avi@ias.edu - The Email ArchiveGoogle Business Email - Custom email for your company‎"
+    }
+]

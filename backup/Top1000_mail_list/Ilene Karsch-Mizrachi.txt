@@ -1,2 +1,11 @@
-query@ncbi.nlm.nih.gov	[1]
-wheeler@ncbi.nlm.nih.gov	[1]
+[
+    {
+        "content": "tel: +1 301 435 5950; fax: +1 301 480 9241; email: wheeler@ncbi.nlm.nih.gov ..... benson d.a.,; karsch-mizrachi i.,; lipman d.j.,; ostell j.,; wheeler d.l..", 
+        "email_addr_list": [
+            "wheeler@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/35/suppl.../D21.fu...", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "GenBank - Nucleic Acids Research - Oxford Journals"
+    }
+]

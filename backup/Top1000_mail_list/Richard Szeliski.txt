@@ -1,4 +1,21 @@
-2010.szeliski@microsoft.com	[17]
-szeliski@microsoft.com	[17]
-email at microsoft.com	[3]
-fuchs@cs.unc.edu	[2]
+[
+    {
+        "content": "create alert. cancel. richard szeliski ... verified email at microsoft.com - homepage  scholar ... the lumigraph. sj gortler, r grzeszczuk, r szeliski, mf cohen.", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SkbvqqgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard Szeliski - Google Scholar Citations"
+    }, 
+    {
+        "content": "richard szeliski (szeliski@microsoft.com) microsoft research redmond usa. henry fuchs (fuchs@cs.unc.edu) department of computer science unc chapel...", 
+        "email_addr_list": [
+            "szeliski@microsoft.com", 
+            "fuchs@cs.unc.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-szeliski-microsoft-com-1530055...", 
+        "cite_name": "", 
+        "title": "szeliski@microsoft.com - The Email Archive"
+    }
+]

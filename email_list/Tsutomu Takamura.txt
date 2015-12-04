@@ -1,0 +1,11 @@
+[
+    {
+        "content": "pagetop. 2014 tsutomu takamura: 〒747-0037 山口県防府市八王子1-29-20. tel 0835-23-6000 fax 0835-23-6013. mail 55takamura2014@gmail.com.", 
+        "email_list": [
+            "55takamura2014@gmail.com"
+        ], 
+        "cite_url": "takamuratsutomu.com/", 
+        "cite_name": "", 
+        "title": "たかむら勉・公式WEBサイト【高邑勉】"
+    }
+]

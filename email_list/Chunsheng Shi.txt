@@ -1,0 +1,47 @@
+[
+    {
+        "content": "location：home  the school  facultystaff   chunsheng shi. name, chunsheng shi. title, associate ... e-mail, csshi@tju.edu.cn. mailing address...", 
+        "email_list": [
+            "csshi@tju.edu.cn"
+        ], 
+        "cite_url": "mse.tju.edu.cn/english/teacher_detail.php?id=55block=d3", 
+        "cite_name": "", 
+        "title": "Chunsheng Shi - School of Material Science and ..."
+    }, 
+    {
+        "content": "email: kangjianli@wpi-aimr.tohoku.ac.jp ... [1] jianli knag, jiajun li naiqin zhao, philip nash, chunsheng shi, ronglu sun, study of mg powder as catalyst...", 
+        "email_list": [
+            "kangjianli@wpi-aimr.tohoku.ac.jp"
+        ], 
+        "cite_url": "www.wpi-aimr.tohoku.ac.jp/.../personal-KangJL.htm", 
+        "cite_name": "Tohoku University", 
+        "title": "Dr. Jianli Kang"
+    }, 
+    {
+        "content": "cancel. chunsheng xiao. changchun institute ... verified email at ciac.ac.cn. scholar ... j ding, f shi, c xiao, l lin, l chen, c he, x zhuang, x chen. polymer...", 
+        "email_list": [
+            "email@ciac.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iP3cxMIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chunsheng Xiao - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: cshu@sjziam.ac.cn ... hu chunsheng, chen suying, zhang xixun, zhao sishen and wang .... (13) yuying wang; bo zhu, yan shi, chunsheng hu*. 2008...", 
+        "email_list": [
+            "cshu@sjziam.ac.cn"
+        ], 
+        "cite_url": "lc.sjziam.ac.cn/en/huchunsheng.asp", 
+        "cite_name": "", 
+        "title": "Director----Hu Chunsheng----Luancheng Agro-Ecosystem ..."
+    }, 
+    {
+        "content": "discover who owns the email address bo.chun@sheng-shi.net, which domains, hostnames and names are related.", 
+        "email_list": [
+            "bo.chun@sheng-shi.net"
+        ], 
+        "cite_url": "www.ipaddressden.com/email/Ym8uY2h1bg-sheng-shi.net.html", 
+        "cite_name": "", 
+        "title": "bo.chun@sheng-shi.net - Email Data - IPAddressDen"
+    }
+]

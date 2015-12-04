@@ -1,4 +1,21 @@
-dnorman@ucsd.edu	[15]
-don@jnd.org	[3]
-webmaster@jnd.org	[2]
-webmaster@jnd.org.don	[2]
+[
+    {
+        "content": "jakob nielsen and i formed the nielsen norman group in 1998 to help companies create ... if you encounter site difficulties, send email to webmaster@jnd.org.", 
+        "email_addr_list": [
+            "webmaster@jnd.org"
+        ], 
+        "cite_url": "www.jnd.org/about.html", 
+        "cite_name": "", 
+        "title": "About Don Norman - jnd.org"
+    }, 
+    {
+        "content": "don norman -- human centered design ... email address: don@jnd.org or dnorman@ucsd.edu (both addresses end up at the same place). website:...", 
+        "email_addr_list": [
+            "don@jnd.org", 
+            "dnorman@ucsd.edu"
+        ], 
+        "cite_url": "www.cogsci.ucsd.edu/~norman/", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Don Norman -- Human Centered Design"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "dasheng xiong, long-xi yu, xiao yan, chunqiu guo, ying xiong (2011) effects of root and stem ... yu l-x, liu s, anderson ja, singh rp, jin y, dubcovsky j, brown-guidera g, bhavani s, morgounov a, he ... email: longxi.yu@ars.usda.gov.", 
+        "email_list": [
+            "longxi.yu@ars.usda.gov"
+        ], 
+        "cite_url": "plantpath.wsu.edu/people/faculty/long-xi-yu/", 
+        "cite_name": "", 
+        "title": "Long-Xi Yu - Department of Plant Pathology | College of ..."
+    }, 
+    {
+        "content": "shouchun yin, bo song, guanqing liu, zhiqiang wang and xi zhang, self-organization of polymerizable .... jing sun, liyan wang, xi yu, and xi zhang, single-component films of different generations of ... e-mail: xi@mail.tsinghua.edu.cn...", 
+        "email_list": [
+            "xi@mail.tsinghua.edu.cn"
+        ], 
+        "cite_url": "www.tsinghua.edu.cn/publish/.../faculties-2-39.html", 
+        "cite_name": "Tsinghua University", 
+        "title": "ZHANG Xi - 清华大学 - Tsinghua University"
+    }, 
+    {
+        "content": "medical research building e-mail: nazila.kamaly@zeus.bwh.harvard.edu ... mikyung yu, phd. post-doctoral researcher ... xi yu (jerry) liu. research assistant", 
+        "email_list": [
+            "nazila.kamaly@zeus.bwh.harvard.edu"
+        ], 
+        "cite_url": "farokhzad.bwh.harvard.edu/members.php", 
+        "cite_name": "Harvard University", 
+        "title": "Members - Laboratory of Nanomedicine and Biomaterials"
+    }, 
+    {
+        "content": "ke xiyu ph.d. candidate. tel: 6824 7337. email: xyke@ibn.a-star.edu.sg. view cv. m.sc. in pharmaceutics, peking university, china, 2010. b. sc. in pharmacy,...", 
+        "email_list": [
+            "xyke@ibn.a-star.edu.sg"
+        ], 
+        "cite_url": "www.ibn.a-star.edu.sg/res...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "KE Xiyu - Institute of Bioengineering and Nanotechnology ..."
+    }, 
+    {
+        "content": "dongfang liu lab. ... email. xi.kang@bcm.edu. full profile  email; all profiles; close. sangwon brian kim. project intern. email ... huang yu. e-mail access. email.", 
+        "email_list": [
+            "xi.kang@bcm.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Dongfang Liu Lab - Baylor College of Medicine"
+    }
+]

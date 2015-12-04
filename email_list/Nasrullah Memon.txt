@@ -1,0 +1,20 @@
+[
+    {
+        "content": "create alert. cancel. nasrullah memon, phd ... verified email at mmmi.sdu.dk. scholar ... n memon, hl larsen, dl hicks, n harkiolakis. intelligence and...", 
+        "email_list": [
+            "email@mmmi.sdu.dk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5ZXMdNAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nasrullah Memon, PhD - Google Scholar Citations"
+    }, 
+    {
+        "content": "nasrullah memon ... maersk mc-kinney moller institute  memon@mmmi.sdu.dk ... detection of fraudulent emails by employing advanced feature abundance.", 
+        "email_list": [
+            "memon@mmmi.sdu.dk"
+        ], 
+        "cite_url": "www.sdu.dk/staff/memon", 
+        "cite_name": "University of Southern Denmark", 
+        "title": "Nasrullah Memon - Syddansk Universitet"
+    }
+]

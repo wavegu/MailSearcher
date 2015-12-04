@@ -1,3 +1,74 @@
-jack.dongarra@manchester.ac.uk	[25]
-dongarra@cs.utk.edu	[17]
-email at eecs.utk.edu	[2]
+[
+    {
+        "content": "e-mail: dongarra@cs.utk.edu ... jack dongarra received a bachelor of science in mathematics from chicago state university in 1972 and a master of science in...", 
+        "email_addr_list": [
+            "dongarra@cs.utk.edu"
+        ], 
+        "cite_url": "www.netlib.org/utk/people/JackDongarra/", 
+        "cite_name": "", 
+        "title": "Jack Dongarra - Netlib"
+    }, 
+    {
+        "content": "cancel. jack dongarra ... verified email at eecs.utk.edu - homepage  scholar ... e anderson, z bai, c bischof, s blackford, j demmel, j dongarra, ... 6398*.", 
+        "email_addr_list": [
+            "email@eecs.utk.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=X4SbSTAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jack Dongarra - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: jack.dongarra@manchester.ac.uk. to see email addresses you need to ... jack dongarra (address): sample. websites. school of computer science...", 
+        "email_addr_list": [
+            "jack.dongarra@manchester.ac.uk"
+        ], 
+        "cite_url": "www.maths.manchester.ac.uk/.../profile/?...Jack...", 
+        "cite_name": "University of Manchester", 
+        "title": "Prof Jack Dongarra | The University of Manchester | School ..."
+    }, 
+    {
+        "content": "prof jack dongarra - personal details ... email: jack.dongarra@manchester.ac.uk. to see email addresses you need to have javascript enabled in your...", 
+        "email_addr_list": [
+            "jack.dongarra@manchester.ac.uk"
+        ], 
+        "cite_url": "www.cs.manchest...", 
+        "cite_name": "School of Computer Science, University of Manchester", 
+        "title": "Prof Jack Dongarra - School of Computer Science | The ..."
+    }, 
+    {
+        "content": "prof jack dongarra - personal details. select a page ... email: jack.dongarra@manchester.ac.uk. jack dongarra (address): sample. websites. school of...", 
+        "email_addr_list": [
+            "jack.dongarra@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/research/Jack.dongarra/", 
+        "cite_name": "University of Manchester", 
+        "title": "Prof Jack Dongarra research profile - personal details | The ..."
+    }, 
+    {
+        "content": "prof jack dongarra - personal details ... email: jack.dongarra@manchester.ac.uk. to see email addresses you need to have javascript enabled in your...", 
+        "email_addr_list": [
+            "jack.dongarra@manchester.ac.uk"
+        ], 
+        "cite_url": "www.datascience.manchester.ac.uk/people/profile/?ea=Jack.Dongarra", 
+        "cite_name": "", 
+        "title": "Prof Jack Dongarra | The University of Manchester | Data ..."
+    }, 
+    {
+        "content": "tias faculty fellow and tees research professor. image of jack dongarra. email: dongarra@cs.utk.edu  personal website...", 
+        "email_addr_list": [
+            "dongarra@cs.utk.edu"
+        ], 
+        "cite_url": "https://engineering.tamu.edu/.../don...", 
+        "cite_name": "Dwight Look College of Engineering", 
+        "title": "Dongarra, Jack | People | Computer Science  Engineering ..."
+    }, 
+    {
+        "content": "jack dongarra (university of tennessee and oak ridge national laboratory). name: jack dongarra email: dongarra@cs.utk.edu", 
+        "email_addr_list": [
+            "dongarra@cs.utk.edu"
+        ], 
+        "cite_url": "vecpar.fe.up.pt/1998/homeDongarra.html", 
+        "cite_name": "", 
+        "title": "Jack Dongarra - VECPAR"
+    }
+]

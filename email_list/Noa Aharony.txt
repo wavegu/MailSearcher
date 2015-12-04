@@ -1,0 +1,38 @@
+[
+    {
+        "content": "prof. aharony noa (head of department). head of department. aharony noa (head of department). email: noa.aharony@biu.ac.il. office: 502/4, room 14.", 
+        "email_list": [
+            "noa.aharony@biu.ac.il"
+        ], 
+        "cite_url": "is.biu.ac.il/en/node/1161", 
+        "cite_name": "Bar‑Ilan University", 
+        "title": "Aharony Noa (Head of Department) | Department of ..."
+    }, 
+    {
+        "content": "create alert. cancel. noa aharony. information science department ,bar-ilan university, israel. verified email at biu.ac.il ... n aharony. library  information...", 
+        "email_list": [
+            "email@biu.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=rCekbG8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "noa aharony - Google Scholar Citations"
+    }, 
+    {
+        "content": "nov 10, 2011 - dr. noa aharony department of information science bar-ilan university israel. web site: http://www.is.biu.ac.il/. email: aharonn1@mail.biu.ac.il...", 
+        "email_list": [
+            "aharonn1@mail.biu.ac.il"
+        ], 
+        "cite_url": "www.ariadne.ac.uk/author/noa-aharony-author-profile", 
+        "cite_name": "Ariadne", 
+        "title": "Noa Aharony author profile | Ariadne"
+    }, 
+    {
+        "content": "apr 26, 2014 - noa aharony, department of information science, bar-ilan university, ramat gan, 52900, israel. email: noa.aharony@biu.ac.il...", 
+        "email_list": [
+            "noa.aharony@biu.ac.il"
+        ], 
+        "cite_url": "lis.sagepub.com/content/early/2014/.../096100061453212...", 
+        "cite_name": "Sage Publications", 
+        "title": "Factors affecting the adoption of e-books by information ..."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "to contact me : address : lirmm. umr 5506. 161 rue ada. 34095 montpellier cedex 5. france. email : jean.sallantin at lirmm.fr. phone : 33 (0)4 67 41 85 37.", 
+        "email_list": [
+            "jean.sallantin@lirmm.fr"
+        ], 
+        "cite_url": "www.lirmm.fr/~js/", 
+        "cite_name": "", 
+        "title": "Jean Sallantin - Lirmm"
+    }, 
+    {
+        "content": "jun 17, 2009 - email address for general informations: ecap08@lirmm.fr; chairman email: jean sallantin: sallantin@lirmm.fr; site manager email: michel...", 
+        "email_list": [
+            "ecap08@lirmm.fr", 
+            "sallantin@lirmm.fr"
+        ], 
+        "cite_url": "www.lirmm.fr/ecap08/contacts.php", 
+        "cite_name": "", 
+        "title": "ECAP08: European Conference on Computing and ..."
+    }, 
+    {
+        "content": "jan 15, 2014 - internet-draft r.sallantin intended status: proposed standard ..... email: renaud.sallantin@gmail.com cedric baudoin thales alenia space (tas) 26 avenue jean francois champollion, 31100 toulouse sallantin, et al.", 
+        "email_list": [
+            "renaud.sallantin@gmail.com"
+        ], 
+        "cite_url": "https://tools.ietf.org/.../draft-irtf-iccrg-sal...", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "draft-irtf-iccrg-sallantin-initial-spreading-00 - Safe increase ..."
+    }
+]

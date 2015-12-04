@@ -1,0 +1,30 @@
+[
+    {
+        "content": "mika klemettinen and pirjo moen. university of helsinki/dept of cs autumn 2001. page. 5 /62. dr. pirjo moen. phd pirjo moen: email: pirjo.moen@cs.helsinki.fi...", 
+        "email_list": [
+            "pirjo.moen@cs.helsinki.fi"
+        ], 
+        "cite_url": "www.cs.helsinki.fi/u/ronkaine/DM/luentomateriaali/DAMI-011024.ppt", 
+        "cite_name": "", 
+        "title": "[PPT]Course on Data Mining"
+    }, 
+    {
+        "content": "ft mika klemettinen. email: mika.klemettinen@nokia.com; puh: 040-743 7241. lisäksi huonosti tavoitettavissa: email: mika.klemettinen@cs.helsinki.fi; www:...", 
+        "email_list": [
+            "mika.klemettinen@nokia.com", 
+            "mika.klemettinen@cs.helsinki.fi"
+        ], 
+        "cite_url": "www.cs.helsinki.fi/group/dime/DM/s00/", 
+        "cite_name": "", 
+        "title": "Department of Computer Science / Data Mining"
+    }, 
+    {
+        "content": "mika klemettinen: publications, bio, bibliography, etc. ... send us an email at hello@interaction-design.org or through our online contact form. or find us on:...", 
+        "email_list": [
+            "hello@interaction-design.org"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/mika-klemettinen", 
+        "cite_name": "", 
+        "title": "Mika Klemettinen - Interaction Design Foundation"
+    }
+]

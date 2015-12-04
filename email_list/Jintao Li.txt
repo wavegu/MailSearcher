@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail：zhangjintao@bnu.edu.cn ... jintao zhang, xiaoming li*, xiaoyi fang, qing xiong, (2009) discrimination experience and quality of life among...", 
+        "email_list": [
+            "zhangjintao@bnu.edu.cn"
+        ], 
+        "cite_url": "brain.bnu.edu.cn/en/Team/Young_Scholars/325.html", 
+        "cite_name": "", 
+        "title": "Jintao Zhang"
+    }, 
+    {
+        "content": "cancel. jintao xu. professor of economics, national school of development, peking university ... verified email at pku.edu.cn. scholar ... j xu, r yin, z li, c liu.", 
+        "email_list": [
+            "email@pku.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KvCk2j0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jintao Xu - Google Scholar Citations"
+    }, 
+    {
+        "content": "head and chair professor, department of management. director, center for business strategy and innovation. email: mnjtli@ust.hk. ph.d. university of texas...", 
+        "email_list": [
+            "mnjtli@ust.hk"
+        ], 
+        "cite_url": "www.bm.ust.hk/mgmt/staff/mnjtli.html", 
+        "cite_name": "HKUST Business School", 
+        "title": "JT LI"
+    }
+]

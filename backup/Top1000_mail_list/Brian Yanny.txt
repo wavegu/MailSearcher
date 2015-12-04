@@ -1,3 +1,11 @@
-yanny@fnal.gov	[11]
-840-4771bauer@fnal.gov.intelius	[2]
-840-5181annis@fnal.gov.dan	[1]
+[
+    {
+        "content": "brian yanny. scientist. telephone: (630) 840-4413. e-mail: yanny@fnal.gov. office location: wh7w personal web: scientific interest. my research concerns...", 
+        "email_addr_list": [
+            "yanny@fnal.gov"
+        ], 
+        "cite_url": "computing.fnal.gov  Home  About  Scientists", 
+        "cite_name": "Fermilab", 
+        "title": "Brian Yanny - FNAL Computing Sector"
+    }
+]

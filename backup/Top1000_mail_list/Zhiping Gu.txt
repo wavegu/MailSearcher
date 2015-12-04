@@ -1,4 +1,40 @@
-zgu@email.unc.edu	[6]
-zgu3@ncsu.edu	[6]
-zpcai at nudt.edu.cn	[2]
-gordonxu@uq.edu.au	[2]
+[
+    {
+        "content": "contact. telephone: +61 7 3346 3809 email: gordonxu@uq.edu.au ... key publications. gu z, rolfe be, xu zp, campbell jh, lu gq, thomas ac. (2012)...", 
+        "email_addr_list": [
+            "gordonxu@uq.edu.au"
+        ], 
+        "cite_url": "www.aibn.uq.edu.au  Researchers", 
+        "cite_name": "University of Queensland", 
+        "title": "Associate Professor Zhi Ping (Gordon) Xu - Australian ..."
+    }, 
+    {
+        "content": "phone: (919) 515-7944; email: zgu@email.unc.edu | zgu3@ncsu.edu. website: ..... lei zhang*, zhen gu, zhiping yu, xiangqing he, yong chen. “a cmos...", 
+        "email_addr_list": [
+            "zgu@email.unc.edu", 
+            "zgu3@ncsu.edu"
+        ], 
+        "cite_url": "https://www.bme.unc.edu/.../...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "[PDF]ZHEN GU, PH.D. - Joint Department of Biomedical ..."
+    }, 
+    {
+        "content": "... state university. email: zgu@email.unc.edu | zgu3@ncsu.edu .... lei zhang*, zhen gu, zhiping yu, xiangqing he, and yong chen. “a cmos microarray with...", 
+        "email_addr_list": [
+            "zgu@email.unc.edu", 
+            "zgu3@ncsu.edu"
+        ], 
+        "cite_url": "https://sites.google.com/site/bionanogu/home", 
+        "cite_name": "", 
+        "title": "THE GU LABORATORY - Google Sites"
+    }, 
+    {
+        "content": "email: zpcai at nudt.edu.cn ... zhiping cai, min chen, shigang chen, yan qiao, searching for widespread events in large networked systems by cooperative monitoring, in proc. of ieee .... fangyong hou, dawu gu, nong xiao, zhiping cai.", 
+        "email_addr_list": [
+            "zpcai@nudt.edu.cn"
+        ], 
+        "cite_url": "individual.utoronto.ca/zcai/www.google.com/email", 
+        "cite_name": "University of Toronto", 
+        "title": "Zhiping Cai : Homepage - University of TorontoGoogle Business Email‎"
+    }
+]

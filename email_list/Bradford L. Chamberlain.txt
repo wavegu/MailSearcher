@@ -1,0 +1,11 @@
+[
+    {
+        "content": "create alert. cancel. bradford l. chamberlain ... verified email at cray.com. scholar ... bl chamberlain, se choi, ec lewis, l snyder, wd weathersby, c lin.", 
+        "email_list": [
+            "email@cray.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0wg-BXgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bradford L. Chamberlain - Google Scholar Citations"
+    }
+]

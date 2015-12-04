@@ -1,0 +1,32 @@
+[
+    {
+        "content": "name, e-mail, phone, office. prof. dr. michael böhlen  boehlen@ifi.uzh. ... dr. andreas geppert  geppert@acm.org  dr. can türker  can.tuerker@fgcz.ethz.ch...", 
+        "email_list": [
+            "boehlen@ifi.uzh", 
+            "geppert@acm.org", 
+            "can.tuerker@fgcz.ethz.ch"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Zurich", 
+        "title": "UZH - Database Technology - People"
+    }, 
+    {
+        "content": "e-mail: k.jahnke@klinikum-braunschweig.de. foto andreas geppert. personalabteilung ... fax: 0531 595 15 89. e-mail: a.geppert@klinikum-braunschweig.de.", 
+        "email_list": [
+            "k.jahnke@klinikum-braunschweig.de", 
+            "a.geppert@klinikum-braunschweig.de"
+        ], 
+        "cite_url": "https://www.klinikum-braunschweig.de/502.0.html", 
+        "cite_name": "", 
+        "title": "Geschäftsbereich Personal und Wirtschaft"
+    }, 
+    {
+        "content": "andreas geppert kfz-handel, geringswalde | company information  credit report | branch of industry: handel mit ... email andreas.geppert@gmx.de.", 
+        "email_list": [
+            "andreas.geppert@gmx.de"
+        ], 
+        "cite_url": "www.firmenwissen.com/.../ANDREAS_GEPPERT_KFZ_HANDEL.html", 
+        "cite_name": "", 
+        "title": "Andreas Geppert Kfz-Handel - FirmenWissen"
+    }
+]

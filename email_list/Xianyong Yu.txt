@@ -1,0 +1,20 @@
+[
+    {
+        "content": "contact: 010-6261 8240; email: chenyi@iccas.ac.cn ... hao-wen huang*, shao-wen huang, xuan-yong liu, yun-long zeng,xian-yong yu, bo liao, yi chen**,...", 
+        "email_list": [
+            "chenyi@iccas.ac.cn"
+        ], 
+        "cite_url": "aclcas.iccas.ac.cn/chenyi/ProfYC/", 
+        "cite_name": "", 
+        "title": "Prof. Yi Chen----CAS Key Laboratory of Analytical Chemistry ..."
+    }, 
+    {
+        "content": "jan 30, 2010 - peng hong-liang, yu xian-yong, yi ping-gui, wang zhao-xu, ... corresponding authors: yi ping-gui email: yipinggui@sohu.com. cite this...", 
+        "email_list": [
+            "yipinggui@sohu.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "PENG Hong-Liang, YU Xian-Yong, YI Ping-Gui ... - DOI"
+    }
+]

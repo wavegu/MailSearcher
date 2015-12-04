@@ -1,6 +1,39 @@
-nrjennings@qmw.ac.uk	[19]
-nrj at ecs.soton.ac.uk	[4]
-nrj@ecs.soton.ac.uk	[4]
-email at ecs.soton.ac.uk	[2]
-wufeng02@gmail.com	[2]
-wufeng02@ustc.edu.cn	[2]
+[
+    {
+        "content": "professor jennings is a chief scientific adviser to the uk government, the inaugural regius ... nick is an internationally-recognized authority in the areas of artificial ... email: nrj@ecs.soton.ac.uk telephone: 023 8059 7681 (pa: amanda...", 
+        "email_addr_list": [
+            "nrj@ecs.soton.ac.uk"
+        ], 
+        "cite_url": "users.ecs.soton.ac...", 
+        "cite_name": "School of Electronics and Computer Science, Univers...", 
+        "title": "Nick Jennings - Electronics and Computer Science"
+    }, 
+    {
+        "content": "professor nick r jennings. overview  research  teaching ... photograph of prof nick r jennings. professor nick r ... email: nrj@ecs.soton.ac.uk. homepage:...", 
+        "email_addr_list": [
+            "nrj@ecs.soton.ac.uk"
+        ], 
+        "cite_url": "www.ecs.soton.ac...", 
+        "cite_name": "School of Electronics and Computer Science, Univers...", 
+        "title": "Professor Nick R Jennings | Electronics and Computer ..."
+    }, 
+    {
+        "content": "verified email at ecs.soton.ac.uk - homepage ... nr jennings, k sycara, m wooldridge ... nr jennings, p faratin, ar lomuscio, s parsons, mj wooldridge, .", 
+        "email_addr_list": [
+            "email@ecs.soton.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=FX5CsuYAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Nick Jennings - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: wufeng02@ustc.edu.cn, wufeng02@gmail.com [pgp key] ... feng wu, luc moreau, nicholas r. jennings, joel fischer, wenchao jiang, tom rodden,...", 
+        "email_addr_list": [
+            "wufeng02@ustc.edu.cn", 
+            "wufeng02@gmail.com"
+        ], 
+        "cite_url": "staff.ustc.edu.cn/~wufen...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Feng Wus Homepage (中科大吴锋)"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "create alert. cancel. marcaurelio ranzato ... verified email at fb.com - homepage  scholar ... k jarrett, k kavukcuoglu, ma ranzato, y lecun. computer...", 
+        "email_list": [
+            "email@fb.com"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "MarcAurelio Ranzato - Google Scholar Citations"
+    }, 
+    {
+        "content": "... in computer science at the courant institute of mathematical science - new york university. visit my web page at www.cs.nyu.edu/~ranzato  email me!", 
+        "email_list": [
+            "page@www.cs.nyu.edu"
+        ], 
+        "cite_url": "www.vision.caltech.edu/ranzato/", 
+        "cite_name": "California Institute of Technology", 
+        "title": "MarcAurelio Ranzato"
+    }, 
+    {
+        "content": "search email number information data on the internet ... new york university textttmirowski@cs.nyu.edu marcaurelio ranzato department of computer science...", 
+        "email_list": [
+            "textttmirowski@cs.nyu.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-ranzato-cs-tor-5078206.htm", 
+        "cite_name": "", 
+        "title": "ranzato@cs.tor - The Email Archive"
+    }
+]

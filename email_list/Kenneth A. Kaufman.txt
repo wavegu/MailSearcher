@@ -1,0 +1,20 @@
+[
+    {
+        "content": "kenneth r. kaufman, md. 732-235-7647 732-235-4430. kaufmakr@rwjms.rutgers.edu. university behavioral healthcare center 675 hoes lane west", 
+        "email_list": [
+            "kaufmakr@rwjms.rutgers.edu"
+        ], 
+        "cite_url": "umg.rwjms.rutgers.edu/Public/directory/doctor2.asp?...", 
+        "cite_name": "Rutgers University", 
+        "title": "Kenneth R. Kaufman, MD - RWJ Medical Group"
+    }, 
+    {
+        "content": "kenneth m. kaufman, phd, is a faculty member of the center for autoimmune genomics and etiology (cage) at ... email kenneth.kaufman@cchmc.org. hide all.", 
+        "email_list": [
+            "kenneth.kaufman@cchmc.org"
+        ], 
+        "cite_url": "www.cincinnatichildrens.or...", 
+        "cite_name": "Cincinnati Children's Hospital Medical Center", 
+        "title": "Kenneth M. Kaufman, PhD"
+    }
+]

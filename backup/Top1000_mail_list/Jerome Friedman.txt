@@ -1,3 +1,29 @@
-jhf@stanford.edu	[3]
-jif@mit.edu	[3]
-jhf@stat.stanfxxx.edu	[3]
+[
+    {
+        "content": "jerome h. friedman ... email: jhf@stanford.edu ... simon, n., friedman j. h., and hastie, t. a blockwise descent algorithm for group-penalized multiresponse...", 
+        "email_addr_list": [
+            "jhf@stanford.edu"
+        ], 
+        "cite_url": "https://statweb.stanford.edu/~jhf/", 
+        "cite_name": "", 
+        "title": "Jerome H. Friedman"
+    }, 
+    {
+        "content": "jerome h. friedman. photo of jerry friedman. professor ... stanford, ca 94305-4065. phone: 650.723.9329. fax: 650.725.8977. email: jhf@stat.stanfxxx.edu.", 
+        "email_addr_list": [
+            "jhf@stat.stanfxxx.edu"
+        ], 
+        "cite_url": "https://statistics.stanford.edu/people/jerome-h-friedman", 
+        "cite_name": "", 
+        "title": "Jerome H. Friedman | Department of Statistics"
+    }, 
+    {
+        "content": "jerome h. friedman. december 2012 ... email: jhf@stanford.edu ..... theory and pattern recognition applications (cherkassky, friedman, and wechsler, eds.).", 
+        "email_addr_list": [
+            "jhf@stanford.edu"
+        ], 
+        "cite_url": "statweb.stanford.edu/~jhf/ftp/vita.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Jerome H. Friedman - Department of Statistics - Stanford ..."
+    }
+]

@@ -1,3 +1,11 @@
-mark.boguski@genomehealthsolutions.com.mark	[24]
-mark.boguski@genomehealthsolutions.com	[24]
-mboguski@safe-mail.net	[17]
+[
+    {
+        "content": "you can contact me at mboguski@safe-mail.net  view mark s. boguskis profile on linkedin. home; | education; | employment; | publications; | presentations...", 
+        "email_addr_list": [
+            "mboguski@safe-mail.net"
+        ], 
+        "cite_url": "markboguski.net/", 
+        "cite_name": "", 
+        "title": "Mark S. Boguski"
+    }
+]

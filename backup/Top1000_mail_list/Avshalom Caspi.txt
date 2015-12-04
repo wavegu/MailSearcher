@@ -1,5 +1,38 @@
-avshalom.caspi@duke.edu	[27]
-avshalom.caspi@duke.edulove	[27]
-avshalom.caspi@kcl.ac.uk	[27]
-a.caspi@iop.kcl.ac.uk	[12]
-email at duke.edu	[2]
+[
+    {
+        "content": "po80 sgdp research centre institute of psychiatry london. united kingdom. telephone: +44 (0)20 7848 0936. e-mail: avshalom.caspi@kcl.ac.uk...", 
+        "email_addr_list": [
+            "avshalom.caspi@kcl.ac.uk"
+        ], 
+        "cite_url": "https://kclpure.kcl.ac.uk/portal/avshalom.caspi.html", 
+        "cite_name": "King's College London", 
+        "title": "Avshalom Caspi - Research Portal, Kings College, London"
+    }, 
+    {
+        "content": "cancel. avshalom caspi. duke university. verified email at duke.edu - homepage  scholar ... a caspi, k sugden, te moffitt, a taylor, iw craig, hl harrington, .", 
+        "email_addr_list": [
+            "email@duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7iOXJVoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "avshalom caspi - Google Scholar Citations"
+    }, 
+    {
+        "content": "avshalom caspi, ph.d. professor department of psychology and neuroscience duke university. contact information: email: avshalom.caspi@duke.edu", 
+        "email_addr_list": [
+            "avshalom.caspi@duke.edu"
+        ], 
+        "cite_url": "cds.web.unc.edu/.../caspi-avsh...", 
+        "cite_name": "University of North Carolina at Chapel Hill", 
+        "title": "Avshalom Caspi, Ph.D. | The Center for Developmental ..."
+    }, 
+    {
+        "content": "avshalom caspi  terrie e. moffitt about the authors. top of page ... correspondence to: avshalom caspi email: a.caspi@iop.kcl.ac.uk. correspondence to:...", 
+        "email_addr_list": [
+            "a.caspi@iop.kcl.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinionwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Gene-environment interactions in psychiatry: joining forces ...Google Business Email‎Searches related to Avshalom Caspi email"
+    }
+]

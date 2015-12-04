@@ -1,3 +1,20 @@
-nowak@harvard.edu	[12]
-email at harvard.edu	[3]
-traulsen@theo-physik.uni-kiel.de	[3]
+[
+    {
+        "content": "harvard university, program evolutionary dynamics one brattle square, suite 6. cambridge, ma 02138. tel: 617-496-4737. email: martin_nowak@harvard.edu...", 
+        "email_addr_list": [
+            "martin_nowak@harvard.edu"
+        ], 
+        "cite_url": "sysbiophd.harvard.edu/people/faculty/martin-nowak", 
+        "cite_name": "Harvard University", 
+        "title": "Martin Nowak | Systems Biology Ph.D. program - Harvard ..."
+    }, 
+    {
+        "content": "martin nowak. professor of mathematics and ... verified email at harvard.edu - homepage  scholar ... d tilman, rm may, cl lehman, ma nowak. nature 371...", 
+        "email_addr_list": [
+            "email@harvard.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Martin Nowak - Google Scholar Citations"
+    }
+]

@@ -1,2 +1,11 @@
-email at impossiblefoods.com	[4]
-jane.gitschier@ucsf.edu	[1]
+[
+    {
+        "content": "cancel. patrick o. brown. impossible foods ... verified email at impossiblefoods.com. scholar ... mb eisen, pt spellman, po brown, d botstein. proceedings of...", 
+        "email_addr_list": [
+            "email@impossiblefoods.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XSTsbJ0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Patrick O. Brown - Google Scholar Citations"
+    }
+]

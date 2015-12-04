@@ -1,4 +1,20 @@
-richard at rsellis.pain.truth	[29]
-rellis@eso.org	[13]
-email at eso.org	[4]
-rse@astro.caltech.edu	[4]
+[
+    {
+        "content": "richard s ellis. professor of ... verified email at eso.org - homepage  scholar ... s perlmutter, g aldering, m della valle, s deustua, rs ellis, s fabbro, ... nature...", 
+        "email_addr_list": [
+            "email@eso.org"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=Jde99xEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard S Ellis - Google Scholar Citations"
+    }, 
+    {
+        "content": "please email richard at rsellis.pain.truth@gmail.com if you would like to ... books by richard s. ellis ... see search results for author richard s. ellis in books...", 
+        "email_addr_list": [
+            "richard@rsellis.pain.truth"
+        ], 
+        "cite_url": "www.amazon.com/Richard-S.-Ellis/e/B001JOXS32", 
+        "cite_name": "Amazon.com, Inc.", 
+        "title": "Amazon.com: Richard S. Ellis: Books, Biography, Blog ..."
+    }
+]

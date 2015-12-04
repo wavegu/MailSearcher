@@ -1,5 +1,29 @@
-fox at cs.washington.edu	[8]
-denis@robotics.usc.edu.dieter	[2]
-email at cs.washington.edu	[2]
-denis@robotics.usc.edu	[2]
-gthuang@xconomy.com	[1]
+[
+    {
+        "content": "dieter fox. title: professor (faculty). robotics ... email: fox at cs.washington.edu. home page: http://homes.cs.washington.edu/~fox. office: cse586. research...", 
+        "email_addr_list": [
+            "fox@cs.washington.edu"
+        ], 
+        "cite_url": "https://www.cs.washington.edu/node/389", 
+        "cite_name": "University of Washington", 
+        "title": "Dieter Fox | Computer Science  Engineering"
+    }, 
+    {
+        "content": "dieter fox. professor of computer ... verified email at cs.washington.edu - homepage  scholar. get my own ... s thrun, d fox, w burgard, f dellaert. artificial...", 
+        "email_addr_list": [
+            "email@cs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DqXsbPAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Dieter Fox - Google Scholar Citations"
+    }, 
+    {
+        "content": "denis f. wolf, gaurav s. sukhatme, dieter fox and wolfram burgard. autonomous terrain mapping ... position: phd student. email: denis@robotics.usc.edu.", 
+        "email_addr_list": [
+            "denis@robotics.usc.edu"
+        ], 
+        "cite_url": "robotics.usc.edu/publications/415/", 
+        "cite_name": "", 
+        "title": "Details - USC Robotics Research Labs"
+    }
+]

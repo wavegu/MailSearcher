@@ -1,0 +1,30 @@
+[
+    {
+        "content": "create alert. cancel. xavier glorot ... verified email at google.com. scholar ... s rifai, g mesnil, p vincent, x muller, y bengio, y dauphin, x glorot. machine...", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_WnkXlkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xavier Glorot - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: antoine.bordes@utc.fr. xavier glorot. université de montréal. montéal, qc, canada. e-mail: glorotxa@iro.umontreal.ca. jason weston. google,.", 
+        "email_list": [
+            "antoine.bordes@utc.fr", 
+            "glorotxa@iro.umontreal.ca"
+        ], 
+        "cite_url": "www.thespermwhale.com/jaseweston/papers/ebrm_mlj.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A Semantic Matching Energy Function for Learning with ..."
+    }, 
+    {
+        "content": "verified email at umontreal.ca - homepage  scholar. get my own profile. google scholar .... x glorot, a bordes, y bengio. international conference on artificial...", 
+        "email_list": [
+            "email@umontreal.ca"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yoshua Bengio - Google Scholar Citations"
+    }
+]

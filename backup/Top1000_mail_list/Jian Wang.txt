@@ -1,5 +1,65 @@
-jianwang@unl.edu	[17]
-jian.wang@dal.frb.org	[17]
-wangjian@usc.edu	[17]
-jianwang@hku.hk	[17]
-wangj@mit.edu	[10]
+[
+    {
+        "content": "contact information. research department. federal reserve bank of dallas. 2200 n. pearl street. dallas tx, 75201. email: jian.wang@dal.frb.org or...", 
+        "email_addr_list": [
+            "jian.wang@dal.frb.org"
+        ], 
+        "cite_url": "https://sites.google.com/site/wangjianecon/home", 
+        "cite_name": "", 
+        "title": "Jian Wang 王健 - Google Sites"
+    }, 
+    {
+        "content": "email. wangjian@usc.edu ... jian jay wang, a scholar and consultant in the fields of strategic communication and public diplomacy, is an associate professor...", 
+        "email_addr_list": [
+            "wangjian@usc.edu"
+        ], 
+        "cite_url": "annenberg.usc.edu/.../jian-jay-wang", 
+        "cite_name": "University of Southern California", 
+        "title": "Jian (Jay) Wang | USC Annenberg School for ..."
+    }, 
+    {
+        "content": "prof. jian wang. chair professor, faps. b.sc. peking; ph.d. penn; faps. room 521, cym physics ... fax: 2559 9152. email: jianwang@hku.hk. webpage:...", 
+        "email_addr_list": [
+            "jianwang@hku.hk"
+        ], 
+        "cite_url": "www.physics.hku.hk/people/academic/319", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Prof. Jian WANG - Department of Physics, HKU - The ..."
+    }, 
+    {
+        "content": "jian wang: current contact information and listing of economic research of this author provided by repec/ideas. ... email: jian.wang@dal.frb.org. homepage...", 
+        "email_addr_list": [
+            "jian.wang@dal.frb.org"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pwa163.html", 
+        "cite_name": "", 
+        "title": "Jian Wang at IDEAS"
+    }, 
+    {
+        "content": "jian wang is a senior research economist and advisor at the federal reserve bank of dallas. he joined ... email: jian.wang@dal.frb.org; phone: 214-922-6471...", 
+        "email_addr_list": [
+            "jian.wang@dal.frb.org"
+        ], 
+        "cite_url": "www.dallasfed.org/research/.../wang.cfm", 
+        "cite_name": "Federal Reserve Bank of Dallas", 
+        "title": "Jian Wang - Economists - Dallas Fed"
+    }, 
+    {
+        "content": "jiang wang. mizuho financial group professor. e52-456. mit sloan ... ma 02142-1347. phone: (617) 253 2632. fax: (617) 258 6855. e-mail: wangj@mit.edu...", 
+        "email_addr_list": [
+            "wangj@mit.edu"
+        ], 
+        "cite_url": "web.mit.edu/wangj/www/", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Jiang Wangs Homepage - MIT"
+    }, 
+    {
+        "content": "jian wang. associate professor. jian wang. contact information: nh w342. lincoln: city campus. (402) 472-2375. jianwang@unl.edu  email. personal links:.", 
+        "email_addr_list": [
+            "jianwang@unl.edu"
+        ], 
+        "cite_url": "engineering.unl.edu/faculty/jian-wang/", 
+        "cite_name": "University of Nebraska–Lincoln", 
+        "title": "Jian Wang | College of Engineering | University of Nebraska ..."
+    }
+]

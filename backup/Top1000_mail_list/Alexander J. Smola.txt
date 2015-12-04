@@ -1,4 +1,29 @@
-amahmed at cs dot cmu dot edu	[3]
-email at google.com	[2]
-emailalex@smola.org	[2]
-alex@smola.org	[2]
+[
+    {
+        "content": "create alert. cancel. alex smola ... verified email at google.com - homepage  scholar ... b schölkopf, jc platt, j shawe-taylor, aj smola, rc williamson.", 
+        "email_addr_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Tb0ZrYwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Alex Smola - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: amahmed at cs dot cmu dot edu ... nips 2011 tutorial on , graphical models for the internet, with alexander j. smola [video]. ○ www 2011...", 
+        "email_addr_list": [
+            "amahmed@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~amahmed/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Amr Ahmed (Research at Google)"
+    }, 
+    {
+        "content": "research santa clara ca usa alex@smola.org markus weimer yahoo! ... s. caetano nicta/anu tiberio.caetano @nicta.com.au alexander j. smola yahoo!", 
+        "email_addr_list": [
+            "alex@smola.org"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-alex-smola-org-14670849.htm", 
+        "cite_name": "", 
+        "title": "alex@smola.org - The Email Archive"
+    }
+]

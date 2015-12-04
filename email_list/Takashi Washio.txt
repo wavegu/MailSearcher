@@ -1,0 +1,21 @@
+[
+    {
+        "content": "email: washio@ar.sanken.osaka-u.ac.jp. 研究内容: 大量のデータに埋めこまれた規則性や概念・知識の発見; 複雑な構造データに埋めこまれた規則性や概念・知識の...", 
+        "email_list": [
+            "washio@ar.sanken.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www.ar.sanken.osaka-u.ac.jp/~washi...", 
+        "cite_name": "Osaka University", 
+        "title": "鷲尾 隆 - 知能推論研究分野（鷲尾研）"
+    }, 
+    {
+        "content": "email: bao@jaist.ac.jp  zhi-hua zhou ... email: washio@ar.sanken.osaka-u.ac.jp ... takashi hashimoto, japan advanced institute of science and technology.", 
+        "email_list": [
+            "bao@jaist.ac.jp", 
+            "washio@ar.sanken.osaka-u.ac.jp"
+        ], 
+        "cite_url": "www.jaist.ac.jp/.../i...", 
+        "cite_name": "Japan Advanced Institute of Science and Technology", 
+        "title": "PRICAI-08 Introduction"
+    }
+]

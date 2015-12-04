@@ -1,4 +1,56 @@
-matyjaszewski@cmu.edu	[28]
-km3b@andrew.cmu.edu	[3]
-email at andrew.cmu.edu	[2]
-richard.payne@sydney.edu.au	[1]
+[
+    {
+        "content": "email: km3b@andrew.cmu.edu .... new trends in polymer sciencekrzysztof matyjaszewski, rigoberto advincula, enrique saldÃvar-guerra, gabriel...", 
+        "email_addr_list": [
+            "km3b@andrew.cmu.edu"
+        ], 
+        "cite_url": "https://www.cmu.edu/.../matyjaszewski/cv.ht...", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Krzysztof Matyjaszewski - Carnegie Mellon University"
+    }, 
+    {
+        "content": "photo of krzysztof matyjaszewski ... email: matyjaszewski@cmu.edu. phone: (412) 268-3209. fax: (412) 268- ... faculty  research. krzysztof matyjaszewski.", 
+        "email_addr_list": [
+            "matyjaszewski@cmu.edu"
+        ], 
+        "cite_url": "www.chem.cmu.edu/faculty/maty.html", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Krzysztof Matyjaszewski - Chemistry - CMU"
+    }, 
+    {
+        "content": "krzysztof matyjaszewski. carnegie mellon university ... verified email at andrew.cmu.edu - homepage  scholar ... js wang, k matyjaszewski. journal of the...", 
+        "email_addr_list": [
+            "email@andrew.cmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TSkli5EAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Krzysztof Matyjaszewski - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. matyjaszewski received the 2015 dreyfus prize in chemical sciences, 2014 ... name: dr. krzysztof matyjaszewski. email: km3b@andrew.cmu.edu. phone:.", 
+        "email_addr_list": [
+            "km3b@andrew.cmu.edu"
+        ], 
+        "cite_url": "www.mirm.pitt.edu  Faculty/Staff Bios", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Krzysztof Matyjaszewski, PhD - Regenerative Medicine at ..."
+    }, 
+    {
+        "content": "krzysztof matyjaszewski. carnegie mellon university ... (412) 268-3209; fax (412) 268-6897, email: km3b@andrew.cmu.edu. education. polish academy of...", 
+        "email_addr_list": [
+            "km3b@andrew.cmu.edu"
+        ], 
+        "cite_url": "scce.sjtu.edu.cn/.../fl_1378433644.pdf", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "[PDF]Krzysztof Matyjaszewski"
+    }, 
+    {
+        "content": "professor krzysztof matyjaszewski. (2012 raci polymer division solomon ... 2 9351 5877. facsimile: +61 2 9351 3329. email: richard.payne@sydney.edu.au...", 
+        "email_addr_list": [
+            "richard.payne@sydney.edu.au"
+        ], 
+        "cite_url": "sydney.edu.au/science/.../flyer_Matyjaszewski.pdf", 
+        "cite_name": "University of Sydney", 
+        "title": "[PDF]Professor Krzysztof Matyjaszewski Atom Transfer Radical ..."
+    }
+]

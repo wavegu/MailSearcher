@@ -1,2 +1,11 @@
-cacioppo@uchicago.edu	[17]
-email at uchicago.edu	[3]
+[
+    {
+        "content": "cancel. john cacioppo ... verified email at uchicago.edu ... bn uchino, jt cacioppo, jk kiecolt-glaser ... jt cacioppo, re petty, ja feinstein, wbg jarvis.", 
+        "email_addr_list": [
+            "email@uchicago.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xmzAolEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John Cacioppo - Google Scholar Citations"
+    }
+]

@@ -1,4 +1,38 @@
-robert.holt@nb.com	[21]
-rholt@bcgsc.ca	[10]
-rholt@qcc.cuny.edu	[10]
-rdholt@ufl.edu	[10]
+[
+    {
+        "content": "robert d. holt rdholt2. eminent scholar and. arthur r. marshall, jr., chair in ecology. contact information. email:rdholt@ufl.edu. phone: (352) 392-6917", 
+        "email_addr_list": [
+            "rdholt@ufl.edu"
+        ], 
+        "cite_url": "people.clas.ufl.e...", 
+        "cite_name": "University of Florida College of Liberal Arts and Scien...", 
+        "title": "Robert D. Holt | Department of Biology"
+    }, 
+    {
+        "content": "dr. robert j. holt professor, mathematics and computer science. picture of rholt, office: s-349. email: rholt@qcc.cuny.edu. phone: (718) 281-5458.", 
+        "email_addr_list": [
+            "rholt@qcc.cuny.edu"
+        ], 
+        "cite_url": "www.qcc.cuny.edu/.../RHolt.html", 
+        "cite_name": "Queensborough Community College", 
+        "title": "Dr. Robert J. Holt| Department of Mathematics and ..."
+    }, 
+    {
+        "content": "dr. robert holt, phd. head of sequencing ... fax, 604-675-8178. email, rholt@bcgsc.ca ... for more information about holt lab research, students and staff.", 
+        "email_addr_list": [
+            "rholt@bcgsc.ca"
+        ], 
+        "cite_url": "www.bcgsc.ca  Faculty", 
+        "cite_name": "", 
+        "title": "Dr. Robert Holt, PhD — Canadas Michael Smith Genome ..."
+    }, 
+    {
+        "content": "robert w. holt, senior vice president, joined the firm as a wealth advisor in 2008. prior to joining the firm, ... email: robert.holt@nb.com  vcard. robert w. holt...", 
+        "email_addr_list": [
+            "robert.holt@nb.com"
+        ], 
+        "cite_url": "www.nb.com/Pages/.../wealth-advisor-robert-holt.asp...", 
+        "cite_name": "Neuberger Berman", 
+        "title": "Wealth Advisor - Robert W. Holt | Neuberger Berman"
+    }
+]

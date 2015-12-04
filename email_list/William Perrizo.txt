@@ -1,0 +1,38 @@
+[
+    {
+        "content": "oct 10, 2011 - william perrizo. photograph of image ... the easiest way to reach me is by email:william dot perrizo at ndsu dot edu. research interests:.", 
+        "email_list": [
+            "perrizo@ndsu.edu"
+        ], 
+        "cite_url": "www.cs.ndsu.nodak.edu/~perrizo/", 
+        "cite_name": "", 
+        "title": "William Perrizos Home Page - NDSU Computer Science"
+    }, 
+    {
+        "content": "fargo, north dakota 58108-6050. (701) 231-7248 -8255 fax. email:william.perrizo@ndsu.edu. www.cs.ndsu.nodak.edu/~perrizo/index.html. table of contents.", 
+        "email_list": [
+            "william.perrizo@ndsu.edu"
+        ], 
+        "cite_url": "www.cs.ndsu.nodak.edu/~perrizo/vita.doc", 
+        "cite_name": "", 
+        "title": "[DOC]William Perrizo - NDSU Computer Science"
+    }, 
+    {
+        "content": "sep 22, 2015 - (701) 231-7248. william.perrizo@ndsu.edu. research interests: data mining; distributed database systems; centralized database systems;...", 
+        "email_list": [
+            "william.perrizo@ndsu.edu"
+        ], 
+        "cite_url": "https://www.ndsu.edu/.../faculty_and_staff/", 
+        "cite_name": "North Dakota State University", 
+        "title": "Faculty and Staff - NDSU Computer Science (NDSU)"
+    }, 
+    {
+        "content": "e-mail: william.perrizo@ndsu.edu. qin ding*. department of computer science,. pennsylvania state university at harrisburg,. middletown, pa 17057, usa.", 
+        "email_list": [
+            "william.perrizo@ndsu.edu"
+        ], 
+        "cite_url": "staff.vbi.vt.edu/maleq/papers/IJBIDM.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]An efficient weighted nearest neighbour classifier using ..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "aug 18, 2015 - bâtiment : 5 r+1 centrale nord. bureau : 02/243. téléphone : 04 67 14 97 27. fax : 04 67 14 97 85. email : esther.pacitti@lirmm.fr.", 
+        "email_list": [
+            "esther.pacitti@lirmm.fr"
+        ], 
+        "cite_url": "https://www.lirmm.fr/users/utilisateurs.../esther-pacitti", 
+        "cite_name": "", 
+        "title": "Esther Pacitti / Utilisateurs LIRMM / Users - LIRMM"
+    }, 
+    {
+        "content": "to find out more about this, please call esther pacitti at suffolk family carers on 01473 835410 or email esther.pacitti@suffolkfamilycarers.orgthis email...", 
+        "email_list": [
+            "esther.pacitti@suffolkfamilycarers.orgthis"
+        ], 
+        "cite_url": "www.suffolkfamilycarers.org/index.php/howwecanhelp/.../help-for-you", 
+        "cite_name": "", 
+        "title": "Help for you"
+    }
+]

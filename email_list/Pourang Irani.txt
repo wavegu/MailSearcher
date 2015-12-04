@@ -1,0 +1,57 @@
+[
+    {
+        "content": "pourang irani. faculty member. office: e2-580 eitc ii phone: +1 (204) 474-8995. fax: +1 (204) 474-7609. email: irani [at] cs.umanitoba.ca. external website ↗...", 
+        "email_list": [
+            "irani@cs.umanitoba.ca"
+        ], 
+        "cite_url": "hci.cs.umanitoba.ca/people/bio/pourang-irani", 
+        "cite_name": "", 
+        "title": "Pourang Irani | HCI Lab | University of Manitoba"
+    }, 
+    {
+        "content": "pourang irani. computer science ... verified email at cs.umanitoba.ca. scholar. get my own ... s gustafson, p baudisch, c gutwin, p irani. proceedings of the...", 
+        "email_list": [
+            "email@cs.umanitoba.ca"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=lPYUHkIAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Pourang Irani - Google Scholar Citations"
+    }, 
+    {
+        "content": "faculty of computer science. home  faculty of computer science; pourang irani. pourang irani, adjunct professor email: irani@cs.umanitoba.ca...", 
+        "email_list": [
+            "irani@cs.umanitoba.ca"
+        ], 
+        "cite_url": "www.cs.unb.ca/people?id=irani", 
+        "cite_name": "University of New Brunswick", 
+        "title": "Faculty of Computer Science | Pourang Irani | UNB"
+    }, 
+    {
+        "content": "pourang irani: publications, bio, bibliography, etc. ... personal homepage: http://www.cs.umanitoba.ca/~irani/; employer: (); email: rani@cs.umanitoba.ca...", 
+        "email_list": [
+            "rani@cs.umanitoba.ca"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/pourang-irani", 
+        "cite_name": "", 
+        "title": "Pourang Irani: Publications, bio, bibliography, etc ..."
+    }, 
+    {
+        "content": "winnipeg mb canada irani@cs.umanitoba.ca 3 cornell university ... saskatoon canada jec394@mail.usask.ca abstract pourang irani computer science...", 
+        "email_list": [
+            "irani@cs.umanitoba.ca", 
+            "jec394@mail.usask.ca"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-irani-cs-uma-14453034.htm", 
+        "cite_name": "", 
+        "title": "irani@cs.uma - The Email Archive"
+    }, 
+    {
+        "content": "associate professor pourang irani. email: pourang.irani [at] aau.at. zur campus-portal visitenkarte. quicklinks. stellenausschreibungen  mitteilungsblatt...", 
+        "email_list": [
+            "pourang.irani@aau.at"
+        ], 
+        "cite_url": "https://www.aau.at/team/irani-pourang/?lang=de", 
+        "cite_name": "", 
+        "title": "Alpen-Adria-Universität Klagenfurt | Irani Pourang"
+    }
+]

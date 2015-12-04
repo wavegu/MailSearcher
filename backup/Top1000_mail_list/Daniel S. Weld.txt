@@ -1,2 +1,20 @@
-weld@cs.washington.edu	[10]
-email at cs.washington.edu	[7]
+[
+    {
+        "content": "cancel. daniel weld ... verified email at cs.washington.edu - homepage  scholar ... o etzioni, m cafarella, d downey, am popescu, t shaked, s soderland, .", 
+        "email_addr_list": [
+            "email@cs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=IUZgJogAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Daniel Weld - Google Scholar Citations"
+    }, 
+    {
+        "content": "daniel s. weld: publications, bio, bibliography, etc. ... employer: university of washington (http://www.cs.washington.edu/); email: weld@cs.washington.edu...", 
+        "email_addr_list": [
+            "weld@cs.washington.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/daniel-s-weld", 
+        "cite_name": "", 
+        "title": "Daniel S. Weld: Publications, bio, bibliography, etc ..."
+    }
+]

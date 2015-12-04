@@ -1,6 +1,29 @@
-hengli@broadinstitute.org	[13]
-cai.heng.li@uwa.edu.au	[13]
-cai.heng.li@uwa.edu	[13]
-cai.heng.li@uwa.edu.professor	[13]
-bshengli@polyu.edu.hk	[13]
-email at broadinstitute.org	[2]
+[
+    {
+        "content": "verified email at broadinstitute.org. scholar. get my own profile ... h li, b handsaker, a wysoker, t fennell, j ruan, n homer, g marth, ... bioinformatics 25 (16)...", 
+        "email_addr_list": [
+            "email@broadinstitute.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HQv0p0kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Heng Li - Google Scholar Citations"
+    }, 
+    {
+        "content": "professor mathematics of symmetry and computation, centre for the. phone +61 8 6488 1360. fax +61 8 6488 1028. mbdp m019 email cai.heng.li@uwa.edu.", 
+        "email_addr_list": [
+            "cai.heng.li@uwa.edu"
+        ], 
+        "cite_url": "www.uwa.edu.au/people/cai%20heng.li", 
+        "cite_name": "University of Western Australia", 
+        "title": "Professor Cai-Heng Li - Directory Search Results : Contact ..."
+    }, 
+    {
+        "content": "heng then researched and lectured at the university of sydney, james cook university and ... e-mail address : bshengli@polyu.edu.hk ... chen z and li, h. (2006) environmental management in construction, a quantitative approach.", 
+        "email_addr_list": [
+            "bshengli@polyu.edu.hk"
+        ], 
+        "cite_url": "www.bre.polyu.edu.hk/staff/bshengli/", 
+        "cite_name": "", 
+        "title": "Staff Web Profile"
+    }
+]

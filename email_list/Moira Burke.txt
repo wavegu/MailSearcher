@@ -1,0 +1,20 @@
+[
+    {
+        "content": "moira burke. data scientist ... verified email at fb.com - homepage  scholar ... re kraut, p resnick, s kiesler, m burke, y chen, n kittur, j konstan, ... mit press...", 
+        "email_list": [
+            "email@fb.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=m1wGy3gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Moira Burke - Google Scholar Citations"
+    }, 
+    {
+        "content": "moira burke is a highly motivated and enthusiastic consultant with extensive ... biokinetic europe ltd. more recently, moira has worked with a number of ... ulster business school enquiries: 028 9036 6351 • email: business@ulster.ac.uk...", 
+        "email_list": [
+            "business@ulster.ac.uk"
+        ], 
+        "cite_url": "www.business.ulster.ac.uk/sme/boardprofile.php?id=34", 
+        "cite_name": "", 
+        "title": "Centre for SME Development"
+    }
+]

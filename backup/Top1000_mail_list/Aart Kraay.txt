@@ -1,2 +1,29 @@
-akraay@worldbank.org	[12]
-email at worldbank.org	[3]
+[
+    {
+        "content": "aart kraay: current contact information and listing of economic research of this author provided by repec/ideas. ... email: akraay@worldbank.org. homepage...", 
+        "email_addr_list": [
+            "akraay@worldbank.org"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pkr80.html", 
+        "cite_name": "", 
+        "title": "Aart Kraay at IDEAS"
+    }, 
+    {
+        "content": "cancel. aart kraay. the world bank, development research group. verified email at worldbank.org - homepage  scholar ... d kaufmann, a kraay, m mastruzzi.", 
+        "email_addr_list": [
+            "email@worldbank.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fcQenm4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Aart Kraay - Google Scholar Citations"
+    }, 
+    {
+        "content": "daniel kaufmann, aart kraay and massimo mastruzzi. abrookings institution ... correspondence: aart kraay, e-mail: akraay@worldbank.org. top of page...", 
+        "email_addr_list": [
+            "akraay@worldbank.org"
+        ], 
+        "cite_url": "www.palgrave-journals.com  Journal home  Archive  Original Articles", 
+        "cite_name": "", 
+        "title": "Response to What do the Worldwide Governance Indicators ..."
+    }
+]

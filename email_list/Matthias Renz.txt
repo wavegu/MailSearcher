@@ -1,0 +1,20 @@
+[
+    {
+        "content": "matthias renz. computer science ... verified email at dbs.ifi.lmu.de. scholar ... e achtert, c böhm, p kröger, p kunath, a pryakhin, m renz. proceedings of the...", 
+        "email_list": [
+            "email@dbs.ifi.lmu.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=47gh3JkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Matthias Renz - Google Scholar Citations"
+    }, 
+    {
+        "content": "oettingenstraße 67 80538 münchen. phone: +49(0)89 2180-9331. fax: +49(0)89 2180-9192. email: renz@dbs.ifi.lmu.de. website: dr. matthias renz...", 
+        "email_list": [
+            "renz@dbs.ifi.lmu.de"
+        ], 
+        "cite_url": "www.en.archaeobiocenter.uni-muenchen.de/.../renz/in...", 
+        "cite_name": "", 
+        "title": "Dr. Matthias Renz - Archaeobiocenter - LMU Munich"
+    }
+]

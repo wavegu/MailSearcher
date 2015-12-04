@@ -1,5 +1,22 @@
-nick.martin@qimrberghofer.edu.au	[14]
-nick.martin@qimr.edu.au	[14]
-grant.montgomery@qimrberghofer.edu.au	[4]
-university at buffalowww.buffalo.edu	[2]
-murphy@ed.ac.uk	[2]
+[
+    {
+        "content": "fax: +61 7 3362 0101. email: nick.martin@qimr.edu.au. image - nickmartin1 ... professor martin currently heads the genetic epidemiology laboratory at the...", 
+        "email_addr_list": [
+            "nick.martin@qimr.edu.au"
+        ], 
+        "cite_url": "https://cresp.edu.au/people/professor-nicholas-martin", 
+        "cite_name": "", 
+        "title": "Professor Nicholas Martin | People | CRE"
+    }, 
+    {
+        "content": "murphy@ed.ac.uk. nicholas g martin. 9. email: nick.martin@qimrberghofer.edu.au. grant w montgomery. 9. email: grant.montgomery@qimrberghofer.edu.au...", 
+        "email_addr_list": [
+            "murphy@ed.ac.uk", 
+            "nick.martin@qimrberghofer.edu.au", 
+            "grant.montgomery@qimrberghofer.edu.au"
+        ], 
+        "cite_url": "www.bu.edu/.../Marioni_Genome-Bio_2015_DNA-me...www.google.com/email", 
+        "cite_name": "Boston University", 
+        "title": "[PDF]Riccardo E Marioni, Sonia Shah, Allan F McRae, et al. DNA ...Google Business Email‎"
+    }
+]

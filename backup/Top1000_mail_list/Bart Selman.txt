@@ -1,8 +1,61 @@
-selman@cs.cornell.edu	[13]
-emailselman@cs.cor	[13]
-shirk@cs.cornell.edu	[2]
-ermon at cs.stanford.edu	[2]
-av443@cornell.edu	[1]
-djf244@cornell.edu	[1]
-mwitlox@cs.cornell.edu	[1]
-vdk23@cornell.edu	[1]
+[
+    {
+        "content": "bart selman picture. dept. of computer science 4148 upson hall ... selman@cs.cornell.edu  http://www.cs.cornell.edu/selman. bart selman professor.", 
+        "email_addr_list": [
+            "selman@cs.cornell.edu"
+        ], 
+        "cite_url": "www.cs.cornell.edu/selman/", 
+        "cite_name": "Cornell University", 
+        "title": "Bart Selmans Home Page - Cornell University"
+    }, 
+    {
+        "content": "bart selman. selman@cs.cornell.edu telelphone 607 255 5643. see here for exciting ... please email me if you have any questions.) a recent overview talk.", 
+        "email_addr_list": [
+            "selman@cs.cornell.edu"
+        ], 
+        "cite_url": "www.cs.cornell.edu/home/selman/", 
+        "cite_name": "Cornell University", 
+        "title": "Bart Selman - Computer Science"
+    }, 
+    {
+        "content": "phone: 650 498 9942. email: ermon at cs.stanford.edu ... yexiang xue, stefano ermon, carla gomes, bart selman uncovering hidden structure through...", 
+        "email_addr_list": [
+            "ermon@cs.stanford.edu"
+        ], 
+        "cite_url": "cs.stanford.edu/~ermon/", 
+        "cite_name": "", 
+        "title": "Stefano Ermon - Stanford University"
+    }, 
+    {
+        "content": "bart selman office : upson hall phone : 255 5643 email : selman@cs.cornell.edu administrative assistant : stacey shirk ( shirk@cs.cornell.edu ) web site: see...", 
+        "email_addr_list": [
+            "selman@cs.cornell.edu", 
+            "shirk@cs.cornell.edu"
+        ], 
+        "cite_url": "www.coursehero.com  Cornell  CS  CS 2800", 
+        "cite_name": "Course Hero", 
+        "title": "Bart Selman CS2800 1 - Course Hero"
+    }, 
+    {
+        "content": "bart selman office : upson hall phone : 255 5643 email : selman@cs.cornell.edu administrative assistant : maria witlox ( mwitlox@cs.cornell.edu ) web site:...", 
+        "email_addr_list": [
+            "selman@cs.cornell.edu", 
+            "mwitlox@cs.cornell.edu"
+        ], 
+        "cite_url": "www.coursehero.com  Cornell  CS  CS 2800", 
+        "cite_name": "Course Hero", 
+        "title": "CS2800-intro_v.3 - Bart Selman CS2800 1 CS 2800 ..."
+    }, 
+    {
+        "content": "bart selman selman@cs.cornell.edu ph.d. tas: dylan foster djf244@cornell.edu vasily kuksenkov vdk23@cornell.edu andreas veit av443@cornell.edu meng...", 
+        "email_addr_list": [
+            "selman@cs.cornell.edu", 
+            "djf244@cornell.edu", 
+            "vdk23@cornell.edu", 
+            "av443@cornell.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-selman-cs-cor-4938022.htmwww.google.com/email", 
+        "cite_name": "", 
+        "title": "selman@cs.cor - The Email ArchiveGoogle Business Email - Custom email for your company‎"
+    }
+]

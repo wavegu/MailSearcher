@@ -1,2 +1,20 @@
-gene.tsudik at uci.edu	[21]
-email at ics.uci.edu	[2]
+[
+    {
+        "content": "email. gts [at] ics.uci.edu. phone. +1 (949)824-3410. fax. +1 (949)824-4056. mail. computer science dept. bren hall, 3rd floor irvine ca 92697-3435.", 
+        "email_addr_list": [
+            "gts@ics.uci.edu"
+        ], 
+        "cite_url": "www.ics.uci.edu...", 
+        "cite_name": "Donald Bren School of Information and Computer Sci...", 
+        "title": "Gene Tsudiks Info Page"
+    }, 
+    {
+        "content": "gene tsudik. peter and lois griffin ... verified email at ics.uci.edu. scholar. get my own ... d chess, b grosof, c harrison, d levine, c parris, g tsudik. personal...", 
+        "email_addr_list": [
+            "email@ics.uci.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WLvuu74AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Gene Tsudik - Google Scholar Citations"
+    }
+]

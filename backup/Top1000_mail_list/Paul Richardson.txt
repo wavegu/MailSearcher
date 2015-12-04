@@ -1,3 +1,29 @@
-paul.richardson-3@manchester.ac.uk	[29]
-p.richardson@shu.ac.uk	[22]
-richardson@dfci.harvard.edu	[21]
+[
+    {
+        "content": "paul g. richardson, md, find a cancer doctor with dana farbers physician directory. read how to ... email: paul_richardson@dfci.harvard.edu. preferred...", 
+        "email_addr_list": [
+            "paul_richardson@dfci.harvard.edu"
+        ], 
+        "cite_url": "doctors.dana-farber.org/.../profile.asp?pict...", 
+        "cite_name": "Dana–Farber Cancer Institute", 
+        "title": "Paul G. Richardson, MD - Dana-Farber Cancer Institute"
+    }, 
+    {
+        "content": "psychology research group staff. dr paul richardson. bsc, msc, phd, pgcert. phone 0114 225 5364. email p.richardson@shu.ac.uk. my predominant areas of...", 
+        "email_addr_list": [
+            "p.richardson@shu.ac.uk"
+        ], 
+        "cite_url": "https://www.shu.ac.uk/.../sp-paul-richardson....", 
+        "cite_name": "Sheffield Hallam University", 
+        "title": "Dr Paul Richardson - Sheffield Hallam University"
+    }, 
+    {
+        "content": "dr paul richardson - personal details. select a page. personal details ... early career fellowship. email: paul.richardson-3@manchester.ac.uk. websites.", 
+        "email_addr_list": [
+            "paul.richardson-3@manchester.ac.uk"
+        ], 
+        "cite_url": "www.manchester.ac.uk/.../paul.richardson.../per...", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr Paul Richardson research profile - personal details | The ..."
+    }
+]

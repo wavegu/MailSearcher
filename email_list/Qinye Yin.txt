@@ -1,0 +1,30 @@
+[
+    {
+        "content": "ke deng, qinye yin, yan zhang, huiming wang. institute of information ... e-mail: anthony.deng@gmail.com, qyyin@mail.xjtu.edu.cn. abstract. a novel bind...", 
+        "email_list": [
+            "anthony.deng@gmail.com", 
+            "qyyin@mail.xjtu.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "BLIND CLOSED FORM PARAMETERS ESTIMATION FOR ..."
+    }, 
+    {
+        "content": "xian, 710049, china. email: yjmeng@mail.xjtu.edu.cn. qinye yin. school of electronics and. information engineering. xian jiaotong university. xian, 710049...", 
+        "email_list": [
+            "yjmeng@mail.xjtu.edu.cn"
+        ], 
+        "cite_url": "www.yjmeng.org/download/freqoffset.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]download pdf - Meng Yujis Home Page"
+    }, 
+    {
+        "content": "email: xfeng at mit.edu ... ang feng, qinye yin, and xue feng, multiple-input multiple-output overlap-save frequency-domain decision-feedback equalization...", 
+        "email_list": [
+            "xfeng@mit.edu"
+        ], 
+        "cite_url": "people.csail.mit.edu/xfeng/", 
+        "cite_name": "", 
+        "title": "Xue Feng - MIT - People.csail.mit.edu"
+    }
+]

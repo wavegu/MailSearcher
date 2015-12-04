@@ -1,0 +1,20 @@
+[
+    {
+        "content": "results 1 - 10 of 20 - patrick m. dowd. associate. 425 lexington avenue. new york, ny 10017. email: pdowd@stblaw.com. phone: (212) 455-2073. fax: (212)...", 
+        "email_list": [
+            "pdowd@stblaw.com"
+        ], 
+        "cite_url": "www.stblaw.com/our-team/.../patrick-m-dow...", 
+        "cite_name": "Simpson Thacher  Bartlett", 
+        "title": "Patrick M. Dowd - Simpson Thacher  Bartlett LLP"
+    }, 
+    {
+        "content": "sep 14, 2015 - patrick dowd ... now head of childrens advocacy group allies for children, patrick dowd ... allies4children@gmail.com; (412) 255-2140 direct.", 
+        "email_list": [
+            "allies4children@gmail.com"
+        ], 
+        "cite_url": "remakelearning.org/person/dowd-patrick/", 
+        "cite_name": "", 
+        "title": "Patrick Dowd – Remake Learning"
+    }
+]

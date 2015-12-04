@@ -1,4 +1,38 @@
-yaghi@berkeley.edu	[11]
-yaghi@chem.ucla.edu	[11]
-yaghi@berkeley.missing	[11]
-email at berkeley.edu	[3]
+[
+    {
+        "content": "email: yaghi@berkeley.edu (link sends e-mail) ... omar m. yaghi received his b.s. degree from state university of new york-albany (1985), and ph.d. from the...", 
+        "email_addr_list": [
+            "yaghi@berkeley.edu"
+        ], 
+        "cite_url": "chemistry.berkeley.edu  ...  Faculty", 
+        "cite_name": "UC Berkeley College of Chemistry", 
+        "title": "Omar Yaghi | College of Chemistry"
+    }, 
+    {
+        "content": "omar m. yaghi department of .... a partial list of ongoing projects in the yaghi research group is provided here. design and .... email: yaghi@chem.ucla.edu...", 
+        "email_addr_list": [
+            "yaghi@chem.ucla.edu"
+        ], 
+        "cite_url": "www.chem.ucla.edu/.../yaghi.html", 
+        "cite_name": "University of California, Los Angeles", 
+        "title": "Omar Yaghi Summary"
+    }, 
+    {
+        "content": "omar m yaghi. send to a friend email ... email: yaghi@chem.ucla.edu ... oh my goodness, prof yaghi is funny but not the best professor. i think im one of the...", 
+        "email_addr_list": [
+            "yaghi@chem.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Chemistry and Biochemistry", 
+        "cite_name": "", 
+        "title": "BruinWalk : Omar M Yaghi"
+    }, 
+    {
+        "content": "cancel. omar yaghi. unknown affiliation. verified email at berkeley.edu ... om yaghi, m okeeffe, nw ockwig, hk chae, m eddaoudi, j kim. nature 423 (6941)...", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Sczy43gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Omar Yaghi - Google Scholar Citations"
+    }
+]

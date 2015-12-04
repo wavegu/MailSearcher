@@ -1,4 +1,38 @@
-fischl@csail.mit.edu	[13]
-fischl@cns.bu.edu	[13]
-dboas@nmr.mgh.harvard.edu	[2]
-email at nmr.mgh.harvard.edu	[1]
+[
+    {
+        "content": "bruce fischl. b.a., mathematics, wesleyan university, middletown ct ph.d., cognitive and neural systems, ... i can be reached via email at: fischl@cns.bu.edu...", 
+        "email_addr_list": [
+            "fischl@cns.bu.edu"
+        ], 
+        "cite_url": "cns-alumni.bu.edu/~fischl/fischl.html", 
+        "cite_name": "", 
+        "title": "Bruce Fischl - Department of Cognitive and Neural Systems"
+    }, 
+    {
+        "content": "cancel. bruce fischl or b fischl ... verified email at nmr.mgh.harvard.edu. scholar ... b fischl, dh salat, e busa, m albert, m dieterich, c haselgrove, ... neuron...", 
+        "email_addr_list": [
+            "email@nmr.mgh.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=t7mytXkAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bruce Fischl or B Fischl - Google Scholar Citations"
+    }, 
+    {
+        "content": "optical imaging: david boas, ph.d. phone: (617) 724-0130. fax: (617) 726-7422. email: dboas@nmr.mgh.harvard.edu. computational core: bruce fischl, ph.d.", 
+        "email_addr_list": [
+            "dboas@nmr.mgh.harvard.edu"
+        ], 
+        "cite_url": "www.partners.org/researchcores/.../MRI_MGH.asp", 
+        "cite_name": "Partners HealthCare", 
+        "title": "Partners Research Cores| Magnetic Resonance Imaging Core"
+    }, 
+    {
+        "content": "[ login to edit profile ]; position: research affiliate; office: phone: +1 (617) 253-8753; email: fischl@csail.mit.edu; areas of study: vision  graphics; last update:...", 
+        "email_addr_list": [
+            "fischl@csail.mit.edu"
+        ], 
+        "cite_url": "www.csail.mit.e...", 
+        "cite_name": "MIT Computer Science and Artificial Intelligence Labo...", 
+        "title": "Bruce Fischl | MIT CSAIL"
+    }
+]

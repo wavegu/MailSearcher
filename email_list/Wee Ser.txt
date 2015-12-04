@@ -1,0 +1,66 @@
+[
+    {
+        "content": "email address: wsgodental@gmail.com. services and specialty areas. oral  maxillofacial surgery. languages. english...", 
+        "email_list": [
+            "wsgodental@gmail.com"
+        ], 
+        "cite_url": "novenaspecialistcenter.com/specialists/dr-go-wee-ser/", 
+        "cite_name": "", 
+        "title": "Novena Specialist Center - Specialists - Dr Go Wee Ser"
+    }, 
+    {
+        "content": "home  about us  email addresses ... school staff developer. mdm wee pat ghee. wee_pat_ghee@moe.edu.sg .... mrs stephanie ser (ft) mdm chin poh lin...", 
+        "email_list": [
+            "wee_pat_ghee@moe.edu.sg"
+        ], 
+        "cite_url": "www.eliasparkpri.moe.edu.sg/about-us/email-addresses", 
+        "cite_name": "", 
+        "title": "Email Addresses - Elias Park Primary School"
+    }, 
+    {
+        "content": "dr. wee ser. associate professor. school of electrical and electronic engineering ... email: ewser@ntu.edu.sg. valens web site: www.valens.eee.ntu.edu.sg/.", 
+        "email_list": [
+            "ewser@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/home/ewser/", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Home Page of Ser Wee - Nanyang Technological University"
+    }, 
+    {
+        "content": "email: ewser@ntu.edu.sg. ser wee received his b.sc (hons) and ph.d, both in electrical and electronic engineering, from the loughborough university, uk,...", 
+        "email_list": [
+            "ewser@ntu.edu.sg"
+        ], 
+        "cite_url": "www3.ntu.edu.sg/.../sensor_array_det...", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Team Members | Sensor Array | TL@NTU"
+    }, 
+    {
+        "content": "aug 3, 2015 - post, name, did, email. deputy managing .... did, email. deputy director / head, ms lydia wee lynn, 62299806, lydia_wee@mas.gov.sg ... did, email. dd  head, mr lee ser-jin, 62299815, lee_ser-jin@mas.gov.sg...", 
+        "email_list": [
+            "lydia_wee@mas.gov.sg", 
+            "lee_ser-jin@mas.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "email address : supcourt_qsm@supcourt.gov.sg ... ps, ms tan ser kim, 63324056 ... sr asst registrar, christopher tan pheng wee, 63324057...", 
+        "email_list": [
+            "supcourt_qsm@supcourt.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing.asp?...", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Judiciary, Supreme Court - Gov.sg - Singapore Government ..."
+    }, 
+    {
+        "content": "telephone:65-68380922; fax:65-67322015; e-mail: wsgodental@gmail.com. our branch. ws go specialist dental 8 sinaran drive #05-16 novena specialist...", 
+        "email_list": [
+            "wsgodental@gmail.com"
+        ], 
+        "cite_url": "www.specialistdental.com.sg/contacts/", 
+        "cite_name": "", 
+        "title": "Contacts | W.S. Go  Associates Dental Surgeons"
+    }
+]

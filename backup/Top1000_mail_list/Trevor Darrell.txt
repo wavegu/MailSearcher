@@ -1,4 +1,29 @@
-trevor.darrell@airwork.co.nz	[27]
-trevor@eecs.berkeley	[13]
-trevor@eecs.berkeley.trevor	[13]
-email at eecs.berkeley.edu	[3]
+[
+    {
+        "content": "trevor darrell. california path faculty director. 748 sutardja dai hall. uc berkeley. berkeley, ca 94720. united states. email address: trevor@eecs.berkeley.", 
+        "email_addr_list": [
+            "trevor@eecs.berkeley"
+        ], 
+        "cite_url": "www.path.berkeley.edu/.../trevor-darre...", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Trevor Darrell | California PATH"
+    }, 
+    {
+        "content": "trevor darrell. professor of computer science, ... verified email at eecs.berkeley.edu - homepage  scholar ... cr wren, a azarbayejani, t darrell, ap pentland.", 
+        "email_addr_list": [
+            "email@eecs.berkeley.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=bh...", 
+        "cite_name": "Google Scholar", 
+        "title": "Trevor Darrell - Google Scholar Citations"
+    }, 
+    {
+        "content": "mobile email trevor.darrell@airwork.co.nz. trevor joined airwork in june 2002 following his move here from zimbabwe. he served an apprenticeship in avionics...", 
+        "email_addr_list": [
+            "trevor.darrell@airwork.co.nz"
+        ], 
+        "cite_url": "www.airwork.co.nz/net/team/member-details.aspx?memberId=34", 
+        "cite_name": "", 
+        "title": "Airwork (NZ) Ltd - Team Member"
+    }
+]

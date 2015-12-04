@@ -1,3 +1,20 @@
-mbeisen@lbl.gov	[13]
-email at berkeley.edu	[4]
-philip.bourne@nih.gov	[3]
+[
+    {
+        "content": "michael b. eisen. email address: mbeisen@lbl.gov. job title: howard hughes investigator and ... mailing address: eisen lab university of california, berkeley", 
+        "email_addr_list": [
+            "mbeisen@lbl.gov"
+        ], 
+        "cite_url": "https://mcb.berkeley.edu/.../detail/2435", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "Full Directory Information - Directory Detail | Department of ..."
+    }, 
+    {
+        "content": "cancel. michael b. eisen ... verified email at berkeley.edu - homepage ... distinct types of diffuse large b-cell lymphoma identified by gene expression profiling.", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=z2foFg4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael B. Eisen - Google Scholar Citations"
+    }
+]

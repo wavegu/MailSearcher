@@ -1,5 +1,30 @@
-zhenya.ding@ttu.edu	[13]
-zhenya.ding@ttu.edu.zhenya	[13]
-zhang.zhenya.fu@u.tsukuba.ac.jp	[13]
-caroline.c.ahrens@ttu.edu	[5]
-office@artbv-salzburg.at	[1]
+[
+    {
+        "content": "email, zhang.zhenya.fu@u.tsukuba.ac.jp ... zhenya zhang, taisheng quan, yansheng zhang, pomin li, norio sugiura, takaaki maekawa: study on methane...", 
+        "email_addr_list": [
+            "zhang.zhenya.fu@u.tsukuba.ac.jp"
+        ], 
+        "cite_url": "www2.envr.tsukuba.ac.jp/eng/faculty.../fr-view?id...", 
+        "cite_name": "University of Tsukuba", 
+        "title": "ZHANG Zhen Ya - Masters Program in environmental ..."
+    }, 
+    {
+        "content": "wei li assistant professor department of chemical engineering texas tech university ... email: caroline.c.ahrens@ttu.edu. ph.d. ... email: zhenya.ding@ttu.edu.", 
+        "email_addr_list": [
+            "caroline.c.ahrens@ttu.edu", 
+            "zhenya.ding@ttu.edu"
+        ], 
+        "cite_url": "www.depts.ttu.edu/che/groups/ligroup/people.html", 
+        "cite_name": "Texas Tech University", 
+        "title": "Li Group - Texas Tech University Departments"
+    }, 
+    {
+        "content": "zhenya li, akademie der bildenden künste münchen, klasse bruch, ... email: office@artbv-salzburg.at ... cult magazin - interview mit zhenya li koi", 
+        "email_addr_list": [
+            "office@artbv-salzburg.at"
+        ], 
+        "cite_url": "www.flachware.de/zhenya-li/", 
+        "cite_name": "", 
+        "title": "Flachware.de :: Zhenya Li - Akademie der Bildenden Künste ..."
+    }
+]

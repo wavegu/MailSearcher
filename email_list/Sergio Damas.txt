@@ -1,0 +1,48 @@
+[
+    {
+        "content": "create alert. cancel. sergio damas ... verified email at softcomputing.es - homepage  scholar ... j santamaría, o cordón, s damas, jm garcía-torres, a quirin.", 
+        "email_list": [
+            "email@softcomputing.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4hbbNREAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sergio Damas - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: sergio.damas@softcomputing.es. sergio damas es licenciado y doctor en informática por la universidad de granada (españa), donde ha sido profesor...", 
+        "email_list": [
+            "sergio.damas@softcomputing.es"
+        ], 
+        "cite_url": "www.softcomputing.es/sergiodamas/", 
+        "cite_name": "", 
+        "title": "Sergio Damas - European Centre for Soft Computing"
+    }, 
+    {
+        "content": "(organisers: su nguyen, email: su.nguyen@ecs.vuw.ac.nz, mengjie zhang, ... (organisers: sergio damas, email: sergio.damas@softcomputing.es, manuel...", 
+        "email_list": [
+            "su.nguyen@ecs.vuw.ac.nz", 
+            "sergio.damas@softcomputing.es"
+        ], 
+        "cite_url": "ieee-ssci.org.za:8080/CIPLS", 
+        "cite_name": "", 
+        "title": "CIPLS - IEEE SSCI 2015"
+    }, 
+    {
+        "content": "... francisco chiclana parrilla; sergio damas arroyo; joaquín derrac rus; alberto ... e-mail: herrera@decsai.ugr.es; tel: +34 958 240598; fax: +34 958 243317...", 
+        "email_list": [
+            "herrera@decsai.ugr.es"
+        ], 
+        "cite_url": "sci2s.ugr.es/members", 
+        "cite_name": "University of Granada", 
+        "title": "Members | Soft Computing and Intelligent Information Systems"
+    }, 
+    {
+        "content": "sergio damas european centre for soft computing, mieres, spain email : sergio.damas@softcomputing.es. url: http://www.softcomputing.es. angel sánchez", 
+        "email_list": [
+            "sergio.damas@softcomputing.es"
+        ], 
+        "cite_url": "www.mirlabs.net/socpar10/callforworkshop.html", 
+        "cite_name": "", 
+        "title": "Call for Workshop"
+    }
+]

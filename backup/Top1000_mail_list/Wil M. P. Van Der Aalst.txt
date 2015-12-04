@@ -1,2 +1,20 @@
-w.m.p.v.d.aalst at tue.nl	[22]
-email at tue.nl	[3]
+[
+    {
+        "content": "verified email at tue.nl - homepage  scholar. get my own profile ... wmp van der aalst, ahm ter hofstede, b kiepuszewski, ap barros. distributed and parallel...", 
+        "email_addr_list": [
+            "email@tue.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=aSZYyxIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Wil van der Aalst - Google Scholar Citations"
+    }, 
+    {
+        "content": "wil mp van der aalst ... email. w.m.p.v.d.aalst at tue.nl ... prof wil van der aalst is an original and ongoing contributor. he is a full professor at the university of...", 
+        "email_addr_list": [
+            "w.m.p.v.d.aalst@tue.nl"
+        ], 
+        "cite_url": "www.workflowpatterns.com/contacts/", 
+        "cite_name": "", 
+        "title": "Workflow Patterns | Contacts"
+    }
+]

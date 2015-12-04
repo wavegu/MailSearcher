@@ -1,3 +1,20 @@
-copeland@ncifcrf.gov.synergy	[18]
-copeland@ncifcrf.gov	[18]
-eirikurs@hi.is	[1]
+[
+    {
+        "content": "contribution of neal g. copeland and. nancy a. jenkins. ... neal and nancy met in 1977 as post- docs at the dana .... e-mail: eirikurs@hi.is doi: 10.1111/pcmr.", 
+        "email_addr_list": [
+            "eirikurs@hi.is"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1111/pcmr.12042/pdf", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Neal G. Copeland and Nancy A. Jenkins - Wiley Online Library"
+    }, 
+    {
+        "content": "neal g. copeland, nancy a. jenkins  donald l. court about the authors. top of page ... correspondence to: neal g. copeland email: copeland@ncifcrf.gov.", 
+        "email_addr_list": [
+            "copeland@ncifcrf.gov"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Recombineering: a powerful new tool for mouse functional ..."
+    }
+]

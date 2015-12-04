@@ -1,5 +1,30 @@
-masmith@u.washington.edu	[13]
-mas216@nyu.edu	[4]
-work at m.i.t	[3]
-polisci@uw.edu.mark	[2]
-polisci@uw.edu	[2]
+[
+    {
+        "content": "mark a. smith did his undergraduate work at m.i.t. and earned his ph.d. at the ... telephone: (206) 543-2780 · fax (206) 685-2146 · email: polisci@uw.edu.", 
+        "email_addr_list": [
+            "work@m.i.t", 
+            "polisci@uw.edu"
+        ], 
+        "cite_url": "https://www.polisci.washington.edu/.../mark-s...", 
+        "cite_name": "University of Washington", 
+        "title": "Mark A. Smith | Department of Political Science | University ..."
+    }, 
+    {
+        "content": "email: masmith@u.washington.edu. mark smith, with his book secular faith. welcome to my home page! im a professor of political science and an adjunct...", 
+        "email_addr_list": [
+            "masmith@u.washington.edu"
+        ], 
+        "cite_url": "faculty.washington.edu/masmith/", 
+        "cite_name": "University of Washington", 
+        "title": "Mark A. Smith - University of Washington"
+    }, 
+    {
+        "content": "mark a. smith. email: mas216@nyu.edu. ph.d. dissertation: settlement geography of the punjab during the early historic and medieval periods: a gis...", 
+        "email_addr_list": [
+            "mas216@nyu.edu"
+        ], 
+        "cite_url": "anthropology.as.nyu.edu/.../anthroalumni.markasm...www.google.com/email", 
+        "cite_name": "New York University", 
+        "title": "Mark A. Smith, Alumni, Anthropology | New York UniversityGoogle Business Email - Custom email for your company‎"
+    }
+]

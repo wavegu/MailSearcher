@@ -1,0 +1,38 @@
+[
+    {
+        "content": "email: srini@monash.edu. bala srinivasan is a professor of information technology in the faculty of information technology, monash university, australia.", 
+        "email_list": [
+            "srini@monash.edu"
+        ], 
+        "cite_url": "www.csse.monash.edu.au/~srini/", 
+        "cite_name": "Monash University", 
+        "title": "Bala Srinivasan, Australia"
+    }, 
+    {
+        "content": "tel: +61 3 990 55333. email: bala.srinivasan@monash.edu. profile summary. keywords. qualifications. publications. teaching commitment. supervisions...", 
+        "email_list": [
+            "bala.srinivasan@monash.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Monash University", 
+        "title": "Professor Balasubramaniam Srinivasan - Researcher Profile"
+    }, 
+    {
+        "content": "photo of balasubrahmanyan srinivasan. balasubrahmanyan srinivasan. associate professor ... bala.srinivasan@polymtl.ca. web link(s)website of the nserc...", 
+        "email_list": [
+            "bala.srinivasan@polymtl.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "École Polytechnique de Montréal", 
+        "title": "Balasubrahmanyan Srinivasan - Directory of Expertises ..."
+    }, 
+    {
+        "content": "bala srinivasan. professor of ... verified email at monash.edu - homepage  scholar ... zs abdallah, mm gaber, b srinivasan, s krishnaswamy. advanced...", 
+        "email_list": [
+            "email@monash.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7bY8yWEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bala Srinivasan - Google Scholar Citations"
+    }
+]

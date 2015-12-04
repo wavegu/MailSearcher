@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jul 29, 2015 - professor noel entwistle. professor emeritus. education, community and society (ecs). email: noel.entwistle@ed.ac.uk. tel: +44 (0)131 651...", 
+        "email_list": [
+            "noel.entwistle@ed.ac.uk"
+        ], 
+        "cite_url": "www.ed.ac.uk/education/about.../profile.php?...", 
+        "cite_name": "University of Edinburgh", 
+        "title": "Professor Noel Entwistle - Academic staff | The University of ..."
+    }, 
+    {
+        "content": "jul 29, 2015 - professor noel entwistle. professor emeritus. education, community and society (ecs). email: noel.entwistle@ed.ac.uk. tel: +44 (0)131 651...", 
+        "email_list": [
+            "noel.entwistle@ed.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Edinburgh", 
+        "title": "Publications list for Professor Noel Entwistle - ECS Institute ..."
+    }
+]

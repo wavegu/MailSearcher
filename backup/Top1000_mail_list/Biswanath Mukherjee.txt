@@ -1,2 +1,11 @@
-bmukherjee@ucdavis.edu	[20]
-email at cs.ucdavis.edu	[2]
+[
+    {
+        "content": "biswanath mukherjee. distinguished professor ... verified email at cs.ucdavis.edu - homepage  scholar ... b mukherjee, lt heberlein, kn levitt. network, ieee...", 
+        "email_addr_list": [
+            "email@cs.ucdavis.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ytXtLjkAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Biswanath Mukherjee - Google Scholar Citations"
+    }
+]

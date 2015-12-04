@@ -1,3 +1,29 @@
-gsalvesen@sanfordburnham.org	[19]
-gsalvesen@burnham.org	[19]
-marcin.drag@pwr.wroc.pl	[2]
+[
+    {
+        "content": "... structural chemical biology. photo of guy salvesen ... ph.d., cambridge university email: gsalvesen@sanfordburnham.org ... track(s). molecular pathology...", 
+        "email_addr_list": [
+            "gsalvesen@sanfordburnham.org"
+        ], 
+        "cite_url": "biomedsci.ucsd.edu/.../faculty_descri...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Guy Salvesen - Faculty - Biomedical Sciences Graduate ..."
+    }, 
+    {
+        "content": "marcin drag and guy s. salvesen are at the program in apoptosis and cell death ... to: marcin dragguy s. salvesen email: marcin.drag@pwr.wroc.pl; email:...", 
+        "email_addr_list": [
+            "marcin.drag@pwr.wroc.pl"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinion", 
+        "cite_name": "Nature", 
+        "title": "Emerging principles in protease-based drug discovery ..."
+    }, 
+    {
+        "content": "professor guy s salvesen program on apoptosis and ... email: gsalvesen@burnham.org ... pop, c., fitzgerald, p., green, d.r.  salvesen, g.s. (2007). role of...", 
+        "email_addr_list": [
+            "gsalvesen@burnham.org"
+        ], 
+        "cite_url": "www.protease.net.au/index.php?id=9pid=144www.google.com/emailwww.spokeo.com/Free.Email.Search", 
+        "cite_name": "", 
+        "title": "Guy S Salvesen - International Protease NetworkGoogle Business Email - Custom email for your company‎Guys Email Address - Search Free For Guys Email‎"
+    }
+]

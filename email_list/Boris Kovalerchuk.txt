@@ -1,0 +1,20 @@
+[
+    {
+        "content": "boris kovalerchuk ... e-mail: borisk at cwu dot edu ... kovalerchuk b., schwing j. (eds) visual and spatial analysis: advances on data mining,...", 
+        "email_list": [
+            "borisk@cwu.edu"
+        ], 
+        "cite_url": "www.cwu.edu/~borisk/", 
+        "cite_name": "Central Washington University", 
+        "title": "Dr. Boris Kovalerchuk - Central Washington University"
+    }, 
+    {
+        "content": "dec 30, 2010 - evgenii vityaev, boris kovalerchuk, leonid perlovsky, stanislav ... state university, 630090, novosibirsk, russia, email: vityaev@math.nsc.ru.", 
+        "email_list": [
+            "vityaev@math.nsc.ru"
+        ], 
+        "cite_url": "arxiv.org/pdf/1101.0082", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]Probabilistic Dynamic Logic of Phenomena and Cognition"
+    }
+]

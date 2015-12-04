@@ -1,0 +1,47 @@
+[
+    {
+        "content": "may 29, 2015 - you can contact me using my private email address: sebastian dot zander at gmx dot de. on 1st of july 2015, ill join murdoch university and...", 
+        "email_list": [
+            "zander@gmx.de"
+        ], 
+        "cite_url": "caia.swin.edu.au/cv/szander/", 
+        "cite_name": "", 
+        "title": "Sebastian Zander"
+    }, 
+    {
+        "content": "sebastian zander is lecturer at murdoch university. ... sebastian zander from murdoch university in perth australia. share ... email. s.zander@murdoch.edu.au...", 
+        "email_list": [
+            "s.zander@murdoch.edu.au"
+        ], 
+        "cite_url": "profiles.murdoch.edu.au/myprofile/sebastian-zander/", 
+        "cite_name": "Murdoch University", 
+        "title": "Sebastian Zander | Profile | Murdoch University in Perth ..."
+    }, 
+    {
+        "content": "cancel. sebastian zander. murdoch university ... verified email at murdoch.edu.au - homepage  scholar ... n williams, s zander, g armitage. acm sigcomm...", 
+        "email_list": [
+            "email@murdoch.edu.au"
+        ], 
+        "cite_url": "https://scholar.google.com.au/citations?user=8csOslsAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Sebastian Zander - Google Scholar Citations"
+    }, 
+    {
+        "content": "this is the science, engineering and technology faculty profile for dr sebastian zander. ... tel: +61 3 9214 4835. office: en606c. email: szander@swin.edu.au...", 
+        "email_list": [
+            "szander@swin.edu.au"
+        ], 
+        "cite_url": "www.swinburne.edu.au/.../view.ph...", 
+        "cite_name": "Swinburne University of Technology", 
+        "title": "Zander, Sebastian - Swinburne University of Technology"
+    }, 
+    {
+        "content": "notar: herr richter als notarvertreter dr. sebastian zander ... telefon, fax und email: telefon: 07256/ ... email: sebastian.zander@notphilippsburg.justiz.bwl.de.", 
+        "email_list": [
+            "sebastian.zander@notphilippsburg.justiz.bwl.de"
+        ], 
+        "cite_url": "www.notariat-philippsburg.de/", 
+        "cite_name": "", 
+        "title": "Notariat Philippsburg - Startseite"
+    }
+]

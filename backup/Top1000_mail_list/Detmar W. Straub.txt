@@ -1,2 +1,20 @@
-dstraub@cis.gsu.edu	[14]
-dstraub@gsu.edu	[14]
+[
+    {
+        "content": "email: dstraub@gsu.edu  phone: 404-413-7378  url: ... detmar w. straub jr. ... straub also conducts research on the impact of technological innovation,...", 
+        "email_addr_list": [
+            "dstraub@gsu.edu"
+        ], 
+        "cite_url": "robinson.wpdev.gsu.edu/profile/detmar-w-straub-jr/", 
+        "cite_name": "", 
+        "title": "Detmar W. Straub Jr. - Robinson College of Business"
+    }, 
+    {
+        "content": "detmar w. straub. georgia state university. term: no longer accepting ... email: dstraub@cis.gsu.edu. the mis quarterly is a peer reviewed scholarly journal...", 
+        "email_addr_list": [
+            "dstraub@cis.gsu.edu"
+        ], 
+        "cite_url": "www.misq.org/straub-detmar/", 
+        "cite_name": "Management Information Systems Quarterly", 
+        "title": "Senior Editor Emeritus: Detmar W. Straub - MIS Quarterly"
+    }
+]

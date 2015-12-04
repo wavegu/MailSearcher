@@ -1,5 +1,48 @@
-zhong.wang@mse.gatech.edu	[19]
-llin44@gatech.edu	[7]
-email at mse.gatech.edu	[2]
-inquire@mse.gatech.edu	[1]
-inquire@mse.gatech.edugroup	[1]
+[
+    {
+        "content": "summary of z.l. wang achievements. ... dr. zhong lin (zl) wang is the hightower chair in materials science and ..... email: inquire@mse.gatech.edu", 
+        "email_addr_list": [
+            "inquire@mse.gatech.edu"
+        ], 
+        "cite_url": "www.mse.gatech.edu/faculty/wang", 
+        "cite_name": "Georgia Institute of Technology", 
+        "title": "Zhong Lin Wang - School of Materials Science and ..."
+    }, 
+    {
+        "content": "group leader. zhong lin wang ... email: zhong.wang@mse.gatech.edu ... long lin. postdoctoral fellow. tel: n/a fax: (404) 894-9140 email: llin44@gatech.edu...", 
+        "email_addr_list": [
+            "zhong.wang@mse.gatech.edu", 
+            "llin44@gatech.edu"
+        ], 
+        "cite_url": "www.nanoscience.gatech.edu/group/", 
+        "cite_name": "Georgia Institute of Technology", 
+        "title": "Group - ZL Wang"
+    }, 
+    {
+        "content": "email: zhong.wang@mse.gatech.edu. mailing address: school of materials science and engineering georgia institute of technology 771 ferst dr. n.w.. atlanta...", 
+        "email_addr_list": [
+            "zhong.wang@mse.gatech.edu"
+        ], 
+        "cite_url": "www.nanoscience.gatech.edu/.../Zhong...", 
+        "cite_name": "Georgia Institute of Technology", 
+        "title": "Zhong Lin Wang - ZL Wang - Georgia Institute of Technology"
+    }, 
+    {
+        "content": "cancel. zhong lin (z.l.) wang 王中林 ... verified email at mse.gatech.edu - homepage  scholar ... s frank, p poncharal, zl wang, wa de heer. science 280...", 
+        "email_addr_list": [
+            "email@mse.gatech.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Zhong Lin (Z.L.) Wang 王中林 - Google Scholar Citations"
+    }, 
+    {
+        "content": "王中林博士 (zhong lin wang, ph. d.) 簡介. georgia institute of technology ... email: zhong.wang@mse.gatech.edu. phone:404-894-8008. fax: 404-894-9140.", 
+        "email_addr_list": [
+            "zhong.wang@mse.gatech.edu"
+        ], 
+        "cite_url": "www.phys.sinica.edu.tw/.../camp/.../cv_camp2012_ZhongLinWang.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Zhong Lin (ZL) Wang, Associate Professor"
+    }
+]

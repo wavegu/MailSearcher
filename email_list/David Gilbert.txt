@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mail code: 4295. e-mail: gilbert@bio.fsu.edu ... graduate faculty status dr. david gilbert is currently recruiting new graduate students for fall 2016. research...", 
+        "email_list": [
+            "gilbert@bio.fsu.edu"
+        ], 
+        "cite_url": "www.bio.fsu.edu/faculty-gilbert.php", 
+        "cite_name": "Florida State University", 
+        "title": "Dr. David M. Gilbert - FSU Biological Science Faculty Member"
+    }, 
+    {
+        "content": "jul 14, 2015 - home» people» david gilbert ... email: david.gilbert@brunel.ac.uk ... professor david gilbert is co-director of the brunel centre for systems...", 
+        "email_list": [
+            "david.gilbert@brunel.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Brunel University London", 
+        "title": "David Gilbert | Brunel University London"
+    }
+]

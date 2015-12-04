@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at let.ru.nl. scholar. get my own ... h baayen, h van halteren, f tweedie. literary and ... h van halteren, j zavrel, w daelemans. computational...", 
+        "email_list": [
+            "email@let.ru.nl"
+        ], 
+        "cite_url": "scholar.google.pl/citations?user=P9rTRQkAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Hans van Halteren - Google Scholar Citations"
+    }, 
+    {
+        "content": "stylome. hans van halteren*, r. harald baayen†, fiona tweedie‡, marco haverkort§ . anneke neijt ... hans van halteren. email hvh@let.kun.nl (preferred).", 
+        "email_list": [
+            "hvh@let.kun.nl"
+        ], 
+        "cite_url": "www.sfs.uni-tuebingen.de/.../VanHalterenEtAlJQL...", 
+        "cite_name": "University of Tübingen", 
+        "title": "[PDF]New Machine Learning Methods Demonstrate the Existence ..."
+    }
+]

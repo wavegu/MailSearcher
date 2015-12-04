@@ -1,4 +1,38 @@
-smyth at ics.uci.edu	[11]
-smyth@ics.uci.edu	[11]
-email at ics.uci.edu	[2]
-info@videolectures.net	[1]
+[
+    {
+        "content": "fax: (949) 824 4056 email: smyth@ics.uci.edu. professional positions. april 1996–present: professor, department of computer science, university of california,...", 
+        "email_addr_list": [
+            "smyth@ics.uci.edu"
+        ], 
+        "cite_url": "www.ics.uci.edu...", 
+        "cite_name": "Donald Bren School of Information and Computer Sci...", 
+        "title": "[PDF]PADHRAIC SMYTH - Donald Bren School of Information ..."
+    }, 
+    {
+        "content": "professor: padhraic smyth. email: smyth at ics.uci.edu. note: for any class-related emails make sure to put [cs277] at the start of the subject line of your email.", 
+        "email_addr_list": [
+            "smyth@ics.uci.edu"
+        ], 
+        "cite_url": "www.ics.uci.edu...", 
+        "cite_name": "Donald Bren School of Information and Computer Sci...", 
+        "title": "CS 277: Main Page"
+    }, 
+    {
+        "content": "verified email at ics.uci.edu - homepage ... um fayyad, g piatetsky-shapiro, p smyth, r uthurusamy ... g das, ki lin, h mannila, g renganathan, p smyth.", 
+        "email_addr_list": [
+            "email@ics.uci.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OsoQ-dcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Padhraic Smyth - Google Scholar Citations"
+    }, 
+    {
+        "content": "padhraic smyth is a professor at the university of california, irvine, in the department ... padhraic has served in editorial and advisory positions for journals such as the journal ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/padhraic_smyth/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Padhraic Smyth - VideoLectures.NET"
+    }
+]

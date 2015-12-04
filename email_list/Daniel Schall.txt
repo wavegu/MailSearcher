@@ -1,0 +1,38 @@
+[
+    {
+        "content": "daniel schall. unknown affiliation ... verified email at infosys.tuwien.ac.at - homepage  scholar ... h psaier, l juszczyk, f skopik, d schall, s dustdar. socially...", 
+        "email_list": [
+            "email@infosys.tuwien.ac.at"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YHdjC9AAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Daniel Schall - Google Scholar Citations"
+    }, 
+    {
+        "content": "create alert. cancel. daniel schall ... verified email at cs.uni-kl.de - homepage  scholar. get my own ... t härder, v hudlet, y ou, d schall. database systems...", 
+        "email_list": [
+            "email@cs.uni-kl.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=G44I8y8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Daniel Schall - Google Scholar Citations"
+    }, 
+    {
+        "content": "schall@cs.uni-kl.de. phone: +49 631 205 3274. fax: +49 631 205 3299. room: 36/318. mail: daniel schall university of kaiserslautern department of computer...", 
+        "email_list": [
+            "schall@cs.uni-kl.de"
+        ], 
+        "cite_url": "wwwlgis.informatik.uni-kl.de/cms/?id=425", 
+        "cite_name": "", 
+        "title": "Lehrgebiet Informationssysteme: Dipl.-Inf. Daniel Schall"
+    }, 
+    {
+        "content": "aug 18, 2014 - na. daniel schall. email: dschall@northallegheny.org. grade: 11 and 12. room number: 354. current courses: ap psychology and american...", 
+        "email_list": [
+            "dschall@northallegheny.org"
+        ], 
+        "cite_url": "www.northallegheny.org/page/8030", 
+        "cite_name": "", 
+        "title": "Schall, Dan / Welcome - North Allegheny School District"
+    }
+]

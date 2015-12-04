@@ -1,2 +1,20 @@
-hhe@ebi.ac.uk	[3]
-ku.ca.ibe@bokajmreh.gninneh	[1]
+[
+    {
+        "content": "henning hermjakob. prefix: mr. forename: henning. surname: hermjakob. organisation: embl-ebi. email: hhe@ebi.ac.uk. biography: proteomics services...", 
+        "email_addr_list": [
+            "hhe@ebi.ac.uk"
+        ], 
+        "cite_url": "www.proteomexchange.org/people/henning-hermjakob", 
+        "cite_name": "", 
+        "title": "Henning Hermjakob | proteomeXchange"
+    }, 
+    {
+        "content": "henning hermjakob, email: ku.ca.ibe@bokajmreh.gninneh. corresponding author. author information ▻ article notes ▻ copyright and license information ▻.", 
+        "email_addr_list": [
+            "ku.ca.ibe@bokajmreh.gninneh"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../P...www.google.com/email", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Progress in Establishing Common Standards for ...Google Business Email‎"
+    }
+]

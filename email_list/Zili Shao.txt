@@ -1,0 +1,29 @@
+[
+    {
+        "content": "the hong kong polytechnic university, hung hom, kowloon, hong kong. office: pq 804 tel: (852)2766-7287. email: cszlshao at comp dot polyu dot edu dot hk...", 
+        "email_list": [
+            "cszlshao@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "www.comp.polyu.edu.hk/~cszlshao", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Prof. Zili Shao - Department of Computing - PolyU"
+    }, 
+    {
+        "content": "verified email at comp.polyu.edu.hk - homepage  scholar ... z shao, q zhuge, y he, ehm sha ... z shao, m wang, y chen, c xue, m qiu, lt yang, ehm sha.", 
+        "email_list": [
+            "email@comp.polyu.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com.hk/citations?user=HlxIVWYAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Zili Shao - Google Scholar Citations"
+    }, 
+    {
+        "content": "contact information: school of aerospace and mechanical engineering university of oklahoma 865 asp ave. norman, ok 73019. email: zilishao@ou.edu...", 
+        "email_list": [
+            "zilishao@ou.edu"
+        ], 
+        "cite_url": "ppdl.ou.edu/People/ziliindex.htm", 
+        "cite_name": "", 
+        "title": "zili shao - University of Oklahoma"
+    }
+]

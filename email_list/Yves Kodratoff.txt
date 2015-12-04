@@ -1,0 +1,12 @@
+[
+    {
+        "content": "email: zytkow@uncc.edu phone: +1-704-547-4885 fax: +1-704-547- ... email: rauch@vse.cz phone: +420-2-24095-463 ... yves kodratoff (u. paris-11, france)", 
+        "email_list": [
+            "zytkow@uncc.edu", 
+            "rauch@vse.cz"
+        ], 
+        "cite_url": "lisp.vse.cz/pkdd99/cfpart.htm", 
+        "cite_name": "University of Economics, Prague", 
+        "title": "Conference - Laboratory for Intelligent Systems"
+    }
+]

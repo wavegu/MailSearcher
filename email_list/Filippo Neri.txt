@@ -1,0 +1,20 @@
+[
+    {
+        "content": "“san filippo neri” hospital is a general public teaching hospital with 500 inpatient beds. it provides ... email: m.tubaro@sanfilipponeri.roma.it. contact: prof.", 
+        "email_list": [
+            "m.tubaro@sanfilipponeri.roma.it"
+        ], 
+        "cite_url": "www.bestageing.eu/partner/san_filippo_neri_hospital.htm", 
+        "cite_name": "", 
+        "title": "Best Ageing - San Filippo Neri Hospital"
+    }, 
+    {
+        "content": "dipartimento di ingegneria elettrica e delle tecnologie dellinformazione -. role. professore di informatica (inf/01). email. filippo.neri@unina.it. short ...", 
+        "email_list": [
+            "filippo.neri@unina.it"
+        ], 
+        "cite_url": "https://www.docenti.u...", 
+        "cite_name": "University of Naples Federico II", 
+        "title": "FILIPPO NERI - www.docenti.unina.it"
+    }
+]

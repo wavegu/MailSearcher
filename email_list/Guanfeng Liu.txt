@@ -1,0 +1,38 @@
+[
+    {
+        "content": "cancel. guanfeng liu ... verified email at suda.edu.cn - homepage  scholar ... z peng, y lu, l li, q zhao, q feng, z gao, h lu, t hu, n yao, k liu, y li, .", 
+        "email_list": [
+            "email@suda.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=jRQdCgMAAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Guanfeng Liu - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: gfliu [at] suda.edu.cn. tel: +86-512-65243192-207. dr. guanfeng liu is an associate professor in advanced data analytics (ada) lab of school of...", 
+        "email_list": [
+            "gfliu@suda.edu.cn"
+        ], 
+        "cite_url": "ada.suda.edu.cn/~gfliu/", 
+        "cite_name": "", 
+        "title": "Guanfeng Lius Homepage"
+    }, 
+    {
+        "content": "email: yan.wang@mq.edu.au ... dr. guanfeng liu, research fellow, jan. ... 18, issue 1, pp 159-184, 2015 link; guanfeng liu, an liu,yan wang, lei li, sotrust:...", 
+        "email_list": [
+            "yan.wang@mq.edu.au"
+        ], 
+        "cite_url": "comp.mq.edu.au/~yanwang/", 
+        "cite_name": "", 
+        "title": "Home Page of Yan Wang - Department of Computing"
+    }, 
+    {
+        "content": "for more information, please email libir@smu.edu.sg. citation. liu, guanfeng; wang, yan; orgun, mehmet a.; and lim, ee peng. finding the optimal social...", 
+        "email_list": [
+            "libir@smu.edu.sg"
+        ], 
+        "cite_url": "ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=2980context=sis...", 
+        "cite_name": "", 
+        "title": "[PDF]Finding the Optimal Social Trust Path for the Selection of ..."
+    }
+]

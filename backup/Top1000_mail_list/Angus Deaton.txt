@@ -1,2 +1,20 @@
-deaton@princeton.edu	[14]
-deaton@princeton.edu.nobel	[14]
+[
+    {
+        "content": "email: deaton@princeton.edu ... http://scholar.princeton.edu/deaton ... angus deatons main interests are in health, development, and well-being. he has taught...", 
+        "email_addr_list": [
+            "deaton@princeton.edu"
+        ], 
+        "cite_url": "wws.princeton.edu  Faculty  Research  Faculty", 
+        "cite_name": "Princeton University", 
+        "title": "Angus S. Deaton | Woodrow Wilson School of Public and ..."
+    }, 
+    {
+        "content": "angus deaton: current contact information and listing of economic research of this author provided by repec/ideas. ... email: deaton@princeton.edu.", 
+        "email_addr_list": [
+            "deaton@princeton.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pde30.html", 
+        "cite_name": "", 
+        "title": "Angus S. Deaton at IDEAS"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "content": "pascal poncelet, ph.d full professor, lirmm - umr 5506 161 rue ada 34392 montpellier cedex 5 - france e-mail: pascal.poncelet[at]lirmm.fr. tel: +33 (0)467...", 
+        "email_list": [
+            "pascal.poncelet@lirmm.fr"
+        ], 
+        "cite_url": "www.lirmm.fr/~poncelet/", 
+        "cite_name": "", 
+        "title": "Pascal Poncelet Home Page - Lirmm"
+    }, 
+    {
+        "content": "aug 18, 2015 - bâtiment : 5 r+2 nord. bureau : 03/167. téléphone : 04 67 41 86 53. fax : 04 67 41 85 00. email : pascal.poncelet@lirmm.fr. statut :...", 
+        "email_list": [
+            "pascal.poncelet@lirmm.fr"
+        ], 
+        "cite_url": "https://www.lirmm.fr/users/utilisateurs.../pascal-poncel...", 
+        "cite_name": "", 
+        "title": "Pascal Poncelet / Utilisateurs LIRMM / Users - LIRMM"
+    }, 
+    {
+        "content": "email: pascal.poncelet@lirmm.fr; registered on: 09/17/2012; last connection: 11/26/2012. projects. amadeus (developer, reporter, contributor, 09/17/2012).", 
+        "email_list": [
+            "pascal.poncelet@lirmm.fr"
+        ], 
+        "cite_url": "projets.lam.fr/users/90", 
+        "cite_name": "", 
+        "title": "Pascal Poncelet - Projects at LAM"
+    }, 
+    {
+        "content": "rue des sorbiers 19 4050 chaudfontaine. renseignements. tel.: 04/368.78.45. fax: 04/368.32.60. gsm: 0475/619.552. email: pascal.poncelet@teledisnet.be.", 
+        "email_list": [
+            "pascal.poncelet@teledisnet.be"
+        ], 
+        "cite_url": "www.chaudfontaine.be/.../index.php?...", 
+        "cite_name": "Chaudfontaine", 
+        "title": "Poncelet Pascal SPRL - Chaudfontaine.be : Annuaire ..."
+    }
+]

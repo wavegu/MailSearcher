@@ -1,6 +1,47 @@
-kikinis at bwh.harvard.edu.ron	[21]
-kikinis at bwh.harvard.edu	[16]
-kikinis@bwh.harvard.edu	[15]
-kikinis@csail.mit.edu	[15]
-vph-dare@itwww.vph-dare.eu	[2]
-email at bwh.harvard.edu	[2]
+[
+    {
+        "content": "ron kikinis m.d.. dr. kikinis is the founding director of the surgical planning laboratory, department of radiology, brigham ... e-mail: kikinis at bwh.harvard.edu.", 
+        "email_addr_list": [
+            "kikinis@bwh.harvard.edu"
+        ], 
+        "cite_url": "https://www.spl.harvard.edu/pages/People/kikinis", 
+        "cite_name": "", 
+        "title": "Ron Kikinis - Surgical Planning Laboratory"
+    }, 
+    {
+        "content": "prof. ron kikinis. dr. kikinis is the founding director of the surgical planning ... e-mail: kikinis at bwh.harvard.edu. address. surgical planning laboratory", 
+        "email_addr_list": [
+            "kikinis@bwh.harvard.edu"
+        ], 
+        "cite_url": "www.vph-dare.eu/index.php/partner/sab/sab/.../1009-profronkikinis", 
+        "cite_name": "", 
+        "title": "Prof. Ron Kikinis - VPH-DARE@IT"
+    }, 
+    {
+        "content": "magnetic resonance 75 francis street boston, ma 02115. research location: 1249 boylston street phone: (617) 732-7389. email: kikinis@bwh.harvard.edu...", 
+        "email_addr_list": [
+            "kikinis@bwh.harvard.edu"
+        ], 
+        "cite_url": "researchfaculty.brighamandwomens.org/BRIProfile.aspx?id=3097", 
+        "cite_name": "", 
+        "title": "Ron Kikinis, MD - Department of Radiology"
+    }, 
+    {
+        "content": "ron kikinis. professor of radiology ... verified email at bwh.harvard.edu - homepage  scholar ... wm wells iii, wel grimson, r kikinis, fa jolesz. medical...", 
+        "email_addr_list": [
+            "email@bwh.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_FF4PIYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ron Kikinis - Google Scholar Citations"
+    }, 
+    {
+        "content": "[ login to edit profile ]; position: research affiliate; office: phone: +1 (617) 258-6183; email: kikinis@csail.mit.edu; areas of study: vision  graphics; last...", 
+        "email_addr_list": [
+            "kikinis@csail.mit.edu"
+        ], 
+        "cite_url": "www.csail.mit.e...www.google.com/email", 
+        "cite_name": "MIT Computer Science and Artificial Intelligence Labo...", 
+        "title": "Ron Kikinis | MIT CSAILGoogle Business Email‎"
+    }
+]

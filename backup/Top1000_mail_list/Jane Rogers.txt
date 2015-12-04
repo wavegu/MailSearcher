@@ -1,5 +1,29 @@
-jane.rogers@glasgow.ac.uk	[21]
-jane.rogers@oag.govt.nz	[21]
-j.rogers@shu.ac.uk	[14]
-jane@janerogerspr.co.uk.jane	[9]
-jane@janerogerspr.co.uk	[9]
+[
+    {
+        "content": "contact jane rogers now on 07900 938015 or email jane@janerogerspr.co.uk.", 
+        "email_addr_list": [
+            "jane@janerogerspr.co.uk"
+        ], 
+        "cite_url": "www.janerogerspr.co.uk/contact/", 
+        "cite_name": "", 
+        "title": "Contact - Jane Rogers"
+    }, 
+    {
+        "content": "administrative officer (it services). telephone: 01413304408 email: jane.rogers@glasgow.ac.uk. r641a level 6, mis, main building, glasgow g12 8qq.", 
+        "email_addr_list": [
+            "jane.rogers@glasgow.ac.uk"
+        ], 
+        "cite_url": "www.gla.ac.uk/stafflist/?action=personid...", 
+        "cite_name": "University of Glasgow", 
+        "title": "University of Glasgow - Staff A‑Z - Ms Jane Rogers"
+    }, 
+    {
+        "content": "staff profiles. professor jane rogers. frsl, fhea. professor of writing. phone 0114 225 3907. e-mail j.rogers@shu.ac.uk. current work. i am a novelist, radio...", 
+        "email_addr_list": [
+            "j.rogers@shu.ac.uk"
+        ], 
+        "cite_url": "https://www.shu.ac.uk/.../sp-jane-rogers.htmlwww.google.com/email", 
+        "cite_name": "Sheffield Hallam University", 
+        "title": "Professor Jane Rogers | Staff | Humanities Research Centre ...Google Business Email‎Searches related to Jane Rogers email"
+    }
+]

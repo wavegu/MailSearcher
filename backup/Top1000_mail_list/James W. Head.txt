@@ -1,7 +1,56 @@
-emailpellegjw@uic.edu	[3]
-jloewen@uvm.edu	[3]
-jim.repass@nortonrosefulbright.com	[2]
-email at brown.edu	[2]
-board@portoakland.com.james	[1]
-iii@brown.edu	[1]
-board@portoakland.com	[1]
+[
+    {
+        "content": "james_head_iii@brown.edu email icon ... goudge, timothy a., mustard, john f., head, james w., fassett, caleb i., wiseman, sandra m. assessing the...", 
+        "email_addr_list": [
+            "james_head_iii@brown.edu"
+        ], 
+        "cite_url": "https://vivo.brown.edu/display/jheadiii", 
+        "cite_name": "", 
+        "title": "Head, James - Researchers @ Brown - Brown University"
+    }, 
+    {
+        "content": "james w. head, iii. professor of ... verified email at brown.edu - homepage  scholar ... de smith, mt zuber, hv frey, jb garvin, jw head, do muhleman, .", 
+        "email_addr_list": [
+            "email@brown.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dcaSek8AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "James W. Head, III - Google Scholar Citations"
+    }, 
+    {
+        "content": "james w. head, commissioner. james w. head james ... contact info. you may contact the board of port commissioners via email at board@portoakland.com.", 
+        "email_addr_list": [
+            "board@portoakland.com"
+        ], 
+        "cite_url": "www.portofoakland.com/about/commissioners.aspx", 
+        "cite_name": "Port of Oakland", 
+        "title": "City of Oakland appointed Board of Port Commissioners"
+    }, 
+    {
+        "content": "emailpellegjw@uic.edu ... 1240 w. harrison st. suite 1535 m/c 057 ... james w. pellegrino is co-director of learning sciences research institute, liberal arts...", 
+        "email_addr_list": [
+            "emailpellegjw@uic.edu"
+        ], 
+        "cite_url": "www.lsri.uic.edu/people/james-pellegrino", 
+        "cite_name": "University of Illinois at Chicago", 
+        "title": "James Pellegrino | Learning Sciences Research Institute"
+    }, 
+    {
+        "content": "james w loewen ... telephone: 202-269-6655; email: jloewen@uvm.edu ... james loewen is a sociologist who spent two years at the smithsonian surveying...", 
+        "email_addr_list": [
+            "jloewen@uvm.edu"
+        ], 
+        "cite_url": "www.afro.illinois.edu/.../jloe...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "James W Loewen | Department of African-American Studies ..."
+    }, 
+    {
+        "content": "jim repass is head of intellectual property law, united states. jims practice involves counseling clients with respect to the intellectual property... ... james w. repass. head of intellectual ... email: jim.repass@nortonrosefulbright.com. related...", 
+        "email_addr_list": [
+            "jim.repass@nortonrosefulbright.com"
+        ], 
+        "cite_url": "www.nortonrosefulbright.com/people/90649/jameswrepasswww.google.com/email", 
+        "cite_name": "", 
+        "title": "James W. Repass, Head of Intellectual Property, United ...Google Business Email‎"
+    }
+]

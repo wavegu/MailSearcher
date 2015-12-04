@@ -1,1 +1,11 @@
-email at oicr.on.ca	[2]
+[
+    {
+        "content": "john d. mcpherson. director ... verified email at oicr.on.ca - homepage  scholar ... r sachidanandam, d weissman, sc schmidt, jm kakol, ld stein, ... nature...", 
+        "email_addr_list": [
+            "email@oicr.on.ca"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=PLPUbGUAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "John D. McPherson - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at cnrs-orleans.fr - homepage  scholar. get my own ... r heyd, a charlier, jf marêché, e mcrae, ov zharikov. solid state communications 89...", 
+        "email_list": [
+            "email@cnrs-orleans.fr"
+        ], 
+        "cite_url": "scholar.google.fr/citations?user=paRYgioAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Rodolphe Heyd - Google Scholar Citations"
+    }
+]

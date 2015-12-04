@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. rumi ghosh. university ... verified email at usc.edu - homepage  scholar ... r ghosh, k lerman, t surachawala, k voevodski, sh teng. arxiv preprint...", 
+        "email_list": [
+            "email@usc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=yCvyJz8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rumi Ghosh - Google Scholar Citations"
+    }, 
+    {
+        "content": "rumi ghosh. about  contact  isi ». rumi ghosh. rumi ghosh. student. email: ghosh at isi.edu. phone: 310-448-8663. groups: ghosh. © 2015 the university of...", 
+        "email_list": [
+            "ghosh@isi.edu"
+        ], 
+        "cite_url": "www.isi.edu/people/ghosh", 
+        "cite_name": "", 
+        "title": "Information Sciences Institute - Rumi Ghosh"
+    }, 
+    {
+        "content": "email: rumig[at]us.bosch.com. | projects  publications | resume |. rumi ghosh is a research engineer at robert bosch, llc . her research interests include...", 
+        "email_list": [
+            "rumig@us.bosch.com"
+        ], 
+        "cite_url": "www.rumighosh.com/", 
+        "cite_name": "", 
+        "title": "Rumi Ghosh"
+    }
+]

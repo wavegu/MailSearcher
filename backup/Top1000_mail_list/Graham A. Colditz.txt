@@ -1,5 +1,29 @@
-colditzg@wustl.edu.home	[16]
-colditzg@wustl.edu	[16]
-colditzg@wustl.division	[16]
-colditzg@wudosis.wustl.edu	[16]
-email at wudosis.wustl.edu	[2]
+[
+    {
+        "content": "profile of division of public health sciences chief graham colditz. ... graham a. colditz, md, drph, fafphm. chief, division of ... email: colditzg@wustl.edu.", 
+        "email_addr_list": [
+            "colditzg@wustl.edu"
+        ], 
+        "cite_url": "publichealthsciences.wustl.edu/en/About-Us/Division-Chief", 
+        "cite_name": "", 
+        "title": "Division Chief - Division of Public Health Sciences"
+    }, 
+    {
+        "content": "graham colditz, md, drph. professor ... verified email at wudosis.wustl.edu - homepage ... eb rimm, mj stampfer, a ascherio, e giovannucci, ga colditz, .", 
+        "email_addr_list": [
+            "email@wudosis.wustl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=M5...hl=en", 
+        "cite_name": "Google Scholar", 
+        "title": "Graham Colditz, MD, DrPH - Google Scholar Citations"
+    }, 
+    {
+        "content": "graham a. colditz,*,; kathleen y. wolin and; sarah gehlert. + author affiliations. 1alvin j. siteman ... e-mail: colditzg@wudosis.wustl.edu. science translational...", 
+        "email_addr_list": [
+            "colditzg@wudosis.wustl.edu"
+        ], 
+        "cite_url": "stm.sciencemag.org/content/4/127/127rv4", 
+        "cite_name": "Science Translational Medicine", 
+        "title": "Applying What We Know to Accelerate Cancer Prevention ..."
+    }
+]

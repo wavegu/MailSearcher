@@ -1,4 +1,38 @@
-mattsonm@grc.nia.nih.gov	[16]
-camandolasi@grc.nia.nih.gov.mark	[3]
-camandolasi@grc.nia.nih.gov	[3]
-email at nih.gov	[3]
+[
+    {
+        "content": "mark p. mattson, ph.d. ... dr. mattson received his phd from the university of iowa and postdoctoral training in ... phone : email : camandolasi@grc.nia.nih.gov.", 
+        "email_addr_list": [
+            "camandolasi@grc.nia.nih.gov"
+        ], 
+        "cite_url": "https://neuroscience.nih.gov/.../mark-mattson...", 
+        "cite_name": "National Institutes of Health", 
+        "title": "Mattson, Mark P. - Neuroscience@NIH  Faculty  Profile"
+    }, 
+    {
+        "content": "mark p. mattson ph.d. professor of neuroscience. mattsonm@grc.nia.nih.gov. telephone number: 410-558-8463. fax number: 410-558-8465. johns hopkins...", 
+        "email_addr_list": [
+            "mattsonm@grc.nia.nih.gov"
+        ], 
+        "cite_url": "neuroscience.jhu.edu/.../mark-p.-mattson/", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Mark Mattson - Neuroscience - Johns Hopkins University"
+    }, 
+    {
+        "content": "mark p. mattson. national institute on aging ... verified email at nih.gov - homepage  scholar ... mp mattson, b cheng, d davis, k bryant, i lieberburg, re rydel.", 
+        "email_addr_list": [
+            "email@nih.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=N3ObarMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mark P. Mattson - Google Scholar Citations"
+    }, 
+    {
+        "content": "mark p. mattson  tim magnus about the authors. top of page ... correspondence to: mark p. mattson email: mattsonm@grc.nia.nih.gov. top of page...", 
+        "email_addr_list": [
+            "mattsonm@grc.nia.nih.gov"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Ageing and neuronal vulnerability : Abstract : Nature ..."
+    }
+]

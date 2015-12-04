@@ -1,0 +1,20 @@
+[
+    {
+        "content": "name, role, tel, location, email. aczel, peter ... email. embury, suzanne dr, senior lecturer, kilburn building - 2.105, suzanne.m.embury@manchester.ac.uk.", 
+        "email_list": [
+            "suzanne.m.embury@manchester.ac.uk"
+        ], 
+        "cite_url": "www.cs.manchest...", 
+        "cite_name": "School of Computer Science, University of Manchester", 
+        "title": "Staff directory | The University of Manchester | School of ..."
+    }, 
+    {
+        "content": "suzanne embury. senior lecturer in ... verified email at cs.manchester.ac.uk - homepage  scholar ... p missier, s embury, m greenwood, a preece, b jin.", 
+        "email_list": [
+            "email@cs.manchester.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ALuTB-gAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Suzanne Embury - Google Scholar Citations"
+    }
+]

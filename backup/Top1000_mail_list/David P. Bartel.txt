@@ -1,1 +1,20 @@
-dbartel@wi.mit.edu	[14]
+[
+    {
+        "content": "david p. bartel  chang-zheng chen about the authors. top of page ... correspondence to: david p. bartel email: dbartel@wi.mit.edu. top of page...", 
+        "email_addr_list": [
+            "dbartel@wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinion", 
+        "cite_name": "Nature", 
+        "title": "Micromanagers of gene expression: the potentially ... - Nature"
+    }, 
+    {
+        "content": "soraya yekta, clifford j. tabin  david p. bartel about the authors. top of page ... correspondence to: david p. bartel email: dbartel@wi.mit.edu. top of page...", 
+        "email_addr_list": [
+            "dbartel@wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Analysis", 
+        "cite_name": "Nature", 
+        "title": "MicroRNAs in the Hox network: an apparent link to posterior ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "verified email at umn.edu. scholar. get my own ... l sproull, m subramani, s kiesler, jh walker, k waters ... sr nidumolu, aa mani subramani. journal of...", 
+        "email_list": [
+            "email@umn.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gmNm8B0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mani Subramani - Google Scholar Citations"
+    }, 
+    {
+        "content": "adjunct professor. email: mani.subramanian@dominican.edu. office: science center # 100. phone: (415) 482-3544 ext. #7...", 
+        "email_list": [
+            "mani.subramanian@dominican.edu"
+        ], 
+        "cite_url": "www.dominican.edu/.../mani-subram...", 
+        "cite_name": "Dominican University of California", 
+        "title": "Mani Subramanian, PhD — Dominican University of California"
+    }, 
+    {
+        "content": "search form. mani, subramani. uri icon; qr icon close. email icon manis@salud.unm.edu ... mani, subramani associate professor. positions. assistant professor...", 
+        "email_list": [
+            "manis@salud.unm.edu"
+        ], 
+        "cite_url": "https://vivo.health.unm.edu/display/n7418", 
+        "cite_name": "", 
+        "title": "Mani, Subramani - VIVO - University of New Mexico"
+    }
+]

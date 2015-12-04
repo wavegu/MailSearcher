@@ -1,4 +1,20 @@
-francis.kalush@fda.hhs.gov	[27]
-kwame.ulmer@fda.hhs.gov	[2]
-robeena.aziz@fda.hhs.gov	[1]
-brian.x.berridge@gsk.com	[1]
+[
+    {
+        "content": "center for devices and radiological health food and drug administration phone: 301-796-6471 email: kwame.ulmer@fda.hhs.gov; francis kalush, ph.d.", 
+        "email_addr_list": [
+            "kwame.ulmer@fda.hhs.gov"
+        ], 
+        "cite_url": "www.bme.virginia.edu/FDA/", 
+        "cite_name": "University of Virginia", 
+        "title": "University of Virginia | Department of Biomedical ..."
+    }, 
+    {
+        "content": "email: kwame.ulmer@fda.hhs.gov * francis kalush, ph.d. diagnostics  personalized medicine network leader office of the center director phone: 240-205-...", 
+        "email_addr_list": [
+            "kwame.ulmer@fda.hhs.gov"
+        ], 
+        "cite_url": "www.virginia.edu/vpr/MD-TIP/", 
+        "cite_name": "University of Virginia", 
+        "title": "MD-TIP"
+    }
+]

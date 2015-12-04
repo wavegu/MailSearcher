@@ -1,0 +1,20 @@
+[
+    {
+        "content": "oct 29, 2015 - e-mail: aan@cse.yorku.ca ... please check your email. ... margaret h. dunham, data mining -- introductory and advanced topics, prentice hall,...", 
+        "email_list": [
+            "aan@cse.yorku.ca"
+        ], 
+        "cite_url": "www.cse.yorku.ca/course_archive/2015-16/F/6412/", 
+        "cite_name": "York University", 
+        "title": "York University: CSE-6412, Data Mining Fall 2015"
+    }, 
+    {
+        "content": "phone: (203) 432-1245. email: donya.quick@yale.edu ... margaret h. dunham, donya quick, yuhang wang, monnie mcgee, and jim waddle. ieee bibe 2006.", 
+        "email_list": [
+            "donya.quick@yale.edu"
+        ], 
+        "cite_url": "seas.yale.edu/.../donya-qu...", 
+        "cite_name": "Yale School of Engineering  Applied Science", 
+        "title": "Donya Quick - Yale School of Engineering  Applied Science"
+    }
+]

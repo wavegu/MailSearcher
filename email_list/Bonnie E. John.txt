@@ -1,0 +1,29 @@
+[
+    {
+        "content": "bonnie e. john ... verified email at us.ibm.com - homepage ... be john. proceedings of the sigchi conference on human factors in computing systems ..., 1990.", 
+        "email_list": [
+            "email@us.ibm.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AwyR8lwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bonnie E. John - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 23, 2003 - bonnie e. john professor. carnegie mellon university ... fax:(412)268-1266. support staff:(412) 268-7099. e mail: bej@cs.cmu.edu...", 
+        "email_list": [
+            "bej@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~bej/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Bonnie E. John: Home Page - Carnegie Mellon University"
+    }, 
+    {
+        "content": "arbor, mi 48109-2110; email: kieras@eecs.umich.edu. permission to make digital/hard copy of part ... bonnie e. john and david e. kieras. acm transactions on...", 
+        "email_list": [
+            "kieras@eecs.umich.edu"
+        ], 
+        "cite_url": "https://hec.unil.ch/docs/files/53/322/gooms_kieras.pdf", 
+        "cite_name": "HEC Lausanne", 
+        "title": "[PDF]GOMS Kieras - HEC"
+    }
+]

@@ -1,4 +1,20 @@
-emailmark.gerstein@yale.edu	[25]
-email at yale.edu	[2]
-svad@ucf.edu	[1]
-svad@ucf.edumarc	[1]
+[
+    {
+        "content": "mark b gerstein, phd ... mark gerstein earned a doctorate in biophysics and chemistry from cambridge ... office203.432.6105; emailmark.gerstein@yale.edu...", 
+        "email_addr_list": [
+            "emailmark.gerstein@yale.edu"
+        ], 
+        "cite_url": "bbs.yale.edu/people/mark_gerstein.profile", 
+        "cite_name": "Yale University", 
+        "title": "Mark B Gerstein, PhD  Biological  Biomedical Sciences ..."
+    }, 
+    {
+        "content": "mark gerstein. professor of ... verified email at yale.edu - homepage  scholar ... u nagalakshmi, z wang, k waern, c shou, d raha, m gerstein, ... science 320...", 
+        "email_addr_list": [
+            "email@yale.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YvjuUugAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mark Gerstein - Google Scholar Citations"
+    }
+]

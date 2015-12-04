@@ -1,0 +1,29 @@
+[
+    {
+        "content": "camille petit. imperial college london ... verified email at imperial.ac.uk. scholar. get my own profile ... c petit, b mendoza, tj bandosz. langmuir 26 (19)...", 
+        "email_list": [
+            "email@imperial.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=m4CY8C4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Camille Petit - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr camille petit, faculty of engineering, imperial college, london. towards the design of ... fax: (+44 or 0) 1865 273010. email: reception@eng.ox.ac.uk.", 
+        "email_list": [
+            "reception@eng.ox.ac.uk"
+        ], 
+        "cite_url": "www.eng.ox.ac.uk/.../dr-camille-petit-faculty-of-en...", 
+        "cite_name": "University of Oxford", 
+        "title": "Dr Camille Petit, Faculty of Engineering, Imperial College ..."
+    }, 
+    {
+        "content": "research engineer. team, plasma etching. email, camille.petit-etienne@cea.fr. phone, +33 (0)4 38 78 31 26. address, ltm cea - leti 17, avenue des martyrs", 
+        "email_list": [
+            "camille.petit-etienne@cea.fr"
+        ], 
+        "cite_url": "www.ltm-cnrs.fr/directory/petit-etienne-camille", 
+        "cite_name": "", 
+        "title": "PETIT-ETIENNE Camille | Laboratoire des Technologies de ..."
+    }
+]

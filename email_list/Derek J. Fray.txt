@@ -1,0 +1,30 @@
+[
+    {
+        "content": "professor derek fray, frs, freng. djf25@cam.ac.uk. email: djf25@cam.ac.uk. websites: http://www.msm.cam.ac.uk/department/profiles/fray.php  download as...", 
+        "email_list": [
+            "djf25@cam.ac.uk", 
+            "djf25@cam.ac.uk"
+        ], 
+        "cite_url": "www.energy.cam.ac.uk/.../djf25@cam.ac.uk", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Derek Fray, FRS, FREng — Energy @ Cambridge"
+    }, 
+    {
+        "content": "professor derek fray, frs, freng. director of ... email: djf25@cam.ac.uk. websites: http://www.msm.cam.ac.uk/department/profiles/fray.php  download as...", 
+        "email_list": [
+            "djf25@cam.ac.uk"
+        ], 
+        "cite_url": "www.ccs.cam.ac.uk/directory/djf25@cam.ac.uk", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Derek Fray, FRS, FREng —"
+    }, 
+    {
+        "content": "correspondence to: derek j. fray correspondence and requests for materials should be addressed to d. j. f. (e-mail: email: djf25@hermes.cam.ac.uk).", 
+        "email_list": [
+            "djf25@hermes.cam.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Nature", 
+        "title": "Direct electrochemical reduction of titanium dioxide to ..."
+    }
+]

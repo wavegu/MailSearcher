@@ -1,0 +1,12 @@
+[
+    {
+        "content": "lawrence rabiner. center for advanced information ... 805 893-8225 (ucsb). email addresses: ... lrr01@yahoo.com (internet). rabiner@ece.ucsb.edu (ucsb)...", 
+        "email_list": [
+            "lrr01@yahoo.com", 
+            "rabiner@ece.ucsb.edu"
+        ], 
+        "cite_url": "www.ece.ucsb.edu/.../Rabiner/ece...", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Lawrence Rabiner - Electrical and Computer Engineering"
+    }
+]

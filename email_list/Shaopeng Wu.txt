@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: m.f.c.vandeven@tudelft.nl. 30. tel.:+31 15 27 82298. 31. fax: +31 15 27 83443. 32. 33. shaopeng wu. 34. key laboratory of silicate materials science...", 
+        "email_list": [
+            "m.f.c.vandeven@tudelft.nl"
+        ], 
+        "cite_url": "repository.tudelft.nl/assets/uuid:737643f0-21c1-4460.../288413.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]288413.pdf (223.9 KB) - TU Delft Institutional Repository"
+    }, 
+    {
+        "content": "friday = joanne kinnane saturday = shaopeng wu sunday = bryantan. *please email marketingrefau@elsevier.com with your physical address details for us...", 
+        "email_list": [
+            "marketingrefau@elsevier.com"
+        ], 
+        "cite_url": "https://www.facebook.com/elsevier.australia/posts/10152575634066922", 
+        "cite_name": "", 
+        "title": "Congratulations Grand Slam Competition... - Elsevier Australia"
+    }
+]

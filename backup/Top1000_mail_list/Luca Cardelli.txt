@@ -1,2 +1,11 @@
-luca at microsoft.com	[10]
-email at microsoft.com	[3]
+[
+    {
+        "content": "luca cardelli. microsoft research ... verified email at microsoft.com - homepage  scholar. get my own ... m abadi, l cardelli, pl curien, jj lévy. journal of...", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=npBTgSsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Luca Cardelli - Google Scholar Citations"
+    }
+]

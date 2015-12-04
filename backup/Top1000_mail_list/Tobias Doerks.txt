@@ -1,3 +1,11 @@
-doerks@email.de	[13]
-doerks@embl.de	[13]
-bork@embl.de	[1]
+[
+    {
+        "content": "tobias_doerks@email.de ... tobias doerks, saskia huber, erich buchner and peer bork ... richard r. copley, tobias doerks, ivica letunic and peer bork", 
+        "email_addr_list": [
+            "tobias_doerks@email.de"
+        ], 
+        "cite_url": "doerks.de/", 
+        "cite_name": "", 
+        "title": "Tobias Doerks - HomePage"
+    }
+]

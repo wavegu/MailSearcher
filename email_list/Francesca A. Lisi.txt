@@ -1,0 +1,50 @@
+[
+    {
+        "content": "francesca a. lisi. dipartimento di informatica ... verified email at uniba.it - homepage  scholar ... a appice, m ceci, a lanza, fa lisi, d malerba. intelligent data...", 
+        "email_list": [
+            "email@uniba.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xTV10KEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Francesca A. Lisi - Google Scholar Citations"
+    }, 
+    {
+        "content": "items 1 - 6 - dott.ssa francesca a. lisi .... (where [list-of-preconditions] denotes a list of fluent literals). ...... e-mail: cantone@dmi.unict.it, nicolosi@dmi.unict.it.", 
+        "email_list": [
+            "cantone@dmi.unict.it", 
+            "nicolosi@dmi.unict.it"
+        ], 
+        "cite_url": "www.programmazionelogica.it/wp-content/uploads/2006/.../cilc06unite.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dott.ssa Francesca A. Lisi - GULP"
+    }, 
+    {
+        "content": "area commerciale, francesca lisi, f.lisi@bioclass.it. riccardo macinai, r.macinai@bioclass.it. massimiliano nannucci, m.nannucci@bioclass.it...", 
+        "email_list": [
+            "f.lisi@bioclass.it", 
+            "r.macinai@bioclass.it", 
+            "m.nannucci@bioclass.it"
+        ], 
+        "cite_url": "www.bioclass.it/new-subsitepage-3/", 
+        "cite_name": "", 
+        "title": "Contatti Azienda » Bioclass"
+    }, 
+    {
+        "content": "the candidates should send the travel grant application to francesca a. lisi (by email to: francesca.lisi@uniba.it) by april 30, 2014. the application should...", 
+        "email_list": [
+            "francesca.lisi@uniba.it"
+        ], 
+        "cite_url": "cindy.informatik.uni-bremen.de/cosy/design-semantics/.../scholarships/", 
+        "cite_name": "", 
+        "title": "Design Semantics. IAOA Special Interest Group"
+    }, 
+    {
+        "content": "(e-mail: francesca.lisi@uniba.it). abstract. logic programming (lp) (14) and the family of description logics (dls) (1) are both based on fragments of first order...", 
+        "email_list": [
+            "francesca.lisi@uniba.it"
+        ], 
+        "cite_url": "ceur-ws.org/Vol-1433/lisi.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]A brief guided tour along the borders of Logic Programming ..."
+    }
+]

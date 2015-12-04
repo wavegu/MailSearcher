@@ -1,0 +1,38 @@
+[
+    {
+        "content": "m. deane bowers ... email: deane.bowers@colorado.edu. phone: 303-492-5530, 303-492-6270. back. staff directory  gallery rental  employment  site map.", 
+        "email_list": [
+            "deane.bowers@colorado.edu"
+        ], 
+        "cite_url": "https://cumuseum.colorado.edu/.../m-dea...", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "M. Deane Bowers | Museum of Natural History"
+    }, 
+    {
+        "content": "office: (303) 492-5530. email: deane.bowers@colorado.edu. research interests: chemical ecology, insect ecology and evolution, lepidoptera, plant-.", 
+        "email_list": [
+            "deane.bowers@colorado.edu"
+        ], 
+        "cite_url": "www.bowerslab.org/uploads/1/5/3/2/.../bowers_cv--dec_2014.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]M. Deane Bowers"
+    }, 
+    {
+        "content": "verified email at colorado.edu ... ed fajer, md bowers, fa bazzaz ... caterpillars: life-styles of the warningly colored and unpalatable m. deane bowers.", 
+        "email_list": [
+            "email@colorado.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=TRTN2-oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Deane Bowers - Google Scholar Citations"
+    }, 
+    {
+        "content": "m. deane bowers. university of colorado department of e.p.o. biology campus box 334. boulder, co usa 80309. email: deane.bowers@colorado.edu.", 
+        "email_list": [
+            "deane.bowers@colorado.edu"
+        ], 
+        "cite_url": "https://esa.confex.com/esa/2008/webprogram/Person29134.html", 
+        "cite_name": "", 
+        "title": "M. Deane Bowers"
+    }
+]

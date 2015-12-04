@@ -1,4 +1,20 @@
-a.moretta@realstaffing.com	[16]
-lorenzomoretta@ospedalegaslini.ge.it	[16]
-daniel.olive@inserm.fr	[2]
-daniel.olive@inserm.fr.equipment	[2]
+[
+    {
+        "content": "email: lorenzomoretta@ospedalegaslini.ge.it ... professor lorenzo moretta is ordinary professor of general pathology and ... alessandro moretta´s lab was.", 
+        "email_addr_list": [
+            "lorenzomoretta@ospedalegaslini.ge.it"
+        ], 
+        "cite_url": "www.enii.org/upload/doc/doc46ea9b008fa36.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Profile Lorenzo Moretta - enii.org"
+    }, 
+    {
+        "content": "email this article (login required) ... naji salem3, jochen walz3, alessandro moretta4 and daniel olive1,2,3 ... daniel olive, email: daniel.olive@inserm.fr.", 
+        "email_addr_list": [
+            "daniel.olive@inserm.fr"
+        ], 
+        "cite_url": "www.impactjournals.com  Home  Vol 6, No 16  Pasero", 
+        "cite_name": "", 
+        "title": "Highly effective NK cells are associated with good prognosis ..."
+    }
+]

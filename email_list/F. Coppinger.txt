@@ -1,0 +1,47 @@
+[
+    {
+        "content": "email address: edward.coppinger@mahouse.gov. phone number: (617) 722-2304. fax: (617) 626-0158. office address: room 160; 24 beacon st; boston, ma...", 
+        "email_list": [
+            "edward.coppinger@mahouse.gov"
+        ], 
+        "cite_url": "https://trackbill.com/legislator/MA/188/4597/edward-f-coppinger", 
+        "cite_name": "", 
+        "title": "Rep. Edward F. Coppinger (D) | Massachusetts 2013-2014"
+    }, 
+    {
+        "content": "email address: edward.coppinger@mahouse.gov. phone number: (617) 722-2304. fax: (617) 626-0158. office address: room 160; 24 beacon st; boston, ma...", 
+        "email_list": [
+            "edward.coppinger@mahouse.gov"
+        ], 
+        "cite_url": "https://trackbill.com/legislator/MA/189/4597/edward-f-coppinger", 
+        "cite_name": "", 
+        "title": "Rep. Edward F. Coppinger (D) | Massachusetts 2015-2016"
+    }, 
+    {
+        "content": "district tenth suffolk work. phone: 617-722-2304work. email: edward.coppinger@mahouse.govinternet. certification: november 2, 2010 certification – rep...", 
+        "email_list": [
+            "edward.coppinger@mahouse.govinternet"
+        ], 
+        "cite_url": "masscitizensforjobs.org/representatives/name/edward-coppinger/", 
+        "cite_name": "", 
+        "title": "Rep. Edward F. Coppinger | Representatives ..."
+    }, 
+    {
+        "content": "tdd fax email website address, kevin f. coppinger (781) 595-2000 (781)595-1400 (781)477-7069 kcoppinger@lynnpolice.org  lynn police department", 
+        "email_list": [
+            "kcoppinger@lynnpolice.org"
+        ], 
+        "cite_url": "www.cityoflynn.net/citydepartments_lynnpolice.shtml", 
+        "cite_name": "", 
+        "title": "Lynn Police Department"
+    }, 
+    {
+        "content": "congressman stephen f. lynch. boston ... email: matthew.omalley@boston.gov ... state representative edward f. coppinger of the 10th suffolk district of the...", 
+        "email_list": [
+            "matthew.omalley@boston.gov"
+        ], 
+        "cite_url": "www.nofrackedgasinmass.org/.../Boston-Mayor-and-Reps-Motion-to-Int...", 
+        "cite_name": "", 
+        "title": "[PDF]Boston Delegation Files Motion to Intervene - No Fracked ..."
+    }
+]

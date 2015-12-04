@@ -1,0 +1,11 @@
+[
+    {
+        "content": "mar 30, 2015 - email: kimura@rins.ryukoku.ac.jp ... kazumi saito, masahiro kimura, kouzou ohara, and hiroshi motoda: super mediator - a new centrality...", 
+        "email_list": [
+            "kimura@rins.ryukoku.ac.jp"
+        ], 
+        "cite_url": "www.elec.ryukoku.ac.jp/~kimura/", 
+        "cite_name": "", 
+        "title": "Masahiro Kimura"
+    }
+]

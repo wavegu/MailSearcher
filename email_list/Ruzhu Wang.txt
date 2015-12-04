@@ -1,0 +1,56 @@
+[
+    {
+        "content": "email: rzwang@sjtu.edu.cn ... (in english) (2) wang ruzhu, wang liwei, wu jingyi. ..... [54] qiang ma, ruzhu wang, lingai luo, zaizhong xia and peng lin.", 
+        "email_list": [
+            "rzwang@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Wang, Ru Zhu"
+    }, 
+    {
+        "content": "prof. wang ruzhu. cvs of prof. wang ruzhu (r.z. wang),cheung kong chair professor. tel: +8621 - 3420 6548. email: rzwang [at] sjtu.edu.cn. education", 
+        "email_list": [
+            "rzwang@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Prof. Wang Ruzhu - 上海交通大学/制冷与低温工程研究所 ..."
+    }, 
+    {
+        "content": "dr. wang ruzhu is the director of institute of refrigeration and cryogenics, shanghai jiao ... wang was elected as one of the top one hundred outstanding professors in china universities by moe china in 2007. ... e-mail: rzwang@sjtu.edu.cn.", 
+        "email_list": [
+            "rzwang@sjtu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Jiao Tong University - MOE Engineering Research Center of ..."
+    }, 
+    {
+        "content": "wang, ruzhu（王如竹）. position: professor. school of mechanical ... e-mail rzwang@sjtu.edu.cn. date of birth: december 22, 1964. education:.", 
+        "email_list": [
+            "rzwang@sjtu.edu.cn"
+        ], 
+        "cite_url": "www.jst.go.jp/...ch.../cv_12-2.pdf", 
+        "cite_name": "Japan Science and Technology Agency", 
+        "title": "[PDF]WANG, RuZhu（王如竹） POSITION: Professor School of ..."
+    }, 
+    {
+        "content": "apr 10, 2013 - professor ruzhu wang. project collaborator school of mechanical engineering,; email: rzwang@sjtu.edu. ... associate professor li-wei wang.", 
+        "email_list": [
+            "rzwang@sjtu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Newcastle University", 
+        "title": "SJTU (Shanghai Jiao Tong University); GLOBAL SECURE ..."
+    }, 
+    {
+        "content": "email: yaodong.wang@newcastle.ac.uk tel: 0191 2084934 ... ruzhu wang is a leading scientist for adsorption refrigeration research and solar cooling in the...", 
+        "email_list": [
+            "yaodong.wang@newcastle.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Newcastle University", 
+        "title": "Expertise Profiles; Sustem Network; Newcastle University"
+    }
+]

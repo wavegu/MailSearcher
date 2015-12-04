@@ -1,3 +1,20 @@
-levy at cs.henry	[19]
-email at cs.washington.edu	[4]
-my-first-name at cs dot columbia dot edu	[3]
+[
+    {
+        "content": "henry m. levy. wissner-slivka ... verified email at cs.washington.edu - homepage  scholar ... a wolman, m voelker, n sharma, n cardwell, a karlin, hm levy.", 
+        "email_addr_list": [
+            "email@cs.washington.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ymwKqZsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Henry M. Levy - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: my-first-name at cs dot columbia dot edu. credit: nicolas viennot ... roxana geambasu, tadayoshi kohno, amit levy, henry m. levy. vanish:...", 
+        "email_addr_list": [
+            "my-first-name@cs.columbia.edu"
+        ], 
+        "cite_url": "www.cs.columbia.edu/~roxana/.../publications.html", 
+        "cite_name": "Columbia University", 
+        "title": "Roxanas home page - Columbia University"
+    }
+]

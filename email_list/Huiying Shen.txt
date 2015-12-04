@@ -1,0 +1,21 @@
+[
+    {
+        "content": "email: micky10@vt.edu. jon atwood degree currently sought: ... email: cmarcos8@vt.edu. chen chen .... huiying (maggie) mao degree currently sought: ph.d.", 
+        "email_list": [
+            "micky10@vt.edu", 
+            "cmarcos8@vt.edu"
+        ], 
+        "cite_url": "www.stat.vt.edu/people/gs.html", 
+        "cite_name": "Virginia Tech", 
+        "title": "Graduate Students | Department of Statistics | Virginia Tech"
+    }, 
+    {
+        "content": "shen and nikolaidis (1997). 67. global nest: the int. ... fax: +1 (860) 486-2298 e-mail: nikos@engr.uconn.edu ... n. nikolaidis and huiying shen. physical...", 
+        "email_list": [
+            "nikos@engr.uconn.edu"
+        ], 
+        "cite_url": "journal.gnest.org/sites/default/files/Journal%20Papers/Nikolaidis.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Get Full Paper - Global NEST Journal"
+    }
+]

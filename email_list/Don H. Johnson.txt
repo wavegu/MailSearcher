@@ -1,0 +1,20 @@
+[
+    {
+        "content": "don h. johnson j.s. abercrombie professor emeritus electrical  computer engineering. 713-348-4956, dhj@rice.edu. office: abercrombie a 206. office hours:...", 
+        "email_list": [
+            "dhj@rice.edu"
+        ], 
+        "cite_url": "dhj.rice.edu/", 
+        "cite_name": "", 
+        "title": "Don H. Johnson | Rice Electrical  Computer Engineering"
+    }, 
+    {
+        "content": "don h. johnson email: dhj@rice.edu. phone: (713) ... professor johnsons present research activities focus on issues in statistical signal processing. particular...", 
+        "email_list": [
+            "dhj@rice.edu"
+        ], 
+        "cite_url": "https://statistics.rice.edu/feed/FacultyDisplay.aspx?FID...", 
+        "cite_name": "Rice University", 
+        "title": "Don H. Johnson - Rice University Department of Statistics ..."
+    }
+]

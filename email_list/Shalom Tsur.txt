@@ -1,0 +1,11 @@
+[
+    {
+        "content": "home: (650) 968 8003 fax: (650) 968 8040 email: tsur@pacbell.net ... ron y. pinter, shalom tsur (editors), next generation information technologies and...", 
+        "email_list": [
+            "tsur@pacbell.net"
+        ], 
+        "cite_url": "www.cs.ucla.edu/~czdemo/tsur/Resume.html", 
+        "cite_name": "", 
+        "title": "Shalom Tsur - UCLA"
+    }
+]

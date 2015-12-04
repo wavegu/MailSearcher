@@ -1,0 +1,20 @@
+[
+    {
+        "content": "emailmoher@uic.edu. office phone. +1 (312) 996-4562; +1 (312) 413-1227. location. 3009 erf; lsri 1570-g ssb. mailing address. department of computer...", 
+        "email_list": [
+            "emailmoher@uic.edu"
+        ], 
+        "cite_url": "www.lsri.uic.edu/people/tom-moher", 
+        "cite_name": "University of Illinois at Chicago", 
+        "title": "Tom Moher | Learning Sciences Research Institute"
+    }, 
+    {
+        "content": "moher and cannello pc sault sainte marie,mi. welcome to our web site! steven j. cannello. thomas g. moher ... e-mail: mocan150@sbcglobal.net...", 
+        "email_list": [
+            "mocan150@sbcglobal.net"
+        ], 
+        "cite_url": "www.moherandcannello.com/", 
+        "cite_name": "", 
+        "title": "Moher And Cannello PC"
+    }
+]

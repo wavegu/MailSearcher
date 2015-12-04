@@ -1,0 +1,11 @@
+[
+    {
+        "content": "peilin zhao. research scientist ... verified email at i2r.a-star.edu.sg - homepage  scholar. get my own ... p zhao, r jin, t yang, sc hoi. proceedings of the...", 
+        "email_list": [
+            "email@i2r.a-star.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HPeX_YcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Peilin Zhao - Google Scholar Citations"
+    }
+]

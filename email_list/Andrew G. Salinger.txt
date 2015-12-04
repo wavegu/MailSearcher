@@ -1,0 +1,38 @@
+[
+    {
+        "content": "andrew g. salinger (andy) computational mathematics email: agsalin@sandia.gov. phone: 505/845-3523. fax: 505/845-7442. mailing address:", 
+        "email_list": [
+            "agsalin@sandia.gov"
+        ], 
+        "cite_url": "https://cfwebprod.sandia.gov/cfdocs/CompResearch/.../profile.cfm?snl...", 
+        "cite_name": "", 
+        "title": "Salinger, Andrew G. (Andy) - Sandia National Laboratories"
+    }, 
+    {
+        "content": "cancel. andrew g. salinger ... verified email at sandia.gov - homepage  scholar ... ag salinger, nm bou-rabee, rp pawlowski, ed wilkes, ea burroughs, .", 
+        "email_list": [
+            "email@sandia.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-MF9gMoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew G. Salinger - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 3, 2015 - henk a. dijkstra, fred w. wubs, andrew k. cliffe, eusebius doedel, ioana f. dragomirescu, bruno eckhardt, alexander yu. gelfgat, andrew l. hazel, valerio lucarini, andy g. salinger, erik t. ... email: h.a.dijkstra@uu.nl.", 
+        "email_list": [
+            "h.a.dijkstra@uu.nl"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S1815240600...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Numerical Bifurcation Methods and their Application to Fluid ..."
+    }, 
+    {
+        "content": "oct 2, 2015 - irina demeshko∗, andrew g. salinger∗, michael heroux∗. ∗ sandia national laboratories, email: ipdemes@sandia.gov. abstract—together...", 
+        "email_list": [
+            "ipdemes@sandia.gov"
+        ], 
+        "cite_url": "https://www.orau.gov/csessp2015/whitepapers/demeshko_irina.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Addressing sustainability and performance portability ..."
+    }
+]

@@ -1,2 +1,20 @@
-stonebraker@csail.mit.edu	[23]
-mike@cs.berkeley.edu	[2]
+[
+    {
+        "content": "michael stonebraker. [ login to edit profile ]; position: adjunct professor; office: 32-g922; phone: +1 (617) 253-3538; email: stonebraker@csail.mit.edu; areas of...", 
+        "email_addr_list": [
+            "stonebraker@csail.mit.edu"
+        ], 
+        "cite_url": "https://www.csa...", 
+        "cite_name": "MIT Computer Science and Artificial Intelligence Labo...", 
+        "title": "Michael Stonebraker | MIT CSAIL"
+    }, 
+    {
+        "content": "dr. michael stonebraker. contact information. 621 soda hall university of california berkeley, ca 94720. email: mike@cs.berkeley.edu...", 
+        "email_addr_list": [
+            "mike@cs.berkeley.edu"
+        ], 
+        "cite_url": "infolab.stanford.edu/infoseminar/archive/FallY95/stonebraker.html", 
+        "cite_name": "", 
+        "title": "Michael Stonebraker - The Stanford University InfoLab"
+    }
+]

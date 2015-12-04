@@ -1,0 +1,11 @@
+[
+    {
+        "content": "by lee, peizong .... malaysia, 06010 uum sintok, kedah darul aman, malaysia tel: +604-928 3627 | fax : +604-928 3613 | email: refquery@uum.edu.my", 
+        "email_list": [
+            "refquery@uum.edu.my"
+        ], 
+        "cite_url": "www.cmslib.uum.edu.my/.../Search?...%22PeiZ...", 
+        "cite_name": "Universiti Utara Malaysia", 
+        "title": "Search Results - PeiZong Lee"
+    }
+]

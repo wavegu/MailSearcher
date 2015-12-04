@@ -1,3 +1,20 @@
-frank.hu@channing.harvard.edu	[15]
-email at channing.harvard.edu	[2]
-eros@clinic.ub.es	[1]
+[
+    {
+        "content": "cancel. frank b. hu ... verified email at channing.harvard.edu - homepage  scholar ... fb hu, jae manson, mj stampfer, g colditz, s liu, cg solomon, .", 
+        "email_addr_list": [
+            "email@channing.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9Wq1xSUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Frank B. Hu - Google Scholar Citations"
+    }, 
+    {
+        "content": "email eros@clinic.ub.es and frank b. hu, md, phd, department of nutrition, harvard school of public health, 665 huntington ave, boston, ma 02115. e-mail...", 
+        "email_addr_list": [
+            "eros@clinic.ub.es"
+        ], 
+        "cite_url": "circ.ahajournals.org/content/128/5/553.extractwww.google.com/email", 
+        "cite_name": "Circulation", 
+        "title": "Consumption of Plant Seeds and Cardiovascular HealthGoogle Business Email‎"
+    }
+]

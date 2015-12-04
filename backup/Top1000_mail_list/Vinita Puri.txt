@@ -1,7 +1,32 @@
-profpuri@gmail.com.dr	[9]
-profpuri@gmail.com	[9]
-drvsrr@gmail.com	[2]
-uvicssd@uvic.ca	[2]
-edussd@uvic.ca	[1]
-samir.kumta@gmail.com	[1]
-rajendranehete@gmail.com	[1]
+[
+    {
+        "content": "print this page email this page users online: 2 ... dr. vinita puri professor  head department of ... mumbai 400 012, india 022 24107040, profpuri@gmail.com.", 
+        "email_addr_list": [
+            "profpuri@gmail.com"
+        ], 
+        "cite_url": "www.ijburns.com/editorialboard.asp", 
+        "cite_name": "", 
+        "title": "Indian Journal of Burns : About us"
+    }, 
+    {
+        "content": "name, position. vinita puri. email: uvicssd@uvic.ca. office coordinator. jasmindra jawanda. email: edussd@uvic.ca. education and administration coordinator...", 
+        "email_addr_list": [
+            "uvicssd@uvic.ca", 
+            "edussd@uvic.ca"
+        ], 
+        "cite_url": "uvicssd.com/about-us/contact-us/", 
+        "cite_name": "", 
+        "title": "UVIC - Society for Students with a Disability - Contact Us"
+    }, 
+    {
+        "content": "samir.kumta@gmail.com. dr rajendra nehete organising secretary rajendranehete@gmail.com. dr vinita puri congress co-ordinator profpuri@gmail.com...", 
+        "email_addr_list": [
+            "samir.kumta@gmail.com", 
+            "rajendranehete@gmail.com", 
+            "profpuri@gmail.com"
+        ], 
+        "cite_url": "www.wsrm2015mumbai.com/contact_us.phpwww.google.com/email", 
+        "cite_name": "", 
+        "title": "Contact - WSRM 2015Google Business Email‎Searches related to Vinita Puri email"
+    }
+]

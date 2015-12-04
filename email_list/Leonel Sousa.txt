@@ -1,0 +1,20 @@
+[
+    {
+        "content": "leonel sousa. inesc-id, instituto ... verified email at inesc-id.pt - homepage  scholar ... vc martins, fa cardoso, j germano, s cardoso, l sousa, m piedade, .", 
+        "email_list": [
+            "email@inesc-id.pt"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Xw4F4y0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Leonel Sousa - Google Scholar Citations"
+    }, 
+    {
+        "content": "leonelsousa. professor leonel sousa. inesc-id, ist, universidade de lisboa. rua alves redol, 9. 1000-029 lisboa. portugal. email: las@inesc-id.pt.", 
+        "email_list": [
+            "las@inesc-id.pt"
+        ], 
+        "cite_url": "www.nesus.eu/leonel-sousa-wg-1-leader", 
+        "cite_name": "", 
+        "title": "Leonel Sousa. WG 1 Leader - NESUS: Network for ..."
+    }
+]

@@ -1,2 +1,20 @@
-stanislas.dehaene@cea.fr	[33]
-email at cea.fr	[1]
+[
+    {
+        "content": "f-91191 gif/yvette, france. tél : 33 (0)1 69 08 83 90. fax : 33 (0)1 69 08 79 73. e-mail: stanislas.dehaene@cea.fr  site web de linstitut du cea site web:...", 
+        "email_addr_list": [
+            "stanislas.dehaene@cea.fr"
+        ], 
+        "cite_url": "www.college-de-france.fr/.../stanisla...", 
+        "cite_name": "Collège de France", 
+        "title": "Laboratoire - Stanislas Dehaene - Psychologie cognitive ..."
+    }, 
+    {
+        "content": "create alert. cancel. stanislas dehaene ... verified email at cea.fr - homepage  scholar ... s dehaene, e spelke, p pinel, r stanescu, s tsivkin. science 284...", 
+        "email_addr_list": [
+            "email@cea.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2Dd5uoIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Stanislas Dehaene - Google Scholar Citations"
+    }
+]

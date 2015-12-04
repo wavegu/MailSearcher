@@ -1,0 +1,20 @@
+[
+    {
+        "content": "e-mail: jl221 [at] cam.ac.uk. background. joan lasenby received her undergraduate ba degree and part iii qualification, in mathematics from trinity college,...", 
+        "email_list": [
+            "jl221@cam.ac.uk"
+        ], 
+        "cite_url": "sigproc.eng.cam.ac.uk/Main/JL", 
+        "cite_name": "", 
+        "title": "Joan Lasenby - Signal Processing and Communications ..."
+    }, 
+    {
+        "content": "department of engineering / profiles / dr joan lasenby ... email: jl@eng.cam.ac.uk ... joan lasenby received her undergraduate ba degree and part iii...", 
+        "email_list": [
+            "jl@eng.cam.ac.uk"
+        ], 
+        "cite_url": "www.eng.cam.ac.u...", 
+        "cite_name": "Department of Engineering, University of Cambridge", 
+        "title": "Joan Lasenby | Department of Engineering"
+    }
+]

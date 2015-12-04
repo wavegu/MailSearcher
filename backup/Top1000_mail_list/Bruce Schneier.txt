@@ -1,2 +1,11 @@
-schneier@schneier.com	[17]
-schneier@schneier.com.schneier	[17]
+[
+    {
+        "content": "subscribe. atom feed facebook twitter kindle e-mail newsletter (crypto-gram) ... for everything else, please e-mail bruce schneier: schneier@schneier.com.", 
+        "email_addr_list": [
+            "schneier@schneier.com"
+        ], 
+        "cite_url": "https://www.schneier.com/contact.html", 
+        "cite_name": "", 
+        "title": "Schneier on Security: Contact Bruce Schneier"
+    }
+]

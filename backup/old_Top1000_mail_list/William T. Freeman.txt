@@ -1,0 +1,4 @@
+email at mit.edu	[5]
+billf at mit dot edu	[3]
+sweinberg@fbhesq.com	[2]
+billf@csail.mit.edu	[2]

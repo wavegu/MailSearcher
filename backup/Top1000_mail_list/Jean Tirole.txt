@@ -1,3 +1,29 @@
-jean.tirole@ut-capitole.fr	[21]
-jean.tirole@tse-fr.eu	[21]
-email at tse-fr.eu	[2]
+[
+    {
+        "content": "jean tirole. professor of economics, toulouse school ... verified email at tse-fr.eu. scholar. get my own profile ... b holmstrom, j tirole. the quarterly journal of...", 
+        "email_addr_list": [
+            "email@tse-fr.eu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ZEDUm5UAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jean Tirole - Google Scholar Citations"
+    }, 
+    {
+        "content": "home  jean tirole. affiliation: ... email jean.tirole@tse-fr.eu. tel +33 (0)5 61 12 86 42 ..... 370-390. (with jean-jacques laffont, scott marcus and patrick rey).", 
+        "email_addr_list": [
+            "jean.tirole@tse-fr.eu"
+        ], 
+        "cite_url": "www.iast.fr/member/jean-tirole", 
+        "cite_name": "", 
+        "title": "Jean Tirole | IAST Toulouse, Labex, laboratoire dexcellence ..."
+    }, 
+    {
+        "content": "bureau: mf529; téléphone: 05 61 12 86 42; courriel: jean.tirole@ut-capitole.fr; structure(s) de rattachement: groupe de recherche en economie...", 
+        "email_addr_list": [
+            "jean.tirole@ut-capitole.fr"
+        ], 
+        "cite_url": "www.ut-capitole.fr/.../...www.google.com/email", 
+        "cite_name": "Toulouse 1 University Capitole", 
+        "title": "Université Toulouse 1 Capitole - M. TIROLE JEANGoogle Business Email - Custom email for your company‎Searches related to Jean Tirole email"
+    }
+]

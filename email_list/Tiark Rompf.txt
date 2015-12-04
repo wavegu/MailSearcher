@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. tiark rompf ... verified email at purdue.edu - homepage  scholar ... kj brown, ak sujeeth, hj lee, t rompf, h chafi, m odersky, k olukotun. parallel...", 
+        "email_list": [
+            "email@purdue.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=L8zhVsMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Tiark Rompf - Google Scholar Citations"
+    }, 
+    {
+        "content": "tiark rompf. contact. contact-image. oracle. email: tiark.rompf@oracle.comthis email address is being protected from ... for all enquiries mail to: dali ws.", 
+        "email_list": [
+            "tiark.rompf@oracle.comthis"
+        ], 
+        "cite_url": "www.dynali.org/participants/14-tiark-rompf.html", 
+        "cite_name": "", 
+        "title": "Tiark Rompf - DALI Workshop"
+    }
+]

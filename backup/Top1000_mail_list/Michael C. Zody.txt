@@ -1,1 +1,11 @@
-lander@genome.wi.mit.edu	[1]
+[
+    {
+        "content": "... chad nusbaum, michael c. zody, jennifer baldwin, keri devon, ken dewar, ..... lander (e-mail: email: lander@genome.wi.mit.edu), r. h. waterston (e-mail:...", 
+        "email_addr_list": [
+            "lander@genome.wi.mit.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Human Genome  article", 
+        "cite_name": "Nature", 
+        "title": "Initial sequencing and analysis of the human genome - Nature"
+    }
+]

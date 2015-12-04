@@ -1,0 +1,20 @@
+[
+    {
+        "content": "australian national university. chief data scientist (2002-present) togaware pty ltd. email: graham.williams@togaware.com. mobile: +61 402 409 418...", 
+        "email_list": [
+            "graham.williams@togaware.com"
+        ], 
+        "cite_url": "togaware.com/about/graham-williams/", 
+        "cite_name": "", 
+        "title": "Graham Williams | Togaware"
+    }, 
+    {
+        "content": "graham williams. australian ... verified email at togaware.com - homepage  scholar ... j li, aw fu, h he, j chen, h jin, d mcaullay, g williams, r sparks, .", 
+        "email_list": [
+            "email@togaware.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=08HEV_kAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Graham Williams - Google Scholar Citations"
+    }
+]

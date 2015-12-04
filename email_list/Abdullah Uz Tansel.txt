@@ -1,0 +1,11 @@
+[
+    {
+        "content": "abdullah uz tansel. abdullah uz tansels picture. education; courses being taught: ... email: tansel@baruch.cuny.edu. last changed september 2015;...", 
+        "email_list": [
+            "tansel@baruch.cuny.edu"
+        ], 
+        "cite_url": "cisnet.baruch.cuny.edu/tansel/", 
+        "cite_name": "", 
+        "title": "Tansel, Abdullah Uz - CIS Programs at Baruch College - Cuny"
+    }
+]

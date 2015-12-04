@@ -1,0 +1,30 @@
+[
+    {
+        "content": "aug 25, 2015 - jingwei sun, guangzhong sun: splz: an efficient algorithm for single source ... email, gzsun at ustc.edu.cn, gzsun.ustc at gmail.com.", 
+        "email_list": [
+            "gzsun@ustc.edu.cn", 
+            "gzsun.ustc@gmail.com"
+        ], 
+        "cite_url": "staff.ustc.edu.cn/~gzsun/", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Guangzhong Sun"
+    }, 
+    {
+        "content": "guang-zhong sun. university of science and ... verified email at ustc.edu.cn - homepage  scholar ... j yuan, y zheng, c zhang, w xie, x xie, g sun, y huang.", 
+        "email_list": [
+            "email@ustc.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sm_uYE8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Guang-zhong Sun - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: chen@cs.yale.edu. phone: +1 ... advisor: guangzhong sun area of study: machine learning ... dongqu chen, guangzhong sun and zhenqiang gong.", 
+        "email_list": [
+            "chen@cs.yale.edu"
+        ], 
+        "cite_url": "www.cs.yale.edu/homes/dongqu/", 
+        "cite_name": "Yale University", 
+        "title": "Dongqu Chen - Yale University - Computer Science"
+    }
+]

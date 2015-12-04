@@ -1,0 +1,49 @@
+[
+    {
+        "content": "dr. laurent falquet phone: +4126 3008991. email: bugfri@unifr.ch. bugfri - rue du musée 10 - 1700 fribourg - tel +41 26 / 300 8991 - fax +41 26 / 300 9741", 
+        "email_list": [
+            "bugfri@unifr.ch"
+        ], 
+        "cite_url": "www.unifr.ch/bugfri/", 
+        "cite_name": "University of Fribourg", 
+        "title": "BUGFri » University of Fribourg"
+    }, 
+    {
+        "content": "aug 1, 2004 - +4121 692 5945. e-mail: laurent.falquet@isb-sib.ch. education: since 2002: bioinformatician, swiss embnet node manager at sib-lausanne.", 
+        "email_list": [
+            "laurent.falquet@isb-sib.ch"
+        ], 
+        "cite_url": "bioinf.ibun.unal.edu.co/cbib/laurent.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Bioinformatician (PhD in Biochemistry) - EMBnet Colombia"
+    }, 
+    {
+        "content": "15 lausanne switzerland email: yannick wurm* - yannick.wurm@unil.ch; paolo uva ... laurent falquet erik bongcam-rudloff the linnaeus centre for...", 
+        "email_list": [
+            "yannick.wurm@unil.ch"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-falquet-isb-sib-ch-14752169.htm", 
+        "cite_name": "", 
+        "title": "falquet@isb-sib.ch - The Email Archive"
+    }, 
+    {
+        "content": "feb 21, 2015 - laurent falquet6. email: laurent.falquet@unifr.ch. hailiang mei1. email: h.mei@lumc.nl. alexander schönhuth4. email: a.schoenhuth@cwi.nl.", 
+        "email_list": [
+            "laurent.falquet@unifr.ch", 
+            "h.mei@lumc.nl", 
+            "a.schoenhuth@cwi.nl"
+        ], 
+        "cite_url": "www.biomedcentral.com/content/.../s12864-015-1376-9....", 
+        "cite_name": "BioMed Central", 
+        "title": "[PDF]SV-AUTOPILOT: optimized, automated construction of ..."
+    }, 
+    {
+        "content": "dec 4, 2005 - for bioinformatics, slu/uu. se. email: erik.bongcam@bmc.uu.se. tel: +46-18-4716696. fax: +46-18-4714525. laurent falquet, sib, lausanne...", 
+        "email_list": [
+            "erik.bongcam@bmc.uu.se"
+        ], 
+        "cite_url": "www.lanevol.org/reprints/embnet_news11_4-high.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]• Discover OligoFaktorySE • Web Services at the EBI ..."
+    }
+]

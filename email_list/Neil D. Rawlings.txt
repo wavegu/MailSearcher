@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. neil david rawlings. wellcome trust sanger institute  bioinformatics. verified email at sanger.ac.uk. scholar ... aj barrett, nd rawlings, jf woessner.", 
+        "email_list": [
+            "email@sanger.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=BmZjZtAAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Neil David Rawlings - Google Scholar Citations"
+    }
+]

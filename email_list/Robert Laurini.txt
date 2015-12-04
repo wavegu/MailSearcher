@@ -1,0 +1,29 @@
+[
+    {
+        "content": "institution, institut national des sciences appliquées de lyon (département informatique). location, blaise pascal (insa). e-mail, robert.laurini at liris.cnrs.fr.", 
+        "email_list": [
+            "robert.laurini@liris.cnrs.fr"
+        ], 
+        "cite_url": "https://liris....", 
+        "cite_name": "Centre national de la recherche scientifique", 
+        "title": "Laurini Robert - membres — LIRIS - CNRS"
+    }, 
+    {
+        "content": "cancel. robert laurini ... verified email at insa-lyon.fr - homepage ... r laurini. international journal of geographical information science 12 (4), 373-402, 1998.", 
+        "email_list": [
+            "email@insa-lyon.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=79jQ3T4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Robert Laurini - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: robert.laurini@lisi.insa-lyon.fr. sylvie servigne. laboratory for information system engineering. national institute for applied sciences of lyon.", 
+        "email_list": [
+            "robert.laurini@lisi.insa-lyon.fr"
+        ], 
+        "cite_url": "downloads2.esri.com/campus/uploads/library/pdfs/6345.pdf", 
+        "cite_name": "Esri", 
+        "title": "[PDF]Robert LAURINI, Laboratory for Information System ..."
+    }
+]

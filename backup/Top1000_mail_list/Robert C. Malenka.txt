@@ -1,2 +1,38 @@
-malenka@stanford.edu	[15]
-email at stanford.edu	[3]
+[
+    {
+        "content": "robert c. malenka. nancy friend pritzker professor in psychiatry and behavioral sciences. email: malenka@stanford.edu...", 
+        "email_addr_list": [
+            "malenka@stanford.edu"
+        ], 
+        "cite_url": "https://stanfordwho.stanford.edu/SWApp/lookup?...robert%20malenka", 
+        "cite_name": "", 
+        "title": "Robert C. Malenka - Public Listing from Stanford People ..."
+    }, 
+    {
+        "content": "robert malenka. nancy friend pritzker professor professor of psychiatry and of behavioral sciences email: malenka@stanford.edu. tel: (650) 724-2730", 
+        "email_addr_list": [
+            "malenka@stanford.edu"
+        ], 
+        "cite_url": "https://neuroscience.stanford.edu/people/executive-committee", 
+        "cite_name": "", 
+        "title": "Executive Committee | Neurosciences Institute"
+    }, 
+    {
+        "content": "verified email at stanford.edu. scholar. get my own ... rc malenka, mf bear. neuron 44 (1), 5-21, ... se hyman, rc malenka, ej nestler. annu. rev. neurosci.", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-95ij94AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Robert Malenka - Google Scholar Citations"
+    }, 
+    {
+        "content": "julie a. kauer  robert c. malenka about the authors. top of page ... correspondence to: robert c. malenka email: malenka@stanford.edu. top of page...", 
+        "email_addr_list": [
+            "malenka@stanford.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Synaptic plasticity and addiction : Abstract : Nature Reviews ..."
+    }
+]

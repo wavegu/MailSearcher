@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jun 7, 2015 - ... blaise pascal (insa). e-mail, jean-marc.petit at insa-lyon.fr ... julien cumin, jean-marc petit, fabien rouge  christian surace. « requêtes...", 
+        "email_list": [
+            "jean-marc.petit@insa-lyon.fr"
+        ], 
+        "cite_url": "https://liris....", 
+        "cite_name": "Centre national de la recherche scientifique", 
+        "title": "Petit Jean-Marc - membres — LIRIS - CNRS"
+    }, 
+    {
+        "content": "create alert. cancel. jean-marc calixte petit ... verified email at insa-lyon.fr - homepage  scholar ... jm petit, f toumani, jf boulicaut, j kouloumdjian. 12th int.", 
+        "email_list": [
+            "email@insa-lyon.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4RZZco4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jean-Marc Calixte Petit - Google Scholar Citations"
+    }
+]

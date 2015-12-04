@@ -1,3 +1,38 @@
-joke.vandesompele@ugent.be.a	[29]
-joke.vandesompele@ugent.be	[29]
-email at ugent.be	[1]
+[
+    {
+        "content": "jo vandesompele. department of pediatrics ... email. joke.vandesompele@ugent.be. 1 – 10 of 303. show: 10; |; sort: year (new to old). news feed; embed this...", 
+        "email_addr_list": [
+            "joke.vandesompele@ugent.be"
+        ], 
+        "cite_url": "lib.ugent.be/bibliografie/801001188309", 
+        "cite_name": "Ghent University", 
+        "title": "Jo Vandesompele"
+    }, 
+    {
+        "content": "jo vandesompele. jvdesomps picture. +32-479-353563. +32-9-3326549. joke.vandesompele@ugent.be. tabs. personal information(active tab); publications.", 
+        "email_addr_list": [
+            "joke.vandesompele@ugent.be"
+        ], 
+        "cite_url": "https://cmgg.be/en/users/jo-vandesompele", 
+        "cite_name": "", 
+        "title": "Jo Vandesompele | Center for Medical Genetics"
+    }, 
+    {
+        "content": "jo vandesompele. professor in functional ... verified email at ugent.be. scholar ... j vandesompele, k de preter, f pattyn, b poppe, n van roy, ... genome...", 
+        "email_addr_list": [
+            "email@ugent.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WXDb0rEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jo Vandesompele - Google Scholar Citations"
+    }, 
+    {
+        "content": "german cancer center, im neuenheimer feld 280, heidelberg, germany. correspondence: jo vandesompele. email: joke.vandesompele@ugent.be.", 
+        "email_addr_list": [
+            "joke.vandesompele@ugent.be"
+        ], 
+        "cite_url": "www.genomebiology.com/.../pdf/gb-2009-10-6-r64.pd...", 
+        "cite_name": "Genome Biology", 
+        "title": "[PDF]A novel and universal method for microRNA RT-qPCR data ..."
+    }
+]

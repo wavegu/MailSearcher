@@ -1,4 +1,29 @@
-emaildolev@cs.huj	[12]
-asherr@mail.iucc.ac.il	[1]
-marzullo@cs.ucsd.edu	[1]
-email at mail.huji.ac.il	[1]
+[
+    {
+        "content": "danny dolev. professor ... verified email at mail.huji.ac.il - homepage ... the byzantine generals strike again. d dolev. journal of algorithms 3 (1), 14-30, 1982.", 
+        "email_addr_list": [
+            "email@mail.huji.ac.il"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RAt7zSUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Danny Dolev - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: marzullo@cs.ucsd.edu. name: danny dolev affiliation: the hebrew university of jerusalem school of engineering and computer science. address:...", 
+        "email_addr_list": [
+            "marzullo@cs.ucsd.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-dolev-cs-huj-15168766.htm", 
+        "cite_name": "", 
+        "title": "dolev@cs.huj - The Email Archive"
+    }, 
+    {
+        "content": "asherr@mail.iucc.ac.il. ilya roizman ... shlomi dolev, chairman, ben-gurion university of the negev ... danny dolev, the hebrew university of jerusalem.", 
+        "email_addr_list": [
+            "asherr@mail.iucc.ac.il"
+        ], 
+        "cite_url": "www.iucc.ac.il  About IUCC", 
+        "cite_name": "", 
+        "title": "Leadership  Staff - IUCC- Inter-University Computation ..."
+    }
+]

@@ -1,5 +1,47 @@
-adi.gazdar@utsouthwestern.edu.gallbladder	[19]
-adi.gazdar@utsouthwestern.sv	[19]
-adi.gazdar@utsouthwestern.edu.lung	[19]
-adi.gazdar@utsouthwestern.edu	[19]
-adi.gazdar@utsouthwestern.edu.members	[19]
+[
+    {
+        "content": "... different disease. sophie sun, joan h. schiller  adi f. gazdar about the authors ... correspondence to: adi f. gazdar email: adi.gazdar@utsouthwestern.edu.", 
+        "email_addr_list": [
+            "adi.gazdar@utsouthwestern.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review  Full text", 
+        "cite_name": "Nature", 
+        "title": "Lung cancer in never smokers—a different disease"
+    }, 
+    {
+        "content": "adi f. gazdar, janet s. butel  michele carbone about the authors. top of page ... to: adi f. gazdar correspondence to:email: adi.gazdar@utsouthwestern.edu.", 
+        "email_addr_list": [
+            "adi.gazdar@utsouthwestern.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinion", 
+        "cite_name": "Nature", 
+        "title": "SV40 and human tumours: myth, association or causality ..."
+    }, 
+    {
+        "content": "sophie sun, joan h. schiller  adi f. gazdar about the authors. top of page ... correspondence to: adi f. gazdar email: adi.gazdar@utsouthwestern.edu.", 
+        "email_addr_list": [
+            "adi.gazdar@utsouthwestern.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Lung cancer in never smokers [mdash] a different disease ..."
+    }, 
+    {
+        "content": "(click on name for details), institution, e-mail. michael ... adi f. gazdar, university of texas southwestern medical center, adi.gazdar@utsouthwestern.edu.", 
+        "email_addr_list": [
+            "adi.gazdar@utsouthwestern.edu"
+        ], 
+        "cite_url": "ilcco.iarc.fr/.../members_tst....", 
+        "cite_name": "International Agency for Research on Cancer", 
+        "title": "Members Contact - ILCCO"
+    }, 
+    {
+        "content": "ignacio i. wistuba1 and adi f. gazdar2 ... university of texas southwestern medical center, dallas, texas 75390; email: adi.gazdar@utsouthwestern.edu.", 
+        "email_addr_list": [
+            "adi.gazdar@utsouthwestern.edu"
+        ], 
+        "cite_url": "www.annualreviews.org  ...  Volume 1, 2006www.google.com/email", 
+        "cite_name": "Annual Reviews", 
+        "title": "LUNG CANCER PRENEOPLASIA - Annual ReviewsGoogle Business Email‎"
+    }
+]

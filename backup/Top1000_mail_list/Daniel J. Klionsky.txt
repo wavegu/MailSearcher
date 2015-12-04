@@ -1,3 +1,29 @@
-klionsky@umich.edu.daniel	[17]
-klionsky@umich.edu	[17]
-email at umich.edu	[2]
+[
+    {
+        "content": "daniel j. klionsky, ph.d. print. daniel j. ... email: klionsky@umich.edu. web: http://www.lifesciences.umich.edu/institute/labs/klionsky/bio.html. news service...", 
+        "email_addr_list": [
+            "klionsky@umich.edu"
+        ], 
+        "cite_url": "ns.umich.edu/new/experts.../19532-daniel-j-klionsk...", 
+        "cite_name": "University of Michigan", 
+        "title": "Daniel J. Klionsky, Ph.D. | University of Michigan News"
+    }, 
+    {
+        "content": "cancel. daniel j. klionsky. university of michigan  autophagy. verified email at umich.edu - homepage ... dj klionsky, fc abdalla, h abeliovich, rt abraham, a acevedo-arozena, . ... n mizushima, b levine, am cuervo, dj klionsky.", 
+        "email_addr_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=pGGjfS8AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Daniel J. Klionsky - Google Scholar Citations"
+    }, 
+    {
+        "content": "daniel j. klionsky about the author ..... for example, a study by david rubinszteins laboratory showed that inhibition of tor and ..... email: klionsky@umich.edu.", 
+        "email_addr_list": [
+            "klionsky@umich.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Perspective  Timeline", 
+        "cite_name": "Nature", 
+        "title": "Autophagy: from phenomenology to molecular ... - Nature"
+    }
+]

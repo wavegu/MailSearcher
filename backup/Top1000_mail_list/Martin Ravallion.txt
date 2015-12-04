@@ -1,3 +1,29 @@
-mravallion@worldbank.org	[20]
-mr1185@georgetown.edu	[3]
-email at georgetown.edu	[3]
+[
+    {
+        "content": "first name: martin. middle name: last name: ravallion. suffix: repec short-id: pra29. email: mr1185@georgetown.edu. homepage: postal address...", 
+        "email_addr_list": [
+            "mr1185@georgetown.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pra29.html", 
+        "cite_name": "", 
+        "title": "Martin Ravallion at IDEAS"
+    }, 
+    {
+        "content": "martin ravallion is director of the development research group at the world bank—the banks ... contact information: email: mravallion@worldbank.org.", 
+        "email_addr_list": [
+            "mravallion@worldbank.org"
+        ], 
+        "cite_url": "go.worldbank.org  Data  Research", 
+        "cite_name": "World Bank", 
+        "title": "Martin Ravallion - World Bank"
+    }, 
+    {
+        "content": "martin ravallion. edmond d. villani professor ... verified email at georgetown.edu - homepage  scholar. get my own profile ... m ravallion, s chen. journal of...", 
+        "email_addr_list": [
+            "email@georgetown.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vs8Os6UAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Martin Ravallion - Google Scholar Citations"
+    }
+]

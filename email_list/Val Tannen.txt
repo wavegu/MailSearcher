@@ -1,0 +1,29 @@
+[
+    {
+        "content": "address: val tannen ... email: val@cis.upenn.edu ... a. and n. tannens reaction to being told that a monad on c is nothing else but a monoid in the monoidal...", 
+        "email_list": [
+            "val@cis.upenn.edu"
+        ], 
+        "cite_url": "www.cis.upenn.edu/~val/home.html", 
+        "cite_name": "University of Pennsylvania", 
+        "title": "Val Tannens Home Page"
+    }, 
+    {
+        "content": "cis 682 friendly logics fall 2015. moore 212, tu th 5-6:30. instructor: val tannen levine 570. email: val@cis.upenn.edu. tel: +1 (215) 898-2665. the use of...", 
+        "email_list": [
+            "val@cis.upenn.edu"
+        ], 
+        "cite_url": "www.cis.upenn.edu/~val/CIS682/", 
+        "cite_name": "University of Pennsylvania", 
+        "title": "CIS682 Friendly Logics Fall 2015 Val Tannen"
+    }, 
+    {
+        "content": "e-mail: sudeepa at cs dot duke dot edu. background research services ... (with daniel deutch, tova milo, and val tannen) international conference on...", 
+        "email_list": [
+            "sudeepa@cs.duke.edu"
+        ], 
+        "cite_url": "https://users.cs.duke.edu/~sudeepa/", 
+        "cite_name": "", 
+        "title": "Sudeepa Roy - Duke University"
+    }
+]

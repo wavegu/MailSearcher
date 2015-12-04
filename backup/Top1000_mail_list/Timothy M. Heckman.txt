@@ -1,2 +1,29 @@
-heckman@pha.jhu.edu	[16]
-stephanie.lamassa@yale.edu	[4]
+[
+    {
+        "content": "jhu. (to be determined). dr. timothy m. heckman. director, center for astrophysical sciences. johns hopkins university email: heckman@pha.jhu.edu. uva.", 
+        "email_addr_list": [
+            "heckman@pha.jhu.edu"
+        ], 
+        "cite_url": "arc.apo.nmsu.edu/.../ARCBOG010115.pdf", 
+        "cite_name": "Apache Point Observatory", 
+        "title": "[PDF]Current Member Institutions and Management"
+    }, 
+    {
+        "content": "e-mail: stephanie.lamassa@yale.edu ... advisors: timothy m. heckman, andrew ptak .... activity in the local universe (s. m. lamassa, t. m. heckman, a. ptak,...", 
+        "email_addr_list": [
+            "stephanie.lamassa@yale.edu"
+        ], 
+        "cite_url": "www.astro.yale.edu/lamassa/sl_cv.pdf", 
+        "cite_name": "Yale University Observatory", 
+        "title": "[PDF]Stephanie M. LaMassa - Department of Astronomy - Yale ..."
+    }, 
+    {
+        "content": "timothy m. heckman1 and philip n. best2 ... of physics  astronomy, the johns hopkins university, baltimore, maryland 21218; email: heckman@pha.jhu.edu.", 
+        "email_addr_list": [
+            "heckman@pha.jhu.edu"
+        ], 
+        "cite_url": "www.annualreviews.org  ...  Volume 52, 2014", 
+        "cite_name": "Annual Reviews", 
+        "title": "The Coevolution of Galaxies and Supermassive Black Holes ..."
+    }
+]

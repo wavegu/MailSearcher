@@ -1,3 +1,29 @@
-bernhard.schoelkopf@tuebingen.mpg.de	[18]
-email at tuebingen.mpg.de	[2]
-email at google.com	[1]
+[
+    {
+        "content": "schölkopf, bernhard. profile_image. prof. dr. bernhard schölkopf. max planck institute for ... 7071 601-552. email:bernhard.schoelkopf@tuebingen.mpg.de...", 
+        "email_addr_list": [
+            "bernhard.schoelkopf@tuebingen.mpg.de"
+        ], 
+        "cite_url": "www.mpg.de  Homepage  Institutes", 
+        "cite_name": "Max Planck Society", 
+        "title": "Schölkopf, Bernhard | Max Planck Society"
+    }, 
+    {
+        "content": "bernhard schölkopf. director, max planck ... verified email at tuebingen.mpg.de. scholar. get my own ... kr muller, s mika, g ratsch, k tsuda, b scholkopf.", 
+        "email_addr_list": [
+            "email@tuebingen.mpg.de"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=DZ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Bernhard Schölkopf - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at google.com - homepage  scholar ... b schölkopf, a smola, kr müller ... b schölkopf, jc platt, j shawe-taylor, aj smola, rc williamson.", 
+        "email_addr_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Tb0ZrYwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Alex Smola - Google Scholar Citations"
+    }
+]

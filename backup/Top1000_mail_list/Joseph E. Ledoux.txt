@@ -1,3 +1,29 @@
-joseph.ledoux@nyumc.org	[26]
-ledoux@cns.nyu.edu	[14]
-email at nyu.edu	[3]
+[
+    {
+        "content": "email: joseph.ledoux@nyumc.org. publications. novelty-facilitated extinction: providing a novel outcome in place of an expected threat diminishes...", 
+        "email_addr_list": [
+            "joseph.ledoux@nyumc.org"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/ledouj02", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Joseph E. LeDoux | NYU School of Medicine"
+    }, 
+    {
+        "content": "joseph e. ledoux. center for neural science. new york university. 4 washington place. new york, ny 10003. email: ledoux@cns.nyu.edu. introduction.", 
+        "email_addr_list": [
+            "ledoux@cns.nyu.edu"
+        ], 
+        "cite_url": "amygdala.psychdept.arizona.edu/pubs/Emotion-HBTNN2e-preprint.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Emotional Circuits and Computational Neuroscience"
+    }, 
+    {
+        "content": "joseph ledoux. new york university ... verified email at nyu.edu - homepage  scholar ... ks labar, jc gatenby, jc gore, je ledoux, ea phelps. neuron 20...", 
+        "email_addr_list": [
+            "email@nyu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iAqJssMAAAAJhl...www.google.com/email", 
+        "cite_name": "Google Scholar", 
+        "title": "Joseph LeDoux - Google Scholar CitationsGoogle Business Email‎"
+    }
+]

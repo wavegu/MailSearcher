@@ -1,0 +1,20 @@
+[
+    {
+        "content": "professor hossain, liaquat ... email: lhossain@hku.hk. location: room 113, runme shaw building. areas of expertise: complex systems; social networks;...", 
+        "email_list": [
+            "lhossain@hku.hk"
+        ], 
+        "cite_url": "web.edu.hku.hk/staff/academic/lhossain", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Professor HOSSAIN, Liaquat - HKU - Faculty of Education"
+    }, 
+    {
+        "content": "create alert. cancel. liaquat hossain ... verified email at hku.hk - homepage  scholar. get my own ... a abbasi, j altmann, l hossain. journal of informetrics 5...", 
+        "email_list": [
+            "email@hku.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=zISaoL0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Liaquat Hossain - Google Scholar Citations"
+    }
+]

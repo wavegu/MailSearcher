@@ -1,0 +1,56 @@
+[
+    {
+        "content": "cancel. su zhenpeng. university of science ... verified email at mail.ustc.edu.cn. scholar. get my own ... f xiao, z su, h zheng, s wang. journal of geophysical...", 
+        "email_list": [
+            "email@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4ntLfVgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Su Zhenpeng - Google Scholar Citations"
+    }, 
+    {
+        "content": "zhenpeng su,. e-mail address: szpe@mail.ustc.edu.cn. mengcheng national geophysical observatory, school of earth and space sciences, university of...", 
+        "email_list": [
+            "szpe@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1029/.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "A parametric study on the diffuse auroral precipitation by ..."
+    }, 
+    {
+        "content": "zhenpeng su,. e-mail address: szpe@mail.ustc.edu.cn. chinese academy of sciences key laboratory for basic plasma physics, school of earth and space...", 
+        "email_list": [
+            "szpe@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1029/.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Radiation belt electron dynamics driven by adiabatic ..."
+    }, 
+    {
+        "content": "e-mail address: jay.albert@hanscom.af.mil ... 1 zhenpeng su, hui zhu, fuliang xiao, huinan zheng, chao shen, yuming wang, shui wang, latitudinal...", 
+        "email_list": [
+            "jay.albert@hanscom.af.mil"
+        ], 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1029/.../abstract", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Correction to “Nonlinear interaction of radiation belt ..."
+    }, 
+    {
+        "content": "传真：022-23501532（所） e-mail: chenjl@nankai.edu.cn ... zhen-peng xu, hong-yi su, and jing-ling chen, quantum contextuality of a qutrit state, physical...", 
+        "email_list": [
+            "chenjl@nankai.edu.cn"
+        ], 
+        "cite_url": "www.cim.nankai.edu.cn/members/user/chenjl/", 
+        "cite_name": "", 
+        "title": "陈景灵|陈省身数学研究所"
+    }, 
+    {
+        "content": "mar 26, 2015 - ... package english full collection  ebook package english earth  environmental science. authors. zhenpeng su  szpe@mail.ustc.edu.cn (2).", 
+        "email_list": [
+            "szpe@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2F978-3-6...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Adiabatic Transport - Springer"
+    }
+]

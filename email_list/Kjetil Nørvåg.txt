@@ -1,0 +1,48 @@
+[
+    {
+        "content": "name: kjetil nørvåg, dr.ing. position: professor office: it-212 email: kjetil dot norvag at idi.ntnu.no phone: +47 73 59 67 55 (office) fax: +47 73 59 44 66 (office)...", 
+        "email_list": [
+            "norvag@idi.ntnu.no"
+        ], 
+        "cite_url": "https://www.idi.ntnu.no/~noervaag/", 
+        "cite_name": "", 
+        "title": "Nørvåg, Kjetil - Department of Computer and Information ..."
+    }, 
+    {
+        "content": "name: kjetil nørvåg. phone: +47 73 59 67 55. fax: +47 73 59 44 66. citizenship: norwegian. email: kjetil dot norvag at idi.ntnu.no.", 
+        "email_list": [
+            "norvag@idi.ntnu.no"
+        ], 
+        "cite_url": "https://www.idi.ntnu.no/~noervaag/cv.html", 
+        "cite_name": "", 
+        "title": "Kjetil Nørvågs Curriculum Vitae"
+    }, 
+    {
+        "content": "kjetil nørvåg. professor of computer ... data mining, text mining. verified email at idi.ntnu.no - homepage ... a vlachou, c doulkeridis, y kotidis, k nørvåg.", 
+        "email_list": [
+            "email@idi.ntnu.no"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=mADR4AYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kjetil Nørvåg - Google Scholar Citations"
+    }, 
+    {
+        "content": "improving space-efficiency in temporal text-indexing kjetil nørv ̊ag⋆ and albert overskeid nybø department of ... email of contact author: kjetil.norvag@idi.ntnu.no l. zhou, b.c. ooi, and x. meng (eds.): dasfaa 2005, lncs 3453, pp.", 
+        "email_list": [
+            "kjetil.norvag@idi.ntnu.no"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540253343", 
+        "cite_name": "", 
+        "title": "Database Systems for Advanced Applications: 10th ..."
+    }, 
+    {
+        "content": "email: kjetil.norvag@idi.ntnu.no. §. tao - lri, cnrs, inria, université paris-sud 11, france. email: michele.sebag@lri.fr. abstract—the affinity propagation...", 
+        "email_list": [
+            "kjetil.norvag@idi.ntnu.no", 
+            "michele.sebag@lri.fr"
+        ], 
+        "cite_url": "https://mine.kaust.edu.sa/Documents/papers/kAP_ICDM10_zhang.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]K-AP: Generating Specified K Clusters by Efficient Affinity ..."
+    }
+]

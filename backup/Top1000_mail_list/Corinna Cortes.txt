@@ -1,4 +1,29 @@
-email at google.com	[3]
-research at googleresearch.google.com	[3]
-tickets@mlconf.com	[3]
-info@videolectures.net	[1]
+[
+    {
+        "content": "corinna cortes. google ... verified email at google.com - homepage  scholar ... l bottou, c cortes, js denker, h drucker, i guyon, ld jackel, y lecun, .", 
+        "email_addr_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=U_IVY50AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Corinna Cortes - Google Scholar Citations"
+    }, 
+    {
+        "content": "corinna cortes is the head of google research, ny, where she is working on a broad ... prior to google, corinna spent more than ten years at att labs - research, formerly ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_addr_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/corinna_cortes/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Corinna Cortes - VideoLectures.NET"
+    }, 
+    {
+        "content": "corinna cortes. corinna cortes. the machine learning conference ... a fee of 5% will be charged for all refunds. email tickets@mlconf.com for refund requests.", 
+        "email_addr_list": [
+            "tickets@mlconf.com"
+        ], 
+        "cite_url": "mlconf.com/mlconf-2014-nyc/corinna-cortes/", 
+        "cite_name": "", 
+        "title": "Corinna Cortes - The Machine Learning Conference"
+    }
+]

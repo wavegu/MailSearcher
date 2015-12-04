@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. ruchika malhotra. delhi technological ... verified email at dce.edu. scholar. get my own ... kk aggarwal, y singh, a kaur, r malhotra. journal of object...", 
+        "email_list": [
+            "email@dce.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gQrxcioAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ruchika Malhotra - Google Scholar Citations"
+    }, 
+    {
+        "content": "jun 11, 2015 - dr.ruchika malhotra qualification: mca,ph.d specilization: software ... database, management systems email: ruchikamalhotra@dce.edu", 
+        "email_list": [
+            "ruchikamalhotra@dce.edu"
+        ], 
+        "cite_url": "www.dtu.ac.in/Web/Departments/CSE/faculty/", 
+        "cite_name": "", 
+        "title": "Faculty - Delhi Technological University"
+    }, 
+    {
+        "content": "profile of ruchika malhotra, author of empirical research in software engineering, ... malhotra can be contacted by e-mail at: ruchikamalhotra2004@yahoo.com...", 
+        "email_list": [
+            "ruchikamalhotra2004@yahoo.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "CRC Press", 
+        "title": "Ruchika Malhotra - CRC Press Online"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "stanowisko: współpracujący z katedrą telefon: 655 33 24. pokój: 304 cp e-mail: mzakrz@cs.put.poznan.pl. zainteresowania naukowe: eksploracja danych...", 
+        "email_list": [
+            "mzakrz@cs.put.poznan.pl"
+        ], 
+        "cite_url": "www.wsb.pl/poznan/maciej-zakrzewicz", 
+        "cite_name": "", 
+        "title": "dr hab. inż. Maciej Zakrzewicz - Wyższa Szkoła Bankowa"
+    }, 
+    {
+        "content": "create alert. cancel. maciej zakrzewicz ... verified email at cs.put.poznan.pl. scholar ... a nanopoulos, y manolopoulos, m zakrzewicz, t morzy. proceedings of...", 
+        "email_list": [
+            "email@cs.put.poznan.pl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=m1aakqUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Maciej Zakrzewicz - Google Scholar Citations"
+    }, 
+    {
+        "content": "maciej zakrzewicz. zastępca dyrektora ds. nauki: ... 6652-997, 6652-999. fax: (48-61) 8771-525. e-mail: office_cs@put.poznan.pl, office@cs.put.poznan.pl...", 
+        "email_list": [
+            "office_cs@put.poznan.pl", 
+            "office@cs.put.poznan.pl"
+        ], 
+        "cite_url": "https://www2.cs.put.poznan.pl/kontakt/", 
+        "cite_name": "", 
+        "title": "Kontakt | Instytut Informatyki - Politechnika Poznańska"
+    }, 
+    {
+        "content": "maciej drozdowski; prof. dr hab. inż. ... dr hab. inż. maciej zakrzewicz, prof. nadzw. dr hab. inż. ... -3420; fax. +48 61 665-3421; e-mail: office_dcf@put.poznan.pl.", 
+        "email_list": [
+            "office_dcf@put.poznan.pl"
+        ], 
+        "cite_url": "fc.put.poznan.pl/wladze.../rada-wydzia-u,58.html", 
+        "cite_name": "", 
+        "title": "Rada wydziału - Wydział Informatyki Politechniki Poznańskiej"
+    }
+]

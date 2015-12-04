@@ -1,0 +1,29 @@
+[
+    {
+        "content": "create alert. cancel. kam-yiu lam. city university of hong kong. verified email at cityu.edu.hk ... k lam, o ulnsoy, tsh lee, e chan, g li. database systems...", 
+        "email_list": [
+            "email@cityu.edu.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=s3zqPMYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Kam-Yiu Lam - Google Scholar Citations"
+    }, 
+    {
+        "content": "city university of hong kong staff profile for dr lam, kam yiu. ... fax: +(852)-3442-0503. email: cskylam@cityu.edu.hk. web: personal homepage...", 
+        "email_list": [
+            "cskylam@cityu.edu.hk"
+        ], 
+        "cite_url": "www.cs.cityu.edu.hk/profile/cskylam.html", 
+        "cite_name": "", 
+        "title": "Dr LAM, Kam Yiu, City University of Hong Kong"
+    }, 
+    {
+        "content": "feb 16, 2015 - email: cschyuen@cityu.edu.hk. web: personal homepage ... lam, kam-yiu. , yuen, joe. , son, s.h.  chan, edward. (dec 2002). scheduling...", 
+        "email_list": [
+            "cschyuen@cityu.edu.hk"
+        ], 
+        "cite_url": "www6.cityu.edu.hk/stfprofile/csjyuen.htm", 
+        "cite_name": "City University of Hong Kong", 
+        "title": "Dr. YUEN Chun Hung Joe (袁俊雄博士) - Staff Profile, City ..."
+    }
+]

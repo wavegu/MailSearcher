@@ -1,2 +1,20 @@
-jeremy@shgc.stanford.edu	[13]
-email at hudsonalpha.com	[2]
+[
+    {
+        "content": "cancel. jeremy schmutz ... verified email at hudsonalpha.com - homepage ... j schmutz, sb cannon, j schlueter, j ma, t mitros, w nelson, dl hyten, .", 
+        "email_addr_list": [
+            "email@hudsonalpha.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=v4hqKg8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jeremy Schmutz - Google Scholar Citations"
+    }, 
+    {
+        "content": "jeremy schmutz, jeremy wheeler, jane grimwood, mark dickson, joan yang, ... to: jeremy schmutzrichard m. myers email: jeremy@shgc.stanford.edu. email:...", 
+        "email_addr_list": [
+            "jeremy@shgc.stanford.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Analysis", 
+        "cite_name": "Nature", 
+        "title": "Quality assessment of the human genome sequence - Nature"
+    }
+]

@@ -1,4 +1,12 @@
-taylor@gsc.riken.jp	[3]
-tashibat@ncc.go.jp	[2]
-toshwata@lab.nig.ac.jp	[2]
-sakaki@gsc.riken.jp	[1]
+[
+    {
+        "content": "todd d. taylor, hideki noguchi, yasushi totoki, atsushi toyoda, yoko kuroki, ken ... to t.d.t. (email: taylor@gsc.riken.jp) or y.s. (email: sakaki@gsc.riken.jp).", 
+        "email_addr_list": [
+            "taylor@gsc.riken.jp", 
+            "sakaki@gsc.riken.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "Human chromosome 11 DNA sequence and analysis ..."
+    }
+]

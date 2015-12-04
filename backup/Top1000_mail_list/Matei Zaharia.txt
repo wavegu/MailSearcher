@@ -1,3 +1,29 @@
-matei@mit.edu	[11]
-email at mit.edu	[2]
-stratahadoop@oreilly.com	[1]
+[
+    {
+        "content": "you can contact me at matei@mit.edu or find me in stata center office 32g-996. ... h. li, a. ghodsi, m. zaharia, s. shenker and i. stoica, tachyon: reliable,...", 
+        "email_addr_list": [
+            "matei@mit.edu"
+        ], 
+        "cite_url": "people.csail.mit.edu/matei/", 
+        "cite_name": "", 
+        "title": "Matei Zaharia - People.csail.mit.edu"
+    }, 
+    {
+        "content": "matei zaharia. assistant professor ... verified email at mit.edu - homepage  scholar ... m zaharia, m chowdhury, mj franklin, s shenker, i stoica. proceedings...", 
+        "email_addr_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user=I1EvjZsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Matei Zaharia - Google Scholar Citations"
+    }, 
+    {
+        "content": "matei zaharia started the spark project at uc berkeley and is currently cto of ... for exhibition and sponsorship opportunities, email stratahadoop@oreilly.com...", 
+        "email_addr_list": [
+            "stratahadoop@oreilly.com"
+        ], 
+        "cite_url": "conferences.oreilly.com/strata/big-data-conference-ca-2015/.../147852", 
+        "cite_name": "", 
+        "title": "Matei Zaharia - Conferences - OReilly Media"
+    }
+]

@@ -1,2 +1,29 @@
-abowd@gatech.edu	[12]
-email at gatech.edu	[4]
+[
+    {
+        "content": "biography - gregory d. abowd, d.phil. google + ... email: abowd@gatech.edu ... gregory d. abowds research involves the integration of advanced information...", 
+        "email_addr_list": [
+            "abowd@gatech.edu"
+        ], 
+        "cite_url": "https://www.autismspeaks.org/.../biography-gregory-d-a", 
+        "cite_name": "Autism Speaks", 
+        "title": "Biography - Gregory D. Abowd, D.Phil. - Autism Speaks"
+    }, 
+    {
+        "content": "gregory d. abowd. regents ... verified email at gatech.edu - homepage  scholar ... gd abowd, ak dey, pj brown, n davies, m smith, p steggles. handheld...", 
+        "email_addr_list": [
+            "email@gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=gb8sbdcAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Gregory D. Abowd - Google Scholar Citations"
+    }, 
+    {
+        "content": "personal homepage: http://www.gregoryabowd.com/; employer: (); email: abowd@gatech.edu. gregory d. abowd (pronounced ay-bowd) is the distinguished...", 
+        "email_addr_list": [
+            "abowd@gatech.edu"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/gregory-d-abowd", 
+        "cite_name": "", 
+        "title": "Gregory D. Abowd - Interaction Design Foundation"
+    }
+]

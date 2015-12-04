@@ -1,0 +1,22 @@
+[
+    {
+        "content": "jeremy kepner. jeremy kepner. phone: x3-4381 kepner@math.mit.edu ... math@mit.edu. for website help or updates, please email webmaster@math.mit.edu.", 
+        "email_list": [
+            "kepner@math.mit.edu", 
+            "math@mit.edu", 
+            "webmaster@math.mit.edu"
+        ], 
+        "cite_url": "math.mit.edu/people/profile.php?...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Jeremy Kepner | MIT Mathematics"
+    }, 
+    {
+        "content": "nov 1, 2015 - kepner jeremy jeremy kepner department of mit. ... for website help or updates, please email webmaster@math.mit.edu. jeremy kepner mit...", 
+        "email_list": [
+            "webmaster@math.mit.edu"
+        ], 
+        "cite_url": "totorialmake.tk/kepner-jeremy-jeremy-kepner-depart...", 
+        "cite_name": "", 
+        "title": "Kepner Jeremy Jeremy Kepner Department Of Mit | Tutorial ..."
+    }
+]

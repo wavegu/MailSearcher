@@ -1,2 +1,20 @@
-email at cs.ucla.edu	[3]
-dt@cs.ucla.edu	[3]
+[
+    {
+        "content": "demetri terzopoulos ... email: dt@cs.ucla.edu ... [174a]demetri is one of the best professors you can meet in your life, he is not only knowledgable, but also very...", 
+        "email_addr_list": [
+            "dt@cs.ucla.edu"
+        ], 
+        "cite_url": "www.bruinwalk.com  Professors  Computer Science", 
+        "cite_name": "", 
+        "title": "BruinWalk : Demetri Terzopoulos"
+    }, 
+    {
+        "content": "demetri terzopoulos. distinguished professor ... verified email at cs.ucla.edu - homepage  scholar. get my own ... d terzopoulos, j platt, a barr, k fleischer.", 
+        "email_addr_list": [
+            "email@cs.ucla.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pKuBFaQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Demetri Terzopoulos - Google Scholar Citations"
+    }
+]

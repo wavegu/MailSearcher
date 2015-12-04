@@ -1,5 +1,56 @@
-matthias.mann@chemie.tu-dresden.de	[25]
-mmann@biochem.mpg.de	[10]
-mmann@biochem.mpg.depeople	[10]
-mmann@biochem.mpg.de.max	[10]
-email at biochem.mpg.de	[3]
+[
+    {
+        "content": "prof. dr. matthias mann is director and scientific member at the max planck institute of biochemistry (since 2003). ... email:mmann@biochem.mpg.de...", 
+        "email_addr_list": [
+            "mmann@biochem.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/405337/biochemie_wissM81", 
+        "cite_name": "Max Planck Society", 
+        "title": "Mann, Matthias | Max Planck Society"
+    }, 
+    {
+        "content": "dr. matthias mann. director. phone:+49 89 ... curriculum vitae – matthias mann. name matthias mann ... +49 89 8578 2219. e-mail: mmann@biochem.mpg.de", 
+        "email_addr_list": [
+            "mmann@biochem.mpg.de"
+        ], 
+        "cite_url": "www.biochem.mpg.de/.../Matthias_...", 
+        "cite_name": "Max Planck Institute of Biochemistry", 
+        "title": "Matthias Mann - Max-Planck-Institut für Biochemie"
+    }, 
+    {
+        "content": "matthias mann. director at the max ... verified email at biochem.mpg.de. scholar. get my own ... a shevchenko, m wilm, o vorm, m mann. analytical chemistry...", 
+        "email_addr_list": [
+            "email@biochem.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=MYe4hG8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Matthias Mann - Google Scholar Citations"
+    }, 
+    {
+        "content": "univers. dresden 47 (1998), 2, 44-51. matthias mann ... mobile: +49 351 463-42746. email: matthias.mann@chemie.tu-dresden.de. mail to: tu dresden fakultät...", 
+        "email_addr_list": [
+            "matthias.mann@chemie.tu-dresden.de"
+        ], 
+        "cite_url": "www.chm.tu-dresden.de/.../mann/man...", 
+        "cite_name": "Dresden University of Technology", 
+        "title": "Dr. Matthias Mann - Fachrichtung Chemie und ..."
+    }, 
+    {
+        "content": "jürgen fabian, matthias mann, and maxime petiau dedicated to professor ... mobile: +49 351 463-42746. email: matthias.mann@chemie.tu-dresden.de. mail to:", 
+        "email_addr_list": [
+            "matthias.mann@chemie.tu-dresden.de"
+        ], 
+        "cite_url": "www.chm.tu-dresden.de/.../mann/mann_...", 
+        "cite_name": "Dresden University of Technology", 
+        "title": "Dr. Matthias Mann - Fachrichtung Chemie und ..."
+    }, 
+    {
+        "content": "computer pools  * links. matthias mann ... fax: +49 351 463-37224. mobile: +49 351 463-42746. email: matthias.mann@chemie.tu-dresden.de. mail to:", 
+        "email_addr_list": [
+            "matthias.mann@chemie.tu-dresden.de"
+        ], 
+        "cite_url": "www.chm.tu-dresd...", 
+        "cite_name": "Dresden University of Technology", 
+        "title": "Dr. Matthias Mann"
+    }
+]

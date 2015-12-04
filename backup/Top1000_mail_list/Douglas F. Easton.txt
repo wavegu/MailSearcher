@@ -1,6 +1,20 @@
-d.easton@srl.cam.ac.uk	[14]
-dfe20@medschl.cam.ac.uk	[4]
-dreyfus.u1016@inserm.fr	[4]
-kd.hnoiger@neslein.draagllaf.enus	[3]
-email at medschl.cam.ac.uk	[3]
-ku.ca.mac.lhcsdem@02efd.genetic	[3]
+[
+    {
+        "content": "professor doug easton director of the centre for cancer genetic epidemiology. telephone: +44 01223 748629. email: dfe20@medschl.cam.ac.uk...", 
+        "email_addr_list": [
+            "dfe20@medschl.cam.ac.uk"
+        ], 
+        "cite_url": "www.phpc.cam.ac.uk/.../prof-douglas-easton/", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Douglas Easton - Department of Public Health ..."
+    }, 
+    {
+        "content": "verified email at medschl.cam.ac.uk. scholar. get my own ... d ford, df easton, m stratton, s narod, d goldgar, p devilee, dt bishop, ... the american ... b ravikumar, c vacher, z berger, je davies, s luo, lg oroz, f scaravilli, ... nature...", 
+        "email_addr_list": [
+            "email@medschl.cam.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Iyaf7KUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Douglas Easton - Google Scholar Citations"
+    }
+]

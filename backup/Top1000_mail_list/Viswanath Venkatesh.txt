@@ -1,3 +1,38 @@
-vvenkatesh@vvenkatesh.us	[20]
-paper-request@vvenkatesh.us	[1]
-email at walton.uark.edu	[1]
+[
+    {
+        "content": "for full text access to papers (for non-commercial use only), please email me at paper-request@vvenkatesh.us. 82. venkatesh, v., windeler, j., bartol, k.m., and...", 
+        "email_addr_list": [
+            "paper-request@vvenkatesh.us"
+        ], 
+        "cite_url": "www.vvenkatesh.com/Research/a_publications_single.asp", 
+        "cite_name": "", 
+        "title": "Return to Journal Articles page - Viswanath Venkatesh"
+    }, 
+    {
+        "content": "email: vvenkatesh@vvenkatesh.us; url: http://vvenkatesh.com ... viswanath venkatesh, who completed his phd at the university of minnesota in 1997, is a...", 
+        "email_addr_list": [
+            "vvenkatesh@vvenkatesh.us"
+        ], 
+        "cite_url": "www.vvenkatesh.com/production/Files/VVenkatesh-Posting.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Download Vita - Viswanath Venkatesh"
+    }, 
+    {
+        "content": "cancel. viswanath venkatesh. university of arkansas ... verified email at walton.uark.edu - homepage  scholar ... v venkatesh, mg morris, gb davis, fd davis.", 
+        "email_addr_list": [
+            "email@walton.uark.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=C-7sFjEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Viswanath Venkatesh - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: vvenkatesh@vvenkatesh.us; url: http://vvenkatesh.com ... viswanath venkatesh, who completed his phd at the university of minnesota in 1997, is a...", 
+        "email_addr_list": [
+            "vvenkatesh@vvenkatesh.us"
+        ], 
+        "cite_url": "https://www.business.utah.edu/.../venkat...", 
+        "cite_name": "David Eccles School of Business", 
+        "title": "[PDF]DIGITAL DIVIDE IN INDIA VISWANATH VENKATESH ..."
+    }
+]

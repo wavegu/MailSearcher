@@ -1,2 +1,20 @@
-apleone@bidmc.harvard.edu	[13]
-email at bidmc.harvard.edu	[3]
+[
+    {
+        "content": "verified email at bidmc.harvard.edu - homepage  scholar. get my own ... a pascual-leone, d nguyet, lg cohen, jp brasil-neto, a cammarota, ... journal of...", 
+        "email_addr_list": [
+            "email@bidmc.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=k99GV1IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Alvaro Pascual-Leone, MD, PhD - Google Scholar Citations"
+    }, 
+    {
+        "content": "alvaro pascual-leone, amir amedi,. felipe fregni, and ... email: apleone@bidmc.harvard.edu. annu. rev. .... by the following experiment (pascual-leone. 1996...", 
+        "email_addr_list": [
+            "apleone@bidmc.harvard.edu"
+        ], 
+        "cite_url": "brain.huji.ac.il/.../Pascual-Leone_Amedi...", 
+        "cite_name": "Hebrew University of Jerusalem", 
+        "title": "[PDF]THE PLASTIC HUMAN BRAIN CORTEX - Amir Amedis Lab"
+    }
+]

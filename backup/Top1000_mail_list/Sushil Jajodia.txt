@@ -1,2 +1,20 @@
-jajodia@gmu.edu	[15]
-email at gmu.edu	[1]
+[
+    {
+        "content": "sushil jajodia: professor. professor. email: jajodia@gmu.edu. office: research i, rm. 417, fairfax ... phone: 703-993-1653. web site: http://csis.gmu.edu/jajodia/.", 
+        "email_addr_list": [
+            "jajodia@gmu.edu"
+        ], 
+        "cite_url": "ist.gmu.edu/people/detail/sushil-jajodia/", 
+        "cite_name": "", 
+        "title": "Sushil Jajodia - Department of Information Sciences and ..."
+    }, 
+    {
+        "content": "sushil jajodia. university professor ... verified email at gmu.edu - homepage  scholar. get my own ... s jajodia, p samarati, ml sapino, vs subrahmanian.", 
+        "email_addr_list": [
+            "email@gmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lOZ1vHIAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Sushil Jajodia - Google Scholar Citations"
+    }
+]

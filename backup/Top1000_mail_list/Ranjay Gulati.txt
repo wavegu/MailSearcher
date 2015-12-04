@@ -1,3 +1,20 @@
-email at hbs.edu	[1]
-bei@hbs.edu	[1]
-bei@hbs.edu.ranjaygulati.comwww.ranjaygulati.com	[1]
+[
+    {
+        "content": "ranjay gulati is the jaime and josefina chua tiampo professor and the unit head of the organizational behavior unit at ... professor gulati is the chair of harvard business schools advanced management program. ... email: bei@hbs.edu.", 
+        "email_addr_list": [
+            "bei@hbs.edu"
+        ], 
+        "cite_url": "www.hbs.edu/.../faculty-profile-details.aspx?...r...", 
+        "cite_name": "Harvard Business School", 
+        "title": "Ranjay Gulati - Harvard Business School"
+    }, 
+    {
+        "content": "ranjay gulati. harvard business school. alliances, networks, collaboration, organizational architecture. verified email at hbs.edu ... a zaheer, r gulati, n nohria.", 
+        "email_addr_list": [
+            "email@hbs.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Y5K6I3wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ranjay Gulati - Google Scholar Citations"
+    }
+]

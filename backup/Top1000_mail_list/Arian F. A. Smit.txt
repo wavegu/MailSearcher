@@ -1,5 +1,21 @@
-ua.ude.yendys@gnohc.adnama	[7]
-kojima@girinst.org	[3]
-kate@soe.ucsc.edu	[3]
-kvladimirv@gmail.com	[3]
-rhubley@systemsbiology.org	[1]
+[
+    {
+        "content": "email: rhubley@systemsbiology.org ... jared c. roach, gustavo glusman, arian f. a. smit, chad d. huff, robert hubley, paul t. shannon, lee rowen, krishna...", 
+        "email_addr_list": [
+            "rhubley@systemsbiology.org"
+        ], 
+        "cite_url": "https://sites.google.com/site/rhubley/", 
+        "cite_name": "", 
+        "title": "rhubley"
+    }, 
+    {
+        "content": "fax: (650) 961-4473 kojima@girinst.org. associate editors: vladimir kapitonov, ph.d. kvladimirv@gmail.com. arian f.a. smit phd. institute for systems biology", 
+        "email_addr_list": [
+            "kojima@girinst.org", 
+            "kvladimirv@gmail.com"
+        ], 
+        "cite_url": "www.girinst.org/.../editorialboard....", 
+        "cite_name": "Genetic Information Research Institute", 
+        "title": "Editorial Board - Repbase Reports - GIRI"
+    }
+]

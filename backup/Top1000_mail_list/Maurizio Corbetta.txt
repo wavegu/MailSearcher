@@ -1,2 +1,29 @@
-email at npg.wustl.edu	[2]
-mau@npg.wustl.edu	[2]
+[
+    {
+        "content": "maurizio corbetta physician bio detail page| washington university physicians. ... maurizio corbetta, md. download image ... email: mau@npg.wustl.edu...", 
+        "email_addr_list": [
+            "mau@npg.wustl.edu"
+        ], 
+        "cite_url": "https://wuphysicians.wustl.edu/.../mau...", 
+        "cite_name": "Washington University in St. Louis", 
+        "title": "Maurizio Corbetta | Washington University Physicians"
+    }, 
+    {
+        "content": "cancel. maurizio corbetta. professor of neurology ... verified email at npg.wustl.edu. scholar ... m corbetta, jm kincade, jm ollinger, mp mcavoy, gl shulman.", 
+        "email_addr_list": [
+            "email@npg.wustl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=O825l5YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Maurizio Corbetta - Google Scholar Citations"
+    }, 
+    {
+        "content": "maurizio corbetta  gordon l. shulman about the authors. top of page ... correspondence to: maurizio corbetta email: mau@npg.wustl.edu. top of page...", 
+        "email_addr_list": [
+            "mau@npg.wustl.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Reviewwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Control of goal-directed and stimulus-driven attention in the ...Google Business Email‎Searches related to Maurizio Corbetta email"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. jianxiong xiao. assistant professor ... verified email at princeton.edu - homepage  scholar ... j xiao, j hays, ka ehinger, a oliva, a torralba. computer...", 
+        "email_list": [
+            "email@princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vuKz6WcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jianxiong Xiao - Google Scholar Citations"
+    }
+]

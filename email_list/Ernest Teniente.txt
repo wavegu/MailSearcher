@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ernest teniente. professor of computer ... verified email at essi.upc.edu. scholar. get my own profile ... e baralis, s paraboschi, e teniente. vldb 97, 156-165,...", 
+        "email_list": [
+            "email@essi.upc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SFWZQNIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ernest Teniente - Google Scholar Citations"
+    }
+]

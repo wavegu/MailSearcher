@@ -1,1 +1,11 @@
-irv@stanford.edu	[2]
+[
+    {
+        "content": "search by name, email, work phone, or sunetid. search in stanford view ... irving l. weissman m.d.. virginia  d.k. ludwig professor ... email: irv@stanford.edu...", 
+        "email_addr_list": [
+            "irv@stanford.edu"
+        ], 
+        "cite_url": "https://stanfordwho.stanford.edu/SWApp/lookup?search=Weissman,irving", 
+        "cite_name": "", 
+        "title": "Irving L. Weissman MD - Public Listing from Stanford People ..."
+    }
+]

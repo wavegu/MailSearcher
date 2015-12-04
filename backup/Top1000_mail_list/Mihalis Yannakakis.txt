@@ -1,7 +1,30 @@
-mihalis@cs.columbia.edu	[15]
-mihalis@research.bell-labs.com.on	[15]
-mihalis at cs.columbia.edu	[15]
-mihalis@research.bell-labs.com	[15]
-mihalis@cs.columbia.edu.mihalis	[15]
-email at cs.columbia.edu	[2]
-alur@cis.upenn.edu	[1]
+[
+    {
+        "content": "mihalis yannakakis. percy k. and vida ... 1214 amsterdam avenue, mail code 0401. new york, ny 10027 phone: 212-939-7145 email: mihalis@cs.columbia.edu.", 
+        "email_addr_list": [
+            "mihalis@cs.columbia.edu"
+        ], 
+        "cite_url": "www.cs.columbia.edu/~mihalis/", 
+        "cite_name": "Columbia University", 
+        "title": "Mihalis Yannakakis - Columbia University"
+    }, 
+    {
+        "content": "mihalis yannakakis. percy k. and vida ... verified email at cs.columbia.edu. scholar ... e dahlhaus, ds johnson, ch papadimitriou, pd seymour, m yannakakis.", 
+        "email_addr_list": [
+            "email@cs.columbia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_pPy-pAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mihalis Yannakakis - Google Scholar Citations"
+    }, 
+    {
+        "content": "rajeev alur? and mihalis yannakakis?? abstract. ... email: alur@cis.upenn.edu. supported in ... lucent technologies. email: mihalis@research.bell-labs.com.", 
+        "email_addr_list": [
+            "alur@cis.upenn.edu", 
+            "mihalis@research.bell-labs.com"
+        ], 
+        "cite_url": "cis.upenn.edu/~alur/Concur99msc.ps", 
+        "cite_name": "University of Pennsylvania", 
+        "title": "[PS]Model Checking of Message Sequence Charts - the ..."
+    }
+]

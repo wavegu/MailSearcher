@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cancel. symeonidis panagiotis ... verified email at csd.auth.gr - homepage  scholar ... p symeonidis, a nanopoulos, an papadopoulos, y manolopoulos.", 
+        "email_list": [
+            "email@csd.auth.gr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ppnPt2MAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Symeonidis Panagiotis - Google Scholar Citations"
+    }, 
+    {
+        "content": "he has participated in more than 40 scientific conferences and has 10 publications in scientific journals. email: symeonidis [at] draxis.gr. symeonidis panagiotis...", 
+        "email_list": [
+            "symeonidis@draxis.gr"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Draxis - Environmental Technologies - Staff"
+    }
+]

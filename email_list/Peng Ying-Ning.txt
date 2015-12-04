@@ -1,0 +1,57 @@
+[
+    {
+        "content": "email this article to a colleague. add to bookshelf ... wang li-bao, xu jia, huang fu-kan, peng ying-ning. school of ... email: adsp_wlb@163.com.", 
+        "email_list": [
+            "adsp_wlb@163.com"
+        ], 
+        "cite_url": "www.signalpro.org.cn/EN/abstract/abstract8354.shtml", 
+        "cite_name": "", 
+        "title": "WANG Li-Bao, XU Jia, HUANG FU-Kan, PENG Ying-Ning ..."
+    }, 
+    {
+        "content": "the yin labs research lies at the interface of information science, molecular engineering, ... peng yin ph.d. ... assistantss email: elena.chen@wyss.harvard.edu.", 
+        "email_list": [
+            "elena.chen@wyss.harvard.edu"
+        ], 
+        "cite_url": "https://sysbio.med.harvard.edu/facultys/peng-yin-phd", 
+        "cite_name": "Harvard University", 
+        "title": "Peng Yin Ph.D. | Systems Biology – HMS"
+    }, 
+    {
+        "content": "correspondence should be addressed to peng yingning (email: pengyn@hsp.ee.tsinghua.edu.cn). received april 1, 2005. abstract it is very important to...", 
+        "email_list": [
+            "pengyn@hsp.ee.tsinghua.edu.cn"
+        ], 
+        "cite_url": "link.springer.com/.../pdf/.../04yf0301.p...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "A new approach to dual-band polarimetric radar remote ..."
+    }, 
+    {
+        "content": "oct 2, 2015 - chaw su yin (ms). email : sychaw@ntu.edu.sg ... cui peng (dr). email : cuipeng@ntu.edu.sg. ​. deng jiyang (mr) ..... wang ning. email...", 
+        "email_list": [
+            "sychaw@ntu.edu.sg", 
+            "cuipeng@ntu.edu.sg"
+        ], 
+        "cite_url": "www.mse.ntu.edu.sg/.../ResearchStaff....", 
+        "cite_name": "Nanyang Technological University", 
+        "title": "Research Staff - MSE - Nanyang Technological University"
+    }, 
+    {
+        "content": "verified email at shu.edu.cn. scholar. get my own profile ... y peng, f ren, jd yin, q fang, fn li, df li. journal of animal ... w yongliang, p yingning, b zheng.", 
+        "email_list": [
+            "email@shu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4cRt3XoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "yaxin peng - Google Scholar Citations"
+    }, 
+    {
+        "content": "meng cang-zhen①③ xu jia② wang li-bao③ yang jian① peng ying-ning①* ... corresponding authors: meng cang-zhen email: mcz_zzhp@sina.com...", 
+        "email_list": [
+            "mcz_zzhp@sina.com"
+        ], 
+        "cite_url": "jeit.ie.ac.cn/EN/abstract/abstract16647.shtml", 
+        "cite_name": "", 
+        "title": "An Orthogonal Waveform Separation Method Based on ..."
+    }
+]

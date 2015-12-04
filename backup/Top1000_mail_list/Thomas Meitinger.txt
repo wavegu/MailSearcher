@@ -1,2 +1,20 @@
-meitinger@helmholtz-muenchen.de	[20]
-kontakt@bodemeitinger.de	[2]
+[
+    {
+        "content": "dr. thomas meitinger. principal investigator ... (+49-89) 3187 3297. email: meitinger@helmholtz-muenchen.de. website: http://www.helmholtz-muenchen.de/ihg...", 
+        "email_addr_list": [
+            "meitinger@helmholtz-muenchen.de"
+        ], 
+        "cite_url": "www.synergy-munich.de  ...  Principal investigators", 
+        "cite_name": "", 
+        "title": "Meitinger - Munich Cluster for Systems Neurology - LMU ..."
+    }, 
+    {
+        "content": "geschäftsführer: ingolf bode, thomas meitinger ... e-mail: kontakt@bodemeitinger.de ... die kanzlei bode meitinger haftet daher nicht für schäden, die im...", 
+        "email_addr_list": [
+            "kontakt@bodemeitinger.de"
+        ], 
+        "cite_url": "www.bodemeitinger.de/index.php?id=7www.google.com/email", 
+        "cite_name": "", 
+        "title": "Bode Meitinger: ImpressumGoogle Business Email - Custom email for your company‎"
+    }
+]

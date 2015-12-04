@@ -1,4 +1,20 @@
-vdimarzo@icmib.na.cnr.it	[16]
-vdimarzo@icmib.na.cnr.it.endocannabinoid	[16]
-cruzfjmr@med.up.pt	[2]
-email at icb.cnr.it	[2]
+[
+    {
+        "content": "create alert. cancel. vincenzo di marzo ... verified email at icb.cnr.it. scholar ... v di marzo, a fontana, h cadas, s schinelli, g cimino, jc schwartz, ... nature...", 
+        "email_addr_list": [
+            "email@icb.cnr.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2N1ZIl0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Vincenzo Di Marzo - Google Scholar Citations"
+    }, 
+    {
+        "content": "... portugal; email: aavelino@ med.up.pt anindya bhattacharya, department of ... email: cruzfjmr@med.up.pt vincenzo di marzo, endocannabinoid research...", 
+        "email_addr_list": [
+            "cruzfjmr@med.up.pt"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=0470588276www.google.com/email", 
+        "cite_name": "", 
+        "title": "Vanilloid Receptor TRPV1 in Drug Discovery: Targeting Pain ...Google Business Email‎Searches related to Vincenzo Di Marzo email"
+    }
+]

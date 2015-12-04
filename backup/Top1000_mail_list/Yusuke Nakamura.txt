@@ -1,4 +1,29 @@
-ynakamura@bsd.uchicago.edu	[18]
-ynakamura@medicine.bsd.uchicago.edu	[18]
-y-matsuo@oncotherapy.co.jp	[2]
-email at bsd.uchicago.edu	[1]
+[
+    {
+        "content": "yusuke nakamura. nakamura lab. the university of chicago knapp ... e-mail: ynakamura@medicine.bsd.uchicago.edu. the university of chicago knapp...", 
+        "email_addr_list": [
+            "ynakamura@medicine.bsd.uchicago.edu"
+        ], 
+        "cite_url": "https://nakamuralab.uchicago.edu/contact-us", 
+        "cite_name": "", 
+        "title": "Contact Us | Nakamura Lab | The University of Chicago"
+    }, 
+    {
+        "content": "yusuke nakamura, m.d., ph.d. co-investigator email: ynakamura@medicine.bsd.uchicago.edu. phone: (773) 834-1405. peter h. odonnell, m.d.", 
+        "email_addr_list": [
+            "ynakamura@medicine.bsd.uchicago.edu"
+        ], 
+        "cite_url": "pgrn.org/display/pgrnwebsite/PAAR+Profile", 
+        "cite_name": "", 
+        "title": "PAAR Profile - PGRN Web Site - Confluence"
+    }, 
+    {
+        "content": "cancel. yusuke nakamura ... verified email at bsd.uchicago.edu - homepage ... i nishisho, y nakamura, y miyoshi, y miki, h ando, a horii, k koyama, .", 
+        "email_addr_list": [
+            "email@bsd.uchicago.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dDQevDQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yusuke Nakamura - Google Scholar Citations"
+    }
+]

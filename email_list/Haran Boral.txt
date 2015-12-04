@@ -1,0 +1,11 @@
+[
+    {
+        "content": "proceedings haran boral, pascal faudemay ... haid-und-neu-strafie 10-14, d-7500 karlsruhe 1 email: liedtke@ira.uka.de abstract: recently, several proposals...", 
+        "email_list": [
+            "liedtke@ira.uka.de"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540513248", 
+        "cite_name": "", 
+        "title": "Database Machines: Sixth International Workshop, IWDM '89, ..."
+    }
+]

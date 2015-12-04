@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: delallea@iro.removethis.umontreal.ca. phone: my home phone number can be found for example on the following websites (whose access is...", 
+        "email_list": [
+            "delallea@iro.removethis.umontreal.ca"
+        ], 
+        "cite_url": "www.iro.umontreal.ca/~delallea/", 
+        "cite_name": "Université de Montréal", 
+        "title": "Olivier Delalleau - Homepage"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "ahmed sameh. samual conte prof of computer science. sameh@cs.purdue.edu ... ahmed sameh is the samuel d. conte professor of computer science.", 
+        "email_list": [
+            "sameh@cs.purdue.edu"
+        ], 
+        "cite_url": "https://www.cs.purdue.edu/homes/sameh/", 
+        "cite_name": "Purdue University", 
+        "title": "Ahmed Sameh - Purdue University"
+    }, 
+    {
+        "content": "professor email: sameh@aucegypt.edu. web: http://www.cs.aucegypt.edu/~sameh/ joined auc: fall 1991. specialization: artificial intelligence, computer...", 
+        "email_list": [
+            "sameh@aucegypt.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "American University in Cairo", 
+        "title": "Ahmed Sameh, Ph. D"
+    }, 
+    {
+        "content": "email: affendi@cis.psu.edu.sa, dr. abdul aziz al sehebani ... email: akoubaa@cis.psu.edu.sa, dr. ahmed redha mahlous ... dr. ahmed sameh mohamed", 
+        "email_list": [
+            "affendi@cis.psu.edu.sa", 
+            "akoubaa@cis.psu.edu.sa"
+        ], 
+        "cite_url": "www.psu.edu.sa/ccis/Faculty.aspx", 
+        "cite_name": "Prince Sultan University", 
+        "title": "Faculty - Prince Sultan University"
+    }, 
+    {
+        "content": "... (11) university, 305 n. university st., 47907-2107 west lafayette, in, usa (10) bernard philippe email: bernard.philippe@inria.fr ahmed sameh email: sameh...", 
+        "email_list": [
+            "bernard.philippe@inria.fr"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=038709766X", 
+        "cite_name": "", 
+        "title": "Laser Spectroscopy IV: Proceedings of the Fourth ..."
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "content": "proakis has had an impact on a generation of engineering students, as the author ... john proakis joined the ucsd faculty in 1998, while retaining the title of ... john proakis. web page. email: jproakis@ucsd.edu. office phone: 858-534-3521.", 
+        "email_list": [
+            "jproakis@ucsd.edu"
+        ], 
+        "cite_url": "jacobsschool.ucsd.edu/...bios/index.sfe?...", 
+        "cite_name": "Jacobs School of Engineering", 
+        "title": "John Proakis - UCSD Jacobs School of Engineering"
+    }, 
+    {
+        "content": "john g. proakis. research professor. office: 422 dana building tel:617-373-4429, fax:617-373-8970 proakis@ece.neu.edu. dr. proakis is currently a research...", 
+        "email_list": [
+            "proakis@ece.neu.edu"
+        ], 
+        "cite_url": "www.cdsp.neu.edu/info/faculty/proakis/proakis.html", 
+        "cite_name": "", 
+        "title": "John G. Proakis - No Title - Northeastern University"
+    }, 
+    {
+        "content": "massachusetts institute of technology: email:antoniadis@mtl.mit.edu; dr. nicholas .... harvard university: email:prevelak@fas.harvard.edu; dr. john proakis", 
+        "email_list": [
+            "antoniadis@mtl.mit.edu", 
+            "prevelak@fas.harvard.edu"
+        ], 
+        "cite_url": "www.hellenic-academics.org/?members", 
+        "cite_name": "", 
+        "title": "Members - The Circle of Hellenic Academics in Boston"
+    }, 
+    {
+        "content": "lecture1 introduction college of computer and information 2 •lecturer: dr. yueheng li office: qinxue building #4415 email: yueheng_li@hhu.edu.cn...", 
+        "email_list": [
+            "yueheng_li@hhu.edu.cn"
+        ], 
+        "cite_url": "www.academia.edu/.../Digital_Communications_John_G._...", 
+        "cite_name": "Academia.edu", 
+        "title": "Digital Communications John G. Proakis - Academia.edu"
+    }
+]

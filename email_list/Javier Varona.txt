@@ -1,0 +1,20 @@
+[
+    {
+        "content": "verified email at uib.es. scholar. get my own ... c manresa, j varona, r mas, fj perales. electronic ... j gonzàlez, j varona, fx roca, jj villanueva. articulated...", 
+        "email_list": [
+            "email@uib.es"
+        ], 
+        "cite_url": "scholar.google.no/citations?user=JVgrWbkAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Javier Varona - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: xavir@cvc.uab.es ... jordi gonzàlez, daniel rowe, javier varona, f.xavier roca, understanding dynamic scenes based on human sequence...", 
+        "email_list": [
+            "xavir@cvc.uab.es"
+        ], 
+        "cite_url": "iselab.cvc.uab.es/xavier_roca", 
+        "cite_name": "", 
+        "title": "Xavier Roca - ISE Lab, Centre de Visió per Computador"
+    }
+]

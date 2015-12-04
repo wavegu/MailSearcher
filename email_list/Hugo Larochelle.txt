@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. hugo larochelle ... verified email at usherbrooke.ca - homepage  scholar ... y bengio, p lamblin, d popovici, h larochelle, u montreal. advances in...", 
+        "email_list": [
+            "email@usherbrooke.ca"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=U89FHq4AAAAJ", 
+        "cite_name": "Google", 
+        "title": "Hugo Larochelle - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: larocheh@iro.umontreal.ca ... hugo larochelle, Étude de techniques dapprentissage non-supervisé pour lamélioration de lentraînement supervisé de...", 
+        "email_list": [
+            "larocheh@iro.umontreal.ca"
+        ], 
+        "cite_url": "www.iro.umontreal.ca/~lisa/publications2/.../25", 
+        "cite_name": "Université de Montréal", 
+        "title": "Hugo Larochelle - LISA - Publications - Aigaion 2.0"
+    }, 
+    {
+        "content": "feb 6, 2014 - office hours: after class, or appointment by email (x@is.naist.jp where ... hugo larochelles lecture videos and slides at u. sherkbrooke; geoff...", 
+        "email_list": [
+            "x@is.naist.jp"
+        ], 
+        "cite_url": "cl.naist.jp/~kevinduh/a/deep2014/", 
+        "cite_name": "", 
+        "title": "Deep Learning and Neural Networks"
+    }
+]

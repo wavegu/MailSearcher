@@ -1,4 +1,47 @@
-luca.gambardella@usi.ch	[32]
-luca.gambardella@supsi.ch	[32]
-luca@idsia.ch	[9]
-email at idsia.ch	[3]
+[
+    {
+        "content": "email: luca@idsia.ch ... luca maria gambardella is director at idsia, a research institute affiliated to supsi (university of applied science of southern...", 
+        "email_addr_list": [
+            "luca@idsia.ch"
+        ], 
+        "cite_url": "www.idsia.ch/luca/", 
+        "cite_name": "Dalle Molle Institute for Artificial Intelligence Research", 
+        "title": "Luca Gambardella - Idsia"
+    }, 
+    {
+        "content": "luca maria gambardella. idsia istituto dalle molle ... verified email at idsia.ch. scholar. get my own ... m dorigo, gd caro, lm gambardella. artificial life 5 (2),...", 
+        "email_addr_list": [
+            "email@idsia.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SCCwW3YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "luca maria gambardella - Google Scholar Citations"
+    }, 
+    {
+        "content": "email luca.gambardella@supsi.ch. website ... personal details luca maria gambardella was born in saronno, italy, january 4th, 1962. education and training...", 
+        "email_addr_list": [
+            "luca.gambardella@supsi.ch"
+        ], 
+        "cite_url": "www.supsi.ch/...", 
+        "cite_name": "University of Applied Sciences and Arts of Italian Swit...", 
+        "title": "Luca Maria Gambardella - Supsi"
+    }, 
+    {
+        "content": "nome e cognome luca maria gambardella. funzione istituto dalle ... email luca.gambardella@supsi.ch. website http://www.idsia.ch/luca. ufficio galleria 1 -...", 
+        "email_addr_list": [
+            "luca.gambardella@supsi.ch"
+        ], 
+        "cite_url": "...", 
+        "cite_name": "University of Applied Sciences and Arts of Italian Swit...", 
+        "title": "Luca Maria Gambardella - SUPSI - Dipartimento tecnologie ..."
+    }, 
+    {
+        "content": "gambardella, luca aggiorna dati ... contatti. email. luca.gambardella@usi.ch ... luca maria gambardella is director of idsia, dalle molle institute for artificial...", 
+        "email_addr_list": [
+            "luca.gambardella@usi.ch"
+        ], 
+        "cite_url": "search.usi.ch/persone/.../Gambardella-Luca", 
+        "cite_name": "", 
+        "title": "Gambardella, Luca | Università della Svizzera italiana"
+    }
+]

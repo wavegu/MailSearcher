@@ -1,0 +1,56 @@
+[
+    {
+        "content": "create alert. cancel. wojciech chojnacki ... verified email at adelaide.edu.au - homepage  scholar ... w chojnacki, mj brooks, a van den hengel, d gawley.", 
+        "email_list": [
+            "email@adelaide.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=eTCmxFwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Wojciech Chojnacki - Google Scholar Citations"
+    }, 
+    {
+        "content": "email, wojciech.chojnacki@adelaide.edu.au. fax, +61 8 8313 4366. building, ingkarni ... http://www.adelaide.edu.au/directory/wojciech.chojnacki. entry last...", 
+        "email_list": [
+            "wojciech.chojnacki@adelaide.edu.au"
+        ], 
+        "cite_url": "www.adelaide.edu.au/directory/wojciech.chojnacki", 
+        "cite_name": "University of Adelaide", 
+        "title": "Professor Wojciech Chojnacki | The University of Adelaide ..."
+    }, 
+    {
+        "content": "f.h.u. gaz instal bud. wojciech chojnacki. zagórze 194. 32-005 niepołomice. tel: 602-688-431. email: wojciech.chojnacki@gazinstalbud.pl. 2015-10-01...", 
+        "email_list": [
+            "wojciech.chojnacki@gazinstalbud.pl"
+        ], 
+        "cite_url": "www.gazinstalbud.pl/Default.aspx?sti=13", 
+        "cite_name": "", 
+        "title": "Gaz Instal Bud - Kontakt"
+    }, 
+    {
+        "content": "the latest tweets from wojciech chojnacki (@czlowiekimadlo). senior developer at pearson ioki. also indie developer at p1x.in. poznań, poland.", 
+        "email_list": [
+            "developer@p1x.in"
+        ], 
+        "cite_url": "https://twitter.com/czlowiekimadlo", 
+        "cite_name": "", 
+        "title": "Wojciech Chojnacki (@czlowiekimadlo) | Twitter"
+    }, 
+    {
+        "content": "e-mail: a.modrzynska@ase.com.pl adres poczty elektronicznej jest chroniony przed robotami spamującymi. ... wojciech sławek tel. ... wojciech chojnacki tel.", 
+        "email_list": [
+            "a.modrzynska@ase.com.pl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Specjaliści w naszych działach - ASE"
+    }, 
+    {
+        "content": "wojciech chojnacki. spedytor krajowy, z-ca kierownika logistyki. telefon 52 38 00 939. tel.kom. +48 606 465 098. email wojciech.chojnacki@bart-sulnowo.eu...", 
+        "email_list": [
+            "wojciech.chojnacki@bart-sulnowo.eu"
+        ], 
+        "cite_url": "www.bart-sulnowo.eu/transport_i_logistyka.html", 
+        "cite_name": "", 
+        "title": "Bart - Transport i logistyka"
+    }
+]

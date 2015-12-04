@@ -1,4 +1,29 @@
-hermann.wagner@dont-want-spam.elk-wue.de	[27]
-hermann.wagner@tum.de	[27]
-wagner at bio2.rwth-aachen.de	[14]
-email at lrz.tu-muenchen.de	[2]
+[
+    {
+        "content": "create alert. cancel. hermann wagner ... verified email at lrz.tu-muenchen.de. scholar ... p ahmad‐nejad, h häcker, m rutz, s bauer, rm vabulas, h wagner.", 
+        "email_addr_list": [
+            "email@lrz.tu-muenchen.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=v3Fzj8QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hermann Wagner - Google Scholar Citations"
+    }, 
+    {
+        "content": "tum emeritus of excellence. director of the institute from 1989 - 2008. phone: 0049.89.4140.6256/4121. email: hermann.wagner@tum.de...", 
+        "email_addr_list": [
+            "hermann.wagner@tum.de"
+        ], 
+        "cite_url": "www.mikrobio.med.tu-muenchen.de/node/57", 
+        "cite_name": "", 
+        "title": "Emeritus | www.mikrobio.med.tum.de"
+    }, 
+    {
+        "content": "studienleiter hermann wagner. studienleiter hermann wagner foto privat. studienleiter hermann ... email: hermann.wagner@dont-want-spam.elk-wue.de...", 
+        "email_addr_list": [
+            "hermann.wagner@dont-want-spam.elk-wue.de"
+        ], 
+        "cite_url": "www.kirchenbezirk-crailsheim.de/buero-des-schuldek...www.google.com/email", 
+        "cite_name": "", 
+        "title": "Büro des Schuldekans - Kirchenbezirk CrailsheimGoogle Business Email‎"
+    }
+]

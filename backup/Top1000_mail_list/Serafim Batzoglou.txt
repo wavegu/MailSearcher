@@ -1,4 +1,29 @@
-serafim at cs dot stanford dot edu	[15]
-serafim@cs.stanford.edu	[15]
-email at cs.stanford.edu	[2]
-moc.liamg@regrubwen.leinad	[1]
+[
+    {
+        "content": "serafim batzoglou associate professor. i am interested in the ... email: serafim at cs dot stanford dot edu. phone: (650) 723-3334 fax: (650) 725-1449. cv.", 
+        "email_addr_list": [
+            "serafim@cs.stanford.edu"
+        ], 
+        "cite_url": "robotics.stanford.edu/~serafim/", 
+        "cite_name": "", 
+        "title": "Serafim Batzoglous Website"
+    }, 
+    {
+        "content": "the batzoglou lab ... serafim batzoglou professor department of computer science. email: serafim at cs dot stanford dot edu. phone: (650) 723-3334. if you are...", 
+        "email_addr_list": [
+            "serafim@cs.stanford.edu"
+        ], 
+        "cite_url": "batzogloulab.stanford.edu/", 
+        "cite_name": "", 
+        "title": "The Batzoglou Lab"
+    }, 
+    {
+        "content": "serafim batzoglou. stanford university  computational biology. verified email at cs.stanford.edu ... cb do, msp mahabhashyam, m brudno, s batzoglou.", 
+        "email_addr_list": [
+            "email@cs.stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=POWKkqEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Serafim Batzoglou - Google Scholar Citations"
+    }
+]

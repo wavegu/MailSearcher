@@ -1,0 +1,56 @@
+[
+    {
+        "content": "dr david ian ellis. manchester institute of biotechnology, the university of manchester, 131, princess st, manchester m1 7dn. email:d.ellis@manchester.ac.uk.", 
+        "email_list": [
+            "d.ellis@manchester.ac.uk"
+        ], 
+        "cite_url": "dbkgroup.org/die/", 
+        "cite_name": "", 
+        "title": "Dr David Ellis Homepage « Bioanalytical Sciences Group"
+    }, 
+    {
+        "content": "dec 30, 2013 - mr. david ellis shipment if you have received email from mr. david ellis email address ellisdavid162@yahoo.com.ph, beware of the...", 
+        "email_list": [
+            "ellisdavid162@yahoo.com.ph"
+        ], 
+        "cite_url": "https://plus.google.com/107797897719944950527/posts/7eTSm1KxFrx", 
+        "cite_name": "", 
+        "title": "MR. DAVID ELLIS SHIPMENT If you have received email ..."
+    }, 
+    {
+        "content": "cancel. david i. ellis. university ... verified email at manchester.ac.uk - homepage  scholar ... di ellis, d broadhurst, db kell, jj rowland, r goodacre. applied...", 
+        "email_list": [
+            "email@manchester.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=PSK3V64AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "David I. Ellis - Google Scholar Citations"
+    }, 
+    {
+        "content": "david ellis, partner. dr. david ellis has over 27 years of investment experience, as well as substantial operations experience ... email: doellis@eglholdings.com", 
+        "email_list": [
+            "doellis@eglholdings.com"
+        ], 
+        "cite_url": "www.eglholdings.com/team-doe.html", 
+        "cite_name": "", 
+        "title": "David O. Ellis - EGL Holdings"
+    }, 
+    {
+        "content": "david ellis is a lecturer at the university of lincoln. ... email: dellis@lincoln.ac.uk; telephone: 01522 88 6861; post. university of lincoln brayford pool lincoln", 
+        "email_list": [
+            "dellis@lincoln.ac.uk"
+        ], 
+        "cite_url": "staff.lincoln.ac.uk/dellis", 
+        "cite_name": "University of Lincoln", 
+        "title": "David Ellis · University of Lincoln Staff Directory"
+    }, 
+    {
+        "content": "dr david ellis - personal details ... role: senior experimental officer/lab manager. email: d.ellis@manchester.ac.uk. to see email addresses you need to have...", 
+        "email_list": [
+            "d.ellis@manchester.ac.uk"
+        ], 
+        "cite_url": "www.chemistry.manchester.ac.uk/.../profile/?...", 
+        "cite_name": "University of Manchester", 
+        "title": "Dr David Ellis - School of Chemistry - University of Manchester"
+    }
+]

@@ -1,4 +1,65 @@
-rahmed@emory.edu	[12]
-pablo.becker@kcl.ac.uk	[3]
-email at emory.edu	[3]
-cinifr@cinindia.org	[2]
+[
+    {
+        "content": "email: rahmed@emory.edu. dr. rafi ahmed, a member of the national academy of science, is a world-renowned immunologist whose work during the past...", 
+        "email_addr_list": [
+            "rahmed@emory.edu"
+        ], 
+        "cite_url": "vaccines.emory.edu/faculty/ahmed_rafi.html", 
+        "cite_name": "Emory University", 
+        "title": "Rafi Ahmed, PhD - Emory Vaccine Center - Emory University"
+    }, 
+    {
+        "content": "rafi ahmed. email: rahmed@emory.edu. the mechanism of viral persistence remains a major unresolved problem and the goal of our lab is to understand how...", 
+        "email_addr_list": [
+            "rahmed@emory.edu"
+        ], 
+        "cite_url": "www.microbiology.emory.edu/faculty/ahmed_rafi.html", 
+        "cite_name": "Emory University", 
+        "title": "Rafi Ahmed"
+    }, 
+    {
+        "content": "email: rahmed@emory.edu ... http://vaccines.emory.edu/scientists/ahmed.shtml ... rafi ahmed, director of the emory vaccine center and the georgia research...", 
+        "email_addr_list": [
+            "rahmed@emory.edu"
+        ], 
+        "cite_url": "www.cfar.emory.edu  Departments  Centers  Centers", 
+        "cite_name": "Emory University", 
+        "title": "CFAR | Rafi Ahmed, PhD"
+    }, 
+    {
+        "content": "rafi ahmed, phd. email: rahmed@emory.edu. rafi ahmed is the director of the emory vaccine center. the research in his laboratory focuses on adaptive...", 
+        "email_addr_list": [
+            "rahmed@emory.edu"
+        ], 
+        "cite_url": "immunoengineering-georgia.org/bio/ahmed-rafi.html", 
+        "cite_name": "", 
+        "title": "Rafi Ahmed, PhD | Georgia ImmunoEngineering Consortium"
+    }, 
+    {
+        "content": "cancel. rafi ahmed. emory university ... verified email at emory.edu. scholar. get my own ... sm kaech, jt tan, ej wherry, bt konieczny, cd surh, r ahmed.", 
+        "email_addr_list": [
+            "email@emory.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=wV--ua0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rafi Ahmed - Google Scholar Citations"
+    }, 
+    {
+        "content": "email pablo.becker@kcl.ac.uk publications ... joe obtained his phd in rafi ahmeds lab, at emory university, atlanta, usa, studying t cell fate during chronic...", 
+        "email_addr_list": [
+            "pablo.becker@kcl.ac.uk"
+        ], 
+        "cite_url": "www.kcl.ac.uk/lsm/research/.../LabMembers.aspx", 
+        "cite_name": "King's College London", 
+        "title": "Kings College London - Lab Members"
+    }, 
+    {
+        "content": "63 rafi ahmed kidwai road, kolkata pin - 700 016, west bengal, india tel: +91 33 40058927/99. fax: +91 33 4005 8900. email: cinifr@cinindia.org...", 
+        "email_addr_list": [
+            "cinifr@cinindia.org"
+        ], 
+        "cite_url": "www.cini-india.org/cini-india", 
+        "cite_name": "Child In Need Institute", 
+        "title": "CINI in India | CINI India - Child In Need Institute"
+    }
+]

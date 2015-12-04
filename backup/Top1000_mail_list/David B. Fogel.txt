@@ -1,3 +1,21 @@
-gfogel@natural-selection.com	[11]
-bonissone@crd.ge.com	[2]
-email at natural-selection.com	[1]
+[
+    {
+        "content": "natural selection inc. san diego, ca 92121. e-mail: gfogel@natural-selection.com ... e-mail: bonissone@crd.ge.com ... david b. fogel. natural selection inc.", 
+        "email_addr_list": [
+            "gfogel@natural-selection.com", 
+            "bonissone@crd.ge.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0597...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "IEEE Computational Intelligence Society - IEEE Xplore"
+    }, 
+    {
+        "content": "cancel. david fogel. unknown affiliation. verified email at natural-selection.com ... dk gehlhaar, gm verkhivker, pa rejto, cj sherman, dr fogel, lj fogel, .", 
+        "email_addr_list": [
+            "email@natural-selection.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FOfx0i4AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David Fogel - Google Scholar Citations"
+    }
+]

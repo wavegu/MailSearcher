@@ -1,5 +1,38 @@
-a.skowron@mimuw.edu.pl	[16]
-skowron@mimuw.edu.pl	[15]
-email at mimuw.edu.pl	[2]
-foster@mcs.anl.gov	[2]
-zhong@maebashi-it.ac.jp	[1]
+[
+    {
+        "content": "email: skowron@mimuw.edu.pl ... andrzej skowron is full professor in the faculty of mathematics, computer science and mechanics at warsaw university.", 
+        "email_addr_list": [
+            "skowron@mimuw.edu.pl"
+        ], 
+        "cite_url": "www.sersc.org/directors/skowron.htm", 
+        "cite_name": "", 
+        "title": "Andrzej Skowron - SERSC"
+    }, 
+    {
+        "content": "telefon, +48-22-55-44-127. e-mail, a.skowron@mimuw.edu.pl. konsultacje, poniedziałki: 10:15-12:00 terminy konsultacji obowiązują w czasie trwania zajęć.", 
+        "email_addr_list": [
+            "a.skowron@mimuw.edu.pl"
+        ], 
+        "cite_url": "www.mimuw.edu.pl/.../andrzej.skowron.xml?...enś...", 
+        "cite_name": "", 
+        "title": "prof. dr hab. Andrzej Skowron — Wydział MIM UW"
+    }, 
+    {
+        "content": "andrzej skowron. professor, university ... verified email at mimuw.edu.pl. scholar. get my own ... j komorowski, z pawlak, l polkowski, a skowron. rough fuzzy...", 
+        "email_addr_list": [
+            "email@mimuw.edu.pl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fYu9ryIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrzej Skowron - Google Scholar Citations"
+    }, 
+    {
+        "content": "prof. andrzej skowron. institute of mathematics. university of warsaw. banacha 2, 02-097 warsaw, poland. email: skowron@mimuw.edu.pl. call for papers for a...", 
+        "email_addr_list": [
+            "skowron@mimuw.edu.pl"
+        ], 
+        "cite_url": "www.iospress.nl/wp-content/uploads/2014/10/Fuzzy-50years.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]FUNDAMENTA INFORMATICAE - IOS Press"
+    }
+]

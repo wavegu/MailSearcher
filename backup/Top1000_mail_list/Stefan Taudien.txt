@@ -1,4 +1,30 @@
-shimizu@dmb.med.keio.ac.jp	[2]
-info@leibniz-fli.de	[1]
-chad@broad.mit.edu	[1]
-info@biomedcentral.com	[1]
+[
+    {
+        "content": "stefan taudien*, karol szafranski, marius felder, marco groth, klaus huse, ... please email info@biomedcentral.com, giving the pubmed id of an article on...", 
+        "email_addr_list": [
+            "info@biomedcentral.com"
+        ], 
+        "cite_url": "www.biomedcentral.com/1471-2164/12/243/comments", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Genomics | User comments | Comprehensive ..."
+    }, 
+    {
+        "content": "... shuichi asakawa, stefan taudien, manuel garber, chinnappa d. kodira, mary ... (email: chad@broad.mit.edu) or n.s. (email: shimizu@dmb.med.keio.ac.jp).", 
+        "email_addr_list": [
+            "chad@broad.mit.edu", 
+            "shimizu@dmb.med.keio.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letter", 
+        "cite_name": "Nature", 
+        "title": "DNA sequence and analysis of human chromosome 8 ..."
+    }, 
+    {
+        "content": "http://genome.fli-leibniz.de/. beutenbergstraße 11. d-07745 jena • germany. phone: +49 3641 65-6000. fax: +49 3641 65-6351. e-mail: info@leibniz-fli.de", 
+        "email_addr_list": [
+            "info@leibniz-fli.de"
+        ], 
+        "cite_url": "www.leibniz-fli.de/research/research-groups/platzer/www.google.com/email", 
+        "cite_name": "", 
+        "title": "Platzer Research Group - Leibniz Institute on Aging (FLI)Google Business Email - Custom email for your company‎"
+    }
+]

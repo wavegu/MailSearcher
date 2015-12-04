@@ -1,3 +1,29 @@
-vardi at cs.rice.edu	[11]
-vardi@cs.rice.edu	[11]
-email at cs.rice.edu	[2]
+[
+    {
+        "content": "moshe y. vardi is karen ostrum george distinguished service professor in computational engineering and ... email: vardi_delete_this_@cs.rice.edu.", 
+        "email_addr_list": [
+            "vardi_delete_this_@cs.rice.edu"
+        ], 
+        "cite_url": "www.cs.rice.edu/~vardi/", 
+        "cite_name": "Rice University", 
+        "title": "Moshe Y. Vardis Home Page - Rice University"
+    }, 
+    {
+        "content": "verified email at cs.rice.edu - homepage ... r fagin, y moses, jy halpern, my vardi ... an automata-theoretic approach to linear temporal logic. my vardi.", 
+        "email_addr_list": [
+            "email@cs.rice.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DQaARsgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Moshe Y. Vardi - Google Scholar Citations"
+    }, 
+    {
+        "content": "moshe y. vardi. rice university. department of computer science. p.o. box 1892. houston, tx 77251-1892, u.s.a.. email: vardi@cs.rice.edu.", 
+        "email_addr_list": [
+            "vardi@cs.rice.edu"
+        ], 
+        "cite_url": "people.na.infn.it/~bene/TSV/.../Vardi_automata-theoretic-and-LTL.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]An Automata-Theoretic Approach to Linear Temporal Logic"
+    }
+]

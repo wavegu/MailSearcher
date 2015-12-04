@@ -1,2 +1,29 @@
-michael.dustin@med.nyu.edu	[31]
-dustin@saturn.med.nyu.edu	[13]
+[
+    {
+        "content": "address 540-562 first avenue new york, ny 10016. phone: 212/263-3207. email: michael.dustin@med.nyu.edu. web: dustin lab. research; publications...", 
+        "email_addr_list": [
+            "michael.dustin@med.nyu.edu"
+        ], 
+        "cite_url": "www.med.nyu.edu/biosketch/dustim01", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Michael L Dustin | NYU School of Medicine"
+    }, 
+    {
+        "content": "michael l. dustin ... e-mail: michael.dustin@med.nyu.edu ... fooksman, d.r., schwickert, t.a., victora, g.d., dustin, m.l., nussenzweig, m.c., and skokos,...", 
+        "email_addr_list": [
+            "michael.dustin@med.nyu.edu"
+        ], 
+        "cite_url": "skirball.med.nyu.edu/.../az/michael-l-dusti...", 
+        "cite_name": "NYU Langone Medical Center", 
+        "title": "Michael L. Dustin - Skirball Institute of Biomolecular Medicine"
+    }, 
+    {
+        "content": "pi name: dustin, michael l. pi email: dustin@saturn.med.nyu.edu. pi title: project title: requirement for sensitive t cell response to antigen.", 
+        "email_addr_list": [
+            "dustin@saturn.med.nyu.edu"
+        ], 
+        "cite_url": "archives.nih.gov/asites/grants/05-21-2015/.../dustin_michael.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]CRISP Abstract for PECASE Award - Michael L. Dustin, Ph.D."
+    }
+]

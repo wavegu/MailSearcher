@@ -1,3 +1,29 @@
-itamar.procaccia@weizmann.ac.il	[31]
-e.lerner@uva.nl	[1]
-sastry@jncasr.ac.in	[1]
+[
+    {
+        "content": "the weizmann institute of science rehovot 76100. israel e-mail: itamar.procaccia@weizmann.ac.il. dept. fax: ++972 (8) 934-4123. voice: ++972 (8) 934-3918...", 
+        "email_addr_list": [
+            "itamar.procaccia@weizmann.ac.il"
+        ], 
+        "cite_url": "https://www.weizmann.ac.il/.../cfprocac/", 
+        "cite_name": "Weizmann Institute of Science", 
+        "title": "Professor Itamar Procaccias home page"
+    }, 
+    {
+        "content": "email: sastry@jncasr.ac.in. url: http://www.jncasr.ac.in/sastry. prof. itamar procaccia. department of chemical physics. the weizmann institute of science.", 
+        "email_addr_list": [
+            "sastry@jncasr.ac.in"
+        ], 
+        "cite_url": "www.physics.iisc.ernet.in/~smarajit/cv.pdf", 
+        "cite_name": "Indian Institute of Science", 
+        "title": "[PDF]Curriculum Vitae - Physics - Indian Institute of Science"
+    }, 
+    {
+        "content": "e-mail: e.lerner@uva.nl. web: https://staff.fnwi.uva.nl/e.lerner/. education: ... smarajit karmakar, edan lerner, and itamar procaccia, direct estimate of the static.", 
+        "email_addr_list": [
+            "e.lerner@uva.nl"
+        ], 
+        "cite_url": "https://staff.fnwi.uva.nl/e.lerner/cv__edan_lerner.pdfwww.google.com/email", 
+        "cite_name": "", 
+        "title": "[PDF]CVGoogle Business Email‎"
+    }
+]

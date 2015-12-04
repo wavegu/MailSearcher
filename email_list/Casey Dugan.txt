@@ -1,0 +1,20 @@
+[
+    {
+        "content": "director of pharmacy: casey r dugan, pharm.d., mba. (702) 777-5683. fax: (720) 777-7108. email: casey.dugan@childrenscolorado.org. program contact...", 
+        "email_list": [
+            "casey.dugan@childrenscolorado.org"
+        ], 
+        "cite_url": "https://accred.ashp.org/...", 
+        "cite_name": "American Society of Health‑System Pharmacists", 
+        "title": "Childrens Hospital Colorado - Residency Listing"
+    }, 
+    {
+        "content": "learn more about saint augustine, fl real estate agent casey duggan including ... 904.471.5000 fax: 904.471.4216 email: casey@thepremierproperties.com.", 
+        "email_list": [
+            "casey@thepremierproperties.com"
+        ], 
+        "cite_url": "https://www.coldwellbanker.com/.../Casey-Duggan-320...", 
+        "cite_name": "Coldwell Banker", 
+        "title": "Casey Duggan - Coldwell Banker"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "name: associate professor richi nayak; position(s): associate professor ... email: r.nayak@qut.edu.au; location: view location details (qut staff and student...", 
+        "email_list": [
+            "r.nayak@qut.edu.au"
+        ], 
+        "cite_url": "staff.qut.edu.au/staff/nayak/", 
+        "cite_name": "Queensland University of Technology", 
+        "title": "QUT | Staff Profiles | Richi Nayak"
+    }, 
+    {
+        "content": "cancel. richi nayak. associate professor ... verified email at qut.edu.au. scholar. get my own ... h liang, y xu, y li, r nayak, x tao. proceedings of the 21st...", 
+        "email_list": [
+            "email@qut.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=I9nwYvsAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Richi Nayak - Google Scholar Citations"
+    }, 
+    {
+        "content": "hi, i need contact information of conference chairs (richi nayak and paul kennedy) ... yes, as yanchang said, send an email to ausdm14@ausdm.org, and your...", 
+        "email_list": [
+            "ausdm14@ausdm.org"
+        ], 
+        "cite_url": "https://www.linkedin.com/grp/.../4907891-592036058847040716...", 
+        "cite_name": "LinkedIn", 
+        "title": "Hi, I need contact information of conference chairs (Richi ..."
+    }
+]

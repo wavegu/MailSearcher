@@ -1,0 +1,12 @@
+[
+    {
+        "content": "feb 20, 2014 - from : gustavo e. a. p. a. batista gbatista@icmc.usp.br ... =fgk+chyexhzgbike9n4hnzor3qk9t4xhrs_rw=c6mjx3kw@mail.gmail.com", 
+        "email_list": [
+            "gbatista@icmc.usp.br", 
+            "c6mjx3kw@mail.gmail.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "World Wide Web Consortium", 
+        "title": "ICMLA 2014 Call for Papers from Gustavo E. A. P. A. Batista ..."
+    }
+]

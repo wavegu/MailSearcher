@@ -1,2 +1,20 @@
-evans@salk.edu	[11]
-email at salk.edu	[3]
+[
+    {
+        "content": "cancel. ronald m. evans. salk institute. verified email at salk.edu ... dj mangelsdorf, c thummel, m beato, p herrlich, g schütz, k umesono, ... cell 83 (6)...", 
+        "email_addr_list": [
+            "email@salk.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OYsojVgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ronald M. Evans - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: evans@salk.edu ... fan, weiwei and ronald m. evans. .... kacevska, marina, michael downes, rohini sharma, ronald m. evans, stephen j. clarke,...", 
+        "email_addr_list": [
+            "evans@salk.edu"
+        ], 
+        "cite_url": "tools.niehs.nih.gov/srp/people/details.cfm?Person_ID=11494", 
+        "cite_name": "", 
+        "title": "Person Details"
+    }
+]

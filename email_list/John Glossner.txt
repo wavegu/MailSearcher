@@ -1,0 +1,29 @@
+[
+    {
+        "content": "john glossners. homepage ... welcome to john glossners homepage. someday this may contain ... http://www.glossner.org/john e-mail: john@glossner.org.", 
+        "email_list": [
+            "john@glossner.org"
+        ], 
+        "cite_url": "www.glossner.org/john/", 
+        "cite_name": "", 
+        "title": "John Glossners Homepage - glossner.org"
+    }, 
+    {
+        "content": "john glossner. unknown affiliation. verified email at glossner.org - homepage  scholar. get my own profile ... j glossner, d iancu, j lu, e hokenek, m moudgill.", 
+        "email_list": [
+            "email@glossner.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HJsSTMoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John Glossner - Google Scholar Citations"
+    }, 
+    {
+        "content": "name: john glossner ... email: jglossner@dwc.edu .... guest editors: daniel iancu, john glossner, mihai sima, peter farkas, and michael mcguire, volume...", 
+        "email_list": [
+            "jglossner@dwc.edu"
+        ], 
+        "cite_url": "faculty.dwc.edu/jglossner/", 
+        "cite_name": "", 
+        "title": "John Glossner - Daniel Webster College - Faculty"
+    }
+]

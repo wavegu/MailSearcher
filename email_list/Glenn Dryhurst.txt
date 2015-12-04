@@ -1,0 +1,20 @@
+[
+    {
+        "content": "dryhurst, glenn (george lynn cross prof/regents prof emeritus) email gdryhurst@ou.edu. frech, roger e. (david ross boyd professor emeritus)", 
+        "email_list": [
+            "gdryhurst@ou.edu"
+        ], 
+        "cite_url": "chem.ou.edu/directory", 
+        "cite_name": "University of Oklahoma", 
+        "title": "directory - Department of Chemistry and Biochemistry"
+    }, 
+    {
+        "content": "available now at abebooks.co.uk - isbn: 9780122226502 - hardcover - academic press inc - 1977 - book condition: fair - this is an ex-library book and may...", 
+        "email_list": [
+            "now@abebooks.co.uk"
+        ], 
+        "cite_url": "www.abebooks.co.uk/Heterochemistry...Glenn-Dryhurst.../bd", 
+        "cite_name": "AbeBooks", 
+        "title": "Heterochemistry of Biological Molecules by Glenn Dryhurst ..."
+    }
+]

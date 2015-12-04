@@ -1,0 +1,29 @@
+[
+    {
+        "content": "gonzalo pajares martinsanz. descripción: descripción: descripción: descripción: ... tel: +34.1.3 94 75 46. fax: +34.1.3 94 75 47. e-mail: pajares@ucm.es...", 
+        "email_list": [
+            "pajares@ucm.es"
+        ], 
+        "cite_url": "https://www.fdi.ucm.es/.../pajares/", 
+        "cite_name": "Complutense University of Madrid", 
+        "title": "Gonzalo Pajares Martinsanz - Facultad de Informática"
+    }, 
+    {
+        "content": "cancel. gonzalo pajares. profesor, universidad ... verified email at ucm.es. scholar. get my own profile ... a tellaeche, xp burgos-artizzu, g pajares, a ribeiro.", 
+        "email_list": [
+            "email@ucm.es"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=iGgOj5oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gonzalo Pajares - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: pajares@fdi.ucm.es. descripción del autor. gonzalo pajares martinsanz es actualmente profesor titular de universidad en el departamento de...", 
+        "email_list": [
+            "pajares@fdi.ucm.es"
+        ], 
+        "cite_url": "www.alfaomega.com.mx/default/authors/view/.../298", 
+        "cite_name": "", 
+        "title": "PAJARES, Gonzalo - Alfaomega Grupo Editor"
+    }
+]

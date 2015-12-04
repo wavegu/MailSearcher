@@ -1,2 +1,20 @@
-clark@stanford.edu	[11]
-herb@psych.stanford.edu	[3]
+[
+    {
+        "content": "albert ray lang professor of psychology. herbert h. clark. primary area: cognitive. email: clark@stanford.edu. office location: jordan hall, building 420 room...", 
+        "email_addr_list": [
+            "clark@stanford.edu"
+        ], 
+        "cite_url": "psychology.stanford.edu  Faculty", 
+        "cite_name": "", 
+        "title": "Herbert Clark | Department of Psychology"
+    }, 
+    {
+        "content": "herbert h. clark department of ... e-mail: herb@psych.stanford.edu. position: professor of ... clark, h. h.,  schaefer, e. f. (1987). collaborating on...", 
+        "email_addr_list": [
+            "herb@psych.stanford.edu"
+        ], 
+        "cite_url": "ling.cass.cn/dangdai/Herbert%20H_%20Clarks%20Homepage.htm", 
+        "cite_name": "", 
+        "title": "Herbert H. Clarks Homepage"
+    }
+]

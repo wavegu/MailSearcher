@@ -1,1 +1,11 @@
-erik.nordmark@eng.sun.com	[2]
+[
+    {
+        "content": "... track charles e. perkins title: draft-ietf-mobileip-home-addr-alloc-00.txt sun .... +1 650 786-5896 e-mail: erik.nordmark@eng.sun.com 7.0 authors address...", 
+        "email_addr_list": [
+            "erik.nordmark@eng.sun.com"
+        ], 
+        "cite_url": "https://tools.ietf.org/.../draft-ietf-mobilei...", 
+        "cite_name": "Internet Engineering Task Force", 
+        "title": "draft-ietf-mobileip-home-addr-alloc-00 - Mobile IP Dynamic ..."
+    }
+]

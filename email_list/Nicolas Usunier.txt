@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. usunier nicolas. facebook ai research. machine learning. verified email at fb.com ... a bordes, n usunier, a garcia-duran, j weston, o yakhnenko.", 
+        "email_list": [
+            "email@fb.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tYro5N8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Usunier Nicolas - Google Scholar Citations"
+    }, 
+    {
+        "content": "... conferences  academic organisations  eu supported  blog  about us  nicolas usunier ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/nicolas_usunier/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Nicolas Usunier - VideoLectures.NET"
+    }, 
+    {
+        "content": "learning to label sequences in one pass antoine bordes nec laboratories america inc. lip6 universit e de paris 6 antoine.bordes@lip6.fr nicolas usunier...", 
+        "email_list": [
+            "antoine.bordes@lip6.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-usunier-lip6-fr-18334394.htm", 
+        "cite_name": "", 
+        "title": "usunier@lip6.fr - The Email Archive"
+    }
+]

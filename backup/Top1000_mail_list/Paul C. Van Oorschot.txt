@@ -1,2 +1,20 @@
-vanoorschot at scs.carleton.ca	[24]
-email at scs.carleton.ca	[3]
+[
+    {
+        "content": "create alert. cancel. paul c. van oorschot ... verified email at scs.carleton.ca - homepage  scholar ... aj menezes, pc van oorschot, sa vanstone. crc press...", 
+        "email_addr_list": [
+            "email@scs.carleton.ca"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CMRzTi8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Paul C. van Oorschot - Google Scholar Citations"
+    }, 
+    {
+        "content": "paul c. van oorschot (aka paul c. van oorschot). professor ... email: vanoorschot at scs.carleton.ca. paul is a professor at carleton university (ottawa).", 
+        "email_addr_list": [
+            "vanoorschot@scs.carleton.ca"
+        ], 
+        "cite_url": "cacr.uwaterloo.ca/hac/authors/pvo.html", 
+        "cite_name": "University of Waterloo", 
+        "title": "Paul C. van Oorschot - Centre For Applied Cryptographic ..."
+    }
+]

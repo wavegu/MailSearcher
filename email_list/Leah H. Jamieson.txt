@@ -1,0 +1,29 @@
+[
+    {
+        "content": "dec 16, 2013 - leah h. jamieson. the john a. edwardson ... email: lhj@purdue.edu ... jamieson is co-founder and director of the epics program. epics...", 
+        "email_list": [
+            "lhj@purdue.edu"
+        ], 
+        "cite_url": "https://engineering.purdue.edu/~lhj/", 
+        "cite_name": "Purdue University", 
+        "title": "Leah H. Jamieson - College of Engineering - Purdue ..."
+    }, 
+    {
+        "content": "leah h. jamieson - our people - purdue engineering. ... phone: (765) 494-5346. email: lhj@purdue.edu. homepage: http://www.ece.purdue.edu/~lhj...", 
+        "email_list": [
+            "lhj@purdue.edu"
+        ], 
+        "cite_url": "https://engineering.purdue.edu/Engr/.../ptProfile?...id...", 
+        "cite_name": "Purdue University", 
+        "title": "Leah H. Jamieson - Our People - Purdue Engineering"
+    }, 
+    {
+        "content": "leah h. jamieson. leah jamieson is john a. edwardson dean of engineering at purdue university, ransburg distinguished ... email: donate@ieee.org.", 
+        "email_list": [
+            "donate@ieee.org"
+        ], 
+        "cite_url": "www.ieeefoundation.org/who-we-are/biographies", 
+        "cite_name": "", 
+        "title": "Biographies - IEEE Foundation, Inc."
+    }
+]

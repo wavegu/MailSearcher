@@ -1,4 +1,30 @@
-bahl@microsoft.com	[9]
-davies.bahl@microsoft.com	[9]
-email at microsoft.com	[1]
-lili@cs.cornell.edu	[1]
+[
+    {
+        "content": "verified email at microsoft.com - homepage  scholar ... r wattenhofer, l li, p bahl, ym wang. infocom ... m satyanarayanan, p bahl, r caceres, n davies.", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7NmR-V0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Victor Bahl - Google Scholar Citations"
+    }, 
+    {
+        "content": "cornell university ithaca ny 14853 lili@cs.cornell.edu paramvir bahl microsoft research redmond wa 98052 bahl@microsoft.com yi-min wang microsoft...", 
+        "email_addr_list": [
+            "lili@cs.cornell.edu", 
+            "bahl@microsoft.com"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-bahl-microsoft-com-5988037.htm", 
+        "cite_name": "", 
+        "title": "bahl@microsoft.com - The Email Archive"
+    }, 
+    {
+        "content": "paramvir bahl. microsoft research. one microsoft way. redmond, wa 98052. email: bahl@microsoft.com. pradeep bahl. microsoft corporation. one microsoft...", 
+        "email_addr_list": [
+            "bahl@microsoft.com"
+        ], 
+        "cite_url": "ant.comm.ccu.edu.tw/.../CNF_MultiNet,%20Connecting%20to%20Multi...", 
+        "cite_name": "", 
+        "title": "[PDF]MultiNet: Connecting to Multiple IEEE 802.11 Networks ..."
+    }
+]

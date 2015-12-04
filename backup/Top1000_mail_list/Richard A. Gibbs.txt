@@ -1,4 +1,29 @@
-rgibbs@bussvc.wisc.edu	[12]
-rgibbs@richardpgibbs.com	[12]
-gibbsr@linnbenton.edu	[12]
-med-arb@rcgibbs.ca	[3]
+[
+    {
+        "content": "attorney richard p. gibbs provides prompt and efficient legal representation in ... canton, ohio attorney richard gibbs ... email: rgibbs@richardpgibbs.com...", 
+        "email_addr_list": [
+            "rgibbs@richardpgibbs.com"
+        ], 
+        "cite_url": "www.richardpgibbs.com/", 
+        "cite_name": "", 
+        "title": "Gibbs Richard P"
+    }, 
+    {
+        "content": "name richard o gibbs. e-mail rgibbs@bussvc.wisc.edu. phone (608) 262-8925. title dir, unspecified (8). division business services. department...", 
+        "email_addr_list": [
+            "rgibbs@bussvc.wisc.edu"
+        ], 
+        "cite_url": "www.wisc.edu  Directory", 
+        "cite_name": "University of Wisconsin‑Madison", 
+        "title": "RICHARD O GIBBS - Person details: Directory: : University ..."
+    }, 
+    {
+        "content": "email med-arb@rcgibbs.ca. book an appointment. copyright © richard c gibbs, law corporation 2015 richard c. gibbs, law corporation all rights reserved.", 
+        "email_addr_list": [
+            "med-arb@rcgibbs.ca"
+        ], 
+        "cite_url": "www.rcgibbs.ca/index.php/about-richard/", 
+        "cite_name": "", 
+        "title": "Richard C. Gibbs, Law Corporation :: About"
+    }
+]

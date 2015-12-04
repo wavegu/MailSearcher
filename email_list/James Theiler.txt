@@ -1,0 +1,29 @@
+[
+    {
+        "content": "name: james theiler z: 109306 phone: 505-665-5682 fax: 505-665-4414 pager: less e-mail: jt@lanl.gov location: ta-3 bldg sm-2322 room 2107 address:...", 
+        "email_list": [
+            "jt@lanl.gov"
+        ], 
+        "cite_url": "public.lanl.gov/jt/", 
+        "cite_name": "Los Alamos National Laboratory", 
+        "title": "James Theiler - Los Alamos National Laboratory"
+    }, 
+    {
+        "content": "james theiler. technical staff member ... verified email at lanl.gov - homepage  scholar ... j theiler, s eubank, a longtin, b galdrikian, jd farmer. physica d:...", 
+        "email_list": [
+            "email@lanl.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=YGPQbLQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "James Theiler - Google Scholar Citations"
+    }, 
+    {
+        "content": "james theiler. space and remote sensing sciences. los alamos national laboratory. los alamos, nm 87544. email: jt@lanl.gov. simon perkins. space and...", 
+        "email_list": [
+            "jt@lanl.gov"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0424...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Incorporating Spatial Contiguity into the Design of a Support ..."
+    }
+]

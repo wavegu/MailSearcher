@@ -1,0 +1,38 @@
+[
+    {
+        "content": "prof. luisa castagnoli straordinaria di genetica nata a roma il 10/10/1954. tel. 06-7259-4322. e-mail castagnoli@uniroma2.it. cv cv-pdf. campi di attività:.", 
+        "email_list": [
+            "castagnoli@uniroma2.it"
+        ], 
+        "cite_url": "www2.bio.uniroma2.i...", 
+        "cite_name": "University of Rome Tor Vergata", 
+        "title": "Prof. Luisa Castagnoli - bio uniroma2"
+    }, 
+    {
+        "content": "cancel. luisa castagnoli. university of rome ... verified email at uniroma2.it. scholar ... f felici, l castagnoli, a musacchio, r jappelli, g cesareni. journal of...", 
+        "email_list": [
+            "email@uniroma2.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=VY_rHy4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "luisa castagnoli - Google Scholar Citations"
+    }, 
+    {
+        "content": "luisa castagnoli. e-mail: castagnoli at uniroma2.it. affiliation: università di roma tor vergata. research area(s): molecular biology, cell biology. course: cell...", 
+        "email_list": [
+            "castagnoli@uniroma2.it"
+        ], 
+        "cite_url": "www.neidos.it/index.pl?pos=03.01ids=98", 
+        "cite_name": "", 
+        "title": "NEIDOS .:. Supervisor : Luisa Castagnoli"
+    }, 
+    {
+        "content": "sep 26, 2014 - tel: +39-984-492920, fax: +39-984-492984, email: simona.panni@unical.it; ↵‡luisa castagnoli, department of biology, university of rome...", 
+        "email_list": [
+            "simona.panni@unical.it"
+        ], 
+        "cite_url": "jb.oxfordjournals.org/content/157/2/101", 
+        "cite_name": "Journal of Biochemistry", 
+        "title": "Abstract - The Journal of Biochemistry - Oxford Journals"
+    }
+]

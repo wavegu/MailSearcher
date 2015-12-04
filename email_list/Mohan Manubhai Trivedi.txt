@@ -1,0 +1,20 @@
+[
+    {
+        "content": "mohan trivedi. distinguished professor ece ... verified email at ucsd.edu - homepage  scholar ... a prati, i mikic, mm trivedi, r cucchiara. pattern analysis...", 
+        "email_list": [
+            "email@ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LkONrRAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Mohan Trivedi - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail: brendan.morris@unlv.edu. mohan manubhai trivedi. university of california. department of electrical and computer engineering. san diego, la jolla,...", 
+        "email_list": [
+            "brendan.morris@unlv.edu"
+        ], 
+        "cite_url": "digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1739...ece...", 
+        "cite_name": "", 
+        "title": "[PDF]Understanding vehicular traffic behavior from video - Digital ..."
+    }
+]

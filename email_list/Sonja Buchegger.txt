@@ -1,0 +1,39 @@
+[
+    {
+        "content": "sonja buchegger kth csc lindstedtsvägen 5, room 1522. se-100 44 stockholm, tel: +46 8 790 6884 fax: +46 8 790 0930 e-mail: buc [at] csc.kth.se public key...", 
+        "email_list": [
+            "buc@csc.kth.se"
+        ], 
+        "cite_url": "www.csc.kth.se/~buc/", 
+        "cite_name": "Royal Institute of Technology", 
+        "title": "Sonja Buchegger - KTH"
+    }, 
+    {
+        "content": "sonja buchegger. associate professor of ... verified email at csc.kth.se. scholar. get my own ... s buchegger, d schiöberg, lh vu, a datta. proceedings of the...", 
+        "email_list": [
+            "email@csc.kth.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AABgNmoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sonja Buchegger - Google Scholar Citations"
+    }, 
+    {
+        "content": "sonja buchegger, bsc. ... fax: +43 316 873 9109 buchegger@sciencepark.at ... t: +43 316 873-9101 · f: +43 316 873-9109 · e-mail: info@sciencepark.at.", 
+        "email_list": [
+            "buchegger@sciencepark.at", 
+            "info@sciencepark.at"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Sonja Buchegger, BSc. - Science Park Graz"
+    }, 
+    {
+        "content": "sonja buchegger added 1 video to dnb 2 weeks ago ... your track or music video on my channel, link it to my mailbox or email it to liquidmoments@gmail.com.", 
+        "email_list": [
+            "liquidmoments@gmail.com"
+        ], 
+        "cite_url": "https://www.youtube.com/user/ScienceParkGraz", 
+        "cite_name": "", 
+        "title": "Sonja Buchegger - YouTube"
+    }
+]

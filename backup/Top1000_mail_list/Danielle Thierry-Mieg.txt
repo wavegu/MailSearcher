@@ -1,3 +1,11 @@
-thierry-mieg@nih.gov	[23]
-mieg@ncbi.nlm.nih.gov	[9]
-honey@uw.edu	[1]
+[
+    {
+        "content": "danielle thierry-mieg. email: mieg@ncbi.nlm.nih.gov. also known as: d thierry-mieg. wormbase id: wbperson651. ncbi. nlm. nih bldg 38a 8600 rockville...", 
+        "email_addr_list": [
+            "mieg@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "www.wormbase.org/resources/person/WBPerson651", 
+        "cite_name": "WormBase", 
+        "title": "Danielle Thierry-Mieg (person) - WormBase : Nematode ..."
+    }
+]

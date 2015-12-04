@@ -1,5 +1,47 @@
-zhang@microsoft.com	[12]
-jgzhang@computing.dundee.ac.uk	[12]
-zhou.ren@cs.ucla.edu	[3]
-jmprm@yahoo.com	[1]
-email at microsoft.com	[1]
+[
+    {
+        "content": "email: zhang@microsoft.com phone: (+33) 04-9238-7833 fax: (+33) 04-9238-7845. zhengyou zhang is a senior research scientist at inria (french national...", 
+        "email_addr_list": [
+            "zhang@microsoft.com"
+        ], 
+        "cite_url": "research.microsoft.com/en.../zhang/.../zzhang-eng.ht...", 
+        "cite_name": "Microsoft Research", 
+        "title": "Zhengyou Zhang - Microsoft Research"
+    }, 
+    {
+        "content": "zhengyou zhang ... verified email at microsoft.com - homepage ... z zhang. computer vision, 1999. the proceedings of the seventh ieee international ..., 1999.", 
+        "email_addr_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1I-DKy8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Zhengyou Zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "someone have a zhengyou zhang correlation in matlab? i need correlation and relaxation.... email me please jmprm@yahoo.com. subject: zhengyou zhang...", 
+        "email_addr_list": [
+            "jmprm@yahoo.com"
+        ], 
+        "cite_url": "www.mathworks.com/matlabcentral/newsreader/view.../2583...", 
+        "cite_name": "MathWorks", 
+        "title": "MATLAB Central - Zhengyou Zhang correlation - MathWorks"
+    }, 
+    {
+        "content": "email: jgzhang@computing.dundee.ac.uk .... huiyu zhou, jianguo zhang, liang wang, zhengyou zhang, brown, lisa (eds), special issue: sparse...", 
+        "email_addr_list": [
+            "jgzhang@computing.dundee.ac.uk"
+        ], 
+        "cite_url": "staff.computing.dundee.ac.uk/jgzhang/", 
+        "cite_name": "University of Dundee", 
+        "title": "Jianguo Zhangs Webpage - University of Dundee"
+    }, 
+    {
+        "content": "email: zhou.ren@cs.ucla.edu ... zhou ren, junsong yuan, and zhengyou zhang, “robust part-based hand gesture recognition using kinect. sensor”.", 
+        "email_addr_list": [
+            "zhou.ren@cs.ucla.edu"
+        ], 
+        "cite_url": "web.cs.ucla.edu/~zhou.ren/CV_ZhouRen_2014.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Zhou Ren - UCLA Computer Science"
+    }
+]

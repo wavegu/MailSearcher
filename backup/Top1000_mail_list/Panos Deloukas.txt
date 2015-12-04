@@ -1,5 +1,30 @@
-deloukas at p.deloukas	[18]
-panos@sanger.ac.uk	[11]
-panos@sanger.ac.uk.panos	[11]
-jd292@medschl.cam.ac.uk	[2]
-recruitment@qmul.ac.uk	[1]
+[
+    {
+        "content": "email: jd292@medschl.cam.ac.uk; panos deloukas william harvey research institute, barts and the london school of medicine  dentistry, queen mary...", 
+        "email_addr_list": [
+            "jd292@medschl.cam.ac.uk"
+        ], 
+        "cite_url": "www.cardiogramplusc4d.org/committee/", 
+        "cite_name": "", 
+        "title": "CARDIoGRAMplusC4D Consortium - Steering Committee"
+    }, 
+    {
+        "content": "... experience placements  dtp intranet  news  pips proposal. info. dr panos deloukas. wellcome trust sanger institute. email: panos@sanger.ac.uk...", 
+        "email_addr_list": [
+            "panos@sanger.ac.uk"
+        ], 
+        "cite_url": "bbsrcdtp.lifesci.cam.ac.uk/.../deloukas-panos", 
+        "cite_name": "University of Cambridge", 
+        "title": "Dr Panos Deloukas — BBSRC DTP Programme"
+    }, 
+    {
+        "content": "panos deloukas at p.deloukas@qmul.ac.uk or 020 7882 2103. application enquires can be made by email to recruitment@qmul.ac.uk. details about the william...", 
+        "email_addr_list": [
+            "deloukas@p.deloukas", 
+            "recruitment@qmul.ac.uk"
+        ], 
+        "cite_url": "https://ig24.i-grasp.com/fe/tpl_QMUL01.asp?newms=rfID...www.google.com/email", 
+        "cite_name": "", 
+        "title": "Postdoctoral Research Associate - Statistical Genetics - Job ...Google Business Email‎"
+    }
+]

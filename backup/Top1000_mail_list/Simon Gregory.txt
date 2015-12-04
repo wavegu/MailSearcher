@@ -1,3 +1,29 @@
-simon.gregory@duke.edu	[25]
-sg641@cam.ac.uk	[3]
-email at duke.edu	[1]
+[
+    {
+        "content": "simon gregorys research interests are curriculum development, selection methodology and value-added in medical education. ... email: sg641@cam.ac.uk", 
+        "email_addr_list": [
+            "sg641@cam.ac.uk"
+        ], 
+        "cite_url": "www.homerton.cam.ac.uk/node/140", 
+        "cite_name": "Homerton College, Cambridge", 
+        "title": "Simon Gregory | Homerton College"
+    }, 
+    {
+        "content": "email address simon.gregory@duke.edu. my principal area of research involves elucidating the molecular mechanisms underlying multi-factorial diseases.", 
+        "email_addr_list": [
+            "simon.gregory@duke.edu"
+        ], 
+        "cite_url": "https://medicine.duke.edu/.../simon-gray-gregory-phd", 
+        "cite_name": "Duke University", 
+        "title": "Simon Gray Gregory, PhD | Duke Department of Medicine"
+    }, 
+    {
+        "content": "simon gregory. associate professor, duke ... verified email at duke.edu. scholar ... sg gregory, s schmidt, p seth, jr oksenberg, j hart, a prokop, ... nature...", 
+        "email_addr_list": [
+            "email@duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4MNrVwoAAAAJ...www.google.com/email", 
+        "cite_name": "Google Scholar", 
+        "title": "Simon Gregory - Google Scholar CitationsGoogle Business Email‎Searches related to Simon Gregory email"
+    }
+]

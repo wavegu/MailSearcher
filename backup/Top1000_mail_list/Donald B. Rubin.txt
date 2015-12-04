@@ -1,4 +1,29 @@
-rubin@stat.harvard.edu	[12]
-email at stat.harvard.edu	[3]
-fli@stat.duke.edu.a	[1]
-fli@stat.duke.edu	[1]
+[
+    {
+        "content": "donald b. rubin. john l. loeb professor of statistics. donald b. rubin ... contact information. email: rubin@stat.harvard.edu. sc 716. p: (617) 495-5498...", 
+        "email_addr_list": [
+            "rubin@stat.harvard.edu"
+        ], 
+        "cite_url": "statistics.fas.harvard.edu/people/donald-b-rubin", 
+        "cite_name": "Harvard University", 
+        "title": "Donald B. Rubin | Department of Statistics"
+    }, 
+    {
+        "content": "donald b rubin. john l. loeb professor of ... verified email at stat.harvard.edu. scholar. get my own ... a gelman, j carlin, h stern, db rubin. crc press, 2004.", 
+        "email_addr_list": [
+            "email@stat.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5q4fhUoAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Donald B Rubin - Google Scholar Citations"
+    }, 
+    {
+        "content": "a conversation with donald b. rubin. fan li and ... donald bruce rubin is john l. loeb professor of statis- ... 27708-0251, usa e-mail: fli@stat.duke.edu.", 
+        "email_addr_list": [
+            "fli@stat.duke.edu"
+        ], 
+        "cite_url": "arxiv.org/pdf/1404.1789", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]A Conversation with Donald B. Rubin - arXiv"
+    }
+]

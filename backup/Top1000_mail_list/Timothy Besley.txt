@@ -1,4 +1,56 @@
-t.besley@lse.ac.uk	[14]
-sashwort@princeton.edu.property	[2]
-sashwort@princeton.edu	[2]
-email at lse.ac.uk	[2]
+[
+    {
+        "content": "email: t.besley@lse.ac.uk; telephone: +44 (0)20 7955 6702; office: 32l.3.37; office hours: by appointment (contact jo cantlay); admin support: jo cantlay.", 
+        "email_addr_list": [
+            "t.besley@lse.ac.uk"
+        ], 
+        "cite_url": "www.lse.ac.uk/.../Tim...", 
+        "cite_name": "London School of Economics and Political Science", 
+        "title": "Professor Tim Besley - Faculty Pages - People - Department ..."
+    }, 
+    {
+        "content": "professor tim besley. page contents . position ... email: t.besley@lse.ac.uk; telephone: +44 (0)20 7955 6702; office: 32l.3.37; admin support: jo cantlay.", 
+        "email_addr_list": [
+            "t.besley@lse.ac.uk"
+        ], 
+        "cite_url": "www.lse.ac.uk/.../Tim...", 
+        "cite_name": "London School of Economics and Political Science", 
+        "title": "Professor Tim Besley - Faculty Personal Pages - People ..."
+    }, 
+    {
+        "content": "timothy besley: current contact information and listing of economic research of this author provided by repec/ideas. ... email: t.besley@lse.ac.uk. homepage...", 
+        "email_addr_list": [
+            "t.besley@lse.ac.uk"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pbe46.html", 
+        "cite_name": "", 
+        "title": "Timothy J. Besley at IDEAS"
+    }, 
+    {
+        "content": "create alert. cancel. timothy besley. lse  economics. verified email at lse.ac.uk - homepage  scholar ... t besley, a case. national bureau of economic...", 
+        "email_addr_list": [
+            "email@lse.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=sacF4dwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Timothy Besley - Google Scholar Citations"
+    }, 
+    {
+        "content": "tim besley is professor of economics and political science at the london school of economics and a member of the steering ... email: t.besley@lse.ac.uk...", 
+        "email_addr_list": [
+            "t.besley@lse.ac.uk"
+        ], 
+        "cite_url": "www.theigc.org/person/tim-besley/", 
+        "cite_name": "", 
+        "title": "Tim Besley | IGC"
+    }, 
+    {
+        "content": "the book, a revised version of besleys 2002 lindahl lectures, opens by ... this is just what besley provides in chapter 2. ... email: sashwort@princeton.edu.", 
+        "email_addr_list": [
+            "sashwort@princeton.edu"
+        ], 
+        "cite_url": "home.uchicago.edu/~sashwort/besley.pdf", 
+        "cite_name": "University of Chicago", 
+        "title": "[PDF]Review of Timothy Besleys Principled Agents?: The Political ..."
+    }
+]

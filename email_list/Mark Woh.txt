@@ -1,0 +1,31 @@
+[
+    {
+        "content": "see information and reports about mmcclain1@woh.rr.com (mark mcclains e-mail) in our huge e-mail report database.", 
+        "email_list": [
+            "mmcclain1@woh.rr.com"
+        ], 
+        "cite_url": "spam-report.email/mmcclain1/woh.rr.com", 
+        "cite_name": "", 
+        "title": "mmcclain1@woh.rr.com (Mark Mcclains e-mail) - Spam ..."
+    }, 
+    {
+        "content": "rev r. marc sherlock pastor. work phone: (937) ... home phone: (937) 667-4034home personal email: jwolf8909@woh.rr.cominternet. add to address...", 
+        "email_list": [
+            "jwolf8909@woh.rr.cominternet"
+        ], 
+        "cite_url": "www.stjohntippcity.org/directory/", 
+        "cite_name": "", 
+        "title": "Parish Staff  Contacts | St. John the Baptist"
+    }, 
+    {
+        "content": "email address: bmr71959@aol.com. graduation ... email address: janescifers@woh.rr.com. graduation ... email address: mark@ohiobiz.com. graduation...", 
+        "email_list": [
+            "bmr71959@aol.com", 
+            "janescifers@woh.rr.com", 
+            "mark@ohiobiz.com"
+        ], 
+        "cite_url": "stwendelin.org/moodle/.../view.php?d=5...", 
+        "cite_name": "St. Wendelin High School", 
+        "title": "Home: Alumni Email Address"
+    }
+]

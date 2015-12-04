@@ -1,0 +1,47 @@
+[
+    {
+        "content": "e-mail: peter.brezany@univie.ac.at; phone: +43 1 4277-78411; secretary: +43 1 4277- ... peter brezany: input/output intensive massively parallel computing...", 
+        "email_list": [
+            "peter.brezany@univie.ac.at"
+        ], 
+        "cite_url": "https://homepage.univie.ac.at/peter.brezany/", 
+        "cite_name": "University of Vienna", 
+        "title": "Peter Brezany"
+    }, 
+    {
+        "content": "email: brezany@par.univie.ac.at. tel: +44 (0)131 650 9833. fax: +44 (0)131 650 9819. biography and research interests dr peter brezany is a professor at the...", 
+        "email_list": [
+            "brezany@par.univie.ac.at"
+        ], 
+        "cite_url": "www.nesc.ac.uk/esi/visitors/peterbrezany.html", 
+        "cite_name": "", 
+        "title": "Peter Brezany - Visitor"
+    }, 
+    {
+        "content": "+92 313 6868233. e-mail(s) khan@par.univie.ac.at ... fakhri alam khan and peter brezany, “provenance support for grid-enabled data-intensive workflows”,.", 
+        "email_list": [
+            "khan@par.univie.ac.at"
+        ], 
+        "cite_url": "www.imsciences.edu.pk/cms/Admin/pages/.../file55939.pdf", 
+        "cite_name": "IMSciences", 
+        "title": "[PDF]CV - Fakhri Alam Khan - IMSciences"
+    }, 
+    {
+        "content": "prof peter brezany. university of vienna. www.par.univie.ac.at/~brezany/ ... international centre for life, newcastle upon tyne ne1 3bz · email hudsen@ncl.ac.uk.", 
+        "email_list": [
+            "hudsen@ncl.ac.uk"
+        ], 
+        "cite_url": "www.hudsen.org/community/members.html", 
+        "cite_name": "", 
+        "title": "Community » Members"
+    }, 
+    {
+        "content": "peter brezany research group for scientific computing, university of vienna email: brezany@par.univie.ac.at web: http://www.par.univie.ac.at/~brezany/...", 
+        "email_list": [
+            "brezany@par.univie.ac.at"
+        ], 
+        "cite_url": "www.gridminer.org/index.php?p=members", 
+        "cite_name": "", 
+        "title": "Members - GridMiner Website"
+    }
+]

@@ -1,1 +1,11 @@
-info@hbhmw.de	[1]
+[
+    {
+        "content": "fax +49 7244 60801-89. email: info@hbhmw.de. managing directors: dr. detlev hollmann, guido baumann, roland heilig registered: amtsgericht mannheim...", 
+        "email_addr_list": [
+            "info@hbhmw.de"
+        ], 
+        "cite_url": "www.hbhmw.de/imprint-disclaimer.html", 
+        "cite_name": "", 
+        "title": "Imprint  Disclaimer | HBH-Microwave"
+    }
+]

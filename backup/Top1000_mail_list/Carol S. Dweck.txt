@@ -1,3 +1,21 @@
-dweck@stanford.edu	[12]
-laura.carstensen@stanford.eu	[3]
-nielsenli@nia.nih.gov	[2]
+[
+    {
+        "content": "carol dweck. lewis and virginia eaton ... email: dweck@stanford.edu. office location: jordan hall, building 420 room 240. office phone: (650) 725-2421. fax:.", 
+        "email_addr_list": [
+            "dweck@stanford.edu"
+        ], 
+        "cite_url": "psychology.stanford.edu  Faculty", 
+        "cite_name": "", 
+        "title": "Carol Dweck | Department of Psychology"
+    }, 
+    {
+        "content": "email: laura.carstensen@stanford.eu ... email: nielsenli@nia.nih.gov .... carol s. dweck, ph.d., is a leading researcher in the field of motivation and is the lewis...", 
+        "email_addr_list": [
+            "laura.carstensen@stanford.eu", 
+            "nielsenli@nia.nih.gov"
+        ], 
+        "cite_url": "https://www.nia.nih.gov/.../participant_list_an...", 
+        "cite_name": "National Institute on Aging", 
+        "title": "[PDF]Participant List and Biographies - National Institute on Aging"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "content": "3. email: office@usenix.org. 4. www url: http://www.usenix.org. adaptive and reliable parallel computing on networks of workstations. robert d. blumofe...", 
+        "email_list": [
+            "office@usenix.org"
+        ], 
+        "cite_url": "https://www.usenix.org/publications/.../blumofe/blumofe.ps", 
+        "cite_name": "USENIX", 
+        "title": "[PS]Adaptive and Reliable Parallel Computing on Networks of ..."
+    }, 
+    {
+        "content": "umut a. acar \\dagger and guy e. blelloch\\dagger and robert d. blumofe\\ddagger ... \\email{umut@cs.cmu.edu, blelloch@cs.cmu.edu, rdb@cs.utexas.edu}...", 
+        "email_list": [
+            "umut@cs.cmu.edu", 
+            "blelloch@cs.cmu.edu", 
+            "rdb@cs.utexas.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/afs/cs/project/.../main.tex", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "[TeX]The Data Locality of Work Stealing - School of Computer ..."
+    }
+]

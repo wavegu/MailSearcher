@@ -1,0 +1,57 @@
+[
+    {
+        "content": "r. m. duwairi, n. j. fiddian, w. a. gray, “views for heterogeneous object-oriented database integration”. .... email: a_ayyoub@arabou-jo.edu.jo. (2). professor.", 
+        "email_list": [
+            "a_ayyoub@arabou-jo.edu.jo"
+        ], 
+        "cite_url": "faculty.qu.edu.qa/rehabduwairi/cv/11969.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Resume.doc - Qatar University"
+    }, 
+    {
+        "content": "... human bocavirus, parvovirus b19. verified email at gsk.com - homepage ... nj fiddian, c blakeway, a kumar. journal of bone  joint surgery, british...", 
+        "email_list": [
+            "email@gsk.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7aUI7RUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Arun Kumar, PhD - Google Scholar Citations"
+    }, 
+    {
+        "content": "r. m. duwairi, n. j. fiddian and w. a. gray. , schema integration meta-knowledge ... fax : + 962 (0) 2 7095123 email: webmaster@just.edu.jo. information for.", 
+        "email_list": [
+            "webmaster@just.edu.jo"
+        ], 
+        "cite_url": "www.just.edu.jo/.../Publicat...", 
+        "cite_name": "Jordan University of Science and Technology", 
+        "title": "Publications - Jordan University of Science and Technology"
+    }, 
+    {
+        "content": "e-mail: w.a.gray@cs.cardiff.ac.uk. e-mail: n.j.fiddian@cs.cardiff.ac.uk. abstract: one of the challenges facing todays information consumer is how to.", 
+        "email_list": [
+            "w.a.gray@cs.cardiff.ac.uk", 
+            "n.j.fiddian@cs.cardiff.ac.uk"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.184.4350...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }, 
+    {
+        "content": "verified email at just.edu.jo. scholar. get my own ... r duwairi, n fiddian, w gray. advances in databases ... rm duwairi, nj fiddian, wa gray. 10th ercim...", 
+        "email_list": [
+            "email@just.edu.jo"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rehab Duwairi - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at uel.ac.uk - homepage  scholar. get my own profile ... ar tawil, m montebello, r bahsoon, wa gray, nj fiddian. information sciences 178 (4)...", 
+        "email_list": [
+            "email@uel.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=MdehVQQAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Abdel-Rahman H. Tawil - Google Scholar Citations"
+    }
+]

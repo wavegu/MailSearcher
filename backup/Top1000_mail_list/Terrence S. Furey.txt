@@ -1,2 +1,20 @@
-tsfurey@email.unc.edu	[13]
-terry.furey@unc.edu	[12]
+[
+    {
+        "content": "corresponding author: terrence s furey tsfurey@email.unc.edu. † equal contributors ... karen l. mohlke and terrence s. furey contributed equally to this work.", 
+        "email_addr_list": [
+            "tsfurey@email.unc.edu"
+        ], 
+        "cite_url": "www.biomedcentral.com/1755-8794/8/43/comments", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Medical Genomics | User comments | Removing ..."
+    }, 
+    {
+        "content": "project contact, name = terry,furey; email = terry.furey@unc.edu; laboratory = furey; department ... project contributor, gregory,e,crawford, terrence,s,furey...", 
+        "email_addr_list": [
+            "terry.furey@unc.edu"
+        ], 
+        "cite_url": "sra.dnanexus.com/studies/SRP007349", 
+        "cite_name": "", 
+        "title": "Study SRP007349 - Sequence Read Archive + - DNAnexus"
+    }
+]

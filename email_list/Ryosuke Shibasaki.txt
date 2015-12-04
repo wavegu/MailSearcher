@@ -1,0 +1,20 @@
+[
+    {
+        "content": "email, : nagaim[at]iis.u-tokyo.ac.jp ... masahiko nagai, ryosuke shibasaki, 7th december 2006, “robust trajectory tracking by combining gps/imu and...", 
+        "email_list": [
+            "nagaim@iis.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.set.ait.ac.th/page.php?fol...page...", 
+        "cite_name": "Asian Institute of Technology", 
+        "title": "Masahiko Nagai - SET :: School of Engineering and ..."
+    }, 
+    {
+        "content": "email, mura@geoenv.tsukuba.ac.jp. co-convener 2. name, ryosuke shibasaki. affiliation, center for spatial information science, the university of tokyo.", 
+        "email_list": [
+            "mura@geoenv.tsukuba.ac.jp"
+        ], 
+        "cite_url": "www.jpgu.org/meeting_e/session_list/detail/HTT09.html", 
+        "cite_name": "", 
+        "title": "JpGU"
+    }
+]

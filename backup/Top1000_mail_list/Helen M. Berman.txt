@@ -1,3 +1,29 @@
-berman@rcsb.rutgers.edu	[14]
-email at rcsb.rutgers.edu	[3]
-goodsell@scripps.edu	[1]
+[
+    {
+        "content": "email: berman@rcsb.rutgers.edu. location: proteomics 117. phone: ... helen m. berman received her ph.d. in chemistry in 1967 from the university of...", 
+        "email_addr_list": [
+            "berman@rcsb.rutgers.edu"
+        ], 
+        "cite_url": "proteomics.rutgers.edu/public/?q=faculty/berman", 
+        "cite_name": "Rutgers University", 
+        "title": "Helen M. Berman, Ph.D. | Center for Integrative Proteomics ..."
+    }, 
+    {
+        "content": "helen m. berman. professor of ... verified email at rcsb.rutgers.edu. scholar ... hm berman, j westbrook, z feng, g gilliland, tn bhat, h weissig, ... nucleic...", 
+        "email_addr_list": [
+            "email@rcsb.rutgers.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dCWcLaUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Helen M. Berman - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. helen m. berman. associate director. 848.445.4667 berman@rcsb.rutgers.edu. see emeritus rcsb pdb leadership...", 
+        "email_addr_list": [
+            "berman@rcsb.rutgers.edu"
+        ], 
+        "cite_url": "www.rcsb.org/pdb/static.do?p=general_information/about_pdb/...", 
+        "cite_name": "", 
+        "title": "Team Members - RCSB PDB"
+    }
+]

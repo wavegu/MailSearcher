@@ -1,0 +1,11 @@
+[
+    {
+        "content": "oct 30, 2015 - name: thorsten strufe. email: thorsten.strufe@tu-dresden.de. phone: +49 (0) 351 463 - 38 247. office: apb 3070. address: tu dresden - fb...", 
+        "email_list": [
+            "thorsten.strufe@tu-dresden.de"
+        ], 
+        "cite_url": "https://tu-dresden.de/die.../tst_de", 
+        "cite_name": "Dresden University of Technology", 
+        "title": "Prof. Dr. Thorsten Strufe - Technische Universität Dresden"
+    }
+]

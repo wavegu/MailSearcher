@@ -1,5 +1,39 @@
-bill.triggs@free.fr	[21]
-bill.triggs@imag.fr	[21]
-bill dot triggs at imag dot fr	[21]
-mobile.triggs@imag.fr	[14]
-email at imag.fr	[2]
+[
+    {
+        "content": "e-mail: bill dot triggs at imag dot fr. homepage: http://ljk.imag.fr/membres/bill.triggs office: irma 23. office phone: +33 4 7651 4553 (within france: 04 7651...", 
+        "email_addr_list": [
+            "triggs@imag.fr"
+        ], 
+        "cite_url": "ljk.imag.fr/membres/Bill.Triggs/contact/", 
+        "cite_name": "", 
+        "title": "Bill Triggs - Addresses - Laboratoire Jean Kuntzmann"
+    }, 
+    {
+        "content": "bill triggs. laboratoire jean kuntzmann. computer vision, machine learning. verified email at imag.fr ... b triggs, pf mclauchlan, ri hartley, aw fitzgibbon.", 
+        "email_addr_list": [
+            "email@imag.fr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=hSpEF0gAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Bill Triggs - Google Scholar Citations"
+    }, 
+    {
+        "content": "+33 4 7651 4553 fax +33 4 7663 1263 e-mail: bill.triggs@imag.fr 76 pascal2 membership agreement final for signature 11 sept 2009 (5) xerox sas...", 
+        "email_addr_list": [
+            "bill.triggs@imag.fr"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-triggs-imag-fr-6678490.htm", 
+        "cite_name": "", 
+        "title": "triggs@imag.fr - The Email Archive"
+    }, 
+    {
+        "content": "triggs  http://bill.triggs.free.fr. email, bill.triggs@imag.fr, bill.triggs@free.fr (i seldom read this). phone (try both), +33 4 7651 4553, +33 8 7454 8080. fax, +33 4...", 
+        "email_addr_list": [
+            "bill.triggs@imag.fr", 
+            "bill.triggs@free.fr"
+        ], 
+        "cite_url": "bill.triggs.free.fr/", 
+        "cite_name": "", 
+        "title": "Bill Triggs - Personal Page"
+    }
+]

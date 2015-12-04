@@ -1,0 +1,47 @@
+[
+    {
+        "content": "cancel. cheng soon ong ... verified email at nicta.com.au - homepage  scholar ... km borgwardt, cs ong, s schönauer, svn vishwanathan, aj smola, .", 
+        "email_list": [
+            "email@nicta.com.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ofMZr0IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Cheng Soon Ong - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr cheng soon ong. position: adjunct associate professor. email: chengsoon.ong@anu.edu.au. personal website: http://www.ong-home.my. building: nicta...", 
+        "email_list": [
+            "chengsoon.ong@anu.edu.au"
+        ], 
+        "cite_url": "people.cecs.anu.edu....", 
+        "cite_name": "ANU College of Engineering and Computer Science", 
+        "title": "Cheng Soon ONG - CECS People - ANU"
+    }, 
+    {
+        "content": "dr cheng soon ong. position: adjunct associate professor. email: chengsoon.ong@anu.edu.au. personal website: http://www.ong-home.my. building: nicta...", 
+        "email_list": [
+            "chengsoon.ong@anu.edu.au"
+        ], 
+        "cite_url": "solar.anu.edu.au/user/359", 
+        "cite_name": "Australian National University", 
+        "title": "Cheng Soon ONG - Solar - CECS - ANU"
+    }, 
+    {
+        "content": "cheng soon ong. am kleinen Ämmerle 13. 72070 tübingen. germany. t +49 176 2064 8369. b chengsoon.ong@tuebingen.mpg.de.", 
+        "email_list": [
+            "chengsoon.ong@tuebingen.mpg.de"
+        ], 
+        "cite_url": "ftp://ftp.tuebingen.mpg.de/.../ong/ong_resume_short....", 
+        "cite_name": "Max Planck Society", 
+        "title": "[PDF]Cheng Soon Ong"
+    }, 
+    {
+        "content": "cheng soon ong. victoria research laboratory. national ict australia. victoria, australia. email: chengsoon.ong@unimelb.edu.au. christopher leckie.", 
+        "email_list": [
+            "chengsoon.ong@unimelb.edu.au"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0678...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Applications of Class-Conditional Conformal Predictor in ..."
+    }
+]

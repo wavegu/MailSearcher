@@ -1,0 +1,30 @@
+[
+    {
+        "content": "jan 8, 2010 - email: dh.wang@latrobe.edu.au or csdhwang@ieee.org ... dr wang received his phd degree in march 1995, from the school of information...", 
+        "email_list": [
+            "dh.wang@latrobe.edu.au", 
+            "csdhwang@ieee.org"
+        ], 
+        "cite_url": "homepage.cs.latrobe.edu.au/dwang/", 
+        "cite_name": "", 
+        "title": "Dr Dianhui Wangs Homepage - La Trobe University"
+    }, 
+    {
+        "content": "xi-zhao wang, phd, professor, ieee fellow email: xizhaowang@ieee.org ..... springer-verlag, edited by xi-zhao wang, dianhui wang, guangbin huang, 2011.", 
+        "email_list": [
+            "xizhaowang@ieee.org"
+        ], 
+        "cite_url": "www.hebmlc.org/xizhaoENG.html", 
+        "cite_name": "", 
+        "title": "Professor Xizhao Wangs English Homepage - hebmlc.org"
+    }, 
+    {
+        "content": "email updates. keep up to date with the ... dianhui wang* and sarwar tapan. * corresponding author: dianhui wang dh.wang@latrobe.edu.au. bmc systems...", 
+        "email_list": [
+            "dh.wang@latrobe.edu.au"
+        ], 
+        "cite_url": "www.biomedcentral.com/1752-0509/6/S2/.../comments", 
+        "cite_name": "BioMed Central", 
+        "title": "BMC Systems Biology | User comments | MISCORE: a new ..."
+    }
+]

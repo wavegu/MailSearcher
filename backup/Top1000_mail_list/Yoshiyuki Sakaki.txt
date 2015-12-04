@@ -1,5 +1,38 @@
-sakaki@ims.u-tokyo.ac.jp	[13]
-sakaki@gsc.riken.jp	[13]
-sugiyama@postman.riken.go.jp	[3]
-boris.kholodenko@ucd.toyohashi	[2]
-ryugaku@office.tut.ac.jp	[2]
+[
+    {
+        "content": "view yoshiyuki sakakis business profile and see work history, affiliations and more. ... riken genomic sciences center, japan email: sakaki@gsc.riken.jp .", 
+        "email_addr_list": [
+            "sakaki@gsc.riken.jp"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Yoshiyuki-Sakaki/447473", 
+        "cite_name": "", 
+        "title": "Yoshiyuki Sakaki | RIKEN | ZoomInfo.com"
+    }, 
+    {
+        "content": "cive to pursuing cutting-edge research,” says sakaki. “i want our ... yoshiyuki sakaki, president of toyohashi. university of .... e-mail: ryugaku@office.tut.ac.jp.", 
+        "email_addr_list": [
+            "ryugaku@office.tut.ac.jp"
+        ], 
+        "cite_url": "https://www.sciencemag.org/.../Toyohashi_v7_FINAL%20approved...", 
+        "cite_name": "Science", 
+        "title": "Toyohashi University - Science"
+    }, 
+    {
+        "content": "correspondence to: yoshiyuki sakaki correspondence and requests for materials should be addressed to y.s. (e-mail: email: sakaki@ims.u-tokyo.ac.jp) or h.i....", 
+        "email_addr_list": [
+            "sakaki@ims.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www.nature.com  ...  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Genome sequence of the endocellular bacterial symbiont of ..."
+    }, 
+    {
+        "content": "... plant science center, email: sugiyama@postman.riken.go.jp shigeyuki ... seki, plant functional genomics research group, gsc yoshiyuki sakaki, director,...", 
+        "email_addr_list": [
+            "sugiyama@postman.riken.go.jp"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1402054688", 
+        "cite_name": "", 
+        "title": "Systems Biology: International Research and Development"
+    }
+]

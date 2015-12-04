@@ -1,0 +1,39 @@
+[
+    {
+        "content": "联系电话：62756920 e-mail: kunqing at cis dot pku dot edu dot cn ... yu wang, gao cong, guojie song, kunqing xie: community-based greedy algorithm...", 
+        "email_list": [
+            "kunqing@cis.pku.edu.cn"
+        ], 
+        "cite_url": "www.klmp.pku.edu.cn/Faculty/FacultyDetail.aspx?...", 
+        "cite_name": "", 
+        "title": "谢昆青 - 北京大学机器感知与智能教育部重点实验室"
+    }, 
+    {
+        "content": "... at gmail dot com. (previous email: hanlei@cis.pku.edu.cn; leihan@comp.hkbu.edu.hk) ... 2012-2014. [5] lei han, yu zhang, guojie song and kunqing xie.", 
+        "email_list": [
+            "hanlei@cis.pku.edu.cn", 
+            "leihan@comp.hkbu.edu.hk"
+        ], 
+        "cite_url": "www.stat.rutgers.edu/home/lhan/", 
+        "cite_name": "Rutgers University", 
+        "title": "Lei Hans Homepage - Rutgers University"
+    }, 
+    {
+        "content": "dong, zheng-bin and song, guo-jie and xie, kun-qing and wang, jing-yao an ... public at this website, please email cjg@ecs.soton.ac.uk - include the file(s),...", 
+        "email_list": [
+            "cjg@ecs.soton.ac.uk"
+        ], 
+        "cite_url": "www2009.eprints.org/view/author/Xie=3AKun-Qing=3A=3A.html", 
+        "cite_name": "", 
+        "title": "Items by Xie, Kun-Qing - WWW2009 EPrints"
+    }, 
+    {
+        "content": "cheng hu, kunqing xie, guojie song, and tianshu wu ... sity), ministry of education. (email: hucheng@cis.pku.edu.cn). kunqing. xie is with. key. laboratory.", 
+        "email_list": [
+            "hucheng@cis.pku.edu.cn"
+        ], 
+        "cite_url": "pdf.aminer.org/.../a_mixed_process_neural_network_and_its_applicatio...", 
+        "cite_name": "", 
+        "title": "[PDF]Hybrid Process Neural Network based on Spatio-Temporal ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "ehud gudes http://www.cs.bgu.ac.il/~ehud ehud@cs.bgu.ac.il. phd., the ohio state university, cis, 1976. professional activities  recent publications...", 
+        "email_list": [
+            "ehud@cs.bgu.ac.il"
+        ], 
+        "cite_url": "www.cs.bgu.ac.il/~ehud/", 
+        "cite_name": "Ben‑Gurion University of the Negev", 
+        "title": "Ehud Gudes"
+    }, 
+    {
+        "content": "ehud-gudes. sign in ... prof. gudes ehud. image item. professor. room : 220 in 37 building. phone : 08-6461626. email : ehud@cs.bgu.ac.il. office hours :...", 
+        "email_list": [
+            "ehud@cs.bgu.ac.il"
+        ], 
+        "cite_url": "in.bgu.ac.il/.../Eh...", 
+        "cite_name": "Ben‑Gurion University of the Negev", 
+        "title": "Gudes Ehud - אוניברסיטת בן-גוריון בנגב"
+    }, 
+    {
+        "content": "nov 11, 1997 - ehud gudes (ehud@cs.bgu.ac.il) tue, 11 nov 1997 ... potential candidates can send their resume by mail or email to: dr. ehud gudes", 
+        "email_list": [
+            "ehud@cs.bgu.ac.il"
+        ], 
+        "cite_url": "tinf2.vub.ac.be/~dvermeir/mail/.../0722.html", 
+        "cite_name": "Vrije Universiteit Brussel", 
+        "title": "Dbworld mailing list archive: (DBWORLD) position in Israel"
+    }
+]

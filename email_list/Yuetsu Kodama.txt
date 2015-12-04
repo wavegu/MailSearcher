@@ -1,0 +1,56 @@
+[
+    {
+        "content": "japanese. yuetsu kodama, professor (2011.2 - 2015.3), ph.d. he moved to riken aics in 2015.4. e-mail: yuetsu.kodama at riken.jp. address: room 206, center...", 
+        "email_list": [
+            "yuetsu.kodama@riken.jp"
+        ], 
+        "cite_url": "www.hpcs.cs.tsukuba.ac.jp/~kodama/", 
+        "cite_name": "University of Tsukuba", 
+        "title": "Yuetsu Kodamas Home Page"
+    }, 
+    {
+        "content": "masahiro nakao, hitoshi murai, takenori shimosaka, akihiro tabuchi, toshihiro hanawa, yuetsu kodama, taisuke boku, and ... email: msato [at] riken.jp...", 
+        "email_list": [
+            "msato@riken.jp"
+        ], 
+        "cite_url": "www.riken.jp/en/research/labs/aics/research/program_env/", 
+        "cite_name": "", 
+        "title": "Programming Environment Research Team | RIKEN"
+    }, 
+    {
+        "content": "yuetsu kodama, u tsukuba, japan. kanako komiya, ibaraki u, japan. yamin li ... tokyo university of agriculture and technology email: j-ispc@ml.tuat.ac.jp.", 
+        "email_list": [
+            "j-ispc@ml.tuat.ac.jp"
+        ], 
+        "cite_url": "www.tuat.ac.jp/.../Flyer...", 
+        "cite_name": "Tokyo University of Agriculture and Technology", 
+        "title": "[PDF]ICT-ISPC 2015"
+    }, 
+    {
+        "content": "toshihiro hanawa yuetsu kodama taisuke boku mitsuhisa sato. center for computational sciences, university ... contact e-mail: hanawa@ccs.tsukuba.ac.jp.", 
+        "email_list": [
+            "hanawa@ccs.tsukuba.ac.jp"
+        ], 
+        "cite_url": "on-demand.gputechconf.com/gtc/2013/poster/pdf/P0255_Hanawa.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]PEACH2"
+    }, 
+    {
+        "content": "yuetsu kodama, hirohumi sakane, mitsuhisa sato, shuichi sakai. y. , yoshinori yamaguchi ... email: kodama@etl.go.jp. 1. introduction. computation...", 
+        "email_list": [
+            "kodama@etl.go.jp"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.3148...", 
+        "cite_name": "", 
+        "title": "[PS]Download as a PS"
+    }, 
+    {
+        "content": "feb 20, 2005 - to: nmwg (e-mail) nm-wg@ggf.org; subject: [nm-wg] sessions at ... thank you to yuetsu kodama from the japanese national institute of...", 
+        "email_list": [
+            "nm-wg@ggf.org"
+        ], 
+        "cite_url": "https://www.ogf.org/mail_archive/nm-wg/2005/02/msg00018.html", 
+        "cite_name": "", 
+        "title": "[nm-wg] sessions at GGF13, Seoul"
+    }
+]

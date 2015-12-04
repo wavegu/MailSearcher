@@ -1,1 +1,20 @@
-arul@umich.edu	[9]
+[
+    {
+        "content": "e-mail: arul@umich.edu. website: mctp.path.med.umich.edu. research: dr. chinniayans research focuses on functional genomics, proteomic and bioinformatic...", 
+        "email_addr_list": [
+            "arul@umich.edu"
+        ], 
+        "cite_url": "www.ccmb.med.umich.edu/.../204", 
+        "cite_name": "University of Michigan Health System", 
+        "title": "Arul M. Chinnaiyan, M.D., Ph.D. | Department of ..."
+    }, 
+    {
+        "content": "email: arul@umich.edu. research subspecialty: cancer biology. short biography. arul m. chinnaiyan, m.d., ph.d. is a howard hughes medical institute...", 
+        "email_addr_list": [
+            "arul@umich.edu"
+        ], 
+        "cite_url": "https://www.pathology.med.umich...", 
+        "cite_name": "University of Michigan Health System", 
+        "title": "Chinnaiyan, Arul M - Department of Pathology - University of ..."
+    }
+]

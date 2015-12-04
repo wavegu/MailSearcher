@@ -1,2 +1,11 @@
-science at stanford.dan	[2]
-email at stanford.edu	[2]
+[
+    {
+        "content": "dan jurafsky. professor of linguistics, stanford ... verified email at stanford.edu. scholar ... ss pradhan, w ward, k hacioglu, jh martin, d jurafsky. hlt-naacl...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=uZg9l58AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Dan Jurafsky - Google Scholar Citations"
+    }
+]

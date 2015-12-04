@@ -1,4 +1,47 @@
-kotov@umich.edu	[11]
-kotov@okstate.edu	[11]
-kotov@umich.edu.nicholas	[11]
-email at umich.edu	[2]
+[
+    {
+        "content": "nicholas a. kotov. joseph b. and florence v. cejka professor, chemical engineering. kotov@umich.edu. b10-a159 ncrc (734) 763-8768. view profile.", 
+        "email_addr_list": [
+            "kotov@umich.edu"
+        ], 
+        "cite_url": "www.engin.umich.edu/.../...", 
+        "cite_name": "University of Michigan College of Engineering", 
+        "title": "Faculty Roster | Chemical Engineering"
+    }, 
+    {
+        "content": "nicholas kotov, ph.d. professor, biomedical engineering professor, chemical ... email: kotov@umich.edu. research areas: bio-nanotechnology, neural...", 
+        "email_addr_list": [
+            "kotov@umich.edu"
+        ], 
+        "cite_url": "www.bme.umich.edu/people/index.php?un=kotov", 
+        "cite_name": "University of Michigan", 
+        "title": "Nicholas Kotov - Biomedical Engineering: People"
+    }, 
+    {
+        "content": "nicholas a. kotov. university of michigan  nanomaterials, self-assembly. verified email at umich.edu - homepage ... z tang, na kotov, s magonov, b ozturk.", 
+        "email_addr_list": [
+            "email@umich.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=0ubtgRQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Nicholas A. Kotov - Google Scholar Citations"
+    }, 
+    {
+        "content": "ann arbor, mi 48109-2136 phone: 734-763-8768 fax: 734-764-7453 web: http://www.engin.umich.edu/dept/che/research/kotov/ email: kotov@umich.edu.", 
+        "email_addr_list": [
+            "kotov@umich.edu"
+        ], 
+        "cite_url": "www.me-d.org/me-d2010/img/2011/sub2/CV_Kotov.pdf?...", 
+        "cite_name": "", 
+        "title": "[PDF]CURRICULUM VITAE Prof. Nicholas A. Kotov Born August ..."
+    }, 
+    {
+        "content": "nicholas a. kotov ... email: kotov@umich.edu .... kotov, n.a.; dékány, i.; fendler, j.h. ultrathin graphite oxide-polyelectrolyte composites prepared by.", 
+        "email_addr_list": [
+            "kotov@umich.edu"
+        ], 
+        "cite_url": "https://research.wayne.edu/.../N_Kotov_bio.pdfwww.google.com/email", 
+        "cite_name": "Wayne State University", 
+        "title": "[PDF]BioGoogle Business Email‎"
+    }
+]

@@ -1,5 +1,38 @@
-anders.bjorklund@sofi.su.se.anders	[14]
-anders.bjorklund@sofi.su.se	[14]
-anders.bjorklund@med.lu.se	[14]
-email at med.lu.se	[2]
-email at sofi.su.se	[2]
+[
+    {
+        "content": "sweden telephone: +46 46 222 05 40 fax: +46 46 222 05 59 e-mail: anders.bjorklund@med.lu.se. education/academic degrees. 1964-1966 bachelor of...", 
+        "email_addr_list": [
+            "anders.bjorklund@med.lu.se"
+        ], 
+        "cite_url": "www.replaces-pd.org/pdf/cv_bjorklund.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Anders Björklund, M.D., Ph.D., Professor of ... - Replaces"
+    }, 
+    {
+        "content": "anders bjorklund: current contact information and listing of economic research of this author provided by repec/ideas. ... email: anders.bjorklund@sofi.su.se.", 
+        "email_addr_list": [
+            "anders.bjorklund@sofi.su.se"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pbj6.html", 
+        "cite_name": "", 
+        "title": "Anders Bjorklund at IDEAS"
+    }, 
+    {
+        "content": "create alert. cancel. anders björklund ... labor economics. verified email at sofi.su.se ... a björklund, t eriksson, m jäntti, o raaum, e Österbacka. journal of...", 
+        "email_addr_list": [
+            "email@sofi.su.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AyGhle0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anders Björklund - Google Scholar Citations"
+    }, 
+    {
+        "content": "create alert. cancel. anders björklund ... verified email at med.lu.se. scholar ... w fischer, k wictorin, a björklund, lr williams, s varon, fh gage. nature 329...", 
+        "email_addr_list": [
+            "email@med.lu.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=W8CXjsMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anders Björklund - Google Scholar Citations"
+    }
+]

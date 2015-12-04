@@ -1,1 +1,20 @@
-vittorio.gallese@unipr.it	[31]
+[
+    {
+        "content": "gallese vittorio. mail di ateneo: vittorio.gallese@unipr.it. telefono: +39 0521 903887 - 903879. fax: +39 0521 903900. afferenza organizzativa.", 
+        "email_addr_list": [
+            "vittorio.gallese@unipr.it"
+        ], 
+        "cite_url": "www.unipr.it/ugov/person/18110", 
+        "cite_name": "", 
+        "title": "GALLESE Vittorio | Università degli Studi di Parma"
+    }, 
+    {
+        "content": "vittorio gallese. professore ordinario ssd: bio/09 - fisiologia. tel: 0521-903879; 0521-903887, email: vittorio.gallese@unipr.it. fax: 0521-903900, skype:...", 
+        "email_addr_list": [
+            "vittorio.gallese@unipr.it"
+        ], 
+        "cite_url": "profsan3.unipr.it/cgi-bin/campusnet/.../Show?_...galles...", 
+        "cite_name": "", 
+        "title": "Docenti: Prof. Vittorio Gallese"
+    }
+]

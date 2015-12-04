@@ -1,4 +1,39 @@
-alex.zunger@colorado.edu	[21]
-alex.zunger@colorado.edu.alex	[21]
-alex.zunger@gmail.com	[21]
-email at colorado.edu	[2]
+[
+    {
+        "content": "create alert. cancel. alex zunger ... verified email at colorado.edu - homepage  scholar ... a zunger, sh wei, lg ferreira, je bernard. physical review letters...", 
+        "email_addr_list": [
+            "email@colorado.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9I1Ner8AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alex Zunger - Google Scholar Citations"
+    }, 
+    {
+        "content": "alex zungers research field is condensed matter theory of real materials, including the development of the basic ... his email is alex.zunger@colorado.edu .", 
+        "email_addr_list": [
+            "alex.zunger@colorado.edu"
+        ], 
+        "cite_url": "www.tcm2014.org/zunger.html", 
+        "cite_name": "", 
+        "title": "Alex Zunger - TCM 2014"
+    }, 
+    {
+        "content": "alex zunger -‐ biographical sketch. prof. alex zungers research field is condensed matter theory of real materials, ... his email is alex.zunger@colorado.edu .", 
+        "email_addr_list": [
+            "alex.zunger@colorado.edu"
+        ], 
+        "cite_url": "theossrv1.epfl.ch/.../Brief%20...", 
+        "cite_name": "École Polytechnique Fédérale de Lausanne", 
+        "title": "[PDF]Brief CV- Alex Zunger-1 - theos"
+    }, 
+    {
+        "content": "alex zunger of the university of colorado, boulder research field is condensed matter theory of ... email: alex.zunger@gmail.com; alex.zunger@colorado.edu.", 
+        "email_addr_list": [
+            "alex.zunger@gmail.com", 
+            "alex.zunger@colorado.edu"
+        ], 
+        "cite_url": "www.colorado.edu/zunger.../alex-zunger", 
+        "cite_name": "University of Colorado Boulder", 
+        "title": "Alex Zunger - University of Colorado Boulder"
+    }
+]

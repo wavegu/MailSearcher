@@ -1,3 +1,38 @@
-wrp@virginia.edu	[4]
-email at virginia.edu	[2]
-office@aaml.org	[1]
+[
+    {
+        "content": "william r. pearson. professor of biochemistry ph.d., 1977, california institute of technology. wrp@virginia.edu. dept. of biochemistry and molecular genetics", 
+        "email_addr_list": [
+            "wrp@virginia.edu"
+        ], 
+        "cite_url": "people.virginia.edu/~wrp/", 
+        "cite_name": "University of Virginia", 
+        "title": "William R. Pearson"
+    }, 
+    {
+        "content": "150 n. michigan ave. ste. 1420. chicago, il 60601. phone (312) 263-6477; fax (312) 263-7682; email office@aaml.org  fellow login. william r. pearson...", 
+        "email_addr_list": [
+            "office@aaml.org"
+        ], 
+        "cite_url": "www.aaml.org/divorce-lawyer-woodbury-new-jersey-william-pearson", 
+        "cite_name": "", 
+        "title": "William R. Pearson | AAML National"
+    }, 
+    {
+        "content": "w. r. pearson and d. j. lipman (1988), improved tools for biological sequence analysis, pnas 85:2444- ... william r. pearson (email: wrp@virginia.edu)", 
+        "email_addr_list": [
+            "wrp@virginia.edu"
+        ], 
+        "cite_url": "www.genebee.msu.su/fasta/help.html", 
+        "cite_name": "", 
+        "title": "Fasta3 help"
+    }, 
+    {
+        "content": "create alert. cancel. william pearson ... verified email at virginia.edu - homepage  scholar ... wr pearson, wr vorachek, sj xu, r berger, i hart, d vannais, .", 
+        "email_addr_list": [
+            "email@virginia.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=UxQKRr8AAAAJ...www.google.com/emailmypearsonstore.com/Pearson+Education", 
+        "cite_name": "Google Scholar", 
+        "title": "William Pearson - Google Scholar CitationsGoogle Business Email‎My Pearson Store Online‎"
+    }
+]

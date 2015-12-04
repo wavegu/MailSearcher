@@ -1,0 +1,38 @@
+[
+    {
+        "content": "2163 harold frank hall. phone: (805) 893-4236. email: mturk@cs.ucsb.edu ... matthew turk is a professor of computer science and former chair of media arts...", 
+        "email_list": [
+            "mturk@cs.ucsb.edu"
+        ], 
+        "cite_url": "https://www.cs.ucsb.edu/.../turk", 
+        "cite_name": "University of California, Santa Barbara", 
+        "title": "Matthew Turk | UCSB Computer Science"
+    }, 
+    {
+        "content": "matthew j turk. research scientist of ncsa ... phone:(217) 333-3090 • fax:(217) 244-7638 • email: astronomy@illinois.edu. © 2009 university of illinois board...", 
+        "email_list": [
+            "astronomy@illinois.edu"
+        ], 
+        "cite_url": "www.astro.illinois.edu/.../mjt...", 
+        "cite_name": "University of Illinois at Urbana–Champaign", 
+        "title": "Matthew J Turk | People | Astronomy, University of Illinois"
+    }, 
+    {
+        "content": "cancel. matthew turk. computer science ... verified email at cs.ucsb.edu - homepage  scholar. get my own ... m turk, dg morgenthaler, kd gremban, m marra.", 
+        "email_list": [
+            "email@cs.ucsb.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KltleWgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Matthew Turk - Google Scholar Citations"
+    }, 
+    {
+        "content": "create alert. cancel. matthew j. turk ... verified email at ncsa.illinois.edu. scholar ... mj turk, bd smith, js oishi, s skory, sw skillman, t abel, ml norman.", 
+        "email_list": [
+            "email@ncsa.illinois.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=QTmv2p0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Matthew J. Turk - Google Scholar Citations"
+    }
+]

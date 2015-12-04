@@ -1,2 +1,11 @@
-bart.staels@pasteur-lille.fr	[21]
-elena.osto@uzh.ch	[2]
+[
+    {
+        "content": "correspondence to bart staels, phd, institut pasteur de lille, 1 rue du professeur calmette, bp245, 59019 lille, france. e-mail bart.staels@pasteur-lille.fr.", 
+        "email_addr_list": [
+            "bart.staels@pasteur-lille.fr"
+        ], 
+        "cite_url": "atvb.ahajournals.org/.../...", 
+        "cite_name": "Arteriosclerosis, Thrombosis, and Vascular Biology", 
+        "title": "Extract - Arteriosclerosis, Thrombosis, and Vascular Biology"
+    }
+]

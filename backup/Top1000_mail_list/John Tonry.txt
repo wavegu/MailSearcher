@@ -1,1 +1,11 @@
-tonry at hawaii dot edu	[11]
+[
+    {
+        "content": "john l. tonry ... university of hawaii institute for astronomy, 2680 woodlawn dr., honolulu, hi 96822. phone: (808) 956-8701 tonry at hawaii dot edu...", 
+        "email_addr_list": [
+            "tonry@hawaii.edu"
+        ], 
+        "cite_url": "www.ifa.hawaii.edu/~jt/", 
+        "cite_name": "University of Hawaii", 
+        "title": "John L. Tonry - Institute for Astronomy - University of Hawaii"
+    }
+]

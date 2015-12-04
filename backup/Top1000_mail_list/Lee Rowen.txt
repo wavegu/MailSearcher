@@ -1,5 +1,38 @@
-lrowen@atlantic.net	[12]
-rowenlrowen@atlantic.net	[12]
-email at systemsbiology.org	[3]
-career@law.berkeley.edu	[2]
-sales@garden.net.au	[2]
+[
+    {
+        "content": "create alert. cancel. lee rowen ... verified email at systemsbiology.org. scholar ... jc roach, g glusman, l rowen, a kaur, mk purcell, kd smith, le hood, .", 
+        "email_addr_list": [
+            "email@systemsbiology.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=g-Wsk-MAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Lee Rowen - Google Scholar Citations"
+    }, 
+    {
+        "content": "easter mon 8am - 4pm. mail: all mail to head office (warners bay) email: sales@garden.net.au. email address for both cafés: café@garden.net.au. first name *.", 
+        "email_addr_list": [
+            "sales@garden.net.au"
+        ], 
+        "cite_url": "www.leerowans.com.au/www/content/default.aspx?cid=588", 
+        "cite_name": "", 
+        "title": "Contact Us - Lee Rowans Gardenworld"
+    }, 
+    {
+        "content": "please send an email to career@law.berkeley.edu or call 510-642-4567 for general questions, reciprocity requests, ... alexander li-hua lee ... melanie rowen", 
+        "email_addr_list": [
+            "career@law.berkeley.edu"
+        ], 
+        "cite_url": "https://www.law.berkeley.edu/.../contact-us/", 
+        "cite_name": "UC Berkeley School of Law", 
+        "title": "Contact Us - Berkeley Law"
+    }, 
+    {
+        "content": "see information and reports about lrowen@atlantic.net (lee rowens e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "lrowen@atlantic.net"
+        ], 
+        "cite_url": "spam-report.email/lrowen/atlantic.net", 
+        "cite_name": "", 
+        "title": "lrowen@atlantic.net (Lee Rowens e-mail) - Spam-Report ..."
+    }
+]

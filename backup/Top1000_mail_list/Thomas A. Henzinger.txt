@@ -1,8 +1,49 @@
-thenzinger at gmail.com	[21]
-magdalena.lueger-kaltenecker@ist.ac.at	[6]
-tahg@eecs.berkeley.edu	[4]
-initials@ist.ac.at	[3]
-email at ist.ac.at	[3]
-alur@cis.upenn.edu	[2]
-dejan.nickovic@ait.ac.at	[2]
-fmangg@eecs.berkeley.edu	[2]
+[
+    {
+        "content": "coordinates, mail: am campus 1, a-3400 klosterneuburg email: my_three_initials@ist.ac.at. assistant: magdalena.lueger-kaltenecker@ist.ac.at. phone: +43...", 
+        "email_addr_list": [
+            "my_three_initials@ist.ac.at", 
+            "magdalena.lueger-kaltenecker@ist.ac.at"
+        ], 
+        "cite_url": "ist.ac.at/~tah", 
+        "cite_name": "Institute of Science and Technology Austria", 
+        "title": "Tom Henzinger: Home Page - IST Austria"
+    }, 
+    {
+        "content": "thomas henzinger. ist austria  software systems theory. verified email at ist.ac.at ... r alur, c courcoubetis, n halbwachs, ta henzinger, ph ho, x nicollin, .", 
+        "email_addr_list": [
+            "email@ist.ac.at"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jpgplxUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Thomas Henzinger - Google Scholar Citations"
+    }, 
+    {
+        "content": "rajeev alur. thomas a. henzinger. eecs department, university of california, berkeley, ca 94720-1770, u.s.a.. email: falur,tahg@eecs.berkeley.edu. abstract...", 
+        "email_addr_list": [
+            "tahg@eecs.berkeley.edu"
+        ], 
+        "cite_url": "https://www.cis.upenn.edu/~alur/Concur97.ps", 
+        "cite_name": "University of Pennsylvania", 
+        "title": "[PS]Modularity for Timed and Hybrid Systems - the Department ..."
+    }, 
+    {
+        "content": "thomas a. henzinger. 3. freddy y.c. mang. 2 ... email: alur@cis.upenn.edu. 2. department of ... email: fdealfaro,fmangg@eecs.berkeley.edu. 3. department of...", 
+        "email_addr_list": [
+            "alur@cis.upenn.edu", 
+            "fmangg@eecs.berkeley.edu"
+        ], 
+        "cite_url": "www.seas.upenn....", 
+        "cite_name": "University of Pennsylvania School of Engineering an...", 
+        "title": "[PS]1 Luca de Alfaro 2 Thomas A. Henzinger 3 Freddy ... - SEAS"
+    }, 
+    {
+        "content": "email: dejan.nickovic@ait.ac.at ... thomas henzinger. 2008–2009 .... i3 d. nickovic, t. henzinger, a. legay, b. delahaye and u. fahrenberg. incremental...", 
+        "email_addr_list": [
+            "dejan.nickovic@ait.ac.at"
+        ], 
+        "cite_url": "www.ait.ac.at/.../CV_Dejan_Nickovic.pd...www.google.com/email", 
+        "cite_name": "Austrian Institute of Technology", 
+        "title": "[PDF]CV as pdf - AIT Austrian Institute of TechnologyGoogle Business Email - Custom email for your company‎"
+    }
+]

@@ -1,4 +1,29 @@
-shenker at aciriwww.icir.org	[16]
-shenker@email.com	[16]
-shenker@icir.org	[16]
-email at icsi.berkeley.edu	[3]
+[
+    {
+        "content": "scott shenker. professor of computer science, uc berkeley. verified email at icsi.berkeley.edu ... s ratnasamy, p francis, m handley, r karp, s shenker.", 
+        "email_addr_list": [
+            "email@icsi.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=GUAoEcAAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Scott Shenker - Google Scholar Citations"
+    }, 
+    {
+        "content": "scott shenker. information. phone: +1 510 643 3043; email: shenker@icir.org; papers. biography. as you can tell, this page is under construction.", 
+        "email_addr_list": [
+            "shenker@icir.org"
+        ], 
+        "cite_url": "www.icir.org/shenker/", 
+        "cite_name": "", 
+        "title": "Scott Shenker at ACIRI"
+    }, 
+    {
+        "content": "see information and reports about shenker@email.com (scott shenkers e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "shenker@email.com"
+        ], 
+        "cite_url": "spam-report.email/shenker/email.comwww.google.com/email", 
+        "cite_name": "", 
+        "title": "shenker@email.com (Scott Shenkers e-mail) - Spam-Report ...Google Business Email‎Searches related to Scott Shenker email"
+    }
+]

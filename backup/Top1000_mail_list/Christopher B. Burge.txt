@@ -1,2 +1,20 @@
-cburge@mit.edu	[13]
-cburge at mit dot edu	[13]
+[
+    {
+        "content": "email: cburge [at] mit.edu ... chris b. burge ... wang z., burge c. b. splicing regulation: from a parts list of regulatory elements to an integrated splicing code.", 
+        "email_addr_list": [
+            "cburge@mit.edu"
+        ], 
+        "cite_url": "https://biology.mit.edu/.../chris_bu...", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Chris B. Burge | MIT Biology"
+    }, 
+    {
+        "content": "christopher b. burge professor of biology and biological engineering ... email: cburge at mit dot edu. burge lab website: http://genes.mit.edu/burgelab.", 
+        "email_addr_list": [
+            "cburge@mit.edu"
+        ], 
+        "cite_url": "genes.mit.edu/burgelab/cburge.html", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "Christopher Burge Lab - People - Christopher Burge - MIT"
+    }
+]

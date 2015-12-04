@@ -1,0 +1,57 @@
+[
+    {
+        "content": "verified email at ioz.ac.cn - homepage  scholar ... l yi-ming, g zenxiang, l xinhai, w sung, j niemelä ... xh li, zj ma, dm li, cq ding, tq zhai, bz lu.", 
+        "email_list": [
+            "email@ioz.ac.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4BLi1BIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xinhai Li - Google Scholar Citations"
+    }, 
+    {
+        "content": "xinhai li. professor of chemical and metallurgical engineering, central ... verified email at csu.edu.cn ... j li, a takeuchi, m ozawa, x li, k saigo, k kitazawa.", 
+        "email_list": [
+            "email@csu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=SSMyUmYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xinhai Li - Google Scholar Citations"
+    }, 
+    {
+        "content": "zhang xinhai ... m. j. li, b. wu, s. a. ekahana, m. i. b. utama, g. c. xing, q. h. xiong, t. c. sum, x. h. zhang*, “size and ... email: zhang.xh@sustc.edu.cn.", 
+        "email_list": [
+            "zhang.xh@sustc.edu.cn"
+        ], 
+        "cite_url": "www.sustc.edu.cn/...", 
+        "cite_name": "South University of Science and Technology of China", 
+        "title": "Professor - Zhang Xinhai(Optoelectronics) - Faculty - SUSTC"
+    }, 
+    {
+        "content": "professor: lixin he. email: helx@ustc.edu.cn ... email: mohan@mail.ustc.edu.cn. homepage: home.ustc.edu.cn/~mohan. research: name: hai wei. email...", 
+        "email_list": [
+            "helx@ustc.edu.cn", 
+            "mohan@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "lqcc.us...", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Prof. Lixin He - 中国科学院量子信息重点实验室"
+    }, 
+    {
+        "content": "zheng jun-chao, li xin-hai, wang zhi-xing, li jin-hui, wu ling, li ling-jun, guo hua- ... corresponding authors: li xin-hai email: tonyson_011@163.com", 
+        "email_list": [
+            "tonyson_011@163.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "LI Xin-Hai WANG Zhi-Xing - Acta Physico-Chimica Sinica"
+    }, 
+    {
+        "content": "jun 18, 2013 - email updates. keep up to date with the ... qiangye zhang, hongchao yang, jian wang, aiwu li*, wentong zhang, xinhai cui and kelai wang. * corresponding author: aiwu li liaiwuxie@yahoo.com.cn. author affiliations.", 
+        "email_list": [
+            "liaiwuxie@yahoo.com.cn"
+        ], 
+        "cite_url": "www.nutritionj.com/content/12/1/84/abstract", 
+        "cite_name": "", 
+        "title": "Nutrition Journal | Abstract | Effect of green tea on reward ..."
+    }
+]

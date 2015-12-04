@@ -1,0 +1,20 @@
+[
+    {
+        "content": "(541) 737-4544. fax: (541) 737-1300. e-mail: wong@eecs.oregonstate.edu ... weng-keen wong is an associate professor of computer science at oregon state...", 
+        "email_list": [
+            "wong@eecs.oregonstate.edu"
+        ], 
+        "cite_url": "eecs.oregonstate.edu/people/wong-weng-keen", 
+        "cite_name": "Oregon State University", 
+        "title": "Weng-Keen Wong | Electrical Engineering and Computer ..."
+    }, 
+    {
+        "content": "feb 9, 2003 - office: wean hall 5130. phone: (412) 268-3052. email: wkw+www@cs.cmu.edu. icq uin: 2302728. im screen name: wengkeener...", 
+        "email_list": [
+            "www@cs.cmu.edu"
+        ], 
+        "cite_url": "www.cs.cmu.edu/~wkw/", 
+        "cite_name": "Carnegie Mellon University", 
+        "title": "Weng-Keen Wong - School of Computer Science - Carnegie ..."
+    }
+]

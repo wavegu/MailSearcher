@@ -1,3 +1,20 @@
-jgunn@ku.edu	[10]
-jgunn@ku.edu.astronomical	[10]
-jeg@astro.princeton.edu	[4]
+[
+    {
+        "content": "james e. gunn ... campus phone: 609-258-3802. campus fax: 609-258-8226. e-mail: jeg@astro.princeton.edu. © 2015 the trustees of princeton university,...", 
+        "email_addr_list": [
+            "jeg@astro.princeton.edu"
+        ], 
+        "cite_url": "https://www.princeton.edu/astro/people/faculty/jeg/", 
+        "cite_name": "Princeton University", 
+        "title": "James E. Gunn - Princeton University"
+    }, 
+    {
+        "content": "james gunn was born in kansas city, missouri, in 1923. ... in 2014, james gunn created a $1.5 million endowment for the james e. and jane f. gunn professorship in science fiction in the ku english .... email address: jgunn@ku.edu.", 
+        "email_addr_list": [
+            "jgunn@ku.edu"
+        ], 
+        "cite_url": "www.sfcenter.ku.edu/bio.htm", 
+        "cite_name": "Center for the Study of Science Fiction", 
+        "title": "James Gunn Biography"
+    }
+]

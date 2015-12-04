@@ -1,0 +1,20 @@
+[
+    {
+        "content": "nov 1, 2015 - roberto v. zicari, professor, frankfurt big data lab, goethe university frankfurt, germany. email: roberto@zicari.de; jerzy grzymala-busse,...", 
+        "email_list": [
+            "roberto@zicari.de"
+        ], 
+        "cite_url": "www.cacs.louisiana.edu/~bdws/", 
+        "cite_name": "University of Louisiana at Lafayette", 
+        "title": "Data Quality Issues in Big Data - CACS  Research"
+    }, 
+    {
+        "content": "the list below contains all domains related to the email address roberto@zicari.de. the listed domains are showing the mentioned email address in their whois...", 
+        "email_list": [
+            "roberto@zicari.de"
+        ], 
+        "cite_url": "website.informer.com/email/roberto@zicari.de", 
+        "cite_name": "", 
+        "title": "Roberto@zicari.de at Website Informer"
+    }
+]

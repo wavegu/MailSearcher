@@ -1,0 +1,11 @@
+[
+    {
+        "content": "email: gagliardo@jsu.edu. nationally acclaimed american conductor and educator michael r. gagliardo has served as the music director of the etowah youth...", 
+        "email_list": [
+            "gagliardo@jsu.edu"
+        ], 
+        "cite_url": "www.jsu.edu/music/mgaliardo.html", 
+        "cite_name": "Jacksonville State University", 
+        "title": "Michael R. Gagliardo | David L. Walters Department of Music"
+    }
+]

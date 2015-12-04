@@ -1,4 +1,29 @@
-urs.fischbacher@uni-konstanz.de.urs	[29]
-urs.fischbacher@uni-konstanz.de	[29]
-fischbacher@twi-kreuzlingen.ch	[23]
-email at uni-konstanz.de	[2]
+[
+    {
+        "content": "e-mail, fischbacher@twi-kreuzlingen.ch ... yan chen, ernst fehr, urs fischbacher, peter morgan, matching and segregation: an experimental study,...", 
+        "email_addr_list": [
+            "fischbacher@twi-kreuzlingen.ch"
+        ], 
+        "cite_url": "www.twi-kreuzlingen.ch/de/personen/.../prof-dr-urs-fischbacher/", 
+        "cite_name": "", 
+        "title": "Prof. Dr. Urs Fischbacher - Thurgauer Wirtschaftsinstitut"
+    }, 
+    {
+        "content": "cancel. urs fischbacher ... verified email at uni-konstanz.de - homepage  scholar ... m kosfeld, m heinrichs, pj zak, u fischbacher, e fehr. nature 435 (7042)...", 
+        "email_addr_list": [
+            "email@uni-konstanz.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Ni_r1zQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "urs fischbacher - Google Scholar Citations"
+    }, 
+    {
+        "content": "28 seats. external link: http://www.uni-konstanz.de/fuf/fischbacher/. category: laboratories. contact: urs fischbacher; email: urs.fischbacher@uni-konstanz.de.", 
+        "email_addr_list": [
+            "urs.fischbacher@uni-konstanz.de"
+        ], 
+        "cite_url": "https://www.economicscience.org/resourceDisplay.html?catId=-6", 
+        "cite_name": "", 
+        "title": "Laboratories - Resource List | ESA"
+    }
+]

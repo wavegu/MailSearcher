@@ -1,3 +1,38 @@
-gertjan.hofstede@wur.nl	[31]
-hofstede@bart.nl	[17]
-email at wur.nl	[1]
+[
+    {
+        "content": "gert jan hofstede. wageningen university, the ... verified email at wur.nl - homepage  scholar. get my own ... g hofstede, gj hofstede, m minkov. mcgraw-hill...", 
+        "email_addr_list": [
+            "email@wur.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7fWSAOMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gert Jan Hofstede - Google Scholar Citations"
+    }, 
+    {
+        "content": "geert geert is a resident of velp, gelderland, the netherlands. he can be reached at hofstede@bart.nl. gert jan in the context of my work at wageningen...", 
+        "email_addr_list": [
+            "hofstede@bart.nl"
+        ], 
+        "cite_url": "geerthofstede.nl/contact-us", 
+        "cite_name": "", 
+        "title": "Geert Hofstede | Contact Geert or Gert Jan Hofstede"
+    }, 
+    {
+        "content": "email, gertjan.hofstede@wur.nl ... gert jan hofstede was born in the netherlands in 1956. he is a ... geert hofstede, gert jan hofstede, michael minkov (2010)", 
+        "email_addr_list": [
+            "gertjan.hofstede@wur.nl"
+        ], 
+        "cite_url": "https://www.vcard.wur.nl/Views/Profile/View.aspx?id=3721ln=eng", 
+        "cite_name": "", 
+        "title": "We@WUR: View dr.ir. GJ Hofstede"
+    }, 
+    {
+        "content": "email, gertjan.hofstede@wur.nl ... gert jan hofstede (hengelo ov, 1956) heeft in zijn jeugd gewoond in twente, het gooi, en lausanne (zwitserland).", 
+        "email_addr_list": [
+            "gertjan.hofstede@wur.nl"
+        ], 
+        "cite_url": "https://www.vcard.wur.nl/Views/Profile/View.aspx?id...", 
+        "cite_name": "", 
+        "title": "View dr.ir. GJ Hofstede - We@WUR - Wageningen UR"
+    }
+]

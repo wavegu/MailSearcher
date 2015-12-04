@@ -1,3 +1,21 @@
-lpachter@math.berkeley.edu	[16]
-email at math.berkeley.edu	[2]
-aparkin@berkeley.edu	[2]
+[
+    {
+        "content": "lior pachter. professor of mathematics ... verified email at math.berkeley.edu - homepage  scholar ... ka frazer, l pachter, a poliakov, em rubin, i dubchak.", 
+        "email_addr_list": [
+            "email@math.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DKfEcuEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Lior Pachter - Google Scholar Citations"
+    }, 
+    {
+        "content": "faculty  center director. adam-arkin. email. aparkin@berkeley.edu. phone ... ming hammond. faculty. lior-pachter. email. lpachter@math.berkeley.edu.", 
+        "email_addr_list": [
+            "aparkin@berkeley.edu", 
+            "lpachter@math.berkeley.edu"
+        ], 
+        "cite_url": "rnasystemsbiology.org/people/www.google.com/email", 
+        "cite_name": "", 
+        "title": "People | Center for RNA Systems BiologyGoogle Business Email - Custom email for your company‎Searches related to Lior Pachter email"
+    }
+]

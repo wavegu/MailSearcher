@@ -1,0 +1,30 @@
+[
+    {
+        "content": "may 25, 2012 - 2012 professor m. tsukada -- practical application of simulation software for ... specially appointed professor masaru tsukada at wpi advanced institute for ... tel: +81-22-217-6146 e-mail: outreach@wpi-aimr.tohoku.ac.jp...", 
+        "email_list": [
+            "outreach@wpi-aimr.tohoku.ac.jp"
+        ], 
+        "cite_url": "www.wpi-aimr.tohoku.ac.jp/.../20120525_000289.ht...", 
+        "cite_name": "Tohoku University", 
+        "title": "2012 Professor M. Tsukada -- Practical application of ..."
+    }, 
+    {
+        "content": "e-mail shuji@surface.phys.s.u-tokyo.ac.jp ... e-mail: hasegawa@issp.u-tokyo.ac.jp ... 10, masaru tsukada, professor, waseda university graduate school of...", 
+        "email_list": [
+            "shuji@surface.phys.s.u-tokyo.ac.jp", 
+            "hasegawa@issp.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "www-surface.phys.s.u-tokyo.ac.jp/.../Japan%20Team-with%20PhoneNu...", 
+        "cite_name": "", 
+        "title": "[XLS]Japan Team-with Phon.. - Hasegawa Group Entrance"
+    }, 
+    {
+        "content": "masaru tsukada. tohoku university, wpi-aimr center. 2-1-1 katahira, aoba-ku, sendai, 980-8577 japan. e-mail: tsukada@wpi-aimr.tohoku.ac.jp. please view...", 
+        "email_list": [
+            "tsukada@wpi-aimr.tohoku.ac.jp"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-3-642-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF (124KB) - Springer"
+    }
+]

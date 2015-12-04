@@ -1,0 +1,49 @@
+[
+    {
+        "content": "create alert. cancel. flavio licciulli ... verified email at ba.itb.cnr.it - homepage  scholar ... g pesole, f mignone, c gissi, g grillo, f licciulli, s liuni. gene 276...", 
+        "email_list": [
+            "email@ba.itb.cnr.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=vRrUrZUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Flavio Licciulli - Google Scholar Citations"
+    }, 
+    {
+        "content": "institute for biomedical technologies cnr - bari, it. f. licciulli. contact me flavio.licciulli@ba.itb.cnr.itthis email address is being protected from spambots.", 
+        "email_list": [
+            "flavio.licciulli@ba.itb.cnr.itthis"
+        ], 
+        "cite_url": "bioinformatics.ba.itb.cnr.it/index.php/contacts/45-pages/48-contacts", 
+        "cite_name": "", 
+        "title": "Contacts - Bioinformatics Facilities @ ITB Bari"
+    }, 
+    {
+        "content": "animals. biogenres dr.ssa flavia pizzi ... fax +39 080 5929374. mail: antonio.logrieco@ispa.cnr.it ... fax + 39 080 5929690. mail: flavio.licciulli@ba.itb.cnr.it...", 
+        "email_list": [
+            "antonio.logrieco@ispa.cnr.it", 
+            "flavio.licciulli@ba.itb.cnr.it"
+        ], 
+        "cite_url": "www.biogenres.cnr.it/en/19/Contact_us/", 
+        "cite_name": "", 
+        "title": "Contact us - BIOGENRES"
+    }, 
+    {
+        "content": "e-mail: domenico.catalano@ibbr.cnr.it ... author: flavio licciulli, domenico catalano, domenica delia, giorgio de caro, giorgio grillo, pietro leo, giuseppina...", 
+        "email_list": [
+            "domenico.catalano@ibbr.cnr.it"
+        ], 
+        "cite_url": "ibbr.cnr.it/ibbr/people/domenico-catalano", 
+        "cite_name": "", 
+        "title": "Domenico Catalano - IBBR-CNR"
+    }, 
+    {
+        "content": "corresponding author: flavio licciulli flavio.licciulli@ba.itb.cnr.it ... if you would like to participate and need an invitation, please email info@biomedcentral.com,...", 
+        "email_list": [
+            "flavio.licciulli@ba.itb.cnr.it", 
+            "info@biomedcentral.com"
+        ], 
+        "cite_url": "www.arthritis-research.com/1471-2105/13/S4/S4/comments", 
+        "cite_name": "", 
+        "title": "Readers comments - Arthritis Research  Therapy"
+    }
+]

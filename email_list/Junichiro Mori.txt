@@ -1,0 +1,11 @@
+[
+    {
+        "content": "junichiro mori. lecturer, the university of ... verified email at ipr-ctr.t.u-tokyo.ac.jp. scholar ... y matsuo, j mori, m hamasaki, t nishimura, h takeda, k hasida, .", 
+        "email_list": [
+            "email@ipr-ctr.t.u-tokyo.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1CRVLDgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Junichiro Mori - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "content": "ye zhongfu, born in dec. 1959 in tongcheng, anhui, was enrolled in dept. of ..... note (within 150 words）. tel: +86-551-63600279, e-mail: tianlin@ustc.edu.cn...", 
+        "email_list": [
+            "tianlin@ustc.edu.cn"
+        ], 
+        "cite_url": "dsxt.ustc.edu.cn/zj_ywjs....", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "ZHONGFU Ye - Staff Profile"
+    }, 
+    {
+        "content": "email: gzbao@mail.ustc.edu.cn ... zhongfu ye in the issp research lab. ... guangzhao bao, zhongfu ye, xu xu, and yingyue zhou, “a compressed sensing...", 
+        "email_list": [
+            "gzbao@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "home.ustc.edu.cn/~gzbao/", 
+        "cite_name": "University of Science and Technology of China", 
+        "title": "Guangzhao Bao : Homepage"
+    }, 
+    {
+        "content": "verified email at mail.ustc.edu.cn - homepage  scholar. get my own profile ... w chao, ye zhong-fu ... q yang, x tang, c wang, z ye, m chen. multimedia...", 
+        "email_list": [
+            "email@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1A0GlbUAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Chao Wang - Google Scholar Citations"
+    }, 
+    {
+        "content": "xu xu, zhongfu ye and yufeng zhang are with institute of statistical signal ... china (e-mail: xxu@ustc.edu.cn, yezf@ustc.edu.cn, myth@mail.ustc.edu.cn).", 
+        "email_list": [
+            "xxu@ustc.edu.cn", 
+            "yezf@ustc.edu.cn", 
+            "myth@mail.ustc.edu.cn"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../04...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "c - IEEE Xplore"
+    }
+]

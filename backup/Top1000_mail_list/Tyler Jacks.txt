@@ -1,1 +1,29 @@
-tjacks@mit.edu	[12]
+[
+    {
+        "content": "email tjacks@mit.edu ... tyler jacks. director, koch institute for ... tyler jacks is the director of the koch institute for integrative cancer research at mit. dr. jacks...", 
+        "email_addr_list": [
+            "tjacks@mit.edu"
+        ], 
+        "cite_url": "ki.mit.edu/people/faculty/jacks", 
+        "cite_name": "Massachusetts Institute of Technology", 
+        "title": "The Koch Institute: Tyler Jacks"
+    }, 
+    {
+        "content": "tyler jacks. tyler jacks is the director of the koch institute for integrative cancer research at mit. jacks received his ... email tjacks@mit.edu. administrative...", 
+        "email_addr_list": [
+            "tjacks@mit.edu"
+        ], 
+        "cite_url": "https://jacks-lab.mit.edu/people/jacks", 
+        "cite_name": "", 
+        "title": "Tyler Jacks | Jacks Lab"
+    }, 
+    {
+        "content": "tyler jacks is one of the worlds foremost experts on mouse models of cancer ..... a howard hughes medical institute (hhmi) investigator. e-mail: tjacks@mit.edu...", 
+        "email_addr_list": [
+            "tjacks@mit.edu"
+        ], 
+        "cite_url": "dmm.biologists.org/content/3/11-12/672", 
+        "cite_name": "Disease Models  Mechanisms", 
+        "title": "an interview with Tyler Jacks - Disease Models  Mechanisms"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "steve joordens. steve joordens. professor. joordens@utsc.utoronto.ca  http://www.utsc.utoronto.ca/~joordens. research interests: consciousness, memory...", 
+        "email_list": [
+            "joordens@utsc.utoronto.ca"
+        ], 
+        "cite_url": "www.utsc.utoronto.ca/.../steve-joorde...", 
+        "cite_name": "University of Toronto Scarborough", 
+        "title": "Steve Joordens | Department of Psychology"
+    }
+]

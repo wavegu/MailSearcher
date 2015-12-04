@@ -1,2 +1,29 @@
-p.hugenholtz@uq.edu.au	[22]
-email at uq.edu.au	[1]
+[
+    {
+        "content": "phone: +61 7 336 53822. email: p.hugenholtz@uq.edu.au. website url: ... from a phd in 1994 at the university of queensland, phil hugenholtz developed a...", 
+        "email_addr_list": [
+            "p.hugenholtz@uq.edu.au"
+        ], 
+        "cite_url": "staff.scmb.uq.edu.au/staff/philip-hugenholtz", 
+        "cite_name": "University of Queensland", 
+        "title": "Professor Philip Hugenholtz | School of Chemistry ..."
+    }, 
+    {
+        "content": "philip hugenholtz. australian centre ... verified email at uq.edu.au - homepage  scholar ... tz desantis, p hugenholtz, n larsen, m rojas, el brodie, k keller, .", 
+        "email_addr_list": [
+            "email@uq.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=tQGgmM4AAAAJhl...", 
+        "cite_name": "Google", 
+        "title": "Philip Hugenholtz - Google Scholar Citations"
+    }, 
+    {
+        "content": "the following staff were returned: name: prof philip hugenholtz ( chemistry  molecular biosciences, sch of ) email: p.hugenholtz@uq.edu.au: ph: +61 7 334...", 
+        "email_addr_list": [
+            "p.hugenholtz@uq.edu.au"
+        ], 
+        "cite_url": "radarisaustralia.com/p/Philip/Hugenholtz/", 
+        "cite_name": "", 
+        "title": "Philip Hugenholtz - People Search"
+    }
+]

@@ -1,2 +1,20 @@
-k.schulten@web.de	[18]
-email at ks.uiuc.edu	[3]
+[
+    {
+        "content": "cancel. klaus schulten. professor of physics ... verified email at ks.uiuc.edu - homepage  scholar. get my own ... w humphrey, a dalke, k schulten. journal of...", 
+        "email_addr_list": [
+            "email@ks.uiuc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=k7vghtEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Klaus Schulten - Google Scholar Citations"
+    }, 
+    {
+        "content": "ks versicherungsmakler klaus schulten zum eistruper feld 10 49143 bissendorf. telefon: 05402/641159. telefax: 05402/641195. email: k.schulten@web.de...", 
+        "email_addr_list": [
+            "k.schulten@web.de"
+        ], 
+        "cite_url": "www.ks-vers-makler.de/", 
+        "cite_name": "", 
+        "title": "KS Versicherungsmakler Klaus Schulten"
+    }
+]

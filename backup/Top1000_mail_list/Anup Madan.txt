@@ -1,3 +1,11 @@
-amadan@u.washington.edu	[12]
-in.amadan@u.washington.edu	[12]
-register@xtalks.com	[1]
+[
+    {
+        "content": "see information and reports about amadan@u.washington.edu (anup madans e-mail) in our huge e-mail report database.", 
+        "email_addr_list": [
+            "amadan@u.washington.edu"
+        ], 
+        "cite_url": "spam-report.email/amadan/u.washington.edu", 
+        "cite_name": "", 
+        "title": "amadan@u.washington.edu (Anup Madans e-mail) - Spam ..."
+    }
+]

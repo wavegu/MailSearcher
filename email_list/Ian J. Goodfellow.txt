@@ -1,0 +1,29 @@
+[
+    {
+        "content": "mountain view, ca e-mail: goodfellow@google.com ... vincent dumoulin, ian j. goodfellow, aaron courville, yoshua bengio aaai 2014. multi-digit number...", 
+        "email_list": [
+            "goodfellow@google.com"
+        ], 
+        "cite_url": "www-etud.iro.umontreal.ca/~goodfeli/", 
+        "cite_name": "", 
+        "title": "Ian Goodfellow - Université de Montréal"
+    }, 
+    {
+        "content": "verified email at google.com - homepage  scholar. get my own ... f bastien, p lamblin, r pascanu, j bergstra, i goodfellow, a bergeron, ... arxiv preprint ... c szegedy, w zaremba, i sutskever, j bruna, d erhan, i goodfellow, ... arxiv preprint...", 
+        "email_list": [
+            "email@google.com"
+        ], 
+        "cite_url": "scholar.google.ca/citations?user=iYN86KEAAAAJ", 
+        "cite_name": "Google", 
+        "title": "Ian Goodfellow - Google Scholar Citations"
+    }, 
+    {
+        "content": "professor ian goodfellow ... email: ig299@cam.ac.uk ... j virol. 2012 aug 29. pubmed pmid: 22933270. thorne l, bailey d, goodfellow i. high-resolution...", 
+        "email_list": [
+            "ig299@cam.ac.uk"
+        ], 
+        "cite_url": "www.path.cam.ac.uk/directory/ian-goodfellow", 
+        "cite_name": "University of Cambridge", 
+        "title": "Professor Ian Goodfellow — Department of Pathology"
+    }
+]

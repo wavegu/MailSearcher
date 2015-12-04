@@ -1,0 +1,20 @@
+[
+    {
+        "content": "phone: 314-362-6629. email: shizhen.wang@cellbiology.wustl.edu. education. tsinghua university , beijing china. 2007 phd biochemistry and biophysics.", 
+        "email_list": [
+            "shizhen.wang@cellbiology.wustl.edu"
+        ], 
+        "cite_url": "www.nicholslab.wustl.edu/cv%20shizhen%20wang.html", 
+        "cite_name": "", 
+        "title": "Shizhen Wangs Research - Colin Nichols Lab!"
+    }, 
+    {
+        "content": "name: emily shizhen wang; email: emily.shizhen.wang@vanderbilt.edu; phone number: comment: personal preferences (details in macros). horizontal size...", 
+        "email_list": [
+            "emily.shizhen.wang@vanderbilt.edu"
+        ], 
+        "cite_url": "biostat.mc.vanderbilt.edu/wiki/Main/EmilyShizhenWang", 
+        "cite_name": "", 
+        "title": "EmilyShizhenWang  Main  Vanderbilt Biostatistics Wiki"
+    }
+]

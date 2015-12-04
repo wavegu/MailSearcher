@@ -1,4 +1,29 @@
-anna.dominiczak@glasgow.ac.uk	[29]
-m.j.caulfield@qmul.ac.uk	[3]
-reception@scotsman.com	[1]
-reception@scotsman.com.you	[1]
+[
+    {
+        "content": "professor anna dominiczak. mvls college office, wolfson medical school ... email: anna.dominiczak@glasgow.ac.uk. personal assistant: miss ann harold", 
+        "email_addr_list": [
+            "anna.dominiczak@glasgow.ac.uk"
+        ], 
+        "cite_url": "www.gla.ac.uk/researchinstitutes/.../annadominicza...", 
+        "cite_name": "University of Glasgow", 
+        "title": "Professor Anna Dominiczak - University of Glasgow"
+    }, 
+    {
+        "content": "university of glasgow wolfson medical school building university avenue glasgow g12 8qq united kingdom e-mail: anna.dominiczak@glasgow.ac.uk...", 
+        "email_addr_list": [
+            "anna.dominiczak@glasgow.ac.uk"
+        ], 
+        "cite_url": "www.eshonline.org/hypertension-research-grants/", 
+        "cite_name": "", 
+        "title": "Hypertension Research Grants | European Society of ..."
+    }, 
+    {
+        "content": "front row: patricia munroe, anna dominiczak, morris brown missing: john webster) ... e-mail: m.j.caulfield@qmul.ac.uk. publications. professor morris brown.", 
+        "email_addr_list": [
+            "m.j.caulfield@qmul.ac.uk"
+        ], 
+        "cite_url": "www.brightstudy.ac.uk/contacts/sop_coll_contacts.html", 
+        "cite_name": "", 
+        "title": "Investigators - MRC Bright Study"
+    }
+]

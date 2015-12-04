@@ -1,2 +1,11 @@
-dangl@email.unc.edu	[12]
-green959@umn.edu	[1]
+[
+    {
+        "content": "cities 450 mcnamara alumni center 200 oak street se minneapolis minnesota 55455-2070 green959@umn.edu nigms dangl jeffery l.", 
+        "email_addr_list": [
+            "green959@umn.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-dangl-email-unc-edu-3310990.h...www.google.com/email", 
+        "cite_name": "", 
+        "title": "dangl@email.unc.edu - The Email ArchiveGoogle Business Email‎"
+    }
+]

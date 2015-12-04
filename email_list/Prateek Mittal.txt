@@ -1,0 +1,38 @@
+[
+    {
+        "content": "prateek mittal. assistant professor department of electrical engineering ... for information technology policy princeton university email: pmittal@princeton.edu...", 
+        "email_list": [
+            "pmittal@princeton.edu"
+        ], 
+        "cite_url": "https://www.princeton.edu/~pmittal/", 
+        "cite_name": "Princeton University", 
+        "title": "Prateek Mittals Webpage - Princeton University"
+    }, 
+    {
+        "content": "email: pmittal@princeton.edu. webpage: mittal lab: ... prateek mittal, charalampos papamanthou, dawn song ... prateek mittal, matthew wright, nikita borisov", 
+        "email_list": [
+            "pmittal@princeton.edu"
+        ], 
+        "cite_url": "ee.princeton.edu/people/faculty/prateek-mittal", 
+        "cite_name": "Princeton University", 
+        "title": "Prateek Mittal | Electrical Engineering - Princeton University"
+    }, 
+    {
+        "content": "prateek mittal. princeton university ... verified email at princeton.edu - homepage  scholar ... s nagaraja, p mittal, cy hong, m caesar, n borisov. usenix...", 
+        "email_list": [
+            "email@princeton.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xTKD8J4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Prateek Mittal - Google Scholar Citations"
+    }, 
+    {
+        "content": "index of professional profiles: prateek mittal. this is a sample of the 44 contacts that meet these criteria at zoominfo.com. get more. m  mitchell, nora-eve...", 
+        "email_list": [
+            "criteria@zoominfo.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Prateek Mittal - Find Email Address, Phone Number  More."
+    }
+]

@@ -1,2 +1,11 @@
-garlan@cs.cmu.edu	[13]
-garlan@cs.cmu.edu.david	[13]
+[
+    {
+        "content": "david garlan is the director of the master of software engineering professional programs and a professor of computer science in ... email: garlan@cs.cmu.edu.", 
+        "email_addr_list": [
+            "garlan@cs.cmu.edu"
+        ], 
+        "cite_url": "mse.isri.cmu.edu/...", 
+        "cite_name": "Carnegie Mellon Institute for Software Research Inter...", 
+        "title": "David Garlan, PhD - Software Engineering Masters Programs"
+    }
+]

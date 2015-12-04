@@ -1,3 +1,12 @@
-mark.blaxter@ed.ac.uk	[9]
-mcewenj@mail.nih.gov	[2]
-boyerj@mail.nih.gov	[1]
+[
+    {
+        "content": "mark s guyer - national human genome research institute ... institute, bethesda, maryland 20892-4076; email: mcewenj@mail.nih.gov , boyerj@mail.nih.gov...", 
+        "email_addr_list": [
+            "mcewenj@mail.nih.gov", 
+            "boyerj@mail.nih.gov"
+        ], 
+        "cite_url": "www.pubfacts.com/author/Mark+S+Guyer", 
+        "cite_name": "", 
+        "title": "Publications Authored by Mark S Guyer - PubFacts"
+    }
+]

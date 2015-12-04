@@ -1,3 +1,29 @@
-spiegelman@dfci.harvard.edu	[22]
-christoph.handschin@unibas.ch	[2]
-kazak@dfci.harvard.edu	[1]
+[
+    {
+        "content": "fax: 617-632-4655. email: bruce_spiegelman@dfci.harvard.edu. website: ... bruce spiegelman came to harvard medical school and the dana-farber cancer...", 
+        "email_addr_list": [
+            "bruce_spiegelman@dfci.harvard.edu"
+        ], 
+        "cite_url": "cellbio.med.harvard.edu/people/faculty/spiegelman", 
+        "cite_name": "Harvard University", 
+        "title": "Bruce Spiegelman | Department of CELL BIOLOGY"
+    }, 
+    {
+        "content": "bruce m. spiegelman, phd, find a cancer doctor with dana farbers physician directory. read how to ... email: bruce_spiegelman@dfci.harvard.edu. preferred...", 
+        "email_addr_list": [
+            "bruce_spiegelman@dfci.harvard.edu"
+        ], 
+        "cite_url": "researchers.dana-farber.org/.../profile.asp?...", 
+        "cite_name": "Dana–Farber Cancer Institute", 
+        "title": "Bruce M. Spiegelman, PhD - Find a Researcher - Dana ..."
+    }, 
+    {
+        "content": "email. christoph.handschin@unibas.ch. phone. +41 61 267 23 78. fax ... bruce m. spiegelman at the dana-farber cancer institute and harvard medical school...", 
+        "email_addr_list": [
+            "christoph.handschin@unibas.ch"
+        ], 
+        "cite_url": "www.biozentrum.unibas.ch/nc/.../handschin/?tx...", 
+        "cite_name": "University of Basel", 
+        "title": "Biozentrum: Research group Christoph Handschin"
+    }
+]

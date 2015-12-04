@@ -1,5 +1,11 @@
-hpseidel@mpi-inf.mpg.prof	[15]
-hpseidel@mpi-inf.mpg	[15]
-hpseidel at mpi-inf.mpg.de	[15]
-hpseidel@mpi-sb.mpg.de.hans	[15]
-hpseidel@mpi-sb.mpg.de	[15]
+[
+    {
+        "content": "hans-peter seidel is the scientific director and chair of the computer graphics group at the max-planck-institut informatik and ... email: hpseidel@mpi-sb.mpg.de.", 
+        "email_addr_list": [
+            "hpseidel@mpi-sb.mpg.de"
+        ], 
+        "cite_url": "www.mpi-inf.mpg.de/~hpseidel/english.html", 
+        "cite_name": "Max Planck Society", 
+        "title": "Prof. Dr. Hans-Peter Seidel"
+    }
+]

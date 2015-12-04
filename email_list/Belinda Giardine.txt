@@ -1,0 +1,20 @@
+[
+    {
+        "content": "belinda giardine. main content. programmer/analyst, staff (hardison). 304 wartik lab university park, pa 16802. email: bmg137@psu.edu. phone: (814) 863-...", 
+        "email_list": [
+            "bmg137@psu.edu"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Belinda Giardine — Penn State University Biochemistry and ..."
+    }, 
+    {
+        "content": "create alert. cancel. belinda giardine ... verified email at bx.psu.edu. scholar ... b giardine, c riemer, rc hardison, r burhans, l elnitski, p shah, ... genome...", 
+        "email_list": [
+            "email@bx.psu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Fam4CCYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Belinda Giardine - Google Scholar Citations"
+    }
+]

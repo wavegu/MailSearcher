@@ -1,5 +1,47 @@
-josef.penninger at imba.oeaw.ac.at	[30]
-josef.penninger@imba.oeaw.ac.at	[29]
-penninger@imba.oeaw.ac.at	[19]
-m.zhao@abdn.ac.uk	[5]
-jpenning@amgen.com	[3]
+[
+    {
+        "content": "e-mail:josef.penninger@imba.oeaw.ac.at. date and place of birth september 5 .... (2004) identification of the important role of stress kinase mkk7 in g2/m cell-.", 
+        "email_addr_list": [
+            "josef.penninger@imba.oeaw.ac.at"
+        ], 
+        "cite_url": "www.imba.oeaw.ac.at/.../CV_Penni...", 
+        "cite_name": "Institute of Molecular Biotechnology", 
+        "title": "[PDF]CURRICULUM VITAE Josef Martin Penninger Office ..."
+    }, 
+    {
+        "content": "e-mail: josef.penninger@imba.oeaw.ac.at www.imba.oeaw.ac.at. geschäftsführer: prof. dr. josef penninger, dipl. ing. dr. gerhard schadler, dkfm. michael...", 
+        "email_addr_list": [
+            "josef.penninger@imba.oeaw.ac.at"
+        ], 
+        "cite_url": "www.biochem2.com/pdf/.../Penninger/Penninger.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]LEBENSLAUF Dr. Josef Martin Penninger"
+    }, 
+    {
+        "content": "andreas leibbrandt and josef m. penninger abstract steoporosis or rheumatoid arthritis ... email: josef penninger@imba.oeaw.ac.at molecular mechanisms of...", 
+        "email_addr_list": [
+            "penninger@imba.oeaw.ac.at"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=1441902988", 
+        "cite_name": "", 
+        "title": "Molecular Mechanisms of Spondyloarthropathies"
+    }, 
+    {
+        "content": "correspondence to: josef m. penninger correspondence and requests for materials should be addressed to j.m.p. (e-mail: email: jpenning@amgen.com).", 
+        "email_addr_list": [
+            "jpenning@amgen.com"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Article", 
+        "cite_name": "Nature", 
+        "title": "OPGL is a key regulator of osteoclastogenesis, lymphocyte ..."
+    }, 
+    {
+        "content": "correspondence to: min zhaojosef m. penninger correspondence and requests for materials should be addressed to m.z. (email: m.zhao@abdn.ac.uk) or...", 
+        "email_addr_list": [
+            "m.zhao@abdn.ac.uk"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letterwww.google.com/email", 
+        "cite_name": "Nature", 
+        "title": "Electrical signals control wound healing through ... - NatureGoogle Business Email‎"
+    }
+]

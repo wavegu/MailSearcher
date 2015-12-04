@@ -1,0 +1,20 @@
+[
+    {
+        "content": "patrick j. wolfe. professor of statistics, university ... verified email at stat.harvard.edu - homepage  scholar ... pj wolfe, sj godsill, wj ng. journal of the royal...", 
+        "email_list": [
+            "email@stat.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=L1mDHvsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Patrick J. Wolfe - Google Scholar Citations"
+    }, 
+    {
+        "content": "patrick j. wolfe is professor of statistics and honorary professor of computer science at ... professor wolfe currently serves as executive director of the ucl big data institute. ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/patrick_j_wolfe/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Patrick J. Wolfe - VideoLectures.NET"
+    }
+]

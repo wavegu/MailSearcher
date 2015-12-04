@@ -1,0 +1,49 @@
+[
+    {
+        "content": "mail, gregor.broll@ifi.lmu.de. telefon, 089/56824-236. fax, 089/56824-300. adresse, gregor broll docomo communications laboratories europe gmbh", 
+        "email_list": [
+            "gregor.broll@ifi.lmu.de"
+        ], 
+        "cite_url": "www.medien.ifi.lmu.de/team/gregor.broll/", 
+        "cite_name": "", 
+        "title": "Gregor Broll - Medieninformatik"
+    }, 
+    {
+        "content": "gregor broll. researcher at docomo ... verified email at ifi.lmu.de - homepage  scholar ... g broll, e rukzio, m paolucci, m wagner, a schmidt, h hussmann.", 
+        "email_list": [
+            "email@ifi.lmu.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FdS6GgIAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Gregor Broll - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 11, 2008 - from : gregor broll gregor.broll@ifi.lmu.de .... +49-89-2180-4655 fax: +49-89-2180-4652 email: gregor.broll@ifi.lmu.de skype: gregor broll...", 
+        "email_list": [
+            "gregor.broll@ifi.lmu.de", 
+            "gregor.broll@ifi.lmu.de"
+        ], 
+        "cite_url": "https://lists.w3.org/Archives/.../0026.html", 
+        "cite_name": "World Wide Web Consortium", 
+        "title": "CFP - MIRW 2008 Workshop @ MobileHCI 2008 from ..."
+    }, 
+    {
+        "content": "jan 16, 2008 - from : gregor broll gregor.broll@ifi.lmu.de .... +49-89-2180-4655 fax: +49-89-2180-4652 email: gregor.broll@ifi.lmu.de skype: gregor broll...", 
+        "email_list": [
+            "gregor.broll@ifi.lmu.de", 
+            "gregor.broll@ifi.lmu.de"
+        ], 
+        "cite_url": "https://lists.w3.org/Archives/.../0020.html", 
+        "cite_name": "World Wide Web Consortium", 
+        "title": "2nd CFP - Permid 2008 workshop @ Pervasive 2008 from ..."
+    }, 
+    {
+        "content": "(22); gregor broll  broll@docomolab-euro.com (21). author affiliations. 21. docomo euro-labs, landsberger str. 312, 80687, munich, germany; 22.", 
+        "email_list": [
+            "broll@docomolab-euro.com"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2F978-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "A Revised Mobile KLM for Interaction with Multiple NFC-Tags"
+    }
+]

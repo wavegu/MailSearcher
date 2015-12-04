@@ -1,0 +1,29 @@
+[
+    {
+        "content": "you are here: jsc  about us  staff; prof. dr. armin seyfried ... contact. phone: +49 2461 61-3437 email: a.seyfried@fz-juelich.de...", 
+        "email_list": [
+            "a.seyfried@fz-juelich.de"
+        ], 
+        "cite_url": "www.fz-juelich.de/.../IAS/JSC/.../seyfried_a.htm...", 
+        "cite_name": "Forschungszentrum Jülich", 
+        "title": "Prof. Dr. Armin Seyfried - Forschungszentrum Jülich"
+    }, 
+    {
+        "content": "name, contact. prof. dr. armin seyfried, seyfried, prof. dr. armin, phone: +49 2461 61-3437. phone buw: +49 202 439-4058. email: a.seyfried@fz-juelich.de...", 
+        "email_list": [
+            "a.seyfried@fz-juelich.de"
+        ], 
+        "cite_url": "www.fz-juelich.de/ias/jsc/EN/.../_node.html", 
+        "cite_name": "Forschungszentrum Jülich", 
+        "title": "Division members - Forschungszentrum Jülich"
+    }, 
+    {
+        "content": "mar 2, 2015 - professor armin seyfried and dr. maik boltes visit its monash ... please email me at meead.saberi@monash.edu for comments or questions.", 
+        "email_list": [
+            "me@meead.saberi"
+        ], 
+        "cite_url": "transportazine.blogspot.com/.../professor-armin-seyfried-and-dr-maik.ht...", 
+        "cite_name": "", 
+        "title": "Transportazine: Professor Armin Seyfried and Dr. Maik ..."
+    }
+]

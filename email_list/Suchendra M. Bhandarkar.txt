@@ -1,0 +1,38 @@
+[
+    {
+        "content": "suchendra (suchi) m. bhandarkar professor department of computer science university of georgia 415 graduate studies ... email: suchi@cs.uga.edu...", 
+        "email_list": [
+            "suchi@cs.uga.edu"
+        ], 
+        "cite_url": "cobweb.cs.uga.edu/~suchi/", 
+        "cite_name": "", 
+        "title": "Home Page for Suchi Bhandarkar"
+    }, 
+    {
+        "content": "suchendra m. bhandarkar graduate ... email: suchi@cs.uga.edu. phone: (706) 542-1082 ... mail: 415 gsrc, computer science, uga, athens ga, 30602-7404", 
+        "email_list": [
+            "suchi@cs.uga.edu"
+        ], 
+        "cite_url": "cobweb.cs.uga.edu/people/faculty/bhandar.htm", 
+        "cite_name": "", 
+        "title": "Faculty | Suchendra Bhandarkar - Computer Science"
+    }, 
+    {
+        "content": "suchendra bhandarkar. professor of computer ... verified email at cs.uga.edu - homepage  scholar ... sm bhandarkar, td faust, m tang. machine vision and...", 
+        "email_list": [
+            "email@cs.uga.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WjrtwJgAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Suchendra Bhandarkar - Google Scholar Citations"
+    }, 
+    {
+        "content": "suchendra m. bhandarkar (a1); timothy d. faust (a2); mengjin tang (a2) ... of georgia, athens, ga 30602–7404, usa; e-mail: suchi@cs.uga.edu, us; a2.", 
+        "email_list": [
+            "suchi@cs.uga.edu"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs001...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "CATALOG: a system for detection and rendering of internal ..."
+    }
+]

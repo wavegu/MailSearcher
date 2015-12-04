@@ -1,0 +1,20 @@
+[
+    {
+        "content": "create alert. cancel. allan l fisher ... verified email at cs.cmu.edu - homepage  scholar. get my own ... a fisher, j margolis, f miller. acm sigcse bulletin 29...", 
+        "email_list": [
+            "email@cs.cmu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=V5-wYX0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Allan L Fisher - Google Scholar Citations"
+    }, 
+    {
+        "content": "find allan l fishers phone number and address in zabasearchs free white pages ... please call me at 562-824-5783, or email at santiago at iwon.com thanks...", 
+        "email_list": [
+            "santiago@iwon.com"
+        ], 
+        "cite_url": "www.zabasearch.com/people/allan+l+fisher/pittsburgh+pa/", 
+        "cite_name": "Zabasearch.com", 
+        "title": "Allan L Fisher Phone and Address | Zabasearch.com Free ..."
+    }
+]

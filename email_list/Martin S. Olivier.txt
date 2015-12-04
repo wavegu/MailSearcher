@@ -1,0 +1,47 @@
+[
+    {
+        "content": "martin s olivier. professor of computer ... verified email at cs.up.ac.za - homepage  scholar. get my own ... t morkel, ms olivier, jhp eloff. proceedings of the...", 
+        "email_list": [
+            "email@cs.up.ac.za"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=E2gEw2wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Martin S Olivier - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail address: molivier@cs.up.ac.za. research group(s): icsa ... martin olivier is a professor at the department of computer science in the school of...", 
+        "email_list": [
+            "molivier@cs.up.ac.za"
+        ], 
+        "cite_url": "www.cs.up.ac.za/users/view/molivier", 
+        "cite_name": "University of Pretoria", 
+        "title": "Prof Martin Olivier - Department of Computer Science"
+    }, 
+    {
+        "content": "verified email at epfl.ch - homepage  scholar ... p mühlschlegel, hj eisler, ojf martin, b hecht, dw pohl ... jp kottmann, ojf martin, dr smith, s schultz.", 
+        "email_list": [
+            "email@epfl.ch"
+        ], 
+        "cite_url": "scholar.google.ch/citations?user=DvViydIAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Olivier J.F. Martin - Google Scholar Citations"
+    }, 
+    {
+        "content": "montreal, quebec h3a 2b4. contact information office phone (514) 398-5592. lab phone fax (514) 398-7052. email martin.olivier@mcgill.ca. publications:", 
+        "email_list": [
+            "martin.olivier@mcgill.ca"
+        ], 
+        "cite_url": "https://www.mcgill.ca/hostres/investigators/olivier", 
+        "cite_name": "McGill University", 
+        "title": "Martin Olivier | Host Resistance - McGill University"
+    }, 
+    {
+        "content": "professor martin oliver. phd educational technology; head of ... staff profile. tel: +44 (0)20 7907 4635; fax: +44 (0)20 7763 2138; email: m.oliver@ioe.ac.uk...", 
+        "email_list": [
+            "m.oliver@ioe.ac.uk"
+        ], 
+        "cite_url": "https://www.ioe.ac.uk/staff/LKLB_39.html", 
+        "cite_name": "UCL Institute of Education", 
+        "title": "Martin Oliver - UCL Institute of Education, University College ..."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "affiliation, database systems laboratory. title, professor. e-mail, bhalla@u-aizu.ac.jpp. web site (jpn), h​t​t​p​:​/​/​w​e​b​-​e​x​t​.​u​-​a​i​z​u​.", 
+        "email_list": [
+            "bhalla@u-aizu.ac.jpp"
+        ], 
+        "cite_url": "www.u-aizu.ac.jp/e-intro/e-faculty/e.../e-bhalla.html", 
+        "cite_name": "University of Aizu", 
+        "title": "Subhash Bhalla - University of Aizu"
+    }, 
+    {
+        "content": "create alert. cancel. subhash bhalla ... verified email at u-aizu.ac.jp. scholar. get my own ... s rajam, r cortez, a vazhenin, s bhalla. web intelligence and...", 
+        "email_list": [
+            "email@u-aizu.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dVmQNTsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Subhash Bhalla - Google Scholar Citations"
+    }, 
+    {
+        "content": "dec 1, 2009 - subhash bhalla  (correspd. tel.: +81 242 37 2539; fax: +81 242 37 2753; e-mail: bhalla@u-aizu.ac.jp) database systems laboratory,...", 
+        "email_list": [
+            "bhalla@u-aizu.ac.jp"
+        ], 
+        "cite_url": "dl.acm.org/citation.cfm?id=1839625", 
+        "cite_name": "Association for Computing Machinery", 
+        "title": "Performance considerations of embedded computations in ..."
+    }
+]

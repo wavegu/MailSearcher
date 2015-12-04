@@ -1,1 +1,11 @@
-heckerma@microsoft.com	[2]
+[
+    {
+        "content": "david. heckerman1. (1) microsoft research, bldg9s, redmond, wa, 980526399, usa david heckerman email: heckerma@microsoft.com abstract a bayesian...", 
+        "email_addr_list": [
+            "heckerma@microsoft.com"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=9401150141", 
+        "cite_name": "", 
+        "title": "Learning in Graphical Models - Google Books Result"
+    }
+]

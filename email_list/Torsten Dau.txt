@@ -1,0 +1,47 @@
+[
+    {
+        "content": "e-mail, tdau@elektro.dtu.dk ... torsten dau is researching in hearing technology, and he is dealing with different technical solutions in this area, such as hearing...", 
+        "email_list": [
+            "tdau@elektro.dtu.dk"
+        ], 
+        "cite_url": "www.dtu.dk/english/Service/.../Person?i...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "Torsten Dau - DTU"
+    }, 
+    {
+        "content": "e-mail, tdau@elektro.dtu.dk ... torsten dau forsker i høreteknologi, og beskæftiger sig med forskellige tekniske løsninger inden for dette område, som for...", 
+        "email_list": [
+            "tdau@elektro.dtu.dk"
+        ], 
+        "cite_url": "www.dtu.dk/Service/.../Person?id=1446...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "Torsten Dau - DTU - Danmarks Tekniske Universitet"
+    }, 
+    {
+        "content": "2800 kgs. lyngby. denmark ???emails???: tdau@elektro.dtu.dk. phone: 45253977. fax: 45880577. torsten dau is researching in hearing technology, and he...", 
+        "email_list": [
+            "tdau@elektro.dtu.dk"
+        ], 
+        "cite_url": "orbit.dtu.dk/.../torsten-dau(0940a14b-3...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "Torsten Dau - DTU Orbit"
+    }, 
+    {
+        "content": "create alert. cancel. torsten dau. professor. hearing, speech, neuroscience. verified email at elektro.dtu.dk ... t dau, b kollmeier, a kohlrausch. the journal of...", 
+        "email_list": [
+            "email@elektro.dtu.dk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lhg_jsoAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Torsten Dau - Google Scholar Citations"
+    }, 
+    {
+        "content": "mar 31, 1998 - name: torsten dau ... telephone: +49 441 - 798 3344; fax: +49 441 - 798 3698; email: torsten@medi.physik.uni-oldenburg.de. projects: a...", 
+        "email_list": [
+            "torsten@medi.physik.uni-oldenburg.de"
+        ], 
+        "cite_url": "medi.uni-oldenburg.de/.../torsten/home.html", 
+        "cite_name": "University of Oldenburg", 
+        "title": "Torsten Daus Homepage"
+    }
+]

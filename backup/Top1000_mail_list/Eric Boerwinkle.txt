@@ -1,3 +1,48 @@
-eric.boerwinkle@uth.tmc.edu	[29]
-eboerwin@bcm.edu	[3]
-andrew.s.rodin@uth.tmc.edu	[2]
+[
+    {
+        "content": "dr. eric a. boerwinkle. dr. eric a. boerwinkle. regular member ... email: eric.boerwinkle@uth.tmc.edu. office: ras e-447. titles: professor. education:.", 
+        "email_addr_list": [
+            "eric.boerwinkle@uth.tmc.edu"
+        ], 
+        "cite_url": "https://gsbs.uth.edu/faculty/faculty-directory/faculty-profiles.htm?id...", 
+        "cite_name": "", 
+        "title": "Dr. Eric Boerwinkle - Faculty Directory - The Graduate ..."
+    }, 
+    {
+        "content": "eric boerwinkle. contact information. eric boerwinkle, view ... human genetics center, ras e447, houston, tx. email eric.boerwinkle@uth.tmc.edu  web link...", 
+        "email_addr_list": [
+            "eric.boerwinkle@uth.tmc.edu"
+        ], 
+        "cite_url": "profiles.gulfcoastconsortia.org/profilesystem/editprofile.php?pid=878", 
+        "cite_name": "", 
+        "title": "Boerwinkle, Eric (Faculty Profile)"
+    }, 
+    {
+        "content": "eric boerwinkle, ph.d. people  eric boerwinkle, ph.d. nav. « back to people search. share. email. eboerwin@bcm.edu. is this you?log in to edit your profile.", 
+        "email_addr_list": [
+            "eboerwin@bcm.edu"
+        ], 
+        "cite_url": "https://www.bcm.edu/.../b1766483-ffed-11e2...", 
+        "cite_name": "Baylor College of Medicine", 
+        "title": "Eric Boerwinkle, Ph.D. - People - Baylor College of Medicine"
+    }, 
+    {
+        "content": "eric boerwinkle, phd. site pi; co-pi email: eric.boerwinkle@uth.tmc.edu. phone: (713) 500-9816 ... email: andrew.s.rodin@uth.tmc.edu. phone: (713) 500-9826...", 
+        "email_addr_list": [
+            "eric.boerwinkle@uth.tmc.edu", 
+            "andrew.s.rodin@uth.tmc.edu"
+        ], 
+        "cite_url": "pear.cop.ufl.edu/texasTeam.php", 
+        "cite_name": "", 
+        "title": "PEAR » University of Texas at Houston Team"
+    }, 
+    {
+        "content": "e-mail: eric.boerwinkle@uth.tmc.edu. academic appointment: research professor, texas heart institute; professor, center and division director, human...", 
+        "email_addr_list": [
+            "eric.boerwinkle@uth.tmc.edu"
+        ], 
+        "cite_url": "www.texasheart.org/AboutUs/.../adult_1.cfmwww.google.com/email", 
+        "cite_name": "The Texas Heart Institute", 
+        "title": "Adult Cardiology (AF) - Texas Heart InstituteGoogle Business Email - Custom email for your company‎Searches related to Eric Boerwinkle email"
+    }
+]

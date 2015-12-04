@@ -1,4 +1,38 @@
-walt.deheer@physics.gateh.edu	[22]
-deheer@electra.physics.gatech.edu	[13]
-email at physics.gatech.edu	[4]
-luc.hostens@vdab.be	[2]
+[
+    {
+        "content": "email: deheer [at] physics.gatech.edu ... [archive]; epitaxial graphene, walt a. de heer, claire berger, xiaosong wu, phillip n. first, edward h. conrad,...", 
+        "email_addr_list": [
+            "deheer@physics.gatech.edu"
+        ], 
+        "cite_url": "https://www.physics.gatech.edu/.../walter...", 
+        "cite_name": "Georgia Institute of Technology", 
+        "title": "Walter de Heer - School of Physics - Georgia Institute of ..."
+    }, 
+    {
+        "content": "walt a de heer. professor of physics ... verified email at physics.gatech.edu - homepage  scholar ... rh baughman, aa zakhidov, wa de heer. science 297...", 
+        "email_addr_list": [
+            "email@physics.gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=klW4cOMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Walt A de Heer - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: walt.deheer@physics.gateh.edu. abstract: since its inception in 2001, the science and technology of epitaxial graphene on hexagonal silicon carbide has...", 
+        "email_addr_list": [
+            "walt.deheer@physics.gateh.edu"
+        ], 
+        "cite_url": "arxiv.org/pdf/1003.4776", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]Epitaxial Graphene Electronic Structure And Transport"
+    }, 
+    {
+        "content": "de heer jef roos; leden die werkgevers vertegenwoordigen mevrouw sonja teughels (voka) ... de heer walter cnop (acv) de heer peter van der ... e-mail: luc.hostens@vdab.be; hilde baerten, directeur arbeidsmarktbeheer limburg e-mail:...", 
+        "email_addr_list": [
+            "luc.hostens@vdab.be"
+        ], 
+        "cite_url": "https://www.vdab.be/vdab/beheer.shtml", 
+        "cite_name": "", 
+        "title": "VDAB: bestuur en structuur | VDAB"
+    }
+]

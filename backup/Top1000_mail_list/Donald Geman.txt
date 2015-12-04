@@ -1,4 +1,20 @@
-geman@jhu.edudonald	[11]
-geman@jhu.edu	[11]
-geman@jhu.donald	[11]
-email at jhu.edu	[2]
+[
+    {
+        "content": "donald genam, professor of mathematics, illustration of profile with glowing brain and sight lines ... donald geman, photo ... email: geman@jhu.edu", 
+        "email_addr_list": [
+            "geman@jhu.edu"
+        ], 
+        "cite_url": "www.cis.jhu.edu/faculty/cvs/geman/", 
+        "cite_name": "Johns Hopkins University", 
+        "title": "Donald Gemans Homepage - The Center for Imaging Science"
+    }, 
+    {
+        "content": "donald geman. johns hopkins ... imaging science. verified email at jhu.edu - homepage ... ac tan, dq naiman, l xu, rl winslow, d geman. bioinformatics...", 
+        "email_addr_list": [
+            "email@jhu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=4nuc3woAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Donald Geman - Google Scholar Citations"
+    }
+]

@@ -1,5 +1,29 @@
-joel.hirschhorn@childrens.harvard.edu	[30]
-joelh@broadinstitute.org	[10]
-m.jarvelin@imperial.ac.uk	[3]
-journals.permissions@oup.com	[3]
-guillaume.lettre@umontreal.ca	[1]
+[
+    {
+        "content": "joel hirschhorn ... email: joelh@broadinstitute.org ... sabeti pc, patterson n, vanderploeg t, schaffner sf, drake ja, rhodes m, reich de, hirschhorn jn.", 
+        "email_addr_list": [
+            "joelh@broadinstitute.org"
+        ], 
+        "cite_url": "www.hms.harvard.edu/dms/bbs/.../hirschhorn.ph...", 
+        "cite_name": "Harvard Medical School", 
+        "title": "Joel Hirschhorn - Harvard BBS PhD Program"
+    }, 
+    {
+        "content": "joel n. hirschhorn  mark j. daly about the authors. top of page ... correspondence to: joel n. hirschhorn email: joel.hirschhorn@childrens.harvard.edu.", 
+        "email_addr_list": [
+            "joel.hirschhorn@childrens.harvard.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Genome-wide association studies for common diseases and ..."
+    }, 
+    {
+        "content": "... hospital and at the broad institute in the laboratory of dr. joel n. hirschhorn. ... informations. phone. 514-376-3330. email. guillaume.lettre@umontreal.ca...", 
+        "email_addr_list": [
+            "guillaume.lettre@umontreal.ca"
+        ], 
+        "cite_url": "https://www.icm-mhi.org/en/contact-us/employees/483-guillaume-lettrewww.google.com/email", 
+        "cite_name": "", 
+        "title": "Dr Guillaume Lettre | Montreal Heart InstituteGoogle Business Email - Custom email for your company‎"
+    }
+]

@@ -1,6 +1,47 @@
-shanhui.fan@stanford.edu.shanhui	[21]
-shanhui.fan@stanford.edu	[21]
-shanhui@stanford.edu	[15]
-email at stanford.edu	[3]
-gveronis@lsu.edu	[2]
-pperron@stanford.edu	[1]
+[
+    {
+        "content": "shanhui fan ... phone: (650) 723-4027; email: pperron@stanford.edu. mailing address: department of applied physics 348 via pueblo mall stanford university...", 
+        "email_addr_list": [
+            "pperron@stanford.edu"
+        ], 
+        "cite_url": "https://web.stanford.edu/dept/app.../fan-shanhui/", 
+        "cite_name": "Stanford University", 
+        "title": "Shanhui Fan - Stanford University"
+    }, 
+    {
+        "content": "the fan group is exploring the use of dynamic photonic structures for the storage of light for data buffering applications and ... email: shanhui.fan@stanford.edu.", 
+        "email_addr_list": [
+            "shanhui.fan@stanford.edu"
+        ], 
+        "cite_url": "https://photonics.stanford.edu/faculty/fan", 
+        "cite_name": "", 
+        "title": "Shanhui Fan | Stanford Photonics Research Center"
+    }, 
+    {
+        "content": "cancel. shanhui fan ... verified email at stanford.edu - homepage  scholar ... sg johnson, s fan, pr villeneuve, jd joannopoulos, la kolodziejski. physical...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BECu7wYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Shanhui Fan - Google Scholar Citations"
+    }, 
+    {
+        "content": "... louisiana state university, baton rouge, la 70806, usa email: gveronis@lsu.edu shanhui fan department of electrical engineering, stanford university,...", 
+        "email_addr_list": [
+            "gveronis@lsu.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=9814241326", 
+        "cite_name": "", 
+        "title": "Plasmonic Nanoguides and Circuits - Page 159 - Google Books Result"
+    }, 
+    {
+        "content": "shanhui fan. primary advisor email address. this person should not be a student. shanhui.fan@stanford.edu. which of the following is a department affiliation...", 
+        "email_addr_list": [
+            "shanhui.fan@stanford.edu"
+        ], 
+        "cite_url": "https://orgsync.com/45089/chapterwww.google.com/email", 
+        "cite_name": "OrgSync", 
+        "title": "The Stanford Optical Society - OrgSyncGoogle Business Email - Custom email for your company‎"
+    }
+]

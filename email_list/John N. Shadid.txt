@@ -1,0 +1,20 @@
+[
+    {
+        "content": "john n. shadid computational mathematics email: jnshadi@sandia.gov. phone: 505/845-7876. fax: 505/845-7442. mailing address: sandia national...", 
+        "email_list": [
+            "jnshadi@sandia.gov"
+        ], 
+        "cite_url": "https://cfwebprod.sandia.gov/cfdocs/CompResearch/.../profile.cfm?snl...", 
+        "cite_name": "", 
+        "title": "John N. Shadid - Sandia National Laboratories Computing ..."
+    }, 
+    {
+        "content": "create alert. cancel. john shadid ... verified email at sandia.gov - homepage  scholar ... rs tuminaro, m heroux, sa hutchinson, jn shadid. 226, 1999.", 
+        "email_list": [
+            "email@sandia.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=BA4c1EgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John Shadid - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "content": "duan wenyang. tel: 0086 451 82519900. e-mail:duanwenyang@hrbeu.edu.cn. research fields: fluid mechanics, .... lin zhuang. tel: 0086 451 82589204.", 
+        "email_list": [
+            "duanwenyang@hrbeu.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Harbin Engineering University", 
+        "title": "1 - Harbin Engineering University"
+    }, 
+    {
+        "content": "cancel. ei-wen yang. unknown affiliation. verified email at ucr.edu. scholar ... yc lee, nw hsiao, ts tseng, wc chen, hh lin, sj leu, ew yang, ... molecular...", 
+        "email_list": [
+            "email@ucr.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=DlhoLJQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ei-Wen Yang - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at whu.edu.cn - homepage  scholar. get my own ... g butland, jm peregrín-alvarez, j li, w yang, x yang, v canadien, ... nature 433 (7025)...", 
+        "email_list": [
+            "email@whu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-aVL-UQAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Wen Yang - Google Scholar Citations"
+    }, 
+    {
+        "content": "cancel. yang wen (terry). phd of mathematics, university of british columbia  toda system, elliptic pde. verified email at math.ubc.ca ... cs lin, j wei, w yang.", 
+        "email_list": [
+            "email@math.ubc.ca"
+        ], 
+        "cite_url": "scholar.google.com.sg/citations?user=tu8Siu8AAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "yang wen (Terry) - Google Scholar Citations"
+    }, 
+    {
+        "content": "email or phone, password. keep me logged in ... please advice me. below are my details: email: wenyang_91@hotmail.com login:wlin1. thanks wenyang.", 
+        "email_list": [
+            "wenyang_91@hotmail.com"
+        ], 
+        "cite_url": "https://en-gb.facebook.com/ucasonline/posts/635026529863797", 
+        "cite_name": "", 
+        "title": "Lin Wenyang - Hello, I have been getting an error message..."
+    }, 
+    {
+        "content": "email, steven_wyzhang@hotmail.com. profile. prof. dr.ing. wenyang zhang mainly engaged in recycling technology of solid waste. ... [5]lin li, zhang wenyang, qin wenjuan, chinas mixed garbage composting status quo with the...", 
+        "email_list": [
+            "steven_wyzhang@hotmail.com"
+        ], 
+        "cite_url": "gsee.swjtu.edu.cn/EN/TeacherInfo-260-371-0.shtml", 
+        "cite_name": "", 
+        "title": "ZHANG Wenyang - Faculty of Geosciences and ..."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "see-kiong ng, ph.d. phone: (+65) 6408-2118 fax: (+65) 6776-1378 e-mail: skng@i2r.a-star.edu.sg. permanent/personal email: skng@cs.cmu.edu. disclaimer: i...", 
+        "email_list": [
+            "skng@i2r.a-star.edu.sg", 
+            "skng@cs.cmu.edu"
+        ], 
+        "cite_url": "datam.i2r.a-star.edu.sg/.../...", 
+        "cite_name": "Agency for Science, Technology and Research", 
+        "title": "See-Kiong Ng"
+    }, 
+    {
+        "content": "see-kiong ng. institute for infocomm ... verified email at i2r.a-star.edu.sg - homepage  scholar. get my own ... x li, m wu, ck kwoh, sk ng. bmc genomics 11...", 
+        "email_list": [
+            "email@i2r.a-star.edu.sg"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_wsommYAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "See-Kiong Ng - Google Scholar Citations"
+    }, 
+    {
+        "content": "see-kiong ng. knowledge discovery department, institute for infocomm research,. heng mui keng terrace, 119613, singapore. email: skng@i2r.a-star.edu.sg.", 
+        "email_list": [
+            "skng@i2r.a-star.edu.sg"
+        ], 
+        "cite_url": "ai.stanford.edu/~csfoo/papers/DECAFF.pdf", 
+        "cite_name": "Stanford AI Lab", 
+        "title": "[PDF]DISCOVERING PROTEIN COMPLEXES IN - Stanford AI Lab"
+    }
+]

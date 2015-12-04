@@ -1,2 +1,38 @@
-nancyjenkins@house.mi.gov	[26]
-nancyjenkins@house.mi.gov.about	[26]
+[
+    {
+        "content": "n-991 house office building p.o. box 30014. lansing, mi 48909. phone: (517) 373-1706. toll free: (855) 292-0002. email: nancyjenkins@house.mi.gov...", 
+        "email_addr_list": [
+            "nancyjenkins@house.mi.gov"
+        ], 
+        "cite_url": "gophouse.org/representatives/southeast/jenkins/contactjenkins/", 
+        "cite_name": "", 
+        "title": "Contact Rep. Jenkins - Michigan House Republicans"
+    }, 
+    {
+        "content": "nancy jenkins was first elected in november 2010 to the michigan house to represent the 57th district. the 57th district ... email: nancyjenkins@house.mi.gov...", 
+        "email_addr_list": [
+            "nancyjenkins@house.mi.gov"
+        ], 
+        "cite_url": "gophouse.org/representatives/southeast/jenkins/", 
+        "cite_name": "", 
+        "title": "Nancy Jenkins, District 57 - Michigan House Republicans"
+    }, 
+    {
+        "content": "jenkins. caucus: republican. description: an intern would be expected to provide assistance to representative ... or via email to: nancyjenkins@house.mi.gov.", 
+        "email_addr_list": [
+            "nancyjenkins@house.mi.gov"
+        ], 
+        "cite_url": "house.michigan.gov/.../job_r_jenkins...", 
+        "cite_name": "Michigan House of Representatives", 
+        "title": "Rep. Jenkins - Michigan House of Representatives"
+    }, 
+    {
+        "content": "office: n 0991. term: second. phone: (517) 373-1706. email: nancyjenkins@house.mi.gov. home address: 9417 west careleton road, clayton mi 49235.", 
+        "email_addr_list": [
+            "nancyjenkins@house.mi.gov"
+        ], 
+        "cite_url": "www.mirsnews.com/leg_bio.php?lid=489www.google.com/email", 
+        "cite_name": "", 
+        "title": "MIRS News - Biographical Profile - Jenkins, NancyGoogle Business Email - Custom email for your company‎Searches related to Nancy A. Jenkins email"
+    }
+]

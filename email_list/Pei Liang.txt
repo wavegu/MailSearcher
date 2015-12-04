@@ -1,0 +1,29 @@
+[
+    {
+        "content": "follow new citations. create alert. cancel. pei-liang zhao. phd student ,university of groningen  computational physics, 2d materials. verified email at rug.nl.", 
+        "email_list": [
+            "email@rug.nl"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=5AvWSFsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Pei-Liang Zhao - Google Scholar Citations"
+    }, 
+    {
+        "content": "peiliang xu. kyoto university  earth science, inverse problems, satellite gravity, mathematical geophysics, statistics. verified email at rcep.dpri.kyoto-u.ac.jp.", 
+        "email_list": [
+            "email@rcep.dpri.kyoto-u.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JJHbLeIAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Peiliang Xu - Google Scholar Citations"
+    }, 
+    {
+        "content": "peiliang jin has been selected as toscas new york artist of the year. learn more about ... (718) 886-0102 • email: plartstudio@yahoo.com. copyright...", 
+        "email_list": [
+            "plartstudio@yahoo.com"
+        ], 
+        "cite_url": "www.plartstudio.com/", 
+        "cite_name": "", 
+        "title": "PLARTSTUDIO"
+    }
+]

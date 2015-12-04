@@ -1,3 +1,20 @@
-andyf@sussex.ac.uk.andy	[10]
-andyf@sussex.ac.uk	[10]
-email at sussex.ac.uk	[2]
+[
+    {
+        "content": "university of sussex web profile of prof andy field whose research expertise includes anxiety, child development, emotion and ... email: andyf@sussex.ac.uk.", 
+        "email_addr_list": [
+            "andyf@sussex.ac.uk"
+        ], 
+        "cite_url": "www.sussex.ac.uk  Staff search", 
+        "cite_name": "University of Sussex", 
+        "title": "Andy Field : University of Sussex"
+    }, 
+    {
+        "content": "andy field. professor of child ... verified email at sussex.ac.uk. scholar ... 23274, 2009. discovering statistics using ibm spss statistics. a field. sage, 2013.", 
+        "email_addr_list": [
+            "email@sussex.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=0Iy7PFYAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Andy Field - Google Scholar Citations"
+    }
+]

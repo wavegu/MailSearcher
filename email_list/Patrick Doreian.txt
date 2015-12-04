@@ -1,0 +1,29 @@
+[
+    {
+        "content": "may 20, 1999 - prof. patrick doreian, university of pittsburgh, department of sociology. ... email: pitpat@pitt.edu. examine my curriculum vitae. publications...", 
+        "email_list": [
+            "pitpat@pitt.edu"
+        ], 
+        "cite_url": "www.pitt.edu/~pitpat/", 
+        "cite_name": "University of Pittsburgh", 
+        "title": "Prof. Patrick Doreians home page - University of Pittsburgh"
+    }, 
+    {
+        "content": "professor patrick doreian is currently co-editor of social networks, previously editor of journal ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/patrick_doreian/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Patrick Doreian - VideoLectures.NET"
+    }, 
+    {
+        "content": "authors: patrick doreian, university of pittsburgh; vladimir batagelj, .... you are having problems accessing these resources please email cflack@cambridge.org.", 
+        "email_list": [
+            "cflack@cambridge.org"
+        ], 
+        "cite_url": "www.cambridge.org/.../generalized-blockmo...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "Generalized Blockmodeling - Cambridge University Press"
+    }
+]

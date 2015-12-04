@@ -1,3 +1,20 @@
-rdconger@ucdavis.edu	[15]
-email at ucdavis.edu	[3]
-wbeaman@warnerpacific.edu	[1]
+[
+    {
+        "content": "rand d conger. university of california, davis. verified email at ucdavis.edu ... rd conger, kj conger, gh elder jr, fo lorenz, rl simons, lb whitbeck.", 
+        "email_addr_list": [
+            "email@ucdavis.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KyXm0cAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rand D Conger - Google Scholar Citations"
+    }, 
+    {
+        "content": "email wbeaman@warnerpacific.edu. phone 503.517.1050 ... simons, ronald l., jay beaman, rand d. conger, and wei chao. 1992. “gender differences in the...", 
+        "email_addr_list": [
+            "wbeaman@warnerpacific.edu"
+        ], 
+        "cite_url": "www.warnerpacific.edu/directory/beaman-jay/www.google.com/email", 
+        "cite_name": "Warner Pacific College", 
+        "title": "Beaman, Jay - Warner Pacific CollegeGoogle Business Email‎"
+    }
+]

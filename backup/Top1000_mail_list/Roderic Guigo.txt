@@ -1,4 +1,47 @@
-roderic.guigo@crg.cat.guig	[25]
-roderic.guigo@crg.cat	[25]
-roderic.guigo@crg.eu	[25]
-email at crg.cat	[3]
+[
+    {
+        "content": "roderic guigó. roderic guigó. rguigos picture. offline. last seen: 5 years 48 weeks ago. joined: 2009-08-24. contact email address. roderic.guigo@crg.cat.", 
+        "email_addr_list": [
+            "roderic.guigo@crg.cat"
+        ], 
+        "cite_url": "big.crg.cat/people/roderic_guigo_serra", 
+        "cite_name": "", 
+        "title": "Roderic Guigó - | Bioinformatics and Genomics @ CRG"
+    }, 
+    {
+        "content": "you are here. you are here: home  roderic guigó serra ... roderic guigó serra. email: roderic.guigo@crg.eu. telephone: 933160168. group: computational...", 
+        "email_addr_list": [
+            "roderic.guigo@crg.eu"
+        ], 
+        "cite_url": "www.crg.eu/en/group-members/roderic-guigó-serra", 
+        "cite_name": "", 
+        "title": "Roderic Guigó Serra | crg"
+    }, 
+    {
+        "content": "create alert. cancel. roderic guigo ... verified email at crg.cat. scholar ... e birney, ja stamatoyannopoulos, a dutta, r guigó, tr gingeras, ... nature 447...", 
+        "email_addr_list": [
+            "email@crg.cat"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nUDzsZsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Roderic Guigo - Google Scholar Citations"
+    }, 
+    {
+        "content": "person roles: investigator. person last name: guigo person first name: roderic person mid initials: person email: roderic.guigo@crg.cat. person phone:", 
+        "email_addr_list": [
+            "roderic.guigo@crg.cat"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Series GSE46637 - GEO Accession viewer"
+    }, 
+    {
+        "content": "person roles: investigator. person last name: guigo person first name: roderic person mid initials: person email: roderic.guigo@crg.cat. person phone:", 
+        "email_addr_list": [
+            "roderic.guigo@crg.cat"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Series GSE46638 - GEO Accession viewer"
+    }
+]

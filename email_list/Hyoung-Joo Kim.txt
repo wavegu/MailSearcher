@@ -1,0 +1,20 @@
+[
+    {
+        "content": "phone: 646.997.3073; email: joo.h.kim@nyu.edu; office: rh 513, 6 metrotech ... and the 2015 freudenstein/general motors young investigator award from the...", 
+        "email_list": [
+            "joo.h.kim@nyu.edu"
+        ], 
+        "cite_url": "engineering.nyu.edu/people/joo-h-kim", 
+        "cite_name": "New York University", 
+        "title": "Joo H. Kim | NYU Tandon School of Engineering"
+    }, 
+    {
+        "content": "verified email at korea.ac.kr. scholar. get my own ... v sachnev, hj kim, j nam, s suresh, yq shi. circuits and ... j wang, y sun, h xu, k chen, hj kim, sh joo.", 
+        "email_list": [
+            "email@korea.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AoAwxYQAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Hyoung Joong Kim - Google Scholar Citations"
+    }
+]

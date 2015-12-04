@@ -1,5 +1,38 @@
-deirdre.wilson@pittsburghmoves.com	[27]
-deirdre.wilson@viu.ca	[27]
-deirdre.wilson@ucl.ac.uk	[27]
-deirdre.wilson@viu.ca.deirdre.wilson	[27]
-email at ucl.ac.uk	[1]
+[
+    {
+        "content": "cancel. deirdre wilson. ucl and csmn, oslo. verified email at ucl.ac.uk. scholar. get my own profile ... d sperber, d wilson. blackwell, oxford and harvard...", 
+        "email_addr_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "cite_url": "scholar.google.co.uk/citations?user=CMIvXMsAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Deirdre Wilson - Google Scholar Citations"
+    }, 
+    {
+        "content": "photo, deirdre wilson wilson, deirdre university professor. office: education bldg. 356, room 270. phone: 250-740-6463. email: deirdre.wilson@viu.ca.", 
+        "email_addr_list": [
+            "deirdre.wilson@viu.ca"
+        ], 
+        "cite_url": "https://www2.viu.ca/education/.../wilson_d.a...", 
+        "cite_name": "Vancouver Island University", 
+        "title": "Deirdre Wilson, Faculty of Education | Vancouver Island ..."
+    }, 
+    {
+        "content": "deirdre wilson. professor education building: 356. room: 270. fax: (250) 740-6463. mail drop: 356-2. email: deirdre.wilson@viu.ca. vancouver island...", 
+        "email_addr_list": [
+            "deirdre.wilson@viu.ca"
+        ], 
+        "cite_url": "https://www2.viu.ca/.../employeeDetail.aspx...", 
+        "cite_name": "Vancouver Island University", 
+        "title": "Deirdre.Wilson - Employee Detail | Employee Directory ..."
+    }, 
+    {
+        "content": "deirdre wilson is a coldwell banker real estate services real estate agent ... email. deirdre.wilson@pittsburghmoves.com. phone. (412) 414-1025 mobile...", 
+        "email_addr_list": [
+            "deirdre.wilson@pittsburghmoves.com"
+        ], 
+        "cite_url": "www.coldwellbankerhomes.com  ...  Allison Park Real Estate Agents", 
+        "cite_name": "", 
+        "title": "Deirdre Wilson - Coldwell Banker"
+    }
+]

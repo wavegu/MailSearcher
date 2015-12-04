@@ -1,0 +1,30 @@
+[
+    {
+        "content": "aug 18, 2015 - bâtiment : 5 r+1 centrale nord. bureau : 02/248. téléphone : 04 67 41 86 46. fax : 04 67 41 85 00. email : florent.masseglia@lirmm.fr. statut :...", 
+        "email_list": [
+            "florent.masseglia@lirmm.fr"
+        ], 
+        "cite_url": "https://www.lirmm.fr/users/...lirmm/florent-masseglia", 
+        "cite_name": "", 
+        "title": "Florent Masseglia / Utilisateurs LIRMM / Users - LIRMM"
+    }, 
+    {
+        "content": "masseglia@sophia.inria.fr workshop date: 21 august, 2005 workshop ... of texas at dallas email: lkhan@utdallas.edu florent masseglia - inria sophia...", 
+        "email_list": [
+            "masseglia@sophia.inria.fr", 
+            "lkhan@utdallas.edu"
+        ], 
+        "cite_url": "www-sop.inria.fr/.../...", 
+        "cite_name": "French Institute for Research in Computer Science an...", 
+        "title": "Text - Sophia Antipolis - Inria"
+    }, 
+    {
+        "content": "jun 4, 2004 - email address: florent.masseglia@sophia.inria.fr. maguelonne teisseire. lirmm – polytech - university of montpellier ii. 161 rue ada.", 
+        "email_list": [
+            "florent.masseglia@sophia.inria.fr"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.1501...", 
+        "cite_name": "", 
+        "title": "[PDF]Download as a PDF - CiteSeer"
+    }
+]

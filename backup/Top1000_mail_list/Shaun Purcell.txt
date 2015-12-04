@@ -1,5 +1,38 @@
-shaun.purcell@mssm.edu	[25]
-shaun at pngu dot mgh dot harvard dot edu	[12]
-shaun@pngu.mgh.harvard.edu	[11]
-email at mssm.edu	[2]
-info@donegaletb.ie	[1]
+[
+    {
+        "content": "purcell lab @ pngu, chgr, mgh. ... general hospital, boston, ma, 02114. e-mail: shaun at pngu dot mgh dot harvard dot edu. tel: +1 617 726 7642. fax: +1...", 
+        "email_addr_list": [
+            "shaun@pngu.mgh.harvard.edu"
+        ], 
+        "cite_url": "pngu.mgh.harvard.edu/~purcell/", 
+        "cite_name": "Harvard University", 
+        "title": "Shaun Purcell - Psychiatric  Neurodevelopmental Genetics ..."
+    }, 
+    {
+        "content": "shaun purcell, associate professor psychiatry, associate professor genetics and ... photo of shaun purcell ... email. shaun.purcell@mssm.edu...", 
+        "email_addr_list": [
+            "shaun.purcell@mssm.edu"
+        ], 
+        "cite_url": "www.mountsinai.org/profiles/shaun-m-purcell", 
+        "cite_name": "Mount Sinai Hospital", 
+        "title": "Shaun M Purcell - The Mount Sinai Hospital"
+    }, 
+    {
+        "content": "shaun purcell. associate ... verified email at mssm.edu - homepage  scholar ... sm purcell, nr wray, jl stone, pm visscher, mc odonovan, pf sullivan, .", 
+        "email_addr_list": [
+            "email@mssm.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=t5o90hCxVMkC...", 
+        "cite_name": "Google Scholar", 
+        "title": "Shaun Purcell - Google Scholar Citations"
+    }, 
+    {
+        "content": "boston, ma 02114. email: shaun@pngu.mgh.harvard.edu. for more information, please visit dr. purcells main web page  billing  insurance  medical records...", 
+        "email_addr_list": [
+            "shaun@pngu.mgh.harvard.edu"
+        ], 
+        "cite_url": "www.massgeneral.org/.../pngu_bio_Purce...", 
+        "cite_name": "Massachusetts General Hospital", 
+        "title": "Shaun Purcell, Ph.D. - Massachusetts General Hospital"
+    }
+]

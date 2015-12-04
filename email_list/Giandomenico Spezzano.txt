@@ -1,0 +1,29 @@
+[
+    {
+        "content": "giandomenico spezzano. research director ... verified email at icar.cnr.it - homepage  scholar ... g spezzano, d talia, s di gregorio, r rongo, w spataro.", 
+        "email_list": [
+            "email@icar.cnr.it"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=AkMdRu8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Giandomenico Spezzano - Google Scholar Citations"
+    }, 
+    {
+        "content": "bucci 41c, 87036 rende, cs, italy andrea giordano email: giordano@icar.cnr.it giandomenico spezzano (corresponding author) email: spezzano...", 
+        "email_list": [
+            "giordano@icar.cnr.it"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3319004913", 
+        "cite_name": "", 
+        "title": "Internet of Things Based on Smart Objects: Technology, ..."
+    }, 
+    {
+        "content": "30+ items - email: spezzano@si.deis.unical.it. role: assistant professor...", 
+        "email_list": [
+            "spezzano@si.deis.unical.it"
+        ], 
+        "cite_url": "www.mat.unical.it:8180/.../Gian...", 
+        "cite_name": "University of Calabria", 
+        "title": "Giandomenico Spezzano"
+    }
+]

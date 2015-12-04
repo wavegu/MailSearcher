@@ -1,2 +1,20 @@
-rwilson@wustl.edu	[14]
-email at watson.wustl.edu	[2]
+[
+    {
+        "content": "richard k. wilson, phd. director, genome institute washington university school of medicine in st. louis email: rwilson@wustl.edu. phone: 314-286-1804...", 
+        "email_addr_list": [
+            "rwilson@wustl.edu"
+        ], 
+        "cite_url": "www.pediatriccancergenomeproject.org/site/research-contacts", 
+        "cite_name": "", 
+        "title": "Contacts - Pediatric Cancer Genome Project"
+    }, 
+    {
+        "content": "richard k. wilson, ph.d. professor of ... verified email at watson.wustl.edu. scholar ... w pao, v miller, m zakowski, j doherty, k politi, i sarkaria, b singh, .", 
+        "email_addr_list": [
+            "email@watson.wustl.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=nKkZybgAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Richard K. Wilson, Ph.D. - Google Scholar Citations"
+    }
+]

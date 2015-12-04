@@ -1,0 +1,84 @@
+[
+    {
+        "content": "jia sheng assistant professor ph.d. georgia state university postdoc. harvard medical ... email: jsheng@albany.edu. rui wang postdoctoral research associate ... undergraduate student email: olevchenko@albany.edu. alumni. zhuo shi", 
+        "email_list": [
+            "jsheng@albany.edu", 
+            "olevchenko@albany.edu"
+        ], 
+        "cite_url": "www.albany.edu/shenglab/Members.html", 
+        "cite_name": "University at Albany, SUNY", 
+        "title": "Sheng Lab, University at Albany Department of Chemistry ..."
+    }, 
+    {
+        "content": "feb 28, 2015 - email: phyfyp@nus.edu.sg ... thin films with giant interfacial anisotropy”, lei shen, tiejun zhou, rui qi wee, kiat min cher, hnin. yu yu ko...", 
+        "email_list": [
+            "phyfyp@nus.edu.sg"
+        ], 
+        "cite_url": "www.physics.nus.edu.sg/.../FengYP_Sh...", 
+        "cite_name": "National University of Singapore", 
+        "title": "[PDF]FENG Yuan Ping - Department of Physics - National ..."
+    }, 
+    {
+        "content": "e-mail: dyzhao@fudan.edu.cn ... hao liu, wei li, dengke shen, dongyuan zhao,* and guoxiu wang* ... lei zhou, rui wang, chi yao, xiaomin li, chengli wang, xiaoyan zhang, congjian xu, aijun zeng, dongyuan zhao, and fan zhang*", 
+        "email_list": [
+            "dyzhao@fudan.edu.cn"
+        ], 
+        "cite_url": "www.mesogroup.fudan.edu.cn/", 
+        "cite_name": "Fudan University", 
+        "title": "赵东元课题组"
+    }, 
+    {
+        "content": "organization, guang zhou rui di ai sheng ke ji you xian gong si. email, 112440270@qq.com, is associated with 100+ domains. address, shen zhen shi bao...", 
+        "email_list": [
+            "112440270@qq.com"
+        ], 
+        "cite_url": "domainbigdata.com/gz-radiation.com", 
+        "cite_name": "", 
+        "title": "Gz-radiation.com - WHOIS  Domain Info - DomainBigData"
+    }, 
+    {
+        "content": "email: liangzhou@sjtu.edu.cn ... w. jiang, w. shen, l. zhou, w. y. yan and j. f. mao, “miniaturized and high selectivity substrate integrated .... liang zhou , rui chu, zhuo wu , “ultra low noise dielectric resonators oscillators with tuning at...", 
+        "email_list": [
+            "liangzhou@sjtu.edu.cn"
+        ], 
+        "cite_url": "ee.sjtu.edu.cn/EN/show.aspx?info_lb=21info_id=98flag=3", 
+        "cite_name": "", 
+        "title": "Department of Electronic Engineering Shanghai Jiao Tong ..."
+    }, 
+    {
+        "content": "university college dublin, belfield, dublin 4, ireland e-mail: chen.ma@ucd.ie ... ms zhuo li. visiting mandarin teacher ... ms rui ma. visiting mandarin teacher", 
+        "email_list": [
+            "chen.ma@ucd.ie"
+        ], 
+        "cite_url": "www.ucd.ie/china/staff.html", 
+        "cite_name": "University College Dublin", 
+        "title": "Irish Institute for Chinese Studies - University College Dublin"
+    }, 
+    {
+        "content": "email: (my first name) (dot) zhang@unimelb.edu.au ... jin huang, rui zhang, rajkumar buyya, jian chen, yongwei wu, heads-join: efficient earth movers distance .... rui zhang, nick koudas, beng chin ooi, divesh srivastava, pu zhou.", 
+        "email_list": [
+            "zhang@unimelb.edu.au"
+        ], 
+        "cite_url": "www.ruizhang.info/", 
+        "cite_name": "", 
+        "title": "Rui Zhangs Home Page"
+    }, 
+    {
+        "content": "verified email at u.northwestern.edu. scholar. get my own ... h li, x dong, y shen, r zhou, a diehl, h hagenah, u engel, m merklein, ... journal of materials...", 
+        "email_list": [
+            "email@u.northwestern.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=lrX4ih4AAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Rui Zhou - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: gangdan1@yahoo.com.cn. spine team. md., ph.d, professor and director of spine division, zhuojing luo,zhen wang,hongxun sang,xinkui li,huiren tao,jinyu zhu,chen wang,xinzhi xu,qian wang,dan geng,wei liang .... rui; luo zhuojing; li mingquan; feng lining; liu kai; li xiaojuan; chen jianhua...", 
+        "email_list": [
+            "gangdan1@yahoo.com.cn"
+        ], 
+        "cite_url": "https://aospine.aofoundation.org/.../department-of-orthopaedic-surgery.a...", 
+        "cite_name": "", 
+        "title": "Department of Orthopaedic Surgery, Xijing Hospital - AOSpine"
+    }
+]

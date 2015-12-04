@@ -1,5 +1,21 @@
-yves.vandepeer at psb.vib-ugent.be	[27]
-yves.vandepeer@psb.vib-ugent.be	[27]
-email at psb.ugent.be	[2]
-mamon@psb.vib-ugent.be	[1]
-tiago.guerra@algafuel.pt	[1]
+[
+    {
+        "content": "verified email at psb.ugent.be ... m lescot, p déhais, g thijs, k marchal, y moreau, y van de peer, . ... js taylor, i braasch, t frickey, a meyer, y van de peer.", 
+        "email_addr_list": [
+            "email@psb.ugent.be"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=tBs2BVMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Yves Van de Peer - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr luis tiago guerra email: tiago.guerra@algafuel.pt  a4f logo. vib (belgium). professor yves van de peer email: yves.vandepeer@psb.vib-ugent.be...", 
+        "email_addr_list": [
+            "tiago.guerra@algafuel.pt", 
+            "yves.vandepeer@psb.vib-ugent.be"
+        ], 
+        "cite_url": "www.sams.ac.uk/.../the-alff-cons...", 
+        "cite_name": "Scottish Association for Marine Science", 
+        "title": "The ALFF Consortium — SAMS"
+    }
+]

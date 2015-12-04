@@ -1,0 +1,56 @@
+[
+    {
+        "content": "verified email at mail.nctu.edu.tw. scholar ... ct lin, lw ko, i chung, ty huang, yc chen, tp jung, sf liang ... cw wu, yk shen, sy chuang, cs wei.", 
+        "email_list": [
+            "email@mail.nctu.edu.tw"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=2-S-B2wAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Li-Wei Ko - Google Scholar Citations"
+    }, 
+    {
+        "content": "name, li-wei ko. office tel no. 03-5712121*54450. email, lwko@mail.nctu.edu.tw. education. office. research expertise, computational neuroscience, brain...", 
+        "email_list": [
+            "lwko@mail.nctu.edu.tw"
+        ], 
+        "cite_url": "bio.life.nctu.edu.tw/.../Li-Wei-Ko-57416...", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "Li Wei Ko | NCTU-DBST"
+    }, 
+    {
+        "content": "生物科技學院. 柯立偉(li-wei ko) 副教授. 電話： (03)5712121 ext 56984. email :lwko@mail.nctu.edu.tw. 辦公室：工程六館462 室. 神經工程實驗室： 工程六館553.", 
+        "email_list": [
+            "lwko@mail.nctu.edu.tw"
+        ], 
+        "cite_url": "life.nctu.edu.tw/.../pro...", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "指導教授 - 交通大學-生物科技學院 - 國立交通大學"
+    }, 
+    {
+        "content": "name, li-wei ko. office tel no. 03-5712121*56984. email, lwko@mail.nctu.edu.tw. education, ph.d. in electrical and control engineerig national chiao tung...", 
+        "email_list": [
+            "lwko@mail.nctu.edu.tw"
+        ], 
+        "cite_url": "bioinfo.nctu.edu.tw/.../Li-Wei-Ko-62300...", 
+        "cite_name": "National Chiao Tung University", 
+        "title": "Li Wei Ko | NCTU_IBST"
+    }, 
+    {
+        "content": "oct 22, 2015 - email address : ... senior assistant director, lee wei yang, 63548290 ... division, dr benjamin koh, 63548027, benjamin_koh@msf.gov.sg.", 
+        "email_list": [
+            "benjamin_koh@msf.gov.sg"
+        ], 
+        "cite_url": "app.sgdi.gov.sg/listing_expand....", 
+        "cite_name": "List of Singapore Government Ministries", 
+        "title": "Gov.sg - Singapore Government Directory"
+    }, 
+    {
+        "content": "email login ... professor lu liwei | liweilu@hkucc.hku.hk ... lin x, rui k, deng j, tian j, wang x, chen m, ko k-h, jiao z, wang s, cs lau, cao x, l lu*.", 
+        "email_list": [
+            "liweilu@hkucc.hku.hk"
+        ], 
+        "cite_url": "www.patho.hku.hk/staff/list/luliwei.html", 
+        "cite_name": "", 
+        "title": "Dr Liwei LU - Department of Pathology - The University of ..."
+    }
+]

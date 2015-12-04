@@ -1,0 +1,47 @@
+[
+    {
+        "content": "... e. lash, detlef d. leipe, thomas l. madden, gregory d. schuler, tatiana a. tatusova, .... the query email server (query@ncbi.nlm.nih.gov ) performs text-based searches .... schuler g.d., epstein,j.a., ohkawa,h. and kans,j.a. (1996) methods ... maglott d., katz,k., sicotte,h. and pruitt,k. (2000) nucleic acids res., 28,...", 
+        "email_list": [
+            "query@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "Database resources of the National Center for ..."
+    }, 
+    {
+        "content": "... walter ratzat; tarek hassan; zhifang jiang; robert f. cohen; gregory d. schuler contact email : schuler@ncbi.nlm.nih.gov. year : 2010. language : english.", 
+        "email_list": [
+            "schuler@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "www.ibiranet.in/pages/new_result/NCBI%20Epigenomics/Databases", 
+        "cite_name": "", 
+        "title": "NCBI Epigenomics - iBIRA"
+    }, 
+    {
+        "content": "nov 27, 2012 - ... ratzat,; nora husain,; robert f. cohen and; gregory d. schuler ... 301 496 6806; fax: +1 301 480 5779; email: fingerma@ncbi.nlm.nih.gov.", 
+        "email_list": [
+            "fingerma@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/41/D1/D221.full", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "NCBI Epigenomics: Whats new for 2013"
+    }, 
+    {
+        "content": "nov 12, 2010 - ... 301 435 7226; fax: +1 301 480 5779; email: schuler@ncbi.nlm.nih.gov ..... rhead b,; karolchik d,; kuhn rm,; hinrichs as,; zweig as,; fujita...", 
+        "email_list": [
+            "schuler@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/.../nar.gkq1146.fu...", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "Full Text (HTML) - Nucleic Acids Research - Oxford Journals"
+    }, 
+    {
+        "content": "kirill rotmistrovsky,; wonhee jang and; gregory d. schuler*. + author ... tel: +1 301 496 2475; fax: +1 301 480 9241; email: schuler@ncbi.nlm.nih.gov...", 
+        "email_list": [
+            "schuler@ncbi.nlm.nih.gov"
+        ], 
+        "cite_url": "nar.oxfordjournals.org/content/32/suppl_2/W108", 
+        "cite_name": "Nucleic Acids Research", 
+        "title": "A web server for performing electronic PCR"
+    }
+]

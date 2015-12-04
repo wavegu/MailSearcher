@@ -1,4 +1,20 @@
-judah.folkman@childrens.harvard.edu	[25]
-judah.folkman@childrens.harvard.edu.judah	[25]
-dies at 74journals.lww.com	[2]
-ingber@seas.harvard.edu	[1]
+[
+    {
+        "content": "judah folkman professor of vascular biology and professor of bioengineering. ... email: ingber@seas.harvard.edu. office phone: (617) 432-7044...", 
+        "email_addr_list": [
+            "ingber@seas.harvard.edu"
+        ], 
+        "cite_url": "www.seas.harvard...", 
+        "cite_name": "Harvard John A. Paulson School of Engineering and...", 
+        "title": "Donald Ingber - School of Engineering and Applied Sciences"
+    }, 
+    {
+        "content": "judah folkman is at the childrens hospital and harvard medical school boston, ... correspondence to: email: judah.folkman@childrens.harvard.edu.", 
+        "email_addr_list": [
+            "judah.folkman@childrens.harvard.edu"
+        ], 
+        "cite_url": "www.nature.com  ...  Archive  Perspectives  Opinion", 
+        "cite_name": "Nature", 
+        "title": "Angiogenesis: an organizing principle for drug discovery ..."
+    }
+]

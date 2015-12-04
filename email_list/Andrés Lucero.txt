@@ -1,0 +1,29 @@
+[
+    {
+        "content": "andrés lucero. associate ... verified email at sdu.dk - homepage  scholar ... m montola, t nummenmaa, a lucero, m boberg, h korhonen. proceedings of the...", 
+        "email_list": [
+            "email@sdu.dk"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrés Lucero - Google Scholar Citations"
+    }, 
+    {
+        "content": "you are here: sdu; andrés lucero. ressourcer; download vcard  share on facebook recommend this page print this page. andrés lucero ... lucero@sdu.dk.", 
+        "email_list": [
+            "lucero@sdu.dk"
+        ], 
+        "cite_url": "www.sdu.dk/staff/lucero", 
+        "cite_name": "University of Southern Denmark", 
+        "title": "Andrés Lucero - Syddansk Universitet"
+    }, 
+    {
+        "content": "msc. en ciencias políticas, psicólogo, andrés lucero leiva. e-mail: andres.lucero@usm.cl propuesta de implementaciÓn de un sistema para la...", 
+        "email_list": [
+            "andres.lucero@usm.cl"
+        ], 
+        "cite_url": "www.academia.edu/.../ESTRATEGIA_C...", 
+        "cite_name": "Academia.edu", 
+        "title": "PARA LA GESTIÓN - Academia.edu"
+    }
+]

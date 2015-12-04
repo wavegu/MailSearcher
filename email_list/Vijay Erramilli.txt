@@ -1,0 +1,11 @@
+[
+    {
+        "content": "vijay erramilli. sr. data scientist ... verified email at guavus.com - homepage  scholar ... jm pujol, v erramilli, g siganos, x yang, n laoutaris, p chhabra, .", 
+        "email_list": [
+            "email@guavus.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KVEH6uwAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Vijay Erramilli - Google Scholar Citations"
+    }
+]

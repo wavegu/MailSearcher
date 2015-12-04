@@ -1,0 +1,32 @@
+[
+    {
+        "content": "apr 8, 2002 - pierre baldi ... email: pfbaldi@ics.uci.edu ... abstract, dr. baldis group works at the intersection of biological and computer sciences, using...", 
+        "email_list": [
+            "pfbaldi@ics.uci.edu"
+        ], 
+        "cite_url": "www.faculty.uci.edu/profile.cfm?faculty...", 
+        "cite_name": "University of California, Irvine", 
+        "title": "Pierre Baldi - UC Irvine - Faculty Profile System"
+    }, 
+    {
+        "content": "create alert. cancel. pierre baldi ... verified email at ics.uci.edu - homepage  scholar ... p baldi, s brunak, y chauvin, caf andersen, h nielsen. bioinformatics...", 
+        "email_list": [
+            "email@ics.uci.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=RhFhIIgAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Pierre Baldi - Google Scholar Citations"
+    }, 
+    {
+        "content": "1 elinstea@ics.uci.edu hughe120@mail.chapman.edu lopes@ics.uci.edu ... pierre baldi (pfbaldi@ics.uci.edu) is a professor in the school of information and...", 
+        "email_list": [
+            "elinstea@ics.uci.edu", 
+            "hughe120@mail.chapman.edu", 
+            "lopes@ics.uci.edu", 
+            "pfbaldi@ics.uci.edu"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-pfbaldi-ics-uci-edu-21403751.htm", 
+        "cite_name": "", 
+        "title": "pfbaldi@ics.uci.edu - The Email Archive"
+    }
+]

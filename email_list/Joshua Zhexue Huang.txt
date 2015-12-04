@@ -1,0 +1,30 @@
+[
+    {
+        "content": "mar 17, 2011 - e-mail: zx.huang@siat.ac.cn ... ng, michael, li, mark, huang, joshua zhexue, and he, zengyou (2007) on the impact of dissimilarity measure...", 
+        "email_list": [
+            "zx.huang@siat.ac.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Zhexue Joshua Huang"
+    }, 
+    {
+        "content": "jun 20, 2007 - e-mail: jhuang@eti.hku.hk ... 黄哲学(joshua zhexue huang)，男，1959年7月生，香港大学电子商业科技研究所助理总监，高级研究员，上海...", 
+        "email_list": [
+            "jhuang@eti.hku.hk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "黄哲学- 哈尔滨工业大学深圳研究生院计算机科学与技术学科部"
+    }, 
+    {
+        "content": "ravi kumar. ravi.k53@gmail.com. google. hannu toivonen ... local co-chairs. joshua zhexue huang. zx.huang@siat.ac.cn. shenzhen university. ming zhong.", 
+        "email_list": [
+            "ravi.k53@gmail.com", 
+            "zx.huang@siat.ac.cn"
+        ], 
+        "cite_url": "icdm2014.sfu.ca/organization_organizers.html", 
+        "cite_name": "", 
+        "title": "ICDM 2014 | Organization Committee"
+    }
+]

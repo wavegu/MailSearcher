@@ -1,0 +1,29 @@
+[
+    {
+        "content": "e-mail: paulin@itu.dk. information desk: 72185000 ... john paulin hansen is an associate professor at the it university of copenhagen. he received a msc in...", 
+        "email_list": [
+            "paulin@itu.dk"
+        ], 
+        "cite_url": "https://pure.itu.dk/.../john-paulin-hansen(cbc174a1-5e61-4e20-ab49-aec...", 
+        "cite_name": "", 
+        "title": "John Paulin Hansen - IT-University of Copenhagen"
+    }, 
+    {
+        "content": "john paulin hansen. professor ... ph. +45 45 25 48 52. e-mail, jpha@dtu.dk ... hansen, john paulin ; nielsen, f. ; rasmussen, j. in journal: journal of intelligent...", 
+        "email_list": [
+            "jpha@dtu.dk"
+        ], 
+        "cite_url": "www.dtu.dk/english/Service/.../Person?i...", 
+        "cite_name": "Technical University of Denmark", 
+        "title": "John Paulin Hansen - DTU"
+    }, 
+    {
+        "content": "john paulin hansen. professor, technical ... verified email at dtu.dk. scholar ... j san agustin, h skovsgaard, jp hansen, dw hansen. chi09 extended...", 
+        "email_list": [
+            "email@dtu.dk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=-D8JZiMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "John Paulin Hansen - Google Scholar Citations"
+    }
+]

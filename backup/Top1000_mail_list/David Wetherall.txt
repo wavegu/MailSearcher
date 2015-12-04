@@ -1,2 +1,20 @@
-david.wetherell@deakin.edu.au	[12]
-email at uw.edu	[3]
+[
+    {
+        "content": "david wetherall. professor of computer ... verified email at uw.edu - homepage  scholar ... s savage, d wetherall, a karlin, t anderson. acm sigcomm...", 
+        "email_addr_list": [
+            "email@uw.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=HeEBacsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "David Wetherall - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: david.wetherell@deakin.edu.au ... dr david wetherell taught in papua new guinea between 1963 and 1970, and was senior lecturer in history in the...", 
+        "email_addr_list": [
+            "david.wetherell@deakin.edu.au"
+        ], 
+        "cite_url": "www.deakin.edu.au/alfred-deakin.../people.php?...", 
+        "cite_name": "Deakin University", 
+        "title": "Dr David Wetherell - Deakin University"
+    }
+]

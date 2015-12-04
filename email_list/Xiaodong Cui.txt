@@ -1,0 +1,29 @@
+[
+    {
+        "content": "prof. xiaodong cui. professor. b.s. ustc; ph.d. ariz state. room 209, cym physics building the university of hong ... fax: 2559 9152. email: xdcui@hku.hk", 
+        "email_list": [
+            "xdcui@hku.hk"
+        ], 
+        "cite_url": "www.physics.hku.hk/people/academic/348", 
+        "cite_name": "University of Hong Kong", 
+        "title": "Prof. Xiaodong CUI - Department of Physics, HKU"
+    }, 
+    {
+        "content": "cancel. xiaodong cui. university of hong kong. verified email at hku.hk ... xd cui, a primak, x zarate, j tomfohr, of sankey, al moore, ta moore, ... science...", 
+        "email_list": [
+            "email@hku.hk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=95jcNHsAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Xiaodong Cui - Google Scholar Citations"
+    }, 
+    {
+        "content": "... ofmagneto-electric photocurrent junfeng dai,hai-zhou lu, shun-qing shen,fu-chun zhang, and xiaodong cui; phys. rev. ... ◇email: dai.jf@sustc.edu.cn.", 
+        "email_list": [
+            "dai.jf@sustc.edu.cn"
+        ], 
+        "cite_url": "www.sustc.edu.cn/...", 
+        "cite_name": "South University of Science and Technology of China", 
+        "title": "Junfeng Dai Assistant Professor - Faculty - SUSTC"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "content": "by email admission@beds.ac.uk (admissions) international@beds.ac.uk ... professor dayou li obtained a begn and msc from the northern jiaotong university...", 
+        "email_list": [
+            "admission@beds.ac.uk", 
+            "international@beds.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Bedfordshire", 
+        "title": "Professor Dayou Li - beds.ac.uk"
+    }, 
+    {
+        "content": "oct 17, 2013 - juan chena1a2a3, anthony g. cohna3, dayou liua1a2, ... computing, university of leeds, leeds ls2 9jt, uk; e-mail: a.g.cohn@leeds.ac.uk.", 
+        "email_list": [
+            "a.g.cohn@leeds.ac.uk"
+        ], 
+        "cite_url": "journals.cambridge.org/abstract_S0269888913...", 
+        "cite_name": "Cambridge University Press", 
+        "title": "A survey of qualitative spatial representations"
+    }, 
+    {
+        "content": "29, sipei, liu, jlu, unitn, 28-feb-08, 23-ago-08, giunchiglia, 177, 6, lsp_jlu at 163 ... jlu, nuig, 1-ago-08, 1-dic-08, 122, 4, yeyx dot mail at gmail dot comot com ... on methods of learning statistical relational models, jlu: dayou liu, nuig:...", 
+        "email_list": [
+            "mail@gmail.comot"
+        ], 
+        "cite_url": "latemar.science.unitn.it/segue/index.php?...", 
+        "cite_name": "University of Trento", 
+        "title": "EASTWEB  People  PhD Students"
+    }
+]

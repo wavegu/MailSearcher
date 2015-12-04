@@ -1,5 +1,39 @@
-g.paxinos@unsw.edu.au.scientia	[16]
-g.paxinos@unsw.edu.au	[16]
-researchgateway@unsw.edu.au	[2]
-researchgateway@unsw.edu.au.george	[2]
-email at neura.edu.au	[1]
+[
+    {
+        "content": "prof george paxinos was educated in north america, receiving degrees from the university of california and mcgill university ... email: g.paxinos@unsw.edu.au.", 
+        "email_addr_list": [
+            "g.paxinos@unsw.edu.au"
+        ], 
+        "cite_url": "www.mousebrain.monash.org/investigator-profiles/profiles-gp.html", 
+        "cite_name": "", 
+        "title": "Professor George Paxinos, AO (BA, MA, PhD, DSc)"
+    }, 
+    {
+        "content": "scientia professor george paxinos ... email: g.paxinos@unsw.edu.au ... paxinos g, 2015, atlas of the human brain (3rd ed), academic press, san diego.", 
+        "email_addr_list": [
+            "g.paxinos@unsw.edu.au"
+        ], 
+        "cite_url": "https://medicalsciences.med.unsw.edu.au/...", 
+        "cite_name": "University of New South Wales", 
+        "title": "Scientia Professor George Paxinos | School of Medical ..."
+    }, 
+    {
+        "content": "scientia professor george paxinos ... g.paxinos@unsw.edu.au ... research @ unsw, sydney, nsw, 2052, australia | email: researchgateway@unsw.edu.au.", 
+        "email_addr_list": [
+            "g.paxinos@unsw.edu.au", 
+            "researchgateway@unsw.edu.au"
+        ], 
+        "cite_url": "research.unsw.edu.au  ...  Researcher", 
+        "cite_name": "University of New South Wales", 
+        "title": "Scientia Professor George Paxinos | UNSW Research ..."
+    }, 
+    {
+        "content": "george paxinos. neuroscience research australia  neuroscience, brain, spinal cord, anatomy. verified email at neura.edu.au ... jk mai, j assheuer, g paxinos.", 
+        "email_addr_list": [
+            "email@neura.edu.au"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6HVnuL0AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "george paxinos - Google Scholar Citations"
+    }
+]

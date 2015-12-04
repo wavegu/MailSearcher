@@ -1,0 +1,20 @@
+[
+    {
+        "content": "create alert. cancel. markus weimer ... verified email at yahoo-inc.com. scholar. get my own ... m zinkevich, m weimer, l li, aj smola. advances in neural...", 
+        "email_list": [
+            "email@yahoo-inc.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Sg8tB3QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Markus Weimer - Google Scholar Citations"
+    }, 
+    {
+        "content": "official model mayhem page of markus weimer; member since dec 31,1969 has ... shoot me a email at my reg email evil.tink@gmail.com or drop me a message...", 
+        "email_list": [
+            "evil.tink@gmail.com"
+        ], 
+        "cite_url": "www.modelmayhem.com/1555949", 
+        "cite_name": "", 
+        "title": "Markus Weimer - Model Mayhem"
+    }
+]

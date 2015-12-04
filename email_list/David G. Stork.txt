@@ -1,0 +1,11 @@
+[
+    {
+        "content": "david g. stork, phd, is chief scientist, also at ricoh innovations, inc. ... for instructors resources email the editorial department at ialine@wiley.com.", 
+        "email_list": [
+            "ialine@wiley.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "John Wiley  Sons", 
+        "title": "Wiley: Pattern Classification, 2nd Edition - Richard O. Duda ..."
+    }
+]

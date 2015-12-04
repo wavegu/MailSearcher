@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jun 18, 2015 - e-mail: suzuki@binghamton.edu ... she has been collaborating with professor masatsugu (sei) suzuki at binghamton university since 1989,...", 
+        "email_list": [
+            "suzuki@binghamton.edu"
+        ], 
+        "cite_url": "www.binghamton.edu/.../masatsugu/advisors.html", 
+        "cite_name": "Binghamton University", 
+        "title": "Suzuki, Masatsugu: Advisors and Collaborators - Binghamton"
+    }, 
+    {
+        "content": "jun 18, 2015 - this page contains a profile of physics department faculty suzuki, masatsugu and his ... masatsugu suzuki ... e-mail: suzuki@binghamton.edu.", 
+        "email_list": [
+            "suzuki@binghamton.edu"
+        ], 
+        "cite_url": "www.binghamton.edu/.../masatsugu/research.html", 
+        "cite_name": "Binghamton University", 
+        "title": "Suzuki, Masatsugu: Research Information - Binghamton"
+    }
+]

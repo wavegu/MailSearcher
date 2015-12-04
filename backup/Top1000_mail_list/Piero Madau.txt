@@ -1,4 +1,38 @@
-pmadau@ucsc.edu.piero	[12]
-pmadau@ucsc.edu	[12]
-pmadau@ucolick.org	[12]
-email at ucolick.org	[2]
+[
+    {
+        "content": "title, professor. division, physical  biological sciences. department, pbsci-astronomy  astrophysics dept. phone, 831-459-3839. email, pmadau@ucsc.edu.", 
+        "email_addr_list": [
+            "pmadau@ucsc.edu"
+        ], 
+        "cite_url": "www.astro.ucsc.edu/.../singleton.php...", 
+        "cite_name": "University of California, Santa Cruz", 
+        "title": "Piero Madau - UCSC"
+    }, 
+    {
+        "content": "piero madau. distinguished professor. department of astronomy  astrophysics. university of california santa cruz. email: pmadau@ucsc.edu. mail: dept.", 
+        "email_addr_list": [
+            "pmadau@ucsc.edu"
+        ], 
+        "cite_url": "www.ucolick.org/~pmadau/Home.html", 
+        "cite_name": "Lick Observatory", 
+        "title": "Piero Madau"
+    }, 
+    {
+        "content": "dr. piero madau. professor of astronomy and astrophysics. office: 361 interdisciplinary sciences phone: 831-459-3839. email: pmadau@ucolick.org...", 
+        "email_addr_list": [
+            "pmadau@ucolick.org"
+        ], 
+        "cite_url": "www.ucolick.org/~board/faculty/madau.html", 
+        "cite_name": "Lick Observatory", 
+        "title": "Professor Piero Madau"
+    }, 
+    {
+        "content": "piero madau. distinguished ... verified email at ucolick.org - homepage  scholar ... p madau, hc ferguson, me dickinson, m giavalisco, cc steidel, ... monthly...", 
+        "email_addr_list": [
+            "email@ucolick.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=FuAjJpcAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Piero Madau - Google Scholar Citations"
+    }
+]

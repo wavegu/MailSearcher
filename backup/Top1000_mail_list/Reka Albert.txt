@@ -1,5 +1,48 @@
-ralbert@phys.psu.edu	[14]
-sallesina@uchicago.edu	[2]
-email at psu.edu	[2]
-philip.benfey@duke.edu	[1]
-philip.benfey@duke.edu.workshop	[1]
+[
+    {
+        "content": "réka albert. distinguished professor of ... e-mail: ralbert@phys.psu.edu. affiliations ... s. n. steinway, m. biggs, t. p. loughran, j. papin, r. albert, inference of...", 
+        "email_addr_list": [
+            "ralbert@phys.psu.edu"
+        ], 
+        "cite_url": "www.phys.psu.edu/~ralbert", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Réka Albert at Penn State - Department of Physics"
+    }, 
+    {
+        "content": "reka albert ... email: ralbert@phys.psu.edu ... j. j. thakar, a.k. pathak, l. murphy, r. albert, i.m. cattadori, network model of immune responses reveals key...", 
+        "email_addr_list": [
+            "ralbert@phys.psu.edu"
+        ], 
+        "cite_url": "bio.psu.edu/directory/rza1", 
+        "cite_name": "Pennsylvania State University", 
+        "title": "Reka Albert — Penn State University Department of Biology"
+    }, 
+    {
+        "content": "reka albert. professor of physics ... verified email at psu.edu. scholar. get my own ... h jeong, b tombor, r albert, zn oltvai, al barabasi. nature 407 (6804)...", 
+        "email_addr_list": [
+            "email@psu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=d27Ji6kAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Reka Albert - Google Scholar Citations"
+    }, 
+    {
+        "content": "advisor: dr. sarah m. assmann and dr. réka albert ... istvan albert, juilie thakar, song li, ranran zhang, reka albert. ... email: philip.benfey@duke.edu.", 
+        "email_addr_list": [
+            "philip.benfey@duke.edu"
+        ], 
+        "cite_url": "www.cses.vt.edu/people/tenure/cv/songli-cv.pdf", 
+        "cite_name": "Virginia Tech", 
+        "title": "[PDF]Song Li - Department of Crop  Soil Environmental Sciences"
+    }, 
+    {
+        "content": "name, email, affiliation. albert, reka, ralbert@phys.psu.edu, department of physics, pennsylvania state university. allesina, stefano, sallesina@uchicago.edu...", 
+        "email_addr_list": [
+            "ralbert@phys.psu.edu", 
+            "sallesina@uchicago.edu"
+        ], 
+        "cite_url": "https://mbi.osu.edu/event/?id=899", 
+        "cite_name": "Mathematical Biosciences Institute", 
+        "title": "Workshop 4: Control and Observability of Network Dynamics"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "content": "aug 28, 2006 - staff; a; arkady zaslavsky ... email: arkady.zaslavsky@ltu.se ... wibisono, w., zaslavsky, a. ling, s. 2013in : international journal of pervasive...", 
+        "email_list": [
+            "arkady.zaslavsky@ltu.se"
+        ], 
+        "cite_url": "www.ltu.se/staff/a/arkady-1.12219?l=en", 
+        "cite_name": "Luleå University of Technology", 
+        "title": "Arkady Zaslavsky - LTU - Luleå University of Technology"
+    }, 
+    {
+        "content": "arkady zaslavsky. monash university ... verified email at csiro.au - homepage  scholar. get my own ... c perera, a zaslavsky, p christen, d georgakopoulos.", 
+        "email_list": [
+            "email@csiro.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=sTAoZeUAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Arkady Zaslavsky - Google Scholar Citations"
+    }, 
+    {
+        "content": "arkady zaslavsky is an associate professor at monash university, australia. he is also an adjunct-professor at the lulea ... email: a.zaslavsky@monash.edu.au", 
+        "email_list": [
+            "a.zaslavsky@monash.edu.au"
+        ], 
+        "cite_url": "archive.kie.ue.poznan.pl/5th_bis/invited/azaslavsky.htm", 
+        "cite_name": "", 
+        "title": "Arkady Zaslavsky"
+    }, 
+    {
+        "content": "feb 29, 2004 - youre wandering in private www space of arkady zaslavsky, ... suggestions, please email me to arkady.zaslavsky@csse.monash.edu.au .", 
+        "email_list": [
+            "arkady.zaslavsky@csse.monash.edu.au"
+        ], 
+        "cite_url": "www.csse.monash.edu.au/projects/MobileComponents/", 
+        "cite_name": "Monash University", 
+        "title": "Welcome to Arkady Zaslavskys homepage - Monash ..."
+    }, 
+    {
+        "content": "jul 12, 2011 - youre wandering in private www space of arkady zaslavsky, ... suggestions, please email me to arkady.zaslavsky@monash.edu.au .", 
+        "email_list": [
+            "arkady.zaslavsky@monash.edu.au"
+        ], 
+        "cite_url": "www.csse.monash.edu.au/~azaslavs/cse5807/", 
+        "cite_name": "Monash University", 
+        "title": "Welcome to Arkady Zaslavskys homepage - Monash ..."
+    }
+]

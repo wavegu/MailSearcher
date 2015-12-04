@@ -1,0 +1,11 @@
+[
+    {
+        "content": "michael goldbaum. university of california at san ... verified email at ucsd.edu. scholar. get my own ... s chaudhuri, s chatterjee, n katz, m nelson, m goldbaum ... mh goldbaum, pa sample, h white, b colt, p raphaelian, rd fechtner, .", 
+        "email_list": [
+            "email@ucsd.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=L9woGGcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michael Goldbaum - Google Scholar Citations"
+    }
+]

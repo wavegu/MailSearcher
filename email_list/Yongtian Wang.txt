@@ -1,0 +1,58 @@
+[
+    {
+        "content": "email, wyt@bit.edu.cn ... yongtian wang received his b.sc. degree in precision instrumentation from tianjin university, china, in 1982, and his ph.d. degree in...", 
+        "email_list": [
+            "wyt@bit.edu.cn"
+        ], 
+        "cite_url": "vismed.org/vismed/ytwang-index.html", 
+        "cite_name": "", 
+        "title": "Yongtian Wang - OTISLab Home"
+    }, 
+    {
+        "content": "study in bit. international students 86-10-68918272 sabrinashen2013@gmail.com. work in bit. talents introduction program  employment opportunities...", 
+        "email_list": [
+            "sabrinashen2013@gmail.com"
+        ], 
+        "cite_url": "english.bit.edu.cn/", 
+        "cite_name": "Beijing Institute of Technology", 
+        "title": "BEIJING INSTITUTE OF TECHNOLOGY"
+    }, 
+    {
+        "content": "apr 25, 2008 - yongtian wang， professor of optics， beijing institute of technology， ... wangs significant contributions involve optical design， optical ... e-mail: (web content) webmaster@bit.edu.cn (network service) service@bit.edu.cn", 
+        "email_list": [
+            "webmaster@bit.edu.cn", 
+            "service@bit.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Beijing Institute of Technology", 
+        "title": "Yongtian Wang Elected SPIE Fellow"
+    }, 
+    {
+        "content": "dewen cheng, yongtian wang, jun chang and m.m.talha, mathematical and computer model for ... email: dcheng@optics.arizona.edu or cdwlxk@bit.edu.cn.", 
+        "email_list": [
+            "dcheng@optics.arizona.edu", 
+            "cdwlxk@bit.edu.cn"
+        ], 
+        "cite_url": "3dvis.optics.arizona.edu/people/Dewen.html", 
+        "cite_name": "", 
+        "title": "Dewen Cheng - 3DVIS - University of Arizona"
+    }, 
+    {
+        "content": "dr. gang wang, professor ... e-mail: g.wang@shu.edu.cn. working ... gang wang, yongtian wang, yanhui liu, minxiang pan, deqian zhao, weihua wang.", 
+        "email_list": [
+            "g.wang@shu.edu.cn"
+        ], 
+        "cite_url": "cms.shu.edu.cn/Default.aspx?tabid=22456ctl=Detailmid...Id...", 
+        "cite_name": "", 
+        "title": "上海大学先进凝固技术中心  English  Facuty"
+    }, 
+    {
+        "content": "verified email at nju.edu.cn - homepage  scholar. get my own profile ... da-yong tian, chun-feng duan, wei wang, hua cui*. biosens. bioelectron. 25, 2290...", 
+        "email_list": [
+            "email@nju.edu.cn"
+        ], 
+        "cite_url": "scholar.google.co.jp/citations?user=QtvY1cYAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Wei Wang - Google Scholar Citations"
+    }
+]

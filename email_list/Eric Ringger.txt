@@ -1,0 +1,20 @@
+[
+    {
+        "content": "eric ringger. professorial status: associate professor. office phone: 801-422-7615. email: ringger@cs.byu.edu. office: tmcb 3326 (office hours: by...", 
+        "email_list": [
+            "ringger@cs.byu.edu"
+        ], 
+        "cite_url": "https://cs.byu.edu/faculty/ringger", 
+        "cite_name": "Brigham Young University", 
+        "title": "Eric Ringger | BYU Computer Science"
+    }, 
+    {
+        "content": "cancel. eric ringger. associate professor of ... verified email at cs.byu.edu - homepage  scholar ... m gamon, a aue, s corston-oliver, e ringger. advances in...", 
+        "email_list": [
+            "email@cs.byu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XkkU-hwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Eric Ringger - Google Scholar Citations"
+    }
+]

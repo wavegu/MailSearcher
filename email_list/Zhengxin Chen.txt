@@ -1,0 +1,11 @@
+[
+    {
+        "content": "e-mail: wxu@mail.casipm.ac.cn. zhengxin chen. university of nebraska at omaha, college of information science and technology. omaha, ne 68182, usa.", 
+        "email_list": [
+            "wxu@mail.casipm.ac.cn"
+        ], 
+        "cite_url": "link.springer.com/.../bfm%3A978-3-540-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Download PDF (202KB) - Springer"
+    }
+]

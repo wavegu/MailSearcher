@@ -1,4 +1,38 @@
-a.vespignani@neu.amazon.com	[22]
-a.vespignani@neu.edu	[22]
-a.vespignani at neu.edu	[22]
-email at neu.edu	[2]
+[
+    {
+        "content": "alessandro vespignani. sternberg ... email: a.vespignani@neu.edu phone: 617.373.7367 ... alessandro vespignani research activity is focused on the study of...", 
+        "email_addr_list": [
+            "a.vespignani@neu.edu"
+        ], 
+        "cite_url": "www.northeastern.edu/cos/.../alessandro-vespign...", 
+        "cite_name": "Northeastern University", 
+        "title": "Alessandro Vespignani - College of Science"
+    }, 
+    {
+        "content": "alessandro vespignani. sternberg distinguished ... verified email at neu.edu - homepage  scholar ... a barrat, m barthelemy, r pastor-satorras, a vespignani.", 
+        "email_addr_list": [
+            "email@neu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=U3CXAPsAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alessandro Vespignani - Google Scholar Citations"
+    }, 
+    {
+        "content": "alessandro vespignani is sternberg distinguished professor at northeastern university ... contact information. email: a.vespignani@neu.edu. p: 617-373-4222...", 
+        "email_addr_list": [
+            "a.vespignani@neu.edu"
+        ], 
+        "cite_url": "www.iq.harvard.edu/people/alessandro-vespignani", 
+        "cite_name": "Harvard University", 
+        "title": "Alessandro Vespignani | Harvard Institute for Quantitative ..."
+    }, 
+    {
+        "content": "alessandro vespignani. registered on: 07 dec 2012. email: a.vespignani@neu.edu. location: us. current position: sternberg distinguished university...", 
+        "email_addr_list": [
+            "a.vespignani@neu.edu"
+        ], 
+        "cite_url": "www.crossover-project.eu/Details.aspx?EntityId=733", 
+        "cite_name": "", 
+        "title": "Alessandro Vespignani - Crossover Project"
+    }
+]

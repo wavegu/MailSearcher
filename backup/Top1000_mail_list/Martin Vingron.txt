@@ -1,3 +1,20 @@
-vingron at molgen.mpg.de	[16]
-vingron@molgen.mpg.de	[15]
-email at molgen.mpg.de	[2]
+[
+    {
+        "content": "prof. dr. martin vingron. max planck institute for molecular genetics, berlin. phone:+49 30 8413-1150fax:+49 30 8413-1152. email:vingron@molgen.mpg.de...", 
+        "email_addr_list": [
+            "vingron@molgen.mpg.de"
+        ], 
+        "cite_url": "www.mpg.de  Homepage  Institutes", 
+        "cite_name": "Max Planck Society", 
+        "title": "Vingron, Martin | Max Planck Society"
+    }, 
+    {
+        "content": "cancel. martin vingron. max-planck-institut für ... verified email at molgen.mpg.de. scholar ... w huber, a von heydebreck, h sültmann, a poustka, m vingron.", 
+        "email_addr_list": [
+            "email@molgen.mpg.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6uTDJ9oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Martin Vingron - Google Scholar Citations"
+    }
+]

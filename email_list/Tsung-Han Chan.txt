@@ -1,0 +1,47 @@
+[
+    {
+        "content": "tsung-han chan, ph.d. senior engineer,. mediatek inc.,. no. 1, dusing ... e-mail: thchan@ieee.org. tsung-han chans biography. educations: ph.d. degree in...", 
+        "email_list": [
+            "thchan@ieee.org"
+        ], 
+        "cite_url": "mx.nthu.edu.tw/~tsunghan/", 
+        "cite_name": "National Tsing Hua University", 
+        "title": "Tsung-Han Chans (詹宗翰) Homepage"
+    }, 
+    {
+        "content": "e-mail: thchan@ieee.org ... tsung-han chans publications (google ) ... x. fu, w.-k. ma*, t.-h. chan, and j. m. bioucas-dias, self-dictionary sparse regression...", 
+        "email_list": [
+            "thchan@ieee.org"
+        ], 
+        "cite_url": "mx.nthu.edu.tw/~tsunghan/Publications.html", 
+        "cite_name": "National Tsing Hua University", 
+        "title": "Tsung-Han Chans Homepage"
+    }, 
+    {
+        "content": "tsung han chan (詹宗翰). mediatek inc. ... verified email at ieee.org - homepage  scholar ... wk ma, jm bioucas-dias, th chan, n gillis, p gader, aj plaza, .", 
+        "email_list": [
+            "email@ieee.org"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=WDJ7tY0AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Tsung Han Chan (詹宗翰) - Google Scholar Citations"
+    }, 
+    {
+        "content": "e-mail：, thlee@email.nchu.edu.tw. lab. ..... chia-hao chang(張家豪)* and tsung-han lee 2014/01 oxidative stress-induced apoptosis in livers of the milkfish...", 
+        "email_list": [
+            "thlee@email.nchu.edu.tw"
+        ], 
+        "cite_url": "lifes.nchu.edu.tw/en_teacher02.asp?...", 
+        "cite_name": "National Chung Hsing University", 
+        "title": "Tsung-Han Lee - 中興大學生命科學系"
+    }, 
+    {
+        "content": "aug 18, 2015 - ... taipei city, taiwan 23552, r.o.c.(email: aareul@ieee.org) ; chan, tsung-han ; lin ... download citation  email; print; request permissions.", 
+        "email_list": [
+            "aareul@ieee.org"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../article...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "analysis for prostate tumor characterization - IEEE Xplore"
+    }
+]

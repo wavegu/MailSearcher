@@ -1,0 +1,47 @@
+[
+    {
+        "content": "vaidy sunderam. samuel ... email: vss@emory.edu. brief bio. vaidy sunderam has been a faculty member at emory university since 1986. his research...", 
+        "email_list": [
+            "vss@emory.edu"
+        ], 
+        "cite_url": "www.mathcs.emory.edu/~vss/", 
+        "cite_name": "Emory University", 
+        "title": "Vaidy Sunderam -- Emory University"
+    }, 
+    {
+        "content": "vaidy sunderam. samuel candler dobbs professor. department chair (chair) ... email: vss@emory.edu. personal website: http://www.mathcs.emory.edu/~vss.", 
+        "email_list": [
+            "vss@emory.edu"
+        ], 
+        "cite_url": "www.mathcs.emory.edu/faculty-member.php?...Vaidy-...", 
+        "cite_name": "Emory University", 
+        "title": "Vaidy Sunderam - Math/CS"
+    }, 
+    {
+        "content": "sep 9, 2015 - email: vss@emory.edu. education. 1986. ph.d. ..... li xiong, vaidy sunderam, “security and privacy dimensions in next generation. dddas...", 
+        "email_list": [
+            "vss@emory.edu"
+        ], 
+        "cite_url": "www.mathcs.emory.edu/~vss/cv.pdf", 
+        "cite_name": "Emory University", 
+        "title": "[PDF]Vaidy Sunderam - Emory University"
+    }, 
+    {
+        "content": "jul 28, 2004 - vaidy sunderam ... atlanta, ga 30307 emory university, atlanta, ga 30322 email: vss@mathcs.emory.edu (404) 727-5926 (w); (404) 370-1211...", 
+        "email_list": [
+            "vss@mathcs.emory.edu"
+        ], 
+        "cite_url": "www.mathcs.emory.edu/~vss/onevita.html", 
+        "cite_name": "Emory University", 
+        "title": "Vaidy Sunderam - Emory University"
+    }, 
+    {
+        "content": "the pvm system: status, trends, and directions * vaidy sunderam dept. of math ... university, atlanta ga 30322, usa email: vss@mathcs.emory.edu abstract.", 
+        "email_list": [
+            "vss@mathcs.emory.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540617795", 
+        "cite_name": "", 
+        "title": "Parallel Virtual Machine - EuroPVM'96: Third European PVM ..."
+    }
+]

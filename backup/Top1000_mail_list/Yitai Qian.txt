@@ -1,4 +1,29 @@
-ytqian@ustc.edu.cn	[10]
-ytqian@ustc.edu.cn.dr	[10]
-qianwen.li@tu-ilmenau.de	[9]
-ciclab@sdu.edu.cn	[1]
+[
+    {
+        "content": "email: qianwen.li@tu-ilmenau.de ... qianwen li, yan xue, yongchun zhu, yitaiqian*, facile synthesis and application of cusnanospheres in aqueous and...", 
+        "email_addr_list": [
+            "qianwen.li@tu-ilmenau.de"
+        ], 
+        "cite_url": "https://www.tu-ilmenau.de/.../dr-qianwen...", 
+        "cite_name": "Technische Universität Ilmenau", 
+        "title": "Dr. Qianwen Li - TU Ilmenau"
+    }, 
+    {
+        "content": "email address: m.pourbabaee [at] kashanu.ac.ir. editorial board. yitai qian. university of science and technology of china, 230026 hefei, p. r. china.", 
+        "email_addr_list": [
+            "m.pourbabaee@kashanu.ac.ir"
+        ], 
+        "cite_url": "jns.kashanu.ac.ir/journal/editorial.board", 
+        "cite_name": "", 
+        "title": "Journal of NanoStructures - Editorial Board"
+    }, 
+    {
+        "content": "zhu yongchun  qian yitai. hefei national laboratory for ... of china (grant no. 20431020). corresponding authors: qian yitai email: ytqian@ustc.edu.cn...", 
+        "email_addr_list": [
+            "ytqian@ustc.edu.cn"
+        ], 
+        "cite_url": "phys.scichina.com:8083/sciGe/EN/abstract/abstract411030.shtml", 
+        "cite_name": "", 
+        "title": "Solution-phase synthesis of nanomaterials at low temperature"
+    }
+]

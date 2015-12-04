@@ -1,0 +1,29 @@
+[
+    {
+        "content": "... 1363; fax: +61 7 3138 1469; email: felipe.gonzalez@qut.edu.au; location: view location details (qut staff and student access only); social media: linkedin...", 
+        "email_list": [
+            "felipe.gonzalez@qut.edu.au"
+        ], 
+        "cite_url": "staff.qut.edu.au/staff/gonzalel/", 
+        "cite_name": "Queensland University of Technology", 
+        "title": "QUT | Staff Profiles | Felipe Gonzalez"
+    }, 
+    {
+        "content": "verified email at math.uh.edu. scholar. get my own profile ... r glowinski, tw pan, ti hesla, dd joseph, j periaux. journal of computational physics 169 (2),...", 
+        "email_list": [
+            "email@math.uh.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=1L0euJEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "TW Pan - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at stanford.edu - homepage  scholar ... rae mäkinen, j périaux, j toivanen ... n barberou, m garbey, m hess, mm resch, t rossi, j toivanen, .", 
+        "email_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=LC1_w24AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Jari Toivanen - Google Scholar Citations"
+    }
+]

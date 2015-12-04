@@ -1,0 +1,47 @@
+[
+    {
+        "content": "cancel. ming zhang. microsoft  networking. verified email at microsoft.com - homepage ... p bahl, r chandra, a greenberg, s kandula, da maltz, m zhang.", 
+        "email_list": [
+            "email@microsoft.com"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=7wsIB90AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Ming Zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "dr. ming zhang professor. office: luter hall 328. phone: (757) 594-7563. email: mzhang@cnu.edu. teaching responsibilities: computer science. research...", 
+        "email_list": [
+            "mzhang@cnu.edu"
+        ], 
+        "cite_url": "cnu.edu/pcs/faculty_staff/zhang.asp", 
+        "cite_name": "Christopher Newport University", 
+        "title": "Dr. Ming Zhang - Christopher Newport University"
+    }, 
+    {
+        "content": "ming zhang: current contact information and listing of economic research of this author provided by repec/ideas. ... email: zhangming@cass.org.cn.", 
+        "email_list": [
+            "zhangming@cass.org.cn"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pzh486.html", 
+        "cite_name": "", 
+        "title": "Ming Zhang at IDEAS"
+    }, 
+    {
+        "content": "dr. thomas ming-hung lee programme leader, bsc (hons) in bme (4-year). email ... email: / ming.zhang@polyu.edu.hk; tel: / 2766 4939; office: / st408.", 
+        "email_list": [
+            "ming.zhang@polyu.edu.hk"
+        ], 
+        "cite_url": "https://www.polyu.edu.hk/bme/.../peo...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "People - PolyU"
+    }, 
+    {
+        "content": "ir prof. ming zhang. email: ming.zhang@polyu.edu.hk. phd (london u), 1995 medical engineering and physics; mphil (beijing institute of tech), 1987...", 
+        "email_list": [
+            "ming.zhang@polyu.edu.hk"
+        ], 
+        "cite_url": "https://www.polyu.edu.hk/.../ir-prof-...", 
+        "cite_name": "Hong Kong Polytechnic University", 
+        "title": "Ir Prof. Ming ZHANG - The Hong Kong Polytechnic University"
+    }
+]

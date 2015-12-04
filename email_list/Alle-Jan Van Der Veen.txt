@@ -1,0 +1,39 @@
+[
+    {
+        "content": "sep 13, 2014 - email: a.j.vanderveen@tudelft.nl ... alle-jan van der veen is professor and chair of the circuits and systems group. the group covers signal...", 
+        "email_list": [
+            "a.j.vanderveen@tudelft.nl"
+        ], 
+        "cite_url": "cas.et.tudelft.nl/~allejan/", 
+        "cite_name": "Delft University of Technology", 
+        "title": "Alle-Jan van der Veen - Circuits and Systems - TU Delft"
+    }, 
+    {
+        "content": "email: a.j.vanderveen@tudelft.nl .... albert-jan boonstra (2005) .... [44] lang tong, alle-jan van der veen, patrick dewilde, and youngchul sung, “blind decor-.", 
+        "email_list": [
+            "a.j.vanderveen@tudelft.nl"
+        ], 
+        "cite_url": "cas.tudelft.nl/~allejan/cv.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]PERSONAL DATA RESUME Prof.dr.ir. Alle-Jan van der ..."
+    }, 
+    {
+        "content": "verified email at tudelft.nl - homepage  scholar ... aj van der veen, mc vanderveen, a paulraj ... h bölcskei, d gesbert, cb papadias, aj van der veen.", 
+        "email_list": [
+            "email@tudelft.nl"
+        ], 
+        "cite_url": "scholar.google.nl/citations?user...hl=en", 
+        "cite_name": "Google", 
+        "title": "Alle-Jan van der Veen - Google Scholar Citations"
+    }, 
+    {
+        "content": "mu zhou and alle-jan van der veen. delft university of technology, ... email: zhoumu1301@gmail.com; a.j.vanderveen@tudelft.nl. the automatic identification...", 
+        "email_list": [
+            "zhoumu1301@gmail.com", 
+            "a.j.vanderveen@tudelft.nl"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../06...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "BLIND BEAMFORMING TECHNIQUES FOR AUTOMATIC ..."
+    }
+]

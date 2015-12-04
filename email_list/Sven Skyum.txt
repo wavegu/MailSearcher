@@ -1,0 +1,11 @@
+[
+    {
+        "content": "... july 13-17, 1998, proceedings kim g. larsen, sven skyum, glynn winskel ... of pennsylvania and bell laboratories, email: alur@cis.upenn.edu ** cadence...", 
+        "email_list": [
+            "alur@cis.upenn.edu"
+        ], 
+        "cite_url": "https://books.google.com/books?isbn=3540647813", 
+        "cite_name": "", 
+        "title": "Automata, Languages and Programming: 25th International ..."
+    }
+]

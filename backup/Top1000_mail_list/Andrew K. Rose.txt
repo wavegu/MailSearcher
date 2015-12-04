@@ -1,4 +1,29 @@
-andrewkrose@berkeley.edu	[22]
-andrewkrose@berkeley.edu.andrew	[22]
-arose@haas.berkeley.edu	[10]
-email at haas.berkeley.edu	[4]
+[
+    {
+        "content": "university of california, berkeley - andrew k roses home page. ... telephone: 510-642-6609. facsimile: 510-642-4700. email: andrewkrose@berkeley.edu.", 
+        "email_addr_list": [
+            "andrewkrose@berkeley.edu"
+        ], 
+        "cite_url": "faculty.haas.berkeley.edu/arose/", 
+        "cite_name": "Haas School of Business", 
+        "title": "Andrew K. Rose - Faculty Directory | Berkeley-Haas"
+    }, 
+    {
+        "content": "andrew k rose. professor of ... verified email at haas.berkeley.edu - homepage ... one money, one market: the effect of common currencies on trade. ak rose.", 
+        "email_addr_list": [
+            "email@haas.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=XhpyWAMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Andrew K Rose - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: arose@haas.berkeley.edu ... christoph moser  andrew k. rose, 2012. why do ... francis breedon  thórarinn g. pétursson  andrew k. rose, 2011.", 
+        "email_addr_list": [
+            "arose@haas.berkeley.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/e/pro71.html", 
+        "cite_name": "", 
+        "title": "Andrew Kenan Rose at IDEAS"
+    }
+]

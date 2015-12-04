@@ -1,2 +1,20 @@
-lakoff@berkeley.edu	[13]
-email at berkeley.edu	[2]
+[
+    {
+        "content": "picture of george p. lakoff. cognitive linguistics ... contact information. email: lakoff@berkeley.edu ... each semester. web site: http://www.georgelakoff.com...", 
+        "email_addr_list": [
+            "lakoff@berkeley.edu"
+        ], 
+        "cite_url": "linguistics.berkeley.edu/person/21", 
+        "cite_name": "University of California, Berkeley", 
+        "title": "George P. Lakoff | Linguistics at Berkeley"
+    }, 
+    {
+        "content": "cancel. george lakoff ... verified email at berkeley.edu - homepage ... the contemporary theory of metaphor. g lakoff. metaphor and thought 2, 202-251, 1993.", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=KEU0vpcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "George Lakoff - Google Scholar Citations"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aziz mohaisen. suny buffalo ... verified email at buffalo.edu - homepage  scholar ... m schuchard, a mohaisen, d foo kune, n hopper, y kim, ey vasserman.", 
+        "email_list": [
+            "email@buffalo.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=q387AywAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Aziz Mohaisen - Google Scholar Citations"
+    }, 
+    {
+        "content": "photo of abedelaziz (aziz) mohaisen ... fax: (716) 645-3464. email: mohaisen@buffalo.edu. personal page: http://www.cse.buffalo.edu/~mohaisen...", 
+        "email_list": [
+            "mohaisen@buffalo.edu"
+        ], 
+        "cite_url": "www.cse.buffalo.edu/people/?u=mohaisen", 
+        "cite_name": "University at Buffalo", 
+        "title": "Abedelaziz (Aziz) Mohaisen - UB Computer Science and ..."
+    }, 
+    {
+        "content": "e-mail: mohaisen@cs.umn.edu. minneapolis, mn 55455. www: http://www.cs.umn.edu/~mohaisen. research. interests. distributed systems security and...", 
+        "email_list": [
+            "mohaisen@cs.umn.edu"
+        ], 
+        "cite_url": "syssec.kaist.ac.kr/~yongdaek/doc/cv2p.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]ABEDELAZIZ MOHAISEN - SysSec (System Security) Lab"
+    }
+]

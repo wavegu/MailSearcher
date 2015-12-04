@@ -1,0 +1,56 @@
+[
+    {
+        "content": "christian zwieb, phd, professor/research ... email: zwieb@uthscsa.edu. web page(s): http://rnp.uthscsa.edu/rnp/zwieb/zwiebfac.html. education: ph.d. 1979,...", 
+        "email_list": [
+            "zwieb@uthscsa.edu"
+        ], 
+        "cite_url": "biochem.uthscsa.edu/faculty.php?displayID=246", 
+        "cite_name": "", 
+        "title": "Christian Zwieb, PhD photo - Department of Biochemistry"
+    }, 
+    {
+        "content": "aug 7, 2012 - christian w. zwieb, ph.d. habil ... email: zwieb@uthscsa.edu .... burks, j.m., zwieb, c., müller, f., wower, i.k. and wower, j. (2011) in silico...", 
+        "email_list": [
+            "zwieb@uthscsa.edu"
+        ], 
+        "cite_url": "rnp.uthscsa.edu/rnp/zwieb/ZwiebFac.html", 
+        "cite_name": "", 
+        "title": "Research of Christian Zwieb"
+    }, 
+    {
+        "content": "tyler, texas 75708-3154 tel. (903) 877-7689, fax. (903) 877-5731 skype: czwieb, email: zwieb@uthct.edu. ph.d. 1979, habil 1987, free university, berlin,...", 
+        "email_list": [
+            "zwieb@uthct.edu"
+        ], 
+        "cite_url": "rnp.uthscsa.edu/rnp/zwieb/Teaching.html", 
+        "cite_name": "", 
+        "title": "Teaching: Christian Zwieb - The RNP Databases at UTHSCSA"
+    }, 
+    {
+        "content": "christian w zwieb - professor/research. ... christian w zwieb. professor/research, biochemistry. email: zwieb@uthscsa.edu...", 
+        "email_list": [
+            "zwieb@uthscsa.edu"
+        ], 
+        "cite_url": "uthscsa.influuent.utsystem.edu/.../christian...zwieb(240b9697.../similar.html", 
+        "cite_name": "", 
+        "title": "Christian W Zwieb - UT Health Science Center at San Antonio"
+    }, 
+    {
+        "content": "jul 7, 2009 - *correspondence to: christian zwieb; email: zwieb@uthct.edu. the signal recognition particle (srp) is a ribonucleoprotein complex which.", 
+        "email_list": [
+            "zwieb@uthct.edu"
+        ], 
+        "cite_url": "www.tandfonline.com/doi/pdf/10.4161/rna.6.5.9753", 
+        "cite_name": "", 
+        "title": "Kinship in the SRP RNA family"
+    }, 
+    {
+        "content": "christian zwieba and tore samuelsson1 .... hardcopies of the alignments are available by email request to the first author at zwieb@uthct.edu or through written...", 
+        "email_list": [
+            "zwieb@uthct.edu"
+        ], 
+        "cite_url": "www.ncbi.nlm.nih.gov/...", 
+        "cite_name": "National Center for Biotechnology Information", 
+        "title": "SRPDB (Signal Recognition Particle Database)"
+    }
+]

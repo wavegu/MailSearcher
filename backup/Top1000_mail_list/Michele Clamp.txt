@@ -1,3 +1,20 @@
-michele.clamp@gmail.com	[25]
-clamp@harvard.edu	[12]
-email at g.harvard.edu	[2]
+[
+    {
+        "content": "michele clamp, phd. director of informatics and scientific applications, faculty of arts and sciences michele_clamp@harvard.edu (617) 495-9492.", 
+        "email_addr_list": [
+            "michele_clamp@harvard.edu"
+        ], 
+        "cite_url": "www.conte.harvard.edu/bioinformatics/", 
+        "cite_name": "Harvard University", 
+        "title": "Bioinformatics — Conte Center at Harvard"
+    }, 
+    {
+        "content": "create alert. cancel. michele clamp. unknown affiliation. verified email at g.harvard.edu ... am waterhouse, jb procter, dma martin, m clamp, gj barton.", 
+        "email_addr_list": [
+            "email@g.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jDJuy5QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Michele Clamp - Google Scholar Citations"
+    }
+]

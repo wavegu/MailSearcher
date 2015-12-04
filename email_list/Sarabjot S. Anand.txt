@@ -1,0 +1,11 @@
+[
+    {
+        "content": "verified email at warwick.ac.uk. scholar ... m baumgarten, ag büchner, ss anand, md mulvenna, jg hughes ... n rooney, d patterson, s anand, a tsymbal.", 
+        "email_list": [
+            "email@warwick.ac.uk"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=CtXeNuAAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Sarabjot Singh Anand - Google Scholar Citations"
+    }
+]

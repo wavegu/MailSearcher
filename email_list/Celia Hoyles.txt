@@ -1,0 +1,29 @@
+[
+    {
+        "content": "professor dame celia hoyles. dbe, phd, bsc (hons), fima, ... staff profile. tel: +44 (0)20 7612 6659; fax: +44 (0)20 7612 6792; email: c.hoyles@ioe.ac.uk...", 
+        "email_list": [
+            "c.hoyles@ioe.ac.uk"
+        ], 
+        "cite_url": "www.ioe.ac.uk/staff/LKLB_21.html", 
+        "cite_name": "UCL Institute of Education", 
+        "title": "Celia Hoyles - UCL Institute of Education, University College ..."
+    }, 
+    {
+        "content": "professor dame celia hoyles. (university of ... mathematical sciences, university of nottingham, email: stephen.hibberd@nottingham.ac.uk. web details of e...", 
+        "email_list": [
+            "stephen.hibberd@nottingham.ac.uk"
+        ], 
+        "cite_url": "www.ima.org.uk/_.../2015%...", 
+        "cite_name": "Institute of Mathematics and its Applications", 
+        "title": "[PDF]Professor Dame Celia Hoyles"
+    }, 
+    {
+        "content": "jan 2, 2014 - celia hoyles. after graduating with a first class honours degree from the school of maths professor celia hoyles has gone on to build up a ... comments on this website? email websupport-maths@manchester.ac.uk...", 
+        "email_list": [
+            "websupport-maths@manchester.ac.uk"
+        ], 
+        "cite_url": "www.maths.manchester.ac.uk/.../school-of-mat...", 
+        "cite_name": "University of Manchester", 
+        "title": "News and events | School of Maths alumna to be made a ..."
+    }
+]

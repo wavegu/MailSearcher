@@ -1,5 +1,29 @@
-sign-in.tomasz.imielinski@yahoo.com	[14]
-tomasz.imielinski@yahoo.com	[14]
-email at cs.rutgers.edu	[3]
-imielins@cs.rutgers	[2]
-imielins@cs.rutgers.tomasz	[2]
+[
+    {
+        "content": "tomasz imielinski. professor of computer ... verified email at cs.rutgers.edu. scholar. get my own ... t imielinski, s viswanathan, br badrinath. knowledge and...", 
+        "email_addr_list": [
+            "email@cs.rutgers.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fEYp6hEAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "tomasz imielinski - Google Scholar Citations"
+    }, 
+    {
+        "content": "computer science department busch campus rutgers, the state university piscataway, nj 08855. voice: +1 908 445-3551. fax: email: imielins@cs.rutgers.", 
+        "email_addr_list": [
+            "imielins@cs.rutgers"
+        ], 
+        "cite_url": "www.networksorcery.com/enp/authors/ImielinskiTomasz.htm", 
+        "cite_name": "", 
+        "title": "Imielinski, Tomasz - Network Sorcery"
+    }, 
+    {
+        "content": "the list below contains all domains related to the email address tomasz.imielinski@yahoo.com. the listed domains are showing the mentioned email address in...", 
+        "email_addr_list": [
+            "tomasz.imielinski@yahoo.com"
+        ], 
+        "cite_url": "website.informer.com/email/tomasz.imielinski@yahoo.com", 
+        "cite_name": "", 
+        "title": "Tomasz.imielinski@yahoo.com at Website Informer"
+    }
+]

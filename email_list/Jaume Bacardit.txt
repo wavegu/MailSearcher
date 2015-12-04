@@ -1,0 +1,47 @@
+[
+    {
+        "content": "apr 23, 2014 - email: jaume.bacardit@ncl.ac.uk; telephone: +44 191 208 7784; personal website: http://homepages.cs.ncl.ac.uk/jaume.bacardit/; address:...", 
+        "email_list": [
+            "jaume.bacardit@ncl.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Newcastle University", 
+        "title": "Dr Jaume Bacardit - Newcastle University"
+    }, 
+    {
+        "content": "personal information. - full name: jaume bacardit i peñarroya. - nationality: spanish. - year of birth: 1976. - email: jaume.bacardit@newcastle.ac.uk.", 
+        "email_list": [
+            "jaume.bacardit@newcastle.ac.uk"
+        ], 
+        "cite_url": "homepages.cs.ncl.ac.uk/jaume.bacardit/cvJaumeBacardit.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Dr. Jaume Bacardit Curriculum Vitae January 2014"
+    }, 
+    {
+        "content": "jaume bacardit. senior lecturer in ... verified email at newcastle.ac.uk - homepage  scholar ... j bacardit, m stout, jd hirst, k sastry, x llorà, n krasnogor.", 
+        "email_list": [
+            "email@newcastle.ac.uk"
+        ], 
+        "cite_url": "https://scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jaume Bacardit - Google Scholar Citations"
+    }, 
+    {
+        "content": "jaume bacardit montagut. email: jaume.bacardit@crg.eu. telephone: 933160278. group: finance: accounting / scientific  technical services management.", 
+        "email_list": [
+            "jaume.bacardit@crg.eu"
+        ], 
+        "cite_url": "www.crg.eu/en/group-members/jaume-bacardit-montagut", 
+        "cite_name": "", 
+        "title": "Jaume Bacardit Montagut | crg"
+    }, 
+    {
+        "content": "view jaume bacardits business profile and see work history, affiliations and more. ... email: jaume.bacardit@ncl.ac.uk telephone: +44 191 208 7784.", 
+        "email_list": [
+            "jaume.bacardit@ncl.ac.uk"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Jaume-Bacardit/-2102407186", 
+        "cite_name": "", 
+        "title": "Jaume Bacardit | Newcastle University | ZoomInfo.com"
+    }
+]

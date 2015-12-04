@@ -1,0 +1,47 @@
+[
+    {
+        "content": "nicolas spyratos professor emeritus of computer science, at the ... université de paris-sud 91405 orsay cedex, france email address : spyratos@lri.fr", 
+        "email_list": [
+            "spyratos@lri.fr"
+        ], 
+        "cite_url": "https://www.lri.fr/~spyratos/", 
+        "cite_name": "", 
+        "title": "Nicolas Spyratos - LRI"
+    }, 
+    {
+        "content": "personal web page : http://www.lri.fr/~spyratos/ email : nicolas.spyratos@lri.fr. principle ... faculty habilitations. faculty habilitation - spyratos.03-01-1981.", 
+        "email_list": [
+            "nicolas.spyratos@lri.fr"
+        ], 
+        "cite_url": "https://www.lri.fr/membre_en.php?mb=241", 
+        "cite_name": "", 
+        "title": "Mr SPYRATOS Nicolas - Laboratoire de Recherche en ..."
+    }, 
+    {
+        "content": "email address : spyratos@lri.fr. telephone number : +33169156629. facsimile number : +33169156586. nicolas spyratos received his beng degree from the...", 
+        "email_list": [
+            "spyratos@lri.fr"
+        ], 
+        "cite_url": "www.teriin.org/events/.../nicolas.pdf", 
+        "cite_name": "The Energy and Resources Institute", 
+        "title": "[PDF]Nicolas Spyratos (Updated) Professor of Computer ... - TERI"
+    }, 
+    {
+        "content": "nicolas spyratos – short cv (dec.2011). (spyratos@lri.fr). personal: 69 years old, married, two children. citizenship: greek, canadian, french. address: 4...", 
+        "email_list": [
+            "spyratos@lri.fr"
+        ], 
+        "cite_url": "www.uoc.gr/.../24.biografiko_simeioma_short-cv-eng...", 
+        "cite_name": "University of Crete", 
+        "title": "[PDF]Nicolas SPYRATOS – Short CV (Dec.2011)"
+    }, 
+    {
+        "content": "tel : +33(0)169156624, fax : +33(0)169156586, email : spyratos@lri.fr. nicolas spyratos is professor emeritus of computer science at the university of paris...", 
+        "email_list": [
+            "spyratos@lri.fr"
+        ], 
+        "cite_url": "www.aucc-con.org/aucc2015/documents/speaker1_abstract.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Nicolas Spyratos is professor of computer science ... - AUCC"
+    }
+]

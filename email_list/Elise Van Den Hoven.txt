@@ -1,0 +1,47 @@
+[
+    {
+        "content": "elise van den hoven works as an associate professor in the school of design, ... email. elise.vandenhoven@uts.edu.au. phone. +61 2 9514 8967. room.", 
+        "email_list": [
+            "elise.vandenhoven@uts.edu.au"
+        ], 
+        "cite_url": "www.uts.edu.au/staff/elise.vandenhoven", 
+        "cite_name": "University of Technology Sydney", 
+        "title": "Elise van den Hoven | University of Technology Sydney"
+    }, 
+    {
+        "content": "e.a.w.h. (elise) van den hoven mtd - expertise. hoven, dr. e.a.w.h. van den mtd ... 40-247 8360; tel (internal): 8360; email: e.v.d.hoven@remove-this.tue.nl.", 
+        "email_list": [
+            "e.v.d.hoven@remove-this.tue.nl"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Eindhoven University of Technology", 
+        "title": "dr. E.A.W.H. (Elise) van den Hoven MTD - Expertise"
+    }, 
+    {
+        "content": "verified email at uts.edu.au - homepage  scholar. get my own profile ... w ijsselsteijn, y de kort, c midden, b eggen, e van den hoven. persuasive technology...", 
+        "email_list": [
+            "email@uts.edu.au"
+        ], 
+        "cite_url": "scholar.google.com.au/citations?user=xmyfzsUAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Elise van den Hoven - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 27, 2015 - email : elise.vandenhoven@uts.edu.au ... elise van den hoven has a joint appointment as associate professor in the school of design, faculty...", 
+        "email_list": [
+            "elise.vandenhoven@uts.edu.au"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Associate Professor Elise van den Hoven - Personal Profile ..."
+    }, 
+    {
+        "content": "elise van den hoven: assistant professor in tangible and physical interaction. ... employer: eindhoven university of technology (); email: e.v.d.hoven@tue.nl.", 
+        "email_list": [
+            "e.v.d.hoven@tue.nl"
+        ], 
+        "cite_url": "https://www.interaction-design.org/literature/author/elise-van-den-hoven", 
+        "cite_name": "", 
+        "title": "Elise van den Hoven: Publications, bio, bibliography, etc ..."
+    }
+]

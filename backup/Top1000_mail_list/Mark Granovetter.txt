@@ -1,2 +1,29 @@
-mgranovetter@stanford.edu	[24]
-email at stanford.edu	[2]
+[
+    {
+        "content": "mark granovetters main interest is in the way people, social networks and social ... contact. phone: 650-723-4664. email: mgranovetter@stanford.edu. office:.", 
+        "email_addr_list": [
+            "mgranovetter@stanford.edu"
+        ], 
+        "cite_url": "https://sociology.stanford.edu/people/mark-granovetter", 
+        "cite_name": "", 
+        "title": "Mark Granovetter | Department of Sociology"
+    }, 
+    {
+        "content": "create alert. cancel. mark granovetter. department of sociology, stanford university. verified email at stanford.edu ... ms granovetter. american journal of...", 
+        "email_addr_list": [
+            "email@stanford.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=OlKVqZ8AAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Mark Granovetter - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: mgranovetter@stanford.edu  curriculum vitaedocuments/resumark_000.doc. professor mark granovetter is currently concentrating on three main...", 
+        "email_addr_list": [
+            "mgranovetter@stanford.edu"
+        ], 
+        "cite_url": "ecsocman.hse.ru/data/528/132/1231/Granovetter.doc", 
+        "cite_name": "", 
+        "title": "[DOC]Mark Granovetter"
+    }
+]

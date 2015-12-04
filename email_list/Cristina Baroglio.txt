@@ -1,0 +1,20 @@
+[
+    {
+        "content": "cristina baroglios home page (didattica) ... e-mail: baroglio[at]di.unito.it ... cristina baroglio took her ``laurea degree in computer science at the university of...", 
+        "email_list": [
+            "baroglio@di.unito.it"
+        ], 
+        "cite_url": "www.di.unito.it/~baroglio/", 
+        "cite_name": "University of Turin", 
+        "title": "Cristina Baroglio - Dipartimento di Informatica"
+    }, 
+    {
+        "content": "cristina bergoglio. home artists cristina bergoglio. feel free to call us +351 289 419 447 info@artcatto.com. cristina-bergoglio bio. cristina .... email address:...", 
+        "email_list": [
+            "info@artcatto.com"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Cristina Bergoglio | Artwork Categories | Artcatto"
+    }
+]

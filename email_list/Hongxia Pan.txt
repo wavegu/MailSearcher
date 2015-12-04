@@ -1,0 +1,29 @@
+[
+    {
+        "content": "cancel. hongxia chen. school of life sciencese, shanghai university  biochip, nanotech. verified email at shu.edu.cn ... yf lin, hm chen, fh chu, sc pan.", 
+        "email_list": [
+            "email@shu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=29BJ-fEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hongxia Chen - Google Scholar Citations"
+    }, 
+    {
+        "content": "hongxia pan. college of mechanical and power engineering. north university of china. 030051 taiyuan, china email:panhx1015@163.com. abstract—engine...", 
+        "email_list": [
+            "panhx1015@163.com"
+        ], 
+        "cite_url": "ieeexplore.ieee.org/.../0698...", 
+        "cite_name": "Institute of Electrical and Electronics Engineers", 
+        "title": "Engine fault diagnosis based on the weighted DS evidence ..."
+    }, 
+    {
+        "content": "jul 16, 2009 - e-mail: daijy@ioz.ac.cn. address: key laboratory of animal ecology ... yang liu, jianshe wang, yong liu, hongxia zhang, muqi xu jiayin dai*. ... jun xu, min yang，jiayin dai, hong cao , canping pan, xinghui qiu, muqi xu...", 
+        "email_list": [
+            "daijy@ioz.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_ioz_cas/yw/scs/.../t20090716_2088448.html", 
+        "cite_name": "", 
+        "title": "DAI, Jia-Yin----Institute of Zoology Chinese Academy of ..."
+    }
+]

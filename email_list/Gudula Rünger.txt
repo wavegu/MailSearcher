@@ -1,0 +1,40 @@
+[
+    {
+        "content": "prof. gudula rünger. computer science department. chemnitz university of technology. 09107 chemnitz, germany. email: ruenger@cs.tu-chemnitz.de.", 
+        "email_list": [
+            "ruenger@cs.tu-chemnitz.de"
+        ], 
+        "cite_url": "www.nesus.eu/gudula-ruenger-wg-6-leader", 
+        "cite_name": "", 
+        "title": "Gudula Ruenger. WG 6 Leader - NESUS: Network for ..."
+    }, 
+    {
+        "content": "aug 4, 2011 - room: com2, #04 39. email: teoym@comp.nus.edu.sg ... systems, thomas rauber and gudula rünger, 1st edition,. systems, thomas rauber...", 
+        "email_list": [
+            "teoym@comp.nus.edu.sg"
+        ], 
+        "cite_url": "www.comp.nus.edu.sg/.../L00-Overvie...", 
+        "cite_name": "National University of Singapore", 
+        "title": "[PDF]L00 – Course Admin"
+    }, 
+    {
+        "content": "aug 7, 2013 - room: com2, #04-39. email: teoym@comp.nus.edu.sg ... systems, thomas rauber and gudula rünger, 1st edition,. springer-verlag, 2010...", 
+        "email_list": [
+            "teoym@comp.nus.edu.sg"
+        ], 
+        "cite_url": "www.comp.nus.edu.sg/.../L00-Overvie...", 
+        "cite_name": "National University of Singapore", 
+        "title": "[PDF]L00: Course Admin"
+    }, 
+    {
+        "content": "email: ltyang@stfx.ca email: rauber@uni-bayreuth.de email: peter.strazdins@cs.anu.edu.au. gudula rünger yinglong xia neil n. xiong. chemnitz university of...", 
+        "email_list": [
+            "ltyang@stfx.ca", 
+            "rauber@uni-bayreuth.de", 
+            "peter.strazdins@cs.anu.edu.au"
+        ], 
+        "cite_url": "cse.stfx.ca/~pdsec13/.../cfp-pdsec13.doc", 
+        "cite_name": "St. Francis Xavier University", 
+        "title": "[DOC]Word - Computer Science"
+    }
+]

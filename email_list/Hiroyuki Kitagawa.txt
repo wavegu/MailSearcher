@@ -1,0 +1,11 @@
+[
+    {
+        "content": "cancel. hiroyuki kitagawa. univeristy of tsukuba. verified email at cs.tsukuba.ac.jp - homepage ... s papadimitriou, h kitagawa, pb gibbons, c faloutsos.", 
+        "email_list": [
+            "email@cs.tsukuba.ac.jp"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dJccY-UAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Hiroyuki Kitagawa - Google Scholar Citations"
+    }
+]

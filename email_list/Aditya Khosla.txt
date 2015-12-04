@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email: khosla@csail.mit.edu. office: 32- ... aditya khosla*, adrià recasens*, carl vondrick and antonio torralba (* - indicates equal contribution) to appear in...", 
+        "email_list": [
+            "khosla@csail.mit.edu"
+        ], 
+        "cite_url": "https://people.csail.mit.edu/khosla/", 
+        "cite_name": "", 
+        "title": "Aditya Khosla - People.csail.mit.edu"
+    }, 
+    {
+        "content": "aditya khosla. phd student, mit  computer vision, machine learning. verified email at mit.edu - homepage ... j ngiam, a khosla, m kim, j nam, h lee, ay ng.", 
+        "email_list": [
+            "email@mit.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=75x4pdcAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Aditya Khosla - Google Scholar Citations"
+    }, 
+    {
+        "content": "aditya khosla, tinghui zhou, tomasz malisiewicz, alexei a. efros, antonio ... if you have any feedback, please email aditya khosla at khosla@csail.mit.edu.", 
+        "email_list": [
+            "khosla@csail.mit.edu"
+        ], 
+        "cite_url": "https://github.com/adikhosla/feature-extraction", 
+        "cite_name": "", 
+        "title": "adikhosla/feature-extraction · GitHub"
+    }
+]

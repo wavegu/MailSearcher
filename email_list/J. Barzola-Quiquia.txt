@@ -1,0 +1,29 @@
+[
+    {
+        "content": "sep 12, 2014 - linnéstraße 5 04103 leipzig, germany. office 515. phone: +49 341 9732765. fax: +49 341 9732769 email: j.barzola@physik.uni-leipzig.de.", 
+        "email_list": [
+            "j.barzola@physik.uni-leipzig.de"
+        ], 
+        "cite_url": "home.uni-leipzig.de/jbq/", 
+        "cite_name": "Leipzig University", 
+        "title": "J. Barzola Quiquia - Universität Leipzig"
+    }, 
+    {
+        "content": "verified email at physik.hu-berlin.de - homepage  scholar ... a arndt, d spoddig, p esquinazi, j barzola-quiquia, s dusari, t butz. physical review b 80 (19),...", 
+        "email_list": [
+            "email@physik.hu-berlin.de"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Zl6c5dEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Srujana Dusari - Google Scholar Citations"
+    }, 
+    {
+        "content": "oct 8, 2010 - j. barzola-quiquia  j.barzola@physik.uni-leipzig.de (1); s. dusari (1); c. chiliotte (1) (2); p. esquinazi (1). author affiliations. 1. division of...", 
+        "email_list": [
+            "j.barzola@physik.uni-leipzig.de"
+        ], 
+        "cite_url": "link.springer.com/.../10.1007%2Fs10948-...", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "Andreev Reflection and Granular Superconductivity ..."
+    }
+]

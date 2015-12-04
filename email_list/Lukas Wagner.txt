@@ -1,0 +1,11 @@
+[
+    {
+        "content": "lukas wagner frau dr.med.evelyne wagner-giuliani hauptstrase 35 ... bitte melden sich bei interesse per email lukas.wagner@hin.ch oder tel 061 319 91 95.", 
+        "email_list": [
+            "lukas.wagner@hin.ch"
+        ], 
+        "cite_url": "www.praxis-wagner.ch/", 
+        "cite_name": "", 
+        "title": "Gemeinschaftspraxis Wagner: Home - Die Hausarztpraxis ..."
+    }
+]

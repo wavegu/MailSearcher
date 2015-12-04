@@ -1,0 +1,56 @@
+[
+    {
+        "content": "verified email at sjtu.edu.cn. scholar ... j yu, x huang, c wu, x wu, g wang, p jiang. polymer 53 (2), 471-480, ... x huang, t iizuka, p jiang, y ohki, t tanaka.", 
+        "email_list": [
+            "email@sjtu.edu.cn"
+        ], 
+        "cite_url": "scholar.google.com.hk/citations?user=6oVwfucAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Xingyi Huang - Google Scholar Citations"
+    }, 
+    {
+        "content": "xingyi huang. associate professor. department of: polymer science and engineering. phone: 86-21-54740787-13. email: xyhuang@sjtu.edu.cn. employment", 
+        "email_list": [
+            "xyhuang@sjtu.edu.cn"
+        ], 
+        "cite_url": "scce.sjtu.edu.cn/en/jiaoshi.php?aid=71...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Xingyi HUANG - School of Chemistry and Chemical ..."
+    }, 
+    {
+        "content": "all rights reserved. powered by scce tel:+86-21-54742810 e-mail:chenzhe8406@sjtu.edu.cn address:no.800,dongchuan road shanghai postcode:200240", 
+        "email_list": [
+            "chenzhe8406@sjtu.edu.cn"
+        ], 
+        "cite_url": "scce.sjtu.edu.cn:8000/", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "Shanghai Jiao Tong University - School of Chemistry ..."
+    }, 
+    {
+        "content": "modern xing yi originated from dai clans liu he xin yi quan, was heavily influenced by .... yi quan, which had been evolved from xing yi quan by wang xiangzhai, ..... by directly contacting mr. bluestein, at: jonathan.bluestein@gmail.com).", 
+        "email_list": [
+            "jonathan.bluestein@gmail.com"
+        ], 
+        "cite_url": "https://en.wikipedia.org/wiki/Xing_Yi_Quan", 
+        "cite_name": "Wikipedia", 
+        "title": "Xing Yi Quan - Wikipedia, the free encyclopedia"
+    }, 
+    {
+        "content": "verified email at brown.edu. scholar. get my own ... h duan, x yi, z huang, j wang. mechanics of ... h duan, bl karihaloo, j wang, x yi. physical review b 73...", 
+        "email_list": [
+            "email@brown.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=fvWzq_QAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Xin Yi - Google Scholar Citations"
+    }, 
+    {
+        "content": "first name: huang last name: xingyi date of birth: 1987/8/16 gender: female email: 845545619@qq.com mobile phone: 13711340630 skill: i am familiar with...", 
+        "email_list": [
+            "845545619@qq.com"
+        ], 
+        "cite_url": "www.coroflot.com/huangxingyi/profile", 
+        "cite_name": "", 
+        "title": "Huang Xingyi in guangzhou, China"
+    }
+]

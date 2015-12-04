@@ -1,3 +1,29 @@
-huangyih@cs.gmu.edu	[2]
-computing@aw.com	[2]
-email at cc.gatech.edu	[1]
+[
+    {
+        "content": "create alert. cancel. shamkant b navathe ... database systems. verified email at cc.gatech.edu ... a savasere, er omiecinski, sb navathe. georgia institute of...", 
+        "email_addr_list": [
+            "email@cc.gatech.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=_Z12v2IAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Shamkant B Navathe - Google Scholar Citations"
+    }, 
+    {
+        "content": "copyright © 2007 ramez elmasri and shamkant b. navathe ... instructor: yih (ian) huang; office: st ii, rm 443; email: huangyih@cs.gmu.edu ... fundamentals of database system, by elmasri and navathe, 5th ed., addison wesley, 2007.", 
+        "email_addr_list": [
+            "huangyih@cs.gmu.edu"
+        ], 
+        "cite_url": "cs.gmu.edu/~huangyih/450/Lec01-intro.ppt", 
+        "cite_name": "George Mason University", 
+        "title": "[PPT]Introduction"
+    }, 
+    {
+        "content": "fundamentals of database systems / ramez elmasri, shamkant b. navathe.—6th ed ..... for more information, please e-mail computing@aw.com or contact your.", 
+        "email_addr_list": [
+            "computing@aw.com"
+        ], 
+        "cite_url": "www.inf.unideb.hu/.../Fundamentals_of_Database_...", 
+        "cite_name": "University of Debrecen", 
+        "title": "[PDF]Fundamentals of Database Systems"
+    }
+]

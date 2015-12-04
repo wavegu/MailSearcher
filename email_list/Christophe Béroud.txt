@@ -1,0 +1,20 @@
+[
+    {
+        "content": "co-responsable de la spécialité génétique humaine et médicale. - mcu-ph 1ère classe courriel : christophe.beroud@inserm.fr et (...)", 
+        "email_list": [
+            "christophe.beroud@inserm.fr"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Professeur des Universités - Christophe Beroud - Master en ..."
+    }, 
+    {
+        "content": "tel: 33 4 67 41 53 60 ; fax: 33 4 67 41 53 65 ; e-mail: christophe.beroud@inserm.fr. abstract: maturation of mrna in eukaryotes is a very complex process...", 
+        "email_list": [
+            "christophe.beroud@inserm.fr"
+        ], 
+        "cite_url": "www.umd.be/HSF/Desmet_2010.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Global Research Network, Res. Adv. in Nucleic Acid ... - UMD"
+    }
+]

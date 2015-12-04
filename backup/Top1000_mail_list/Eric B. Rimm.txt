@@ -1,3 +1,29 @@
-eric.rimm@channing.harvard.edu	[17]
-email at channing.harvard.edu	[3]
-ajcnsubmit@nutrition.org	[2]
+[
+    {
+        "content": "department of medicine channing division of network medicine 75 francis street boston, ma 02115. research email: eric.rimm@channing.harvard.edu...", 
+        "email_addr_list": [
+            "eric.rimm@channing.harvard.edu"
+        ], 
+        "cite_url": "researchfaculty.brighamandwomens.org/BRIProfile.aspx?id=5397", 
+        "cite_name": "", 
+        "title": "Eric Bruce Rimm, SCD - Department of Medicine"
+    }, 
+    {
+        "content": "houston, tx 77030-2600, e-mail: ajcnsubmit@nutrition.org ... david b allison, phd, david m klurfeld, phd ... arne astrup, md, dmsc, eric b rimm, scd.", 
+        "email_addr_list": [
+            "ajcnsubmit@nutrition.org"
+        ], 
+        "cite_url": "ajcn.nutrition.org/.../edboard....", 
+        "cite_name": "The American Journal of Clinical Nutrition", 
+        "title": "AJCN Online: Offices, Editors, Staff"
+    }, 
+    {
+        "content": "create alert. cancel. eric rimm ... verified email at channing.harvard.edu - homepage  scholar ... eb rimm, mj stampfer, a ascherio, e giovannucci, ga colditz, ... new england ... je manson, mj stampfer, ga colditz, wc willett, b rosner, .", 
+        "email_addr_list": [
+            "email@channing.harvard.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=U7sQDw4AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Eric Rimm - Google Scholar Citations"
+    }
+]

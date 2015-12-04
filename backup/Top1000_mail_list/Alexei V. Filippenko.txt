@@ -1,3 +1,20 @@
-email at berkeley.edu	[2]
-alex@astro.berkeley.edu.alex	[2]
-alex@astro.berkeley.edu	[2]
+[
+    {
+        "content": "alexei v. filippenko ... supernovae to determine the equation of state (pressure versus density) of the repulsive dark energy. ... email: alex@astro.berkeley.edu.", 
+        "email_addr_list": [
+            "alex@astro.berkeley.edu"
+        ], 
+        "cite_url": "w.astro.berkeley.edu/~alex/", 
+        "cite_name": "", 
+        "title": "Alex Filippenko - University of California, Berkeley"
+    }, 
+    {
+        "content": "cancel. alexei v. filippenko. professor of astronomy ... verified email at berkeley.edu. scholar ... ag riess, av filippenko, p challis, a clocchiatti, a diercks, .", 
+        "email_addr_list": [
+            "email@berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=dTpeWooAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alexei V. FILIPPENKO - Google Scholar Citations"
+    }
+]

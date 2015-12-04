@@ -1,0 +1,38 @@
+[
+    {
+        "content": "sep 21, 2000 - room: 454c direct phone: +46 46 22 285 31. dept. phone: +46 46 22 285 37. fax: +46 46 22 240 10 e-mail: anders.heyden@math.lth.se...", 
+        "email_list": [
+            "anders.heyden@math.lth.se"
+        ], 
+        "cite_url": "www.maths.lth.se/~andersp", 
+        "cite_name": "", 
+        "title": "Anders Heyden"
+    }, 
+    {
+        "content": "anders heyden. e-mail: anders.heyden@math.lth.se. professor at mathematics (faculty of technology) and numerical analysis. telephone number: +46 46 222...", 
+        "email_list": [
+            "anders.heyden@math.lth.se"
+        ], 
+        "cite_url": "www.lunduniversity.lu.se/.../db0e3b150560ab3cc79db4...", 
+        "cite_name": "Lund University", 
+        "title": "Anders Heyden | Lund University"
+    }, 
+    {
+        "content": "anders heyden. professer ... verified email at maths.lth.se ... a heyden. computer vision, 1995. proceedings., fifth international conference on, 1058 ..., 1995.", 
+        "email_list": [
+            "email@maths.lth.se"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=9j-6i_oAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Anders Heyden - Google Scholar Citations"
+    }, 
+    {
+        "content": "email: anders.hayden@dal.ca. phone: (902) 494-6602. mailing address: department of political science rm 301, 3rd floor, henry hicks bldg dalhousie...", 
+        "email_list": [
+            "anders.hayden@dal.ca"
+        ], 
+        "cite_url": "", 
+        "cite_name": "Dalhousie University", 
+        "title": "Anders Hayden - Dalhousie University"
+    }
+]

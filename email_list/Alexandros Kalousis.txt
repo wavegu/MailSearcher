@@ -1,0 +1,29 @@
+[
+    {
+        "content": "alexandros kalousis. data mining, university of ... verified email at hesge.ch - homepage  scholar. get my own ... m hilario, a kalousis, c pellegrini, m müller.", 
+        "email_list": [
+            "email@hesge.ch"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=uVkn9UEAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Alexandros Kalousis - Google Scholar Citations"
+    }, 
+    {
+        "content": "alexandros kalousis. homepage: http://cui.unige.ch/~kalousis/. search externally: google ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/alexandros_kalousis/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Alexandros Kalousis - VideoLectures.NET"
+    }, 
+    {
+        "content": "sep 16, 2013 - email: alexandros.kalousis@hesge.ch. ‡. abstract—most metric learning algorithms, as well as fishers. discriminant analysis (fda), optimize...", 
+        "email_list": [
+            "alexandros.kalousis@hesge.ch"
+        ], 
+        "cite_url": "arxiv.org/pdf/1309.3877", 
+        "cite_name": "arXiv", 
+        "title": "[PDF]A Metric-learning based framework for Support ... - arXiv"
+    }
+]

@@ -1,9 +1,40 @@
-lutgarde.thijs@med.kuleuven.be	[27]
-arnold.mitnitski@dal.ca	[3]
-blopez@unav.es	[2]
-jan.staesssen@med.kuleuven.be	[2]
-kenneth.rockwood@dal.ca	[2]
-jan.staessen@med.kuleuven.be	[2]
-eb.nevueluk.dem@sjiht.edragtul	[2]
-verdec@tin.it	[1]
-amiqueo@unav.es	[1]
+[
+    {
+        "content": "haifeng zhang, lutgarde thijs, jan a. staessen. hypertension affects from 20% .... e-mail jan.staesssen@med.kuleuven.be. (hypertension. 2006;48:187-195.).", 
+        "email_addr_list": [
+            "jan.staesssen@med.kuleuven.be"
+        ], 
+        "cite_url": "https://lirias.kuleuven.be/bitstream/123456789/25101/1/06-20-R.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]View/Open - Lirias"
+    }, 
+    {
+        "content": "email: kenneth.rockwood@dal.ca. arnold mitnitski4. email: arnold.mitnitski@dal.ca. lutgarde thijs5. email: lutgarde.thijs@med.kuleuven.be. nigel beckett6.", 
+        "email_addr_list": [
+            "kenneth.rockwood@dal.ca", 
+            "arnold.mitnitski@dal.ca", 
+            "lutgarde.thijs@med.kuleuven.be"
+        ], 
+        "cite_url": "wrap.warwick.ac.uk/.../WRAP_s12916-015-0328...", 
+        "cite_name": "University of Warwick", 
+        "title": "[PDF]Download (2319Kb) - WRAP: Warwick Research Archive ..."
+    }, 
+    {
+        "content": "... and jan a. staessen. yan li, lutgarde thijs, tatiana kuznetsova, laura zagato, harry struijker-boudier, giuseppe .... e-mail jan.staessen@med.kuleuven.be.", 
+        "email_addr_list": [
+            "jan.staessen@med.kuleuven.be"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.546.8917...", 
+        "cite_name": "", 
+        "title": "[PDF]Bianchi and Jan A. Staessen Yan Li, Lutgarde Thijs, Tatiana ..."
+    }, 
+    {
+        "content": "lutgarde thijs, jan a. staessen and carlo porcellati .... e-mail verdec@tin.it ..... staessen ja, wang jg, thijs l. cardiovascular prevention and blood pressure...", 
+        "email_addr_list": [
+            "verdec@tin.it"
+        ], 
+        "cite_url": "citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.542.1542...", 
+        "cite_name": "", 
+        "title": "[PDF]Lutgarde Thijs, Jan A. Staessen and Carlo ... - CiteSeer"
+    }
+]

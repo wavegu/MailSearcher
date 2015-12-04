@@ -1,0 +1,29 @@
+[
+    {
+        "content": "byonghyo shim. associate professor ... verified email at snu.ac.kr - homepage  scholar. get my own ... b shim, sr sridhara, nr shanbhag. very large scale...", 
+        "email_list": [
+            "email@snu.ac.kr"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=pL1HDE8AAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Byonghyo Shim - Google Scholar Citations"
+    }, 
+    {
+        "content": "byonghyo shim associate professor dept. of electrical and computer ... gwanak-gu, seoul, 151-744, korea tel : +82-2-880-8407. email : bshim@snu.ac.kr...", 
+        "email_list": [
+            "bshim@snu.ac.kr"
+        ], 
+        "cite_url": "islab.snu.ac.kr/", 
+        "cite_name": "", 
+        "title": "Byonghyo Shim"
+    }, 
+    {
+        "content": "byonghyo shim - ... byonghyo shim. department of computer science and engineering. email: bshim@korea.ac.kr. summary. research outputs (1997...", 
+        "email_list": [
+            "bshim@korea.ac.kr"
+        ], 
+        "cite_url": "koreauniv.pure.elsevier.com/.../byonghyo-shim(85fee09c-3565-41f5-b4...", 
+        "cite_name": "", 
+        "title": "Byonghyo Shim - Korea University"
+    }
+]

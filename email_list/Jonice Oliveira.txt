@@ -1,0 +1,20 @@
+[
+    {
+        "content": "jonice oliveira. professor of ... verified email at dcc.ufrj.br. scholar ... j oliveira, jm de souza, r miranda, s rodrigues, v kawamura, r martino, ... frontiers of...", 
+        "email_list": [
+            "email@dcc.ufrj.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user...", 
+        "cite_name": "Google Scholar", 
+        "title": "Jonice Oliveira - Google Scholar Citations"
+    }, 
+    {
+        "content": "coordenador geral: claudia motta (ufrj) e jonice oliveira (ufrj); coordenador local: leopoldo motta (ufpe); email: lmt@cin.ufpe.br. 41º secomu...", 
+        "email_list": [
+            "lmt@cin.ufpe.br"
+        ], 
+        "cite_url": "csbc2015.cin.ufpe.br/eventos/", 
+        "cite_name": "", 
+        "title": "Eventos - CSBC 2015"
+    }
+]

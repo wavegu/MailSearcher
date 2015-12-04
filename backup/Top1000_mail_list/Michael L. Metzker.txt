@@ -1,3 +1,38 @@
-michael.l.metzker@rice.edu	[33]
-michael.metzger@incae.edu	[20]
-mmetzker@bcm.edu	[16]
+[
+    {
+        "content": "michael l. metzker bcm website. email: michael.l.metzker@rice.edu  department of chemistryspace science 201 p.o. box 1892, ms-60, houston, texas...", 
+        "email_addr_list": [
+            "michael.l.metzker@rice.edu"
+        ], 
+        "cite_url": "https://chemistry.rice.edu/FacultyDetail.aspx?RiceID...", 
+        "cite_name": "Rice University", 
+        "title": "Michael L. Metzker - Rice University"
+    }, 
+    {
+        "content": "sequencing technologies — the next generation. michael l. metzker about the author ... email: mmetzker@bcm.edu. published online 8 december 2009.", 
+        "email_addr_list": [
+            "mmetzker@bcm.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Sequencing technologies [mdash] the next generation ..."
+    }, 
+    {
+        "content": "... heinis, nature 515, 198 (november 2014). michael l. metzker about the author ... email: mmetzker@bcm.edu. published online 8 december 2009.", 
+        "email_addr_list": [
+            "mmetzker@bcm.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review  Full text", 
+        "cite_name": "Nature", 
+        "title": "Sequencing technologies—the next generation"
+    }, 
+    {
+        "content": "michael metzger teaches marketing, marketing strategy, marketing of services ... office phone: +506 437-2370. email: michael.metzger@incae.edu. p.o. box:.", 
+        "email_addr_list": [
+            "michael.metzger@incae.edu"
+        ], 
+        "cite_url": "www.incae.edu/en/.../michael-metzger.htmlwww.google.com/email", 
+        "cite_name": "INCAE Business School", 
+        "title": "Michael Metzger | INCAE Master ProgramsGoogle Business Email‎"
+    }
+]

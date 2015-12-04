@@ -1,0 +1,11 @@
+[
+    {
+        "content": "ulg.ac.be \\\\ \\name justus h. piater \\email justus.piater@ulg.ac.be \\\\ \\addr montefiore institute (b28) \\\\ university of liège, b-4000 li{\\`e}ge, belgium} % for...", 
+        "email_list": [
+            "justus.piater@ulg.ac.be"
+        ], 
+        "cite_url": "https://www.jair.org/.../live-211...", 
+        "cite_name": "Journal of Artificial Intelligence Research", 
+        "title": "[TeX]Closed-Loop Learning of Visual Control Policies"
+    }
+]

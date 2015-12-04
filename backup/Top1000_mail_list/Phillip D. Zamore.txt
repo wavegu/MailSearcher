@@ -1,4 +1,38 @@
-phillip.zamore@umassmed.edu	[27]
-email at umassmed.edu	[5]
-publicaffairs@umassmed.edu	[2]
-tiffanie.gardner@umassmed.edu	[2]
+[
+    {
+        "content": "phil zamores lab • 368 plantation street, as4-2001-2006 worcester, massachusetts 01605 ... email: tiffanie.gardner@umassmed.edu phone: 508-856-6286.", 
+        "email_addr_list": [
+            "tiffanie.gardner@umassmed.edu"
+        ], 
+        "cite_url": "www.umassmed.edu/zamore/", 
+        "cite_name": "University of Massachusetts Medical School", 
+        "title": "Phillip Zamore Lab - University of Massachusetts Medical ..."
+    }, 
+    {
+        "content": "phillip zamores profile, publications, research topics, and co-authors. ... phillip d. zamore received his a.b. (1986) and his ph.d. (1992) from the department of biochemistry and ...... email: publicaffairs@umassmed.edu phone: 508-856-1572.", 
+        "email_addr_list": [
+            "publicaffairs@umassmed.edu"
+        ], 
+        "cite_url": "profiles.umassmed.edu/.../13...", 
+        "cite_name": "University of Massachusetts Medical School", 
+        "title": "Phillip Zamore | Profiles RNS"
+    }, 
+    {
+        "content": "zamore lab members. ... keith boundy, m.d., millennium ph.d. program ... phillip d. zamore, ph.d., gretchen stone cook professor of biomedical sciences, investigator ... email: tiffanie.gardner@umassmed.edu phone: 508-856-6286.", 
+        "email_addr_list": [
+            "tiffanie.gardner@umassmed.edu"
+        ], 
+        "cite_url": "www.umassmed.edu/zamore/...", 
+        "cite_name": "University of Massachusetts Medical School", 
+        "title": "Lab Members - Zamore Lab - UMass Medical School"
+    }, 
+    {
+        "content": "phillip d. zamore. gretchen stone cook ... verified email at umassmed.edu. scholar ... ds schwarz, g hutvágner, t du, z xu, n aronin, pd zamore. cell 115 (2)...", 
+        "email_addr_list": [
+            "email@umassmed.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xYLmV7YAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Phillip D. Zamore - Google Scholar Citations"
+    }
+]

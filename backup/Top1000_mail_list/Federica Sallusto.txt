@@ -1,4 +1,29 @@
-federica.sallusto@irb.unisi.ch.two	[33]
-federica.sallusto@irb.usi.ch	[33]
-federica.sallusto@irb.unisi.ch	[33]
-federica.sallusto@irb.unisi.ch.progressive	[33]
+[
+    {
+        "content": "contact. email. federica.sallusto@irb.usi.ch. phone. +41 91 820 0315. office. irb, office 103 (level 1) via vela 6, 6500 bellinzona. website or personal page.", 
+        "email_addr_list": [
+            "federica.sallusto@irb.usi.ch"
+        ], 
+        "cite_url": "search.usi.ch/people/.../Sallusto-Federica", 
+        "cite_name": "", 
+        "title": "Sallusto, Federica | Università della Svizzera italiana"
+    }, 
+    {
+        "content": "dc-research knowledge portal: federica sallusto. ... show more (4) more show less less. persons  federica sallusto ... email, federica.sallusto@irb.unisi.ch.", 
+        "email_addr_list": [
+            "federica.sallusto@irb.unisi.ch"
+        ], 
+        "cite_url": "dc-research.eu/person/federica-sallusto", 
+        "cite_name": "", 
+        "title": "DC-Research Knowledge Portal: Federica Sallusto"
+    }, 
+    {
+        "content": "antonio lanzavecchia and federica sallusto are at the institute for research in ... correspondence to: federica sallusto email: federica.sallusto@irb.unisi.ch.", 
+        "email_addr_list": [
+            "federica.sallusto@irb.unisi.ch"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Perspectives", 
+        "cite_name": "Nature", 
+        "title": "Progressive differentiation and selection of the fittest in the ..."
+    }
+]

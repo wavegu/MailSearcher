@@ -1,3 +1,29 @@
-mrosenfeld@ucsd.edu.first	[20]
-mrosenfeld@ucsd.edu	[20]
-rgherzi@ucsd.edu	[3]
+[
+    {
+        "content": "michael geoff rosenfeld. professor of medicine; investigator, howard hughes medical institute m.d., university of rochester email: mrosenfeld@ucsd.edu...", 
+        "email_addr_list": [
+            "mrosenfeld@ucsd.edu"
+        ], 
+        "cite_url": "biomedsci.ucsd.edu/.../faculty_descri...", 
+        "cite_name": "University of California, San Diego", 
+        "title": "Michael Geoff Rosenfeld - Faculty - Biomedical Sciences ..."
+    }, 
+    {
+        "content": "... of california-san diego, 9500 gilman drive, la jolla, california 92093, usa. correspondence to: michael g. rosenfeld email: mrosenfeld@ucsd.edu.", 
+        "email_addr_list": [
+            "mrosenfeld@ucsd.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Review", 
+        "cite_name": "Nature", 
+        "title": "Deconstructing repression: evolving models of co-repressor ..."
+    }, 
+    {
+        "content": "michael g. rosenfeld. email: mrosenfeld@ucsd.edu. also known as: mg rosenfeld. wormbase id: wbperson4894. hhmi room 345, cmm west school of...", 
+        "email_addr_list": [
+            "mrosenfeld@ucsd.edu"
+        ], 
+        "cite_url": "https://www.wormbase.org/resources/person/WBPerson4894www.google.com/email", 
+        "cite_name": "WormBase", 
+        "title": "Michael G. Rosenfeld (person) - WormBase : Nematode ...Google Business Email - Custom email for your company‎Searches related to Michael G. Rosenfeld email"
+    }
+]

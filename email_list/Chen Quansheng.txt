@@ -1,0 +1,38 @@
+[
+    {
+        "content": "quan-sheng chen ... email: cqs@ns.ibcas.ac.cn ... chen quan-sheng, li ling-hao, han xing-guo, yan zhi-dan, wang yan-fen, zhang yan, xiong...", 
+        "email_list": [
+            "cqs@ns.ibcas.ac.cn"
+        ], 
+        "cite_url": "eco.ibcas.ac.cn/pub/lilinghao/station/.../chenqs/Curriculum%20Vitae.htm", 
+        "cite_name": "", 
+        "title": "Curriculum Vitae"
+    }, 
+    {
+        "content": "email: ebieberich@gru.edu. lipid signaling, ceramide, apoptosis, stem ... bo-shiun chen, phd. assistant professor ... quansheng du, phd. associate professor.", 
+        "email_list": [
+            "ebieberich@gru.edu"
+        ], 
+        "cite_url": "www.gru.edu/mcg/dnrm/faculty/", 
+        "cite_name": "Georgia Health Sciences University", 
+        "title": "DNRM Faculty - Georgia Regents University"
+    }, 
+    {
+        "content": "chin-deutsch. symposium  prof. hidetoshi higashi from ... email：chenyongjie@sjtu.edu.cn. tel：021-34206960 ... hu quansheng. professor/ phd supervisor.", 
+        "email_list": [
+            "chenyongjie@sjtu.edu.cn"
+        ], 
+        "cite_url": "sfl.sjtu.edu.cn/EN/content.aspx?info...", 
+        "cite_name": "Shanghai Jiao Tong University", 
+        "title": "The Post-doctoral Program - Shanghai Jiaotong University ..."
+    }, 
+    {
+        "content": "oct 28, 2009 - baozhang chen: professor; phd (university of british columbia) .... baozhang chen, quansheng ge, dongjie fu, guirui yu, xiaomin sun, .... road ，chaoyang district, beijing, 100101, china email: weboffice@igsnrr.ac.cn.", 
+        "email_list": [
+            "weboffice@igsnrr.ac.cn"
+        ], 
+        "cite_url": "sourcedb.cas.cn/sourcedb_igsnrr_cas/yw/.../t20091028_2638825.html", 
+        "cite_name": "", 
+        "title": "People-Institute of Geographic Sciences and Natural ..."
+    }
+]

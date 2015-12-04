@@ -1,1 +1,11 @@
-cptac.dcc@esacinc.com	[2]
+[
+    {
+        "content": "please send your comments to cptac.dcc@esacinc.com. if you would ... karen ketchum esac karen.ketchum[at]esacinc.com 301-979-7447 project manager", 
+        "email_addr_list": [
+            "cptac.dcc@esacinc.com"
+        ], 
+        "cite_url": "https://cptac-data-portal.georgetown.edu/.../show...www.google.com/email", 
+        "cite_name": "Georgetown University", 
+        "title": "CPTAC-DCC - CPTAC Data PortalGoogle Business Email - Custom email for your company‎Searches related to Karen A. Ketchum email"
+    }
+]

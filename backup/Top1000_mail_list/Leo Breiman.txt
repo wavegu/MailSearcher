@@ -1,1 +1,11 @@
-email at stat.berkeley.edu	[3]
+[
+    {
+        "content": "leo breiman 1928-2005. professor of statistics, uc ... verified email at stat.berkeley.edu - homepage  scholar ... l breiman, jh friedman, ra olshen, cj stone.", 
+        "email_addr_list": [
+            "email@stat.berkeley.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=mXSv_1UAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Leo Breiman 1928-2005 - Google Scholar Citations"
+    }
+]

@@ -1,3 +1,47 @@
-lehrach@molgen.mpg.de.wp	[16]
-lehrach@molgen.mpg.de	[16]
-lehrach@mpimg-berlin-dahlem.mpg.de	[16]
+[
+    {
+        "content": "prof. dr. hans lehrach. max planck institute for molecular genetics, berlin. phone:+49 30 8413-1220fax:+49 30 8413-1380. email:lehrach@molgen.mpg.de...", 
+        "email_addr_list": [
+            "lehrach@molgen.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/.../molekulare_genetik_wissM2", 
+        "cite_name": "Max Planck Society", 
+        "title": "Lehrach, Hans | Max Planck Society"
+    }, 
+    {
+        "content": "prof. dr. hans lehrach. max-planck-institut für molekulare genetik, berlin. telefon:+49 30 8413-1220fax:+49 30 8413-1380. e-mail:lehrach@molgen.mpg.de...", 
+        "email_addr_list": [
+            "lehrach@molgen.mpg.de"
+        ], 
+        "cite_url": "https://www.mpg.de/.../molekulare...", 
+        "cite_name": "Max Planck Society", 
+        "title": "Lehrach, Hans | Max-Planck-Gesellschaft"
+    }, 
+    {
+        "content": "lehrach, hans. email: lehrach@mpimg-berlin-dahlem.mpg.de ... musa, a., lehrach, h., and russo, v.e.a. (2001) distinct expression patterns of two zebrafish...", 
+        "email_addr_list": [
+            "lehrach@mpimg-berlin-dahlem.mpg.de"
+        ], 
+        "cite_url": "https://zfin.org/ZDB-PERS-970314-1", 
+        "cite_name": "Zebrafish Information Network", 
+        "title": "ZFIN Person: Lehrach, Hans"
+    }, 
+    {
+        "content": "dr. hans lehrach direktor em. telefon: +49 30 8413-1220 fax: +49 30 8413-1380 e-mail: lehrach@molgen.mpg.de webseite alacris theranostics alacris...", 
+        "email_addr_list": [
+            "lehrach@molgen.mpg.de"
+        ], 
+        "cite_url": "www.the-email-archive.com/email-data-lehrach-molgen-mpg-de-163251...", 
+        "cite_name": "", 
+        "title": "lehrach@molgen.mpg.de - The Email Archive"
+    }, 
+    {
+        "content": "hans lehrach studied chemistry at the university of vienna and obtained his ph.d. at the max ... hans lehrach, professor ... email : lehrach@molgen.mpg.de.", 
+        "email_addr_list": [
+            "lehrach@molgen.mpg.de"
+        ], 
+        "cite_url": "https://www.emedevents.com/speaker-profile/hans-lehrach-70338", 
+        "cite_name": "", 
+        "title": "Hans Lehrach - eMedEvents"
+    }
+]

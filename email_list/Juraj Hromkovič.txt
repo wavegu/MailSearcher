@@ -1,0 +1,38 @@
+[
+    {
+        "content": "juraj hromkovic. eth zürich prof. dr. juraj hromkovic informationstechnologie und ausbildung ... fax: +41 44 632 13 90. e-mail: juraj.hromkovic@inf.ethz.ch...", 
+        "email_list": [
+            "juraj.hromkovic@inf.ethz.ch"
+        ], 
+        "cite_url": "www.ite.ethz.ch/people/host/jhromkov", 
+        "cite_name": "ETH Zurich", 
+        "title": "ETH - ITE - Hromkovic, Juraj, Prof. Dr."
+    }, 
+    {
+        "content": "email: juraj.hromkovic@inf.ethz.ch. www: http://www.ite.ethz.ch. oblasť výskumu: ... j.hromkovic: algorithmics for hard problems, springer 2001, 2003, 2004 2.", 
+        "email_list": [
+            "juraj.hromkovic@inf.ethz.ch"
+        ], 
+        "cite_url": "www.us.sav.sk/drupal/?q=node/64", 
+        "cite_name": "", 
+        "title": "prof. RNDr. Juraj Hromkovič, DrSc. | us.sav.sk"
+    }, 
+    {
+        "content": "dr. rer. nat. juraj hromkovic. new url at the rwth aachen ... germany, office: phone: fax: e-mail: phone (priv.): no office jh@i1.informatik.rwth-aachen.de...", 
+        "email_list": [
+            "jh@i1.informatik.rwth-aachen.de"
+        ], 
+        "cite_url": "www2.cs.uni-paderborn.de/cs/ag-monien/PERSONAL/JURAJ/", 
+        "cite_name": "", 
+        "title": "Juraj Hromkovic (HOME PAGE)"
+    }, 
+    {
+        "content": "jan 23, 2015 - email: juraj.hromkovic at inf.ethz.ch. membership number: 2752. membership type: ordinary. main country of residence: switzerland.", 
+        "email_list": [
+            "juraj.hromkovic@inf.ethz.ch"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Academy of Europe: Hromkovic Juraj"
+    }
+]

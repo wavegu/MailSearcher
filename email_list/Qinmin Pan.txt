@@ -1,0 +1,38 @@
+[
+    {
+        "content": "feb 2, 2012 - email: qpan@suda.edu.cn. research interests: high peformance elastomers; optical polymer materials; micronano manufacturing; chemcial...", 
+        "email_list": [
+            "qpan@suda.edu.cn"
+        ], 
+        "cite_url": "www.sudapolymer.com/en/articleinfo/detail_32_87_410.aspx", 
+        "cite_name": "", 
+        "title": "Qin-Min Pan-Welcome to Sudapolymer"
+    }, 
+    {
+        "content": "name：pan, qin-min title：professor department： contacts：. tel  fax: 86-512-65882062 (o). email: qpan@suda.edu.cn. group website. professor (chemical...", 
+        "email_list": [
+            "qpan@suda.edu.cn"
+        ], 
+        "cite_url": "", 
+        "cite_name": "", 
+        "title": "Pan, Qin-Min-College of Chemistry, Chemical Engineering ..."
+    }, 
+    {
+        "content": "qimin yan. lawrence berkeley national laboratory. verified email at lbl.gov - homepage ... y zhao, q yan, cy huang, sc huang, ps hsu, s tanaka, cc pan, .", 
+        "email_list": [
+            "email@lbl.gov"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=ysfTfdkAAAAJhl...", 
+        "cite_name": "Google Scholar", 
+        "title": "Qimin Yan - Google Scholar Citations"
+    }, 
+    {
+        "content": "aug 26, 2009 - email: huangyd@hit.edu.cn. guest editorial ... professor qinmin pan, school of chemical engineering and technology, harbin. institute of...", 
+        "email_list": [
+            "huangyd@hit.edu.cn"
+        ], 
+        "cite_url": "www.aspbs.com/sam/Special%20Issue4.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Science of Advanced Materials"
+    }
+]

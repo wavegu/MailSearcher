@@ -1,1 +1,11 @@
-sarah.sims-pokropski@aspeninstitute.org	[19]
+[
+    {
+        "content": "department: administration. contact information. preferred email: sarah.sims-pokropski@aspeninstitute.org. preferred phone: (202) 736-2529. our people.", 
+        "email_addr_list": [
+            "sarah.sims-pokropski@aspeninstitute.org"
+        ], 
+        "cite_url": "www.aspeninstitute.org/people/sarah-sims-pokropski", 
+        "cite_name": "Aspen Institute", 
+        "title": "Sarah Sims-Pokropski | The Aspen Institute"
+    }
+]

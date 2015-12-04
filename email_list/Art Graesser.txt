@@ -1,0 +1,47 @@
+[
+    {
+        "content": "arthur c. graesser, ph.d. professor, experimental (cognitive). phone. 901.678.4857. email. art.graesser@gmail.com. fax. 901.678.2579. office. psychology...", 
+        "email_list": [
+            "art.graesser@gmail.com"
+        ], 
+        "cite_url": "www.memphis.edu/psychology/.../graesser.php", 
+        "cite_name": "University of Memphis", 
+        "title": "Arthur C. Graesser, Ph.D. - Department of Psychology ..."
+    }, 
+    {
+        "content": "dr. graesser is a professor in the department of psychology, an adjunct professor in ... art graessers primary research interests are in cognitive science, discourse .... fax +44 (0)1865 274027 | email : general.enquiries@education.ox.ac.uk.", 
+        "email_list": [
+            "general.enquiries@education.ox.ac.uk"
+        ], 
+        "cite_url": "", 
+        "cite_name": "University of Oxford", 
+        "title": "Professor Arthur Graesser – Oxford University Department of ..."
+    }, 
+    {
+        "content": "arthur graesser is an honorary research fellow at oxford university, associated ... art graessers primary research interests are in cognitive science, discourse .... 284098 | fax +44 (0)1865 274027 | email : admin.oucea@education.ox.ac.uk.", 
+        "email_list": [
+            "admin.oucea@education.ox.ac.uk"
+        ], 
+        "cite_url": "oucea.education.ox.ac.uk/.../professor-arthur-graess...", 
+        "cite_name": "University of Oxford", 
+        "title": "Professor Art Graesser - OUCEA"
+    }, 
+    {
+        "content": "email: graesser@memphis.edu. dr. art grasser is a co-principal investigator of csal. he is a professor in the department of psychology and the institute of...", 
+        "email_list": [
+            "graesser@memphis.edu"
+        ], 
+        "cite_url": "csal.gsu.edu/content/researchers-graesser", 
+        "cite_name": "Georgia State University", 
+        "title": "Researchers - Graesser | csal.gsu.edu"
+    }, 
+    {
+        "content": "email: graesser at memphis dot edu. art graesser is professor of educational psychology and co-director of the institute for intelligent systems at the university...", 
+        "email_list": [
+            "graesser@memphis.edu"
+        ], 
+        "cite_url": "edgaps.org/gaps/about/university-of-memphis/", 
+        "cite_name": "", 
+        "title": "University of Memphis | GAPS"
+    }
+]

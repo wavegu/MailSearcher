@@ -1,0 +1,29 @@
+[
+    {
+        "content": "email. grishman@cs.nyu.edu, rg at cuny october 2009. research. prof. grishman is the founder of the proteus project, which conducts a wide range of...", 
+        "email_list": [
+            "grishman@cs.nyu.edu"
+        ], 
+        "cite_url": "cs.nyu.edu/grishman/", 
+        "cite_name": "New York University", 
+        "title": "Ralph Grishman - NYU Computer Science Department"
+    }, 
+    {
+        "content": "verified email at cs.nyu.edu. scholar. get my own ... a gottlieb, r grishman, cp kruskal, kp mcauliffe, l rudolph, m snir ... t hasegawa, s sekine, r grishman.", 
+        "email_list": [
+            "email@cs.nyu.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=blwKAkUAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Ralph Grishman - Google Scholar Citations"
+    }, 
+    {
+        "content": "verified email at cs.helsinki.fi - homepage  scholar. get my own ... r yangarber, r grishman, p tapanainen, s huttunen ... r yangarber, w lin, r grishman.", 
+        "email_list": [
+            "email@cs.helsinki.fi"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=jb5mzrwAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Roman Yangarber - Google Scholar Citations"
+    }
+]

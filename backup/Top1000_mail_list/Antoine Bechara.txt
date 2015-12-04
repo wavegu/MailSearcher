@@ -1,1 +1,11 @@
-bechara@usc.edu	[16]
+[
+    {
+        "content": "antoine bechara. professor of psychology contact information e-mail: bechara@usc.edu. phone: (213) 740-1601. office: hnb b26 office hours: tue, thur : 9-...", 
+        "email_addr_list": [
+            "bechara@usc.edu"
+        ], 
+        "cite_url": "https://dornsife.usc.edu/.../psyc_faculty...", 
+        "cite_name": "University of Southern California", 
+        "title": "Antoine Bechara - USC Dana and David Dornsife College of ..."
+    }
+]

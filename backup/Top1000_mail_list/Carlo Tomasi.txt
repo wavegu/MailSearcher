@@ -1,5 +1,29 @@
-tomasi at cs.duke.edu	[14]
-ctomasi@gflenv.com	[14]
-tomasi@cs.duke.edu	[13]
-email at cs.duke.edu	[3]
-info . cs.duke . ml@duke . duke . carlo	[2]
+[
+    {
+        "content": "carlo tomasi. cs department ... email, tomasi at cs.duke.edu. office, d213 ... r. estrada, c. tomasi, m. t. cabrera, d. k. wallace, s. f. freedman, and s. farsiu.", 
+        "email_addr_list": [
+            "tomasi@cs.duke.edu"
+        ], 
+        "cite_url": "www.cs.duke.edu/people/?csid=0000920", 
+        "cite_name": "Duke University", 
+        "title": "Carlo Tomasi - Computer Science - Duke University"
+    }, 
+    {
+        "content": "carlo tomasi. professor of computer science, duke university  computer vision. verified email at cs.duke.edu ... j puzicha, jm buhmann, y rubner, c tomasi.", 
+        "email_addr_list": [
+            "email@cs.duke.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=xViwZ0QAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Carlo Tomasi - Google Scholar Citations"
+    }, 
+    {
+        "content": "view carlo tomasis business profile as fleet maintenance director at gfl environmental ... carlo tomasi email: ctomasi@gflenv.com phone:(647) 381-6598.", 
+        "email_addr_list": [
+            "ctomasi@gflenv.com"
+        ], 
+        "cite_url": "www.zoominfo.com/p/Carlo-Tomasi/1784371455www.google.com/email", 
+        "cite_name": "", 
+        "title": "Carlo Tomasi | GFL Environmental Inc | ZoomInfo.comGoogle Business Email - Custom email for your company‎Searches related to Carlo Tomasi email"
+    }
+]

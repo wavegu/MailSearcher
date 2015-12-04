@@ -1,3 +1,29 @@
-rafael.laporta@tuck.dartmouth.edu	[27]
-rafael.laporta@dartmouth.edu	[27]
-rafael.laporta@dartmouth.edu.repec	[27]
+[
+    {
+        "content": "email. rafael.laporta@tuck.dartmouth.edu ... professor la porta is an expert on cross-country differences in laws and practice pertaining to investor protection...", 
+        "email_addr_list": [
+            "rafael.laporta@tuck.dartmouth.edu"
+        ], 
+        "cite_url": "https://www.tuck.dartmouth.edu/.../rafael-laport...", 
+        "cite_name": "Tuck School of Business", 
+        "title": "Tuck School of Business | Rafael La Porta"
+    }, 
+    {
+        "content": "rafael la porta: current contact information and listing of economic research of this author provided by repec/ideas. ... email: rafael.laporta@dartmouth.edu.", 
+        "email_addr_list": [
+            "rafael.laporta@dartmouth.edu"
+        ], 
+        "cite_url": "https://ideas.repec.org/f/pla273.html", 
+        "cite_name": "", 
+        "title": "Rafael La Porta at IDEAS"
+    }, 
+    {
+        "content": "email: rafael.laporta@dartmouth.edu ... by rafael la porta  florencio lopez-de-silane  andrei shleifer  robert w. vishny; courts: the lex mundi project", 
+        "email_addr_list": [
+            "rafael.laporta@dartmouth.edu"
+        ], 
+        "cite_url": "https://authors.repec.org/pro/pla273/", 
+        "cite_name": "", 
+        "title": "RePEc: Rafael La Porta"
+    }
+]

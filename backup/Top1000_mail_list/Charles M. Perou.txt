@@ -1,5 +1,38 @@
-cperou@med.unc.edu	[12]
-email at med.unc.edu	[3]
-silvag@email.unc.edu	[1]
-botstein@genome.stanford.edu	[1]
-awren@vhio.net	[1]
+[
+    {
+        "content": "cancel. charles m. perou ... verified email at med.unc.edu - homepage  scholar ... cm perou, t sørlie, mb eisen, m van de rijn, ss jeffrey, ca rees, ... nature...", 
+        "email_addr_list": [
+            "email@med.unc.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=JCqzqUMAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Charles M. Perou - Google Scholar Citations"
+    }, 
+    {
+        "content": "charles m. perou, therese sørlie, michael b. eisen, matt van de rijn, stefanie ... to d.b. (e-mail: email: botstein@genome.stanford.edu) or p.o.b. (e-mail: email:...", 
+        "email_addr_list": [
+            "botstein@genome.stanford.edu"
+        ], 
+        "cite_url": "www.nature.com  Journal home  Archive  Letters to Nature", 
+        "cite_name": "Nature", 
+        "title": "Molecular portraits of human breast tumours : Article : Nature"
+    }, 
+    {
+        "content": "telephone: 919-843-5740; fax: 919-843-5718; e-mail: cperou@med.unc.edu. disclosures: charles m. perou: intellectual property rights/inventor or patent...", 
+        "email_addr_list": [
+            "cperou@med.unc.edu"
+        ], 
+        "cite_url": "theoncologist.alphamedpress.org/content/15/suppl_5/39.full", 
+        "cite_name": "", 
+        "title": "Molecular Stratification of Triple-Negative Breast Cancers"
+    }, 
+    {
+        "content": "... m. rosen10, and charles m. perou1,2,3,#. 1department of genetics, university of north carolina, chapel hill, nc 27599 usa. email: silvag@email.unc.edu...", 
+        "email_addr_list": [
+            "silvag@email.unc.edu"
+        ], 
+        "cite_url": "link.springer.com/.../10549_2015_3476_...www.google.com/email", 
+        "cite_name": "Springer Science+Business Media", 
+        "title": "[DOC]Cross-Species DNA Copy Number Analyses Identifies ...Google Business Email - Custom email for your company‎Searches related to Charles M. Perou email"
+    }
+]

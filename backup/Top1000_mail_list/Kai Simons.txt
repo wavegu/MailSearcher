@@ -1,3 +1,11 @@
-simons at mpi-cbg.de	[13]
-simons@mpi-cbg.de	[13]
-sampaio@mpi-cbg.de	[2]
+[
+    {
+        "content": "personal information. name: simons. first name: kai. date of birth: may 24, 1938 ... email: simons@mpi-cbg.de. education. 1964. m.d., university of helsinki.", 
+        "email_addr_list": [
+            "simons@mpi-cbg.de"
+        ], 
+        "cite_url": "www.mpi-cbg.de/de/research/research.../kai-simons/group-leader.=", 
+        "cite_name": "", 
+        "title": "Kai Simons - MPI-CBG"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "montréal (québec) canada - h3c 3p8 - bureau : pk-4920. téléphone: (514) 987-3000 # 2364, fax : (514) 987-8477. email : lounis.hakim at uqam.ca...", 
+        "email_list": [
+            "lounis.hakim@uqam.ca"
+        ], 
+        "cite_url": "www.labunix.uqam.ca/~lounis_h/", 
+        "cite_name": "", 
+        "title": "Lounis, Hakim - LabUnix - UQAM"
+    }
+]

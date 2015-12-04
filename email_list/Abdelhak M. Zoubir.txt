@@ -1,0 +1,21 @@
+[
+    {
+        "content": "verified email at spg.tu-darmstadt.de - homepage  scholar. get my own profile ... am zoubir, v koivunen, y chakhchoukh, m muma. signal processing...", 
+        "email_list": [
+            "email@spg.tu-darmstadt.de"
+        ], 
+        "cite_url": "scholar.google.pl/citations?user=QitM1nQAAAAJhl=en", 
+        "cite_name": "Google", 
+        "title": "Abdelhak M. Zoubir - Google Scholar Citations"
+    }, 
+    {
+        "content": "presenter emails: zoubir@spg.tu-darmstadt.de, muma@spg.tu-darmstadt.de. biography of presenters: abdelhak m. zoubir received his dr.-ing. degree from...", 
+        "email_list": [
+            "zoubir@spg.tu-darmstadt.de", 
+            "muma@spg.tu-darmstadt.de"
+        ], 
+        "cite_url": "www.ee.unimelb.edu.au/.../zoubir-muma-ssp20...", 
+        "cite_name": "University of Melbourne", 
+        "title": "[PDF]download Advances in Robust Statistical Signal ..."
+    }
+]

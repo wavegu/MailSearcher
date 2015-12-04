@@ -1,0 +1,39 @@
+[
+    {
+        "content": "7 days ago - marko bohanec - home page. ... phone: (+386) (1) 477 3309, fax: (+386) (1) 477 3315, skype: markobohanec, e-mail: marko.bohanec@ijs.si,...", 
+        "email_list": [
+            "marko.bohanec@ijs.si"
+        ], 
+        "cite_url": "kt.ijs.si/MarkoBo...", 
+        "cite_name": "Jozef Stefan Institute, Department of Knowledge Tech...", 
+        "title": "Marko Bohanec - Department of Knowledge Technologies"
+    }, 
+    {
+        "content": "create alert. cancel. marko bohanec ... verified email at ijs.si - homepage  scholar. get my own ... m bohanec, b zupan, v rajkovič. international journal of...", 
+        "email_list": [
+            "email@ijs.si"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=USKxp9IAAAAJ...", 
+        "cite_name": "Google Scholar", 
+        "title": "Marko Bohanec - Google Scholar Citations"
+    }, 
+    {
+        "content": "marko bohanec ... together with: dunja mladenić, marko grobelnik, bojan cestnik, 87 views ... info. e-mail: info@videolectures.net. phone: +386 1 477 31 48...", 
+        "email_list": [
+            "info@videolectures.net"
+        ], 
+        "cite_url": "videolectures.net/marko_bohanec/", 
+        "cite_name": "VideoLectures.net", 
+        "title": "Marko Bohanec - VideoLectures.NET"
+    }, 
+    {
+        "content": "if you do not have ftp access send mail to mailserv@garbo.uwasa.fi with .... cc: marko.bohanec@ijs.si subject: gidx23.zip create a simtel-compatible .", 
+        "email_list": [
+            "mailserv@garbo.uwasa.fi", 
+            "marko.bohanec@ijs.si"
+        ], 
+        "cite_url": "ftp.lip6.fr/pub/pc/garbo/pc/filelist/v95n017.lst", 
+        "cite_name": "", 
+        "title": "v95n017.lst - lip6"
+    }
+]

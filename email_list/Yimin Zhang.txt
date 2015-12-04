@@ -1,0 +1,39 @@
+[
+    {
+        "content": "yimin d. zhang. temple university, electrical ... verified email at temple.edu - homepage  scholar ... bk chalise, wk ma, yd zhang, ha suraweera, mg amin.", 
+        "email_list": [
+            "email@temple.edu"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=6cGw2lYAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Yimin D. Zhang - Google Scholar Citations"
+    }, 
+    {
+        "content": "may 21, 2015 - photo of yimin zhang. yimin zhang is a member of the technology systems and sustainability analysis group ... e-mail: yimin.zhang@nrel.gov...", 
+        "email_list": [
+            "yimin.zhang@nrel.gov"
+        ], 
+        "cite_url": "www.nrel.gov/.../yimin_zhang.ht...", 
+        "cite_name": "National Renewable Energy Laboratory", 
+        "title": "NREL: Energy Analysis - Yimin Zhang"
+    }, 
+    {
+        "content": "e-mail: ydzhang@temple.edu yimin.zhang@villanova.edu. professional services. associate editor, ieee transactions on signal processing. editor, signal...", 
+        "email_list": [
+            "ydzhang@temple.edu", 
+            "yimin.zhang@villanova.edu"
+        ], 
+        "cite_url": "yiminzhang.com/", 
+        "cite_name": "", 
+        "title": "Yimin Zhangs Homepage"
+    }, 
+    {
+        "content": "stillwater, ok 74078-1056 usa. mobile: +1-405-564-4120. fax: +1-405-744-3533. web: www.zhangyimin.com. e-mail: yimin.zhang@okstate.edu. research.", 
+        "email_list": [
+            "yimin.zhang@okstate.edu"
+        ], 
+        "cite_url": "www.zhangyimin.com/wp-content/uploads/2013/10/CVre.pdf", 
+        "cite_name": "", 
+        "title": "[PDF]Yimin Zhang"
+    }
+]

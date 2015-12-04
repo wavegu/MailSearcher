@@ -1,0 +1,29 @@
+[
+    {
+        "content": "aug 22, 2015 - e-mail: cmbm at ic dot unicamp dot br ... short cv: claudia bauzer medeiros is full professor of databases at the institute of computing,...", 
+        "email_list": [
+            "cmbm@ic.unicamp.br"
+        ], 
+        "cite_url": "www.ic.unicamp.br/~cmbm/", 
+        "cite_name": "University of Campinas", 
+        "title": "Claudia Bauzer Medeiros Web Page - Unicamp"
+    }, 
+    {
+        "content": "create alert. cancel. claudia bauzer medeiros ... verified email at ic.unicamp.br - homepage  scholar ... j wainer, m weske, g vossen, cb medeiros. 80, 1997.", 
+        "email_list": [
+            "email@ic.unicamp.br"
+        ], 
+        "cite_url": "scholar.google.com/citations?user=Kf2m1twAAAAJ", 
+        "cite_name": "Google Scholar", 
+        "title": "Claudia Bauzer Medeiros - Google Scholar Citations"
+    }, 
+    {
+        "content": "claudia b. medeiros  print  email. 534 ... e-mail: santanche@ic.unicamp.br. phone: +55 (19) ... this email address is being protected from spambots. you need...", 
+        "email_list": [
+            "santanche@ic.unicamp.br"
+        ], 
+        "cite_url": "escience.ime.usp.br/claudia-ba...", 
+        "cite_name": "University of São Paulo", 
+        "title": "Claudia Bauzer Medeiros - eScience"
+    }
+]
